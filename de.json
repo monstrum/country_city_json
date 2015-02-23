@@ -1,6 +1,33 @@
 {
     "country": "Germany",
     "code": "DE",
+    "states": [
+        {
+            "name": "Hamburg",
+            "code": "HH",
+            "capital": "Hamburg"
+        },
+        {
+            "name": "Berlin",
+            "code": "BE",
+            "capital": "Berlin"
+        },
+        {
+            "name": "Bavaria",
+            "code": "BY",
+            "capital": "Munich"
+        },
+        {
+            "name": "Baden-Württemberg",
+            "code": "BW",
+            "capital": "Stuttgart"
+        },
+        {
+            "name": "Brandenburg",
+            "code": "BB",
+            "capital": "Postdam"
+        }
+    ],
     "cities": [
         {
             "city": "Zwota",
