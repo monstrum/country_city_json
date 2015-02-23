@@ -1,0 +1,146 @@
+{
+    "country": "Martinique",
+    "code": "MQ",
+    "cities": [
+        {
+            "city": "Saint-Pierre",
+            "region": "MQ",
+            "country": "MQ",
+            "latitude": "14.74383",
+            "longitude": "-61.17533"
+        },
+        {
+            "city": "Saint-Joseph",
+            "region": "MQ",
+            "country": "MQ",
+            "latitude": "14.66792",
+            "longitude": "-61.04558"
+        },
+        {
+            "city": "Sainte-Marie",
+            "region": "MQ",
+            "country": "MQ",
+            "latitude": "14.78392",
+            "longitude": "-60.99274"
+        },
+        {
+            "city": "Sainte-Luce",
+            "region": "MQ",
+            "country": "MQ",
+            "latitude": "14.46733",
+            "longitude": "-60.92708"
+        },
+        {
+            "city": "Rivi\u00e8re-Pilote",
+            "region": "MQ",
+            "country": "MQ",
+            "latitude": "14.47746",
+            "longitude": "-60.9035"
+        },
+        {
+            "city": "Petite Rivi\u00e8re Sal\u00e9e",
+            "region": "MQ",
+            "country": "MQ",
+            "latitude": "14.75",
+            "longitude": "-60.96667"
+        },
+        {
+            "city": "Le Vauclin",
+            "region": "MQ",
+            "country": "MQ",
+            "latitude": "14.54524",
+            "longitude": "-60.83883"
+        },
+        {
+            "city": "Les Trois-\u00celets",
+            "region": "MQ",
+            "country": "MQ",
+            "latitude": "14.539",
+            "longitude": "-61.03608"
+        },
+        {
+            "city": "Saint-Esprit",
+            "region": "MQ",
+            "country": "MQ",
+            "latitude": "14.55",
+            "longitude": "-60.93333"
+        },
+        {
+            "city": "Le Robert",
+            "region": "MQ",
+            "country": "MQ",
+            "latitude": "14.67751",
+            "longitude": "-60.94228"
+        },
+        {
+            "city": "Le Morne-Rouge",
+            "region": "MQ",
+            "country": "MQ",
+            "latitude": "14.76667",
+            "longitude": "-61.13333"
+        },
+        {
+            "city": "Le Marin",
+            "region": "MQ",
+            "country": "MQ",
+            "latitude": "14.47212",
+            "longitude": "-60.86973"
+        },
+        {
+            "city": "Le Lorrain",
+            "region": "MQ",
+            "country": "MQ",
+            "latitude": "14.83292",
+            "longitude": "-61.05667"
+        },
+        {
+            "city": "Le Lamentin",
+            "region": "MQ",
+            "country": "MQ",
+            "latitude": "14.608",
+            "longitude": "-61.00933"
+        },
+        {
+            "city": "Le Fran\u00e7ois",
+            "region": "MQ",
+            "country": "MQ",
+            "latitude": "14.61557",
+            "longitude": "-60.90308"
+        },
+        {
+            "city": "La Trinit\u00e9",
+            "region": "MQ",
+            "country": "MQ",
+            "latitude": "14.73758",
+            "longitude": "-60.96286"
+        },
+        {
+            "city": "Le Gros-Morne",
+            "region": "MQ",
+            "country": "MQ",
+            "latitude": "14.7",
+            "longitude": "-61"
+        },
+        {
+            "city": "Fort-de-France",
+            "region": "MQ",
+            "country": "MQ",
+            "latitude": "14.60892",
+            "longitude": "-61.07334"
+        },
+        {
+            "city": "Ducos",
+            "region": "MQ",
+            "country": "MQ",
+            "latitude": "14.57529",
+            "longitude": "-60.97453"
+        },
+        {
+            "city": "Basse-Pointe",
+            "region": "MQ",
+            "country": "MQ",
+            "latitude": "14.86954",
+            "longitude": "-61.11504"
+        }
+    ]
+}

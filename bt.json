@@ -1,0 +1,83 @@
+{
+    "country": "Bhutan",
+    "code": "BT",
+    "cities": [
+        {
+            "city": "Tongsa",
+            "region": "21",
+            "country": "BT",
+            "latitude": "27.51667",
+            "longitude": "90.5"
+        },
+        {
+            "city": "Thimphu",
+            "region": "20",
+            "country": "BT",
+            "latitude": "27.46609",
+            "longitude": "89.64191"
+        },
+        {
+            "city": "Tashi Yangtse",
+            "region": "24",
+            "country": "BT",
+            "latitude": "27.58333",
+            "longitude": "91.46667"
+        },
+        {
+            "city": "Daga",
+            "region": "08",
+            "country": "BT",
+            "latitude": "27.06667",
+            "longitude": "89.88333"
+        },
+        {
+            "city": "Phuntsholing",
+            "region": "06",
+            "country": "BT",
+            "latitude": "26.85164",
+            "longitude": "89.38837"
+        },
+        {
+            "city": "Paro",
+            "region": "13",
+            "country": "BT",
+            "latitude": "27.43333",
+            "longitude": "89.41667"
+        },
+        {
+            "city": "Pajo",
+            "region": "00",
+            "country": "BT",
+            "latitude": "27.53333",
+            "longitude": "89.88333"
+        },
+        {
+            "city": "Mongar",
+            "region": "12",
+            "country": "BT",
+            "latitude": "27.25",
+            "longitude": "91.2"
+        },
+        {
+            "city": "Ha",
+            "region": "10",
+            "country": "BT",
+            "latitude": "27.36667",
+            "longitude": "89.28333"
+        },
+        {
+            "city": "Gasa",
+            "region": "23",
+            "country": "BT",
+            "latitude": "27.90372",
+            "longitude": "89.72689"
+        },
+        {
+            "city": "Panbang",
+            "region": "18",
+            "country": "BT",
+            "latitude": "26.86667",
+            "longitude": "90.98333"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "country": "Maldives",
+    "code": "MV",
+    "cities": [
+        {
+            "city": "Meedhoo",
+            "region": "01",
+            "country": "MV",
+            "latitude": "-0.58333",
+            "longitude": "73.23333"
+        },
+        {
+            "city": "Male",
+            "region": "40",
+            "country": "MV",
+            "latitude": "4.1748",
+            "longitude": "73.50888"
+        },
+        {
+            "city": "Hithadhoo",
+            "region": "01",
+            "country": "MV",
+            "latitude": "-0.6",
+            "longitude": "73.08333"
+        },
+        {
+            "city": "Mahibadhoo",
+            "region": "00",
+            "country": "MV",
+            "latitude": "3.78333",
+            "longitude": "72.96667"
+        },
+        {
+            "city": "Eydhafushi",
+            "region": "00",
+            "country": "MV",
+            "latitude": "5.10327",
+            "longitude": "73.07078"
+        },
+        {
+            "city": "Kudahuvadhoo",
+            "region": "00",
+            "country": "MV",
+            "latitude": "2.67075",
+            "longitude": "72.89437"
+        },
+        {
+            "city": "Thinadhoo",
+            "region": "00",
+            "country": "MV",
+            "latitude": "0.53333",
+            "longitude": "72.93333"
+        },
+        {
+            "city": "Dhidhdhoo",
+            "region": "00",
+            "country": "MV",
+            "latitude": "6.88333",
+            "longitude": "73.1"
+        },
+        {
+            "city": "Kulhudhuffushi",
+            "region": "00",
+            "country": "MV",
+            "latitude": "6.62207",
+            "longitude": "73.06998"
+        },
+        {
+            "city": "Naifaru",
+            "region": "38",
+            "country": "MV",
+            "latitude": "5.44438",
+            "longitude": "73.36571"
+        },
+        {
+            "city": "Muli",
+            "region": "41",
+            "country": "MV",
+            "latitude": "2.91667",
+            "longitude": "73.56667"
+        },
+        {
+            "city": "Manadhoo",
+            "region": "43",
+            "country": "MV",
+            "latitude": "5.76667",
+            "longitude": "73.38333"
+        },
+        {
+            "city": "Ugoofaaru",
+            "region": "44",
+            "country": "MV",
+            "latitude": "5.66667",
+            "longitude": "73"
+        },
+        {
+            "city": "Funadhoo",
+            "region": "00",
+            "country": "MV",
+            "latitude": "6.15",
+            "longitude": "73.26667"
+        },
+        {
+            "city": "Vilufushi",
+            "region": "",
+            "country": "MV",
+            "latitude": "2.50306",
+            "longitude": "73.30859"
+        },
+        {
+            "city": "Madifushi",
+            "region": "",
+            "country": "MV",
+            "latitude": "2.35582",
+            "longitude": "73.35473"
+        }
+    ]
+}

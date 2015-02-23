@@ -1,0 +1,2232 @@
+{
+    "country": "Palestinian Territory, Occupied",
+    "code": "PS",
+    "cities": [
+        {
+            "city": "Sh\u016bkat a\u015f \u015e\u016bf\u012b",
+            "region": "GZ",
+            "country": "PS",
+            "latitude": "31.25997",
+            "longitude": "34.2826"
+        },
+        {
+            "city": "Rafa\u1e29",
+            "region": "GZ",
+            "country": "PS",
+            "latitude": "31.287",
+            "longitude": "34.25952"
+        },
+        {
+            "city": "An Nu\u015fayr\u0101t",
+            "region": "GZ",
+            "country": "PS",
+            "latitude": "31.44861",
+            "longitude": "34.3925"
+        },
+        {
+            "city": "Khuz\u0101\u2018ah",
+            "region": "GZ",
+            "country": "PS",
+            "latitude": "31.30675",
+            "longitude": "34.3611"
+        },
+        {
+            "city": "Kh\u0101n Y\u016bnis",
+            "region": "GZ",
+            "country": "PS",
+            "latitude": "31.34018",
+            "longitude": "34.30627"
+        },
+        {
+            "city": "Jab\u0101ly\u0101",
+            "region": "GZ",
+            "country": "PS",
+            "latitude": "31.52722",
+            "longitude": "34.48634"
+        },
+        {
+            "city": "Gaza",
+            "region": "GZ",
+            "country": "PS",
+            "latitude": "31.5",
+            "longitude": "34.46667"
+        },
+        {
+            "city": "Dayr al Bala\u1e29",
+            "region": "GZ",
+            "country": "PS",
+            "latitude": "31.41655",
+            "longitude": "34.34525"
+        },
+        {
+            "city": "Bayt L\u0101\u2019\u012by\u0101",
+            "region": "GZ",
+            "country": "PS",
+            "latitude": "31.5464",
+            "longitude": "34.49514"
+        },
+        {
+            "city": "Bayt \u1e28\u0101n\u016bn",
+            "region": "GZ",
+            "country": "PS",
+            "latitude": "31.5353",
+            "longitude": "34.53579"
+        },
+        {
+            "city": "Ban\u012b Suhayl\u0101",
+            "region": "GZ",
+            "country": "PS",
+            "latitude": "31.34337",
+            "longitude": "34.32337"
+        },
+        {
+            "city": "Al Fukhkh\u0101r\u012b",
+            "region": "GZ",
+            "country": "PS",
+            "latitude": "31.29278",
+            "longitude": "34.33061"
+        },
+        {
+            "city": "Al Burayj",
+            "region": "GZ",
+            "country": "PS",
+            "latitude": "31.43944",
+            "longitude": "34.40306"
+        },
+        {
+            "city": "\u2018Abas\u0101n al Kab\u012brah",
+            "region": "GZ",
+            "country": "PS",
+            "latitude": "31.31913",
+            "longitude": "34.34005"
+        },
+        {
+            "city": "Zub\u016bb\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.54501",
+            "longitude": "35.22394"
+        },
+        {
+            "city": "Zayt\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.38678",
+            "longitude": "35.04903"
+        },
+        {
+            "city": "Zayt\u0101 Jamm\u0101\u2018\u012bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.13698",
+            "longitude": "35.18595"
+        },
+        {
+            "city": "Zaw\u0101t\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.2461",
+            "longitude": "35.2265"
+        },
+        {
+            "city": "Za\u2018tarah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.67361",
+            "longitude": "35.25662"
+        },
+        {
+            "city": "Ya\u0163\u0163ah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.45",
+            "longitude": "35.08333"
+        },
+        {
+            "city": "Yatm\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.10889",
+            "longitude": "35.26909"
+        },
+        {
+            "city": "Y\u0101s\u016bf",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.10841",
+            "longitude": "35.23784"
+        },
+        {
+            "city": "Y\u0101\u015f\u012bd",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.29638",
+            "longitude": "35.27968"
+        },
+        {
+            "city": "Ya\u2018bad",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.44566",
+            "longitude": "35.16822"
+        },
+        {
+            "city": "W\u0101d\u012b F\u016bk\u012bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.70702",
+            "longitude": "35.10366"
+        },
+        {
+            "city": "\u2018\u016ar\u012bf",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.15949",
+            "longitude": "35.22228"
+        },
+        {
+            "city": "\u016adalah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.15363",
+            "longitude": "35.27646"
+        },
+        {
+            "city": "Turmus\u2018ayy\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.03538",
+            "longitude": "35.28564"
+        },
+        {
+            "city": "\u0162\u016blkarm",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.31037",
+            "longitude": "35.02863"
+        },
+        {
+            "city": "\u0162\u016bb\u0101s",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.32091",
+            "longitude": "35.36989"
+        },
+        {
+            "city": "Tay\u0101s\u012br",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.34042",
+            "longitude": "35.39604"
+        },
+        {
+            "city": "Tarq\u016bmiyah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.57551",
+            "longitude": "35.01223"
+        },
+        {
+            "city": "\u0162amm\u016bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.2825",
+            "longitude": "35.38361"
+        },
+        {
+            "city": "\u0162all\u016bz\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.27056",
+            "longitude": "35.29496"
+        },
+        {
+            "city": "Tall",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.20068",
+            "longitude": "35.21293"
+        },
+        {
+            "city": "Talf\u012bt",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.08664",
+            "longitude": "35.29094"
+        },
+        {
+            "city": "Taff\u016b\u1e29",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.53855",
+            "longitude": "35.04966"
+        },
+        {
+            "city": "\u015e\u016br\u012bf",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.65149",
+            "longitude": "35.06545"
+        },
+        {
+            "city": "Surd\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.93709",
+            "longitude": "35.20321"
+        },
+        {
+            "city": "S\u012br\u012bs",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.32914",
+            "longitude": "35.2891"
+        },
+        {
+            "city": "Sinjil",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.03334",
+            "longitude": "35.26545"
+        },
+        {
+            "city": "Silw\u0101d",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.97625",
+            "longitude": "35.2613"
+        },
+        {
+            "city": "S\u012blat az\u0327 Z\u0327ahr",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.31934",
+            "longitude": "35.18418"
+        },
+        {
+            "city": "S\u012blat al \u1e28\u0101rith\u012byah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.50909",
+            "longitude": "35.22358"
+        },
+        {
+            "city": "Sa\u2018\u012br",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.57855",
+            "longitude": "35.14017"
+        },
+        {
+            "city": "Shuqb\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.98655",
+            "longitude": "35.03842"
+        },
+        {
+            "city": "Sh\u016bfah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.27551",
+            "longitude": "35.08135"
+        },
+        {
+            "city": "\u015eayd\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.38489",
+            "longitude": "35.11856"
+        },
+        {
+            "city": "\u015ear\u0163ah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.10394",
+            "longitude": "35.09279"
+        },
+        {
+            "city": "\u015earrah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.2105",
+            "longitude": "35.18966"
+        },
+        {
+            "city": "\u015e\u0101n\u016br",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.35608",
+            "longitude": "35.24537"
+        },
+        {
+            "city": "Sann\u012br\u012byah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.12877",
+            "longitude": "35.04652"
+        },
+        {
+            "city": "S\u0101lim",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.209",
+            "longitude": "35.33289"
+        },
+        {
+            "city": "Salf\u012bt",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.08301",
+            "longitude": "35.188"
+        },
+        {
+            "city": "\u015eaff\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.90668",
+            "longitude": "35.05873"
+        },
+        {
+            "city": "Sabas\u0163\u012byah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.27528",
+            "longitude": "35.19964"
+        },
+        {
+            "city": "Rumm\u0101nah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.52377",
+            "longitude": "35.20514"
+        },
+        {
+            "city": "R\u016bjayb",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.19031",
+            "longitude": "35.29226"
+        },
+        {
+            "city": "R\u0101s Karkar",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.9424",
+            "longitude": "35.10773"
+        },
+        {
+            "city": "Rant\u012bs",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.02797",
+            "longitude": "35.01879"
+        },
+        {
+            "city": "Ramm\u016bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.93011",
+            "longitude": "35.30032"
+        },
+        {
+            "city": "R\u0101m\u012bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.28347",
+            "longitude": "35.1487"
+        },
+        {
+            "city": "Ramallah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.89502",
+            "longitude": "35.18459"
+        },
+        {
+            "city": "R\u0101f\u0101t",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.07806",
+            "longitude": "35.04417"
+        },
+        {
+            "city": "R\u0101f\u0101t",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.87096",
+            "longitude": "35.19182"
+        },
+        {
+            "city": "R\u0101b\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.38659",
+            "longitude": "35.38524"
+        },
+        {
+            "city": "Qu\u015frah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.08543",
+            "longitude": "35.33005"
+        },
+        {
+            "city": "Q\u016b\u015f\u012bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.23829",
+            "longitude": "35.18297"
+        },
+        {
+            "city": "Q\u012brah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.12214",
+            "longitude": "35.17173"
+        },
+        {
+            "city": "Qiby\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.97799",
+            "longitude": "35.01141"
+        },
+        {
+            "city": "Qa\u0163annah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.82643",
+            "longitude": "35.1149"
+        },
+        {
+            "city": "Qary\u016bt",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.07004",
+            "longitude": "35.29432"
+        },
+        {
+            "city": "Qar\u0101wat Ban\u012b Zayd",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.05352",
+            "longitude": "35.12693"
+        },
+        {
+            "city": "Qar\u0101wat Ban\u012b \u1e28asan",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.12568",
+            "longitude": "35.10061"
+        },
+        {
+            "city": "Qalq\u012blyah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.18924",
+            "longitude": "34.97034"
+        },
+        {
+            "city": "Qalandiy\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.86289",
+            "longitude": "35.20816"
+        },
+        {
+            "city": "Qaff\u012bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.43274",
+            "longitude": "35.08266"
+        },
+        {
+            "city": "Qab\u0101\u0163\u012byah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.41255",
+            "longitude": "35.28823"
+        },
+        {
+            "city": "Qabal\u0101n",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.10182",
+            "longitude": "35.28938"
+        },
+        {
+            "city": "N\u016bb\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.61058",
+            "longitude": "35.03504"
+        },
+        {
+            "city": "Ni\u2018l\u012bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.94746",
+            "longitude": "35.02031"
+        },
+        {
+            "city": "Nazlat \u2018\u012as\u00e1",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.41562",
+            "longitude": "35.05888"
+        },
+        {
+            "city": "Na\u1e29\u1e29\u0101l\u012bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.68389",
+            "longitude": "35.11762"
+        },
+        {
+            "city": "Nablus",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.22111",
+            "longitude": "35.25444"
+        },
+        {
+            "city": "Mikhm\u0101s",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.8721",
+            "longitude": "35.27596"
+        },
+        {
+            "city": "Misilyah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.38613",
+            "longitude": "35.2878"
+        },
+        {
+            "city": "Mirkah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.39583",
+            "longitude": "35.23807"
+        },
+        {
+            "city": "Ban\u012b Zayd ash Sh\u0101rq\u012byah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.04935",
+            "longitude": "35.16593"
+        },
+        {
+            "city": "Maythal\u016bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.34798",
+            "longitude": "35.27446"
+        },
+        {
+            "city": "Mas\u1e29ah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.10828",
+            "longitude": "35.05096"
+        },
+        {
+            "city": "Mardah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.11417",
+            "longitude": "35.1983"
+        },
+        {
+            "city": "Majdal Ban\u012b F\u0101\u1e11il",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.08357",
+            "longitude": "35.36378"
+        },
+        {
+            "city": "M\u0101dam\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.18588",
+            "longitude": "35.23114"
+        },
+        {
+            "city": "Al Lubban ash Sharq\u012byah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.07011",
+            "longitude": "35.2403"
+        },
+        {
+            "city": "Kufayr\u0101t",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.4438",
+            "longitude": "35.20184"
+        },
+        {
+            "city": "Kifl \u1e28\u0101rith",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.11974",
+            "longitude": "35.15745"
+        },
+        {
+            "city": "Ar Ram\u0101\u1e11\u012bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.37952",
+            "longitude": "34.91246"
+        },
+        {
+            "city": "Qalqas",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.49212",
+            "longitude": "35.09535"
+        },
+        {
+            "city": "Imr\u012bsh",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.46895",
+            "longitude": "35.00819"
+        },
+        {
+            "city": "Mar\u0101\u1e29 Rabb\u0101\u1e29",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.63406",
+            "longitude": "35.18688"
+        },
+        {
+            "city": "Dayr al \u2018Asal al Fawq\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.46832",
+            "longitude": "34.93832"
+        },
+        {
+            "city": "Bayt Ta\u2018mar",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.67927",
+            "longitude": "35.23986"
+        },
+        {
+            "city": "Bayt \u1e28asan",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.2376",
+            "longitude": "35.40407"
+        },
+        {
+            "city": "Bayt \u2018Aww\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.50911",
+            "longitude": "34.94938"
+        },
+        {
+            "city": "Jann\u0101tah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.66958",
+            "longitude": "35.21961"
+        },
+        {
+            "city": "Ash Shaykh Sa\u2018d",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.73721",
+            "longitude": "35.25742"
+        },
+        {
+            "city": "An Na\u015f\u015f\u0101r\u012byah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.23647",
+            "longitude": "35.38711"
+        },
+        {
+            "city": "Kharbath\u0101 al Mi\u015fb\u0101\u1e29",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.88546",
+            "longitude": "35.07185"
+        },
+        {
+            "city": "Al Majd",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.48056",
+            "longitude": "34.95108"
+        },
+        {
+            "city": "Karmah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.45182",
+            "longitude": "35.02689"
+        },
+        {
+            "city": "Khirbat al Burj",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.44157",
+            "longitude": "34.90796"
+        },
+        {
+            "city": "Shuy\u016bkh al \u2018Arr\u016bb",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.61735",
+            "longitude": "35.14366"
+        },
+        {
+            "city": "Khirbat Ab\u016b Fal\u0101\u1e29",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.00806",
+            "longitude": "35.30449"
+        },
+        {
+            "city": "Kharbath\u0101 Ban\u012b \u1e28\u0101rith",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.94508",
+            "longitude": "35.07194"
+        },
+        {
+            "city": "Kh\u0101r\u0101s",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.6148",
+            "longitude": "35.04174"
+        },
+        {
+            "city": "Khallat al Mayyah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.44222",
+            "longitude": "35.14286"
+        },
+        {
+            "city": "Kawbar",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.99067",
+            "longitude": "35.15807"
+        },
+        {
+            "city": "Kafr Z\u012bb\u0101d",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.22584",
+            "longitude": "35.07179"
+        },
+        {
+            "city": "Kafr Thulth",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.1533",
+            "longitude": "35.04698"
+        },
+        {
+            "city": "Kafr \u015e\u016br",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.24366",
+            "longitude": "35.06394"
+        },
+        {
+            "city": "Kafr R\u0101\u2018\u012b",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.37398",
+            "longitude": "35.15451"
+        },
+        {
+            "city": "Kafr Q\u016bd",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.45661",
+            "longitude": "35.22649"
+        },
+        {
+            "city": "Kafr Qall\u012bl",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.19037",
+            "longitude": "35.2759"
+        },
+        {
+            "city": "Kafr Qadd\u016bm",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.22139",
+            "longitude": "35.14222"
+        },
+        {
+            "city": "Kafr M\u0101lik",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.98825",
+            "longitude": "35.30691"
+        },
+        {
+            "city": "Kafr Jamm\u0101l",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.22551",
+            "longitude": "35.04337"
+        },
+        {
+            "city": "Kafr D\u0101n",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.47927",
+            "longitude": "35.25566"
+        },
+        {
+            "city": "Kafr \u2018Ayn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.04758",
+            "longitude": "35.12038"
+        },
+        {
+            "city": "Kafr al Labad",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.29718",
+            "longitude": "35.10971"
+        },
+        {
+            "city": "Kafr ad D\u012bk",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.06635",
+            "longitude": "35.08303"
+        },
+        {
+            "city": "Kafr \u2018Abb\u016bsh",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.22353",
+            "longitude": "35.08504"
+        },
+        {
+            "city": "J\u016br\u012bsh",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.10188",
+            "longitude": "35.32188"
+        },
+        {
+            "city": "J\u016brat ash Sham\u2018ah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.65051",
+            "longitude": "35.17001"
+        },
+        {
+            "city": "Al Judayyidah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.33541",
+            "longitude": "35.30108"
+        },
+        {
+            "city": "J\u012bt",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.21372",
+            "longitude": "35.17094"
+        },
+        {
+            "city": "Jifn\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.96192",
+            "longitude": "35.21338"
+        },
+        {
+            "city": "Jayy\u016bs",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.20125",
+            "longitude": "35.03416"
+        },
+        {
+            "city": "Jan\u012bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.45884",
+            "longitude": "35.2951"
+        },
+        {
+            "city": "Jamm\u0101\u2018\u012bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.13164",
+            "longitude": "35.20404"
+        },
+        {
+            "city": "Jalqam\u016bs",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.42464",
+            "longitude": "35.36421"
+        },
+        {
+            "city": "Jalb\u016bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.45957",
+            "longitude": "35.41516"
+        },
+        {
+            "city": "Al Jalamah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.50821",
+            "longitude": "35.31317"
+        },
+        {
+            "city": "Jaba\u2018",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.32409",
+            "longitude": "35.22132"
+        },
+        {
+            "city": "Jaba\u2018",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.85727",
+            "longitude": "35.25868"
+        },
+        {
+            "city": "Imm\u0101t\u012bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.19164",
+            "longitude": "35.15836"
+        },
+        {
+            "city": "\u2018Ill\u0101r",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.37024",
+            "longitude": "35.10708"
+        },
+        {
+            "city": "Ikt\u0101bah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.32604",
+            "longitude": "35.05769"
+        },
+        {
+            "city": "Idhn\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.55874",
+            "longitude": "34.97436"
+        },
+        {
+            "city": "\u1e28\u016bw\u0101rah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.15224",
+            "longitude": "35.25673"
+        },
+        {
+            "city": "\u1e28\u016bs\u0101n",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.70931",
+            "longitude": "35.13475"
+        },
+        {
+            "city": "\u1e28izm\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.83333",
+            "longitude": "35.26667"
+        },
+        {
+            "city": "\u1e28\u0101ris",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.11424",
+            "longitude": "35.14192"
+        },
+        {
+            "city": "\u1e28al\u1e29\u016bl",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.57858",
+            "longitude": "35.10544"
+        },
+        {
+            "city": "\u1e28ajjah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.20472",
+            "longitude": "35.13083"
+        },
+        {
+            "city": "\u1e28ablah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.16523",
+            "longitude": "34.97748"
+        },
+        {
+            "city": "Far\u2018\u016bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.28613",
+            "longitude": "35.02326"
+        },
+        {
+            "city": "Farkhah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.06878",
+            "longitude": "35.15286"
+        },
+        {
+            "city": "Faqq\u016b\u2018ah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.48998",
+            "longitude": "35.40163"
+        },
+        {
+            "city": "Fa\u1e29mah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.38291",
+            "longitude": "35.17912"
+        },
+        {
+            "city": "D\u016br\u0101 al Qar\u2018",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.95862",
+            "longitude": "35.22714"
+        },
+        {
+            "city": "D\u016br\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.507",
+            "longitude": "35.02652"
+        },
+        {
+            "city": "Domea",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.05632",
+            "longitude": "35.36705"
+        },
+        {
+            "city": "Dhann\u0101bah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.31341",
+            "longitude": "35.04144"
+        },
+        {
+            "city": "Dayr Sharaf",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.25326",
+            "longitude": "35.18893"
+        },
+        {
+            "city": "Dayr Qidd\u012bs",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.94862",
+            "longitude": "35.04437"
+        },
+        {
+            "city": "Dayr Jar\u012br",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.96463",
+            "longitude": "35.294"
+        },
+        {
+            "city": "Dayr Istiy\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.13096",
+            "longitude": "35.13963"
+        },
+        {
+            "city": "Dayr Ibz\u012b\u2018",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.91727",
+            "longitude": "35.12105"
+        },
+        {
+            "city": "Dayr Dibw\u0101n",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.91009",
+            "longitude": "35.27105"
+        },
+        {
+            "city": "Dayr Ball\u016b\u0163",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.06443",
+            "longitude": "35.02556"
+        },
+        {
+            "city": "Dayr as S\u016bd\u0101n",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.03393",
+            "longitude": "35.14874"
+        },
+        {
+            "city": "Dayr al \u1e28a\u0163ab",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.21734",
+            "longitude": "35.32127"
+        },
+        {
+            "city": "Dayr al Ghu\u015f\u016bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.35244",
+            "longitude": "35.07689"
+        },
+        {
+            "city": "Dayr Ab\u016b Mash\u2018al",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.99881",
+            "longitude": "35.06844"
+        },
+        {
+            "city": "Dayr Ab\u016b \u1e10a\u2018\u012bf",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.45601",
+            "longitude": "35.36164"
+        },
+        {
+            "city": "Bur\u016bq\u012bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.07216",
+            "longitude": "35.09943"
+        },
+        {
+            "city": "Burq\u012bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.45461",
+            "longitude": "35.26076"
+        },
+        {
+            "city": "Burqah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.30177",
+            "longitude": "35.19263"
+        },
+        {
+            "city": "Burq\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.89685",
+            "longitude": "35.25522"
+        },
+        {
+            "city": "B\u016br\u012bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.1846",
+            "longitude": "35.24812"
+        },
+        {
+            "city": "Budrus",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.96687",
+            "longitude": "34.99425"
+        },
+        {
+            "city": "Bi\u2019r Zayt",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.96969",
+            "longitude": "35.2015"
+        },
+        {
+            "city": "B\u012br Nab\u0101l\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.8508",
+            "longitude": "35.2036"
+        },
+        {
+            "city": "Bil\u2018\u012bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.92835",
+            "longitude": "35.07204"
+        },
+        {
+            "city": "Bidd\u016b",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.83515",
+            "longitude": "35.1476"
+        },
+        {
+            "city": "Biddiy\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.1146",
+            "longitude": "35.08028"
+        },
+        {
+            "city": "Bazz\u0101r\u012byah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.30798",
+            "longitude": "35.16593"
+        },
+        {
+            "city": "Bayt Wazan",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.23091",
+            "longitude": "35.21604"
+        },
+        {
+            "city": "Bayt \u2018\u016ar at Ta\u1e29t\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.89609",
+            "longitude": "35.08178"
+        },
+        {
+            "city": "Bayt\u016bniy\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.89038",
+            "longitude": "35.16834"
+        },
+        {
+            "city": "Bayt Umr\u012bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.29204",
+            "longitude": "35.21533"
+        },
+        {
+            "city": "Bayt S\u016br\u012bk",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.82396",
+            "longitude": "35.15"
+        },
+        {
+            "city": "Bayt S\u012br\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.89018",
+            "longitude": "35.04621"
+        },
+        {
+            "city": "Bayt S\u0101\u1e29\u016br",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.70548",
+            "longitude": "35.19992"
+        },
+        {
+            "city": "Bayt Q\u0101d",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.46968",
+            "longitude": "35.35626"
+        },
+        {
+            "city": "Bayt Liqy\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.87107",
+            "longitude": "35.06839"
+        },
+        {
+            "city": "Bayt L\u012bd",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.26089",
+            "longitude": "35.13169"
+        },
+        {
+            "city": "Bethlehem",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.70619",
+            "longitude": "35.20032"
+        },
+        {
+            "city": "Bayt K\u0101\u1e29il",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.57011",
+            "longitude": "35.06502"
+        },
+        {
+            "city": "Bayt J\u0101l\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.71545",
+            "longitude": "35.18788"
+        },
+        {
+            "city": "Bayt \u2018An\u0101n",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.85069",
+            "longitude": "35.11248"
+        },
+        {
+            "city": "Bayt\u012bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.9291",
+            "longitude": "35.23745"
+        },
+        {
+            "city": "Bayt Immar",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.61667",
+            "longitude": "35.1"
+        },
+        {
+            "city": "Baytill\u016b",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.97578",
+            "longitude": "35.11533"
+        },
+        {
+            "city": "Bayt \u012ab\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.23631",
+            "longitude": "35.21085"
+        },
+        {
+            "city": "Bayt F\u016br\u012bk",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.17689",
+            "longitude": "35.33541"
+        },
+        {
+            "city": "Bayt Fajj\u0101r",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.6221",
+            "longitude": "35.15385"
+        },
+        {
+            "city": "Bayt Duqq\u016b",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.85911",
+            "longitude": "35.13124"
+        },
+        {
+            "city": "Bayt Dajan",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.19303",
+            "longitude": "35.37127"
+        },
+        {
+            "city": "Bayt Awl\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.59618",
+            "longitude": "35.0296"
+        },
+        {
+            "city": "Bayt\u0101 al Fawq\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.1426",
+            "longitude": "35.28774"
+        },
+        {
+            "city": "Batt\u012br",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.72747",
+            "longitude": "35.13694"
+        },
+        {
+            "city": "Bar\u0163a\u2018ah ash Sharq\u012byah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.47304",
+            "longitude": "35.0936"
+        },
+        {
+            "city": "Bardalah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.38632",
+            "longitude": "35.48084"
+        },
+        {
+            "city": "B\u0101qah ash Sharq\u012byah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.41032",
+            "longitude": "35.07054"
+        },
+        {
+            "city": "B\u0101qat al \u1e28a\u0163ab",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.20434",
+            "longitude": "35.11433"
+        },
+        {
+            "city": "Ban\u012b Na\u2018\u012bm",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.51591",
+            "longitude": "35.16416"
+        },
+        {
+            "city": "Bal\u0101\u0163ah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.21207",
+            "longitude": "35.28561"
+        },
+        {
+            "city": "Bal\u2018\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.33392",
+            "longitude": "35.1116"
+        },
+        {
+            "city": "\u2018Azz\u016bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.17496",
+            "longitude": "35.05752"
+        },
+        {
+            "city": "Az Z\u0101wiyah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.09627",
+            "longitude": "35.03982"
+        },
+        {
+            "city": "Az\u0327 Z\u0327\u0101hir\u012byah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.40967",
+            "longitude": "34.97329"
+        },
+        {
+            "city": "Az Zab\u0101bidah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.38647",
+            "longitude": "35.32512"
+        },
+        {
+            "city": "\u2018Azm\u016b\u0163",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.22297",
+            "longitude": "35.30989"
+        },
+        {
+            "city": "\u2018Ayn Yabr\u016bd",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.94918",
+            "longitude": "35.25122"
+        },
+        {
+            "city": "\u2018Ayn \u2018Ar\u012bk",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.90613",
+            "longitude": "35.14254"
+        },
+        {
+            "city": "\u2018Aynab\u016bs",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.14706",
+            "longitude": "35.24513"
+        },
+        {
+            "city": "Usarin",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.12499",
+            "longitude": "35.30999"
+        },
+        {
+            "city": "\u2018Awart\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.16108",
+            "longitude": "35.28388"
+        },
+        {
+            "city": "A\u0163 \u0162\u012brah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.87022",
+            "longitude": "35.12682"
+        },
+        {
+            "city": "\u2018Att\u012bl",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.36935",
+            "longitude": "35.07189"
+        },
+        {
+            "city": "A\u0163 \u0162aybah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.51494",
+            "longitude": "35.18574"
+        },
+        {
+            "city": "A\u0163 \u0162aybah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.95388",
+            "longitude": "35.2998"
+        },
+        {
+            "city": "\u2018A\u0163\u0101rah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.00058",
+            "longitude": "35.20466"
+        },
+        {
+            "city": "As S\u0101wiyah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.08537",
+            "longitude": "35.25782"
+        },
+        {
+            "city": "As Sam\u016b\u2018",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.39671",
+            "longitude": "35.06611"
+        },
+        {
+            "city": "\u2018A\u015f\u012brah ash Sham\u0101l\u012byah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.2507",
+            "longitude": "35.26925"
+        },
+        {
+            "city": "\u2018A\u015f\u012brah al Qibl\u012byah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.17842",
+            "longitude": "35.21569"
+        },
+        {
+            "city": "Ash Shuy\u016bkh",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.57791",
+            "longitude": "35.14947"
+        },
+        {
+            "city": "Ash Shuhad\u0101\u2019",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.42949",
+            "longitude": "35.27112"
+        },
+        {
+            "city": "Ar\u0163\u0101s",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.68333",
+            "longitude": "35.18333"
+        },
+        {
+            "city": "Ar R\u012b\u1e29\u012byah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.4695",
+            "longitude": "35.07781"
+        },
+        {
+            "city": "\u2018Arr\u0101nah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.4972",
+            "longitude": "35.32271"
+        },
+        {
+            "city": "Ar R\u0101m",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.85539",
+            "longitude": "35.23402"
+        },
+        {
+            "city": "\u2018Arr\u0101bah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.40517",
+            "longitude": "35.20189"
+        },
+        {
+            "city": "Jericho",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.86667",
+            "longitude": "35.45"
+        },
+        {
+            "city": "Al \u2018Araqa",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.47057",
+            "longitude": "35.20027"
+        },
+        {
+            "city": "\u2018Aqrabah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.1275",
+            "longitude": "35.34222"
+        },
+        {
+            "city": "\u2018Anzah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.35916",
+            "longitude": "35.22011"
+        },
+        {
+            "city": "An Nuway\u2018imah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.89212",
+            "longitude": "35.43549"
+        },
+        {
+            "city": "An Nazlah ash Sharq\u012byah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.41072",
+            "longitude": "35.10916"
+        },
+        {
+            "city": "An N\u0101q\u016brah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.26506",
+            "longitude": "35.20135"
+        },
+        {
+            "city": "An Nab\u012b Ily\u0101s",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.18482",
+            "longitude": "35.0176"
+        },
+        {
+            "city": "\u2018An\u012bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.50259",
+            "longitude": "35.16668"
+        },
+        {
+            "city": "\u2018An\u0101t\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.80924",
+            "longitude": "35.25902"
+        },
+        {
+            "city": "\u2018Anabt\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.30773",
+            "longitude": "35.11788"
+        },
+        {
+            "city": "Al Y\u0101m\u016bn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.4846",
+            "longitude": "35.2267"
+        },
+        {
+            "city": "Al Qubaybah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.84028",
+            "longitude": "35.13627"
+        },
+        {
+            "city": "Al Mughayyir",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.42228",
+            "longitude": "35.38476"
+        },
+        {
+            "city": "Al Mughayyir",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.0195",
+            "longitude": "35.34738"
+        },
+        {
+            "city": "Al Midyah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.93592",
+            "longitude": "35.005"
+        },
+        {
+            "city": "Al Mazra\u2018ah ash Sharq\u012byah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.00018",
+            "longitude": "35.28152"
+        },
+        {
+            "city": "Az Zayt\u016bn\u012byah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.95402",
+            "longitude": "35.1624"
+        },
+        {
+            "city": "Al Lubban al Gharb\u012b",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.03504",
+            "longitude": "35.03928"
+        },
+        {
+            "city": "Al Kha\u1e11ir",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.69405",
+            "longitude": "35.16685"
+        },
+        {
+            "city": "Hebron",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.53333",
+            "longitude": "35.1"
+        },
+        {
+            "city": "Al Judayrah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.86025",
+            "longitude": "35.19745"
+        },
+        {
+            "city": "Al J\u012bb",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.85293",
+            "longitude": "35.18511"
+        },
+        {
+            "city": "Al J\u0101niyah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.93848",
+            "longitude": "35.12142"
+        },
+        {
+            "city": "Al H\u0101shim\u012byah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.46392",
+            "longitude": "35.21938"
+        },
+        {
+            "city": "Al Fa\u015f\u0101yil",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.02509",
+            "longitude": "35.44351"
+        },
+        {
+            "city": "Al Fandaq\u016bm\u012byah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.3206",
+            "longitude": "35.20329"
+        },
+        {
+            "city": "Al B\u012brah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.90721",
+            "longitude": "35.22061"
+        },
+        {
+            "city": "Al \u2018Ayzar\u012byah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.77078",
+            "longitude": "35.26916"
+        },
+        {
+            "city": "Al \u2018Awj\u0101",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.95069",
+            "longitude": "35.46756"
+        },
+        {
+            "city": "Al \u2018A\u0163\u0163\u0101rah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.32571",
+            "longitude": "35.16373"
+        },
+        {
+            "city": "\u2018Ajj\u016bl",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.02232",
+            "longitude": "35.17969"
+        },
+        {
+            "city": "\u2018Ajjah",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.36074",
+            "longitude": "35.1959"
+        },
+        {
+            "city": "\u2018Ibwayn",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.03144",
+            "longitude": "35.19992"
+        },
+        {
+            "city": "Ab\u016b Qashsh",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.94883",
+            "longitude": "35.18426"
+        },
+        {
+            "city": "Ab\u016b D\u012bs",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.76105",
+            "longitude": "35.26793"
+        },
+        {
+            "city": "\u2018\u0100b\u016bd",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.01637",
+            "longitude": "35.06833"
+        },
+        {
+            "city": "An Na\u015fr",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.28137",
+            "longitude": "34.30253"
+        },
+        {
+            "city": "\u2018Abas\u0101n al Jad\u012bdah",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.34158",
+            "longitude": "34.34592"
+        },
+        {
+            "city": "Al Qar\u0101rah",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.37389",
+            "longitude": "34.34085"
+        },
+        {
+            "city": "Umm an Na\u015fr",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.56084",
+            "longitude": "34.51863"
+        },
+        {
+            "city": "Ju\u1e29r ad D\u012bk",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.45571",
+            "longitude": "34.43719"
+        },
+        {
+            "city": "Az Zuw\u0101ydah",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.43954",
+            "longitude": "34.38053"
+        },
+        {
+            "city": "Al Mu\u015faddar",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.41052",
+            "longitude": "34.37802"
+        },
+        {
+            "city": "W\u0101d\u012b as Salq\u0101",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.40048",
+            "longitude": "34.33754"
+        },
+        {
+            "city": "Al Mughr\u0101qah",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.46587",
+            "longitude": "34.41208"
+        },
+        {
+            "city": "East Jerusalem",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "31.78336",
+            "longitude": "35.23388"
+        },
+        {
+            "city": "Karney Shomron",
+            "region": "WE",
+            "country": "PS",
+            "latitude": "32.1714",
+            "longitude": "35.09767"
+        },
+        {
+            "city": "Ban\u012b Zayd",
+            "region": "00",
+            "country": "PS",
+            "latitude": "32.03924",
+            "longitude": "35.10316"
+        },
+        {
+            "city": "Az Za\u2018ayyim",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.78852",
+            "longitude": "35.26511"
+        },
+        {
+            "city": "Al \u2018Ubayd\u012byah",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.71697",
+            "longitude": "35.29007"
+        },
+        {
+            "city": "Khallat an Nu\u2018m\u0101n",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.71749",
+            "longitude": "35.24226"
+        },
+        {
+            "city": "Khallat \u1e28am\u0101mah",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.7216",
+            "longitude": "35.19243"
+        },
+        {
+            "city": "Ad Daw\u1e29ah",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.69948",
+            "longitude": "35.18047"
+        },
+        {
+            "city": "W\u0101d\u012b Ra\u1e29\u1e29\u0101l",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.66516",
+            "longitude": "35.16727"
+        },
+        {
+            "city": "\u2018Arab ar Rash\u0101ydah",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.57112",
+            "longitude": "35.23227"
+        },
+        {
+            "city": "Bayt \u2018\u012an\u016bn",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.5587",
+            "longitude": "35.1244"
+        },
+        {
+            "city": "Bayt Maqd\u016bm",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.53537",
+            "longitude": "34.97192"
+        },
+        {
+            "city": "Al Buq\u2018ah",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.54199",
+            "longitude": "35.14279"
+        },
+        {
+            "city": "Khallat ad D\u0101r",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.49737",
+            "longitude": "35.11362"
+        },
+        {
+            "city": "Dayr S\u0101mit",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.52057",
+            "longitude": "34.97442"
+        },
+        {
+            "city": "Al \u1e28\u012blah",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.47454",
+            "longitude": "35.10742"
+        },
+        {
+            "city": "A\u015f \u015e\u016brrah",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.47098",
+            "longitude": "34.99897"
+        },
+        {
+            "city": "Bayt \u2018Amrah",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.4502",
+            "longitude": "35.04952"
+        },
+        {
+            "city": "R\u0101b\u016bd",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.43909",
+            "longitude": "35.0162"
+        },
+        {
+            "city": "Al Karmil",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.42301",
+            "longitude": "35.13278"
+        },
+        {
+            "city": "Khallat \u015e\u0101li\u1e29",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.42013",
+            "longitude": "35.11516"
+        },
+        {
+            "city": "B\u012br al B\u0101sh\u0101",
+            "region": "00",
+            "country": "PS",
+            "latitude": "32.42022",
+            "longitude": "35.23013"
+        },
+        {
+            "city": "Al B\u0101dh\u0101n",
+            "region": "00",
+            "country": "PS",
+            "latitude": "32.25857",
+            "longitude": "35.33247"
+        },
+        {
+            "city": "\u2018Ayn al Bay\u1e11\u0101",
+            "region": "00",
+            "country": "PS",
+            "latitude": "32.38051",
+            "longitude": "35.50838"
+        },
+        {
+            "city": "Az Zubayd\u0101t",
+            "region": "00",
+            "country": "PS",
+            "latitude": "32.1733",
+            "longitude": "35.53005"
+        },
+        {
+            "city": "Al Jiftlik",
+            "region": "00",
+            "country": "PS",
+            "latitude": "32.1407",
+            "longitude": "35.48738"
+        },
+        {
+            "city": "Khurs\u0101",
+            "region": "00",
+            "country": "PS",
+            "latitude": "31.48232",
+            "longitude": "35.01742"
+        }
+    ]
+}

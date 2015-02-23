@@ -1,0 +1,104 @@
+{
+    "country": "French Guiana",
+    "code": "GF",
+    "cities": [
+        {
+            "city": "Sinnamary",
+            "region": "GF",
+            "country": "GF",
+            "latitude": "5.38333",
+            "longitude": "-52.95"
+        },
+        {
+            "city": "Saint-Laurent-du-Maroni",
+            "region": "GF",
+            "country": "GF",
+            "latitude": "5.5",
+            "longitude": "-54.03333"
+        },
+        {
+            "city": "Saint-Georges-de-l'Oyapock",
+            "region": "GF",
+            "country": "GF",
+            "latitude": "3.9",
+            "longitude": "-51.8"
+        },
+        {
+            "city": "Roura",
+            "region": "GF",
+            "country": "GF",
+            "latitude": "4.72629",
+            "longitude": "-52.32742"
+        },
+        {
+            "city": "R\u00e9mire-Montjoly",
+            "region": "GF",
+            "country": "GF",
+            "latitude": "4.91667",
+            "longitude": "-52.26667"
+        },
+        {
+            "city": "Matoury",
+            "region": "GF",
+            "country": "GF",
+            "latitude": "4.84827",
+            "longitude": "-52.33172"
+        },
+        {
+            "city": "Mana",
+            "region": "GF",
+            "country": "GF",
+            "latitude": "5.65919",
+            "longitude": "-53.77666"
+        },
+        {
+            "city": "Macouria",
+            "region": "00",
+            "country": "GF",
+            "latitude": "4.91667",
+            "longitude": "-52.36667"
+        },
+        {
+            "city": "Kourou",
+            "region": "GF",
+            "country": "GF",
+            "latitude": "5.15518",
+            "longitude": "-52.64779"
+        },
+        {
+            "city": "Iracoubo",
+            "region": "GF",
+            "country": "GF",
+            "latitude": "5.48024",
+            "longitude": "-53.20109"
+        },
+        {
+            "city": "Grand-Santi",
+            "region": "GF",
+            "country": "GF",
+            "latitude": "4.25",
+            "longitude": "-54.38333"
+        },
+        {
+            "city": "Cayenne",
+            "region": "GF",
+            "country": "GF",
+            "latitude": "4.93333",
+            "longitude": "-52.33333"
+        },
+        {
+            "city": "Camopi",
+            "region": "GF",
+            "country": "GF",
+            "latitude": "3.16548",
+            "longitude": "-52.31575"
+        },
+        {
+            "city": "Apatou",
+            "region": "GF",
+            "country": "GF",
+            "latitude": "5.155",
+            "longitude": "-54.34722"
+        }
+    ]
+}

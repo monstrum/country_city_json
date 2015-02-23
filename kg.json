@@ -1,0 +1,216 @@
+{
+    "country": "Kyrgyzstan",
+    "code": "KG",
+    "cities": [
+        {
+            "city": "Sulyukta",
+            "region": "09",
+            "country": "KG",
+            "latitude": "39.93373",
+            "longitude": "69.57"
+        },
+        {
+            "city": "Khaydarkan",
+            "region": "09",
+            "country": "KG",
+            "latitude": "39.94431",
+            "longitude": "71.34294"
+        },
+        {
+            "city": "Isfana",
+            "region": "00",
+            "country": "KG",
+            "latitude": "39.83856",
+            "longitude": "69.53058"
+        },
+        {
+            "city": "Balykchy",
+            "region": "07",
+            "country": "KG",
+            "latitude": "42.45568",
+            "longitude": "76.18613"
+        },
+        {
+            "city": "Tyup",
+            "region": "00",
+            "country": "KG",
+            "latitude": "42.72681",
+            "longitude": "78.36582"
+        },
+        {
+            "city": "Tokmok",
+            "region": "02",
+            "country": "KG",
+            "latitude": "42.84172",
+            "longitude": "75.30158"
+        },
+        {
+            "city": "Tash-Kumyr",
+            "region": "03",
+            "country": "KG",
+            "latitude": "41.34612",
+            "longitude": "72.21708"
+        },
+        {
+            "city": "Talas",
+            "region": "06",
+            "country": "KG",
+            "latitude": "42.52222",
+            "longitude": "72.24194"
+        },
+        {
+            "city": "Sosnovka",
+            "region": "00",
+            "country": "KG",
+            "latitude": "42.63699",
+            "longitude": "73.90572"
+        },
+        {
+            "city": "Pokrovka",
+            "region": "07",
+            "country": "KG",
+            "latitude": "42.3414",
+            "longitude": "78.00558"
+        },
+        {
+            "city": "Uzkend",
+            "region": "00",
+            "country": "KG",
+            "latitude": "40.77091",
+            "longitude": "73.30183"
+        },
+        {
+            "city": "Osh",
+            "region": "08",
+            "country": "KG",
+            "latitude": "40.52944",
+            "longitude": "72.79"
+        },
+        {
+            "city": "Naryn",
+            "region": "04",
+            "country": "KG",
+            "latitude": "41.42866",
+            "longitude": "75.99111"
+        },
+        {
+            "city": "Kyzyl-Kyya",
+            "region": "08",
+            "country": "KG",
+            "latitude": "40.25441",
+            "longitude": "72.12601"
+        },
+        {
+            "city": "Karavan",
+            "region": "00",
+            "country": "KG",
+            "latitude": "40.29508",
+            "longitude": "72.18536"
+        },
+        {
+            "city": "Kara-Su",
+            "region": "00",
+            "country": "KG",
+            "latitude": "40.70659",
+            "longitude": "72.87997"
+        },
+        {
+            "city": "Karakol",
+            "region": "07",
+            "country": "KG",
+            "latitude": "42.49068",
+            "longitude": "78.39362"
+        },
+        {
+            "city": "Kara-Balta",
+            "region": "02",
+            "country": "KG",
+            "latitude": "42.81423",
+            "longitude": "73.84813"
+        },
+        {
+            "city": "Kant",
+            "region": "00",
+            "country": "KG",
+            "latitude": "42.89106",
+            "longitude": "74.85077"
+        },
+        {
+            "city": "Kaindy",
+            "region": "00",
+            "country": "KG",
+            "latitude": "42.82469",
+            "longitude": "73.67585"
+        },
+        {
+            "city": "Kadzhi-Say",
+            "region": "07",
+            "country": "KG",
+            "latitude": "42.14107",
+            "longitude": "77.17848"
+        },
+        {
+            "city": "Jalal-Abad",
+            "region": "03",
+            "country": "KG",
+            "latitude": "40.93333",
+            "longitude": "73"
+        },
+        {
+            "city": "Cholpon-Ata",
+            "region": "07",
+            "country": "KG",
+            "latitude": "42.64944",
+            "longitude": "77.08225"
+        },
+        {
+            "city": "Kemin",
+            "region": "02",
+            "country": "KG",
+            "latitude": "42.78458",
+            "longitude": "75.68917"
+        },
+        {
+            "city": "Bishkek",
+            "region": "01",
+            "country": "KG",
+            "latitude": "42.87",
+            "longitude": "74.59"
+        },
+        {
+            "city": "Bazar-Kurgan",
+            "region": "00",
+            "country": "KG",
+            "latitude": "41.03432",
+            "longitude": "72.73729"
+        },
+        {
+            "city": "Batken",
+            "region": "00",
+            "country": "KG",
+            "latitude": "40.06259",
+            "longitude": "70.81939"
+        },
+        {
+            "city": "At-Bashy",
+            "region": "04",
+            "country": "KG",
+            "latitude": "41.17017",
+            "longitude": "75.81058"
+        },
+        {
+            "city": "Toktogul",
+            "region": "03",
+            "country": "KG",
+            "latitude": "41.87079",
+            "longitude": "72.9402"
+        },
+        {
+            "city": "Talas",
+            "region": "",
+            "country": "KG",
+            "latitude": "42.35473",
+            "longitude": "72.65678"
+        }
+    ]
+}

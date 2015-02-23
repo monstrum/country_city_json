@@ -1,0 +1,104 @@
+{
+    "country": "Guinea-Bissau",
+    "code": "GW",
+    "cities": [
+        {
+            "city": "Quinh\u00e1mel",
+            "region": "12",
+            "country": "GW",
+            "latitude": "11.88333",
+            "longitude": "-15.85"
+        },
+        {
+            "city": "Quebo",
+            "region": "00",
+            "country": "GW",
+            "latitude": "11.33333",
+            "longitude": "-14.93333"
+        },
+        {
+            "city": "Mans\u00f4a",
+            "region": "04",
+            "country": "GW",
+            "latitude": "12.07333",
+            "longitude": "-15.31889"
+        },
+        {
+            "city": "Gab\u00fa",
+            "region": "10",
+            "country": "GW",
+            "latitude": "12.28333",
+            "longitude": "-14.21667"
+        },
+        {
+            "city": "Farim",
+            "region": "04",
+            "country": "GW",
+            "latitude": "12.48389",
+            "longitude": "-15.22167"
+        },
+        {
+            "city": "Cati\u00f3",
+            "region": "07",
+            "country": "GW",
+            "latitude": "11.28333",
+            "longitude": "-15.25"
+        },
+        {
+            "city": "Canchungo",
+            "region": "06",
+            "country": "GW",
+            "latitude": "12.06722",
+            "longitude": "-16.03333"
+        },
+        {
+            "city": "Cacheu",
+            "region": "06",
+            "country": "GW",
+            "latitude": "12.27056",
+            "longitude": "-16.16583"
+        },
+        {
+            "city": "Bubaque",
+            "region": "00",
+            "country": "GW",
+            "latitude": "11.28333",
+            "longitude": "-15.83333"
+        },
+        {
+            "city": "Buba",
+            "region": "02",
+            "country": "GW",
+            "latitude": "11.58333",
+            "longitude": "-15"
+        },
+        {
+            "city": "Bolama",
+            "region": "05",
+            "country": "GW",
+            "latitude": "11.58333",
+            "longitude": "-15.46667"
+        },
+        {
+            "city": "Bissor\u00e3",
+            "region": "04",
+            "country": "GW",
+            "latitude": "12.22306",
+            "longitude": "-15.4475"
+        },
+        {
+            "city": "Bissau",
+            "region": "11",
+            "country": "GW",
+            "latitude": "11.86357",
+            "longitude": "-15.59767"
+        },
+        {
+            "city": "Bafat\u00e1",
+            "region": "01",
+            "country": "GW",
+            "latitude": "12.16667",
+            "longitude": "-14.66667"
+        }
+    ]
+}

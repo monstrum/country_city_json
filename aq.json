@@ -1,0 +1,13 @@
+{
+    "country": "Antarctica",
+    "code": "AQ",
+    "cities": [
+        {
+            "city": "McMurdo Station",
+            "region": "",
+            "country": "AQ",
+            "latitude": "-77.65535",
+            "longitude": "168.22266"
+        }
+    ]
+}

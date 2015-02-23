@@ -1,0 +1,384 @@
+{
+    "country": "Micronesia, Federated States of",
+    "code": "FM",
+    "cities": [
+        {
+            "city": "Weno Town",
+            "region": "03",
+            "country": "FM",
+            "latitude": "7.45154",
+            "longitude": "151.8468"
+        },
+        {
+            "city": "Kosrae State Legislature",
+            "region": "01",
+            "country": "FM",
+            "latitude": "5.32479",
+            "longitude": "163.00781"
+        },
+        {
+            "city": "Palikir - National Government Center",
+            "region": "02",
+            "country": "FM",
+            "latitude": "6.92477",
+            "longitude": "158.16109"
+        },
+        {
+            "city": "Kolonia Town",
+            "region": "02",
+            "country": "FM",
+            "latitude": "6.964",
+            "longitude": "158.206"
+        },
+        {
+            "city": "Rumung",
+            "region": "04",
+            "country": "FM",
+            "latitude": "9.622",
+            "longitude": "138.154"
+        },
+        {
+            "city": "Kolonia",
+            "region": "02",
+            "country": "FM",
+            "latitude": "6.964",
+            "longitude": "158.2062"
+        },
+        {
+            "city": "Kapingamarangi",
+            "region": "02",
+            "country": "FM",
+            "latitude": "1.07861",
+            "longitude": "154.80752"
+        },
+        {
+            "city": "Nukuoro",
+            "region": "02",
+            "country": "FM",
+            "latitude": "3.83619",
+            "longitude": "154.97143"
+        },
+        {
+            "city": "Ngatik",
+            "region": "02",
+            "country": "FM",
+            "latitude": "5.7885",
+            "longitude": "157.15942"
+        },
+        {
+            "city": "Pingelap",
+            "region": "02",
+            "country": "FM",
+            "latitude": "6.20589",
+            "longitude": "160.70327"
+        },
+        {
+            "city": "Namoluk",
+            "region": "03",
+            "country": "FM",
+            "latitude": "5.915",
+            "longitude": "153.14"
+        },
+        {
+            "city": "Houk",
+            "region": "03",
+            "country": "FM",
+            "latitude": "6.6894",
+            "longitude": "149.29908"
+        },
+        {
+            "city": "Polowat",
+            "region": "03",
+            "country": "FM",
+            "latitude": "7.35661",
+            "longitude": "149.19908"
+        },
+        {
+            "city": "Pulap",
+            "region": "03",
+            "country": "FM",
+            "latitude": "7.6366",
+            "longitude": "149.42878"
+        },
+        {
+            "city": "Tamatam",
+            "region": "03",
+            "country": "FM",
+            "latitude": "7.53868",
+            "longitude": "149.41428"
+        },
+        {
+            "city": "Onoun",
+            "region": "03",
+            "country": "FM",
+            "latitude": "8.575",
+            "longitude": "149.687"
+        },
+        {
+            "city": "Pisaras",
+            "region": "03",
+            "country": "FM",
+            "latitude": "8.569",
+            "longitude": "150.4195"
+        },
+        {
+            "city": "Onou",
+            "region": "03",
+            "country": "FM",
+            "latitude": "8.799",
+            "longitude": "150.2915"
+        },
+        {
+            "city": "Unanu",
+            "region": "03",
+            "country": "FM",
+            "latitude": "8.75",
+            "longitude": "150.341"
+        },
+        {
+            "city": "Makur",
+            "region": "03",
+            "country": "FM",
+            "latitude": "8.985",
+            "longitude": "150.1275"
+        },
+        {
+            "city": "Mokil",
+            "region": "02",
+            "country": "FM",
+            "latitude": "6.69281",
+            "longitude": "159.76283"
+        },
+        {
+            "city": "Nomwin",
+            "region": "03",
+            "country": "FM",
+            "latitude": "8.43",
+            "longitude": "151.748"
+        },
+        {
+            "city": "Fananu",
+            "region": "03",
+            "country": "FM",
+            "latitude": "8.55811",
+            "longitude": "151.90922"
+        },
+        {
+            "city": "Murilo",
+            "region": "03",
+            "country": "FM",
+            "latitude": "8.692",
+            "longitude": "152.3435"
+        },
+        {
+            "city": "Ruo",
+            "region": "03",
+            "country": "FM",
+            "latitude": "8.609",
+            "longitude": "152.2455"
+        },
+        {
+            "city": "Nema",
+            "region": "03",
+            "country": "FM",
+            "latitude": "6.993",
+            "longitude": "152.575"
+        },
+        {
+            "city": "Losap",
+            "region": "03",
+            "country": "FM",
+            "latitude": "6.894",
+            "longitude": "152.74"
+        },
+        {
+            "city": "Piis",
+            "region": "03",
+            "country": "FM",
+            "latitude": "6.834",
+            "longitude": "152.701"
+        },
+        {
+            "city": "Ettal",
+            "region": "03",
+            "country": "FM",
+            "latitude": "5.592",
+            "longitude": "153.564"
+        },
+        {
+            "city": "Lukunor",
+            "region": "03",
+            "country": "FM",
+            "latitude": "5.507",
+            "longitude": "153.8205"
+        },
+        {
+            "city": "Oneop",
+            "region": "03",
+            "country": "FM",
+            "latitude": "5.5066",
+            "longitude": "153.7105"
+        },
+        {
+            "city": "Moch",
+            "region": "03",
+            "country": "FM",
+            "latitude": "5.4918",
+            "longitude": "153.54"
+        },
+        {
+            "city": "Kuttu",
+            "region": "03",
+            "country": "FM",
+            "latitude": "5.453",
+            "longitude": "153.4575"
+        },
+        {
+            "city": "Ta",
+            "region": "03",
+            "country": "FM",
+            "latitude": "5.2842",
+            "longitude": "153.648"
+        },
+        {
+            "city": "Satowan",
+            "region": "03",
+            "country": "FM",
+            "latitude": "5.334",
+            "longitude": "153.738"
+        },
+        {
+            "city": "Satawal",
+            "region": "04",
+            "country": "FM",
+            "latitude": "7.382",
+            "longitude": "147.0322"
+        },
+        {
+            "city": "Lamotrek",
+            "region": "04",
+            "country": "FM",
+            "latitude": "7.491",
+            "longitude": "146.305"
+        },
+        {
+            "city": "Elato",
+            "region": "04",
+            "country": "FM",
+            "latitude": "7.502",
+            "longitude": "146.166"
+        },
+        {
+            "city": "Faraulep",
+            "region": "04",
+            "country": "FM",
+            "latitude": "8.588",
+            "longitude": "144.508"
+        },
+        {
+            "city": "Ifalik",
+            "region": "04",
+            "country": "FM",
+            "latitude": "7.25",
+            "longitude": "144.4445"
+        },
+        {
+            "city": "Eauripik",
+            "region": "04",
+            "country": "FM",
+            "latitude": "6.687",
+            "longitude": "143.0375"
+        },
+        {
+            "city": "Sorol",
+            "region": "04",
+            "country": "FM",
+            "latitude": "8.1435",
+            "longitude": "140.394"
+        },
+        {
+            "city": "Fais",
+            "region": "04",
+            "country": "FM",
+            "latitude": "9.766",
+            "longitude": "140.52"
+        },
+        {
+            "city": "Ngulu",
+            "region": "04",
+            "country": "FM",
+            "latitude": "8.45",
+            "longitude": "137.484"
+        },
+        {
+            "city": "Colonia",
+            "region": "04",
+            "country": "FM",
+            "latitude": "9.51638",
+            "longitude": "138.12167"
+        },
+        {
+            "city": "Lelu",
+            "region": "01",
+            "country": "FM",
+            "latitude": "5.33359",
+            "longitude": "163.02248"
+        },
+        {
+            "city": "Tafunsak",
+            "region": "01",
+            "country": "FM",
+            "latitude": "5.3671",
+            "longitude": "162.98532"
+        },
+        {
+            "city": "Malem",
+            "region": "01",
+            "country": "FM",
+            "latitude": "5.28599",
+            "longitude": "163.02609"
+        },
+        {
+            "city": "Utwe",
+            "region": "01",
+            "country": "FM",
+            "latitude": "5.27486",
+            "longitude": "162.97656"
+        },
+        {
+            "city": "Kolonia",
+            "region": "02",
+            "country": "FM",
+            "latitude": "6.964",
+            "longitude": "158.2064"
+        },
+        {
+            "city": "Madolenihm Municipality Government",
+            "region": "02",
+            "country": "FM",
+            "latitude": "6.83493",
+            "longitude": "158.2987"
+        },
+        {
+            "city": "Tonoas Municipal Building",
+            "region": "03",
+            "country": "FM",
+            "latitude": "7.37597",
+            "longitude": "151.88433"
+        },
+        {
+            "city": "Weno Municipal Offices",
+            "region": "03",
+            "country": "FM",
+            "latitude": "7.44428",
+            "longitude": "151.84103"
+        },
+        {
+            "city": "Weno - Chuuk State Legislature",
+            "region": "03",
+            "country": "FM",
+            "latitude": "7.4564",
+            "longitude": "151.84346"
+        }
+    ]
+}

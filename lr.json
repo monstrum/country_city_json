@@ -1,0 +1,132 @@
+{
+    "country": "Liberia",
+    "code": "LR",
+    "cities": [
+        {
+            "city": "Zwedru",
+            "region": "19",
+            "country": "LR",
+            "latitude": "6.06667",
+            "longitude": "-8.12806"
+        },
+        {
+            "city": "New Yekepa",
+            "region": "09",
+            "country": "LR",
+            "latitude": "7.57944",
+            "longitude": "-8.53778"
+        },
+        {
+            "city": "Voinjama",
+            "region": "20",
+            "country": "LR",
+            "latitude": "8.42194",
+            "longitude": "-9.74778"
+        },
+        {
+            "city": "Tubmanburg",
+            "region": "15",
+            "country": "LR",
+            "latitude": "6.87083",
+            "longitude": "-10.81722"
+        },
+        {
+            "city": "Fish Town",
+            "region": "22",
+            "country": "LR",
+            "latitude": "5.19639",
+            "longitude": "-7.87556"
+        },
+        {
+            "city": "Sanniquellie",
+            "region": "09",
+            "country": "LR",
+            "latitude": "7.36222",
+            "longitude": "-8.70611"
+        },
+        {
+            "city": "Robertsport",
+            "region": "12",
+            "country": "LR",
+            "latitude": "6.75333",
+            "longitude": "-11.36861"
+        },
+        {
+            "city": "River Cess",
+            "region": "18",
+            "country": "LR",
+            "latitude": "5.46",
+            "longitude": "-9.58278"
+        },
+        {
+            "city": "Monrovia",
+            "region": "14",
+            "country": "LR",
+            "latitude": "6.30054",
+            "longitude": "-10.7969"
+        },
+        {
+            "city": "Kakata",
+            "region": "17",
+            "country": "LR",
+            "latitude": "6.53",
+            "longitude": "-10.35167"
+        },
+        {
+            "city": "Harper",
+            "region": "13",
+            "country": "LR",
+            "latitude": "4.375",
+            "longitude": "-7.71694"
+        },
+        {
+            "city": "Greenville",
+            "region": "10",
+            "country": "LR",
+            "latitude": "5.01111",
+            "longitude": "-9.03889"
+        },
+        {
+            "city": "Gbarnga",
+            "region": "01",
+            "country": "LR",
+            "latitude": "6.99556",
+            "longitude": "-9.47222"
+        },
+        {
+            "city": "Ganta",
+            "region": "09",
+            "country": "LR",
+            "latitude": "7.30222",
+            "longitude": "-8.53083"
+        },
+        {
+            "city": "Buchanan",
+            "region": "11",
+            "country": "LR",
+            "latitude": "5.88083",
+            "longitude": "-10.04667"
+        },
+        {
+            "city": "Bopolu",
+            "region": "21",
+            "country": "LR",
+            "latitude": "7.06667",
+            "longitude": "-10.4875"
+        },
+        {
+            "city": "Bensonville",
+            "region": "14",
+            "country": "LR",
+            "latitude": "6.44611",
+            "longitude": "-10.6125"
+        },
+        {
+            "city": "Barclayville",
+            "region": "16",
+            "country": "LR",
+            "latitude": "4.67972",
+            "longitude": "-8.23389"
+        }
+    ]
+}

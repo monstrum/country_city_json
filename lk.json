@@ -1,0 +1,454 @@
+{
+    "country": "Sri Lanka",
+    "code": "LK",
+    "cities": [
+        {
+            "city": "Welisara",
+            "region": "36",
+            "country": "LK",
+            "latitude": "7.0281",
+            "longitude": "79.9014"
+        },
+        {
+            "city": "Weligama",
+            "region": "34",
+            "country": "LK",
+            "latitude": "5.96667",
+            "longitude": "80.41667"
+        },
+        {
+            "city": "Wattegama",
+            "region": "35",
+            "country": "LK",
+            "latitude": "6.7989",
+            "longitude": "81.4808"
+        },
+        {
+            "city": "Wattala",
+            "region": "36",
+            "country": "LK",
+            "latitude": "6.9779",
+            "longitude": "79.8898"
+        },
+        {
+            "city": "Vavuniya",
+            "region": "31",
+            "country": "LK",
+            "latitude": "8.7514",
+            "longitude": "80.4971"
+        },
+        {
+            "city": "Valvedditturai",
+            "region": "31",
+            "country": "LK",
+            "latitude": "9.81667",
+            "longitude": "80.16667"
+        },
+        {
+            "city": "Trincomalee",
+            "region": "31",
+            "country": "LK",
+            "latitude": "8.5711",
+            "longitude": "81.2335"
+        },
+        {
+            "city": "Tangalla",
+            "region": "34",
+            "country": "LK",
+            "latitude": "6.024",
+            "longitude": "80.7911"
+        },
+        {
+            "city": "Talawakele",
+            "region": "29",
+            "country": "LK",
+            "latitude": "6.9371",
+            "longitude": "80.6581"
+        },
+        {
+            "city": "Sigiriya",
+            "region": "29",
+            "country": "LK",
+            "latitude": "7.9518",
+            "longitude": "80.7426"
+        },
+        {
+            "city": "Ratnapura",
+            "region": "33",
+            "country": "LK",
+            "latitude": "6.68278",
+            "longitude": "80.39917"
+        },
+        {
+            "city": "Puttalam",
+            "region": "32",
+            "country": "LK",
+            "latitude": "8.0362",
+            "longitude": "79.8283"
+        },
+        {
+            "city": "Polonnaruwa",
+            "region": "30",
+            "country": "LK",
+            "latitude": "7.93333",
+            "longitude": "81"
+        },
+        {
+            "city": "Point Pedro",
+            "region": "31",
+            "country": "LK",
+            "latitude": "9.81667",
+            "longitude": "80.23333"
+        },
+        {
+            "city": "Pita Kotte",
+            "region": "36",
+            "country": "LK",
+            "latitude": "6.8905",
+            "longitude": "79.9015"
+        },
+        {
+            "city": "Peliyagoda",
+            "region": "36",
+            "country": "LK",
+            "latitude": "6.9685",
+            "longitude": "79.8836"
+        },
+        {
+            "city": "Panadura",
+            "region": "36",
+            "country": "LK",
+            "latitude": "6.7132",
+            "longitude": "79.9026"
+        },
+        {
+            "city": "Nuwara Eliya",
+            "region": "29",
+            "country": "LK",
+            "latitude": "6.97078",
+            "longitude": "80.78286"
+        },
+        {
+            "city": "Negombo",
+            "region": "36",
+            "country": "LK",
+            "latitude": "7.2083",
+            "longitude": "79.8358"
+        },
+        {
+            "city": "Mulleriyawa",
+            "region": "36",
+            "country": "LK",
+            "latitude": "6.933",
+            "longitude": "79.9297"
+        },
+        {
+            "city": "Moratuwa",
+            "region": "36",
+            "country": "LK",
+            "latitude": "6.773",
+            "longitude": "79.8816"
+        },
+        {
+            "city": "Monaragala",
+            "region": "35",
+            "country": "LK",
+            "latitude": "6.8714",
+            "longitude": "81.3487"
+        },
+        {
+            "city": "Minuwangoda",
+            "region": "36",
+            "country": "LK",
+            "latitude": "7.1663",
+            "longitude": "79.9533"
+        },
+        {
+            "city": "Matara",
+            "region": "34",
+            "country": "LK",
+            "latitude": "5.94851",
+            "longitude": "80.53528"
+        },
+        {
+            "city": "Maharagama",
+            "region": "36",
+            "country": "LK",
+            "latitude": "6.848",
+            "longitude": "79.9265"
+        },
+        {
+            "city": "Kurunegala",
+            "region": "32",
+            "country": "LK",
+            "latitude": "7.4863",
+            "longitude": "80.3623"
+        },
+        {
+            "city": "Kuliyapitiya",
+            "region": "32",
+            "country": "LK",
+            "latitude": "7.4688",
+            "longitude": "80.0401"
+        },
+        {
+            "city": "Sri Jayewardenepura Kotte",
+            "region": "36",
+            "country": "LK",
+            "latitude": "6.90278",
+            "longitude": "79.90833"
+        },
+        {
+            "city": "Kotikawatta",
+            "region": "36",
+            "country": "LK",
+            "latitude": "6.9269",
+            "longitude": "79.9095"
+        },
+        {
+            "city": "Kolonnawa",
+            "region": "36",
+            "country": "LK",
+            "latitude": "6.9329",
+            "longitude": "79.8848"
+        },
+        {
+            "city": "Kilinochchi",
+            "region": "31",
+            "country": "LK",
+            "latitude": "9.3961",
+            "longitude": "80.3982"
+        },
+        {
+            "city": "Kelaniya",
+            "region": "36",
+            "country": "LK",
+            "latitude": "6.9553",
+            "longitude": "79.922"
+        },
+        {
+            "city": "Katunayaka North",
+            "region": "36",
+            "country": "LK",
+            "latitude": "7.1643",
+            "longitude": "79.8757"
+        },
+        {
+            "city": "Kandy",
+            "region": "29",
+            "country": "LK",
+            "latitude": "7.2955",
+            "longitude": "80.6356"
+        },
+        {
+            "city": "Kandana",
+            "region": "36",
+            "country": "LK",
+            "latitude": "7.048",
+            "longitude": "79.8937"
+        },
+        {
+            "city": "Kalutara",
+            "region": "36",
+            "country": "LK",
+            "latitude": "6.5831",
+            "longitude": "79.9593"
+        },
+        {
+            "city": "Kalmunai",
+            "region": "31",
+            "country": "LK",
+            "latitude": "7.41667",
+            "longitude": "81.81667"
+        },
+        {
+            "city": "Kadugannawa",
+            "region": "29",
+            "country": "LK",
+            "latitude": "7.2547",
+            "longitude": "80.5242"
+        },
+        {
+            "city": "Jaffna",
+            "region": "31",
+            "country": "LK",
+            "latitude": "9.66845",
+            "longitude": "80.00742"
+        },
+        {
+            "city": "Ja Ela",
+            "region": "36",
+            "country": "LK",
+            "latitude": "7.0744",
+            "longitude": "79.8919"
+        },
+        {
+            "city": "Horana South",
+            "region": "36",
+            "country": "LK",
+            "latitude": "6.7159",
+            "longitude": "80.0626"
+        },
+        {
+            "city": "Homagama",
+            "region": "36",
+            "country": "LK",
+            "latitude": "6.844",
+            "longitude": "80.0024"
+        },
+        {
+            "city": "Hikkaduwa",
+            "region": "34",
+            "country": "LK",
+            "latitude": "6.1407",
+            "longitude": "80.1012"
+        },
+        {
+            "city": "Hendala",
+            "region": "36",
+            "country": "LK",
+            "latitude": "6.9909",
+            "longitude": "79.883"
+        },
+        {
+            "city": "Hatton",
+            "region": "29",
+            "country": "LK",
+            "latitude": "6.8916",
+            "longitude": "80.5955"
+        },
+        {
+            "city": "Haputale",
+            "region": "35",
+            "country": "LK",
+            "latitude": "6.7602",
+            "longitude": "80.9531"
+        },
+        {
+            "city": "Hanwella Ihala",
+            "region": "36",
+            "country": "LK",
+            "latitude": "6.9012",
+            "longitude": "80.0852"
+        },
+        {
+            "city": "Gampola",
+            "region": "29",
+            "country": "LK",
+            "latitude": "7.1643",
+            "longitude": "80.5696"
+        },
+        {
+            "city": "Gampaha",
+            "region": "36",
+            "country": "LK",
+            "latitude": "7.0897",
+            "longitude": "79.9925"
+        },
+        {
+            "city": "Galle",
+            "region": "34",
+            "country": "LK",
+            "latitude": "6.0367",
+            "longitude": "80.217"
+        },
+        {
+            "city": "Galkissa",
+            "region": "36",
+            "country": "LK",
+            "latitude": "6.8293",
+            "longitude": "79.863"
+        },
+        {
+            "city": "Eravur Town",
+            "region": "31",
+            "country": "LK",
+            "latitude": "7.7782",
+            "longitude": "81.6038"
+        },
+        {
+            "city": "Dambulla",
+            "region": "29",
+            "country": "LK",
+            "latitude": "7.86",
+            "longitude": "80.65167"
+        },
+        {
+            "city": "Colombo",
+            "region": "36",
+            "country": "LK",
+            "latitude": "6.93194",
+            "longitude": "79.84778"
+        },
+        {
+            "city": "Chilaw",
+            "region": "32",
+            "country": "LK",
+            "latitude": "7.57583",
+            "longitude": "79.79528"
+        },
+        {
+            "city": "Beruwala",
+            "region": "36",
+            "country": "LK",
+            "latitude": "6.4788",
+            "longitude": "79.9828"
+        },
+        {
+            "city": "Bentota",
+            "region": "34",
+            "country": "LK",
+            "latitude": "6.4254",
+            "longitude": "79.9948"
+        },
+        {
+            "city": "Batticaloa",
+            "region": "31",
+            "country": "LK",
+            "latitude": "7.7102",
+            "longitude": "81.6924"
+        },
+        {
+            "city": "Battaramulla South",
+            "region": "36",
+            "country": "LK",
+            "latitude": "6.8964",
+            "longitude": "79.9181"
+        },
+        {
+            "city": "Badulla",
+            "region": "35",
+            "country": "LK",
+            "latitude": "6.9895",
+            "longitude": "81.0557"
+        },
+        {
+            "city": "Anuradhapura",
+            "region": "30",
+            "country": "LK",
+            "latitude": "8.35647",
+            "longitude": "80.41726"
+        },
+        {
+            "city": "Ampara",
+            "region": "31",
+            "country": "LK",
+            "latitude": "7.28333",
+            "longitude": "81.66667"
+        },
+        {
+            "city": "Ambalangoda",
+            "region": "34",
+            "country": "LK",
+            "latitude": "6.2355",
+            "longitude": "80.0538"
+        },
+        {
+            "city": "Horawala Junction",
+            "region": "36",
+            "country": "LK",
+            "latitude": "6.48088",
+            "longitude": "80.12708"
+        }
+    ]
+}

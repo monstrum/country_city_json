@@ -1,0 +1,930 @@
+{
+    "country": "Slovakia",
+    "code": "SK",
+    "cities": [
+        {
+            "city": "\u017ddiar",
+            "region": "05",
+            "country": "SK",
+            "latitude": "49.271",
+            "longitude": "20.26239"
+        },
+        {
+            "city": "Vysok\u00e9 Tatry",
+            "region": "05",
+            "country": "SK",
+            "latitude": "49.13637",
+            "longitude": "20.24386"
+        },
+        {
+            "city": "Vy\u0161n\u00e9 Ru\u017ebachy",
+            "region": "05",
+            "country": "SK",
+            "latitude": "49.30387",
+            "longitude": "20.56558"
+        },
+        {
+            "city": "Vranov nad Top\u013eou",
+            "region": "05",
+            "country": "SK",
+            "latitude": "48.88836",
+            "longitude": "21.68479"
+        },
+        {
+            "city": "Vinn\u00e9",
+            "region": "03",
+            "country": "SK",
+            "latitude": "48.80965",
+            "longitude": "21.96757"
+        },
+        {
+            "city": "Trebi\u0161ov",
+            "region": "03",
+            "country": "SK",
+            "latitude": "48.62858",
+            "longitude": "21.71954"
+        },
+        {
+            "city": "Svit",
+            "region": "",
+            "country": "SK",
+            "latitude": "49.06014",
+            "longitude": "20.20695"
+        },
+        {
+            "city": "Svidn\u00edk",
+            "region": "05",
+            "country": "SK",
+            "latitude": "49.30819",
+            "longitude": "21.5703"
+        },
+        {
+            "city": "Stropkov",
+            "region": "05",
+            "country": "SK",
+            "latitude": "49.20211",
+            "longitude": "21.65216"
+        },
+        {
+            "city": "\u0160trba",
+            "region": "",
+            "country": "SK",
+            "latitude": "49.05913",
+            "longitude": "20.07975"
+        },
+        {
+            "city": "Str\u00e1\u017eske",
+            "region": "03",
+            "country": "SK",
+            "latitude": "48.8735",
+            "longitude": "21.83668"
+        },
+        {
+            "city": "Star\u00e1 \u013eubov\u0148a",
+            "region": "05",
+            "country": "SK",
+            "latitude": "49.29859",
+            "longitude": "20.6862"
+        },
+        {
+            "city": "Spi\u0161sk\u00e9 Podhradie",
+            "region": "05",
+            "country": "SK",
+            "latitude": "49.00088",
+            "longitude": "20.75307"
+        },
+        {
+            "city": "Spi\u0161sk\u00e1 Nov\u00e1 Ves",
+            "region": "03",
+            "country": "SK",
+            "latitude": "48.94464",
+            "longitude": "20.56154"
+        },
+        {
+            "city": "Spi\u0161sk\u00e1 Bel\u00e1",
+            "region": "05",
+            "country": "SK",
+            "latitude": "49.18725",
+            "longitude": "20.45948"
+        },
+        {
+            "city": "Sobrance",
+            "region": "03",
+            "country": "SK",
+            "latitude": "48.74455",
+            "longitude": "22.18136"
+        },
+        {
+            "city": "Snina",
+            "region": "05",
+            "country": "SK",
+            "latitude": "48.98857",
+            "longitude": "22.15099"
+        },
+        {
+            "city": "Se\u010dovce",
+            "region": "03",
+            "country": "SK",
+            "latitude": "48.70074",
+            "longitude": "21.66104"
+        },
+        {
+            "city": "Sabinov",
+            "region": "05",
+            "country": "SK",
+            "latitude": "49.10308",
+            "longitude": "21.0988"
+        },
+        {
+            "city": "Ro\u017e\u0148ava",
+            "region": "03",
+            "country": "SK",
+            "latitude": "48.66008",
+            "longitude": "20.53758"
+        },
+        {
+            "city": "Rimavsk\u00e1 Sobota",
+            "region": "01",
+            "country": "SK",
+            "latitude": "48.38284",
+            "longitude": "20.0224"
+        },
+        {
+            "city": "Rev\u00faca",
+            "region": "01",
+            "country": "SK",
+            "latitude": "48.68346",
+            "longitude": "20.11734"
+        },
+        {
+            "city": "Pre\u0161ov",
+            "region": "05",
+            "country": "SK",
+            "latitude": "48.99839",
+            "longitude": "21.23393"
+        },
+        {
+            "city": "Poprad",
+            "region": "05",
+            "country": "SK",
+            "latitude": "49.06144",
+            "longitude": "20.29798"
+        },
+        {
+            "city": "Podol\u00ednec",
+            "region": "05",
+            "country": "SK",
+            "latitude": "49.25869",
+            "longitude": "20.536"
+        },
+        {
+            "city": "Nov\u00e1 Lesn\u00e1",
+            "region": "05",
+            "country": "SK",
+            "latitude": "49.12253",
+            "longitude": "20.26737"
+        },
+        {
+            "city": "Moldava nad Bodvou",
+            "region": "03",
+            "country": "SK",
+            "latitude": "48.61428",
+            "longitude": "20.99957"
+        },
+        {
+            "city": "Michalovce",
+            "region": "03",
+            "country": "SK",
+            "latitude": "48.75434",
+            "longitude": "21.9195"
+        },
+        {
+            "city": "Medzilaborce",
+            "region": "00",
+            "country": "SK",
+            "latitude": "49.27195",
+            "longitude": "21.90073"
+        },
+        {
+            "city": "Medzev",
+            "region": "03",
+            "country": "SK",
+            "latitude": "48.70041",
+            "longitude": "20.89367"
+        },
+        {
+            "city": "\u013dubica",
+            "region": "05",
+            "country": "SK",
+            "latitude": "49.11667",
+            "longitude": "20.45"
+        },
+        {
+            "city": "Lipany",
+            "region": "05",
+            "country": "SK",
+            "latitude": "49.15376",
+            "longitude": "20.96382"
+        },
+        {
+            "city": "Levo\u010da",
+            "region": "05",
+            "country": "SK",
+            "latitude": "49.02173",
+            "longitude": "20.59212"
+        },
+        {
+            "city": "Krompachy",
+            "region": "03",
+            "country": "SK",
+            "latitude": "48.91447",
+            "longitude": "20.87514"
+        },
+        {
+            "city": "Ko\u0161ice",
+            "region": "03",
+            "country": "SK",
+            "latitude": "48.71395",
+            "longitude": "21.25808"
+        },
+        {
+            "city": "Ke\u017emarok",
+            "region": "05",
+            "country": "SK",
+            "latitude": "49.1357",
+            "longitude": "20.43352"
+        },
+        {
+            "city": "Humenn\u00e9",
+            "region": "05",
+            "country": "SK",
+            "latitude": "48.93707",
+            "longitude": "21.91625"
+        },
+        {
+            "city": "Giraltovce",
+            "region": "05",
+            "country": "SK",
+            "latitude": "49.11398",
+            "longitude": "21.51731"
+        },
+        {
+            "city": "Gelnica",
+            "region": "03",
+            "country": "SK",
+            "latitude": "48.85584",
+            "longitude": "20.93712"
+        },
+        {
+            "city": "Dob\u0161in\u00e1",
+            "region": "03",
+            "country": "SK",
+            "latitude": "48.82073",
+            "longitude": "20.36988"
+        },
+        {
+            "city": "\u010cierna nad Tisou",
+            "region": "03",
+            "country": "SK",
+            "latitude": "48.41704",
+            "longitude": "22.08865"
+        },
+        {
+            "city": "Chlmec",
+            "region": "05",
+            "country": "SK",
+            "latitude": "48.88628",
+            "longitude": "21.9393"
+        },
+        {
+            "city": "Bardejov",
+            "region": "05",
+            "country": "SK",
+            "latitude": "49.29175",
+            "longitude": "21.27271"
+        },
+        {
+            "city": "Zvolen",
+            "region": "01",
+            "country": "SK",
+            "latitude": "48.57442",
+            "longitude": "19.15324"
+        },
+        {
+            "city": "Zlat\u00e9 Moravce",
+            "region": "04",
+            "country": "SK",
+            "latitude": "48.38553",
+            "longitude": "18.40063"
+        },
+        {
+            "city": "\u017dilina",
+            "region": "08",
+            "country": "SK",
+            "latitude": "49.22315",
+            "longitude": "18.73941"
+        },
+        {
+            "city": "\u017diar nad Hronom",
+            "region": "01",
+            "country": "SK",
+            "latitude": "48.59184",
+            "longitude": "18.84958"
+        },
+        {
+            "city": "\u017deliezovce",
+            "region": "04",
+            "country": "SK",
+            "latitude": "48.05075",
+            "longitude": "18.65421"
+        },
+        {
+            "city": "\u017darnovica",
+            "region": "01",
+            "country": "SK",
+            "latitude": "48.48124",
+            "longitude": "18.71565"
+        },
+        {
+            "city": "Vr\u00fatky",
+            "region": "08",
+            "country": "SK",
+            "latitude": "49.11328",
+            "longitude": "18.91714"
+        },
+        {
+            "city": "Vrbov\u00e9",
+            "region": "07",
+            "country": "SK",
+            "latitude": "48.61973",
+            "longitude": "17.7226"
+        },
+        {
+            "city": "Vr\u00e1ble",
+            "region": "00",
+            "country": "SK",
+            "latitude": "48.24371",
+            "longitude": "18.30846"
+        },
+        {
+            "city": "Ve\u013ek\u00fd Meder",
+            "region": "00",
+            "country": "SK",
+            "latitude": "47.85798",
+            "longitude": "17.76884"
+        },
+        {
+            "city": "Tvrdo\u0161\u00edn",
+            "region": "08",
+            "country": "SK",
+            "latitude": "49.337",
+            "longitude": "19.556"
+        },
+        {
+            "city": "Turzovka",
+            "region": "08",
+            "country": "SK",
+            "latitude": "49.40429",
+            "longitude": "18.62258"
+        },
+        {
+            "city": "Trsten\u00e1",
+            "region": "08",
+            "country": "SK",
+            "latitude": "49.36101",
+            "longitude": "19.61249"
+        },
+        {
+            "city": "Trnava",
+            "region": "07",
+            "country": "SK",
+            "latitude": "48.3774",
+            "longitude": "17.58723"
+        },
+        {
+            "city": "Tren\u010d\u00edn",
+            "region": "06",
+            "country": "SK",
+            "latitude": "48.89452",
+            "longitude": "18.04436"
+        },
+        {
+            "city": "Tren\u010dianske Teplice",
+            "region": "04",
+            "country": "SK",
+            "latitude": "48.91063",
+            "longitude": "18.16691"
+        },
+        {
+            "city": "Tlma\u010de",
+            "region": "04",
+            "country": "SK",
+            "latitude": "48.28926",
+            "longitude": "18.53152"
+        },
+        {
+            "city": "Tisovec",
+            "region": "01",
+            "country": "SK",
+            "latitude": "48.67738",
+            "longitude": "19.94364"
+        },
+        {
+            "city": "Svod\u00edn",
+            "region": "04",
+            "country": "SK",
+            "latitude": "47.91054",
+            "longitude": "18.49967"
+        },
+        {
+            "city": "Sv\u00e4t\u00fd Jur",
+            "region": "02",
+            "country": "SK",
+            "latitude": "48.25216",
+            "longitude": "17.21539"
+        },
+        {
+            "city": "\u0160urany",
+            "region": "04",
+            "country": "SK",
+            "latitude": "48.08613",
+            "longitude": "18.18447"
+        },
+        {
+            "city": "\u0160t\u00farovo",
+            "region": "00",
+            "country": "SK",
+            "latitude": "47.79495",
+            "longitude": "18.7175"
+        },
+        {
+            "city": "Stupava",
+            "region": "00",
+            "country": "SK",
+            "latitude": "48.27474",
+            "longitude": "17.03173"
+        },
+        {
+            "city": "Star\u00e1 Tur\u00e1",
+            "region": "04",
+            "country": "SK",
+            "latitude": "48.77721",
+            "longitude": "17.69433"
+        },
+        {
+            "city": "Smolenice",
+            "region": "07",
+            "country": "SK",
+            "latitude": "48.50478",
+            "longitude": "17.43067"
+        },
+        {
+            "city": "Sl\u00e1dkovi\u010dovo",
+            "region": "07",
+            "country": "SK",
+            "latitude": "48.20137",
+            "longitude": "17.63852"
+        },
+        {
+            "city": "Skalica",
+            "region": "07",
+            "country": "SK",
+            "latitude": "48.8449",
+            "longitude": "17.22635"
+        },
+        {
+            "city": "Senica",
+            "region": "07",
+            "country": "SK",
+            "latitude": "48.67922",
+            "longitude": "17.36697"
+        },
+        {
+            "city": "Senec",
+            "region": "02",
+            "country": "SK",
+            "latitude": "48.21951",
+            "longitude": "17.40043"
+        },
+        {
+            "city": "\u0160amor\u00edn",
+            "region": "07",
+            "country": "SK",
+            "latitude": "48.03015",
+            "longitude": "17.30972"
+        },
+        {
+            "city": "Sellye",
+            "region": "04",
+            "country": "SK",
+            "latitude": "48.15127",
+            "longitude": "17.88062"
+        },
+        {
+            "city": "\u0160ahy",
+            "region": "04",
+            "country": "SK",
+            "latitude": "48.07408",
+            "longitude": "18.94946"
+        },
+        {
+            "city": "Ru\u017eomberok",
+            "region": "08",
+            "country": "SK",
+            "latitude": "49.0748",
+            "longitude": "19.30751"
+        },
+        {
+            "city": "Rajec",
+            "region": "08",
+            "country": "SK",
+            "latitude": "49.08898",
+            "longitude": "18.64007"
+        },
+        {
+            "city": "P\u00fachov",
+            "region": "04",
+            "country": "SK",
+            "latitude": "49.12494",
+            "longitude": "18.32596"
+        },
+        {
+            "city": "Prievidza",
+            "region": "04",
+            "country": "SK",
+            "latitude": "48.77446",
+            "longitude": "18.6275"
+        },
+        {
+            "city": "Pribylina",
+            "region": "",
+            "country": "SK",
+            "latitude": "49.0995",
+            "longitude": "19.79427"
+        },
+        {
+            "city": "Pova\u017esk\u00e1 Bystrica",
+            "region": "04",
+            "country": "SK",
+            "latitude": "49.12153",
+            "longitude": "18.42169"
+        },
+        {
+            "city": "Polt\u00e1r",
+            "region": "01",
+            "country": "SK",
+            "latitude": "48.43094",
+            "longitude": "19.79408"
+        },
+        {
+            "city": "Pie\u0161\u0165any",
+            "region": "07",
+            "country": "SK",
+            "latitude": "48.59479",
+            "longitude": "17.82591"
+        },
+        {
+            "city": "Pezinok",
+            "region": "02",
+            "country": "SK",
+            "latitude": "48.28986",
+            "longitude": "17.26664"
+        },
+        {
+            "city": "Partiz\u00e1nske",
+            "region": "04",
+            "country": "SK",
+            "latitude": "48.62861",
+            "longitude": "18.38456"
+        },
+        {
+            "city": "Nov\u00e9 Z\u00e1mky",
+            "region": "00",
+            "country": "SK",
+            "latitude": "47.98544",
+            "longitude": "18.16195"
+        },
+        {
+            "city": "Nov\u00e9 Mesto nad V\u00e1hom",
+            "region": "",
+            "country": "SK",
+            "latitude": "48.75763",
+            "longitude": "17.8309"
+        },
+        {
+            "city": "Nov\u00e1ky",
+            "region": "04",
+            "country": "SK",
+            "latitude": "48.71106",
+            "longitude": "18.53389"
+        },
+        {
+            "city": "Nov\u00e1 Dubnica",
+            "region": "00",
+            "country": "SK",
+            "latitude": "48.93479",
+            "longitude": "18.14632"
+        },
+        {
+            "city": "Nov\u00e1 Ba\u0148a",
+            "region": "01",
+            "country": "SK",
+            "latitude": "48.42305",
+            "longitude": "18.64037"
+        },
+        {
+            "city": "Nitra",
+            "region": "04",
+            "country": "SK",
+            "latitude": "48.30763",
+            "longitude": "18.08453"
+        },
+        {
+            "city": "Nem\u0161ov\u00e1",
+            "region": "04",
+            "country": "SK",
+            "latitude": "48.96702",
+            "longitude": "18.11892"
+        },
+        {
+            "city": "N\u00e1mestovo",
+            "region": "08",
+            "country": "SK",
+            "latitude": "49.4079",
+            "longitude": "19.48032"
+        },
+        {
+            "city": "Myjava",
+            "region": "06",
+            "country": "SK",
+            "latitude": "48.75876",
+            "longitude": "17.56866"
+        },
+        {
+            "city": "Modra",
+            "region": "02",
+            "country": "SK",
+            "latitude": "48.33397",
+            "longitude": "17.30711"
+        },
+        {
+            "city": "Martin",
+            "region": "08",
+            "country": "SK",
+            "latitude": "49.06651",
+            "longitude": "18.92399"
+        },
+        {
+            "city": "Malacky",
+            "region": "02",
+            "country": "SK",
+            "latitude": "48.43604",
+            "longitude": "17.02188"
+        },
+        {
+            "city": "Lu\u010denec",
+            "region": "01",
+            "country": "SK",
+            "latitude": "48.33249",
+            "longitude": "19.66708"
+        },
+        {
+            "city": "Liptovsk\u00fd Mikul\u00e1\u0161",
+            "region": "",
+            "country": "SK",
+            "latitude": "49.08061",
+            "longitude": "19.62218"
+        },
+        {
+            "city": "Liptovsk\u00fd Hr\u00e1dok",
+            "region": "08",
+            "country": "SK",
+            "latitude": "49.03962",
+            "longitude": "19.72335"
+        },
+        {
+            "city": "Levice",
+            "region": "04",
+            "country": "SK",
+            "latitude": "48.21563",
+            "longitude": "18.60705"
+        },
+        {
+            "city": "Leopoldov",
+            "region": "07",
+            "country": "SK",
+            "latitude": "48.44575",
+            "longitude": "17.76458"
+        },
+        {
+            "city": "Kysuck\u00e9 Nov\u00e9 Mesto",
+            "region": "08",
+            "country": "SK",
+            "latitude": "49.3",
+            "longitude": "18.78333"
+        },
+        {
+            "city": "Krupina",
+            "region": "01",
+            "country": "SK",
+            "latitude": "48.3554",
+            "longitude": "19.06474"
+        },
+        {
+            "city": "Kremnica",
+            "region": "01",
+            "country": "SK",
+            "latitude": "48.70519",
+            "longitude": "18.91834"
+        },
+        {
+            "city": "Kom\u00e1rno",
+            "region": "00",
+            "country": "SK",
+            "latitude": "47.76356",
+            "longitude": "18.12263"
+        },
+        {
+            "city": "Kol\u00e1rovo",
+            "region": "04",
+            "country": "SK",
+            "latitude": "47.92294",
+            "longitude": "17.98467"
+        },
+        {
+            "city": "Ilava",
+            "region": "04",
+            "country": "SK",
+            "latitude": "48.99769",
+            "longitude": "18.2353"
+        },
+        {
+            "city": "Hybe",
+            "region": "",
+            "country": "SK",
+            "latitude": "49.04439",
+            "longitude": "19.82895"
+        },
+        {
+            "city": "Hurbanovo",
+            "region": "00",
+            "country": "SK",
+            "latitude": "47.86984",
+            "longitude": "18.19233"
+        },
+        {
+            "city": "Hri\u0148ov\u00e1",
+            "region": "01",
+            "country": "SK",
+            "latitude": "48.57787",
+            "longitude": "19.52574"
+        },
+        {
+            "city": "Hol\u00ed\u010d",
+            "region": "07",
+            "country": "SK",
+            "latitude": "48.81105",
+            "longitude": "17.16238"
+        },
+        {
+            "city": "Hlohovec",
+            "region": "07",
+            "country": "SK",
+            "latitude": "48.43174",
+            "longitude": "17.8031"
+        },
+        {
+            "city": "Handlov\u00e1",
+            "region": "04",
+            "country": "SK",
+            "latitude": "48.7276",
+            "longitude": "18.76012"
+        },
+        {
+            "city": "Gbely",
+            "region": "07",
+            "country": "SK",
+            "latitude": "48.718",
+            "longitude": "17.11628"
+        },
+        {
+            "city": "Galanta",
+            "region": "00",
+            "country": "SK",
+            "latitude": "48.19001",
+            "longitude": "17.72747"
+        },
+        {
+            "city": "Fi\u013eakovo",
+            "region": "01",
+            "country": "SK",
+            "latitude": "48.26757",
+            "longitude": "19.82473"
+        },
+        {
+            "city": "Dunajsk\u00e1 Streda",
+            "region": "00",
+            "country": "SK",
+            "latitude": "47.99268",
+            "longitude": "17.61211"
+        },
+        {
+            "city": "Dubnica nad V\u00e1hom",
+            "region": "04",
+            "country": "SK",
+            "latitude": "48.95981",
+            "longitude": "18.16634"
+        },
+        {
+            "city": "Doln\u00fd Kub\u00edn",
+            "region": "08",
+            "country": "SK",
+            "latitude": "49.20983",
+            "longitude": "19.30341"
+        },
+        {
+            "city": "Detva",
+            "region": "01",
+            "country": "SK",
+            "latitude": "48.56082",
+            "longitude": "19.41954"
+        },
+        {
+            "city": "\u010cadca",
+            "region": "08",
+            "country": "SK",
+            "latitude": "49.43503",
+            "longitude": "18.78895"
+        },
+        {
+            "city": "\u010cachtice",
+            "region": "04",
+            "country": "SK",
+            "latitude": "48.71226",
+            "longitude": "17.78704"
+        },
+        {
+            "city": "Byt\u010da",
+            "region": "08",
+            "country": "SK",
+            "latitude": "49.22404",
+            "longitude": "18.55878"
+        },
+        {
+            "city": "Brezov\u00e1 pod Bradlom",
+            "region": "04",
+            "country": "SK",
+            "latitude": "48.6635",
+            "longitude": "17.53904"
+        },
+        {
+            "city": "Brezno",
+            "region": "01",
+            "country": "SK",
+            "latitude": "48.80431",
+            "longitude": "19.63631"
+        },
+        {
+            "city": "Bratislava",
+            "region": "02",
+            "country": "SK",
+            "latitude": "48.14816",
+            "longitude": "17.10674"
+        },
+        {
+            "city": "Bojnice",
+            "region": "04",
+            "country": "SK",
+            "latitude": "48.78511",
+            "longitude": "18.5864"
+        },
+        {
+            "city": "Bansk\u00e1 \u0160tiavnica",
+            "region": "01",
+            "country": "SK",
+            "latitude": "48.44858",
+            "longitude": "18.91003"
+        },
+        {
+            "city": "Bansk\u00e1 Bystrica",
+            "region": "01",
+            "country": "SK",
+            "latitude": "48.73946",
+            "longitude": "19.15349"
+        },
+        {
+            "city": "B\u00e1novce nad Bebravou",
+            "region": "04",
+            "country": "SK",
+            "latitude": "48.7213",
+            "longitude": "18.25754"
+        },
+        {
+            "city": "Oravsk\u00e1 Lesn\u00e1",
+            "region": "08",
+            "country": "SK",
+            "latitude": "49.36672",
+            "longitude": "19.18093"
+        }
+    ]
+}

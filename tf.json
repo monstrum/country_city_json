@@ -1,0 +1,13 @@
+{
+    "country": "French Southern Territories",
+    "code": "TF",
+    "cities": [
+        {
+            "city": "Port-aux-Fran\u00e7ais",
+            "region": "03",
+            "country": "TF",
+            "latitude": "-49.35",
+            "longitude": "70.21667"
+        }
+    ]
+}

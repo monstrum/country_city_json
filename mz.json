@@ -1,0 +1,174 @@
+{
+    "country": "Mozambique",
+    "code": "MZ",
+    "cities": [
+        {
+            "city": "Xai-Xai",
+            "region": "02",
+            "country": "MZ",
+            "latitude": "-25.05194",
+            "longitude": "33.64417"
+        },
+        {
+            "city": "Dondo",
+            "region": "05",
+            "country": "MZ",
+            "latitude": "-19.60944",
+            "longitude": "34.74306"
+        },
+        {
+            "city": "Macia",
+            "region": "02",
+            "country": "MZ",
+            "latitude": "-25.02694",
+            "longitude": "33.09889"
+        },
+        {
+            "city": "Tete",
+            "region": "08",
+            "country": "MZ",
+            "latitude": "-16.15639",
+            "longitude": "33.58667"
+        },
+        {
+            "city": "Quelimane",
+            "region": "09",
+            "country": "MZ",
+            "latitude": "-17.87861",
+            "longitude": "36.88833"
+        },
+        {
+            "city": "Pemba",
+            "region": "01",
+            "country": "MZ",
+            "latitude": "-12.97395",
+            "longitude": "40.51775"
+        },
+        {
+            "city": "Nampula",
+            "region": "06",
+            "country": "MZ",
+            "latitude": "-15.11646",
+            "longitude": "39.2666"
+        },
+        {
+            "city": "Cidade de Nacala",
+            "region": "06",
+            "country": "MZ",
+            "latitude": "-14.54278",
+            "longitude": "40.67278"
+        },
+        {
+            "city": "Montepuez",
+            "region": "01",
+            "country": "MZ",
+            "latitude": "-13.12556",
+            "longitude": "38.99972"
+        },
+        {
+            "city": "Moc\u00edmboa",
+            "region": "00",
+            "country": "MZ",
+            "latitude": "-11.31667",
+            "longitude": "40.35"
+        },
+        {
+            "city": "Ilha de Mo\u00e7ambique",
+            "region": "06",
+            "country": "MZ",
+            "latitude": "-15.03417",
+            "longitude": "40.73583"
+        },
+        {
+            "city": "Maxixe",
+            "region": "03",
+            "country": "MZ",
+            "latitude": "-23.85972",
+            "longitude": "35.34722"
+        },
+        {
+            "city": "Matola",
+            "region": "04",
+            "country": "MZ",
+            "latitude": "-25.96222",
+            "longitude": "32.45889"
+        },
+        {
+            "city": "Maputo",
+            "region": "11",
+            "country": "MZ",
+            "latitude": "-25.96528",
+            "longitude": "32.58917"
+        },
+        {
+            "city": "Manjacaze",
+            "region": "02",
+            "country": "MZ",
+            "latitude": "-24.71167",
+            "longitude": "33.88278"
+        },
+        {
+            "city": "Lichinga",
+            "region": "07",
+            "country": "MZ",
+            "latitude": "-13.31278",
+            "longitude": "35.24056"
+        },
+        {
+            "city": "Inhambane",
+            "region": "03",
+            "country": "MZ",
+            "latitude": "-23.865",
+            "longitude": "35.38333"
+        },
+        {
+            "city": "Cuamba",
+            "region": "07",
+            "country": "MZ",
+            "latitude": "-14.80306",
+            "longitude": "36.53722"
+        },
+        {
+            "city": "Chokw\u00e9",
+            "region": "02",
+            "country": "MZ",
+            "latitude": "-24.53333",
+            "longitude": "32.98333"
+        },
+        {
+            "city": "Chimoio",
+            "region": "10",
+            "country": "MZ",
+            "latitude": "-19.11639",
+            "longitude": "33.48333"
+        },
+        {
+            "city": "Chibuto",
+            "region": "02",
+            "country": "MZ",
+            "latitude": "-24.68667",
+            "longitude": "33.53056"
+        },
+        {
+            "city": "Beira",
+            "region": "05",
+            "country": "MZ",
+            "latitude": "-19.84361",
+            "longitude": "34.83889"
+        },
+        {
+            "city": "Ant\u00f3nio Enes",
+            "region": "06",
+            "country": "MZ",
+            "latitude": "-16.2325",
+            "longitude": "39.90861"
+        },
+        {
+            "city": "Mutu\u00e1li",
+            "region": "06",
+            "country": "MZ",
+            "latitude": "-14.87056",
+            "longitude": "37.00444"
+        }
+    ]
+}

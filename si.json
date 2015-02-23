@@ -1,0 +1,1154 @@
+{
+    "country": "Slovenia",
+    "code": "SI",
+    "cities": [
+        {
+            "city": "\u017du\u017eemberk",
+            "region": "N8",
+            "country": "SI",
+            "latitude": "45.83389",
+            "longitude": "14.92917"
+        },
+        {
+            "city": "\u017diri",
+            "region": "F2",
+            "country": "SI",
+            "latitude": "46.04222",
+            "longitude": "14.10722"
+        },
+        {
+            "city": "\u017delezniki",
+            "region": "F1",
+            "country": "SI",
+            "latitude": "46.23333",
+            "longitude": "14.16667"
+        },
+        {
+            "city": "\u017dalec",
+            "region": "N5",
+            "country": "SI",
+            "latitude": "46.25151",
+            "longitude": "15.16482"
+        },
+        {
+            "city": "Zagorje ob Savi",
+            "region": "E7",
+            "country": "SI",
+            "latitude": "46.13179",
+            "longitude": "14.99694"
+        },
+        {
+            "city": "Vuzenica",
+            "region": "E6",
+            "country": "SI",
+            "latitude": "46.59639",
+            "longitude": "15.16722"
+        },
+        {
+            "city": "Vrtojba",
+            "region": "00",
+            "country": "SI",
+            "latitude": "45.9125",
+            "longitude": "13.63417"
+        },
+        {
+            "city": "Vrhnika",
+            "region": "E5",
+            "country": "SI",
+            "latitude": "45.96611",
+            "longitude": "14.29556"
+        },
+        {
+            "city": "Vojnik",
+            "region": "N3",
+            "country": "SI",
+            "latitude": "46.29333",
+            "longitude": "15.30333"
+        },
+        {
+            "city": "Vodice",
+            "region": "00",
+            "country": "SI",
+            "latitude": "46.18987",
+            "longitude": "14.49492"
+        },
+        {
+            "city": "Vnanje Gorice",
+            "region": "09",
+            "country": "SI",
+            "latitude": "46.00722",
+            "longitude": "14.42194"
+        },
+        {
+            "city": "Vir pri Sti\u010dni",
+            "region": "39",
+            "country": "SI",
+            "latitude": "45.9525",
+            "longitude": "14.81778"
+        },
+        {
+            "city": "Vipava",
+            "region": "E1",
+            "country": "SI",
+            "latitude": "45.84667",
+            "longitude": "13.96306"
+        },
+        {
+            "city": "Verd",
+            "region": "E5",
+            "country": "SI",
+            "latitude": "45.95667",
+            "longitude": "14.30583"
+        },
+        {
+            "city": "Turni\u0161\u010de",
+            "region": "D6",
+            "country": "SI",
+            "latitude": "46.62778",
+            "longitude": "16.32028"
+        },
+        {
+            "city": "Trzin",
+            "region": "M8",
+            "country": "SI",
+            "latitude": "46.13333",
+            "longitude": "14.56667"
+        },
+        {
+            "city": "Tr\u017ei\u010d",
+            "region": "D5",
+            "country": "SI",
+            "latitude": "46.36357",
+            "longitude": "14.31046"
+        },
+        {
+            "city": "Trebnje",
+            "region": "D4",
+            "country": "SI",
+            "latitude": "45.90417",
+            "longitude": "15.02167"
+        },
+        {
+            "city": "Trbovlje",
+            "region": "D3",
+            "country": "SI",
+            "latitude": "46.155",
+            "longitude": "15.05333"
+        },
+        {
+            "city": "Topol\u0161ica",
+            "region": "C7",
+            "country": "SI",
+            "latitude": "46.40028",
+            "longitude": "15.02157"
+        },
+        {
+            "city": "Tolmin",
+            "region": "00",
+            "country": "SI",
+            "latitude": "46.18304",
+            "longitude": "13.73321"
+        },
+        {
+            "city": "Velenje",
+            "region": "D7",
+            "country": "SI",
+            "latitude": "46.35917",
+            "longitude": "15.11028"
+        },
+        {
+            "city": "\u0160tore",
+            "region": "C9",
+            "country": "SI",
+            "latitude": "46.22083",
+            "longitude": "15.31389"
+        },
+        {
+            "city": "Spodnje Ho\u010de",
+            "region": "00",
+            "country": "SI",
+            "latitude": "46.5",
+            "longitude": "15.65"
+        },
+        {
+            "city": "Spodnja Idrija",
+            "region": "36",
+            "country": "SI",
+            "latitude": "46.03194",
+            "longitude": "14.02722"
+        },
+        {
+            "city": "\u0160o\u0161tanj",
+            "region": "C7",
+            "country": "SI",
+            "latitude": "46.38",
+            "longitude": "15.04861"
+        },
+        {
+            "city": "\u0160marca",
+            "region": "H6",
+            "country": "SI",
+            "latitude": "46.19333",
+            "longitude": "14.59667"
+        },
+        {
+            "city": "Slovenske Konjice",
+            "region": "C4",
+            "country": "SI",
+            "latitude": "46.33667",
+            "longitude": "15.42583"
+        },
+        {
+            "city": "Slovenska Bistrica",
+            "region": "L8",
+            "country": "SI",
+            "latitude": "46.39278",
+            "longitude": "15.57444"
+        },
+        {
+            "city": "Slovenj Gradec",
+            "region": "C2",
+            "country": "SI",
+            "latitude": "46.51028",
+            "longitude": "15.08056"
+        },
+        {
+            "city": "\u0160kofljica",
+            "region": "C1",
+            "country": "SI",
+            "latitude": "45.98333",
+            "longitude": "14.57667"
+        },
+        {
+            "city": "\u0160kofja Loka",
+            "region": "B9",
+            "country": "SI",
+            "latitude": "46.16551",
+            "longitude": "14.30626"
+        },
+        {
+            "city": "Se\u017eana",
+            "region": "B7",
+            "country": "SI",
+            "latitude": "45.70924",
+            "longitude": "13.87333"
+        },
+        {
+            "city": "Sevnica",
+            "region": "B6",
+            "country": "SI",
+            "latitude": "46.00778",
+            "longitude": "15.31556"
+        },
+        {
+            "city": "\u0160entjur",
+            "region": "00",
+            "country": "SI",
+            "latitude": "46.21722",
+            "longitude": "15.3975"
+        },
+        {
+            "city": "\u0160entilj",
+            "region": "00",
+            "country": "SI",
+            "latitude": "46.68167",
+            "longitude": "15.64806"
+        },
+        {
+            "city": "Senovo",
+            "region": "54",
+            "country": "SI",
+            "latitude": "46.02361",
+            "longitude": "15.47694"
+        },
+        {
+            "city": "\u0160en\u010dur",
+            "region": "B2",
+            "country": "SI",
+            "latitude": "46.24556",
+            "longitude": "14.41972"
+        },
+        {
+            "city": "\u0160empeter v Savinjski dolini",
+            "region": "00",
+            "country": "SI",
+            "latitude": "46.25639",
+            "longitude": "15.12194"
+        },
+        {
+            "city": "\u0160empeter pri Gorici",
+            "region": "00",
+            "country": "SI",
+            "latitude": "45.9275",
+            "longitude": "13.64111"
+        },
+        {
+            "city": "\u0160empas",
+            "region": "84",
+            "country": "SI",
+            "latitude": "45.93028",
+            "longitude": "13.74361"
+        },
+        {
+            "city": "Ru\u0161e",
+            "region": "L3",
+            "country": "SI",
+            "latitude": "46.53944",
+            "longitude": "15.51583"
+        },
+        {
+            "city": "Rogoza",
+            "region": "00",
+            "country": "SI",
+            "latitude": "46.5",
+            "longitude": "15.68333"
+        },
+        {
+            "city": "Roga\u0161ka Slatina",
+            "region": "A7",
+            "country": "SI",
+            "latitude": "46.2375",
+            "longitude": "15.63972"
+        },
+        {
+            "city": "Ribnica",
+            "region": "L1",
+            "country": "SI",
+            "latitude": "45.73861",
+            "longitude": "14.7275"
+        },
+        {
+            "city": "Ren\u010de",
+            "region": "00",
+            "country": "SI",
+            "latitude": "45.89",
+            "longitude": "13.66861"
+        },
+        {
+            "city": "Razvanje",
+            "region": "J2",
+            "country": "SI",
+            "latitude": "46.51444",
+            "longitude": "15.63611"
+        },
+        {
+            "city": "Ravne",
+            "region": "C7",
+            "country": "SI",
+            "latitude": "46.39167",
+            "longitude": "15.04222"
+        },
+        {
+            "city": "Ravne",
+            "region": "D4",
+            "country": "SI",
+            "latitude": "45.9625",
+            "longitude": "15.01278"
+        },
+        {
+            "city": "Raki\u010dan",
+            "region": "80",
+            "country": "SI",
+            "latitude": "46.65167",
+            "longitude": "16.20417"
+        },
+        {
+            "city": "Rakek",
+            "region": "13",
+            "country": "SI",
+            "latitude": "45.81333",
+            "longitude": "14.31111"
+        },
+        {
+            "city": "Radovljica",
+            "region": "A3",
+            "country": "SI",
+            "latitude": "46.34444",
+            "longitude": "14.17444"
+        },
+        {
+            "city": "Radomlje",
+            "region": "G7",
+            "country": "SI",
+            "latitude": "46.17361",
+            "longitude": "14.61222"
+        },
+        {
+            "city": "Radlje ob Dravi",
+            "region": "A2",
+            "country": "SI",
+            "latitude": "46.61417",
+            "longitude": "15.22639"
+        },
+        {
+            "city": "Radenci",
+            "region": "A1",
+            "country": "SI",
+            "latitude": "46.64201",
+            "longitude": "16.03781"
+        },
+        {
+            "city": "Rade\u010de",
+            "region": "99",
+            "country": "SI",
+            "latitude": "46.06806",
+            "longitude": "15.18389"
+        },
+        {
+            "city": "Ra\u010de",
+            "region": "00",
+            "country": "SI",
+            "latitude": "46.45194",
+            "longitude": "15.68139"
+        },
+        {
+            "city": "Ptuj",
+            "region": "K7",
+            "country": "SI",
+            "latitude": "46.42005",
+            "longitude": "15.87018"
+        },
+        {
+            "city": "Prva\u010dina",
+            "region": "84",
+            "country": "SI",
+            "latitude": "45.89",
+            "longitude": "13.71806"
+        },
+        {
+            "city": "Prevalje",
+            "region": "K6",
+            "country": "SI",
+            "latitude": "46.54694",
+            "longitude": "14.92083"
+        },
+        {
+            "city": "Prebold",
+            "region": "K4",
+            "country": "SI",
+            "latitude": "46.23694",
+            "longitude": "15.0925"
+        },
+        {
+            "city": "Pragersko",
+            "region": "L8",
+            "country": "SI",
+            "latitude": "46.39667",
+            "longitude": "15.66"
+        },
+        {
+            "city": "Postojna",
+            "region": "94",
+            "country": "SI",
+            "latitude": "45.77694",
+            "longitude": "14.21667"
+        },
+        {
+            "city": "Portoro\u017e",
+            "region": "J9",
+            "country": "SI",
+            "latitude": "45.51429",
+            "longitude": "13.59206"
+        },
+        {
+            "city": "Polzela",
+            "region": "K3",
+            "country": "SI",
+            "latitude": "46.28333",
+            "longitude": "15.06667"
+        },
+        {
+            "city": "Polj\u010dane",
+            "region": "00",
+            "country": "SI",
+            "latitude": "46.31194",
+            "longitude": "15.57917"
+        },
+        {
+            "city": "Podhom",
+            "region": "03",
+            "country": "SI",
+            "latitude": "46.4",
+            "longitude": "14.1"
+        },
+        {
+            "city": "Pivka",
+            "region": "91",
+            "country": "SI",
+            "latitude": "45.67944",
+            "longitude": "14.19667"
+        },
+        {
+            "city": "Piran",
+            "region": "J9",
+            "country": "SI",
+            "latitude": "45.52778",
+            "longitude": "13.57056"
+        },
+        {
+            "city": "Pekre",
+            "region": "J2",
+            "country": "SI",
+            "latitude": "46.54722",
+            "longitude": "15.59556"
+        },
+        {
+            "city": "Pame\u010de",
+            "region": "C2",
+            "country": "SI",
+            "latitude": "46.53417",
+            "longitude": "15.07917"
+        },
+        {
+            "city": "Ormo\u017e",
+            "region": "87",
+            "country": "SI",
+            "latitude": "46.41139",
+            "longitude": "16.15444"
+        },
+        {
+            "city": "Oplotnica",
+            "region": "J8",
+            "country": "SI",
+            "latitude": "46.38778",
+            "longitude": "15.44667"
+        },
+        {
+            "city": "Odranci",
+            "region": "86",
+            "country": "SI",
+            "latitude": "46.58667",
+            "longitude": "16.28028"
+        },
+        {
+            "city": "Novo Mesto",
+            "region": "J7",
+            "country": "SI",
+            "latitude": "45.80397",
+            "longitude": "15.16886"
+        },
+        {
+            "city": "Nova Gorica",
+            "region": "84",
+            "country": "SI",
+            "latitude": "45.95604",
+            "longitude": "13.64837"
+        },
+        {
+            "city": "Muta",
+            "region": "81",
+            "country": "SI",
+            "latitude": "46.61139",
+            "longitude": "15.16611"
+        },
+        {
+            "city": "Murska Sobota",
+            "region": "80",
+            "country": "SI",
+            "latitude": "46.6625",
+            "longitude": "16.16639"
+        },
+        {
+            "city": "Mozirje",
+            "region": "79",
+            "country": "SI",
+            "latitude": "46.33944",
+            "longitude": "14.96333"
+        },
+        {
+            "city": "Mojstrana",
+            "region": "53",
+            "country": "SI",
+            "latitude": "46.46111",
+            "longitude": "13.93694"
+        },
+        {
+            "city": "Mislinja",
+            "region": "76",
+            "country": "SI",
+            "latitude": "46.44111",
+            "longitude": "15.19556"
+        },
+        {
+            "city": "Mirna",
+            "region": "D4",
+            "country": "SI",
+            "latitude": "45.95528",
+            "longitude": "15.06194"
+        },
+        {
+            "city": "Miren",
+            "region": "00",
+            "country": "SI",
+            "latitude": "45.89556",
+            "longitude": "13.6075"
+        },
+        {
+            "city": "Miklav\u017e na Dravskem Polju",
+            "region": "J4",
+            "country": "SI",
+            "latitude": "46.50583",
+            "longitude": "15.69722"
+        },
+        {
+            "city": "Me\u017eica",
+            "region": "74",
+            "country": "SI",
+            "latitude": "46.52139",
+            "longitude": "14.85444"
+        },
+        {
+            "city": "Metlika",
+            "region": "73",
+            "country": "SI",
+            "latitude": "45.64722",
+            "longitude": "15.31417"
+        },
+        {
+            "city": "Menge\u0161",
+            "region": "72",
+            "country": "SI",
+            "latitude": "46.16694",
+            "longitude": "14.575"
+        },
+        {
+            "city": "Mekinje",
+            "region": "H6",
+            "country": "SI",
+            "latitude": "46.23333",
+            "longitude": "14.61667"
+        },
+        {
+            "city": "Medvode",
+            "region": "71",
+            "country": "SI",
+            "latitude": "46.13333",
+            "longitude": "14.43333"
+        },
+        {
+            "city": "Maribor",
+            "region": "J2",
+            "country": "SI",
+            "latitude": "46.55472",
+            "longitude": "15.64667"
+        },
+        {
+            "city": "Lovrenc na Pohorju",
+            "region": "I8",
+            "country": "SI",
+            "latitude": "46.54056",
+            "longitude": "15.39306"
+        },
+        {
+            "city": "Ljutomer",
+            "region": "I6",
+            "country": "SI",
+            "latitude": "46.52083",
+            "longitude": "16.1975"
+        },
+        {
+            "city": "Ljubljana",
+            "region": "61",
+            "country": "SI",
+            "latitude": "46.05108",
+            "longitude": "14.50513"
+        },
+        {
+            "city": "Litija",
+            "region": "I5",
+            "country": "SI",
+            "latitude": "46.05861",
+            "longitude": "14.8225"
+        },
+        {
+            "city": "Lipovci",
+            "region": "01",
+            "country": "SI",
+            "latitude": "46.62833",
+            "longitude": "16.22806"
+        },
+        {
+            "city": "Limbu\u0161",
+            "region": "J2",
+            "country": "SI",
+            "latitude": "46.55361",
+            "longitude": "15.58361"
+        },
+        {
+            "city": "Lesce",
+            "region": "A3",
+            "country": "SI",
+            "latitude": "46.36111",
+            "longitude": "14.15778"
+        },
+        {
+            "city": "Lendava",
+            "region": "00",
+            "country": "SI",
+            "latitude": "46.56494",
+            "longitude": "16.45091"
+        },
+        {
+            "city": "Lenart v Slovenskih Goricah",
+            "region": "I3",
+            "country": "SI",
+            "latitude": "46.57611",
+            "longitude": "15.83139"
+        },
+        {
+            "city": "La\u0161ko",
+            "region": "57",
+            "country": "SI",
+            "latitude": "46.15463",
+            "longitude": "15.23555"
+        },
+        {
+            "city": "Kr\u0161ko",
+            "region": "54",
+            "country": "SI",
+            "latitude": "45.95915",
+            "longitude": "15.49167"
+        },
+        {
+            "city": "Kromberk",
+            "region": "84",
+            "country": "SI",
+            "latitude": "45.96083",
+            "longitude": "13.66556"
+        },
+        {
+            "city": "Krog",
+            "region": "80",
+            "country": "SI",
+            "latitude": "46.63806",
+            "longitude": "16.14139"
+        },
+        {
+            "city": "Kranjska Gora",
+            "region": "53",
+            "country": "SI",
+            "latitude": "46.48389",
+            "longitude": "13.78944"
+        },
+        {
+            "city": "Kranj",
+            "region": "52",
+            "country": "SI",
+            "latitude": "46.23887",
+            "longitude": "14.35561"
+        },
+        {
+            "city": "Kotlje",
+            "region": "K8",
+            "country": "SI",
+            "latitude": "46.52139",
+            "longitude": "14.98694"
+        },
+        {
+            "city": "Koper",
+            "region": "50",
+            "country": "SI",
+            "latitude": "45.54694",
+            "longitude": "13.72944"
+        },
+        {
+            "city": "Kokrica",
+            "region": "52",
+            "country": "SI",
+            "latitude": "46.27028",
+            "longitude": "14.36111"
+        },
+        {
+            "city": "Ko\u010devje",
+            "region": "H7",
+            "country": "SI",
+            "latitude": "45.64333",
+            "longitude": "14.86333"
+        },
+        {
+            "city": "Kobarid",
+            "region": "46",
+            "country": "SI",
+            "latitude": "46.24806",
+            "longitude": "13.57722"
+        },
+        {
+            "city": "Kidri\u010devo",
+            "region": "45",
+            "country": "SI",
+            "latitude": "46.40361",
+            "longitude": "15.79111"
+        },
+        {
+            "city": "Kanal",
+            "region": "44",
+            "country": "SI",
+            "latitude": "46.08861",
+            "longitude": "13.63972"
+        },
+        {
+            "city": "Kamnik",
+            "region": "H6",
+            "country": "SI",
+            "latitude": "46.22587",
+            "longitude": "14.61207"
+        },
+        {
+            "city": "Kamnica",
+            "region": "J2",
+            "country": "SI",
+            "latitude": "46.57444",
+            "longitude": "15.61417"
+        },
+        {
+            "city": "Jesenice",
+            "region": "H4",
+            "country": "SI",
+            "latitude": "46.43056",
+            "longitude": "14.06694"
+        },
+        {
+            "city": "Izola",
+            "region": "40",
+            "country": "SI",
+            "latitude": "45.53694",
+            "longitude": "13.66194"
+        },
+        {
+            "city": "Izlake",
+            "region": "E7",
+            "country": "SI",
+            "latitude": "46.15",
+            "longitude": "14.95"
+        },
+        {
+            "city": "Ilirska Bistrica",
+            "region": "38",
+            "country": "SI",
+            "latitude": "45.56972",
+            "longitude": "14.24083"
+        },
+        {
+            "city": "Ig",
+            "region": "37",
+            "country": "SI",
+            "latitude": "45.96028",
+            "longitude": "14.52889"
+        },
+        {
+            "city": "Idrija",
+            "region": "36",
+            "country": "SI",
+            "latitude": "46.00278",
+            "longitude": "14.03056"
+        },
+        {
+            "city": "Hru\u0161ica",
+            "region": "H4",
+            "country": "SI",
+            "latitude": "46.445",
+            "longitude": "14.01778"
+        },
+        {
+            "city": "Hrastnik",
+            "region": "34",
+            "country": "SI",
+            "latitude": "46.14611",
+            "longitude": "15.08139"
+        },
+        {
+            "city": "Horjul",
+            "region": "H3",
+            "country": "SI",
+            "latitude": "46.02361",
+            "longitude": "14.29917"
+        },
+        {
+            "city": "Grosuplje",
+            "region": "32",
+            "country": "SI",
+            "latitude": "45.95556",
+            "longitude": "14.65889"
+        },
+        {
+            "city": "Gotovlje",
+            "region": "N5",
+            "country": "SI",
+            "latitude": "46.26028",
+            "longitude": "15.16944"
+        },
+        {
+            "city": "Gornja Radgona",
+            "region": "29",
+            "country": "SI",
+            "latitude": "46.67333",
+            "longitude": "15.99222"
+        },
+        {
+            "city": "Stra\u017ea",
+            "region": "00",
+            "country": "SI",
+            "latitude": "45.78",
+            "longitude": "15.07278"
+        },
+        {
+            "city": "Golnik",
+            "region": "52",
+            "country": "SI",
+            "latitude": "46.33333",
+            "longitude": "14.33333"
+        },
+        {
+            "city": "Gan\u010dani",
+            "region": "01",
+            "country": "SI",
+            "latitude": "46.6325",
+            "longitude": "16.25111"
+        },
+        {
+            "city": "Dravograd",
+            "region": "25",
+            "country": "SI",
+            "latitude": "46.58806",
+            "longitude": "15.01917"
+        },
+        {
+            "city": "Dragomer",
+            "region": "00",
+            "country": "SI",
+            "latitude": "46.01667",
+            "longitude": "14.38333"
+        },
+        {
+            "city": "Dom\u017eale",
+            "region": "G7",
+            "country": "SI",
+            "latitude": "46.13774",
+            "longitude": "14.59371"
+        },
+        {
+            "city": "Dob",
+            "region": "G7",
+            "country": "SI",
+            "latitude": "46.15194",
+            "longitude": "14.62861"
+        },
+        {
+            "city": "Diva\u010da",
+            "region": "19",
+            "country": "SI",
+            "latitude": "45.68472",
+            "longitude": "13.97028"
+        },
+        {
+            "city": "Deskle",
+            "region": "44",
+            "country": "SI",
+            "latitude": "46.0525",
+            "longitude": "13.62361"
+        },
+        {
+            "city": "Dekani",
+            "region": "50",
+            "country": "SI",
+            "latitude": "45.54972",
+            "longitude": "13.81361"
+        },
+        {
+            "city": "\u010crnomelj",
+            "region": "17",
+            "country": "SI",
+            "latitude": "45.57111",
+            "longitude": "15.18889"
+        },
+        {
+            "city": "\u010crna na Koro\u0161kem",
+            "region": "G1",
+            "country": "SI",
+            "latitude": "46.47045",
+            "longitude": "14.85009"
+        },
+        {
+            "city": "\u010cren\u0161ovci",
+            "region": "15",
+            "country": "SI",
+            "latitude": "46.57444",
+            "longitude": "16.29056"
+        },
+        {
+            "city": "\u010cernelavci",
+            "region": "80",
+            "country": "SI",
+            "latitude": "46.66667",
+            "longitude": "16.13333"
+        },
+        {
+            "city": "Cerknica",
+            "region": "13",
+            "country": "SI",
+            "latitude": "45.79306",
+            "longitude": "14.3625"
+        },
+        {
+            "city": "Celje",
+            "region": "11",
+            "country": "SI",
+            "latitude": "46.23092",
+            "longitude": "15.26044"
+        },
+        {
+            "city": "Britof",
+            "region": "00",
+            "country": "SI",
+            "latitude": "46.26024",
+            "longitude": "14.39037"
+        },
+        {
+            "city": "Brezovica",
+            "region": "09",
+            "country": "SI",
+            "latitude": "46.03333",
+            "longitude": "14.4"
+        },
+        {
+            "city": "Bre\u017eice",
+            "region": "08",
+            "country": "SI",
+            "latitude": "45.90333",
+            "longitude": "15.59111"
+        },
+        {
+            "city": "Brestrnica",
+            "region": "J2",
+            "country": "SI",
+            "latitude": "46.56972",
+            "longitude": "15.575"
+        },
+        {
+            "city": "Bovec",
+            "region": "06",
+            "country": "SI",
+            "latitude": "46.3375",
+            "longitude": "13.55278"
+        },
+        {
+            "city": "Borovnica",
+            "region": "05",
+            "country": "SI",
+            "latitude": "45.91583",
+            "longitude": "14.36306"
+        },
+        {
+            "city": "Bohinjska Bistrica",
+            "region": "00",
+            "country": "SI",
+            "latitude": "46.27216",
+            "longitude": "13.9535"
+        },
+        {
+            "city": "Bled",
+            "region": "03",
+            "country": "SI",
+            "latitude": "46.36917",
+            "longitude": "14.11361"
+        },
+        {
+            "city": "Bilje",
+            "region": "00",
+            "country": "SI",
+            "latitude": "45.89444",
+            "longitude": "13.63222"
+        },
+        {
+            "city": "Beltinci",
+            "region": "01",
+            "country": "SI",
+            "latitude": "46.60528",
+            "longitude": "16.24056"
+        },
+        {
+            "city": "Bakovci",
+            "region": "80",
+            "country": "SI",
+            "latitude": "46.61889",
+            "longitude": "16.15028"
+        },
+        {
+            "city": "Ajdov\u0161\u010dina",
+            "region": "00",
+            "country": "SI",
+            "latitude": "45.88601",
+            "longitude": "13.90946"
+        },
+        {
+            "city": "Solkan",
+            "region": "84",
+            "country": "SI",
+            "latitude": "45.97139",
+            "longitude": "13.64944"
+        },
+        {
+            "city": "Koro\u0161ka-Bela",
+            "region": "H4",
+            "country": "SI",
+            "latitude": "46.43028",
+            "longitude": "14.10333"
+        },
+        {
+            "city": "Cerkno",
+            "region": "14",
+            "country": "SI",
+            "latitude": "46.12556",
+            "longitude": "13.98167"
+        },
+        {
+            "city": "Logatec",
+            "region": "64",
+            "country": "SI",
+            "latitude": "45.91444",
+            "longitude": "14.22583"
+        },
+        {
+            "city": "Ankaran",
+            "region": "50",
+            "country": "SI",
+            "latitude": "45.57861",
+            "longitude": "13.73611"
+        },
+        {
+            "city": "Zre\u010de",
+            "region": "F3",
+            "country": "SI",
+            "latitude": "46.38222",
+            "longitude": "15.37917"
+        },
+        {
+            "city": "Radizel",
+            "region": "00",
+            "country": "SI",
+            "latitude": "46.47444",
+            "longitude": "15.65583"
+        },
+        {
+            "city": "Lucija",
+            "region": "J9",
+            "country": "SI",
+            "latitude": "45.50526",
+            "longitude": "13.6024"
+        },
+        {
+            "city": "Jagodje",
+            "region": "40",
+            "country": "SI",
+            "latitude": "45.53222",
+            "longitude": "13.655"
+        },
+        {
+            "city": "Kisovec",
+            "region": "",
+            "country": "SI",
+            "latitude": "46.13911",
+            "longitude": "14.96295"
+        }
+    ]
+}

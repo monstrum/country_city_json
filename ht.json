@@ -1,0 +1,713 @@
+{
+    "country": "Haiti",
+    "code": "HT",
+    "cities": [
+        {
+            "city": "Verrettes",
+            "region": "06",
+            "country": "HT",
+            "latitude": "19.05",
+            "longitude": "-72.46667"
+        },
+        {
+            "city": "Trou du Nord",
+            "region": "10",
+            "country": "HT",
+            "latitude": "19.63333",
+            "longitude": "-72.01667"
+        },
+        {
+            "city": "Torbeck",
+            "region": "12",
+            "country": "HT",
+            "latitude": "18.16667",
+            "longitude": "-73.81194"
+        },
+        {
+            "city": "Tiburon",
+            "region": "12",
+            "country": "HT",
+            "latitude": "18.33333",
+            "longitude": "-74.4"
+        },
+        {
+            "city": "Thomonde",
+            "region": "07",
+            "country": "HT",
+            "latitude": "19.01667",
+            "longitude": "-71.96667"
+        },
+        {
+            "city": "Thomazeau",
+            "region": "11",
+            "country": "HT",
+            "latitude": "18.65194",
+            "longitude": "-72.09472"
+        },
+        {
+            "city": "Thomassique",
+            "region": "07",
+            "country": "HT",
+            "latitude": "19.08333",
+            "longitude": "-71.83333"
+        },
+        {
+            "city": "Thiote",
+            "region": "13",
+            "country": "HT",
+            "latitude": "18.25",
+            "longitude": "-71.85"
+        },
+        {
+            "city": "Saint-Rapha\u00ebl",
+            "region": "09",
+            "country": "HT",
+            "latitude": "19.43333",
+            "longitude": "-72.2"
+        },
+        {
+            "city": "Saint-Marc",
+            "region": "06",
+            "country": "HT",
+            "latitude": "19.10819",
+            "longitude": "-72.69379"
+        },
+        {
+            "city": "Saint-Louis du Sud",
+            "region": "12",
+            "country": "HT",
+            "latitude": "18.26667",
+            "longitude": "-73.55"
+        },
+        {
+            "city": "Saint-Louis du Nord",
+            "region": "03",
+            "country": "HT",
+            "latitude": "19.93333",
+            "longitude": "-72.71667"
+        },
+        {
+            "city": "Roche-\u00e0-Bateau",
+            "region": "12",
+            "country": "HT",
+            "latitude": "18.18333",
+            "longitude": "-74"
+        },
+        {
+            "city": "Ranquitte",
+            "region": "09",
+            "country": "HT",
+            "latitude": "19.41667",
+            "longitude": "-72.08333"
+        },
+        {
+            "city": "Quartier Morin",
+            "region": "09",
+            "country": "HT",
+            "latitude": "19.69667",
+            "longitude": "-72.15694"
+        },
+        {
+            "city": "Port Margot",
+            "region": "09",
+            "country": "HT",
+            "latitude": "19.75",
+            "longitude": "-72.43333"
+        },
+        {
+            "city": "Port-au-Prince",
+            "region": "11",
+            "country": "HT",
+            "latitude": "18.53917",
+            "longitude": "-72.335"
+        },
+        {
+            "city": "Port-\u00e0-Piment",
+            "region": "12",
+            "country": "HT",
+            "latitude": "18.25",
+            "longitude": "-74.1"
+        },
+        {
+            "city": "Plaisance",
+            "region": "09",
+            "country": "HT",
+            "latitude": "19.6",
+            "longitude": "-72.46667"
+        },
+        {
+            "city": "Plaine du Nord",
+            "region": "09",
+            "country": "HT",
+            "latitude": "19.68333",
+            "longitude": "-72.26667"
+        },
+        {
+            "city": "Pilate",
+            "region": "09",
+            "country": "HT",
+            "latitude": "19.66667",
+            "longitude": "-72.55"
+        },
+        {
+            "city": "Pignon",
+            "region": "09",
+            "country": "HT",
+            "latitude": "19.33333",
+            "longitude": "-72.11667"
+        },
+        {
+            "city": "Pha\u00e9ton",
+            "region": "10",
+            "country": "HT",
+            "latitude": "19.67417",
+            "longitude": "-71.89722"
+        },
+        {
+            "city": "Petit Trou de Nippes",
+            "region": "14",
+            "country": "HT",
+            "latitude": "18.52535",
+            "longitude": "-73.50815"
+        },
+        {
+            "city": "Petit Go\u00e2ve",
+            "region": "11",
+            "country": "HT",
+            "latitude": "18.43139",
+            "longitude": "-72.86694"
+        },
+        {
+            "city": "Petite Rivi\u00e8re de Nippes",
+            "region": "14",
+            "country": "HT",
+            "latitude": "18.47611",
+            "longitude": "-73.23495"
+        },
+        {
+            "city": "Petite Anse",
+            "region": "03",
+            "country": "HT",
+            "latitude": "19.62972",
+            "longitude": "-73.15444"
+        },
+        {
+            "city": "P\u00e9tionville",
+            "region": "11",
+            "country": "HT",
+            "latitude": "18.5125",
+            "longitude": "-72.28528"
+        },
+        {
+            "city": "Perches",
+            "region": "10",
+            "country": "HT",
+            "latitude": "19.51667",
+            "longitude": "-71.91667"
+        },
+        {
+            "city": "Ouanaminthe",
+            "region": "10",
+            "country": "HT",
+            "latitude": "19.55",
+            "longitude": "-71.73333"
+        },
+        {
+            "city": "Moron",
+            "region": "14",
+            "country": "HT",
+            "latitude": "18.56667",
+            "longitude": "-74.25"
+        },
+        {
+            "city": "Mont Organis\u00e9",
+            "region": "10",
+            "country": "HT",
+            "latitude": "19.4",
+            "longitude": "-71.78333"
+        },
+        {
+            "city": "M\u00f4le Saint-Nicolas",
+            "region": "03",
+            "country": "HT",
+            "latitude": "19.8",
+            "longitude": "-73.38333"
+        },
+        {
+            "city": "Mirebalais",
+            "region": "07",
+            "country": "HT",
+            "latitude": "18.83333",
+            "longitude": "-72.10528"
+        },
+        {
+            "city": "Mirago\u00e2ne",
+            "region": "15",
+            "country": "HT",
+            "latitude": "18.44232",
+            "longitude": "-73.08758"
+        },
+        {
+            "city": "Milot",
+            "region": "09",
+            "country": "HT",
+            "latitude": "19.61667",
+            "longitude": "-72.21667"
+        },
+        {
+            "city": "Marmelade",
+            "region": "06",
+            "country": "HT",
+            "latitude": "19.51667",
+            "longitude": "-72.35"
+        },
+        {
+            "city": "Marigot",
+            "region": "13",
+            "country": "HT",
+            "latitude": "18.23389",
+            "longitude": "-72.31667"
+        },
+        {
+            "city": "Ma\u00efssade",
+            "region": "07",
+            "country": "HT",
+            "latitude": "19.16667",
+            "longitude": "-72.13333"
+        },
+        {
+            "city": "Limonade",
+            "region": "09",
+            "country": "HT",
+            "latitude": "19.66972",
+            "longitude": "-72.12528"
+        },
+        {
+            "city": "Limb\u00e9",
+            "region": "09",
+            "country": "HT",
+            "latitude": "19.7",
+            "longitude": "-72.4"
+        },
+        {
+            "city": "Les Irois",
+            "region": "14",
+            "country": "HT",
+            "latitude": "18.4",
+            "longitude": "-74.45"
+        },
+        {
+            "city": "Les Anglais",
+            "region": "12",
+            "country": "HT",
+            "latitude": "18.3054",
+            "longitude": "-74.21968"
+        },
+        {
+            "city": "L\u00e9og\u00e2ne",
+            "region": "11",
+            "country": "HT",
+            "latitude": "18.51083",
+            "longitude": "-72.63389"
+        },
+        {
+            "city": "Le Borgne",
+            "region": "09",
+            "country": "HT",
+            "latitude": "19.85",
+            "longitude": "-72.53333"
+        },
+        {
+            "city": "Lascahobas",
+            "region": "07",
+            "country": "HT",
+            "latitude": "18.82944",
+            "longitude": "-71.93639"
+        },
+        {
+            "city": "Kenscoff",
+            "region": "11",
+            "country": "HT",
+            "latitude": "18.45056",
+            "longitude": "-72.28694"
+        },
+        {
+            "city": "J\u00e9r\u00e9mie",
+            "region": "14",
+            "country": "HT",
+            "latitude": "18.65",
+            "longitude": "-74.11667"
+        },
+        {
+            "city": "Jean-Rabel",
+            "region": "03",
+            "country": "HT",
+            "latitude": "19.85333",
+            "longitude": "-73.19167"
+        },
+        {
+            "city": "Jacmel",
+            "region": "13",
+            "country": "HT",
+            "latitude": "18.23417",
+            "longitude": "-72.53472"
+        },
+        {
+            "city": "Hinche",
+            "region": "07",
+            "country": "HT",
+            "latitude": "19.15",
+            "longitude": "-72.01667"
+        },
+        {
+            "city": "Gros Morne",
+            "region": "06",
+            "country": "HT",
+            "latitude": "19.66667",
+            "longitude": "-72.68333"
+        },
+        {
+            "city": "Gressier",
+            "region": "11",
+            "country": "HT",
+            "latitude": "18.55",
+            "longitude": "-72.51667"
+        },
+        {
+            "city": "Grand Go\u00e2ve",
+            "region": "11",
+            "country": "HT",
+            "latitude": "18.42889",
+            "longitude": "-72.77056"
+        },
+        {
+            "city": "Grande Saline",
+            "region": "06",
+            "country": "HT",
+            "latitude": "19.26513",
+            "longitude": "-72.76897"
+        },
+        {
+            "city": "Grande Rivi\u00e8re du Nord",
+            "region": "09",
+            "country": "HT",
+            "latitude": "19.58333",
+            "longitude": "-72.18333"
+        },
+        {
+            "city": "Gona\u00efves",
+            "region": "06",
+            "country": "HT",
+            "latitude": "19.45",
+            "longitude": "-72.68333"
+        },
+        {
+            "city": "Fort Libert\u00e9",
+            "region": "10",
+            "country": "HT",
+            "latitude": "19.66778",
+            "longitude": "-71.83972"
+        },
+        {
+            "city": "Fond Verrettes",
+            "region": "11",
+            "country": "HT",
+            "latitude": "18.39139",
+            "longitude": "-71.85694"
+        },
+        {
+            "city": "Fond Parisien",
+            "region": "11",
+            "country": "HT",
+            "latitude": "18.50583",
+            "longitude": "-71.97667"
+        },
+        {
+            "city": "Fond des Blancs",
+            "region": "12",
+            "country": "HT",
+            "latitude": "18.28333",
+            "longitude": "-73.13333"
+        },
+        {
+            "city": "Fond Bassin Bleu",
+            "region": "03",
+            "country": "HT",
+            "latitude": "19.8",
+            "longitude": "-72.8"
+        },
+        {
+            "city": "Ferrier",
+            "region": "10",
+            "country": "HT",
+            "latitude": "19.61667",
+            "longitude": "-71.78333"
+        },
+        {
+            "city": "Ennery",
+            "region": "06",
+            "country": "HT",
+            "latitude": "19.48333",
+            "longitude": "-72.48333"
+        },
+        {
+            "city": "Dondon",
+            "region": "09",
+            "country": "HT",
+            "latitude": "19.53333",
+            "longitude": "-72.23333"
+        },
+        {
+            "city": "Dessalines",
+            "region": "06",
+            "country": "HT",
+            "latitude": "19.28333",
+            "longitude": "-72.5"
+        },
+        {
+            "city": "D\u00e9sarmes",
+            "region": "06",
+            "country": "HT",
+            "latitude": "18.99167",
+            "longitude": "-72.38889"
+        },
+        {
+            "city": "D\u00e9rac",
+            "region": "10",
+            "country": "HT",
+            "latitude": "19.65",
+            "longitude": "-71.81667"
+        },
+        {
+            "city": "Delmas 73",
+            "region": "11",
+            "country": "HT",
+            "latitude": "18.54472",
+            "longitude": "-72.30278"
+        },
+        {
+            "city": "Dame-Marie",
+            "region": "14",
+            "country": "HT",
+            "latitude": "18.56667",
+            "longitude": "-74.41667"
+        },
+        {
+            "city": "Croix des Bouquets",
+            "region": "11",
+            "country": "HT",
+            "latitude": "18.575",
+            "longitude": "-72.225"
+        },
+        {
+            "city": "C\u00f4tes-de-Fer",
+            "region": "12",
+            "country": "HT",
+            "latitude": "18.18333",
+            "longitude": "-73"
+        },
+        {
+            "city": "Coteaux",
+            "region": "12",
+            "country": "HT",
+            "latitude": "18.2",
+            "longitude": "-74.03333"
+        },
+        {
+            "city": "Cornillon",
+            "region": "11",
+            "country": "HT",
+            "latitude": "18.67472",
+            "longitude": "-71.95333"
+        },
+        {
+            "city": "Corail",
+            "region": "14",
+            "country": "HT",
+            "latitude": "18.56722",
+            "longitude": "-73.89222"
+        },
+        {
+            "city": "Chardonni\u00e8re",
+            "region": "12",
+            "country": "HT",
+            "latitude": "18.27484",
+            "longitude": "-74.16613"
+        },
+        {
+            "city": "Chantal",
+            "region": "12",
+            "country": "HT",
+            "latitude": "18.2",
+            "longitude": "-73.88333"
+        },
+        {
+            "city": "Chambellan",
+            "region": "14",
+            "country": "HT",
+            "latitude": "18.56667",
+            "longitude": "-74.31667"
+        },
+        {
+            "city": "Cerca la Source",
+            "region": "07",
+            "country": "HT",
+            "latitude": "19.16667",
+            "longitude": "-71.78333"
+        },
+        {
+            "city": "Cayes Jacmel",
+            "region": "13",
+            "country": "HT",
+            "latitude": "18.23028",
+            "longitude": "-72.39611"
+        },
+        {
+            "city": "Les Cayes",
+            "region": "12",
+            "country": "HT",
+            "latitude": "18.2",
+            "longitude": "-73.75"
+        },
+        {
+            "city": "Cavaillon",
+            "region": "12",
+            "country": "HT",
+            "latitude": "18.3",
+            "longitude": "-73.65"
+        },
+        {
+            "city": "Carrefour",
+            "region": "11",
+            "country": "HT",
+            "latitude": "18.54114",
+            "longitude": "-72.39922"
+        },
+        {
+            "city": "Carice",
+            "region": "10",
+            "country": "HT",
+            "latitude": "19.38333",
+            "longitude": "-71.83333"
+        },
+        {
+            "city": "Caracol",
+            "region": "10",
+            "country": "HT",
+            "latitude": "19.69083",
+            "longitude": "-72.01611"
+        },
+        {
+            "city": "Cap-Ha\u00eftien",
+            "region": "09",
+            "country": "HT",
+            "latitude": "19.75778",
+            "longitude": "-72.20417"
+        },
+        {
+            "city": "Cabaret",
+            "region": "11",
+            "country": "HT",
+            "latitude": "18.73583",
+            "longitude": "-72.4175"
+        },
+        {
+            "city": "Bombardopolis",
+            "region": "03",
+            "country": "HT",
+            "latitude": "19.7",
+            "longitude": "-73.33333"
+        },
+        {
+            "city": "Belle-Anse",
+            "region": "13",
+            "country": "HT",
+            "latitude": "18.23722",
+            "longitude": "-72.06556"
+        },
+        {
+            "city": "Barad\u00e8res",
+            "region": "14",
+            "country": "HT",
+            "latitude": "18.4825",
+            "longitude": "-73.63861"
+        },
+        {
+            "city": "Baie de Henne",
+            "region": "03",
+            "country": "HT",
+            "latitude": "19.66278",
+            "longitude": "-73.20944"
+        },
+        {
+            "city": "Bahon",
+            "region": "09",
+            "country": "HT",
+            "latitude": "19.46667",
+            "longitude": "-72.11667"
+        },
+        {
+            "city": "Arcahaie",
+            "region": "03",
+            "country": "HT",
+            "latitude": "19.81667",
+            "longitude": "-72.91667"
+        },
+        {
+            "city": "Aquin",
+            "region": "12",
+            "country": "HT",
+            "latitude": "18.28333",
+            "longitude": "-73.4"
+        },
+        {
+            "city": "Anse Rouge",
+            "region": "06",
+            "country": "HT",
+            "latitude": "19.63333",
+            "longitude": "-73.05"
+        },
+        {
+            "city": "Anse-\u00e0-Veau",
+            "region": "14",
+            "country": "HT",
+            "latitude": "18.5011",
+            "longitude": "-73.3449"
+        },
+        {
+            "city": "Anse-\u00e0-Pitres",
+            "region": "13",
+            "country": "HT",
+            "latitude": "18.05",
+            "longitude": "-71.75"
+        },
+        {
+            "city": "Anse \u00e0 Galets",
+            "region": "11",
+            "country": "HT",
+            "latitude": "18.83167",
+            "longitude": "-72.86417"
+        },
+        {
+            "city": "Acul du Nord",
+            "region": "09",
+            "country": "HT",
+            "latitude": "19.68333",
+            "longitude": "-72.31667"
+        },
+        {
+            "city": "Abricots",
+            "region": "14",
+            "country": "HT",
+            "latitude": "18.63333",
+            "longitude": "-74.3"
+        },
+        {
+            "city": "Ti Port-de-Paix",
+            "region": "03",
+            "country": "HT",
+            "latitude": "19.93333",
+            "longitude": "-72.83333"
+        }
+    ]
+}

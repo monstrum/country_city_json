@@ -1,0 +1,741 @@
+{
+    "country": "Latvia",
+    "code": "LV",
+    "cities": [
+        {
+            "city": "Valmiera",
+            "region": "31",
+            "country": "LV",
+            "latitude": "57.54108",
+            "longitude": "25.42751"
+        },
+        {
+            "city": "Zilupe",
+            "region": "19",
+            "country": "LV",
+            "latitude": "56.38616",
+            "longitude": "28.12165"
+        },
+        {
+            "city": "Vi\u013c\u0101ni",
+            "region": "24",
+            "country": "LV",
+            "latitude": "56.55253",
+            "longitude": "26.92449"
+        },
+        {
+            "city": "Vies\u012bte",
+            "region": "10",
+            "country": "LV",
+            "latitude": "56.34751",
+            "longitude": "25.55514"
+        },
+        {
+            "city": "Vecumnieki",
+            "region": "E4",
+            "country": "LV",
+            "latitude": "56.60639",
+            "longitude": "24.52222"
+        },
+        {
+            "city": "Ventspils",
+            "region": "33",
+            "country": "LV",
+            "latitude": "57.38944",
+            "longitude": "21.56056"
+        },
+        {
+            "city": "Vecv\u0101rkava",
+            "region": "E2",
+            "country": "LV",
+            "latitude": "56.18333",
+            "longitude": "26.51667"
+        },
+        {
+            "city": "Vec-Liep\u0101ja",
+            "region": "16",
+            "country": "LV",
+            "latitude": "56.53333",
+            "longitude": "21.01667"
+        },
+        {
+            "city": "Vanga\u017ei",
+            "region": "26",
+            "country": "LV",
+            "latitude": "57.09361",
+            "longitude": "24.54861"
+        },
+        {
+            "city": "Valka",
+            "region": "30",
+            "country": "LV",
+            "latitude": "57.7752",
+            "longitude": "26.01013"
+        },
+        {
+            "city": "Valdem\u0101rpils",
+            "region": "28",
+            "country": "LV",
+            "latitude": "57.37068",
+            "longitude": "22.59188"
+        },
+        {
+            "city": "Vai\u0146ode",
+            "region": "D7",
+            "country": "LV",
+            "latitude": "56.43333",
+            "longitude": "21.86667"
+        },
+        {
+            "city": "Ulbroka",
+            "region": "D2",
+            "country": "LV",
+            "latitude": "56.94111",
+            "longitude": "24.28972"
+        },
+        {
+            "city": "Tukums",
+            "region": "29",
+            "country": "LV",
+            "latitude": "56.96694",
+            "longitude": "23.15528"
+        },
+        {
+            "city": "T\u012bre\u013ci",
+            "region": "00",
+            "country": "LV",
+            "latitude": "56.83991",
+            "longitude": "23.58902"
+        },
+        {
+            "city": "Talsi",
+            "region": "28",
+            "country": "LV",
+            "latitude": "57.24562",
+            "longitude": "22.58137"
+        },
+        {
+            "city": "Stren\u010di",
+            "region": "30",
+            "country": "LV",
+            "latitude": "57.62574",
+            "longitude": "25.68535"
+        },
+        {
+            "city": "Stende",
+            "region": "28",
+            "country": "LV",
+            "latitude": "57.15",
+            "longitude": "22.53333"
+        },
+        {
+            "city": "Staicele",
+            "region": "39",
+            "country": "LV",
+            "latitude": "57.83639",
+            "longitude": "24.75"
+        },
+        {
+            "city": "Smiltene",
+            "region": "30",
+            "country": "LV",
+            "latitude": "57.42444",
+            "longitude": "25.90164"
+        },
+        {
+            "city": "Skrunda",
+            "region": "C9",
+            "country": "LV",
+            "latitude": "56.68333",
+            "longitude": "22.01667"
+        },
+        {
+            "city": "Sigulda",
+            "region": "C7",
+            "country": "LV",
+            "latitude": "57.15194",
+            "longitude": "24.86472"
+        },
+        {
+            "city": "Seda",
+            "region": "D3",
+            "country": "LV",
+            "latitude": "57.65",
+            "longitude": "25.75"
+        },
+        {
+            "city": "Saulkrasti",
+            "region": "26",
+            "country": "LV",
+            "latitude": "57.26224",
+            "longitude": "24.41471"
+        },
+        {
+            "city": "Saldus",
+            "region": "27",
+            "country": "LV",
+            "latitude": "56.66363",
+            "longitude": "22.48807"
+        },
+        {
+            "city": "Salaspils",
+            "region": "26",
+            "country": "LV",
+            "latitude": "56.86014",
+            "longitude": "24.36544"
+        },
+        {
+            "city": "Salacgr\u012bva",
+            "region": "C1",
+            "country": "LV",
+            "latitude": "57.75361",
+            "longitude": "24.35806"
+        },
+        {
+            "city": "Sabile",
+            "region": "28",
+            "country": "LV",
+            "latitude": "57.04577",
+            "longitude": "22.57261"
+        },
+        {
+            "city": "R\u016bjiena",
+            "region": "31",
+            "country": "LV",
+            "latitude": "57.89752",
+            "longitude": "25.33155"
+        },
+        {
+            "city": "Rug\u0101ji",
+            "region": "B7",
+            "country": "LV",
+            "latitude": "57",
+            "longitude": "27.13333"
+        },
+        {
+            "city": "Ropa\u017ei",
+            "region": "B5",
+            "country": "LV",
+            "latitude": "56.97389",
+            "longitude": "24.63361"
+        },
+        {
+            "city": "Roja",
+            "region": "B4",
+            "country": "LV",
+            "latitude": "57.5",
+            "longitude": "22.81667"
+        },
+        {
+            "city": "Riga",
+            "region": "25",
+            "country": "LV",
+            "latitude": "56.946",
+            "longitude": "24.10589"
+        },
+        {
+            "city": "R\u0113zekne",
+            "region": "24",
+            "country": "LV",
+            "latitude": "56.5",
+            "longitude": "27.31667"
+        },
+        {
+            "city": "Priekule",
+            "region": "17",
+            "country": "LV",
+            "latitude": "56.44679",
+            "longitude": "21.58968"
+        },
+        {
+            "city": "Prei\u013ci",
+            "region": "22",
+            "country": "LV",
+            "latitude": "56.29444",
+            "longitude": "26.72459"
+        },
+        {
+            "city": "P\u013cavi\u0146as",
+            "region": "01",
+            "country": "LV",
+            "latitude": "56.6178",
+            "longitude": "25.72552"
+        },
+        {
+            "city": "Pi\u0146\u0137i",
+            "region": "45",
+            "country": "LV",
+            "latitude": "56.94194",
+            "longitude": "23.91083"
+        },
+        {
+            "city": "Piltene",
+            "region": "33",
+            "country": "LV",
+            "latitude": "57.22426",
+            "longitude": "21.67439"
+        },
+        {
+            "city": "Pilsrund\u0101le",
+            "region": "B9",
+            "country": "LV",
+            "latitude": "56.41667",
+            "longitude": "24"
+        },
+        {
+            "city": "P\u0101vilosta",
+            "region": "17",
+            "country": "LV",
+            "latitude": "56.88791",
+            "longitude": "21.18593"
+        },
+        {
+            "city": "Ozolnieki",
+            "region": "A3",
+            "country": "LV",
+            "latitude": "56.68639",
+            "longitude": "23.78778"
+        },
+        {
+            "city": "Olaine",
+            "region": "A2",
+            "country": "LV",
+            "latitude": "56.78528",
+            "longitude": "23.93806"
+        },
+        {
+            "city": "Ogre",
+            "region": "21",
+            "country": "LV",
+            "latitude": "56.8162",
+            "longitude": "24.61401"
+        },
+        {
+            "city": "Murmui\u017ea",
+            "region": "50",
+            "country": "LV",
+            "latitude": "57.48333",
+            "longitude": "25.48333"
+        },
+        {
+            "city": "M\u0113rsrags",
+            "region": "28",
+            "country": "LV",
+            "latitude": "57.33535",
+            "longitude": "23.12455"
+        },
+        {
+            "city": "Mazsalaca",
+            "region": "31",
+            "country": "LV",
+            "latitude": "57.86329",
+            "longitude": "25.05475"
+        },
+        {
+            "city": "M\u0101lpils",
+            "region": "94",
+            "country": "LV",
+            "latitude": "57.01111",
+            "longitude": "24.96306"
+        },
+        {
+            "city": "Madona",
+            "region": "20",
+            "country": "LV",
+            "latitude": "56.85329",
+            "longitude": "26.21698"
+        },
+        {
+            "city": "Ludza",
+            "region": "19",
+            "country": "LV",
+            "latitude": "56.55",
+            "longitude": "27.71667"
+        },
+        {
+            "city": "Lub\u0101na",
+            "region": "91",
+            "country": "LV",
+            "latitude": "56.9",
+            "longitude": "26.71667"
+        },
+        {
+            "city": "Loja",
+            "region": "C6",
+            "country": "LV",
+            "latitude": "57.15444",
+            "longitude": "24.64444"
+        },
+        {
+            "city": "L\u012bv\u0101ni",
+            "region": "22",
+            "country": "LV",
+            "latitude": "56.35431",
+            "longitude": "26.17579"
+        },
+        {
+            "city": "Limba\u017ei",
+            "region": "18",
+            "country": "LV",
+            "latitude": "57.51287",
+            "longitude": "24.71941"
+        },
+        {
+            "city": "L\u012bgatne",
+            "region": "05",
+            "country": "LV",
+            "latitude": "57.23429",
+            "longitude": "25.04059"
+        },
+        {
+            "city": "Liep\u0101ja",
+            "region": "16",
+            "country": "LV",
+            "latitude": "56.51667",
+            "longitude": "21.01667"
+        },
+        {
+            "city": "Lielv\u0101rde",
+            "region": "21",
+            "country": "LV",
+            "latitude": "56.72066",
+            "longitude": "24.80743"
+        },
+        {
+            "city": "Kuld\u012bga",
+            "region": "15",
+            "country": "LV",
+            "latitude": "56.97399",
+            "longitude": "21.95721"
+        },
+        {
+            "city": "Kr\u0101slava",
+            "region": "14",
+            "country": "LV",
+            "latitude": "55.89514",
+            "longitude": "27.16799"
+        },
+        {
+            "city": "Koknese",
+            "region": "82",
+            "country": "LV",
+            "latitude": "56.65",
+            "longitude": "25.43333"
+        },
+        {
+            "city": "\u0136ekava",
+            "region": "26",
+            "country": "LV",
+            "latitude": "56.82662",
+            "longitude": "24.23"
+        },
+        {
+            "city": "\u0136egums",
+            "region": "21",
+            "country": "LV",
+            "latitude": "56.7451",
+            "longitude": "24.72439"
+        },
+        {
+            "city": "K\u0101rsava",
+            "region": "19",
+            "country": "LV",
+            "latitude": "56.78405",
+            "longitude": "27.68829"
+        },
+        {
+            "city": "Kandava",
+            "region": "29",
+            "country": "LV",
+            "latitude": "57.04087",
+            "longitude": "22.77466"
+        },
+        {
+            "city": "J\u016brmala",
+            "region": "00",
+            "country": "LV",
+            "latitude": "56.968",
+            "longitude": "23.77038"
+        },
+        {
+            "city": "Jumprava",
+            "region": "21",
+            "country": "LV",
+            "latitude": "56.67613",
+            "longitude": "24.9721"
+        },
+        {
+            "city": "Jelgava",
+            "region": "12",
+            "country": "LV",
+            "latitude": "56.65",
+            "longitude": "23.71278"
+        },
+        {
+            "city": "J\u0113kabpils",
+            "region": "10",
+            "country": "LV",
+            "latitude": "56.49903",
+            "longitude": "25.85735"
+        },
+        {
+            "city": "Jaunpils",
+            "region": "73",
+            "country": "LV",
+            "latitude": "56.7325",
+            "longitude": "23.01361"
+        },
+        {
+            "city": "Jaunpiebalga",
+            "region": "72",
+            "country": "LV",
+            "latitude": "57.18333",
+            "longitude": "26.05"
+        },
+        {
+            "city": "Jaunjelgava",
+            "region": "71",
+            "country": "LV",
+            "latitude": "56.61667",
+            "longitude": "25.08333"
+        },
+        {
+            "city": "Jaunciems",
+            "region": "25",
+            "country": "LV",
+            "latitude": "57.0391",
+            "longitude": "24.17413"
+        },
+        {
+            "city": "In\u010dukalns",
+            "region": "70",
+            "country": "LV",
+            "latitude": "57.09806",
+            "longitude": "24.68639"
+        },
+        {
+            "city": "Il\u016bkste",
+            "region": "07",
+            "country": "LV",
+            "latitude": "55.97754",
+            "longitude": "26.29655"
+        },
+        {
+            "city": "Ik\u0161\u0137ile",
+            "region": "21",
+            "country": "LV",
+            "latitude": "56.83333",
+            "longitude": "24.5"
+        },
+        {
+            "city": "Iecava",
+            "region": "67",
+            "country": "LV",
+            "latitude": "56.59861",
+            "longitude": "24.20222"
+        },
+        {
+            "city": "Gulbene",
+            "region": "09",
+            "country": "LV",
+            "latitude": "57.17767",
+            "longitude": "26.75291"
+        },
+        {
+            "city": "Grobi\u0146a",
+            "region": "16",
+            "country": "LV",
+            "latitude": "56.53521",
+            "longitude": "21.16782"
+        },
+        {
+            "city": "Cibla",
+            "region": "56",
+            "country": "LV",
+            "latitude": "56.55",
+            "longitude": "27.88333"
+        },
+        {
+            "city": "Engure",
+            "region": "29",
+            "country": "LV",
+            "latitude": "57.16061",
+            "longitude": "23.22527"
+        },
+        {
+            "city": "Dundaga",
+            "region": "60",
+            "country": "LV",
+            "latitude": "57.51667",
+            "longitude": "22.35"
+        },
+        {
+            "city": "Dobele",
+            "region": "08",
+            "country": "LV",
+            "latitude": "56.625",
+            "longitude": "23.27861"
+        },
+        {
+            "city": "Daugavpils",
+            "region": "07",
+            "country": "LV",
+            "latitude": "55.88333",
+            "longitude": "26.53333"
+        },
+        {
+            "city": "Daugavgr\u012bva",
+            "region": "25",
+            "country": "LV",
+            "latitude": "57.04315",
+            "longitude": "24.03613"
+        },
+        {
+            "city": "Dagda",
+            "region": "14",
+            "country": "LV",
+            "latitude": "56.09512",
+            "longitude": "27.53723"
+        },
+        {
+            "city": "Cesvaine",
+            "region": "55",
+            "country": "LV",
+            "latitude": "56.96667",
+            "longitude": "26.31667"
+        },
+        {
+            "city": "C\u0113sis",
+            "region": "05",
+            "country": "LV",
+            "latitude": "57.31188",
+            "longitude": "25.27456"
+        },
+        {
+            "city": "Carnikava",
+            "region": "53",
+            "country": "LV",
+            "latitude": "57.12944",
+            "longitude": "24.27444"
+        },
+        {
+            "city": "Broc\u0113ni",
+            "region": "51",
+            "country": "LV",
+            "latitude": "56.7",
+            "longitude": "22.53333"
+        },
+        {
+            "city": "Bolderaja",
+            "region": "25",
+            "country": "LV",
+            "latitude": "57.03132",
+            "longitude": "24.05571"
+        },
+        {
+            "city": "Bauska",
+            "region": "04",
+            "country": "LV",
+            "latitude": "56.4075",
+            "longitude": "24.19056"
+        },
+        {
+            "city": "Balvi",
+            "region": "03",
+            "country": "LV",
+            "latitude": "57.1313",
+            "longitude": "27.26583"
+        },
+        {
+            "city": "Baltinava",
+            "region": "47",
+            "country": "LV",
+            "latitude": "56.95",
+            "longitude": "27.65"
+        },
+        {
+            "city": "Baldone",
+            "region": "26",
+            "country": "LV",
+            "latitude": "56.74278",
+            "longitude": "24.39444"
+        },
+        {
+            "city": "Auce",
+            "region": "08",
+            "country": "LV",
+            "latitude": "56.45981",
+            "longitude": "22.90169"
+        },
+        {
+            "city": "Ape",
+            "region": "02",
+            "country": "LV",
+            "latitude": "57.53928",
+            "longitude": "26.69291"
+        },
+        {
+            "city": "Al\u016bksne",
+            "region": "02",
+            "country": "LV",
+            "latitude": "57.41667",
+            "longitude": "27.05"
+        },
+        {
+            "city": "Aloja",
+            "region": "39",
+            "country": "LV",
+            "latitude": "57.76694",
+            "longitude": "24.8825"
+        },
+        {
+            "city": "Akn\u012bste",
+            "region": "10",
+            "country": "LV",
+            "latitude": "56.16152",
+            "longitude": "25.74783"
+        },
+        {
+            "city": "Aizpute",
+            "region": "37",
+            "country": "LV",
+            "latitude": "56.71667",
+            "longitude": "21.6"
+        },
+        {
+            "city": "Aizkraukle",
+            "region": "01",
+            "country": "LV",
+            "latitude": "56.60477",
+            "longitude": "25.25534"
+        },
+        {
+            "city": "Aina\u017ei",
+            "region": "C1",
+            "country": "LV",
+            "latitude": "57.86361",
+            "longitude": "24.35778"
+        },
+        {
+            "city": "Aglona",
+            "region": "35",
+            "country": "LV",
+            "latitude": "56.13333",
+            "longitude": "27.01667"
+        },
+        {
+            "city": "\u0100da\u017ei",
+            "region": "34",
+            "country": "LV",
+            "latitude": "57.07583",
+            "longitude": "24.32139"
+        },
+        {
+            "city": "Balo\u017ei",
+            "region": "80",
+            "country": "LV",
+            "latitude": "56.87611",
+            "longitude": "24.11861"
+        }
+    ]
+}

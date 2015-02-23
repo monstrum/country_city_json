@@ -1,0 +1,265 @@
+{
+    "country": "Central African Republic",
+    "code": "CF",
+    "cities": [
+        {
+            "city": "Zemio",
+            "region": "00",
+            "country": "CF",
+            "latitude": "5.03144",
+            "longitude": "25.13614"
+        },
+        {
+            "city": "Rafa\u00ef",
+            "region": "00",
+            "country": "CF",
+            "latitude": "4.95",
+            "longitude": "23.91667"
+        },
+        {
+            "city": "Ouango",
+            "region": "00",
+            "country": "CF",
+            "latitude": "4.31325",
+            "longitude": "22.55524"
+        },
+        {
+            "city": "Ouadda",
+            "region": "03",
+            "country": "CF",
+            "latitude": "8.07771",
+            "longitude": "22.40075"
+        },
+        {
+            "city": "Obo",
+            "region": "05",
+            "country": "CF",
+            "latitude": "5.39978",
+            "longitude": "26.48688"
+        },
+        {
+            "city": "Nd\u00e9l\u00e9",
+            "region": "01",
+            "country": "CF",
+            "latitude": "8.41091",
+            "longitude": "20.64728"
+        },
+        {
+            "city": "Mobaye",
+            "region": "02",
+            "country": "CF",
+            "latitude": "4.31902",
+            "longitude": "21.17861"
+        },
+        {
+            "city": "Kemb\u00e9",
+            "region": "00",
+            "country": "CF",
+            "latitude": "4.62275",
+            "longitude": "21.88645"
+        },
+        {
+            "city": "Ippy",
+            "region": "00",
+            "country": "CF",
+            "latitude": "6.26793",
+            "longitude": "21.22468"
+        },
+        {
+            "city": "Gambo",
+            "region": "00",
+            "country": "CF",
+            "latitude": "4.64816",
+            "longitude": "22.26331"
+        },
+        {
+            "city": "Bria",
+            "region": "03",
+            "country": "CF",
+            "latitude": "6.54233",
+            "longitude": "21.98633"
+        },
+        {
+            "city": "Birao",
+            "region": "14",
+            "country": "CF",
+            "latitude": "10.28488",
+            "longitude": "22.78818"
+        },
+        {
+            "city": "Bangassou",
+            "region": "08",
+            "country": "CF",
+            "latitude": "4.74132",
+            "longitude": "22.81838"
+        },
+        {
+            "city": "Bambari",
+            "region": "11",
+            "country": "CF",
+            "latitude": "5.76795",
+            "longitude": "20.67565"
+        },
+        {
+            "city": "Alindao",
+            "region": "00",
+            "country": "CF",
+            "latitude": "5.02666",
+            "longitude": "21.20876"
+        },
+        {
+            "city": "Sibut",
+            "region": "06",
+            "country": "CF",
+            "latitude": "5.71801",
+            "longitude": "19.07389"
+        },
+        {
+            "city": "Paoua",
+            "region": "13",
+            "country": "CF",
+            "latitude": "7.24269",
+            "longitude": "16.44059"
+        },
+        {
+            "city": "Nola",
+            "region": "16",
+            "country": "CF",
+            "latitude": "3.52716",
+            "longitude": "16.04"
+        },
+        {
+            "city": "Mongoumba",
+            "region": "00",
+            "country": "CF",
+            "latitude": "3.64153",
+            "longitude": "18.59364"
+        },
+        {
+            "city": "Mba\u00efki",
+            "region": "07",
+            "country": "CF",
+            "latitude": "3.86781",
+            "longitude": "17.98923"
+        },
+        {
+            "city": "Kouango",
+            "region": "00",
+            "country": "CF",
+            "latitude": "4.99337",
+            "longitude": "19.96186"
+        },
+        {
+            "city": "Kaga Bandoro",
+            "region": "15",
+            "country": "CF",
+            "latitude": "6.98961",
+            "longitude": "19.18744"
+        },
+        {
+            "city": "Kabo",
+            "region": "12",
+            "country": "CF",
+            "latitude": "7.69937",
+            "longitude": "18.62903"
+        },
+        {
+            "city": "Gamboula",
+            "region": "00",
+            "country": "CF",
+            "latitude": "4.11775",
+            "longitude": "15.13926"
+        },
+        {
+            "city": "Damara",
+            "region": "00",
+            "country": "CF",
+            "latitude": "4.96075",
+            "longitude": "18.7035"
+        },
+        {
+            "city": "Carnot",
+            "region": "00",
+            "country": "CF",
+            "latitude": "4.9409",
+            "longitude": "15.86645"
+        },
+        {
+            "city": "Bozoum",
+            "region": "13",
+            "country": "CF",
+            "latitude": "6.31933",
+            "longitude": "16.37992"
+        },
+        {
+            "city": "Bouca",
+            "region": "00",
+            "country": "CF",
+            "latitude": "6.51046",
+            "longitude": "18.27331"
+        },
+        {
+            "city": "Bouar",
+            "region": "09",
+            "country": "CF",
+            "latitude": "5.93404",
+            "longitude": "15.59599"
+        },
+        {
+            "city": "Bossangoa",
+            "region": "12",
+            "country": "CF",
+            "latitude": "6.49263",
+            "longitude": "17.45518"
+        },
+        {
+            "city": "Boda",
+            "region": "00",
+            "country": "CF",
+            "latitude": "4.31887",
+            "longitude": "17.46953"
+        },
+        {
+            "city": "Boali",
+            "region": "00",
+            "country": "CF",
+            "latitude": "4.80048",
+            "longitude": "18.12747"
+        },
+        {
+            "city": "Bimbo",
+            "region": "17",
+            "country": "CF",
+            "latitude": "4.25671",
+            "longitude": "18.41583"
+        },
+        {
+            "city": "Berb\u00e9rati",
+            "region": "04",
+            "country": "CF",
+            "latitude": "4.26116",
+            "longitude": "15.79216"
+        },
+        {
+            "city": "Batangafo",
+            "region": "12",
+            "country": "CF",
+            "latitude": "7.30082",
+            "longitude": "18.2833"
+        },
+        {
+            "city": "Baoro",
+            "region": "00",
+            "country": "CF",
+            "latitude": "5.66667",
+            "longitude": "15.96667"
+        },
+        {
+            "city": "Bangui",
+            "region": "18",
+            "country": "CF",
+            "latitude": "4.36122",
+            "longitude": "18.55496"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "country": "Northern Mariana Islands",
+    "code": "MP",
+    "cities": [
+        {
+            "city": "CNMI Governor's Office",
+            "region": "00",
+            "country": "MP",
+            "latitude": "15.21217",
+            "longitude": "145.75372"
+        },
+        {
+            "city": "JP Tinian Town pre-WW2",
+            "region": "120",
+            "country": "MP",
+            "latitude": "14.96874",
+            "longitude": "145.62437"
+        },
+        {
+            "city": "Northern Islands Municipality - Mayor's Office",
+            "region": "085",
+            "country": "MP",
+            "latitude": "15.20833",
+            "longitude": "145.71664"
+        },
+        {
+            "city": "Saipan",
+            "region": "110",
+            "country": "MP",
+            "latitude": "15.21233",
+            "longitude": "145.7545"
+        }
+    ]
+}

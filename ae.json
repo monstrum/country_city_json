@@ -1,0 +1,97 @@
+{
+    "country": "United Arab Emirates",
+    "code": "AE",
+    "cities": [
+        {
+            "city": "Umm al Qaywayn",
+            "region": "07",
+            "country": "AE",
+            "latitude": "25.5864",
+            "longitude": "55.57603"
+        },
+        {
+            "city": "Ra\u2019s al Khaymah",
+            "region": "05",
+            "country": "AE",
+            "latitude": "25.78953",
+            "longitude": "55.9432"
+        },
+        {
+            "city": "Muzayri\u2018",
+            "region": "01",
+            "country": "AE",
+            "latitude": "23.14355",
+            "longitude": "53.7881"
+        },
+        {
+            "city": "Khawr Fakk\u0101n",
+            "region": "06",
+            "country": "AE",
+            "latitude": "25.33132",
+            "longitude": "56.34199"
+        },
+        {
+            "city": "Dubai",
+            "region": "03",
+            "country": "AE",
+            "latitude": "25.25817",
+            "longitude": "55.30472"
+        },
+        {
+            "city": "Dib\u0101",
+            "region": "06",
+            "country": "AE",
+            "latitude": "25.61955",
+            "longitude": "56.27291"
+        },
+        {
+            "city": "Sharjah",
+            "region": "06",
+            "country": "AE",
+            "latitude": "25.35731",
+            "longitude": "55.4033"
+        },
+        {
+            "city": "Ar Ruways",
+            "region": "01",
+            "country": "AE",
+            "latitude": "24.11028",
+            "longitude": "52.73056"
+        },
+        {
+            "city": "Al Fujayrah",
+            "region": "04",
+            "country": "AE",
+            "latitude": "25.11641",
+            "longitude": "56.34141"
+        },
+        {
+            "city": "Al \u2018Ayn",
+            "region": "01",
+            "country": "AE",
+            "latitude": "24.19167",
+            "longitude": "55.76056"
+        },
+        {
+            "city": "`Ajm\u0101n",
+            "region": "02",
+            "country": "AE",
+            "latitude": "25.41111",
+            "longitude": "55.43504"
+        },
+        {
+            "city": "Adh Dhayd",
+            "region": "07",
+            "country": "AE",
+            "latitude": "25.28875",
+            "longitude": "55.88137"
+        },
+        {
+            "city": "Abu Dhabi",
+            "region": "01",
+            "country": "AE",
+            "latitude": "24.46667",
+            "longitude": "54.36667"
+        }
+    ]
+}

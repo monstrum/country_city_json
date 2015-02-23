@@ -1,0 +1,41 @@
+{
+    "country": "Saint Vincent and the Grenadines",
+    "code": "VC",
+    "cities": [
+        {
+            "city": "Kingstown",
+            "region": "04",
+            "country": "VC",
+            "latitude": "13.15872",
+            "longitude": "-61.22475"
+        },
+        {
+            "city": "Georgetown",
+            "region": "01",
+            "country": "VC",
+            "latitude": "13.2879",
+            "longitude": "-61.1302"
+        },
+        {
+            "city": "Byera Village",
+            "region": "01",
+            "country": "VC",
+            "latitude": "13.25",
+            "longitude": "-61.11667"
+        },
+        {
+            "city": "Biabou",
+            "region": "01",
+            "country": "VC",
+            "latitude": "13.2",
+            "longitude": "-61.13333"
+        },
+        {
+            "city": "Kingstown Park",
+            "region": "04",
+            "country": "VC",
+            "latitude": "13.15833",
+            "longitude": "-61.235"
+        }
+    ]
+}

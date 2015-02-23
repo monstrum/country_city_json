@@ -1,0 +1,573 @@
+{
+    "country": "Jamaica",
+    "code": "JM",
+    "cities": [
+        {
+            "city": "Yallahs",
+            "region": "14",
+            "country": "JM",
+            "latitude": "17.8748",
+            "longitude": "-76.56245"
+        },
+        {
+            "city": "Williamsfield",
+            "region": "04",
+            "country": "JM",
+            "latitude": "18.06667",
+            "longitude": "-77.46667"
+        },
+        {
+            "city": "Wakefield",
+            "region": "15",
+            "country": "JM",
+            "latitude": "18.41211",
+            "longitude": "-77.72183"
+        },
+        {
+            "city": "Ulster Spring",
+            "region": "15",
+            "country": "JM",
+            "latitude": "18.31482",
+            "longitude": "-77.52067"
+        },
+        {
+            "city": "Trinity Ville",
+            "region": "14",
+            "country": "JM",
+            "latitude": "17.96076",
+            "longitude": "-76.51427"
+        },
+        {
+            "city": "Stony Hill",
+            "region": "08",
+            "country": "JM",
+            "latitude": "18.07537",
+            "longitude": "-76.79109"
+        },
+        {
+            "city": "Spanish Town",
+            "region": "10",
+            "country": "JM",
+            "latitude": "17.99107",
+            "longitude": "-76.95742"
+        },
+        {
+            "city": "Southfield",
+            "region": "11",
+            "country": "JM",
+            "latitude": "17.8878",
+            "longitude": "-77.66713"
+        },
+        {
+            "city": "Siloah",
+            "region": "11",
+            "country": "JM",
+            "latitude": "18.16709",
+            "longitude": "-77.70348"
+        },
+        {
+            "city": "Seaforth",
+            "region": "14",
+            "country": "JM",
+            "latitude": "17.93578",
+            "longitude": "-76.4573"
+        },
+        {
+            "city": "Santa Cruz",
+            "region": "11",
+            "country": "JM",
+            "latitude": "18.05336",
+            "longitude": "-77.69836"
+        },
+        {
+            "city": "Sandy Bay",
+            "region": "02",
+            "country": "JM",
+            "latitude": "18.44854",
+            "longitude": "-78.07321"
+        },
+        {
+            "city": "Runaway Bay",
+            "region": "09",
+            "country": "JM",
+            "latitude": "18.45962",
+            "longitude": "-77.3357"
+        },
+        {
+            "city": "Rocky Point",
+            "region": "01",
+            "country": "JM",
+            "latitude": "17.774",
+            "longitude": "-77.26107"
+        },
+        {
+            "city": "Riversdale",
+            "region": "10",
+            "country": "JM",
+            "latitude": "18.16586",
+            "longitude": "-76.96417"
+        },
+        {
+            "city": "Richmond",
+            "region": "13",
+            "country": "JM",
+            "latitude": "18.2439",
+            "longitude": "-76.89078"
+        },
+        {
+            "city": "Race Course",
+            "region": "01",
+            "country": "JM",
+            "latitude": "17.84019",
+            "longitude": "-77.28223"
+        },
+        {
+            "city": "Porus",
+            "region": "04",
+            "country": "JM",
+            "latitude": "18.03535",
+            "longitude": "-77.41166"
+        },
+        {
+            "city": "Port Royal",
+            "region": "17",
+            "country": "JM",
+            "latitude": "17.93712",
+            "longitude": "-76.84081"
+        },
+        {
+            "city": "Portmore",
+            "region": "10",
+            "country": "JM",
+            "latitude": "17.97024",
+            "longitude": "-76.86722"
+        },
+        {
+            "city": "Port Maria",
+            "region": "13",
+            "country": "JM",
+            "latitude": "18.36849",
+            "longitude": "-76.88946"
+        },
+        {
+            "city": "Port Antonio",
+            "region": "07",
+            "country": "JM",
+            "latitude": "18.17998",
+            "longitude": "-76.46121"
+        },
+        {
+            "city": "Point Hill",
+            "region": "10",
+            "country": "JM",
+            "latitude": "18.08988",
+            "longitude": "-77.10759"
+        },
+        {
+            "city": "Petersfield",
+            "region": "16",
+            "country": "JM",
+            "latitude": "18.26158",
+            "longitude": "-78.07117"
+        },
+        {
+            "city": "Old Harbour Bay",
+            "region": "10",
+            "country": "JM",
+            "latitude": "17.90918",
+            "longitude": "-77.09718"
+        },
+        {
+            "city": "Old Harbour",
+            "region": "10",
+            "country": "JM",
+            "latitude": "17.94144",
+            "longitude": "-77.10898"
+        },
+        {
+            "city": "Ocho Rios",
+            "region": "09",
+            "country": "JM",
+            "latitude": "18.4025",
+            "longitude": "-77.1048"
+        },
+        {
+            "city": "New Kingston",
+            "region": "08",
+            "country": "JM",
+            "latitude": "18.00747",
+            "longitude": "-76.78319"
+        },
+        {
+            "city": "Negril",
+            "region": "16",
+            "country": "JM",
+            "latitude": "18.27818",
+            "longitude": "-78.3518"
+        },
+        {
+            "city": "Nain",
+            "region": "11",
+            "country": "JM",
+            "latitude": "17.9612",
+            "longitude": "-77.59868"
+        },
+        {
+            "city": "Morant Bay",
+            "region": "14",
+            "country": "JM",
+            "latitude": "17.88145",
+            "longitude": "-76.40927"
+        },
+        {
+            "city": "Moore Town",
+            "region": "07",
+            "country": "JM",
+            "latitude": "18.07767",
+            "longitude": "-76.42577"
+        },
+        {
+            "city": "Montego Bay",
+            "region": "12",
+            "country": "JM",
+            "latitude": "18.47116",
+            "longitude": "-77.91883"
+        },
+        {
+            "city": "Moneague",
+            "region": "09",
+            "country": "JM",
+            "latitude": "18.27556",
+            "longitude": "-77.11177"
+        },
+        {
+            "city": "Mona Heights",
+            "region": "08",
+            "country": "JM",
+            "latitude": "18.01375",
+            "longitude": "-76.75186"
+        },
+        {
+            "city": "May Pen",
+            "region": "01",
+            "country": "JM",
+            "latitude": "17.96454",
+            "longitude": "-77.24515"
+        },
+        {
+            "city": "Mavis Bank",
+            "region": "08",
+            "country": "JM",
+            "latitude": "18.03333",
+            "longitude": "-76.66667"
+        },
+        {
+            "city": "Maroon Town",
+            "region": "12",
+            "country": "JM",
+            "latitude": "18.34464",
+            "longitude": "-77.79544"
+        },
+        {
+            "city": "Mandeville",
+            "region": "04",
+            "country": "JM",
+            "latitude": "18.04168",
+            "longitude": "-77.50714"
+        },
+        {
+            "city": "Manchioneal",
+            "region": "07",
+            "country": "JM",
+            "latitude": "18.03969",
+            "longitude": "-76.28265"
+        },
+        {
+            "city": "Malvern",
+            "region": "11",
+            "country": "JM",
+            "latitude": "17.97291",
+            "longitude": "-77.70108"
+        },
+        {
+            "city": "Maggotty",
+            "region": "11",
+            "country": "JM",
+            "latitude": "18.16069",
+            "longitude": "-77.76349"
+        },
+        {
+            "city": "Lucea",
+            "region": "02",
+            "country": "JM",
+            "latitude": "18.45095",
+            "longitude": "-78.17356"
+        },
+        {
+            "city": "Lluidas Vale",
+            "region": "10",
+            "country": "JM",
+            "latitude": "18.12784",
+            "longitude": "-77.14764"
+        },
+        {
+            "city": "Lionel Town",
+            "region": "01",
+            "country": "JM",
+            "latitude": "17.81007",
+            "longitude": "-77.24061"
+        },
+        {
+            "city": "Linstead",
+            "region": "10",
+            "country": "JM",
+            "latitude": "18.13683",
+            "longitude": "-77.03171"
+        },
+        {
+            "city": "Lacovia",
+            "region": "11",
+            "country": "JM",
+            "latitude": "18.075",
+            "longitude": "-77.75478"
+        },
+        {
+            "city": "Kingston",
+            "region": "17",
+            "country": "JM",
+            "latitude": "17.99702",
+            "longitude": "-76.79358"
+        },
+        {
+            "city": "Kellits",
+            "region": "01",
+            "country": "JM",
+            "latitude": "18.15",
+            "longitude": "-77.23333"
+        },
+        {
+            "city": "Islington",
+            "region": "13",
+            "country": "JM",
+            "latitude": "18.30922",
+            "longitude": "-76.85482"
+        },
+        {
+            "city": "Hope Bay",
+            "region": "07",
+            "country": "JM",
+            "latitude": "18.20195",
+            "longitude": "-76.56288"
+        },
+        {
+            "city": "Hayes",
+            "region": "01",
+            "country": "JM",
+            "latitude": "17.87569",
+            "longitude": "-77.23711"
+        },
+        {
+            "city": "Half Way Tree",
+            "region": "08",
+            "country": "JM",
+            "latitude": "18.01248",
+            "longitude": "-76.79928"
+        },
+        {
+            "city": "Gordon Town",
+            "region": "08",
+            "country": "JM",
+            "latitude": "18.03578",
+            "longitude": "-76.71782"
+        },
+        {
+            "city": "Golden Grove",
+            "region": "14",
+            "country": "JM",
+            "latitude": "17.93362",
+            "longitude": "-76.27254"
+        },
+        {
+            "city": "Gayle",
+            "region": "13",
+            "country": "JM",
+            "latitude": "18.32642",
+            "longitude": "-77.00971"
+        },
+        {
+            "city": "Falmouth",
+            "region": "15",
+            "country": "JM",
+            "latitude": "18.49358",
+            "longitude": "-77.65587"
+        },
+        {
+            "city": "Ewarton",
+            "region": "10",
+            "country": "JM",
+            "latitude": "18.18084",
+            "longitude": "-77.07664"
+        },
+        {
+            "city": "Easington",
+            "region": "14",
+            "country": "JM",
+            "latitude": "17.92397",
+            "longitude": "-76.58824"
+        },
+        {
+            "city": "Duncans",
+            "region": "15",
+            "country": "JM",
+            "latitude": "18.468",
+            "longitude": "-77.53633"
+        },
+        {
+            "city": "Discovery Bay",
+            "region": "09",
+            "country": "JM",
+            "latitude": "18.45986",
+            "longitude": "-77.39245"
+        },
+        {
+            "city": "Darliston",
+            "region": "16",
+            "country": "JM",
+            "latitude": "18.23731",
+            "longitude": "-77.97626"
+        },
+        {
+            "city": "Dalvey",
+            "region": "14",
+            "country": "JM",
+            "latitude": "17.91184",
+            "longitude": "-76.24864"
+        },
+        {
+            "city": "Constant Spring",
+            "region": "08",
+            "country": "JM",
+            "latitude": "18.05078",
+            "longitude": "-76.79372"
+        },
+        {
+            "city": "Coleyville",
+            "region": "04",
+            "country": "JM",
+            "latitude": "18.20783",
+            "longitude": "-77.50754"
+        },
+        {
+            "city": "Chapelton",
+            "region": "01",
+            "country": "JM",
+            "latitude": "18.08333",
+            "longitude": "-77.26667"
+        },
+        {
+            "city": "Cascade",
+            "region": "02",
+            "country": "JM",
+            "latitude": "18.39747",
+            "longitude": "-78.10338"
+        },
+        {
+            "city": "Cambridge",
+            "region": "12",
+            "country": "JM",
+            "latitude": "18.31326",
+            "longitude": "-77.90252"
+        },
+        {
+            "city": "Bull Savanna",
+            "region": "11",
+            "country": "JM",
+            "latitude": "17.88678",
+            "longitude": "-77.59022"
+        },
+        {
+            "city": "Buff Bay",
+            "region": "07",
+            "country": "JM",
+            "latitude": "18.23288",
+            "longitude": "-76.66118"
+        },
+        {
+            "city": "Bog Walk",
+            "region": "10",
+            "country": "JM",
+            "latitude": "18.10205",
+            "longitude": "-77.00541"
+        },
+        {
+            "city": "Bluefields",
+            "region": "16",
+            "country": "JM",
+            "latitude": "18.16602",
+            "longitude": "-78.02702"
+        },
+        {
+            "city": "Black River",
+            "region": "11",
+            "country": "JM",
+            "latitude": "18.02636",
+            "longitude": "-77.84873"
+        },
+        {
+            "city": "Bethel Town",
+            "region": "16",
+            "country": "JM",
+            "latitude": "18.29504",
+            "longitude": "-77.95112"
+        },
+        {
+            "city": "Bath",
+            "region": "14",
+            "country": "JM",
+            "latitude": "17.9482",
+            "longitude": "-76.34916"
+        },
+        {
+            "city": "Bamboo",
+            "region": "09",
+            "country": "JM",
+            "latitude": "18.39216",
+            "longitude": "-77.26429"
+        },
+        {
+            "city": "Balaclava",
+            "region": "11",
+            "country": "JM",
+            "latitude": "18.17228",
+            "longitude": "-77.64375"
+        },
+        {
+            "city": "Anchovy",
+            "region": "12",
+            "country": "JM",
+            "latitude": "18.4103",
+            "longitude": "-77.93166"
+        },
+        {
+            "city": "Alligator Pond",
+            "region": "11",
+            "country": "JM",
+            "latitude": "17.87002",
+            "longitude": "-77.56667"
+        },
+        {
+            "city": "Alexandria",
+            "region": "09",
+            "country": "JM",
+            "latitude": "18.30768",
+            "longitude": "-77.35335"
+        },
+        {
+            "city": "Albert Town",
+            "region": "15",
+            "country": "JM",
+            "latitude": "18.29434",
+            "longitude": "-77.54239"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "country": "Bahrain",
+    "code": "BH",
+    "cities": [
+        {
+            "city": "Sitrah",
+            "region": "18",
+            "country": "BH",
+            "latitude": "26.15472",
+            "longitude": "50.62056"
+        },
+        {
+            "city": "Mad\u012bnat \u2018\u012as\u00e1",
+            "region": "18",
+            "country": "BH",
+            "latitude": "26.17361",
+            "longitude": "50.54778"
+        },
+        {
+            "city": "Jidd \u1e28af\u015f",
+            "region": "16",
+            "country": "BH",
+            "latitude": "26.21861",
+            "longitude": "50.54778"
+        },
+        {
+            "city": "Mad\u012bnat \u1e28amad",
+            "region": "19",
+            "country": "BH",
+            "latitude": "26.11528",
+            "longitude": "50.50694"
+        },
+        {
+            "city": "D\u0101r Kulayb",
+            "region": "19",
+            "country": "BH",
+            "latitude": "26.06861",
+            "longitude": "50.50389"
+        },
+        {
+            "city": "Al Mu\u1e29arraq",
+            "region": "15",
+            "country": "BH",
+            "latitude": "26.25722",
+            "longitude": "50.61194"
+        },
+        {
+            "city": "Manama",
+            "region": "16",
+            "country": "BH",
+            "latitude": "26.21536",
+            "longitude": "50.5832"
+        },
+        {
+            "city": "Al \u1e28add",
+            "region": "15",
+            "country": "BH",
+            "latitude": "26.24556",
+            "longitude": "50.65417"
+        },
+        {
+            "city": "Ar Rif\u0101\u2018",
+            "region": "18",
+            "country": "BH",
+            "latitude": "26.13",
+            "longitude": "50.555"
+        }
+    ]
+}

@@ -1,0 +1,7349 @@
+{
+    "country": "Australia",
+    "code": "AU",
+    "cities": [
+        {
+            "city": "York",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.9",
+            "longitude": "116.76667"
+        },
+        {
+            "city": "Yanchep",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.55",
+            "longitude": "115.68333"
+        },
+        {
+            "city": "Yallingup",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.65",
+            "longitude": "115.03333"
+        },
+        {
+            "city": "Wundowie",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.76667",
+            "longitude": "116.38333"
+        },
+        {
+            "city": "Wooroloo",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.81667",
+            "longitude": "116.33333"
+        },
+        {
+            "city": "Woodville",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.88333",
+            "longitude": "138.55"
+        },
+        {
+            "city": "Woodside",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.95",
+            "longitude": "138.86667"
+        },
+        {
+            "city": "Wongan Hills",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-30.88333",
+            "longitude": "116.7"
+        },
+        {
+            "city": "Williamstown",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.66667",
+            "longitude": "138.86667"
+        },
+        {
+            "city": "Willaston",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.58333",
+            "longitude": "138.75"
+        },
+        {
+            "city": "Whyalla",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-33.03333",
+            "longitude": "137.58333"
+        },
+        {
+            "city": "Wembley",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.93333",
+            "longitude": "115.8"
+        },
+        {
+            "city": "Wellard",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.26667",
+            "longitude": "115.83333"
+        },
+        {
+            "city": "Wayville",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.95",
+            "longitude": "138.58333"
+        },
+        {
+            "city": "Waroona",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.83333",
+            "longitude": "115.91667"
+        },
+        {
+            "city": "Wanneroo",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.75",
+            "longitude": "115.8"
+        },
+        {
+            "city": "Wallaroo",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-33.93333",
+            "longitude": "137.63333"
+        },
+        {
+            "city": "Waikerie",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.18333",
+            "longitude": "139.98333"
+        },
+        {
+            "city": "Wagin",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.3",
+            "longitude": "117.35"
+        },
+        {
+            "city": "Waggrakine",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-28.71667",
+            "longitude": "114.61667"
+        },
+        {
+            "city": "Virginia",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.66667",
+            "longitude": "138.56667"
+        },
+        {
+            "city": "Victor Harbour",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.56667",
+            "longitude": "138.61667"
+        },
+        {
+            "city": "Vasse",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.66667",
+            "longitude": "115.25"
+        },
+        {
+            "city": "Upper Sturt",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.01667",
+            "longitude": "138.68333"
+        },
+        {
+            "city": "Unley",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.95",
+            "longitude": "138.6"
+        },
+        {
+            "city": "Two Wells",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.6",
+            "longitude": "138.5"
+        },
+        {
+            "city": "Tumby Bay",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.38333",
+            "longitude": "136.08333"
+        },
+        {
+            "city": "Trigg",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.86939",
+            "longitude": "115.7571"
+        },
+        {
+            "city": "Toodyay",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.55",
+            "longitude": "116.46667"
+        },
+        {
+            "city": "Thebarton",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.91667",
+            "longitude": "138.56667"
+        },
+        {
+            "city": "Tennant Creek",
+            "region": "03",
+            "country": "AU",
+            "latitude": "-19.65",
+            "longitude": "134.2"
+        },
+        {
+            "city": "Tanunda",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.53333",
+            "longitude": "138.95"
+        },
+        {
+            "city": "Swan View",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.88333",
+            "longitude": "116.05"
+        },
+        {
+            "city": "Swanbourne",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.96667",
+            "longitude": "115.78333"
+        },
+        {
+            "city": "Subiaco",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.95",
+            "longitude": "115.8"
+        },
+        {
+            "city": "Sturt",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.01667",
+            "longitude": "138.55"
+        },
+        {
+            "city": "Streaky Bay",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-32.8",
+            "longitude": "134.21667"
+        },
+        {
+            "city": "Strathalbyn",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.26667",
+            "longitude": "138.9"
+        },
+        {
+            "city": "Stoneville",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-30.86667",
+            "longitude": "121.76667"
+        },
+        {
+            "city": "Stirling",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35",
+            "longitude": "138.71667"
+        },
+        {
+            "city": "Spearwood",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.1",
+            "longitude": "115.78333"
+        },
+        {
+            "city": "South Perth",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.98333",
+            "longitude": "115.86667"
+        },
+        {
+            "city": "Solomontown",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-33.2",
+            "longitude": "138.03333"
+        },
+        {
+            "city": "Smithfield",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.68333",
+            "longitude": "138.68333"
+        },
+        {
+            "city": "Serpentine",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.35",
+            "longitude": "115.96667"
+        },
+        {
+            "city": "Seaton",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.9",
+            "longitude": "138.51667"
+        },
+        {
+            "city": "Seaford",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.18333",
+            "longitude": "138.46667"
+        },
+        {
+            "city": "Scarborough",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.89578",
+            "longitude": "115.76431"
+        },
+        {
+            "city": "Salisbury",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.76667",
+            "longitude": "138.63333"
+        },
+        {
+            "city": "Safety Bay",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.3",
+            "longitude": "115.7"
+        },
+        {
+            "city": "Roxby Downs",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-30.56305",
+            "longitude": "136.89546"
+        },
+        {
+            "city": "Roseworthy",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.53333",
+            "longitude": "138.73333"
+        },
+        {
+            "city": "Roebourne",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-20.78333",
+            "longitude": "117.13333"
+        },
+        {
+            "city": "Rockingham",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.28333",
+            "longitude": "115.71667"
+        },
+        {
+            "city": "Maida Vale",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.95187",
+            "longitude": "116.02764"
+        },
+        {
+            "city": "Reynella",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.09372",
+            "longitude": "138.53082"
+        },
+        {
+            "city": "Ravensthorpe",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.58333",
+            "longitude": "120.03333"
+        },
+        {
+            "city": "Quorn",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-32.35",
+            "longitude": "138.03333"
+        },
+        {
+            "city": "Quindalup",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.66667",
+            "longitude": "115.13333"
+        },
+        {
+            "city": "Prospect",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.88241",
+            "longitude": "138.5933"
+        },
+        {
+            "city": "Port Willunga",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.26667",
+            "longitude": "138.45"
+        },
+        {
+            "city": "Port Victoria",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.5",
+            "longitude": "137.48333"
+        },
+        {
+            "city": "Port Pirie",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-33.18333",
+            "longitude": "138.01667"
+        },
+        {
+            "city": "Port Noarlunga",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.15",
+            "longitude": "138.46667"
+        },
+        {
+            "city": "Port Lincoln",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.73333",
+            "longitude": "135.86667"
+        },
+        {
+            "city": "Port Keats",
+            "region": "03",
+            "country": "AU",
+            "latitude": "-14.25",
+            "longitude": "129.55"
+        },
+        {
+            "city": "Port Hedland",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-20.31667",
+            "longitude": "118.56667"
+        },
+        {
+            "city": "Port Elliot",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.53333",
+            "longitude": "138.68333"
+        },
+        {
+            "city": "Port Augusta West",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-32.48333",
+            "longitude": "137.75"
+        },
+        {
+            "city": "Port Augusta",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-32.5",
+            "longitude": "137.76667"
+        },
+        {
+            "city": "Port Adelaide",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.85",
+            "longitude": "138.46667"
+        },
+        {
+            "city": "Plympton",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.95",
+            "longitude": "138.55"
+        },
+        {
+            "city": "Pinjarra",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.63333",
+            "longitude": "115.88333"
+        },
+        {
+            "city": "Peterborough",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-32.96667",
+            "longitude": "138.83333"
+        },
+        {
+            "city": "Perth",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.93333",
+            "longitude": "115.83333"
+        },
+        {
+            "city": "Pemberton",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-34.46667",
+            "longitude": "116.01667"
+        },
+        {
+            "city": "Pearce",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.66667",
+            "longitude": "116.01667"
+        },
+        {
+            "city": "Parkerville",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.88333",
+            "longitude": "116.13333"
+        },
+        {
+            "city": "Parap",
+            "region": "03",
+            "country": "AU",
+            "latitude": "-12.43333",
+            "longitude": "130.83333"
+        },
+        {
+            "city": "One Tree Hill",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.7",
+            "longitude": "138.76667"
+        },
+        {
+            "city": "Oakbank",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.98333",
+            "longitude": "138.85"
+        },
+        {
+            "city": "Nuriootpa",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.48333",
+            "longitude": "139"
+        },
+        {
+            "city": "North Fremantle",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.03333",
+            "longitude": "115.75"
+        },
+        {
+            "city": "North Beach",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.86298",
+            "longitude": "115.75624"
+        },
+        {
+            "city": "Northampton",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-28.35",
+            "longitude": "114.61667"
+        },
+        {
+            "city": "Northam",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.66667",
+            "longitude": "116.66667"
+        },
+        {
+            "city": "Normanville",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.44781",
+            "longitude": "138.31495"
+        },
+        {
+            "city": "Noarlunga",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.18333",
+            "longitude": "138.5"
+        },
+        {
+            "city": "Nhulunbuy",
+            "region": "03",
+            "country": "AU",
+            "latitude": "-12.23333",
+            "longitude": "136.76667"
+        },
+        {
+            "city": "Newman",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-23.36667",
+            "longitude": "119.73333"
+        },
+        {
+            "city": "Narrogin",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.93333",
+            "longitude": "117.16667"
+        },
+        {
+            "city": "Nairne",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.03333",
+            "longitude": "138.9"
+        },
+        {
+            "city": "Murray Bridge",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.11667",
+            "longitude": "139.26667"
+        },
+        {
+            "city": "Mundijong",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.3",
+            "longitude": "115.98333"
+        },
+        {
+            "city": "Mundaring",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.9",
+            "longitude": "116.16667"
+        },
+        {
+            "city": "Mount Isa",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-20.73333",
+            "longitude": "139.5"
+        },
+        {
+            "city": "Mount Helena",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.88333",
+            "longitude": "116.2"
+        },
+        {
+            "city": "Mount Compass",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.36667",
+            "longitude": "138.61667"
+        },
+        {
+            "city": "Mount Barker",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.06667",
+            "longitude": "138.86667"
+        },
+        {
+            "city": "Mount Barker",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-34.63333",
+            "longitude": "117.66667"
+        },
+        {
+            "city": "Mosman Park",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32",
+            "longitude": "115.75"
+        },
+        {
+            "city": "Morphett Vale",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.13333",
+            "longitude": "138.51667"
+        },
+        {
+            "city": "Moora",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-30.65",
+            "longitude": "116.01667"
+        },
+        {
+            "city": "Modbury",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.83333",
+            "longitude": "138.68333"
+        },
+        {
+            "city": "Moana",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.2",
+            "longitude": "138.48333"
+        },
+        {
+            "city": "Mitcham",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.98333",
+            "longitude": "138.6"
+        },
+        {
+            "city": "Midland",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.9",
+            "longitude": "116"
+        },
+        {
+            "city": "Middle Swan",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.85",
+            "longitude": "116.01667"
+        },
+        {
+            "city": "Merredin",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.48333",
+            "longitude": "118.26667"
+        },
+        {
+            "city": "Meningie",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.7",
+            "longitude": "139.33333"
+        },
+        {
+            "city": "Melville",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-28.18333",
+            "longitude": "116.73333"
+        },
+        {
+            "city": "Medina",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.23333",
+            "longitude": "115.78333"
+        },
+        {
+            "city": "Meadows",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.18333",
+            "longitude": "138.75"
+        },
+        {
+            "city": "McMinns Lagoon",
+            "region": "03",
+            "country": "AU",
+            "latitude": "-12.53333",
+            "longitude": "131.05"
+        },
+        {
+            "city": "McLaren Vale",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.23333",
+            "longitude": "138.53333"
+        },
+        {
+            "city": "Maylands",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.93333",
+            "longitude": "115.88333"
+        },
+        {
+            "city": "Marion",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.01667",
+            "longitude": "138.56667"
+        },
+        {
+            "city": "Marino",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.03333",
+            "longitude": "138.51667"
+        },
+        {
+            "city": "Margaret River",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.95",
+            "longitude": "115.06667"
+        },
+        {
+            "city": "Mannum",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.91667",
+            "longitude": "139.31667"
+        },
+        {
+            "city": "Manning",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.01594",
+            "longitude": "115.86714"
+        },
+        {
+            "city": "Manjimup",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-34.23333",
+            "longitude": "116.15"
+        },
+        {
+            "city": "Mandurah",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.55",
+            "longitude": "115.7"
+        },
+        {
+            "city": "Mallala",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.45",
+            "longitude": "138.5"
+        },
+        {
+            "city": "Maitland",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.38333",
+            "longitude": "137.66667"
+        },
+        {
+            "city": "Maddington",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.05",
+            "longitude": "115.98333"
+        },
+        {
+            "city": "Macclesfield",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.18333",
+            "longitude": "138.83333"
+        },
+        {
+            "city": "Lyndoch",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.61667",
+            "longitude": "138.88333"
+        },
+        {
+            "city": "Lower Chittering",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.58333",
+            "longitude": "116.11667"
+        },
+        {
+            "city": "Lobethal",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.9",
+            "longitude": "138.86667"
+        },
+        {
+            "city": "Littlehampton",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.05",
+            "longitude": "138.85"
+        },
+        {
+            "city": "Lewiston",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.6",
+            "longitude": "138.6"
+        },
+        {
+            "city": "Largs Bay",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.8",
+            "longitude": "138.46667"
+        },
+        {
+            "city": "Langhorne Creek",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.3",
+            "longitude": "139.03333"
+        },
+        {
+            "city": "Kwinana",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.25",
+            "longitude": "115.76667"
+        },
+        {
+            "city": "Kununurra",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-15.76667",
+            "longitude": "128.73333"
+        },
+        {
+            "city": "Kojonup",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.83333",
+            "longitude": "117.15"
+        },
+        {
+            "city": "Kingscote",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.66667",
+            "longitude": "137.63333"
+        },
+        {
+            "city": "Kenwick",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.03333",
+            "longitude": "115.96667"
+        },
+        {
+            "city": "Kendenup",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-34.48333",
+            "longitude": "117.65"
+        },
+        {
+            "city": "Kelmscott",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.11667",
+            "longitude": "116.01667"
+        },
+        {
+            "city": "Katherine",
+            "region": "03",
+            "country": "AU",
+            "latitude": "-14.46667",
+            "longitude": "132.26667"
+        },
+        {
+            "city": "Katanning",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.7",
+            "longitude": "117.55"
+        },
+        {
+            "city": "Kapunda",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.35",
+            "longitude": "138.9"
+        },
+        {
+            "city": "Kalgoorlie",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-30.75",
+            "longitude": "121.46667"
+        },
+        {
+            "city": "Kalbarri",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-27.66667",
+            "longitude": "114.16667"
+        },
+        {
+            "city": "Kadina",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-33.96667",
+            "longitude": "137.71667"
+        },
+        {
+            "city": "Jamestown",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-33.2",
+            "longitude": "138.6"
+        },
+        {
+            "city": "Ingle Farm",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.83333",
+            "longitude": "138.63333"
+        },
+        {
+            "city": "Hope Valley",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.83333",
+            "longitude": "138.7"
+        },
+        {
+            "city": "Heathfield",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.01667",
+            "longitude": "138.71667"
+        },
+        {
+            "city": "Harvey",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.08333",
+            "longitude": "115.9"
+        },
+        {
+            "city": "Happy Valley",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.08333",
+            "longitude": "138.53333"
+        },
+        {
+            "city": "Halls Creek",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-18.26667",
+            "longitude": "127.76667"
+        },
+        {
+            "city": "Hahndorf",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.03333",
+            "longitude": "138.8"
+        },
+        {
+            "city": "Hackham",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.15",
+            "longitude": "138.51667"
+        },
+        {
+            "city": "Gumeracha",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.83333",
+            "longitude": "138.88333"
+        },
+        {
+            "city": "Guildford",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.9",
+            "longitude": "115.96667"
+        },
+        {
+            "city": "Greenmount",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.9",
+            "longitude": "116.05"
+        },
+        {
+            "city": "Grasmere",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-35.01806",
+            "longitude": "117.75556"
+        },
+        {
+            "city": "Grange",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.9",
+            "longitude": "138.48333"
+        },
+        {
+            "city": "Gosnells",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.08333",
+            "longitude": "116"
+        },
+        {
+            "city": "Gooseberry Hill",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.95",
+            "longitude": "116.05"
+        },
+        {
+            "city": "Goolwa",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.50261",
+            "longitude": "138.78462"
+        },
+        {
+            "city": "Golden Grove",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.78333",
+            "longitude": "138.73333"
+        },
+        {
+            "city": "Glenelg",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.98333",
+            "longitude": "138.51667"
+        },
+        {
+            "city": "Gilles Plains",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.85",
+            "longitude": "138.65"
+        },
+        {
+            "city": "Geraldton",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-28.76667",
+            "longitude": "114.6"
+        },
+        {
+            "city": "Gawler",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.6",
+            "longitude": "138.73333"
+        },
+        {
+            "city": "Fremantle",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.05",
+            "longitude": "115.76667"
+        },
+        {
+            "city": "Freeling",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.45",
+            "longitude": "138.8"
+        },
+        {
+            "city": "Findon",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.9",
+            "longitude": "138.53333"
+        },
+        {
+            "city": "Esperance",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.86667",
+            "longitude": "121.9"
+        },
+        {
+            "city": "Encounter Bay",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.58333",
+            "longitude": "138.6"
+        },
+        {
+            "city": "Elizabeth",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.73333",
+            "longitude": "138.65"
+        },
+        {
+            "city": "Donnybrook",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.58333",
+            "longitude": "115.81667"
+        },
+        {
+            "city": "Dongara",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-29.25",
+            "longitude": "114.93333"
+        },
+        {
+            "city": "Chidlow",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.86094",
+            "longitude": "116.27243"
+        },
+        {
+            "city": "Derby",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-17.3",
+            "longitude": "123.96667"
+        },
+        {
+            "city": "Denmark",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-34.96067",
+            "longitude": "117.35321"
+        },
+        {
+            "city": "Port Denison",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-29.28333",
+            "longitude": "114.91667"
+        },
+        {
+            "city": "Darwin",
+            "region": "03",
+            "country": "AU",
+            "latitude": "-12.46113",
+            "longitude": "130.84185"
+        },
+        {
+            "city": "Darlington",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.03333",
+            "longitude": "138.56667"
+        },
+        {
+            "city": "Darlington",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.91667",
+            "longitude": "116.08333"
+        },
+        {
+            "city": "Dampier",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-20.66667",
+            "longitude": "116.7"
+        },
+        {
+            "city": "Cunderdin",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.65",
+            "longitude": "117.25"
+        },
+        {
+            "city": "Cummins",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.26667",
+            "longitude": "135.73333"
+        },
+        {
+            "city": "Crystal Brook",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-33.36667",
+            "longitude": "138.2"
+        },
+        {
+            "city": "Craigburn Farm",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.05",
+            "longitude": "138.61667"
+        },
+        {
+            "city": "Crafers",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35",
+            "longitude": "138.7"
+        },
+        {
+            "city": "Cottesloe",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32",
+            "longitude": "115.76667"
+        },
+        {
+            "city": "Coromandel Valley",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.05",
+            "longitude": "138.61667"
+        },
+        {
+            "city": "Coogee",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.11667",
+            "longitude": "115.76667"
+        },
+        {
+            "city": "Coober Pedy",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-29.01415",
+            "longitude": "134.75495"
+        },
+        {
+            "city": "Collie",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.36667",
+            "longitude": "116.15"
+        },
+        {
+            "city": "Cleve",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-33.7",
+            "longitude": "136.5"
+        },
+        {
+            "city": "Clare",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-33.83333",
+            "longitude": "138.6"
+        },
+        {
+            "city": "Cheltenham",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.86667",
+            "longitude": "138.51667"
+        },
+        {
+            "city": "Ceduna",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-32.11667",
+            "longitude": "133.66667"
+        },
+        {
+            "city": "Caversham",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.88333",
+            "longitude": "115.96667"
+        },
+        {
+            "city": "Carnarvon",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-24.86667",
+            "longitude": "113.63333"
+        },
+        {
+            "city": "Capel",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.56667",
+            "longitude": "115.55"
+        },
+        {
+            "city": "Cannington",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.01667",
+            "longitude": "115.95"
+        },
+        {
+            "city": "Campbelltown",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.88333",
+            "longitude": "138.66667"
+        },
+        {
+            "city": "Callington",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.11667",
+            "longitude": "139.01667"
+        },
+        {
+            "city": "Byford",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.21667",
+            "longitude": "116"
+        },
+        {
+            "city": "Busselton",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.65",
+            "longitude": "115.33333"
+        },
+        {
+            "city": "Bunbury",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.33333",
+            "longitude": "115.63333"
+        },
+        {
+            "city": "Bullsbrook",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.66667",
+            "longitude": "116"
+        },
+        {
+            "city": "Broome",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-17.96667",
+            "longitude": "122.23333"
+        },
+        {
+            "city": "Brighton",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.01667",
+            "longitude": "138.51667"
+        },
+        {
+            "city": "Bridgewater",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35",
+            "longitude": "138.75"
+        },
+        {
+            "city": "Bridgetown",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.95",
+            "longitude": "116.13333"
+        },
+        {
+            "city": "Boyup Brook",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.83333",
+            "longitude": "116.4"
+        },
+        {
+            "city": "Boyanup",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.48333",
+            "longitude": "115.73333"
+        },
+        {
+            "city": "Boulder",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-30.78333",
+            "longitude": "121.48333"
+        },
+        {
+            "city": "Blackwood",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.01667",
+            "longitude": "138.61667"
+        },
+        {
+            "city": "Birkenhead",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.83333",
+            "longitude": "138.5"
+        },
+        {
+            "city": "Birdwood",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.81667",
+            "longitude": "138.96667"
+        },
+        {
+            "city": "Beverley",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.11667",
+            "longitude": "116.91667"
+        },
+        {
+            "city": "Bentley",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32",
+            "longitude": "115.91667"
+        },
+        {
+            "city": "Bellevue",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.9",
+            "longitude": "116.01667"
+        },
+        {
+            "city": "Belair",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35",
+            "longitude": "138.63333"
+        },
+        {
+            "city": "Bedford Park",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.03333",
+            "longitude": "138.56667"
+        },
+        {
+            "city": "Bedfordale",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.18333",
+            "longitude": "116.05"
+        },
+        {
+            "city": "Beaumont",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.93333",
+            "longitude": "138.65"
+        },
+        {
+            "city": "Bassendean",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.9",
+            "longitude": "115.95"
+        },
+        {
+            "city": "Balhannah",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.98333",
+            "longitude": "138.83333"
+        },
+        {
+            "city": "Balaklava",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.15",
+            "longitude": "138.41667"
+        },
+        {
+            "city": "Australind",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.26667",
+            "longitude": "115.71667"
+        },
+        {
+            "city": "Augusta",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-34.31667",
+            "longitude": "115.16667"
+        },
+        {
+            "city": "Armadale",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.15",
+            "longitude": "116"
+        },
+        {
+            "city": "Ardrossan",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.43333",
+            "longitude": "137.9"
+        },
+        {
+            "city": "Applecross",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.01667",
+            "longitude": "115.83333"
+        },
+        {
+            "city": "Angle Vale",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.63333",
+            "longitude": "138.65"
+        },
+        {
+            "city": "Angaston",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.5",
+            "longitude": "139.03333"
+        },
+        {
+            "city": "Alice Springs",
+            "region": "03",
+            "country": "AU",
+            "latitude": "-23.7",
+            "longitude": "133.88333"
+        },
+        {
+            "city": "Aldinga",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.28333",
+            "longitude": "138.48333"
+        },
+        {
+            "city": "Aldgate",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.01667",
+            "longitude": "138.73333"
+        },
+        {
+            "city": "Albany",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-35.01694",
+            "longitude": "117.89167"
+        },
+        {
+            "city": "Adelaide",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.93333",
+            "longitude": "138.6"
+        },
+        {
+            "city": "Dunsborough",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.58333",
+            "longitude": "115.08333"
+        },
+        {
+            "city": "Eaton",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.31667",
+            "longitude": "115.71667"
+        },
+        {
+            "city": "Seacliff",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-35.03333",
+            "longitude": "138.525"
+        },
+        {
+            "city": "Clapham",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.99139",
+            "longitude": "138.6"
+        },
+        {
+            "city": "Two Rocks",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.55056",
+            "longitude": "115.58889"
+        },
+        {
+            "city": "Quinns Rocks",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.68611",
+            "longitude": "115.67778"
+        },
+        {
+            "city": "East Fremantle",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.03889",
+            "longitude": "115.76667"
+        },
+        {
+            "city": "Peppermint Grove",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.00417",
+            "longitude": "115.76389"
+        },
+        {
+            "city": "Claremont",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.9875",
+            "longitude": "115.78611"
+        },
+        {
+            "city": "Bicton",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.02778",
+            "longitude": "115.78333"
+        },
+        {
+            "city": "Attadale",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.02361",
+            "longitude": "115.79583"
+        },
+        {
+            "city": "Shenton Park",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.95833",
+            "longitude": "115.79722"
+        },
+        {
+            "city": "Dalkeith",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.99583",
+            "longitude": "115.79583"
+        },
+        {
+            "city": "Jurien",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-30.30417",
+            "longitude": "115.0375"
+        },
+        {
+            "city": "Warnbro",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.33611",
+            "longitude": "115.74861"
+        },
+        {
+            "city": "Mullaloo",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.77896",
+            "longitude": "115.73676"
+        },
+        {
+            "city": "Alyangula",
+            "region": "03",
+            "country": "AU",
+            "latitude": "-13.84833",
+            "longitude": "136.41917"
+        },
+        {
+            "city": "Stuart Park",
+            "region": "03",
+            "country": "AU",
+            "latitude": "-12.44306",
+            "longitude": "130.845"
+        },
+        {
+            "city": "Larrakeyah",
+            "region": "03",
+            "country": "AU",
+            "latitude": "-12.45527",
+            "longitude": "130.83172"
+        },
+        {
+            "city": "Leanyer",
+            "region": "03",
+            "country": "AU",
+            "latitude": "-12.36667",
+            "longitude": "130.9"
+        },
+        {
+            "city": "Ludmilla",
+            "region": "03",
+            "country": "AU",
+            "latitude": "-12.42032",
+            "longitude": "130.85506"
+        },
+        {
+            "city": "Fannie Bay",
+            "region": "03",
+            "country": "AU",
+            "latitude": "-12.42618",
+            "longitude": "130.83979"
+        },
+        {
+            "city": "Nightcliff",
+            "region": "03",
+            "country": "AU",
+            "latitude": "-12.38056",
+            "longitude": "130.85389"
+        },
+        {
+            "city": "Glen Iris",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-33.34167",
+            "longitude": "115.66667"
+        },
+        {
+            "city": "Lower King",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-34.95778",
+            "longitude": "117.93833"
+        },
+        {
+            "city": "Young",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.31667",
+            "longitude": "148.3"
+        },
+        {
+            "city": "Yeppoon",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-23.13333",
+            "longitude": "150.73333"
+        },
+        {
+            "city": "Yatala",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.71667",
+            "longitude": "153.21667"
+        },
+        {
+            "city": "Yarrawonga",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-36.01667",
+            "longitude": "146"
+        },
+        {
+            "city": "Yarraman",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-26.83333",
+            "longitude": "151.98333"
+        },
+        {
+            "city": "Yandina",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-26.56667",
+            "longitude": "152.96667"
+        },
+        {
+            "city": "Wynyard",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41",
+            "longitude": "145.71667"
+        },
+        {
+            "city": "Wynnum",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.45",
+            "longitude": "153.16667"
+        },
+        {
+            "city": "Worrolong",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-37.81667",
+            "longitude": "140.86667"
+        },
+        {
+            "city": "Woree",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-16.95",
+            "longitude": "145.75"
+        },
+        {
+            "city": "Woorim",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.06667",
+            "longitude": "153.21667"
+        },
+        {
+            "city": "Woombye",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-26.66667",
+            "longitude": "152.96667"
+        },
+        {
+            "city": "Woolgoolga",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.11667",
+            "longitude": "153.2"
+        },
+        {
+            "city": "Woodridge",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.63333",
+            "longitude": "153.1"
+        },
+        {
+            "city": "Woodford",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-26.95",
+            "longitude": "152.78333"
+        },
+        {
+            "city": "Wondai",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-26.31667",
+            "longitude": "151.86667"
+        },
+        {
+            "city": "Wodonga",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-36.11667",
+            "longitude": "146.88333"
+        },
+        {
+            "city": "Windaroo",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.73333",
+            "longitude": "153.2"
+        },
+        {
+            "city": "Westcourt",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-26.8",
+            "longitude": "150.15"
+        },
+        {
+            "city": "Westbury",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.51667",
+            "longitude": "146.85"
+        },
+        {
+            "city": "Westbrook",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.61667",
+            "longitude": "151.86667"
+        },
+        {
+            "city": "Wellington Point",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.48333",
+            "longitude": "153.25"
+        },
+        {
+            "city": "Wellington",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.55",
+            "longitude": "148.95"
+        },
+        {
+            "city": "Warwick",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-28.23333",
+            "longitude": "152.01667"
+        },
+        {
+            "city": "Warrnambool",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.38333",
+            "longitude": "142.48333"
+        },
+        {
+            "city": "Warrane",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.86667",
+            "longitude": "147.38333"
+        },
+        {
+            "city": "Warragul",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.16667",
+            "longitude": "145.93333"
+        },
+        {
+            "city": "Wangaratta",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-36.36667",
+            "longitude": "146.33333"
+        },
+        {
+            "city": "Walkerston",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-21.16667",
+            "longitude": "149.06667"
+        },
+        {
+            "city": "Wagga Wagga",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.11667",
+            "longitude": "147.36667"
+        },
+        {
+            "city": "Wacol",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.58333",
+            "longitude": "152.93333"
+        },
+        {
+            "city": "Victoria Point",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.58333",
+            "longitude": "153.3"
+        },
+        {
+            "city": "Urraween",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-25.3",
+            "longitude": "152.81667"
+        },
+        {
+            "city": "Urangan",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-25.3",
+            "longitude": "152.9"
+        },
+        {
+            "city": "Upper Coomera",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.9",
+            "longitude": "153.3"
+        },
+        {
+            "city": "Ulverstone",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.15",
+            "longitude": "146.16667"
+        },
+        {
+            "city": "Ulladulla",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.35",
+            "longitude": "150.46667"
+        },
+        {
+            "city": "Tumut",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.3",
+            "longitude": "148.21667"
+        },
+        {
+            "city": "Tugun",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-28.15",
+            "longitude": "153.5"
+        },
+        {
+            "city": "Trinity Beach",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-16.78876",
+            "longitude": "145.69682"
+        },
+        {
+            "city": "Traralgon",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.18333",
+            "longitude": "146.53333"
+        },
+        {
+            "city": "Townsville",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-19.25",
+            "longitude": "146.8"
+        },
+        {
+            "city": "Torquay",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-25.28333",
+            "longitude": "152.86667"
+        },
+        {
+            "city": "Toowoomba",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.55",
+            "longitude": "151.96667"
+        },
+        {
+            "city": "Toolooa",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-23.93333",
+            "longitude": "151.28333"
+        },
+        {
+            "city": "Tolga",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-17.23333",
+            "longitude": "145.48333"
+        },
+        {
+            "city": "Tin Can Bay",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-25.91667",
+            "longitude": "153"
+        },
+        {
+            "city": "The Entrance",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.35",
+            "longitude": "151.5"
+        },
+        {
+            "city": "Thagoona",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.63333",
+            "longitude": "152.63333"
+        },
+        {
+            "city": "Thabeban",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-24.9",
+            "longitude": "152.35"
+        },
+        {
+            "city": "Tewantin",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-26.38333",
+            "longitude": "153.03333"
+        },
+        {
+            "city": "Tarragindi",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.53333",
+            "longitude": "153.03333"
+        },
+        {
+            "city": "Taroona",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.95",
+            "longitude": "147.33333"
+        },
+        {
+            "city": "Taroom",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-25.65",
+            "longitude": "149.8"
+        },
+        {
+            "city": "Taree",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-31.9",
+            "longitude": "152.46667"
+        },
+        {
+            "city": "Tamworth",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-31.1",
+            "longitude": "150.93333"
+        },
+        {
+            "city": "Tallebudgera",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-28.15",
+            "longitude": "153.43333"
+        },
+        {
+            "city": "Sydney",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.86785",
+            "longitude": "151.20732"
+        },
+        {
+            "city": "Swan Hill",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-35.33781",
+            "longitude": "143.5544"
+        },
+        {
+            "city": "Surfers Paradise",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-28.00274",
+            "longitude": "153.42999"
+        },
+        {
+            "city": "Sunnybank",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.58333",
+            "longitude": "153.05"
+        },
+        {
+            "city": "Sunbury",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.58333",
+            "longitude": "144.73333"
+        },
+        {
+            "city": "Strathpine",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.30414",
+            "longitude": "152.98977"
+        },
+        {
+            "city": "Port Stephens",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.6966",
+            "longitude": "152.06348"
+        },
+        {
+            "city": "Stawell",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.05",
+            "longitude": "142.76667"
+        },
+        {
+            "city": "Stanthorpe",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-28.66667",
+            "longitude": "151.95"
+        },
+        {
+            "city": "Spring Hill",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.46141",
+            "longitude": "153.02311"
+        },
+        {
+            "city": "Southport",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.96667",
+            "longitude": "153.4"
+        },
+        {
+            "city": "South Grafton",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-29.7",
+            "longitude": "152.95"
+        },
+        {
+            "city": "Sorrento",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.31667",
+            "longitude": "144.73333"
+        },
+        {
+            "city": "Sorell",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.78444",
+            "longitude": "147.56028"
+        },
+        {
+            "city": "Somerville",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.21667",
+            "longitude": "145.16667"
+        },
+        {
+            "city": "Smithton",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-40.83333",
+            "longitude": "145.11667"
+        },
+        {
+            "city": "Slacks Creek",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.65",
+            "longitude": "153.15"
+        },
+        {
+            "city": "Singleton",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.56667",
+            "longitude": "151.18333"
+        },
+        {
+            "city": "Shorncliffe",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.32759",
+            "longitude": "153.08161"
+        },
+        {
+            "city": "Shepparton",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-36.38333",
+            "longitude": "145.4"
+        },
+        {
+            "city": "Shellharbour Village",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.58333",
+            "longitude": "150.86667"
+        },
+        {
+            "city": "Sheffield",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.38333",
+            "longitude": "146.33333"
+        },
+        {
+            "city": "Sharon",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-24.88333",
+            "longitude": "152.26667"
+        },
+        {
+            "city": "Sebastopol",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.58532",
+            "longitude": "143.83953"
+        },
+        {
+            "city": "Scottsdale",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.15",
+            "longitude": "147.51667"
+        },
+        {
+            "city": "Scarness",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-25.28333",
+            "longitude": "152.85"
+        },
+        {
+            "city": "Sawtell",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.38333",
+            "longitude": "153.1"
+        },
+        {
+            "city": "Sarina",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-21.43333",
+            "longitude": "149.21667"
+        },
+        {
+            "city": "Sandgate",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.32198",
+            "longitude": "153.06951"
+        },
+        {
+            "city": "Sandford",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.93333",
+            "longitude": "147.5"
+        },
+        {
+            "city": "Sale",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.1",
+            "longitude": "147.06667"
+        },
+        {
+            "city": "Saint Kilda",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.8676",
+            "longitude": "144.98099"
+        },
+        {
+            "city": "Saint Helens",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.32028",
+            "longitude": "148.23889"
+        },
+        {
+            "city": "Rosebery",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.78333",
+            "longitude": "145.51667"
+        },
+        {
+            "city": "Roma",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-26.58333",
+            "longitude": "148.78333"
+        },
+        {
+            "city": "Rokeby",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.9",
+            "longitude": "147.43333"
+        },
+        {
+            "city": "Rocklea",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.53917",
+            "longitude": "153.00402"
+        },
+        {
+            "city": "Rockhampton",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-23.38333",
+            "longitude": "150.5"
+        },
+        {
+            "city": "Riverview",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.6",
+            "longitude": "152.85"
+        },
+        {
+            "city": "Riverstone",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.68333",
+            "longitude": "150.86667"
+        },
+        {
+            "city": "Richmond",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.6",
+            "longitude": "150.76667"
+        },
+        {
+            "city": "Rhodes",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.83333",
+            "longitude": "151.08333"
+        },
+        {
+            "city": "Revesby",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.95",
+            "longitude": "151.01667"
+        },
+        {
+            "city": "Renmark West",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.16667",
+            "longitude": "140.7"
+        },
+        {
+            "city": "Renmark",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.17702",
+            "longitude": "140.74697"
+        },
+        {
+            "city": "Regents Park",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.88333",
+            "longitude": "151.01667"
+        },
+        {
+            "city": "Redlynch",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-16.88333",
+            "longitude": "145.7"
+        },
+        {
+            "city": "Redland Bay",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.61343",
+            "longitude": "153.30245"
+        },
+        {
+            "city": "Red Hill",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-20.31667",
+            "longitude": "148.5"
+        },
+        {
+            "city": "Redhead",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.01667",
+            "longitude": "151.71667"
+        },
+        {
+            "city": "Redfern",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.89279",
+            "longitude": "151.20415"
+        },
+        {
+            "city": "Redbank",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.6",
+            "longitude": "152.86667"
+        },
+        {
+            "city": "Raworth",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.73333",
+            "longitude": "151.61667"
+        },
+        {
+            "city": "Ravenshoe",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-17.63333",
+            "longitude": "145.48333"
+        },
+        {
+            "city": "Rathmines",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.03333",
+            "longitude": "151.6"
+        },
+        {
+            "city": "Quirindi",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-31.51667",
+            "longitude": "150.68333"
+        },
+        {
+            "city": "Queenstown",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.08333",
+            "longitude": "145.55"
+        },
+        {
+            "city": "Queenscliff",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.26667",
+            "longitude": "144.65"
+        },
+        {
+            "city": "Queanbeyan",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.35",
+            "longitude": "149.23333"
+        },
+        {
+            "city": "Quakers Hill",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.73333",
+            "longitude": "150.88333"
+        },
+        {
+            "city": "Pymble",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.75",
+            "longitude": "151.15"
+        },
+        {
+            "city": "Port Sorell",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.16667",
+            "longitude": "146.55"
+        },
+        {
+            "city": "Port Macquarie",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-31.43333",
+            "longitude": "152.91667"
+        },
+        {
+            "city": "Portland",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.33333",
+            "longitude": "141.6"
+        },
+        {
+            "city": "Portland",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.36667",
+            "longitude": "150"
+        },
+        {
+            "city": "Port Kennedy",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-10.585",
+            "longitude": "142.21778"
+        },
+        {
+            "city": "Port Kembla",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.46667",
+            "longitude": "150.9"
+        },
+        {
+            "city": "Port Douglas",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-16.48333",
+            "longitude": "145.46667"
+        },
+        {
+            "city": "Point Clare",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.45",
+            "longitude": "151.33333"
+        },
+        {
+            "city": "Pitt Town",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.58333",
+            "longitude": "150.86667"
+        },
+        {
+            "city": "Picton",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.18333",
+            "longitude": "150.6"
+        },
+        {
+            "city": "Phillip",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-31.13333",
+            "longitude": "150.85"
+        },
+        {
+            "city": "Perthville",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.48333",
+            "longitude": "149.53333"
+        },
+        {
+            "city": "Perth",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.56667",
+            "longitude": "147.16667"
+        },
+        {
+            "city": "Penshurst",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.96667",
+            "longitude": "151.08333"
+        },
+        {
+            "city": "Penrith",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.75",
+            "longitude": "150.7"
+        },
+        {
+            "city": "Penola",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-37.38333",
+            "longitude": "140.81667"
+        },
+        {
+            "city": "Pennant Hills",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.73783",
+            "longitude": "151.07216"
+        },
+        {
+            "city": "Penguin",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.11667",
+            "longitude": "146.06667"
+        },
+        {
+            "city": "Peak Hill",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.73333",
+            "longitude": "148.18333"
+        },
+        {
+            "city": "Parkes",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.13333",
+            "longitude": "148.18333"
+        },
+        {
+            "city": "Palm Beach",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.59664",
+            "longitude": "151.32384"
+        },
+        {
+            "city": "Pakenham Upper",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.01667",
+            "longitude": "145.51667"
+        },
+        {
+            "city": "Ouyen",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-35.06667",
+            "longitude": "142.31667"
+        },
+        {
+            "city": "Orange",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.28333",
+            "longitude": "149.1"
+        },
+        {
+            "city": "One Mile",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.62902",
+            "longitude": "152.73768"
+        },
+        {
+            "city": "Old Beach",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.75",
+            "longitude": "147.28333"
+        },
+        {
+            "city": "Old Bar",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-31.96667",
+            "longitude": "152.58333"
+        },
+        {
+            "city": "Oberon",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.71667",
+            "longitude": "149.86667"
+        },
+        {
+            "city": "Oatley",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.98333",
+            "longitude": "151.06667"
+        },
+        {
+            "city": "Oakdale",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.08333",
+            "longitude": "150.51667"
+        },
+        {
+            "city": "Nyngan",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-31.56667",
+            "longitude": "147.18333"
+        },
+        {
+            "city": "Nowra",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.88333",
+            "longitude": "150.6"
+        },
+        {
+            "city": "Notting Hill",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.905",
+            "longitude": "145.1427"
+        },
+        {
+            "city": "North Wonthaggi",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.6",
+            "longitude": "145.6"
+        },
+        {
+            "city": "North Turramurra",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.71345",
+            "longitude": "151.14726"
+        },
+        {
+            "city": "Northmead",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.78333",
+            "longitude": "150.98333"
+        },
+        {
+            "city": "North Haven",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-31.63333",
+            "longitude": "152.81667"
+        },
+        {
+            "city": "Normanhurst",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.73333",
+            "longitude": "151.1"
+        },
+        {
+            "city": "Noosa Heads",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-26.38333",
+            "longitude": "153.15"
+        },
+        {
+            "city": "Nimbin",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-28.59726",
+            "longitude": "153.22254"
+        },
+        {
+            "city": "Newtown",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.89835",
+            "longitude": "151.17754"
+        },
+        {
+            "city": "Newstead",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.43333",
+            "longitude": "147.16667"
+        },
+        {
+            "city": "Newport",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.65517",
+            "longitude": "151.32126"
+        },
+        {
+            "city": "New Norfolk",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.78261",
+            "longitude": "147.0587"
+        },
+        {
+            "city": "Newnham",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.38333",
+            "longitude": "147.13333"
+        },
+        {
+            "city": "Newcastle",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.92715",
+            "longitude": "151.77647"
+        },
+        {
+            "city": "Nerang",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.98333",
+            "longitude": "153.33333"
+        },
+        {
+            "city": "Nelson Bay",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.71667",
+            "longitude": "152.15"
+        },
+        {
+            "city": "Narromine",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.15",
+            "longitude": "148.25"
+        },
+        {
+            "city": "Narrandera",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.75",
+            "longitude": "146.55"
+        },
+        {
+            "city": "Narrabri",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.31667",
+            "longitude": "149.78333"
+        },
+        {
+            "city": "Narrabeen",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.71277",
+            "longitude": "151.29736"
+        },
+        {
+            "city": "Narooma",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-36.21667",
+            "longitude": "150.05"
+        },
+        {
+            "city": "Narellan",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.03333",
+            "longitude": "150.73333"
+        },
+        {
+            "city": "Narara",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.4",
+            "longitude": "151.35"
+        },
+        {
+            "city": "Naracoorte",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-36.95785",
+            "longitude": "140.7383"
+        },
+        {
+            "city": "Nana Glen",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.13333",
+            "longitude": "153.01667"
+        },
+        {
+            "city": "Nambucca Heads",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.65",
+            "longitude": "153"
+        },
+        {
+            "city": "Nambucca",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.63333",
+            "longitude": "152.98333"
+        },
+        {
+            "city": "Nambour",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-26.63333",
+            "longitude": "152.95"
+        },
+        {
+            "city": "Nabiac",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.1",
+            "longitude": "152.38333"
+        },
+        {
+            "city": "Muswellbrook",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.26667",
+            "longitude": "150.9"
+        },
+        {
+            "city": "Murwillumbah",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-28.31667",
+            "longitude": "153.4"
+        },
+        {
+            "city": "Murrumbateman",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.96667",
+            "longitude": "149.03333"
+        },
+        {
+            "city": "Mundulla",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-36.36667",
+            "longitude": "140.68333"
+        },
+        {
+            "city": "Mulwala",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.98333",
+            "longitude": "146.01667"
+        },
+        {
+            "city": "Mulgrave",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.91667",
+            "longitude": "145.2"
+        },
+        {
+            "city": "Mulgoa",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.83333",
+            "longitude": "150.66667"
+        },
+        {
+            "city": "Mudgee",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.59426",
+            "longitude": "149.5871"
+        },
+        {
+            "city": "Mount Gambier",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-37.83333",
+            "longitude": "140.76667"
+        },
+        {
+            "city": "Mount Druitt",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.76667",
+            "longitude": "150.81667"
+        },
+        {
+            "city": "Mount Colah",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.68333",
+            "longitude": "151.11667"
+        },
+        {
+            "city": "Mount Beauty",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-36.75",
+            "longitude": "147.16667"
+        },
+        {
+            "city": "Moss Vale",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.55",
+            "longitude": "150.38333"
+        },
+        {
+            "city": "Mosman",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.82778",
+            "longitude": "151.23333"
+        },
+        {
+            "city": "Morwell",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.23333",
+            "longitude": "146.4"
+        },
+        {
+            "city": "Mortdale",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.96667",
+            "longitude": "151.08333"
+        },
+        {
+            "city": "Mornington",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.21667",
+            "longitude": "145.03333"
+        },
+        {
+            "city": "Moree",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-29.46667",
+            "longitude": "149.85"
+        },
+        {
+            "city": "Mordialloc",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38",
+            "longitude": "145.08333"
+        },
+        {
+            "city": "Morayfield",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.11667",
+            "longitude": "152.95"
+        },
+        {
+            "city": "Moonee Beach",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.20575",
+            "longitude": "153.15293"
+        },
+        {
+            "city": "Moonah",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.85",
+            "longitude": "147.3"
+        },
+        {
+            "city": "Mooloolaba",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-26.68333",
+            "longitude": "153.11667"
+        },
+        {
+            "city": "Montrose",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.81667",
+            "longitude": "145.35"
+        },
+        {
+            "city": "Monash",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.23333",
+            "longitude": "140.56667"
+        },
+        {
+            "city": "Molong",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.1",
+            "longitude": "148.86667"
+        },
+        {
+            "city": "Moggill",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.58333",
+            "longitude": "152.86667"
+        },
+        {
+            "city": "Moe",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.16667",
+            "longitude": "146.26667"
+        },
+        {
+            "city": "Moama",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-36.11667",
+            "longitude": "144.78333"
+        },
+        {
+            "city": "Mittagong",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.45",
+            "longitude": "150.45"
+        },
+        {
+            "city": "Miranda",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.03333",
+            "longitude": "151.1"
+        },
+        {
+            "city": "Milton",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.31667",
+            "longitude": "150.43333"
+        },
+        {
+            "city": "Millthorpe",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.45",
+            "longitude": "149.18333"
+        },
+        {
+            "city": "Millicent",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-37.6",
+            "longitude": "140.35"
+        },
+        {
+            "city": "Mildura",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-34.2",
+            "longitude": "142.15"
+        },
+        {
+            "city": "Merrylands",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.83333",
+            "longitude": "150.98333"
+        },
+        {
+            "city": "Merriwa",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.15",
+            "longitude": "150.35"
+        },
+        {
+            "city": "Merimbula",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-36.9",
+            "longitude": "149.9"
+        },
+        {
+            "city": "Menai",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.01667",
+            "longitude": "151.01667"
+        },
+        {
+            "city": "Melton",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.68333",
+            "longitude": "144.58333"
+        },
+        {
+            "city": "Melbourne",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.814",
+            "longitude": "144.96332"
+        },
+        {
+            "city": "Medowie",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.73333",
+            "longitude": "151.86667"
+        },
+        {
+            "city": "Matraville",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.95",
+            "longitude": "151.23333"
+        },
+        {
+            "city": "Mascot",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.93333",
+            "longitude": "151.2"
+        },
+        {
+            "city": "Maryborough",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.05",
+            "longitude": "143.75"
+        },
+        {
+            "city": "Maryborough",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-25.53333",
+            "longitude": "152.7"
+        },
+        {
+            "city": "Marrickville",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.91667",
+            "longitude": "151.16667"
+        },
+        {
+            "city": "Maroubra",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.95",
+            "longitude": "151.23333"
+        },
+        {
+            "city": "Margate",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-43.03333",
+            "longitude": "147.26667"
+        },
+        {
+            "city": "Margate",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.24761",
+            "longitude": "153.09809"
+        },
+        {
+            "city": "Mareeba",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-17",
+            "longitude": "145.43333"
+        },
+        {
+            "city": "Mansfield",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.05",
+            "longitude": "146.08333"
+        },
+        {
+            "city": "Manly",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.79798",
+            "longitude": "151.28826"
+        },
+        {
+            "city": "Manilla",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.75",
+            "longitude": "150.71667"
+        },
+        {
+            "city": "Malabar",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.96667",
+            "longitude": "151.25"
+        },
+        {
+            "city": "Maitland",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.73333",
+            "longitude": "151.55"
+        },
+        {
+            "city": "Maclean",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-29.46667",
+            "longitude": "153.21667"
+        },
+        {
+            "city": "Macksville",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.71667",
+            "longitude": "152.9"
+        },
+        {
+            "city": "Mackay",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-21.15",
+            "longitude": "149.2"
+        },
+        {
+            "city": "Luddenham",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.88333",
+            "longitude": "150.68333"
+        },
+        {
+            "city": "Loveday",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.28333",
+            "longitude": "140.43333"
+        },
+        {
+            "city": "Lorn",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.73333",
+            "longitude": "151.56667"
+        },
+        {
+            "city": "Long Jetty",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.36667",
+            "longitude": "151.48333"
+        },
+        {
+            "city": "Longford",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.6",
+            "longitude": "147.11667"
+        },
+        {
+            "city": "Liverpool",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.9",
+            "longitude": "150.93333"
+        },
+        {
+            "city": "Lithgow",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.48333",
+            "longitude": "150.15"
+        },
+        {
+            "city": "Lismore",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-28.81354",
+            "longitude": "153.2773"
+        },
+        {
+            "city": "Lisarow",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.38333",
+            "longitude": "151.36667"
+        },
+        {
+            "city": "Lindisfarne",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.83333",
+            "longitude": "147.35"
+        },
+        {
+            "city": "Lindfield",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.78333",
+            "longitude": "151.16667"
+        },
+        {
+            "city": "Lightning Ridge",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-29.43333",
+            "longitude": "147.98333"
+        },
+        {
+            "city": "Lidcombe",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.86436",
+            "longitude": "151.0397"
+        },
+        {
+            "city": "Leura",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.71667",
+            "longitude": "150.33333"
+        },
+        {
+            "city": "Leumeah",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.05",
+            "longitude": "150.83333"
+        },
+        {
+            "city": "Leopold",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.18333",
+            "longitude": "144.46667"
+        },
+        {
+            "city": "Leichhardt",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.88333",
+            "longitude": "151.15"
+        },
+        {
+            "city": "Leeton",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.56667",
+            "longitude": "146.4"
+        },
+        {
+            "city": "Lawson",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.71667",
+            "longitude": "150.43333"
+        },
+        {
+            "city": "Lavington",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-36.05",
+            "longitude": "146.93333"
+        },
+        {
+            "city": "Laurieton",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-31.65",
+            "longitude": "152.8"
+        },
+        {
+            "city": "Launceston",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.45",
+            "longitude": "147.16667"
+        },
+        {
+            "city": "Lauderdale",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.9",
+            "longitude": "147.48333"
+        },
+        {
+            "city": "Latrobe",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.23333",
+            "longitude": "146.41667"
+        },
+        {
+            "city": "Larnook",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-28.65",
+            "longitude": "153.11667"
+        },
+        {
+            "city": "Largs",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.7",
+            "longitude": "151.6"
+        },
+        {
+            "city": "Lara",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.01667",
+            "longitude": "144.4"
+        },
+        {
+            "city": "Lane Cove",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.81667",
+            "longitude": "151.16667"
+        },
+        {
+            "city": "Lakes Entrance",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.88115",
+            "longitude": "147.98103"
+        },
+        {
+            "city": "Lakemba",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.91667",
+            "longitude": "151.08333"
+        },
+        {
+            "city": "Lake Illawarra",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.54658",
+            "longitude": "150.85645"
+        },
+        {
+            "city": "Lake Cargelligo",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.3",
+            "longitude": "146.38333"
+        },
+        {
+            "city": "Lake Albert",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.16667",
+            "longitude": "147.38333"
+        },
+        {
+            "city": "Kyogle",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-28.61667",
+            "longitude": "153"
+        },
+        {
+            "city": "Kyabram",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-36.31667",
+            "longitude": "145.05"
+        },
+        {
+            "city": "Kurri Kurri",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.81667",
+            "longitude": "151.48333"
+        },
+        {
+            "city": "Kurnell",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.01667",
+            "longitude": "151.2"
+        },
+        {
+            "city": "Kuranda",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-16.81667",
+            "longitude": "145.65"
+        },
+        {
+            "city": "Kotara",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.95",
+            "longitude": "151.68333"
+        },
+        {
+            "city": "Kootingal",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-31.06667",
+            "longitude": "151.05"
+        },
+        {
+            "city": "Kogarah",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.98333",
+            "longitude": "151.11667"
+        },
+        {
+            "city": "Kirribilli",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.85",
+            "longitude": "151.21667"
+        },
+        {
+            "city": "Kingston Beach",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.98333",
+            "longitude": "147.31667"
+        },
+        {
+            "city": "Kingston",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.96667",
+            "longitude": "147.31667"
+        },
+        {
+            "city": "Kingston",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.23333",
+            "longitude": "140.35"
+        },
+        {
+            "city": "Kingscliff",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-28.26667",
+            "longitude": "153.56667"
+        },
+        {
+            "city": "Kingaroy",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-26.53333",
+            "longitude": "151.83333"
+        },
+        {
+            "city": "Kiama",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.68333",
+            "longitude": "150.86667"
+        },
+        {
+            "city": "Kettering",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-43.11667",
+            "longitude": "147.26667"
+        },
+        {
+            "city": "Kenthurst",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.66667",
+            "longitude": "151"
+        },
+        {
+            "city": "Kensington",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.91667",
+            "longitude": "151.21667"
+        },
+        {
+            "city": "Kendall",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-31.63333",
+            "longitude": "152.7"
+        },
+        {
+            "city": "Kempsey",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-31.08333",
+            "longitude": "152.83333"
+        },
+        {
+            "city": "Kelso",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.41667",
+            "longitude": "149.6"
+        },
+        {
+            "city": "Keith",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-36.1",
+            "longitude": "140.35"
+        },
+        {
+            "city": "Keiraville",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.41667",
+            "longitude": "150.86667"
+        },
+        {
+            "city": "Katoomba",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.7",
+            "longitude": "150.3"
+        },
+        {
+            "city": "Kanwal",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.25391",
+            "longitude": "151.49177"
+        },
+        {
+            "city": "Kangaroo Valley",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.73333",
+            "longitude": "150.53333"
+        },
+        {
+            "city": "Kandos",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.85",
+            "longitude": "149.96667"
+        },
+        {
+            "city": "Kahibah",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.96667",
+            "longitude": "151.71667"
+        },
+        {
+            "city": "Junee",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.88333",
+            "longitude": "147.58333"
+        },
+        {
+            "city": "Jindera",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.95",
+            "longitude": "146.9"
+        },
+        {
+            "city": "Jindabyne",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-36.41667",
+            "longitude": "148.63333"
+        },
+        {
+            "city": "Jilliby",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.22605",
+            "longitude": "151.41684"
+        },
+        {
+            "city": "Jannali",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.01667",
+            "longitude": "151.06667"
+        },
+        {
+            "city": "Jamberoo",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.65",
+            "longitude": "150.78333"
+        },
+        {
+            "city": "Inverell",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-29.78333",
+            "longitude": "151.11667"
+        },
+        {
+            "city": "Innisfail",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-17.53333",
+            "longitude": "146.03333"
+        },
+        {
+            "city": "Ingleburn",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34",
+            "longitude": "150.86667"
+        },
+        {
+            "city": "Ingham",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-18.65",
+            "longitude": "146.16667"
+        },
+        {
+            "city": "Hurstville Grove",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.96667",
+            "longitude": "151.1"
+        },
+        {
+            "city": "Huonville",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-43.03333",
+            "longitude": "147.03333"
+        },
+        {
+            "city": "Howlong",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.96667",
+            "longitude": "146.63333"
+        },
+        {
+            "city": "Horsham",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-36.71667",
+            "longitude": "142.2"
+        },
+        {
+            "city": "Hornsby",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.70244",
+            "longitude": "151.09931"
+        },
+        {
+            "city": "Home Hill",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-19.66667",
+            "longitude": "147.41667"
+        },
+        {
+            "city": "Homebush",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.86667",
+            "longitude": "151.08333"
+        },
+        {
+            "city": "Holsworthy",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.98333",
+            "longitude": "150.96667"
+        },
+        {
+            "city": "Holgate",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.4",
+            "longitude": "151.41667"
+        },
+        {
+            "city": "Holbrook",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.73333",
+            "longitude": "147.31667"
+        },
+        {
+            "city": "Hobart",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.87936",
+            "longitude": "147.32941"
+        },
+        {
+            "city": "Hillston",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.48333",
+            "longitude": "145.53333"
+        },
+        {
+            "city": "Henty",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.51667",
+            "longitude": "147.05"
+        },
+        {
+            "city": "Helensburgh",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.18333",
+            "longitude": "151"
+        },
+        {
+            "city": "Heddon Greta",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.8",
+            "longitude": "151.51667"
+        },
+        {
+            "city": "Heathcote",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.08333",
+            "longitude": "151.01667"
+        },
+        {
+            "city": "Healesville",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.65",
+            "longitude": "145.51667"
+        },
+        {
+            "city": "Hazelbrook",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.73333",
+            "longitude": "150.45"
+        },
+        {
+            "city": "Haymarket",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.87868",
+            "longitude": "151.20526"
+        },
+        {
+            "city": "Hawks Nest",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.66667",
+            "longitude": "152.16667"
+        },
+        {
+            "city": "Hastings",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.3",
+            "longitude": "145.18333"
+        },
+        {
+            "city": "Harrington",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-31.86667",
+            "longitude": "152.7"
+        },
+        {
+            "city": "Hamilton",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.74425",
+            "longitude": "142.02202"
+        },
+        {
+            "city": "Haberfield",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.88333",
+            "longitude": "151.2"
+        },
+        {
+            "city": "Gympie",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-26.18979",
+            "longitude": "152.66499"
+        },
+        {
+            "city": "Guyra",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.23333",
+            "longitude": "151.66667"
+        },
+        {
+            "city": "Gunnedah",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.98333",
+            "longitude": "150.25"
+        },
+        {
+            "city": "Gundaroo",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.03333",
+            "longitude": "149.25"
+        },
+        {
+            "city": "Gundagai",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.06667",
+            "longitude": "148.1"
+        },
+        {
+            "city": "Gulgong",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.36667",
+            "longitude": "149.53333"
+        },
+        {
+            "city": "Griffith",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.28333",
+            "longitude": "146.03333"
+        },
+        {
+            "city": "Greta",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.7",
+            "longitude": "151.38333"
+        },
+        {
+            "city": "Grenfell",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.9",
+            "longitude": "148.16667"
+        },
+        {
+            "city": "Greenwell Point",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.9",
+            "longitude": "150.73333"
+        },
+        {
+            "city": "Greensborough",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.70462",
+            "longitude": "145.10302"
+        },
+        {
+            "city": "Granville",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.83333",
+            "longitude": "151.01667"
+        },
+        {
+            "city": "Granton",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.75149",
+            "longitude": "147.22795"
+        },
+        {
+            "city": "Grafton",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-29.68333",
+            "longitude": "152.93333"
+        },
+        {
+            "city": "Goulburn",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.75",
+            "longitude": "149.71667"
+        },
+        {
+            "city": "Gosford",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.43333",
+            "longitude": "151.35"
+        },
+        {
+            "city": "Gorokan",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.25742",
+            "longitude": "151.51134"
+        },
+        {
+            "city": "Gordon",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-29.3",
+            "longitude": "152.71667"
+        },
+        {
+            "city": "Goonellabah",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-28.81667",
+            "longitude": "153.31667"
+        },
+        {
+            "city": "Goodna",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.61667",
+            "longitude": "152.9"
+        },
+        {
+            "city": "Gol Gol",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.18333",
+            "longitude": "142.21667"
+        },
+        {
+            "city": "Gold Coast",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-28",
+            "longitude": "153.43333"
+        },
+        {
+            "city": "Gloucester",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32",
+            "longitude": "151.96667"
+        },
+        {
+            "city": "Glenorie",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.6",
+            "longitude": "151.01667"
+        },
+        {
+            "city": "Glenorchy",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.83343",
+            "longitude": "147.27593"
+        },
+        {
+            "city": "Glen Innes",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-29.73333",
+            "longitude": "151.73333"
+        },
+        {
+            "city": "Glenhaven",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.7",
+            "longitude": "151"
+        },
+        {
+            "city": "Glenfield",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.96667",
+            "longitude": "150.9"
+        },
+        {
+            "city": "Glenbrook",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.76667",
+            "longitude": "150.61667"
+        },
+        {
+            "city": "Gladstone",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-23.85",
+            "longitude": "151.25"
+        },
+        {
+            "city": "Gilgandra",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-31.71667",
+            "longitude": "148.65"
+        },
+        {
+            "city": "Gilgai",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-29.86667",
+            "longitude": "151.11667"
+        },
+        {
+            "city": "Gerringong",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.75",
+            "longitude": "150.85"
+        },
+        {
+            "city": "George Town",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.1",
+            "longitude": "146.83333"
+        },
+        {
+            "city": "Geeveston",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-43.16337",
+            "longitude": "146.92549"
+        },
+        {
+            "city": "Geelong West",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.13333",
+            "longitude": "144.35"
+        },
+        {
+            "city": "Geelong",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.14711",
+            "longitude": "144.36069"
+        },
+        {
+            "city": "Gayndah",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-25.63333",
+            "longitude": "151.6"
+        },
+        {
+            "city": "Gatton",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.55",
+            "longitude": "152.28333"
+        },
+        {
+            "city": "Galston",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.65",
+            "longitude": "151.05"
+        },
+        {
+            "city": "Frederickton",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-31.03333",
+            "longitude": "152.86667"
+        },
+        {
+            "city": "Frankston East",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.13333",
+            "longitude": "145.13333"
+        },
+        {
+            "city": "Franklin",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-43.08333",
+            "longitude": "147"
+        },
+        {
+            "city": "Forster",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.16667",
+            "longitude": "152.51667"
+        },
+        {
+            "city": "Forest Hill",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.15",
+            "longitude": "147.46667"
+        },
+        {
+            "city": "Forbes",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.38333",
+            "longitude": "148.01667"
+        },
+        {
+            "city": "Finley",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.63333",
+            "longitude": "145.58333"
+        },
+        {
+            "city": "Federal",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-28.65",
+            "longitude": "153.45"
+        },
+        {
+            "city": "Falls Creek",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.96667",
+            "longitude": "150.6"
+        },
+        {
+            "city": "Evans Head",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-29.11667",
+            "longitude": "153.43333"
+        },
+        {
+            "city": "Evandale",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.58333",
+            "longitude": "147.23333"
+        },
+        {
+            "city": "Eulomogo",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.26667",
+            "longitude": "148.68333"
+        },
+        {
+            "city": "Ettalong Beach",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.51667",
+            "longitude": "151.33333"
+        },
+        {
+            "city": "Ettalong",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.51667",
+            "longitude": "151.35"
+        },
+        {
+            "city": "Erina",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.43333",
+            "longitude": "151.38333"
+        },
+        {
+            "city": "Epping",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.77271",
+            "longitude": "151.08184"
+        },
+        {
+            "city": "Engadine",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.06667",
+            "longitude": "151.01667"
+        },
+        {
+            "city": "Empire Bay",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.5",
+            "longitude": "151.36667"
+        },
+        {
+            "city": "Emerald",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-23.53333",
+            "longitude": "148.16667"
+        },
+        {
+            "city": "Eglinton",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.38333",
+            "longitude": "149.55"
+        },
+        {
+            "city": "Eden",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-37.06667",
+            "longitude": "149.9"
+        },
+        {
+            "city": "Echuca",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-36.13333",
+            "longitude": "144.75"
+        },
+        {
+            "city": "East Maitland",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.75",
+            "longitude": "151.58333"
+        },
+        {
+            "city": "East Hills",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.96667",
+            "longitude": "150.98333"
+        },
+        {
+            "city": "East Gosford",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.43333",
+            "longitude": "151.35"
+        },
+        {
+            "city": "East Ballina",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-28.86667",
+            "longitude": "153.58333"
+        },
+        {
+            "city": "Earlwood",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.95",
+            "longitude": "151.1"
+        },
+        {
+            "city": "Dungog",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.41667",
+            "longitude": "151.76667"
+        },
+        {
+            "city": "Dunedoo",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.01667",
+            "longitude": "149.4"
+        },
+        {
+            "city": "Dubbo",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.25",
+            "longitude": "148.61667"
+        },
+        {
+            "city": "Douglas Park",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.18333",
+            "longitude": "150.71667"
+        },
+        {
+            "city": "Dorrigo",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.33333",
+            "longitude": "152.7"
+        },
+        {
+            "city": "Dora Creek",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.08333",
+            "longitude": "151.5"
+        },
+        {
+            "city": "Doonside",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.76667",
+            "longitude": "150.86667"
+        },
+        {
+            "city": "Dingley Village",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.9827",
+            "longitude": "145.1342"
+        },
+        {
+            "city": "Devonport",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.16667",
+            "longitude": "146.35"
+        },
+        {
+            "city": "Denman",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.38333",
+            "longitude": "150.68333"
+        },
+        {
+            "city": "Deniliquin",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.53333",
+            "longitude": "144.96667"
+        },
+        {
+            "city": "Deloraine",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.53333",
+            "longitude": "146.66667"
+        },
+        {
+            "city": "Deception Bay",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.2",
+            "longitude": "153.03333"
+        },
+        {
+            "city": "Deagon",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.33333",
+            "longitude": "153.06667"
+        },
+        {
+            "city": "Davistown",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.48333",
+            "longitude": "151.36667"
+        },
+        {
+            "city": "Davidson",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.74297",
+            "longitude": "151.2008"
+        },
+        {
+            "city": "Darlington Point",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.56667",
+            "longitude": "146"
+        },
+        {
+            "city": "Darlinghurst",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.87939",
+            "longitude": "151.21925"
+        },
+        {
+            "city": "Dareton",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.1",
+            "longitude": "142.05"
+        },
+        {
+            "city": "Darch",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.75",
+            "longitude": "145.11667"
+        },
+        {
+            "city": "Dapto",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.5",
+            "longitude": "150.78333"
+        },
+        {
+            "city": "Dalby",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.18333",
+            "longitude": "151.26667"
+        },
+        {
+            "city": "Daceyville",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.93333",
+            "longitude": "151.23333"
+        },
+        {
+            "city": "Cygnet",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-43.15",
+            "longitude": "147.06667"
+        },
+        {
+            "city": "Cundletown",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-31.9",
+            "longitude": "152.53333"
+        },
+        {
+            "city": "Culcairn",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.66667",
+            "longitude": "147.05"
+        },
+        {
+            "city": "Croydon",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.88333",
+            "longitude": "151.11667"
+        },
+        {
+            "city": "Crookwell",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.46667",
+            "longitude": "149.46667"
+        },
+        {
+            "city": "Cronulla",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.05",
+            "longitude": "151.15"
+        },
+        {
+            "city": "Cringila",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.46667",
+            "longitude": "150.88333"
+        },
+        {
+            "city": "Crescent Head",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-31.2",
+            "longitude": "152.98333"
+        },
+        {
+            "city": "Cranbourne",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.1",
+            "longitude": "145.28333"
+        },
+        {
+            "city": "Craigieburn",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.6",
+            "longitude": "144.95"
+        },
+        {
+            "city": "Cowra",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.83333",
+            "longitude": "148.68333"
+        },
+        {
+            "city": "Cowes",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.45",
+            "longitude": "145.23333"
+        },
+        {
+            "city": "Coutts Crossing",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-29.83333",
+            "longitude": "152.9"
+        },
+        {
+            "city": "Corrimal",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.36667",
+            "longitude": "150.9"
+        },
+        {
+            "city": "Corowa",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-36.03333",
+            "longitude": "146.38333"
+        },
+        {
+            "city": "Coraki",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-28.98333",
+            "longitude": "153.3"
+        },
+        {
+            "city": "Cootamundra",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.65",
+            "longitude": "148.03333"
+        },
+        {
+            "city": "Cooranbong",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.08333",
+            "longitude": "151.43333"
+        },
+        {
+            "city": "Coonamble",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.95",
+            "longitude": "148.4"
+        },
+        {
+            "city": "Coonabarabran",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-31.26667",
+            "longitude": "149.28333"
+        },
+        {
+            "city": "Cooma",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-36.23333",
+            "longitude": "149.13333"
+        },
+        {
+            "city": "Coolum Beach",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-26.53333",
+            "longitude": "153.1"
+        },
+        {
+            "city": "Coolamon",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.83333",
+            "longitude": "147.2"
+        },
+        {
+            "city": "Coogee",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.9205",
+            "longitude": "151.25522"
+        },
+        {
+            "city": "Coniston",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.45",
+            "longitude": "150.88333"
+        },
+        {
+            "city": "Condobolin",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.08333",
+            "longitude": "147.15"
+        },
+        {
+            "city": "Concord",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.86667",
+            "longitude": "151.1"
+        },
+        {
+            "city": "Como",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34",
+            "longitude": "151.06667"
+        },
+        {
+            "city": "Colo Vale",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.4",
+            "longitude": "150.48333"
+        },
+        {
+            "city": "Colac",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.33333",
+            "longitude": "143.58333"
+        },
+        {
+            "city": "Coffs Harbour",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.3",
+            "longitude": "153.13333"
+        },
+        {
+            "city": "Cobbitty",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.01667",
+            "longitude": "150.68333"
+        },
+        {
+            "city": "Cobar",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-31.5",
+            "longitude": "145.81667"
+        },
+        {
+            "city": "Clifton Springs",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.15",
+            "longitude": "144.56667"
+        },
+        {
+            "city": "Cleveland",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.53333",
+            "longitude": "153.26667"
+        },
+        {
+            "city": "Clarence Town",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.58333",
+            "longitude": "151.78333"
+        },
+        {
+            "city": "Claremont",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.78333",
+            "longitude": "147.25"
+        },
+        {
+            "city": "Wollongong",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.43333",
+            "longitude": "150.88333"
+        },
+        {
+            "city": "Churchill",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.64233",
+            "longitude": "152.75022"
+        },
+        {
+            "city": "Chipping Norton",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.9",
+            "longitude": "150.95"
+        },
+        {
+            "city": "Chippendale",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.88673",
+            "longitude": "151.19745"
+        },
+        {
+            "city": "Chinderah",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-28.23333",
+            "longitude": "153.55"
+        },
+        {
+            "city": "Chatswood",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.8",
+            "longitude": "151.18333"
+        },
+        {
+            "city": "Charters Towers",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-20.1",
+            "longitude": "146.26667"
+        },
+        {
+            "city": "Charlestown",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.95",
+            "longitude": "151.66667"
+        },
+        {
+            "city": "Cessnock",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.83333",
+            "longitude": "151.35"
+        },
+        {
+            "city": "Caulfield",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.88251",
+            "longitude": "145.02288"
+        },
+        {
+            "city": "Castlemaine",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.06667",
+            "longitude": "144.21667"
+        },
+        {
+            "city": "Castle Hill",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.73333",
+            "longitude": "151"
+        },
+        {
+            "city": "Castlecrag",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.8",
+            "longitude": "151.21667"
+        },
+        {
+            "city": "Casino",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-28.86667",
+            "longitude": "153.05"
+        },
+        {
+            "city": "Carlingford",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.78269",
+            "longitude": "151.04888"
+        },
+        {
+            "city": "Caringbah",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.05",
+            "longitude": "151.13333"
+        },
+        {
+            "city": "Cardiff",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.95",
+            "longitude": "151.66667"
+        },
+        {
+            "city": "Canowindra",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.56667",
+            "longitude": "148.66667"
+        },
+        {
+            "city": "Canberra",
+            "region": "01",
+            "country": "AU",
+            "latitude": "-35.28346",
+            "longitude": "149.12807"
+        },
+        {
+            "city": "Camperdown",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.88965",
+            "longitude": "151.17642"
+        },
+        {
+            "city": "Campbelltown",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.06667",
+            "longitude": "150.81667"
+        },
+        {
+            "city": "Cambridge",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.83333",
+            "longitude": "147.45"
+        },
+        {
+            "city": "Camberwell",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.84205",
+            "longitude": "145.0694"
+        },
+        {
+            "city": "Caloundra",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-26.8",
+            "longitude": "153.13333"
+        },
+        {
+            "city": "Cairns",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-16.91667",
+            "longitude": "145.76667"
+        },
+        {
+            "city": "Caboolture",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.08333",
+            "longitude": "152.95"
+        },
+        {
+            "city": "Byron Bay",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-28.65",
+            "longitude": "153.61667"
+        },
+        {
+            "city": "Buxton",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.25",
+            "longitude": "150.53333"
+        },
+        {
+            "city": "Burringbar",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-28.43333",
+            "longitude": "153.48333"
+        },
+        {
+            "city": "Burpengary",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.15746",
+            "longitude": "152.95758"
+        },
+        {
+            "city": "Burnie",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.06667",
+            "longitude": "145.91667"
+        },
+        {
+            "city": "Bungendore",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.25",
+            "longitude": "149.43333"
+        },
+        {
+            "city": "Bundanoon",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.65",
+            "longitude": "150.3"
+        },
+        {
+            "city": "Bundamba",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.60947",
+            "longitude": "152.81133"
+        },
+        {
+            "city": "Bundaberg",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-24.85",
+            "longitude": "152.35"
+        },
+        {
+            "city": "Bulli",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.33333",
+            "longitude": "150.91667"
+        },
+        {
+            "city": "Bulahdelah",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.41667",
+            "longitude": "152.21667"
+        },
+        {
+            "city": "Budgewoi",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.23333",
+            "longitude": "151.56667"
+        },
+        {
+            "city": "Buderim",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-26.68333",
+            "longitude": "153.05"
+        },
+        {
+            "city": "Brunswick Heads",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-28.55",
+            "longitude": "153.55"
+        },
+        {
+            "city": "Brunswick",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.76667",
+            "longitude": "144.96667"
+        },
+        {
+            "city": "Broulee",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.85469",
+            "longitude": "150.17392"
+        },
+        {
+            "city": "Broken Hill",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-31.95",
+            "longitude": "141.43333"
+        },
+        {
+            "city": "Broadmeadows",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.68015",
+            "longitude": "144.91877"
+        },
+        {
+            "city": "Brisbane",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.46794",
+            "longitude": "153.02809"
+        },
+        {
+            "city": "Bringelly",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.93333",
+            "longitude": "150.73333"
+        },
+        {
+            "city": "Brighton",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.29582",
+            "longitude": "153.05721"
+        },
+        {
+            "city": "Bridport",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41",
+            "longitude": "147.4"
+        },
+        {
+            "city": "Bridgewater",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.73333",
+            "longitude": "147.23333"
+        },
+        {
+            "city": "Brewarrina",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-29.95",
+            "longitude": "146.86667"
+        },
+        {
+            "city": "Branxton",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.66667",
+            "longitude": "151.36667"
+        },
+        {
+            "city": "Braidwood",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.45",
+            "longitude": "149.78333"
+        },
+        {
+            "city": "Box Hill",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.81887",
+            "longitude": "145.12545"
+        },
+        {
+            "city": "Bowraville",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.65",
+            "longitude": "152.85"
+        },
+        {
+            "city": "Bowral",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.46667",
+            "longitude": "150.41667"
+        },
+        {
+            "city": "Bowenfels",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.51667",
+            "longitude": "150.11667"
+        },
+        {
+            "city": "Bowen",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-20.01667",
+            "longitude": "148.23333"
+        },
+        {
+            "city": "Bourke",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.1",
+            "longitude": "145.93333"
+        },
+        {
+            "city": "Botany",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.96667",
+            "longitude": "151.2"
+        },
+        {
+            "city": "Bordertown",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-36.31667",
+            "longitude": "140.76667"
+        },
+        {
+            "city": "Boorowa",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.43333",
+            "longitude": "148.73333"
+        },
+        {
+            "city": "Booker Bay",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.51667",
+            "longitude": "151.35"
+        },
+        {
+            "city": "Bonville",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.38333",
+            "longitude": "153.06667"
+        },
+        {
+            "city": "Bongaree",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.07972",
+            "longitude": "153.15861"
+        },
+        {
+            "city": "Bombala",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-36.9",
+            "longitude": "149.23333"
+        },
+        {
+            "city": "Bomaderry",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.85",
+            "longitude": "150.61667"
+        },
+        {
+            "city": "Bolwarra",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.71667",
+            "longitude": "151.56667"
+        },
+        {
+            "city": "Boggabri",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.7",
+            "longitude": "150.03333"
+        },
+        {
+            "city": "Boggabilla",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-28.61667",
+            "longitude": "150.35"
+        },
+        {
+            "city": "Boambee",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.35",
+            "longitude": "153.1"
+        },
+        {
+            "city": "Blayney",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.53333",
+            "longitude": "149.26667"
+        },
+        {
+            "city": "Blaxland",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.75",
+            "longitude": "150.6"
+        },
+        {
+            "city": "Blair Athol",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.65",
+            "longitude": "150.2"
+        },
+        {
+            "city": "Blackwater",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-23.58333",
+            "longitude": "148.88333"
+        },
+        {
+            "city": "Blackwall",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.5",
+            "longitude": "151.31667"
+        },
+        {
+            "city": "Blacktown",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.76667",
+            "longitude": "150.91667"
+        },
+        {
+            "city": "Blackmans Bay",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-43.01667",
+            "longitude": "147.31667"
+        },
+        {
+            "city": "Blackheath",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.65",
+            "longitude": "150.26667"
+        },
+        {
+            "city": "Bingara",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-29.86667",
+            "longitude": "150.56667"
+        },
+        {
+            "city": "Biloela",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-24.41667",
+            "longitude": "150.5"
+        },
+        {
+            "city": "Bilambil",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-28.23333",
+            "longitude": "153.46667"
+        },
+        {
+            "city": "Bexley",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.95",
+            "longitude": "151.11667"
+        },
+        {
+            "city": "Berry",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.78333",
+            "longitude": "150.7"
+        },
+        {
+            "city": "Berrigan",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.65",
+            "longitude": "145.81667"
+        },
+        {
+            "city": "Berriedale",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.81667",
+            "longitude": "147.25"
+        },
+        {
+            "city": "Berridale",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-36.36667",
+            "longitude": "148.83333"
+        },
+        {
+            "city": "Berri",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.28333",
+            "longitude": "140.6"
+        },
+        {
+            "city": "Berowra",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.63333",
+            "longitude": "151.15"
+        },
+        {
+            "city": "Bermagui",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-36.41667",
+            "longitude": "150.05"
+        },
+        {
+            "city": "Berkeley Vale",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.35",
+            "longitude": "151.43333"
+        },
+        {
+            "city": "Berkeley",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.48333",
+            "longitude": "150.85"
+        },
+        {
+            "city": "Beresfield",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.8",
+            "longitude": "151.65"
+        },
+        {
+            "city": "Bentleigh",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.91806",
+            "longitude": "145.03544"
+        },
+        {
+            "city": "Bensville",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.5",
+            "longitude": "151.38333"
+        },
+        {
+            "city": "Bendigo",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-36.76667",
+            "longitude": "144.28333"
+        },
+        {
+            "city": "Benalla",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-36.55",
+            "longitude": "145.98333"
+        },
+        {
+            "city": "Belmont",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.03333",
+            "longitude": "151.66667"
+        },
+        {
+            "city": "Bellingen",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.45",
+            "longitude": "152.88333"
+        },
+        {
+            "city": "Bellerive",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.86667",
+            "longitude": "147.36667"
+        },
+        {
+            "city": "Belconnen",
+            "region": "01",
+            "country": "AU",
+            "latitude": "-35.21667",
+            "longitude": "149.08333"
+        },
+        {
+            "city": "Bega",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-36.66667",
+            "longitude": "149.83333"
+        },
+        {
+            "city": "Beauty Point",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.16667",
+            "longitude": "146.81667"
+        },
+        {
+            "city": "Beaconsfield Upper",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38",
+            "longitude": "145.41667"
+        },
+        {
+            "city": "Beaconsfield",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.2",
+            "longitude": "146.81667"
+        },
+        {
+            "city": "Batemans Bay",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-35.71667",
+            "longitude": "150.18333"
+        },
+        {
+            "city": "Barmera",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.25",
+            "longitude": "140.46667"
+        },
+        {
+            "city": "Banora Point",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-28.21298",
+            "longitude": "153.53634"
+        },
+        {
+            "city": "Ballina",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-28.86667",
+            "longitude": "153.56667"
+        },
+        {
+            "city": "Ballarat",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.56622",
+            "longitude": "143.84957"
+        },
+        {
+            "city": "Bairnsdale",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.83333",
+            "longitude": "147.61667"
+        },
+        {
+            "city": "Bacchus Marsh",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.67268",
+            "longitude": "144.43829"
+        },
+        {
+            "city": "Ayr",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-19.58333",
+            "longitude": "147.4"
+        },
+        {
+            "city": "Austins Ferry",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.76667",
+            "longitude": "147.25"
+        },
+        {
+            "city": "Atherton",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-17.26667",
+            "longitude": "145.48333"
+        },
+        {
+            "city": "Armidale",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.51667",
+            "longitude": "151.65"
+        },
+        {
+            "city": "Ararat",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.28333",
+            "longitude": "142.93333"
+        },
+        {
+            "city": "Apollo Bay",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.75",
+            "longitude": "143.65"
+        },
+        {
+            "city": "Anglesea",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.41667",
+            "longitude": "144.16667"
+        },
+        {
+            "city": "Albury",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-36.08333",
+            "longitude": "146.91667"
+        },
+        {
+            "city": "Holmesville",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.9",
+            "longitude": "151.59167"
+        },
+        {
+            "city": "Lambton",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.91667",
+            "longitude": "151.7"
+        },
+        {
+            "city": "New Lambton",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.95",
+            "longitude": "151.68333"
+        },
+        {
+            "city": "Raymond Terrace",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.75",
+            "longitude": "151.75"
+        },
+        {
+            "city": "Mayfield",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.38722",
+            "longitude": "147.13333"
+        },
+        {
+            "city": "Invermay",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-41.39167",
+            "longitude": "147.13056"
+        },
+        {
+            "city": "Gymea",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.03333",
+            "longitude": "151.08333"
+        },
+        {
+            "city": "Kirrawee",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.03333",
+            "longitude": "151.06667"
+        },
+        {
+            "city": "Loftus",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.05",
+            "longitude": "151.05"
+        },
+        {
+            "city": "Dolans Bay",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.05",
+            "longitude": "151.11667"
+        },
+        {
+            "city": "Bundeena",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.08333",
+            "longitude": "151.15"
+        },
+        {
+            "city": "Gymea Bay",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.05",
+            "longitude": "151.08333"
+        },
+        {
+            "city": "Kareela",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.01667",
+            "longitude": "151.08333"
+        },
+        {
+            "city": "Bonnet Bay",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34",
+            "longitude": "151.05"
+        },
+        {
+            "city": "Oyster Bay",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34",
+            "longitude": "151.06667"
+        },
+        {
+            "city": "Grays Point",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.05",
+            "longitude": "151.08333"
+        },
+        {
+            "city": "Brighton-Le-Sands",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.95",
+            "longitude": "151.15"
+        },
+        {
+            "city": "Monterey",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.96667",
+            "longitude": "151.15"
+        },
+        {
+            "city": "Ramsgate",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.98333",
+            "longitude": "151.15"
+        },
+        {
+            "city": "Blakehurst",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.98333",
+            "longitude": "151.1"
+        },
+        {
+            "city": "Connells Point",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.98333",
+            "longitude": "151.08333"
+        },
+        {
+            "city": "Lugarno",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.98333",
+            "longitude": "151.03333"
+        },
+        {
+            "city": "Peakhurst",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.96667",
+            "longitude": "151.05"
+        },
+        {
+            "city": "Padstow",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.95",
+            "longitude": "151.03333"
+        },
+        {
+            "city": "Goodwood",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.825",
+            "longitude": "147.29444"
+        },
+        {
+            "city": "Lutana",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.83611",
+            "longitude": "147.31111"
+        },
+        {
+            "city": "New Town",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.86",
+            "longitude": "147.30833"
+        },
+        {
+            "city": "Lake Heights",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.48667",
+            "longitude": "150.875"
+        },
+        {
+            "city": "Sandy Bay",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.913",
+            "longitude": "147.35318"
+        },
+        {
+            "city": "Fairy Meadow",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.39667",
+            "longitude": "150.89583"
+        },
+        {
+            "city": "Mount Ousley",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.4",
+            "longitude": "150.875"
+        },
+        {
+            "city": "Mount Keira",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.41889",
+            "longitude": "150.85417"
+        },
+        {
+            "city": "Gwynneville",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.41667",
+            "longitude": "150.8875"
+        },
+        {
+            "city": "Mangerton",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.43667",
+            "longitude": "150.87167"
+        },
+        {
+            "city": "Mount Saint Thomas",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.44333",
+            "longitude": "150.87222"
+        },
+        {
+            "city": "Palm Cove",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-16.75",
+            "longitude": "145.66667"
+        },
+        {
+            "city": "Yorkeys Knob",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-16.81667",
+            "longitude": "145.71667"
+        },
+        {
+            "city": "South Brisbane",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.48333",
+            "longitude": "153.01667"
+        },
+        {
+            "city": "Scarborough",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.20083",
+            "longitude": "153.11028"
+        },
+        {
+            "city": "Laverton",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.86202",
+            "longitude": "144.76979"
+        },
+        {
+            "city": "North Brighton",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.90694",
+            "longitude": "145.00528"
+        },
+        {
+            "city": "Highett",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.95167",
+            "longitude": "145.03944"
+        },
+        {
+            "city": "Parkdale",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.99423",
+            "longitude": "145.07339"
+        },
+        {
+            "city": "Bellevue Hill",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.87944",
+            "longitude": "151.25056"
+        },
+        {
+            "city": "Pyrmont",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.86944",
+            "longitude": "151.19389"
+        },
+        {
+            "city": "Paddington",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.88528",
+            "longitude": "151.23"
+        },
+        {
+            "city": "Lilyfield",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.87611",
+            "longitude": "151.16556"
+        },
+        {
+            "city": "Drummoyne",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.85361",
+            "longitude": "151.15417"
+        },
+        {
+            "city": "Greenwich",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.84056",
+            "longitude": "151.18306"
+        },
+        {
+            "city": "Hunters Hill",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.83333",
+            "longitude": "151.14083"
+        },
+        {
+            "city": "Longueville",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.83278",
+            "longitude": "151.16639"
+        },
+        {
+            "city": "Crows Nest",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.82806",
+            "longitude": "151.20167"
+        },
+        {
+            "city": "Cammeray",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.8225",
+            "longitude": "151.21583"
+        },
+        {
+            "city": "Clontarf",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.80972",
+            "longitude": "151.25667"
+        },
+        {
+            "city": "Cremorne",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.83333",
+            "longitude": "151.225"
+        },
+        {
+            "city": "Neutral Bay",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.83889",
+            "longitude": "151.21667"
+        },
+        {
+            "city": "Point Piper",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.86667",
+            "longitude": "151.25"
+        },
+        {
+            "city": "Darling Point",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.87083",
+            "longitude": "151.23889"
+        },
+        {
+            "city": "Dover Heights",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.87083",
+            "longitude": "151.27917"
+        },
+        {
+            "city": "Randwick",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.91667",
+            "longitude": "151.24167"
+        },
+        {
+            "city": "Clovelly",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.9125",
+            "longitude": "151.25"
+        },
+        {
+            "city": "Bronte",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.9",
+            "longitude": "151.26667"
+        },
+        {
+            "city": "Bondi",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.89167",
+            "longitude": "151.26667"
+        },
+        {
+            "city": "Gladesville",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.83333",
+            "longitude": "151.13333"
+        },
+        {
+            "city": "Forestville",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.76667",
+            "longitude": "151.20833"
+        },
+        {
+            "city": "Brookvale",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.76667",
+            "longitude": "151.26667"
+        },
+        {
+            "city": "Curl Curl",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.76667",
+            "longitude": "151.29167"
+        },
+        {
+            "city": "Dee Why",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.75",
+            "longitude": "151.3"
+        },
+        {
+            "city": "Blairgowrie",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.36131",
+            "longitude": "144.77955"
+        },
+        {
+            "city": "Flinders",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.58333",
+            "longitude": "150.85516"
+        },
+        {
+            "city": "Palmerston",
+            "region": "03",
+            "country": "AU",
+            "latitude": "-12.48602",
+            "longitude": "130.9833"
+        },
+        {
+            "city": "Tom Price",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-22.6939",
+            "longitude": "117.7931"
+        },
+        {
+            "city": "Moranbah",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-22.00163",
+            "longitude": "148.04661"
+        },
+        {
+            "city": "Heyfield",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.9813",
+            "longitude": "146.78559"
+        },
+        {
+            "city": "Kaleen",
+            "region": "02,01",
+            "country": "AU",
+            "latitude": "-35.21814",
+            "longitude": "149.10516"
+        },
+        {
+            "city": "Karratha",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-20.73765",
+            "longitude": "116.84629"
+        },
+        {
+            "city": "Enfield",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.8526",
+            "longitude": "138.60255"
+        },
+        {
+            "city": "Hillarys",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.80698",
+            "longitude": "115.74045"
+        },
+        {
+            "city": "Kingsford",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.92399",
+            "longitude": "151.22749"
+        },
+        {
+            "city": "Klemzig",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.87928",
+            "longitude": "138.63562"
+        },
+        {
+            "city": "Osborne Park",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.90066",
+            "longitude": "115.81083"
+        },
+        {
+            "city": "Seven Mile Beach",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.85759",
+            "longitude": "147.50381"
+        },
+        {
+            "city": "Corlette",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-32.72014",
+            "longitude": "152.10846"
+        },
+        {
+            "city": "Burswood",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.95872",
+            "longitude": "115.90396"
+        },
+        {
+            "city": "Howrah",
+            "region": "06",
+            "country": "AU",
+            "latitude": "-42.88728",
+            "longitude": "147.40554"
+        },
+        {
+            "city": "Springfield Lakes",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.66757",
+            "longitude": "152.92488"
+        },
+        {
+            "city": "North Narrabeen",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.70935",
+            "longitude": "151.29607"
+        },
+        {
+            "city": "Joondalup",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.74445",
+            "longitude": "115.76835"
+        },
+        {
+            "city": "Como",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.99119",
+            "longitude": "115.86336"
+        },
+        {
+            "city": "East Lismore",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-28.81933",
+            "longitude": "153.28743"
+        },
+        {
+            "city": "Mindarie",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.68932",
+            "longitude": "115.70698"
+        },
+        {
+            "city": "Clarkson",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.68282",
+            "longitude": "115.7247"
+        },
+        {
+            "city": "Kinross",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.71868",
+            "longitude": "115.73839"
+        },
+        {
+            "city": "Currambine",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.73306",
+            "longitude": "115.74766"
+        },
+        {
+            "city": "Iluka",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.73554",
+            "longitude": "115.73058"
+        },
+        {
+            "city": "Heathridge",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-31.76244",
+            "longitude": "115.75895"
+        },
+        {
+            "city": "Girraween",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.799",
+            "longitude": "150.943"
+        },
+        {
+            "city": "Freshwater",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.77867",
+            "longitude": "151.28569"
+        },
+        {
+            "city": "Tieri",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-23.03829",
+            "longitude": "148.34463"
+        },
+        {
+            "city": "Taringa",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.49061",
+            "longitude": "152.97861"
+        },
+        {
+            "city": "Inala",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.59715",
+            "longitude": "152.97432"
+        },
+        {
+            "city": "Main Beach",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.97879",
+            "longitude": "153.4266"
+        },
+        {
+            "city": "Paradise",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.87361",
+            "longitude": "138.66896"
+        },
+        {
+            "city": "Blair Athol",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.85889",
+            "longitude": "138.59656"
+        },
+        {
+            "city": "Athelstone",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.86979",
+            "longitude": "138.70288"
+        },
+        {
+            "city": "Wooloowin",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.42244",
+            "longitude": "153.04204"
+        },
+        {
+            "city": "Zillmere",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.35591",
+            "longitude": "153.04453"
+        },
+        {
+            "city": "Taigum",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.34265",
+            "longitude": "153.04444"
+        },
+        {
+            "city": "Bracken Ridge",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.3171",
+            "longitude": "153.03097"
+        },
+        {
+            "city": "Woolloongabba",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.48855",
+            "longitude": "153.03655"
+        },
+        {
+            "city": "Toowong",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.4836",
+            "longitude": "152.98943"
+        },
+        {
+            "city": "Windsor",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.43631",
+            "longitude": "153.02882"
+        },
+        {
+            "city": "Twin Waters",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-26.61",
+            "longitude": "153"
+        },
+        {
+            "city": "Canada Bay",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.85",
+            "longitude": "151.15"
+        },
+        {
+            "city": "Camden",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-34.05",
+            "longitude": "150.7"
+        },
+        {
+            "city": "Canterbury",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.9167",
+            "longitude": "151.1"
+        },
+        {
+            "city": "Forresters Beach",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.407",
+            "longitude": "151.476"
+        },
+        {
+            "city": "Tamborine Mountain",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.96954",
+            "longitude": "153.19937"
+        },
+        {
+            "city": "East Melbourne",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.81667",
+            "longitude": "144.9879"
+        },
+        {
+            "city": "Rainbow Beach",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-25.90432",
+            "longitude": "153.09174"
+        },
+        {
+            "city": "North Shore",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-31.40237",
+            "longitude": "152.90185"
+        },
+        {
+            "city": "North Melbourne",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.80289",
+            "longitude": "144.94816"
+        },
+        {
+            "city": "Caroline Springs",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.74124",
+            "longitude": "144.73631"
+        },
+        {
+            "city": "Hoppers Crossing",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.88264",
+            "longitude": "144.7003"
+        },
+        {
+            "city": "West Melbourne",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.81014",
+            "longitude": "144.95"
+        },
+        {
+            "city": "Rouse Hill",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.68207",
+            "longitude": "150.9154"
+        },
+        {
+            "city": "Logan City",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.63917",
+            "longitude": "153.10944"
+        },
+        {
+            "city": "Carindale",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.50578",
+            "longitude": "153.10236"
+        },
+        {
+            "city": "Paramatta",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.8178",
+            "longitude": "151.00348"
+        },
+        {
+            "city": "Macquarie",
+            "region": "01",
+            "country": "AU",
+            "latitude": "-35.25126",
+            "longitude": "149.06362"
+        },
+        {
+            "city": "Ferntree Gully",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.88461",
+            "longitude": "145.29539"
+        },
+        {
+            "city": "Fullarton",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.951",
+            "longitude": "138.629"
+        },
+        {
+            "city": "Macarthur",
+            "region": "01",
+            "country": "AU",
+            "latitude": "-35.40856",
+            "longitude": "149.13196"
+        },
+        {
+            "city": "City of Parramatta",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.81667",
+            "longitude": "151"
+        },
+        {
+            "city": "Phillip Island",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.48349",
+            "longitude": "145.23102"
+        },
+        {
+            "city": "Springwood",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.61183",
+            "longitude": "153.12899"
+        },
+        {
+            "city": "Adelaide Hills",
+            "region": "05",
+            "country": "AU",
+            "latitude": "-34.91118",
+            "longitude": "138.70735"
+        },
+        {
+            "city": "Erskine",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.55717",
+            "longitude": "115.70657"
+        },
+        {
+            "city": "Canning Vale",
+            "region": "08",
+            "country": "AU",
+            "latitude": "-32.05798",
+            "longitude": "115.91814"
+        },
+        {
+            "city": "Varsity Lakes",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-28.0894",
+            "longitude": "153.4122"
+        },
+        {
+            "city": "Roselands",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.93317",
+            "longitude": "151.0732"
+        },
+        {
+            "city": "Oxenford",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.89033",
+            "longitude": "153.31309"
+        },
+        {
+            "city": "Toormina",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-30.35262",
+            "longitude": "153.09028"
+        },
+        {
+            "city": "Glenmore Park",
+            "region": "02",
+            "country": "AU",
+            "latitude": "-33.79068",
+            "longitude": "150.6693"
+        },
+        {
+            "city": "Magnetic Island",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-19.15514",
+            "longitude": "146.8485"
+        },
+        {
+            "city": "Melton West",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.67852",
+            "longitude": "144.56883"
+        },
+        {
+            "city": "Brookfield",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.7008",
+            "longitude": "144.56025"
+        },
+        {
+            "city": "Kurunjang",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.67587",
+            "longitude": "144.5969"
+        },
+        {
+            "city": "Ashburton",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.86259",
+            "longitude": "145.07936"
+        },
+        {
+            "city": "Ashwood",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.86659",
+            "longitude": "145.10553"
+        },
+        {
+            "city": "Glen Iris",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.85995",
+            "longitude": "145.05489"
+        },
+        {
+            "city": "Toorak",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.84077",
+            "longitude": "145.00957"
+        },
+        {
+            "city": "Armadale",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.8552",
+            "longitude": "145.02176"
+        },
+        {
+            "city": "Windsor",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.8548",
+            "longitude": "144.99267"
+        },
+        {
+            "city": "Balaclava",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.86916",
+            "longitude": "144.99773"
+        },
+        {
+            "city": "Caulfield North",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.87255",
+            "longitude": "145.02262"
+        },
+        {
+            "city": "Elsternwick",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.88441",
+            "longitude": "145.00434"
+        },
+        {
+            "city": "Elwood",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.8817",
+            "longitude": "144.98305"
+        },
+        {
+            "city": "Burwood",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.84978",
+            "longitude": "145.11901"
+        },
+        {
+            "city": "Box Hill South",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.83236",
+            "longitude": "145.12098"
+        },
+        {
+            "city": "Blackburn",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.81901",
+            "longitude": "145.15326"
+        },
+        {
+            "city": "Canterbury",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.8247",
+            "longitude": "145.08476"
+        },
+        {
+            "city": "Surrey Hills",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.82524",
+            "longitude": "145.10038"
+        },
+        {
+            "city": "Hawthorn East",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.82484",
+            "longitude": "145.0464"
+        },
+        {
+            "city": "Kew East",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.79758",
+            "longitude": "145.05378"
+        },
+        {
+            "city": "Balwyn North",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.79086",
+            "longitude": "145.09386"
+        },
+        {
+            "city": "Mont Albert North",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.80043",
+            "longitude": "145.10828"
+        },
+        {
+            "city": "Box Hill North",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.80266",
+            "longitude": "145.12656"
+        },
+        {
+            "city": "Blackburn North",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.80931",
+            "longitude": "145.1518"
+        },
+        {
+            "city": "Forest Hill",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.83656",
+            "longitude": "145.16519"
+        },
+        {
+            "city": "Blackburn South",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.83975",
+            "longitude": "145.15549"
+        },
+        {
+            "city": "Chadstone",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.88766",
+            "longitude": "145.09519"
+        },
+        {
+            "city": "Carnegie",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.88867",
+            "longitude": "145.05713"
+        },
+        {
+            "city": "Glen Huntly",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.88949",
+            "longitude": "145.04605"
+        },
+        {
+            "city": "Malvern East",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.87397",
+            "longitude": "145.04253"
+        },
+        {
+            "city": "Murrumbeena",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.89023",
+            "longitude": "145.07112"
+        },
+        {
+            "city": "Oakleigh South",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.92416",
+            "longitude": "145.09146"
+        },
+        {
+            "city": "Oakleigh East",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.89904",
+            "longitude": "145.10571"
+        },
+        {
+            "city": "Caulfield South",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.89673",
+            "longitude": "145.02734"
+        },
+        {
+            "city": "Brighton East",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.90141",
+            "longitude": "145.01884"
+        },
+        {
+            "city": "Hampton",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.93723",
+            "longitude": "145.0046"
+        },
+        {
+            "city": "Hampton East",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.93695",
+            "longitude": "145.02863"
+        },
+        {
+            "city": "Bentleigh",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.9184",
+            "longitude": "145.03584"
+        },
+        {
+            "city": "Bentleigh East",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.9201",
+            "longitude": "145.05987"
+        },
+        {
+            "city": "Black Rock",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.97357",
+            "longitude": "145.01636"
+        },
+        {
+            "city": "Aspendale Gardens",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-38.02277",
+            "longitude": "145.11798"
+        },
+        {
+            "city": "Booval",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.61328",
+            "longitude": "152.78944"
+        },
+        {
+            "city": "North Booval",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.60392",
+            "longitude": "152.79485"
+        },
+        {
+            "city": "North Ipswich",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.60286",
+            "longitude": "152.76146"
+        },
+        {
+            "city": "Brassall",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.59753",
+            "longitude": "152.74755"
+        },
+        {
+            "city": "Silkstone",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.62126",
+            "longitude": "152.78768"
+        },
+        {
+            "city": "Eastern Heights",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.62849",
+            "longitude": "152.77828"
+        },
+        {
+            "city": "Raceview",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.63472",
+            "longitude": "152.77519"
+        },
+        {
+            "city": "Flinders View",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.65046",
+            "longitude": "152.77451"
+        },
+        {
+            "city": "Deebing Heights",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.66719",
+            "longitude": "152.74867"
+        },
+        {
+            "city": "Yamanto",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.66027",
+            "longitude": "152.73863"
+        },
+        {
+            "city": "Redbank Plains",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.64613",
+            "longitude": "152.85965"
+        },
+        {
+            "city": "Collingwood Park",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.61282",
+            "longitude": "152.86008"
+        },
+        {
+            "city": "Clontarf",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.25341",
+            "longitude": "153.07835"
+        },
+        {
+            "city": "Woody Point",
+            "region": "04",
+            "country": "AU",
+            "latitude": "-27.25608",
+            "longitude": "153.10427"
+        },
+        {
+            "city": "Ballarat Central",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.56206",
+            "longitude": "143.85082"
+        },
+        {
+            "city": "Golden Point",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.57493",
+            "longitude": "143.8687"
+        },
+        {
+            "city": "Delacombe",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.58911",
+            "longitude": "143.81472"
+        },
+        {
+            "city": "St Albans",
+            "region": "07",
+            "country": "AU",
+            "latitude": "-37.74496",
+            "longitude": "144.80049"
+        }
+    ]
+}

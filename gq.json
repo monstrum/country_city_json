@@ -1,0 +1,160 @@
+{
+    "country": "Equatorial Guinea",
+    "code": "GQ",
+    "cities": [
+        {
+            "city": "Santiago de Baney",
+            "region": "00",
+            "country": "GQ",
+            "latitude": "3.6992",
+            "longitude": "8.9084"
+        },
+        {
+            "city": "Pal\u00e9",
+            "region": "03",
+            "country": "GQ",
+            "latitude": "-1.40139",
+            "longitude": "5.6325"
+        },
+        {
+            "city": "R\u00edo Campo",
+            "region": "00",
+            "country": "GQ",
+            "latitude": "2.33812",
+            "longitude": "9.82212"
+        },
+        {
+            "city": "Rebola",
+            "region": "00",
+            "country": "GQ",
+            "latitude": "3.71667",
+            "longitude": "8.83333"
+        },
+        {
+            "city": "Nsok",
+            "region": "00",
+            "country": "GQ",
+            "latitude": "1.12985",
+            "longitude": "11.26603"
+        },
+        {
+            "city": "Nsang",
+            "region": "00",
+            "country": "GQ",
+            "latitude": "2.02475",
+            "longitude": "10.94599"
+        },
+        {
+            "city": "Ncue",
+            "region": "00",
+            "country": "GQ",
+            "latitude": "2.01162",
+            "longitude": "10.46373"
+        },
+        {
+            "city": "Mongomo",
+            "region": "09",
+            "country": "GQ",
+            "latitude": "1.62742",
+            "longitude": "11.31346"
+        },
+        {
+            "city": "Mikomeseng",
+            "region": "00",
+            "country": "GQ",
+            "latitude": "2.13609",
+            "longitude": "10.61322"
+        },
+        {
+            "city": "Mbini",
+            "region": "00",
+            "country": "GQ",
+            "latitude": "1.57402",
+            "longitude": "9.61341"
+        },
+        {
+            "city": "Machinda",
+            "region": "00",
+            "country": "GQ",
+            "latitude": "1.88262",
+            "longitude": "9.95133"
+        },
+        {
+            "city": "Evinayong",
+            "region": "06",
+            "country": "GQ",
+            "latitude": "1.43677",
+            "longitude": "10.55124"
+        },
+        {
+            "city": "Ebebiy\u00edn",
+            "region": "07",
+            "country": "GQ",
+            "latitude": "2.15106",
+            "longitude": "11.33528"
+        },
+        {
+            "city": "Malabo",
+            "region": "04",
+            "country": "GQ",
+            "latitude": "3.75",
+            "longitude": "8.78333"
+        },
+        {
+            "city": "Luba",
+            "region": "05",
+            "country": "GQ",
+            "latitude": "3.45683",
+            "longitude": "8.55465"
+        },
+        {
+            "city": "Bitica",
+            "region": "00",
+            "country": "GQ",
+            "latitude": "1.4261",
+            "longitude": "9.62316"
+        },
+        {
+            "city": "Bicurga",
+            "region": "00",
+            "country": "GQ",
+            "latitude": "1.58113",
+            "longitude": "10.46716"
+        },
+        {
+            "city": "Bata",
+            "region": "08",
+            "country": "GQ",
+            "latitude": "1.86453",
+            "longitude": "9.76828"
+        },
+        {
+            "city": "Ayene",
+            "region": "00",
+            "country": "GQ",
+            "latitude": "1.85592",
+            "longitude": "10.68994"
+        },
+        {
+            "city": "A\u00f1isoc",
+            "region": "00",
+            "country": "GQ",
+            "latitude": "1.84839",
+            "longitude": "10.76675"
+        },
+        {
+            "city": "Acurenam",
+            "region": "00",
+            "country": "GQ",
+            "latitude": "1.03225",
+            "longitude": "10.64882"
+        },
+        {
+            "city": "Aconibe",
+            "region": "00",
+            "country": "GQ",
+            "latitude": "1.29683",
+            "longitude": "10.93691"
+        }
+    ]
+}

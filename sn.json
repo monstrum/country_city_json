@@ -1,0 +1,391 @@
+{
+    "country": "Senegal",
+    "code": "SN",
+    "cities": [
+        {
+            "city": "Ziguinchor",
+            "region": "12",
+            "country": "SN",
+            "latitude": "12.58333",
+            "longitude": "-16.27194"
+        },
+        {
+            "city": "V\u00e9lingara",
+            "region": "11",
+            "country": "SN",
+            "latitude": "13.15",
+            "longitude": "-14.11667"
+        },
+        {
+            "city": "Tionk Essil",
+            "region": "12",
+            "country": "SN",
+            "latitude": "12.78556",
+            "longitude": "-16.52167"
+        },
+        {
+            "city": "Ti\u00e9bo",
+            "region": "03",
+            "country": "SN",
+            "latitude": "14.63333",
+            "longitude": "-16.23333"
+        },
+        {
+            "city": "Tiadiaye",
+            "region": "07",
+            "country": "SN",
+            "latitude": "14.41667",
+            "longitude": "-16.7"
+        },
+        {
+            "city": "Thi\u00e8s Nones",
+            "region": "07",
+            "country": "SN",
+            "latitude": "14.78333",
+            "longitude": "-16.96667"
+        },
+        {
+            "city": "Thi\u00e8s",
+            "region": "07",
+            "country": "SN",
+            "latitude": "14.83417",
+            "longitude": "-17.10611"
+        },
+        {
+            "city": "Tambacounda",
+            "region": "05",
+            "country": "SN",
+            "latitude": "13.75389",
+            "longitude": "-13.75861"
+        },
+        {
+            "city": "Sokone",
+            "region": "09",
+            "country": "SN",
+            "latitude": "13.88333",
+            "longitude": "-16.36667"
+        },
+        {
+            "city": "S\u00e9m\u00e9",
+            "region": "15",
+            "country": "SN",
+            "latitude": "15.19422",
+            "longitude": "-12.94482"
+        },
+        {
+            "city": "S\u00e9dhiou",
+            "region": "18",
+            "country": "SN",
+            "latitude": "12.70806",
+            "longitude": "-15.55694"
+        },
+        {
+            "city": "Saint-Louis",
+            "region": "14",
+            "country": "SN",
+            "latitude": "16.01793",
+            "longitude": "-16.48962"
+        },
+        {
+            "city": "Rosso",
+            "region": "14",
+            "country": "SN",
+            "latitude": "16.49861",
+            "longitude": "-15.81528"
+        },
+        {
+            "city": "Richard-Toll",
+            "region": "14",
+            "country": "SN",
+            "latitude": "16.4625",
+            "longitude": "-15.70083"
+        },
+        {
+            "city": "Ran\u00e9rou",
+            "region": "15",
+            "country": "SN",
+            "latitude": "15.3",
+            "longitude": "-13.96667"
+        },
+        {
+            "city": "Pout",
+            "region": "07",
+            "country": "SN",
+            "latitude": "14.77389",
+            "longitude": "-17.06028"
+        },
+        {
+            "city": "Pourham",
+            "region": "09",
+            "country": "SN",
+            "latitude": "14.35",
+            "longitude": "-16.41667"
+        },
+        {
+            "city": "Polel Diaoub\u00e9-http:\/\/polel-diaoube.info",
+            "region": "14",
+            "country": "SN",
+            "latitude": "15.26667",
+            "longitude": "-13"
+        },
+        {
+            "city": "Pikine",
+            "region": "01",
+            "country": "SN",
+            "latitude": "14.75",
+            "longitude": "-17.4"
+        },
+        {
+            "city": "Passi",
+            "region": "09",
+            "country": "SN",
+            "latitude": "13.98333",
+            "longitude": "-16.26667"
+        },
+        {
+            "city": "Oussouye",
+            "region": "12",
+            "country": "SN",
+            "latitude": "12.485",
+            "longitude": "-16.54694"
+        },
+        {
+            "city": "Ouro Sogui",
+            "region": "15",
+            "country": "SN",
+            "latitude": "15.6",
+            "longitude": "-13.31667"
+        },
+        {
+            "city": "Waound\u00e9",
+            "region": "15",
+            "country": "SN",
+            "latitude": "15.26367",
+            "longitude": "-12.86821"
+        },
+        {
+            "city": "Nioro du Rip",
+            "region": "10",
+            "country": "SN",
+            "latitude": "13.75",
+            "longitude": "-15.8"
+        },
+        {
+            "city": "Ngu\u00e9kokh",
+            "region": "07",
+            "country": "SN",
+            "latitude": "14.51278",
+            "longitude": "-17.005"
+        },
+        {
+            "city": "Ndofane",
+            "region": "10",
+            "country": "SN",
+            "latitude": "13.91667",
+            "longitude": "-15.93333"
+        },
+        {
+            "city": "Ndioum",
+            "region": "14",
+            "country": "SN",
+            "latitude": "16.51293",
+            "longitude": "-14.64706"
+        },
+        {
+            "city": "Ndib\u00e8ne Dahra",
+            "region": "13",
+            "country": "SN",
+            "latitude": "15.3338",
+            "longitude": "-15.4766"
+        },
+        {
+            "city": "M\u00e9kh\u00e9",
+            "region": "07",
+            "country": "SN",
+            "latitude": "15.1097",
+            "longitude": "-16.6218"
+        },
+        {
+            "city": "Mbak\u00e9",
+            "region": "03",
+            "country": "SN",
+            "latitude": "14.79032",
+            "longitude": "-15.90803"
+        },
+        {
+            "city": "Matam",
+            "region": "15",
+            "country": "SN",
+            "latitude": "15.6175",
+            "longitude": "-13.33028"
+        },
+        {
+            "city": "Marsassoum",
+            "region": "11",
+            "country": "SN",
+            "latitude": "12.8275",
+            "longitude": "-15.98056"
+        },
+        {
+            "city": "Louga",
+            "region": "13",
+            "country": "SN",
+            "latitude": "15.61867",
+            "longitude": "-16.22436"
+        },
+        {
+            "city": "Koungheul",
+            "region": "16",
+            "country": "SN",
+            "latitude": "13.98333",
+            "longitude": "-14.8"
+        },
+        {
+            "city": "Kolda",
+            "region": "11",
+            "country": "SN",
+            "latitude": "12.88333",
+            "longitude": "-14.95"
+        },
+        {
+            "city": "Khombole",
+            "region": "07",
+            "country": "SN",
+            "latitude": "14.76667",
+            "longitude": "-16.7"
+        },
+        {
+            "city": "K\u00e9dougou",
+            "region": "17",
+            "country": "SN",
+            "latitude": "12.5579",
+            "longitude": "-12.1743"
+        },
+        {
+            "city": "Kayar",
+            "region": "07",
+            "country": "SN",
+            "latitude": "14.91917",
+            "longitude": "-17.12111"
+        },
+        {
+            "city": "Kaolack",
+            "region": "10",
+            "country": "SN",
+            "latitude": "14.1825",
+            "longitude": "-16.25333"
+        },
+        {
+            "city": "Kanel",
+            "region": "15",
+            "country": "SN",
+            "latitude": "15.4916",
+            "longitude": "-13.17627"
+        },
+        {
+            "city": "Kaffrine",
+            "region": "16",
+            "country": "SN",
+            "latitude": "14.10594",
+            "longitude": "-15.5508"
+        },
+        {
+            "city": "Joal-Fadiout",
+            "region": "07",
+            "country": "SN",
+            "latitude": "14.16667",
+            "longitude": "-16.83333"
+        },
+        {
+            "city": "Guinguin\u00e9o",
+            "region": "09",
+            "country": "SN",
+            "latitude": "14.26667",
+            "longitude": "-15.95"
+        },
+        {
+            "city": "Grand Dakar",
+            "region": "01",
+            "country": "SN",
+            "latitude": "14.70889",
+            "longitude": "-17.45528"
+        },
+        {
+            "city": "Gol\u00e9r\u00e9",
+            "region": "14",
+            "country": "SN",
+            "latitude": "16.25574",
+            "longitude": "-14.10165"
+        },
+        {
+            "city": "Gandiaye",
+            "region": "10",
+            "country": "SN",
+            "latitude": "14.23333",
+            "longitude": "-16.26667"
+        },
+        {
+            "city": "Foundiougne",
+            "region": "09",
+            "country": "SN",
+            "latitude": "14.13333",
+            "longitude": "-16.46667"
+        },
+        {
+            "city": "Fatick",
+            "region": "09",
+            "country": "SN",
+            "latitude": "14.35806",
+            "longitude": "-16.58583"
+        },
+        {
+            "city": "Diourbel",
+            "region": "03",
+            "country": "SN",
+            "latitude": "14.66278",
+            "longitude": "-16.3925"
+        },
+        {
+            "city": "Diofior",
+            "region": "09",
+            "country": "SN",
+            "latitude": "14.18333",
+            "longitude": "-16.66667"
+        },
+        {
+            "city": "Diawara",
+            "region": "15",
+            "country": "SN",
+            "latitude": "15.02196",
+            "longitude": "-12.54374"
+        },
+        {
+            "city": "Dara",
+            "region": "13",
+            "country": "SN",
+            "latitude": "15.34844",
+            "longitude": "-15.47993"
+        },
+        {
+            "city": "Dakar",
+            "region": "01",
+            "country": "SN",
+            "latitude": "14.6937",
+            "longitude": "-17.44406"
+        },
+        {
+            "city": "Bignona",
+            "region": "12",
+            "country": "SN",
+            "latitude": "12.81028",
+            "longitude": "-16.22639"
+        },
+        {
+            "city": "Warang",
+            "region": "07",
+            "country": "SN",
+            "latitude": "14.37349",
+            "longitude": "-16.94366"
+        }
+    ]
+}

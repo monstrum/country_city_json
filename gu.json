@@ -1,0 +1,265 @@
+{
+    "country": "Guam",
+    "code": "GU",
+    "cities": [
+        {
+            "city": "Piti Village",
+            "region": "PI",
+            "country": "GU",
+            "latitude": "13.46256",
+            "longitude": "144.69331"
+        },
+        {
+            "city": "Santa Rita Village",
+            "region": "SR",
+            "country": "GU",
+            "latitude": "13.38608",
+            "longitude": "144.67226"
+        },
+        {
+            "city": "Sinajana Village",
+            "region": "SJ",
+            "country": "GU",
+            "latitude": "13.46334",
+            "longitude": "144.75406"
+        },
+        {
+            "city": "Talofofo Village",
+            "region": "TF",
+            "country": "GU",
+            "latitude": "13.35513",
+            "longitude": "144.75835"
+        },
+        {
+            "city": "Tamuning-Tumon-Harmon Village",
+            "region": "TM",
+            "country": "GU",
+            "latitude": "13.48773",
+            "longitude": "144.78138"
+        },
+        {
+            "city": "Yigo Village",
+            "region": "YG",
+            "country": "GU",
+            "latitude": "13.53605",
+            "longitude": "144.88855"
+        },
+        {
+            "city": "Yona Village",
+            "region": "YN",
+            "country": "GU",
+            "latitude": "13.40974",
+            "longitude": "144.77697"
+        },
+        {
+            "city": "Merizo Village",
+            "region": "ME",
+            "country": "GU",
+            "latitude": "13.26584",
+            "longitude": "144.66908"
+        },
+        {
+            "city": "Inarajan Village",
+            "region": "IN",
+            "country": "GU",
+            "latitude": "13.27363",
+            "longitude": "144.74845"
+        },
+        {
+            "city": "Agana Heights Village",
+            "region": "AH",
+            "country": "GU",
+            "latitude": "13.46559",
+            "longitude": "144.74795"
+        },
+        {
+            "city": "Guam Government House",
+            "region": "AN",
+            "country": "GU",
+            "latitude": "13.47191",
+            "longitude": "144.74978"
+        },
+        {
+            "city": "Chalan Pago-Ordot Village",
+            "region": "CP",
+            "country": "GU",
+            "latitude": "13.44741",
+            "longitude": "144.75902"
+        },
+        {
+            "city": "Barrigada Village",
+            "region": "BA",
+            "country": "GU",
+            "latitude": "13.46913",
+            "longitude": "144.79901"
+        },
+        {
+            "city": "Agat Village",
+            "region": "AT",
+            "country": "GU",
+            "latitude": "13.38855",
+            "longitude": "144.65852"
+        },
+        {
+            "city": "Asan-Maina Village",
+            "region": "AS",
+            "country": "GU",
+            "latitude": "13.47215",
+            "longitude": "144.71654"
+        },
+        {
+            "city": "Dededo Village",
+            "region": "DD",
+            "country": "GU",
+            "latitude": "13.51777",
+            "longitude": "144.8391"
+        },
+        {
+            "city": "Hag\u00e5t\u00f1a",
+            "region": "AN",
+            "country": "GU",
+            "latitude": "13.47567",
+            "longitude": "144.74886"
+        },
+        {
+            "city": "Mangilao Mayor's Office",
+            "region": "MA",
+            "country": "GU",
+            "latitude": "13.44689",
+            "longitude": "144.80144"
+        },
+        {
+            "city": "Sinajana Mayor's Office",
+            "region": "SJ",
+            "country": "GU",
+            "latitude": "13.46274",
+            "longitude": "144.75461"
+        },
+        {
+            "city": "Umatac Mayor's Office",
+            "region": "UM",
+            "country": "GU",
+            "latitude": "13.29851",
+            "longitude": "144.6633"
+        },
+        {
+            "city": "Mangilao Village",
+            "region": "MA",
+            "country": "GU",
+            "latitude": "13.44761",
+            "longitude": "144.80109"
+        },
+        {
+            "city": "Dededo Mayor's Office",
+            "region": "DD",
+            "country": "GU",
+            "latitude": "13.51744",
+            "longitude": "144.83912"
+        },
+        {
+            "city": "Yona Mayor's Office",
+            "region": "YN",
+            "country": "GU",
+            "latitude": "13.40983",
+            "longitude": "144.77543"
+        },
+        {
+            "city": "Talofofo Mayor's Office",
+            "region": "TF",
+            "country": "GU",
+            "latitude": "13.3548",
+            "longitude": "144.75589"
+        },
+        {
+            "city": "Merizo Mayor's Office",
+            "region": "ME",
+            "country": "GU",
+            "latitude": "13.27126",
+            "longitude": "144.6745"
+        },
+        {
+            "city": "Asan-Maina Mayor's Office",
+            "region": "AS",
+            "country": "GU",
+            "latitude": "13.47188",
+            "longitude": "144.71657"
+        },
+        {
+            "city": "Inarajan Mayor's Office",
+            "region": "IN",
+            "country": "GU",
+            "latitude": "13.29987",
+            "longitude": "144.76207"
+        },
+        {
+            "city": "Agat Mayor's Office",
+            "region": "AT",
+            "country": "GU",
+            "latitude": "13.38801",
+            "longitude": "144.65929"
+        },
+        {
+            "city": "Yigo Mayor's Office",
+            "region": "YG",
+            "country": "GU",
+            "latitude": "13.53565",
+            "longitude": "144.89309"
+        },
+        {
+            "city": "Barrigada Mayor's Office",
+            "region": "BA",
+            "country": "GU",
+            "latitude": "13.46912",
+            "longitude": "144.79961"
+        },
+        {
+            "city": "Tamuning-Tumon-Harmon Mayor's Office",
+            "region": "TM",
+            "country": "GU",
+            "latitude": "13.48715",
+            "longitude": "144.78077"
+        },
+        {
+            "city": "Mongmong-Toto-Maite Mayor's Office",
+            "region": "MT",
+            "country": "GU",
+            "latitude": "13.46796",
+            "longitude": "144.78218"
+        },
+        {
+            "city": "Mongmong-Toto-Maite Village",
+            "region": "MT",
+            "country": "GU",
+            "latitude": "13.46857",
+            "longitude": "144.78214"
+        },
+        {
+            "city": "Hagatna Mayor's Office",
+            "region": "AN",
+            "country": "GU",
+            "latitude": "13.47215",
+            "longitude": "144.75803"
+        },
+        {
+            "city": "Agana Heights Mayor's Office",
+            "region": "AH",
+            "country": "GU",
+            "latitude": "13.46494",
+            "longitude": "144.74758"
+        },
+        {
+            "city": "Hag\u00e5t\u00f1a Village",
+            "region": "AN",
+            "country": "GU",
+            "latitude": "13.47279",
+            "longitude": "144.75802"
+        },
+        {
+            "city": "Chalan Pago-Ordot Mayor's Office",
+            "region": "CP",
+            "country": "GU",
+            "latitude": "13.44682",
+            "longitude": "144.75898"
+        }
+    ]
+}

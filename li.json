@@ -1,0 +1,83 @@
+{
+    "country": "Liechtenstein",
+    "code": "LI",
+    "cities": [
+        {
+            "city": "Vaduz",
+            "region": "11",
+            "country": "LI",
+            "latitude": "47.14151",
+            "longitude": "9.52154"
+        },
+        {
+            "city": "Triesenberg",
+            "region": "10",
+            "country": "LI",
+            "latitude": "47.11815",
+            "longitude": "9.54197"
+        },
+        {
+            "city": "Triesen",
+            "region": "09",
+            "country": "LI",
+            "latitude": "47.1",
+            "longitude": "9.53333"
+        },
+        {
+            "city": "Schellenberg",
+            "region": "08",
+            "country": "LI",
+            "latitude": "47.23123",
+            "longitude": "9.54678"
+        },
+        {
+            "city": "Schaan",
+            "region": "07",
+            "country": "LI",
+            "latitude": "47.16498",
+            "longitude": "9.50867"
+        },
+        {
+            "city": "Ruggell",
+            "region": "06",
+            "country": "LI",
+            "latitude": "47.23333",
+            "longitude": "9.51667"
+        },
+        {
+            "city": "Planken",
+            "region": "05",
+            "country": "LI",
+            "latitude": "47.18516",
+            "longitude": "9.54437"
+        },
+        {
+            "city": "Mauren",
+            "region": "04",
+            "country": "LI",
+            "latitude": "47.21805",
+            "longitude": "9.5442"
+        },
+        {
+            "city": "Gamprin",
+            "region": "03",
+            "country": "LI",
+            "latitude": "47.22038",
+            "longitude": "9.50935"
+        },
+        {
+            "city": "Eschen",
+            "region": "02",
+            "country": "LI",
+            "latitude": "47.21071",
+            "longitude": "9.52223"
+        },
+        {
+            "city": "Balzers",
+            "region": "01",
+            "country": "LI",
+            "latitude": "47.06667",
+            "longitude": "9.5"
+        }
+    ]
+}

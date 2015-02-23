@@ -1,0 +1,13 @@
+{
+    "country": "Guernsey",
+    "code": "GG",
+    "cities": [
+        {
+            "city": "Saint Peter Port",
+            "region": "00",
+            "country": "GG",
+            "latitude": "49.45981",
+            "longitude": "-2.53527"
+        }
+    ]
+}

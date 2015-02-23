@@ -1,0 +1,1917 @@
+{
+    "country": "Bulgaria",
+    "code": "BG",
+    "cities": [
+        {
+            "city": "Beloslav",
+            "region": "61",
+            "country": "BG",
+            "latitude": "43.18333",
+            "longitude": "27.7"
+        },
+        {
+            "city": "Zlatograd",
+            "region": "57",
+            "country": "BG",
+            "latitude": "41.38333",
+            "longitude": "25.1"
+        },
+        {
+            "city": "Zlatitsa",
+            "region": "58",
+            "country": "BG",
+            "latitude": "42.71667",
+            "longitude": "24.13333"
+        },
+        {
+            "city": "Zlataritsa",
+            "region": "62",
+            "country": "BG",
+            "latitude": "43.05",
+            "longitude": "25.9"
+        },
+        {
+            "city": "Zemen",
+            "region": "49",
+            "country": "BG",
+            "latitude": "42.47889",
+            "longitude": "22.74917"
+        },
+        {
+            "city": "Zelenikovo",
+            "region": "51",
+            "country": "BG",
+            "latitude": "42.4",
+            "longitude": "25.08333"
+        },
+        {
+            "city": "Zavet",
+            "region": "52",
+            "country": "BG",
+            "latitude": "43.76667",
+            "longitude": "26.66667"
+        },
+        {
+            "city": "Yambol",
+            "region": "65",
+            "country": "BG",
+            "latitude": "42.48333",
+            "longitude": "26.5"
+        },
+        {
+            "city": "Yakoruda",
+            "region": "38",
+            "country": "BG",
+            "latitude": "42.02528",
+            "longitude": "23.68417"
+        },
+        {
+            "city": "Yakimovo",
+            "region": "47",
+            "country": "BG",
+            "latitude": "43.64306",
+            "longitude": "23.36778"
+        },
+        {
+            "city": "Yablanitsa",
+            "region": "46",
+            "country": "BG",
+            "latitude": "43.03139",
+            "longitude": "24.11278"
+        },
+        {
+            "city": "V\u016drshets",
+            "region": "47",
+            "country": "BG",
+            "latitude": "43.19528",
+            "longitude": "23.28611"
+        },
+        {
+            "city": "V\u016drbitsa",
+            "region": "54",
+            "country": "BG",
+            "latitude": "43",
+            "longitude": "26.63333"
+        },
+        {
+            "city": "V\u016dlchidol",
+            "region": "61",
+            "country": "BG",
+            "latitude": "43.4",
+            "longitude": "27.55"
+        },
+        {
+            "city": "V\u016dlchedr\u016dm",
+            "region": "47",
+            "country": "BG",
+            "latitude": "43.69639",
+            "longitude": "23.44472"
+        },
+        {
+            "city": "Vratsa",
+            "region": "64",
+            "country": "BG",
+            "latitude": "43.21",
+            "longitude": "23.5625"
+        },
+        {
+            "city": "Sveti Vlas",
+            "region": "39",
+            "country": "BG",
+            "latitude": "42.7136",
+            "longitude": "27.75867"
+        },
+        {
+            "city": "Vidin",
+            "region": "63",
+            "country": "BG",
+            "latitude": "43.99",
+            "longitude": "22.8725"
+        },
+        {
+            "city": "Vetrino",
+            "region": "61",
+            "country": "BG",
+            "latitude": "43.31667",
+            "longitude": "27.43333"
+        },
+        {
+            "city": "Vetovo",
+            "region": "53",
+            "country": "BG",
+            "latitude": "43.7",
+            "longitude": "26.26667"
+        },
+        {
+            "city": "Venets",
+            "region": "54",
+            "country": "BG",
+            "latitude": "43.55",
+            "longitude": "26.93333"
+        },
+        {
+            "city": "Velingrad",
+            "region": "48",
+            "country": "BG",
+            "latitude": "42.02724",
+            "longitude": "23.99569"
+        },
+        {
+            "city": "Veliko T\u016drnovo",
+            "region": "62",
+            "country": "BG",
+            "latitude": "43.08124",
+            "longitude": "25.62904"
+        },
+        {
+            "city": "Varna",
+            "region": "61",
+            "country": "BG",
+            "latitude": "43.21667",
+            "longitude": "27.91667"
+        },
+        {
+            "city": "Ug\u016drchin",
+            "region": "46",
+            "country": "BG",
+            "latitude": "43.1",
+            "longitude": "24.41667"
+        },
+        {
+            "city": "Tv\u016drditsa",
+            "region": "56",
+            "country": "BG",
+            "latitude": "42.7",
+            "longitude": "25.9"
+        },
+        {
+            "city": "Tutrakan",
+            "region": "55",
+            "country": "BG",
+            "latitude": "44.05",
+            "longitude": "26.61667"
+        },
+        {
+            "city": "T\u016drgovishte",
+            "region": "60",
+            "country": "BG",
+            "latitude": "43.25917",
+            "longitude": "26.58917"
+        },
+        {
+            "city": "Tsenovo",
+            "region": "53",
+            "country": "BG",
+            "latitude": "43.53333",
+            "longitude": "25.65"
+        },
+        {
+            "city": "Tryavna",
+            "region": "41",
+            "country": "BG",
+            "latitude": "42.86667",
+            "longitude": "25.5"
+        },
+        {
+            "city": "Tr\u016dn",
+            "region": "49",
+            "country": "BG",
+            "latitude": "42.83528",
+            "longitude": "22.65167"
+        },
+        {
+            "city": "Troyan",
+            "region": "46",
+            "country": "BG",
+            "latitude": "42.89427",
+            "longitude": "24.71589"
+        },
+        {
+            "city": "Topolovgrad",
+            "region": "43",
+            "country": "BG",
+            "latitude": "42.08333",
+            "longitude": "26.33333"
+        },
+        {
+            "city": "Tonchevtsi",
+            "region": "41",
+            "country": "BG",
+            "latitude": "42.9",
+            "longitude": "25.31667"
+        },
+        {
+            "city": "Dobrich",
+            "region": "40",
+            "country": "BG",
+            "latitude": "43.56667",
+            "longitude": "27.83333"
+        },
+        {
+            "city": "Tochilari",
+            "region": "52",
+            "country": "BG",
+            "latitude": "43.85",
+            "longitude": "26.46667"
+        },
+        {
+            "city": "Teteven",
+            "region": "46",
+            "country": "BG",
+            "latitude": "42.91667",
+            "longitude": "24.26667"
+        },
+        {
+            "city": "Tervel",
+            "region": "40",
+            "country": "BG",
+            "latitude": "43.75",
+            "longitude": "27.4"
+        },
+        {
+            "city": "Batanovtsi",
+            "region": "49",
+            "country": "BG",
+            "latitude": "42.59972",
+            "longitude": "22.95056"
+        },
+        {
+            "city": "Svoge",
+            "region": "58",
+            "country": "BG",
+            "latitude": "42.96667",
+            "longitude": "23.35"
+        },
+        {
+            "city": "Svishtov",
+            "region": "62",
+            "country": "BG",
+            "latitude": "43.62306",
+            "longitude": "25.35389"
+        },
+        {
+            "city": "Svilengrad",
+            "region": "43",
+            "country": "BG",
+            "latitude": "41.76667",
+            "longitude": "26.2"
+        },
+        {
+            "city": "Suvorovo",
+            "region": "61",
+            "country": "BG",
+            "latitude": "43.33333",
+            "longitude": "27.6"
+        },
+        {
+            "city": "Sungurlare",
+            "region": "39",
+            "country": "BG",
+            "latitude": "42.76667",
+            "longitude": "26.78333"
+        },
+        {
+            "city": "Sukhindol",
+            "region": "62",
+            "country": "BG",
+            "latitude": "43.19167",
+            "longitude": "25.18111"
+        },
+        {
+            "city": "S\u016dedinenie",
+            "region": "51",
+            "country": "BG",
+            "latitude": "42.26667",
+            "longitude": "24.55"
+        },
+        {
+            "city": "Strumyani",
+            "region": "38",
+            "country": "BG",
+            "latitude": "41.63333",
+            "longitude": "23.2"
+        },
+        {
+            "city": "Strelcha",
+            "region": "48",
+            "country": "BG",
+            "latitude": "42.5",
+            "longitude": "24.31667"
+        },
+        {
+            "city": "Strazhitsa",
+            "region": "62",
+            "country": "BG",
+            "latitude": "43.23333",
+            "longitude": "25.96667"
+        },
+        {
+            "city": "Straldzha",
+            "region": "65",
+            "country": "BG",
+            "latitude": "42.6",
+            "longitude": "26.68333"
+        },
+        {
+            "city": "Stara Zagora",
+            "region": "59",
+            "country": "BG",
+            "latitude": "42.43278",
+            "longitude": "25.64194"
+        },
+        {
+            "city": "Stara Kresna",
+            "region": "38",
+            "country": "BG",
+            "latitude": "41.8",
+            "longitude": "23.18333"
+        },
+        {
+            "city": "Dupnitsa",
+            "region": "45",
+            "country": "BG",
+            "latitude": "42.26667",
+            "longitude": "23.11667"
+        },
+        {
+            "city": "Stamboliyski",
+            "region": "51",
+            "country": "BG",
+            "latitude": "42.13333",
+            "longitude": "24.53333"
+        },
+        {
+            "city": "Sozopol",
+            "region": "39",
+            "country": "BG",
+            "latitude": "42.41667",
+            "longitude": "27.7"
+        },
+        {
+            "city": "Sofia",
+            "region": "42",
+            "country": "BG",
+            "latitude": "42.69751",
+            "longitude": "23.32415"
+        },
+        {
+            "city": "Smyadovo",
+            "region": "54",
+            "country": "BG",
+            "latitude": "43.06667",
+            "longitude": "27.01667"
+        },
+        {
+            "city": "Smolyan",
+            "region": "57",
+            "country": "BG",
+            "latitude": "41.58528",
+            "longitude": "24.69194"
+        },
+        {
+            "city": "Slivo Pole",
+            "region": "53",
+            "country": "BG",
+            "latitude": "43.95",
+            "longitude": "26.2"
+        },
+        {
+            "city": "Slivnitsa",
+            "region": "58",
+            "country": "BG",
+            "latitude": "42.85",
+            "longitude": "23.03333"
+        },
+        {
+            "city": "Sliven",
+            "region": "56",
+            "country": "BG",
+            "latitude": "42.68583",
+            "longitude": "26.32917"
+        },
+        {
+            "city": "Slavyanovo",
+            "region": "50",
+            "country": "BG",
+            "latitude": "43.46667",
+            "longitude": "24.86667"
+        },
+        {
+            "city": "Sitovo",
+            "region": "55",
+            "country": "BG",
+            "latitude": "44.01667",
+            "longitude": "27.01667"
+        },
+        {
+            "city": "Simitli",
+            "region": "38",
+            "country": "BG",
+            "latitude": "41.88333",
+            "longitude": "23.11667"
+        },
+        {
+            "city": "Simeonovgrad",
+            "region": "43",
+            "country": "BG",
+            "latitude": "42.03333",
+            "longitude": "25.83333"
+        },
+        {
+            "city": "Silistra",
+            "region": "55",
+            "country": "BG",
+            "latitude": "44.11667",
+            "longitude": "27.26667"
+        },
+        {
+            "city": "Shumen",
+            "region": "54",
+            "country": "BG",
+            "latitude": "43.27064",
+            "longitude": "26.92286"
+        },
+        {
+            "city": "Shipka",
+            "region": "59",
+            "country": "BG",
+            "latitude": "42.71667",
+            "longitude": "25.33333"
+        },
+        {
+            "city": "Shabla",
+            "region": "40",
+            "country": "BG",
+            "latitude": "43.53333",
+            "longitude": "28.53333"
+        },
+        {
+            "city": "Sevlievo",
+            "region": "41",
+            "country": "BG",
+            "latitude": "43.02583",
+            "longitude": "25.11361"
+        },
+        {
+            "city": "Septemvri",
+            "region": "48",
+            "country": "BG",
+            "latitude": "42.21667",
+            "longitude": "24.1"
+        },
+        {
+            "city": "Senovo",
+            "region": "53",
+            "country": "BG",
+            "latitude": "43.65",
+            "longitude": "26.36667"
+        },
+        {
+            "city": "Satovcha",
+            "region": "38",
+            "country": "BG",
+            "latitude": "41.61667",
+            "longitude": "23.98333"
+        },
+        {
+            "city": "Sapareva Banya",
+            "region": "45",
+            "country": "BG",
+            "latitude": "42.28333",
+            "longitude": "23.26667"
+        },
+        {
+            "city": "Sandanski",
+            "region": "38",
+            "country": "BG",
+            "latitude": "41.56667",
+            "longitude": "23.28333"
+        },
+        {
+            "city": "Samuil",
+            "region": "52",
+            "country": "BG",
+            "latitude": "43.51667",
+            "longitude": "26.75"
+        },
+        {
+            "city": "Samokov",
+            "region": "58",
+            "country": "BG",
+            "latitude": "42.33333",
+            "longitude": "23.55"
+        },
+        {
+            "city": "Sadovo",
+            "region": "51",
+            "country": "BG",
+            "latitude": "42.13333",
+            "longitude": "24.93333"
+        },
+        {
+            "city": "Ruzhintsi",
+            "region": "63",
+            "country": "BG",
+            "latitude": "43.62333",
+            "longitude": "22.83083"
+        },
+        {
+            "city": "Ruse",
+            "region": "53",
+            "country": "BG",
+            "latitude": "43.85639",
+            "longitude": "25.97083"
+        },
+        {
+            "city": "Ruen",
+            "region": "39",
+            "country": "BG",
+            "latitude": "42.8",
+            "longitude": "27.28333"
+        },
+        {
+            "city": "Rudozem",
+            "region": "57",
+            "country": "BG",
+            "latitude": "41.48333",
+            "longitude": "24.85"
+        },
+        {
+            "city": "Roman",
+            "region": "64",
+            "country": "BG",
+            "latitude": "43.15",
+            "longitude": "23.91667"
+        },
+        {
+            "city": "Rila",
+            "region": "45",
+            "country": "BG",
+            "latitude": "42.13333",
+            "longitude": "23.13333"
+        },
+        {
+            "city": "Razlog",
+            "region": "38",
+            "country": "BG",
+            "latitude": "41.8863",
+            "longitude": "23.46714"
+        },
+        {
+            "city": "Razgrad",
+            "region": "52",
+            "country": "BG",
+            "latitude": "43.53333",
+            "longitude": "26.51667"
+        },
+        {
+            "city": "Rakovski",
+            "region": "51",
+            "country": "BG",
+            "latitude": "42.3",
+            "longitude": "24.96667"
+        },
+        {
+            "city": "Rakitovo",
+            "region": "48",
+            "country": "BG",
+            "latitude": "41.98333",
+            "longitude": "24.08333"
+        },
+        {
+            "city": "Radomir",
+            "region": "49",
+            "country": "BG",
+            "latitude": "42.54444",
+            "longitude": "22.95778"
+        },
+        {
+            "city": "Radnevo",
+            "region": "59",
+            "country": "BG",
+            "latitude": "42.3",
+            "longitude": "25.93333"
+        },
+        {
+            "city": "P\u016drvomaytsi",
+            "region": "62",
+            "country": "BG",
+            "latitude": "43.15",
+            "longitude": "25.65"
+        },
+        {
+            "city": "Provadiya",
+            "region": "61",
+            "country": "BG",
+            "latitude": "43.18333",
+            "longitude": "27.43333"
+        },
+        {
+            "city": "Primorsko",
+            "region": "39",
+            "country": "BG",
+            "latitude": "42.26667",
+            "longitude": "27.76667"
+        },
+        {
+            "city": "Veliki Preslav",
+            "region": "54",
+            "country": "BG",
+            "latitude": "43.16667",
+            "longitude": "26.81667"
+        },
+        {
+            "city": "Pravets",
+            "region": "58",
+            "country": "BG",
+            "latitude": "42.88333",
+            "longitude": "23.91667"
+        },
+        {
+            "city": "Pordim",
+            "region": "50",
+            "country": "BG",
+            "latitude": "43.38333",
+            "longitude": "24.85"
+        },
+        {
+            "city": "Popovo",
+            "region": "60",
+            "country": "BG",
+            "latitude": "43.35",
+            "longitude": "26.23333"
+        },
+        {
+            "city": "Pomorie",
+            "region": "39",
+            "country": "BG",
+            "latitude": "42.55882",
+            "longitude": "27.64393"
+        },
+        {
+            "city": "Polski Tr\u016dmbesh",
+            "region": "62",
+            "country": "BG",
+            "latitude": "43.38361",
+            "longitude": "25.64972"
+        },
+        {
+            "city": "Plovdiv",
+            "region": "51",
+            "country": "BG",
+            "latitude": "42.15",
+            "longitude": "24.75"
+        },
+        {
+            "city": "Pliska",
+            "region": "54",
+            "country": "BG",
+            "latitude": "43.36667",
+            "longitude": "27.11667"
+        },
+        {
+            "city": "Pleven",
+            "region": "50",
+            "country": "BG",
+            "latitude": "43.41667",
+            "longitude": "24.61667"
+        },
+        {
+            "city": "Pirdop",
+            "region": "58",
+            "country": "BG",
+            "latitude": "42.7",
+            "longitude": "24.18333"
+        },
+        {
+            "city": "Petrich",
+            "region": "38",
+            "country": "BG",
+            "latitude": "41.4",
+            "longitude": "23.21667"
+        },
+        {
+            "city": "Peshtera",
+            "region": "48",
+            "country": "BG",
+            "latitude": "42.03333",
+            "longitude": "24.3"
+        },
+        {
+            "city": "Perushtitsa",
+            "region": "51",
+            "country": "BG",
+            "latitude": "42.05",
+            "longitude": "24.55"
+        },
+        {
+            "city": "Pernik",
+            "region": "49",
+            "country": "BG",
+            "latitude": "42.6",
+            "longitude": "23.03333"
+        },
+        {
+            "city": "Isk\u016dr",
+            "region": "50",
+            "country": "BG",
+            "latitude": "43.45",
+            "longitude": "24.26667"
+        },
+        {
+            "city": "Pazardzhik",
+            "region": "48",
+            "country": "BG",
+            "latitude": "42.2",
+            "longitude": "24.33333"
+        },
+        {
+            "city": "Pavlikeni",
+            "region": "62",
+            "country": "BG",
+            "latitude": "43.24278",
+            "longitude": "25.32194"
+        },
+        {
+            "city": "Pavel Banya",
+            "region": "59",
+            "country": "BG",
+            "latitude": "42.6",
+            "longitude": "25.2"
+        },
+        {
+            "city": "Panagyurishte",
+            "region": "48",
+            "country": "BG",
+            "latitude": "42.5",
+            "longitude": "24.18333"
+        },
+        {
+            "city": "Oryakhovo",
+            "region": "64",
+            "country": "BG",
+            "latitude": "43.73333",
+            "longitude": "23.96667"
+        },
+        {
+            "city": "Opaka",
+            "region": "60",
+            "country": "BG",
+            "latitude": "43.45",
+            "longitude": "26.16667"
+        },
+        {
+            "city": "Omurtag",
+            "region": "60",
+            "country": "BG",
+            "latitude": "43.1",
+            "longitude": "26.41667"
+        },
+        {
+            "city": "Obzor",
+            "region": "39",
+            "country": "BG",
+            "latitude": "42.81667",
+            "longitude": "27.88333"
+        },
+        {
+            "city": "Novo Selo",
+            "region": "63",
+            "country": "BG",
+            "latitude": "44.15861",
+            "longitude": "22.78667"
+        },
+        {
+            "city": "Novi Pazar",
+            "region": "54",
+            "country": "BG",
+            "latitude": "43.35",
+            "longitude": "27.2"
+        },
+        {
+            "city": "Nova Zagora",
+            "region": "56",
+            "country": "BG",
+            "latitude": "42.48333",
+            "longitude": "26.01667"
+        },
+        {
+            "city": "Nikopol",
+            "region": "50",
+            "country": "BG",
+            "latitude": "43.7",
+            "longitude": "24.9"
+        },
+        {
+            "city": "Nikolaevo",
+            "region": "59",
+            "country": "BG",
+            "latitude": "42.63333",
+            "longitude": "25.8"
+        },
+        {
+            "city": "Neseb\u016dr",
+            "region": "39",
+            "country": "BG",
+            "latitude": "42.65921",
+            "longitude": "27.73602"
+        },
+        {
+            "city": "Nedelino",
+            "region": "57",
+            "country": "BG",
+            "latitude": "41.45",
+            "longitude": "25.08333"
+        },
+        {
+            "city": "M\u016dglizh",
+            "region": "59",
+            "country": "BG",
+            "latitude": "42.6",
+            "longitude": "25.55"
+        },
+        {
+            "city": "Miziya",
+            "region": "64",
+            "country": "BG",
+            "latitude": "43.68333",
+            "longitude": "23.85"
+        },
+        {
+            "city": "Mirkovo",
+            "region": "58",
+            "country": "BG",
+            "latitude": "42.7",
+            "longitude": "23.98333"
+        },
+        {
+            "city": "Mineralni Bani",
+            "region": "43",
+            "country": "BG",
+            "latitude": "41.91667",
+            "longitude": "25.35"
+        },
+        {
+            "city": "Montana",
+            "region": "47",
+            "country": "BG",
+            "latitude": "43.4125",
+            "longitude": "23.225"
+        },
+        {
+            "city": "Tsarevo",
+            "region": "39",
+            "country": "BG",
+            "latitude": "42.16667",
+            "longitude": "27.85"
+        },
+        {
+            "city": "Mezdra",
+            "region": "64",
+            "country": "BG",
+            "latitude": "43.15",
+            "longitude": "23.7"
+        },
+        {
+            "city": "Medovene",
+            "region": "52",
+            "country": "BG",
+            "latitude": "43.76667",
+            "longitude": "26.51667"
+        },
+        {
+            "city": "Medkovets",
+            "region": "47",
+            "country": "BG",
+            "latitude": "43.62972",
+            "longitude": "23.18111"
+        },
+        {
+            "city": "Malko T\u016drnovo",
+            "region": "39",
+            "country": "BG",
+            "latitude": "41.98333",
+            "longitude": "27.53333"
+        },
+        {
+            "city": "Madzharovo",
+            "region": "43",
+            "country": "BG",
+            "latitude": "41.63333",
+            "longitude": "25.86667"
+        },
+        {
+            "city": "Madan",
+            "region": "57",
+            "country": "BG",
+            "latitude": "41.5",
+            "longitude": "24.95"
+        },
+        {
+            "city": "Lyubimets",
+            "region": "43",
+            "country": "BG",
+            "latitude": "41.83333",
+            "longitude": "26.08333"
+        },
+        {
+            "city": "Lyaskovets",
+            "region": "62",
+            "country": "BG",
+            "latitude": "43.11111",
+            "longitude": "25.72833"
+        },
+        {
+            "city": "Lukovit",
+            "region": "46",
+            "country": "BG",
+            "latitude": "43.2",
+            "longitude": "24.16667"
+        },
+        {
+            "city": "L\u016dki",
+            "region": "51",
+            "country": "BG",
+            "latitude": "41.85",
+            "longitude": "24.81667"
+        },
+        {
+            "city": "Loznitsa",
+            "region": "52",
+            "country": "BG",
+            "latitude": "43.36667",
+            "longitude": "26.6"
+        },
+        {
+            "city": "Lovech",
+            "region": "46",
+            "country": "BG",
+            "latitude": "43.13333",
+            "longitude": "24.71667"
+        },
+        {
+            "city": "Lom",
+            "region": "47",
+            "country": "BG",
+            "latitude": "43.81389",
+            "longitude": "23.23611"
+        },
+        {
+            "city": "Levski",
+            "region": "50",
+            "country": "BG",
+            "latitude": "43.36667",
+            "longitude": "25.13333"
+        },
+        {
+            "city": "Letnitsa",
+            "region": "46",
+            "country": "BG",
+            "latitude": "43.31167",
+            "longitude": "25.07333"
+        },
+        {
+            "city": "Lesichevo",
+            "region": "48",
+            "country": "BG",
+            "latitude": "42.35",
+            "longitude": "24.11667"
+        },
+        {
+            "city": "Lakatnik",
+            "region": "58",
+            "country": "BG",
+            "latitude": "43.05",
+            "longitude": "23.4"
+        },
+        {
+            "city": "Kyustendil",
+            "region": "45",
+            "country": "BG",
+            "latitude": "42.28389",
+            "longitude": "22.69111"
+        },
+        {
+            "city": "K\u016drdzhali",
+            "region": "44",
+            "country": "BG",
+            "latitude": "41.65",
+            "longitude": "25.36667"
+        },
+        {
+            "city": "Kula",
+            "region": "63",
+            "country": "BG",
+            "latitude": "43.88778",
+            "longitude": "22.52139"
+        },
+        {
+            "city": "Kubrat",
+            "region": "52",
+            "country": "BG",
+            "latitude": "43.8",
+            "longitude": "26.5"
+        },
+        {
+            "city": "Krushari",
+            "region": "40",
+            "country": "BG",
+            "latitude": "43.81667",
+            "longitude": "27.75"
+        },
+        {
+            "city": "Krumovgrad",
+            "region": "44",
+            "country": "BG",
+            "latitude": "41.46667",
+            "longitude": "25.65"
+        },
+        {
+            "city": "Krivodol",
+            "region": "64",
+            "country": "BG",
+            "latitude": "43.37444",
+            "longitude": "23.48444"
+        },
+        {
+            "city": "Krichim",
+            "region": "51",
+            "country": "BG",
+            "latitude": "42.05",
+            "longitude": "24.46667"
+        },
+        {
+            "city": "Kresna",
+            "region": "38",
+            "country": "BG",
+            "latitude": "41.73333",
+            "longitude": "23.15"
+        },
+        {
+            "city": "Kozloduy",
+            "region": "64",
+            "country": "BG",
+            "latitude": "43.78333",
+            "longitude": "23.73333"
+        },
+        {
+            "city": "Koynare",
+            "region": "50",
+            "country": "BG",
+            "latitude": "43.35",
+            "longitude": "24.13333"
+        },
+        {
+            "city": "Kotel",
+            "region": "56",
+            "country": "BG",
+            "latitude": "42.88333",
+            "longitude": "26.45"
+        },
+        {
+            "city": "Kostinbrod",
+            "region": "58",
+            "country": "BG",
+            "latitude": "42.81667",
+            "longitude": "23.21667"
+        },
+        {
+            "city": "Koprivshtitsa",
+            "region": "58",
+            "country": "BG",
+            "latitude": "42.63333",
+            "longitude": "24.35"
+        },
+        {
+            "city": "Kocherinovo",
+            "region": "45",
+            "country": "BG",
+            "latitude": "42.08333",
+            "longitude": "23.06667"
+        },
+        {
+            "city": "Knezha",
+            "region": "64",
+            "country": "BG",
+            "latitude": "43.5",
+            "longitude": "24.08333"
+        },
+        {
+            "city": "Klisura",
+            "region": "51",
+            "country": "BG",
+            "latitude": "42.7",
+            "longitude": "24.45"
+        },
+        {
+            "city": "Kiten",
+            "region": "61",
+            "country": "BG",
+            "latitude": "43.08333",
+            "longitude": "27.31667"
+        },
+        {
+            "city": "Kiten",
+            "region": "39",
+            "country": "BG",
+            "latitude": "42.23424",
+            "longitude": "27.7749"
+        },
+        {
+            "city": "Kilifarevo",
+            "region": "62",
+            "country": "BG",
+            "latitude": "42.98333",
+            "longitude": "25.63333"
+        },
+        {
+            "city": "Tsar Kaloyan",
+            "region": "52",
+            "country": "BG",
+            "latitude": "43.61667",
+            "longitude": "26.25"
+        },
+        {
+            "city": "Khisarya",
+            "region": "51",
+            "country": "BG",
+            "latitude": "42.5",
+            "longitude": "24.7"
+        },
+        {
+            "city": "Khayredin",
+            "region": "64",
+            "country": "BG",
+            "latitude": "43.6",
+            "longitude": "23.66667"
+        },
+        {
+            "city": "Khaskovo",
+            "region": "43",
+            "country": "BG",
+            "latitude": "41.94028",
+            "longitude": "25.56944"
+        },
+        {
+            "city": "Kharmanli",
+            "region": "43",
+            "country": "BG",
+            "latitude": "41.93333",
+            "longitude": "25.9"
+        },
+        {
+            "city": "Khadzhidimovo",
+            "region": "38",
+            "country": "BG",
+            "latitude": "41.52222",
+            "longitude": "23.86861"
+        },
+        {
+            "city": "Kermen",
+            "region": "56",
+            "country": "BG",
+            "latitude": "42.5",
+            "longitude": "26.25"
+        },
+        {
+            "city": "Kazanl\u016dk",
+            "region": "59",
+            "country": "BG",
+            "latitude": "42.61667",
+            "longitude": "25.4"
+        },
+        {
+            "city": "Kaynardzha",
+            "region": "55",
+            "country": "BG",
+            "latitude": "43.98333",
+            "longitude": "27.5"
+        },
+        {
+            "city": "Kavarna",
+            "region": "40",
+            "country": "BG",
+            "latitude": "43.43333",
+            "longitude": "28.33333"
+        },
+        {
+            "city": "Kaspichan",
+            "region": "54",
+            "country": "BG",
+            "latitude": "43.31667",
+            "longitude": "27.16667"
+        },
+        {
+            "city": "Karnobat",
+            "region": "39",
+            "country": "BG",
+            "latitude": "42.65",
+            "longitude": "26.98333"
+        },
+        {
+            "city": "Karlovo",
+            "region": "51",
+            "country": "BG",
+            "latitude": "42.63333",
+            "longitude": "24.8"
+        },
+        {
+            "city": "Kaolinovo",
+            "region": "54",
+            "country": "BG",
+            "latitude": "43.61667",
+            "longitude": "27.11667"
+        },
+        {
+            "city": "Kameno",
+            "region": "39",
+            "country": "BG",
+            "latitude": "42.56667",
+            "longitude": "27.3"
+        },
+        {
+            "city": "Kaloyanovo",
+            "region": "51",
+            "country": "BG",
+            "latitude": "42.35",
+            "longitude": "24.73333"
+        },
+        {
+            "city": "Kalofer",
+            "region": "51",
+            "country": "BG",
+            "latitude": "42.61667",
+            "longitude": "24.98333"
+        },
+        {
+            "city": "Ivaylovgrad",
+            "region": "43",
+            "country": "BG",
+            "latitude": "41.53333",
+            "longitude": "26.13333"
+        },
+        {
+            "city": "Ivanovo",
+            "region": "53",
+            "country": "BG",
+            "latitude": "43.7",
+            "longitude": "25.98333"
+        },
+        {
+            "city": "Isperikh",
+            "region": "52",
+            "country": "BG",
+            "latitude": "43.71667",
+            "longitude": "26.83333"
+        },
+        {
+            "city": "Ikhtiman",
+            "region": "58",
+            "country": "BG",
+            "latitude": "42.43333",
+            "longitude": "23.81667"
+        },
+        {
+            "city": "G\u016drmen",
+            "region": "38",
+            "country": "BG",
+            "latitude": "41.6",
+            "longitude": "23.81667"
+        },
+        {
+            "city": "Gurkovo",
+            "region": "59",
+            "country": "BG",
+            "latitude": "42.66667",
+            "longitude": "25.8"
+        },
+        {
+            "city": "Gulyantsi",
+            "region": "50",
+            "country": "BG",
+            "latitude": "43.63333",
+            "longitude": "24.7"
+        },
+        {
+            "city": "Sredets",
+            "region": "39",
+            "country": "BG",
+            "latitude": "42.34747",
+            "longitude": "27.17898"
+        },
+        {
+            "city": "Gramada",
+            "region": "63",
+            "country": "BG",
+            "latitude": "43.83444",
+            "longitude": "22.65861"
+        },
+        {
+            "city": "Gyovren",
+            "region": "57",
+            "country": "BG",
+            "latitude": "41.4",
+            "longitude": "24.23"
+        },
+        {
+            "city": "Gotse Delchev",
+            "region": "38",
+            "country": "BG",
+            "latitude": "41.56667",
+            "longitude": "23.73333"
+        },
+        {
+            "city": "Gorna Oryakhovitsa",
+            "region": "62",
+            "country": "BG",
+            "latitude": "43.12778",
+            "longitude": "25.70167"
+        },
+        {
+            "city": "Gorna Malina",
+            "region": "58",
+            "country": "BG",
+            "latitude": "42.68333",
+            "longitude": "23.7"
+        },
+        {
+            "city": "Gorichevo",
+            "region": "52",
+            "country": "BG",
+            "latitude": "43.85",
+            "longitude": "26.45"
+        },
+        {
+            "city": "Godech",
+            "region": "58",
+            "country": "BG",
+            "latitude": "43.015",
+            "longitude": "23.04417"
+        },
+        {
+            "city": "Glavinitsa",
+            "region": "55",
+            "country": "BG",
+            "latitude": "43.91667",
+            "longitude": "26.83333"
+        },
+        {
+            "city": "Dolni Chiflik",
+            "region": "61",
+            "country": "BG",
+            "latitude": "42.98333",
+            "longitude": "27.71667"
+        },
+        {
+            "city": "General-Toshevo",
+            "region": "40",
+            "country": "BG",
+            "latitude": "43.7",
+            "longitude": "28.03333"
+        },
+        {
+            "city": "Gara Khitrino",
+            "region": "54",
+            "country": "BG",
+            "latitude": "43.43333",
+            "longitude": "26.91667"
+        },
+        {
+            "city": "Gabrovo",
+            "region": "41",
+            "country": "BG",
+            "latitude": "42.87472",
+            "longitude": "25.33417"
+        },
+        {
+            "city": "Gabrovo",
+            "region": "44",
+            "country": "BG",
+            "latitude": "41.8",
+            "longitude": "25.26667"
+        },
+        {
+            "city": "Etropole",
+            "region": "58",
+            "country": "BG",
+            "latitude": "42.83333",
+            "longitude": "24"
+        },
+        {
+            "city": "Elkhovo",
+            "region": "59",
+            "country": "BG",
+            "latitude": "42.38333",
+            "longitude": "25.43333"
+        },
+        {
+            "city": "Elkhovo",
+            "region": "65",
+            "country": "BG",
+            "latitude": "42.16667",
+            "longitude": "26.56667"
+        },
+        {
+            "city": "Elin Pelin",
+            "region": "58",
+            "country": "BG",
+            "latitude": "42.66667",
+            "longitude": "23.6"
+        },
+        {
+            "city": "Elena",
+            "region": "43",
+            "country": "BG",
+            "latitude": "42.93333",
+            "longitude": "25.88333"
+        },
+        {
+            "city": "Dzhebel",
+            "region": "44",
+            "country": "BG",
+            "latitude": "41.5",
+            "longitude": "25.3"
+        },
+        {
+            "city": "Dve Mogili",
+            "region": "53",
+            "country": "BG",
+            "latitude": "43.6",
+            "longitude": "25.86667"
+        },
+        {
+            "city": "Dunavtsi",
+            "region": "63",
+            "country": "BG",
+            "latitude": "43.92111",
+            "longitude": "22.82111"
+        },
+        {
+            "city": "Dulovo",
+            "region": "55",
+            "country": "BG",
+            "latitude": "43.81667",
+            "longitude": "27.15"
+        },
+        {
+            "city": "D\u016dlgopol",
+            "region": "61",
+            "country": "BG",
+            "latitude": "43.05",
+            "longitude": "27.35"
+        },
+        {
+            "city": "Dryanovo",
+            "region": "41",
+            "country": "BG",
+            "latitude": "42.97897",
+            "longitude": "25.4785"
+        },
+        {
+            "city": "Dragoman",
+            "region": "58",
+            "country": "BG",
+            "latitude": "42.91889",
+            "longitude": "22.93167"
+        },
+        {
+            "city": "Dospat",
+            "region": "57",
+            "country": "BG",
+            "latitude": "41.65",
+            "longitude": "24.16667"
+        },
+        {
+            "city": "Dolni D\u016dbnik",
+            "region": "50",
+            "country": "BG",
+            "latitude": "43.4",
+            "longitude": "24.43333"
+        },
+        {
+            "city": "Dolna Mitropoliya",
+            "region": "50",
+            "country": "BG",
+            "latitude": "43.46667",
+            "longitude": "24.53333"
+        },
+        {
+            "city": "Dolna Banya",
+            "region": "58",
+            "country": "BG",
+            "latitude": "42.3",
+            "longitude": "23.76667"
+        },
+        {
+            "city": "Dimovo",
+            "region": "63",
+            "country": "BG",
+            "latitude": "43.74167",
+            "longitude": "22.72694"
+        },
+        {
+            "city": "Dimitrovgrad",
+            "region": "43",
+            "country": "BG",
+            "latitude": "42.05",
+            "longitude": "25.6"
+        },
+        {
+            "city": "Devnya",
+            "region": "61",
+            "country": "BG",
+            "latitude": "43.22222",
+            "longitude": "27.56944"
+        },
+        {
+            "city": "Devin",
+            "region": "51",
+            "country": "BG",
+            "latitude": "41.74327",
+            "longitude": "24.40003"
+        },
+        {
+            "city": "Debelets",
+            "region": "62",
+            "country": "BG",
+            "latitude": "43.03333",
+            "longitude": "25.61667"
+        },
+        {
+            "city": "Chirpan",
+            "region": "59",
+            "country": "BG",
+            "latitude": "42.2",
+            "longitude": "25.33333"
+        },
+        {
+            "city": "Chiprovtsi",
+            "region": "47",
+            "country": "BG",
+            "latitude": "43.38417",
+            "longitude": "22.88083"
+        },
+        {
+            "city": "Cherven Bryag",
+            "region": "50",
+            "country": "BG",
+            "latitude": "43.26667",
+            "longitude": "24.1"
+        },
+        {
+            "city": "Chernomorets",
+            "region": "39",
+            "country": "BG",
+            "latitude": "42.44589",
+            "longitude": "27.63834"
+        },
+        {
+            "city": "Chepelare",
+            "region": "57",
+            "country": "BG",
+            "latitude": "41.73333",
+            "longitude": "24.68333"
+        },
+        {
+            "city": "Chelopech",
+            "region": "58",
+            "country": "BG",
+            "latitude": "42.7",
+            "longitude": "24.08333"
+        },
+        {
+            "city": "Chavdar",
+            "region": "58",
+            "country": "BG",
+            "latitude": "42.65",
+            "longitude": "24.05"
+        },
+        {
+            "city": "Byala Slatina",
+            "region": "64",
+            "country": "BG",
+            "latitude": "43.46667",
+            "longitude": "23.93333"
+        },
+        {
+            "city": "Byala Cherkva",
+            "region": "62",
+            "country": "BG",
+            "latitude": "43.2",
+            "longitude": "25.3"
+        },
+        {
+            "city": "Byala",
+            "region": "61",
+            "country": "BG",
+            "latitude": "42.88333",
+            "longitude": "27.88333"
+        },
+        {
+            "city": "Burgas",
+            "region": "39",
+            "country": "BG",
+            "latitude": "42.50606",
+            "longitude": "27.46781"
+        },
+        {
+            "city": "Bukhovo",
+            "region": "42",
+            "country": "BG",
+            "latitude": "42.76667",
+            "longitude": "23.56667"
+        },
+        {
+            "city": "Brusartsi",
+            "region": "47",
+            "country": "BG",
+            "latitude": "43.66667",
+            "longitude": "23.06667"
+        },
+        {
+            "city": "Brezovo",
+            "region": "51",
+            "country": "BG",
+            "latitude": "42.35",
+            "longitude": "25.08333"
+        },
+        {
+            "city": "Breznik",
+            "region": "49",
+            "country": "BG",
+            "latitude": "42.74139",
+            "longitude": "22.89806"
+        },
+        {
+            "city": "Bregovo",
+            "region": "63",
+            "country": "BG",
+            "latitude": "44.15167",
+            "longitude": "22.6425"
+        },
+        {
+            "city": "Bratsigovo",
+            "region": "48",
+            "country": "BG",
+            "latitude": "42.01667",
+            "longitude": "24.36667"
+        },
+        {
+            "city": "Bozhurishte",
+            "region": "58",
+            "country": "BG",
+            "latitude": "42.75",
+            "longitude": "23.2"
+        },
+        {
+            "city": "Boychinovtsi",
+            "region": "47",
+            "country": "BG",
+            "latitude": "43.47222",
+            "longitude": "23.33583"
+        },
+        {
+            "city": "Bov",
+            "region": "58",
+            "country": "BG",
+            "latitude": "43.0325",
+            "longitude": "23.37806"
+        },
+        {
+            "city": "Botevgrad",
+            "region": "58",
+            "country": "BG",
+            "latitude": "42.9",
+            "longitude": "23.78333"
+        },
+        {
+            "city": "Borovo",
+            "region": "53",
+            "country": "BG",
+            "latitude": "43.5",
+            "longitude": "25.8"
+        },
+        {
+            "city": "Borovan",
+            "region": "64",
+            "country": "BG",
+            "latitude": "43.43333",
+            "longitude": "23.75"
+        },
+        {
+            "city": "Borino",
+            "region": "57",
+            "country": "BG",
+            "latitude": "41.68333",
+            "longitude": "24.28333"
+        },
+        {
+            "city": "Bolyarovo",
+            "region": "65",
+            "country": "BG",
+            "latitude": "42.15",
+            "longitude": "26.81667"
+        },
+        {
+            "city": "Bobovdol",
+            "region": "45",
+            "country": "BG",
+            "latitude": "42.36972",
+            "longitude": "23.01722"
+        },
+        {
+            "city": "Boboshevo",
+            "region": "45",
+            "country": "BG",
+            "latitude": "42.15972",
+            "longitude": "23.01639"
+        },
+        {
+            "city": "Blagoevgrad",
+            "region": "38",
+            "country": "BG",
+            "latitude": "42.01667",
+            "longitude": "23.1"
+        },
+        {
+            "city": "Berkovitsa",
+            "region": "47",
+            "country": "BG",
+            "latitude": "43.23611",
+            "longitude": "23.12583"
+        },
+        {
+            "city": "Belovo",
+            "region": "48",
+            "country": "BG",
+            "latitude": "42.21667",
+            "longitude": "24.01667"
+        },
+        {
+            "city": "Belogradchik",
+            "region": "63",
+            "country": "BG",
+            "latitude": "43.62722",
+            "longitude": "22.68361"
+        },
+        {
+            "city": "Belitsa",
+            "region": "38",
+            "country": "BG",
+            "latitude": "41.95694",
+            "longitude": "23.5725"
+        },
+        {
+            "city": "Belene",
+            "region": "50",
+            "country": "BG",
+            "latitude": "43.65",
+            "longitude": "25.11667"
+        },
+        {
+            "city": "Batak",
+            "region": "48",
+            "country": "BG",
+            "latitude": "41.95",
+            "longitude": "24.21667"
+        },
+        {
+            "city": "Bansko",
+            "region": "38",
+            "country": "BG",
+            "latitude": "41.8383",
+            "longitude": "23.48851"
+        },
+        {
+            "city": "Banite",
+            "region": "57",
+            "country": "BG",
+            "latitude": "41.61667",
+            "longitude": "25.01667"
+        },
+        {
+            "city": "Balchik",
+            "region": "40",
+            "country": "BG",
+            "latitude": "43.41667",
+            "longitude": "28.16667"
+        },
+        {
+            "city": "Aytos",
+            "region": "39",
+            "country": "BG",
+            "latitude": "42.7",
+            "longitude": "27.25"
+        },
+        {
+            "city": "Asenovgrad",
+            "region": "51",
+            "country": "BG",
+            "latitude": "42.01667",
+            "longitude": "24.86667"
+        },
+        {
+            "city": "Asen",
+            "region": "59",
+            "country": "BG",
+            "latitude": "42.65",
+            "longitude": "25.2"
+        },
+        {
+            "city": "Ardino",
+            "region": "44",
+            "country": "BG",
+            "latitude": "41.58333",
+            "longitude": "25.13333"
+        },
+        {
+            "city": "Apriltsi",
+            "region": "46",
+            "country": "BG",
+            "latitude": "42.84142",
+            "longitude": "24.91759"
+        },
+        {
+            "city": "Antonovo",
+            "region": "60",
+            "country": "BG",
+            "latitude": "43.15",
+            "longitude": "26.16667"
+        },
+        {
+            "city": "Anton",
+            "region": "58",
+            "country": "BG",
+            "latitude": "42.75",
+            "longitude": "24.28333"
+        },
+        {
+            "city": "Alfatar",
+            "region": "55",
+            "country": "BG",
+            "latitude": "43.95",
+            "longitude": "27.28333"
+        },
+        {
+            "city": "Aksakovo",
+            "region": "61",
+            "country": "BG",
+            "latitude": "43.25",
+            "longitude": "27.81667"
+        },
+        {
+            "city": "Akhtopol",
+            "region": "39",
+            "country": "BG",
+            "latitude": "42.1",
+            "longitude": "27.95"
+        },
+        {
+            "city": "Zlatni Pyasatsi",
+            "region": "61",
+            "country": "BG",
+            "latitude": "43.285",
+            "longitude": "28.0418"
+        }
+    ]
+}

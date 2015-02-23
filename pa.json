@@ -1,0 +1,1385 @@
+{
+    "country": "Panama",
+    "code": "PA",
+    "cities": [
+        {
+            "city": "Yaviza",
+            "region": "05",
+            "country": "PA",
+            "latitude": "8.1537",
+            "longitude": "-77.69308"
+        },
+        {
+            "city": "Volc\u00e1n",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.76667",
+            "longitude": "-82.63333"
+        },
+        {
+            "city": "Vista Hermosa",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.53333",
+            "longitude": "-80.36667"
+        },
+        {
+            "city": "Vista Alegre",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.93333",
+            "longitude": "-79.7"
+        },
+        {
+            "city": "Villa Rosario",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.78333",
+            "longitude": "-79.86667"
+        },
+        {
+            "city": "Villa Carmen",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.8",
+            "longitude": "-79.86667"
+        },
+        {
+            "city": "Veracruz",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.88333",
+            "longitude": "-79.63333"
+        },
+        {
+            "city": "Ustupo",
+            "region": "09",
+            "country": "PA",
+            "latitude": "9.13333",
+            "longitude": "-77.93333"
+        },
+        {
+            "city": "Tubual\u00e1",
+            "region": "09",
+            "country": "PA",
+            "latitude": "9.51667",
+            "longitude": "-79.03333"
+        },
+        {
+            "city": "Tonos\u00ed",
+            "region": "07",
+            "country": "PA",
+            "latitude": "7.4",
+            "longitude": "-80.45"
+        },
+        {
+            "city": "Tocumen",
+            "region": "08",
+            "country": "PA",
+            "latitude": "9.08333",
+            "longitude": "-79.38333"
+        },
+        {
+            "city": "Tijera",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.46667",
+            "longitude": "-82.55"
+        },
+        {
+            "city": "Sortov\u00e1",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.55",
+            "longitude": "-82.65"
+        },
+        {
+            "city": "Son\u00e1",
+            "region": "10",
+            "country": "PA",
+            "latitude": "8.01667",
+            "longitude": "-81.31667"
+        },
+        {
+            "city": "Siogu\u00ed Arriba",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.53333",
+            "longitude": "-82.68333"
+        },
+        {
+            "city": "Siogu\u00ed Abajo",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.5",
+            "longitude": "-82.66667"
+        },
+        {
+            "city": "San Vicente de Bique",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.91667",
+            "longitude": "-79.68333"
+        },
+        {
+            "city": "Santo Domingo",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.5",
+            "longitude": "-82.71667"
+        },
+        {
+            "city": "Santo Domingo",
+            "region": "07",
+            "country": "PA",
+            "latitude": "7.75",
+            "longitude": "-80.25"
+        },
+        {
+            "city": "Santiago de Veraguas",
+            "region": "10",
+            "country": "PA",
+            "latitude": "8.1",
+            "longitude": "-80.98333"
+        },
+        {
+            "city": "Santa Marta",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.51667",
+            "longitude": "-82.7"
+        },
+        {
+            "city": "Santa Mar\u00eda",
+            "region": "06",
+            "country": "PA",
+            "latitude": "8.11667",
+            "longitude": "-80.66667"
+        },
+        {
+            "city": "Santa F\u00e9",
+            "region": "05",
+            "country": "PA",
+            "latitude": "8.65194",
+            "longitude": "-78.14917"
+        },
+        {
+            "city": "Santa Clara",
+            "region": "08",
+            "country": "PA",
+            "latitude": "9.03528",
+            "longitude": "-79.75222"
+        },
+        {
+            "city": "San Miguelito",
+            "region": "08",
+            "country": "PA",
+            "latitude": "9.03333",
+            "longitude": "-79.5"
+        },
+        {
+            "city": "San Ignacio de Tupile",
+            "region": "09",
+            "country": "PA",
+            "latitude": "9.28333",
+            "longitude": "-78.15"
+        },
+        {
+            "city": "San Francisco",
+            "region": "10",
+            "country": "PA",
+            "latitude": "8.06667",
+            "longitude": "-81.36667"
+        },
+        {
+            "city": "San F\u00e9lix",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.28333",
+            "longitude": "-81.86667"
+        },
+        {
+            "city": "San Andr\u00e9s",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.6",
+            "longitude": "-82.73333"
+        },
+        {
+            "city": "Sabanitas",
+            "region": "04",
+            "country": "PA",
+            "latitude": "9.34222",
+            "longitude": "-79.80111"
+        },
+        {
+            "city": "R\u00edo Sereno",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.81667",
+            "longitude": "-82.86667"
+        },
+        {
+            "city": "R\u00edo Rita",
+            "region": "04",
+            "country": "PA",
+            "latitude": "9.30389",
+            "longitude": "-79.79444"
+        },
+        {
+            "city": "R\u00edo Hato",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.38333",
+            "longitude": "-80.16667"
+        },
+        {
+            "city": "R\u00edo Grande",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.41667",
+            "longitude": "-80.48333"
+        },
+        {
+            "city": "R\u00edo Gat\u00fan",
+            "region": "04",
+            "country": "PA",
+            "latitude": "9.29167",
+            "longitude": "-79.76889"
+        },
+        {
+            "city": "R\u00edo Duque",
+            "region": "04",
+            "country": "PA",
+            "latitude": "9.26667",
+            "longitude": "-79.68333"
+        },
+        {
+            "city": "R\u00edo de Jes\u00fas",
+            "region": "10",
+            "country": "PA",
+            "latitude": "7.98444",
+            "longitude": "-81.16306"
+        },
+        {
+            "city": "R\u00edo Alejandro",
+            "region": "04",
+            "country": "PA",
+            "latitude": "9.37639",
+            "longitude": "-79.79111"
+        },
+        {
+            "city": "Quebrada Canoa",
+            "region": "12",
+            "country": "PA",
+            "latitude": "8.43333",
+            "longitude": "-81.78333"
+        },
+        {
+            "city": "Quebrada Bonita Adentro",
+            "region": "04",
+            "country": "PA",
+            "latitude": "9.3",
+            "longitude": "-79.7"
+        },
+        {
+            "city": "Punta de Burica",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.03333",
+            "longitude": "-82.86667"
+        },
+        {
+            "city": "Puerto Pil\u00f3n",
+            "region": "04",
+            "country": "PA",
+            "latitude": "9.36444",
+            "longitude": "-79.79333"
+        },
+        {
+            "city": "Puerto Escondido",
+            "region": "04",
+            "country": "PA",
+            "latitude": "9.19333",
+            "longitude": "-80.08833"
+        },
+        {
+            "city": "Puerto Caimito",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.86667",
+            "longitude": "-79.71667"
+        },
+        {
+            "city": "Puerto Armuelles",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.28333",
+            "longitude": "-82.86667"
+        },
+        {
+            "city": "Pueblo Viejo",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.25",
+            "longitude": "-81.66667"
+        },
+        {
+            "city": "Pueblo Nuevo",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.56667",
+            "longitude": "-82.41667"
+        },
+        {
+            "city": "Progreso",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.45",
+            "longitude": "-82.83333"
+        },
+        {
+            "city": "Potrero Grande",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.88444",
+            "longitude": "-79.82944"
+        },
+        {
+            "city": "Potrerillos Arriba",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.68333",
+            "longitude": "-82.5"
+        },
+        {
+            "city": "Potrerillos Abajo",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.65",
+            "longitude": "-82.48333"
+        },
+        {
+            "city": "Portobelo",
+            "region": "04",
+            "country": "PA",
+            "latitude": "9.55",
+            "longitude": "-79.65"
+        },
+        {
+            "city": "Pocr\u00ed",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.26667",
+            "longitude": "-80.55"
+        },
+        {
+            "city": "Plaza de Cais\u00e1n",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.73333",
+            "longitude": "-82.81667"
+        },
+        {
+            "city": "Play\u00f3n Chico",
+            "region": "09",
+            "country": "PA",
+            "latitude": "9.3",
+            "longitude": "-78.23333"
+        },
+        {
+            "city": "Pes\u00e9",
+            "region": "06",
+            "country": "PA",
+            "latitude": "7.9",
+            "longitude": "-80.61667"
+        },
+        {
+            "city": "Penonom\u00e9",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.51667",
+            "longitude": "-80.36667"
+        },
+        {
+            "city": "Pedregal",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.36667",
+            "longitude": "-82.43333"
+        },
+        {
+            "city": "Pedas\u00ed",
+            "region": "07",
+            "country": "PA",
+            "latitude": "7.53333",
+            "longitude": "-80.03333"
+        },
+        {
+            "city": "Paso Blanco",
+            "region": "08",
+            "country": "PA",
+            "latitude": "9.13333",
+            "longitude": "-79.23333"
+        },
+        {
+            "city": "Parita",
+            "region": "06",
+            "country": "PA",
+            "latitude": "8",
+            "longitude": "-80.51667"
+        },
+        {
+            "city": "Para\u00edso",
+            "region": "08",
+            "country": "PA",
+            "latitude": "9.03333",
+            "longitude": "-79.63333"
+        },
+        {
+            "city": "Panam\u00e1",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.9936",
+            "longitude": "-79.51973"
+        },
+        {
+            "city": "Palmira",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.71667",
+            "longitude": "-82.45"
+        },
+        {
+            "city": "Palmas Bellas",
+            "region": "04",
+            "country": "PA",
+            "latitude": "9.23194",
+            "longitude": "-80.08667"
+        },
+        {
+            "city": "Pacora",
+            "region": "08",
+            "country": "PA",
+            "latitude": "9.08333",
+            "longitude": "-79.28333"
+        },
+        {
+            "city": "Oc\u00fa",
+            "region": "06",
+            "country": "PA",
+            "latitude": "7.95",
+            "longitude": "-80.78333"
+        },
+        {
+            "city": "Nuevo Vig\u00eda",
+            "region": "04",
+            "country": "PA",
+            "latitude": "9.24472",
+            "longitude": "-79.60861"
+        },
+        {
+            "city": "Nuevo San Juan",
+            "region": "04",
+            "country": "PA",
+            "latitude": "9.22333",
+            "longitude": "-79.66194"
+        },
+        {
+            "city": "Nuevo Emperador",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.99889",
+            "longitude": "-79.72722"
+        },
+        {
+            "city": "Nuevo Arraij\u00e1n",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.91667",
+            "longitude": "-79.71667"
+        },
+        {
+            "city": "Nueva Gorgona",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.55",
+            "longitude": "-79.86667"
+        },
+        {
+            "city": "Nat\u00e1",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.33333",
+            "longitude": "-80.51667"
+        },
+        {
+            "city": "Nargan\u00e1",
+            "region": "09",
+            "country": "PA",
+            "latitude": "9.44278",
+            "longitude": "-78.59056"
+        },
+        {
+            "city": "Mulatupo Sasard\u00ed",
+            "region": "09",
+            "country": "PA",
+            "latitude": "8.94921",
+            "longitude": "-77.76518"
+        },
+        {
+            "city": "Montijo",
+            "region": "10",
+            "country": "PA",
+            "latitude": "7.99222",
+            "longitude": "-81.05444"
+        },
+        {
+            "city": "Monte Lirio",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.78333",
+            "longitude": "-82.83333"
+        },
+        {
+            "city": "Metet\u00ed",
+            "region": "05",
+            "country": "PA",
+            "latitude": "8.4983",
+            "longitude": "-77.9786"
+        },
+        {
+            "city": "Mata del Nance",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.45",
+            "longitude": "-82.4"
+        },
+        {
+            "city": "Mar\u00eda Chiquita",
+            "region": "04",
+            "country": "PA",
+            "latitude": "9.44306",
+            "longitude": "-79.75583"
+        },
+        {
+            "city": "Margarita",
+            "region": "04",
+            "country": "PA",
+            "latitude": "9.33139",
+            "longitude": "-79.88889"
+        },
+        {
+            "city": "Macaracas",
+            "region": "07",
+            "country": "PA",
+            "latitude": "7.73333",
+            "longitude": "-80.55"
+        },
+        {
+            "city": "Los Santos",
+            "region": "07",
+            "country": "PA",
+            "latitude": "7.93333",
+            "longitude": "-80.41667"
+        },
+        {
+            "city": "Los Lotes",
+            "region": "08",
+            "country": "PA",
+            "latitude": "9.13333",
+            "longitude": "-79.3"
+        },
+        {
+            "city": "Los Boquerones",
+            "region": "10",
+            "country": "PA",
+            "latitude": "8.08333",
+            "longitude": "-80.85"
+        },
+        {
+            "city": "Los Anastacios",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.53333",
+            "longitude": "-82.41667"
+        },
+        {
+            "city": "Los Algarrobos",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.5",
+            "longitude": "-82.43333"
+        },
+        {
+            "city": "Los Algarrobos",
+            "region": "10",
+            "country": "PA",
+            "latitude": "8.11667",
+            "longitude": "-81.01667"
+        },
+        {
+            "city": "Llano Mar\u00edn",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.5",
+            "longitude": "-80.33333"
+        },
+        {
+            "city": "Llano Largo",
+            "region": "07",
+            "country": "PA",
+            "latitude": "7.9",
+            "longitude": "-80.43333"
+        },
+        {
+            "city": "Llano de Piedra",
+            "region": "07",
+            "country": "PA",
+            "latitude": "7.66667",
+            "longitude": "-80.56667"
+        },
+        {
+            "city": "L\u00eddice",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.75",
+            "longitude": "-79.9"
+        },
+        {
+            "city": "La Victoria",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.45",
+            "longitude": "-82.25"
+        },
+        {
+            "city": "La Tiza",
+            "region": "07",
+            "country": "PA",
+            "latitude": "7.75",
+            "longitude": "-80.28333"
+        },
+        {
+            "city": "Las Tablas",
+            "region": "07",
+            "country": "PA",
+            "latitude": "7.76667",
+            "longitude": "-80.28333"
+        },
+        {
+            "city": "Las Palmas",
+            "region": "10",
+            "country": "PA",
+            "latitude": "8.13333",
+            "longitude": "-81.45"
+        },
+        {
+            "city": "Las Minas",
+            "region": "06",
+            "country": "PA",
+            "latitude": "7.8",
+            "longitude": "-80.75"
+        },
+        {
+            "city": "Las Lomas",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.5",
+            "longitude": "-80.38333"
+        },
+        {
+            "city": "Las Lomas",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.43333",
+            "longitude": "-82.4"
+        },
+        {
+            "city": "Las Cumbres",
+            "region": "08",
+            "country": "PA",
+            "latitude": "9.08333",
+            "longitude": "-79.53333"
+        },
+        {
+            "city": "Las Colinas",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.55",
+            "longitude": "-80.08333"
+        },
+        {
+            "city": "La Pintada",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.6",
+            "longitude": "-80.45"
+        },
+        {
+            "city": "La Pe\u00f1a",
+            "region": "10",
+            "country": "PA",
+            "latitude": "8.13333",
+            "longitude": "-81.03333"
+        },
+        {
+            "city": "La Palma",
+            "region": "05",
+            "country": "PA",
+            "latitude": "8.40278",
+            "longitude": "-78.14528"
+        },
+        {
+            "city": "La Palma",
+            "region": "07",
+            "country": "PA",
+            "latitude": "7.71667",
+            "longitude": "-80.38333"
+        },
+        {
+            "city": "La Mitra",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.84222",
+            "longitude": "-79.78667"
+        },
+        {
+            "city": "La Mesa",
+            "region": "08",
+            "country": "PA",
+            "latitude": "9.18333",
+            "longitude": "-79.26667"
+        },
+        {
+            "city": "La Mesa",
+            "region": "10",
+            "country": "PA",
+            "latitude": "8.15",
+            "longitude": "-81.18333"
+        },
+        {
+            "city": "La Loma",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.16667",
+            "longitude": "-80.63333"
+        },
+        {
+            "city": "La Herradura",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.85222",
+            "longitude": "-79.80722"
+        },
+        {
+            "city": "La Espigadilla",
+            "region": "07",
+            "country": "PA",
+            "latitude": "7.88333",
+            "longitude": "-80.38333"
+        },
+        {
+            "city": "La Esperanza",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.4",
+            "longitude": "-82.8"
+        },
+        {
+            "city": "La Concepci\u00f3n",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.51667",
+            "longitude": "-82.61667"
+        },
+        {
+            "city": "La Colorada",
+            "region": "10",
+            "country": "PA",
+            "latitude": "8.01667",
+            "longitude": "-80.98333"
+        },
+        {
+            "city": "La Chorrera",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.88028",
+            "longitude": "-79.78333"
+        },
+        {
+            "city": "La Cabima",
+            "region": "08",
+            "country": "PA",
+            "latitude": "9.13333",
+            "longitude": "-79.53333"
+        },
+        {
+            "city": "Juan D\u00edaz",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.46667",
+            "longitude": "-80.28333"
+        },
+        {
+            "city": "Jaqu\u00e9",
+            "region": "05",
+            "country": "PA",
+            "latitude": "7.5175",
+            "longitude": "-78.17028"
+        },
+        {
+            "city": "Guarumal",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.35",
+            "longitude": "-82.53333"
+        },
+        {
+            "city": "Guarar\u00e9",
+            "region": "07",
+            "country": "PA",
+            "latitude": "7.81667",
+            "longitude": "-80.28333"
+        },
+        {
+            "city": "Gualaca",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.53333",
+            "longitude": "-82.3"
+        },
+        {
+            "city": "Guadalupe",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.85583",
+            "longitude": "-79.81333"
+        },
+        {
+            "city": "Guabito",
+            "region": "01",
+            "country": "PA",
+            "latitude": "9.5",
+            "longitude": "-82.61667"
+        },
+        {
+            "city": "G\u00f3mez",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.56667",
+            "longitude": "-82.73333"
+        },
+        {
+            "city": "Garachin\u00e9",
+            "region": "05",
+            "country": "PA",
+            "latitude": "8.06472",
+            "longitude": "-78.36278"
+        },
+        {
+            "city": "Finca Corredor",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.35",
+            "longitude": "-82.85"
+        },
+        {
+            "city": "Finca Blanco N\u00famero Uno",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.38333",
+            "longitude": "-82.86667"
+        },
+        {
+            "city": "Escobal",
+            "region": "04",
+            "country": "PA",
+            "latitude": "9.14722",
+            "longitude": "-79.96194"
+        },
+        {
+            "city": "El Roble",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.16667",
+            "longitude": "-80.65"
+        },
+        {
+            "city": "El Rinc\u00f3n",
+            "region": "06",
+            "country": "PA",
+            "latitude": "8.12083",
+            "longitude": "-80.61583"
+        },
+        {
+            "city": "El Quite\u00f1o",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.46667",
+            "longitude": "-82.4"
+        },
+        {
+            "city": "El Progreso",
+            "region": "08",
+            "country": "PA",
+            "latitude": "9.26667",
+            "longitude": "-79.11667"
+        },
+        {
+            "city": "El Porvenir",
+            "region": "09",
+            "country": "PA",
+            "latitude": "9.56528",
+            "longitude": "-78.95333"
+        },
+        {
+            "city": "El Giral",
+            "region": "04",
+            "country": "PA",
+            "latitude": "9.24917",
+            "longitude": "-79.69278"
+        },
+        {
+            "city": "El Espino de Santa Rosa",
+            "region": "10",
+            "country": "PA",
+            "latitude": "8.1",
+            "longitude": "-80.81667"
+        },
+        {
+            "city": "El Espino",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.83944",
+            "longitude": "-79.85"
+        },
+        {
+            "city": "El Entradero",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.56667",
+            "longitude": "-80.21667"
+        },
+        {
+            "city": "El Ejido",
+            "region": "07",
+            "country": "PA",
+            "latitude": "7.91667",
+            "longitude": "-80.38333"
+        },
+        {
+            "city": "El Cristo",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.25",
+            "longitude": "-80.61667"
+        },
+        {
+            "city": "El Cortezo",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.35",
+            "longitude": "-80.6"
+        },
+        {
+            "city": "El Cop\u00e9",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.61667",
+            "longitude": "-80.6"
+        },
+        {
+            "city": "El Coco",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.87028",
+            "longitude": "-79.815"
+        },
+        {
+            "city": "El Coco",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.4",
+            "longitude": "-80.35"
+        },
+        {
+            "city": "El Ca\u00f1o",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.4",
+            "longitude": "-80.51667"
+        },
+        {
+            "city": "Dolega",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.56667",
+            "longitude": "-82.41667"
+        },
+        {
+            "city": "Dival\u00e1",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.41667",
+            "longitude": "-82.71667"
+        },
+        {
+            "city": "David",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.42729",
+            "longitude": "-82.43085"
+        },
+        {
+            "city": "Cusap\u00edn",
+            "region": "12",
+            "country": "PA",
+            "latitude": "9.18333",
+            "longitude": "-81.9"
+        },
+        {
+            "city": "Col\u00f3n",
+            "region": "04",
+            "country": "PA",
+            "latitude": "9.35917",
+            "longitude": "-79.90139"
+        },
+        {
+            "city": "Cocl\u00e9",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.45",
+            "longitude": "-80.43333"
+        },
+        {
+            "city": "Churuquita Grande",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.6",
+            "longitude": "-80.26667"
+        },
+        {
+            "city": "Churuquita Chiquita",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.56667",
+            "longitude": "-80.28333"
+        },
+        {
+            "city": "Chitr\u00e9",
+            "region": "06",
+            "country": "PA",
+            "latitude": "7.96667",
+            "longitude": "-80.43333"
+        },
+        {
+            "city": "Chiriqu\u00ed Grande",
+            "region": "01",
+            "country": "PA",
+            "latitude": "8.95",
+            "longitude": "-82.11667"
+        },
+        {
+            "city": "Chiriqu\u00ed",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.4",
+            "longitude": "-82.31667"
+        },
+        {
+            "city": "Chilibre",
+            "region": "08",
+            "country": "PA",
+            "latitude": "9.15",
+            "longitude": "-79.61667"
+        },
+        {
+            "city": "Chigor\u00e9",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.53333",
+            "longitude": "-80.35"
+        },
+        {
+            "city": "Chepo",
+            "region": "08",
+            "country": "PA",
+            "latitude": "9.16667",
+            "longitude": "-79.1"
+        },
+        {
+            "city": "Changuinola",
+            "region": "01",
+            "country": "PA",
+            "latitude": "9.43333",
+            "longitude": "-82.51667"
+        },
+        {
+            "city": "Chame",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.58333",
+            "longitude": "-79.88333"
+        },
+        {
+            "city": "Cerro Punta",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.85",
+            "longitude": "-82.56667"
+        },
+        {
+            "city": "Cerro Cama",
+            "region": "08",
+            "country": "PA",
+            "latitude": "9.03",
+            "longitude": "-79.905"
+        },
+        {
+            "city": "Cerro Azul",
+            "region": "08",
+            "country": "PA",
+            "latitude": "9.16667",
+            "longitude": "-79.41667"
+        },
+        {
+            "city": "Cativ\u00e1",
+            "region": "04",
+            "country": "PA",
+            "latitude": "9.36056",
+            "longitude": "-79.84361"
+        },
+        {
+            "city": "Cart\u00ed Suitupo",
+            "region": "09",
+            "country": "PA",
+            "latitude": "9.47417",
+            "longitude": "-78.96667"
+        },
+        {
+            "city": "Capira",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.75",
+            "longitude": "-79.88333"
+        },
+        {
+            "city": "Capellan\u00eda",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.3",
+            "longitude": "-80.55"
+        },
+        {
+            "city": "Ca\u00f1ita",
+            "region": "08",
+            "country": "PA",
+            "latitude": "9.20972",
+            "longitude": "-78.88111"
+        },
+        {
+            "city": "Ca\u00f1azas",
+            "region": "10",
+            "country": "PA",
+            "latitude": "8.31667",
+            "longitude": "-81.21667"
+        },
+        {
+            "city": "Calzada Larga",
+            "region": "08",
+            "country": "PA",
+            "latitude": "9.16667",
+            "longitude": "-79.56667"
+        },
+        {
+            "city": "Caimitillo",
+            "region": "08",
+            "country": "PA",
+            "latitude": "9.15",
+            "longitude": "-79.53333"
+        },
+        {
+            "city": "Cabra",
+            "region": "08",
+            "country": "PA",
+            "latitude": "9.11667",
+            "longitude": "-79.31667"
+        },
+        {
+            "city": "Bugaba",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.48333",
+            "longitude": "-82.61667"
+        },
+        {
+            "city": "Buena Vista",
+            "region": "04",
+            "country": "PA",
+            "latitude": "9.27472",
+            "longitude": "-79.69528"
+        },
+        {
+            "city": "Boquete",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.78333",
+            "longitude": "-82.43333"
+        },
+        {
+            "city": "Boquer\u00f3n",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.5",
+            "longitude": "-82.56667"
+        },
+        {
+            "city": "Bocas del Toro",
+            "region": "01",
+            "country": "PA",
+            "latitude": "9.33333",
+            "longitude": "-82.25"
+        },
+        {
+            "city": "Boca de Parita",
+            "region": "06",
+            "country": "PA",
+            "latitude": "8.01667",
+            "longitude": "-80.45"
+        },
+        {
+            "city": "Bella Vista",
+            "region": "07",
+            "country": "PA",
+            "latitude": "7.75",
+            "longitude": "-80.23333"
+        },
+        {
+            "city": "Bejuco",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.6",
+            "longitude": "-79.88333"
+        },
+        {
+            "city": "Isla Bastimentos",
+            "region": "01",
+            "country": "PA",
+            "latitude": "9.3",
+            "longitude": "-82.13333"
+        },
+        {
+            "city": "Barranco",
+            "region": "01",
+            "country": "PA",
+            "latitude": "9.51667",
+            "longitude": "-82.7"
+        },
+        {
+            "city": "Atalaya",
+            "region": "10",
+            "country": "PA",
+            "latitude": "8.05",
+            "longitude": "-80.93333"
+        },
+        {
+            "city": "Aserr\u00edo de Garich\u00e9",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.48333",
+            "longitude": "-82.8"
+        },
+        {
+            "city": "Arraij\u00e1n",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.95",
+            "longitude": "-79.65"
+        },
+        {
+            "city": "Ant\u00f3n",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.4",
+            "longitude": "-80.26667"
+        },
+        {
+            "city": "Anc\u00f3n",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.96667",
+            "longitude": "-79.55"
+        },
+        {
+            "city": "Alto del Espino",
+            "region": "08",
+            "country": "PA",
+            "latitude": "8.83333",
+            "longitude": "-79.85"
+        },
+        {
+            "city": "Alto de la Estancia",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.6",
+            "longitude": "-80.16667"
+        },
+        {
+            "city": "Almirante",
+            "region": "01",
+            "country": "PA",
+            "latitude": "9.3",
+            "longitude": "-82.4"
+        },
+        {
+            "city": "Alcalded\u00edaz",
+            "region": "08",
+            "country": "PA",
+            "latitude": "9.11667",
+            "longitude": "-79.55"
+        },
+        {
+            "city": "Alanje",
+            "region": "02",
+            "country": "PA",
+            "latitude": "8.4",
+            "longitude": "-82.55"
+        },
+        {
+            "city": "Ailigand\u00ed",
+            "region": "09",
+            "country": "PA",
+            "latitude": "9.23333",
+            "longitude": "-78.01667"
+        },
+        {
+            "city": "Aguadulce",
+            "region": "03",
+            "country": "PA",
+            "latitude": "8.25",
+            "longitude": "-80.55"
+        },
+        {
+            "city": "Agua Buena",
+            "region": "07",
+            "country": "PA",
+            "latitude": "7.81667",
+            "longitude": "-80.4"
+        },
+        {
+            "city": "Achutupo N\u00famero Dos",
+            "region": "09",
+            "country": "PA",
+            "latitude": "9.2",
+            "longitude": "-77.98333"
+        },
+        {
+            "city": "Santa Rita Arriba",
+            "region": "04",
+            "country": "PA",
+            "latitude": "9.33778",
+            "longitude": "-79.78"
+        }
+    ]
+}

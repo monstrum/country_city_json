@@ -1,0 +1,202 @@
+{
+    "country": "Cambodia",
+    "code": "KH",
+    "cities": [
+        {
+            "city": "Phnom Penh",
+            "region": "22",
+            "country": "KH",
+            "latitude": "11.56245",
+            "longitude": "104.91601"
+        },
+        {
+            "city": "Ta Khmau",
+            "region": "07",
+            "country": "KH",
+            "latitude": "11.48333",
+            "longitude": "104.95"
+        },
+        {
+            "city": "Tak\u00eav",
+            "region": "19",
+            "country": "KH",
+            "latitude": "10.98333",
+            "longitude": "104.78333"
+        },
+        {
+            "city": "Svay Ri\u0115ng",
+            "region": "18",
+            "country": "KH",
+            "latitude": "11.08785",
+            "longitude": "105.79935"
+        },
+        {
+            "city": "St\u0153\u0306ng Tr\u00eang",
+            "region": "17",
+            "country": "KH",
+            "latitude": "13.52586",
+            "longitude": "105.9683"
+        },
+        {
+            "city": "Sis\u014fph\u014fn",
+            "region": "25",
+            "country": "KH",
+            "latitude": "13.58588",
+            "longitude": "102.97369"
+        },
+        {
+            "city": "Si\u0115mr\u00e9ab",
+            "region": "24",
+            "country": "KH",
+            "latitude": "13.36667",
+            "longitude": "103.85"
+        },
+        {
+            "city": "S\u00eanm\u00f4no\u016dr\u00f4m",
+            "region": "10",
+            "country": "KH",
+            "latitude": "12.45",
+            "longitude": "107.2"
+        },
+        {
+            "city": "S\u00e2mra\u00f4ng",
+            "region": "27",
+            "country": "KH",
+            "latitude": "12.45262",
+            "longitude": "105.58726"
+        },
+        {
+            "city": "Prey V\u00eang",
+            "region": "14",
+            "country": "KH",
+            "latitude": "11.48682",
+            "longitude": "105.32533"
+        },
+        {
+            "city": "Pursat",
+            "region": "12",
+            "country": "KH",
+            "latitude": "12.53878",
+            "longitude": "103.9192"
+        },
+        {
+            "city": "Phum\u012d V\u00e9al Sr\u00ea",
+            "region": "19",
+            "country": "KH",
+            "latitude": "10.98081",
+            "longitude": "104.77828"
+        },
+        {
+            "city": "Phnum Tb\u00eang M\u00e9anchey",
+            "region": "13",
+            "country": "KH",
+            "latitude": "13.81667",
+            "longitude": "104.96667"
+        },
+        {
+            "city": "Pa\u00f4y P\u00eat",
+            "region": "25",
+            "country": "KH",
+            "latitude": "13.65611",
+            "longitude": "102.5625"
+        },
+        {
+            "city": "Pail\u012dn",
+            "region": "30",
+            "country": "KH",
+            "latitude": "12.84895",
+            "longitude": "102.60928"
+        },
+        {
+            "city": "Lumph\u0103t",
+            "region": "23",
+            "country": "KH",
+            "latitude": "13.48784",
+            "longitude": "106.98158"
+        },
+        {
+            "city": "Kr\u014fng K\u00eab",
+            "region": "26",
+            "country": "KH",
+            "latitude": "10.48333",
+            "longitude": "104.31667"
+        },
+        {
+            "city": "Kr\u014fng Ka\u00f4h K\u014fng",
+            "region": "08",
+            "country": "KH",
+            "latitude": "11.6175",
+            "longitude": "102.98056"
+        },
+        {
+            "city": "Krati\u00e9",
+            "region": "09",
+            "country": "KH",
+            "latitude": "12.48811",
+            "longitude": "106.01879"
+        },
+        {
+            "city": "K\u00e2mp\u00f4t",
+            "region": "21",
+            "country": "KH",
+            "latitude": "10.61667",
+            "longitude": "104.18333"
+        },
+        {
+            "city": "K\u00e2mp\u00f3ng Thum",
+            "region": "05",
+            "country": "KH",
+            "latitude": "12.71112",
+            "longitude": "104.88873"
+        },
+        {
+            "city": "K\u00e2mp\u00f3ng Sp\u0153",
+            "region": "04",
+            "country": "KH",
+            "latitude": "11.45",
+            "longitude": "104.53333"
+        },
+        {
+            "city": "Sihanoukville",
+            "region": "28",
+            "country": "KH",
+            "latitude": "10.60932",
+            "longitude": "103.52958"
+        },
+        {
+            "city": "K\u00e2mp\u00f3ng Chhn\u0103ng",
+            "region": "03",
+            "country": "KH",
+            "latitude": "12.25",
+            "longitude": "104.66667"
+        },
+        {
+            "city": "K\u00e2mp\u00f3ng Cham",
+            "region": "02",
+            "country": "KH",
+            "latitude": "11.99339",
+            "longitude": "105.4635"
+        },
+        {
+            "city": "B\u0103td\u00e2mb\u00e2ng",
+            "region": "29",
+            "country": "KH",
+            "latitude": "13.10271",
+            "longitude": "103.19822"
+        },
+        {
+            "city": "Sen monorom",
+            "region": "10",
+            "country": "KH",
+            "latitude": "12.44756",
+            "longitude": "107.24768"
+        },
+        {
+            "city": "Banlung",
+            "region": "23",
+            "country": "KH",
+            "latitude": "13.7468",
+            "longitude": "107.00452"
+        }
+    ]
+}

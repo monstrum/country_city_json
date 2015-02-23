@@ -1,0 +1,202 @@
+{
+    "country": "New Caledonia",
+    "code": "NC",
+    "cities": [
+        {
+            "city": "Yat\u00e9-Barrage",
+            "region": "00",
+            "country": "NC",
+            "latitude": "-22.15",
+            "longitude": "166.88333"
+        },
+        {
+            "city": "W\u00e9",
+            "region": "03",
+            "country": "NC",
+            "latitude": "-20.91687",
+            "longitude": "167.26461"
+        },
+        {
+            "city": "Voh",
+            "region": "01",
+            "country": "NC",
+            "latitude": "-20.96667",
+            "longitude": "164.7"
+        },
+        {
+            "city": "Vao",
+            "region": "00",
+            "country": "NC",
+            "latitude": "-22.66667",
+            "longitude": "167.48333"
+        },
+        {
+            "city": "Touho",
+            "region": "01",
+            "country": "NC",
+            "latitude": "-20.78333",
+            "longitude": "165.23333"
+        },
+        {
+            "city": "Thio",
+            "region": "02",
+            "country": "NC",
+            "latitude": "-21.61667",
+            "longitude": "166.21667"
+        },
+        {
+            "city": "Tadine",
+            "region": "00",
+            "country": "NC",
+            "latitude": "-21.55",
+            "longitude": "167.88333"
+        },
+        {
+            "city": "Poya",
+            "region": "01",
+            "country": "NC",
+            "latitude": "-21.35",
+            "longitude": "165.15"
+        },
+        {
+            "city": "Poum",
+            "region": "01",
+            "country": "NC",
+            "latitude": "-20.23333",
+            "longitude": "164.01667"
+        },
+        {
+            "city": "Pouembout",
+            "region": "01",
+            "country": "NC",
+            "latitude": "-21.13333",
+            "longitude": "164.9"
+        },
+        {
+            "city": "Pou\u00e9bo",
+            "region": "01",
+            "country": "NC",
+            "latitude": "-20.4",
+            "longitude": "164.56667"
+        },
+        {
+            "city": "Pon\u00e9rihouen",
+            "region": "01",
+            "country": "NC",
+            "latitude": "-21.08333",
+            "longitude": "165.4"
+        },
+        {
+            "city": "Poindimi\u00e9",
+            "region": "01",
+            "country": "NC",
+            "latitude": "-20.93333",
+            "longitude": "165.33333"
+        },
+        {
+            "city": "Pa\u00efta",
+            "region": "02",
+            "country": "NC",
+            "latitude": "-22.13333",
+            "longitude": "166.36667"
+        },
+        {
+            "city": "Ou\u00e9goa",
+            "region": "01",
+            "country": "NC",
+            "latitude": "-20.35",
+            "longitude": "164.43333"
+        },
+        {
+            "city": "Noum\u00e9a",
+            "region": "02",
+            "country": "NC",
+            "latitude": "-22.27631",
+            "longitude": "166.4572"
+        },
+        {
+            "city": "Mont-Dore",
+            "region": "00",
+            "country": "NC",
+            "latitude": "-22.28333",
+            "longitude": "166.58333"
+        },
+        {
+            "city": "La Foa",
+            "region": "02",
+            "country": "NC",
+            "latitude": "-21.71079",
+            "longitude": "165.82764"
+        },
+        {
+            "city": "Koumac",
+            "region": "01",
+            "country": "NC",
+            "latitude": "-20.56667",
+            "longitude": "164.28333"
+        },
+        {
+            "city": "Kon\u00e9",
+            "region": "01",
+            "country": "NC",
+            "latitude": "-21.05951",
+            "longitude": "164.86582"
+        },
+        {
+            "city": "Kaala-Gom\u00e9n",
+            "region": "01",
+            "country": "NC",
+            "latitude": "-20.66667",
+            "longitude": "164.4"
+        },
+        {
+            "city": "Houa\u00eflou",
+            "region": "01",
+            "country": "NC",
+            "latitude": "-21.28333",
+            "longitude": "165.61667"
+        },
+        {
+            "city": "Hiengh\u00e8ne",
+            "region": "01",
+            "country": "NC",
+            "latitude": "-20.68333",
+            "longitude": "164.93333"
+        },
+        {
+            "city": "Fayaou\u00e9",
+            "region": "00",
+            "country": "NC",
+            "latitude": "-20.65",
+            "longitude": "166.53333"
+        },
+        {
+            "city": "Dumb\u00e9a",
+            "region": "02",
+            "country": "NC",
+            "latitude": "-22.15",
+            "longitude": "166.45"
+        },
+        {
+            "city": "Canala",
+            "region": "01",
+            "country": "NC",
+            "latitude": "-21.53333",
+            "longitude": "165.95"
+        },
+        {
+            "city": "Bourail",
+            "region": "02",
+            "country": "NC",
+            "latitude": "-21.56667",
+            "longitude": "165.48333"
+        },
+        {
+            "city": "Bouloupari",
+            "region": "02",
+            "country": "NC",
+            "latitude": "-21.86667",
+            "longitude": "166.05"
+        }
+    ]
+}

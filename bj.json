@@ -1,0 +1,223 @@
+{
+    "country": "Benin",
+    "code": "BJ",
+    "cities": [
+        {
+            "city": "Tchaourou",
+            "region": "00",
+            "country": "BJ",
+            "latitude": "8.88649",
+            "longitude": "2.59752"
+        },
+        {
+            "city": "Tangui\u00e9ta",
+            "region": "08",
+            "country": "BJ",
+            "latitude": "10.62118",
+            "longitude": "1.26651"
+        },
+        {
+            "city": "Sav\u00e9",
+            "region": "00",
+            "country": "BJ",
+            "latitude": "8.04253",
+            "longitude": "2.48599"
+        },
+        {
+            "city": "Savalou",
+            "region": "11",
+            "country": "BJ",
+            "latitude": "7.92807",
+            "longitude": "1.97558"
+        },
+        {
+            "city": "Sak\u00e9t\u00e9",
+            "region": "17",
+            "country": "BJ",
+            "latitude": "6.73618",
+            "longitude": "2.65866"
+        },
+        {
+            "city": "Porto-Novo",
+            "region": "16",
+            "country": "BJ",
+            "latitude": "6.49646",
+            "longitude": "2.60359"
+        },
+        {
+            "city": "Pob\u00e9",
+            "region": "00",
+            "country": "BJ",
+            "latitude": "6.98008",
+            "longitude": "2.6649"
+        },
+        {
+            "city": "Parakou",
+            "region": "10",
+            "country": "BJ",
+            "latitude": "9.33716",
+            "longitude": "2.63031"
+        },
+        {
+            "city": "Ouidah",
+            "region": "09",
+            "country": "BJ",
+            "latitude": "6.36307",
+            "longitude": "2.08506"
+        },
+        {
+            "city": "Nikki",
+            "region": "10",
+            "country": "BJ",
+            "latitude": "9.94009",
+            "longitude": "3.21075"
+        },
+        {
+            "city": "Natitingou",
+            "region": "08",
+            "country": "BJ",
+            "latitude": "10.30416",
+            "longitude": "1.37962"
+        },
+        {
+            "city": "Malanville",
+            "region": "08",
+            "country": "BJ",
+            "latitude": "11.86846",
+            "longitude": "3.38989"
+        },
+        {
+            "city": "Lokossa",
+            "region": "15",
+            "country": "BJ",
+            "latitude": "6.63869",
+            "longitude": "1.71674"
+        },
+        {
+            "city": "K\u00e9tou",
+            "region": "00",
+            "country": "BJ",
+            "latitude": "7.36332",
+            "longitude": "2.59978"
+        },
+        {
+            "city": "Kandi",
+            "region": "07",
+            "country": "BJ",
+            "latitude": "11.13417",
+            "longitude": "2.93861"
+        },
+        {
+            "city": "Grand-Popo",
+            "region": "00",
+            "country": "BJ",
+            "latitude": "6.28036",
+            "longitude": "1.82251"
+        },
+        {
+            "city": "Dogbo",
+            "region": "12",
+            "country": "BJ",
+            "latitude": "6.81667",
+            "longitude": "1.78333"
+        },
+        {
+            "city": "Djougou",
+            "region": "13",
+            "country": "BJ",
+            "latitude": "9.70853",
+            "longitude": "1.66598"
+        },
+        {
+            "city": "Dassa-Zoum\u00e9",
+            "region": "00",
+            "country": "BJ",
+            "latitude": "7.75",
+            "longitude": "2.18333"
+        },
+        {
+            "city": "Cov\u00e9",
+            "region": "00",
+            "country": "BJ",
+            "latitude": "7.22097",
+            "longitude": "2.34017"
+        },
+        {
+            "city": "Cotonou",
+            "region": "14",
+            "country": "BJ",
+            "latitude": "6.36536",
+            "longitude": "2.41833"
+        },
+        {
+            "city": "Com\u00e9",
+            "region": "00",
+            "country": "BJ",
+            "latitude": "6.40764",
+            "longitude": "1.88198"
+        },
+        {
+            "city": "Bohicon",
+            "region": "00",
+            "country": "BJ",
+            "latitude": "7.17826",
+            "longitude": "2.0667"
+        },
+        {
+            "city": "B\u00e9t\u00e9rou",
+            "region": "00",
+            "country": "BJ",
+            "latitude": "9.19916",
+            "longitude": "2.25855"
+        },
+        {
+            "city": "Bemb\u00e8r\u00e8k\u00e8",
+            "region": "10",
+            "country": "BJ",
+            "latitude": "10.22827",
+            "longitude": "2.66335"
+        },
+        {
+            "city": "Bassila",
+            "region": "00",
+            "country": "BJ",
+            "latitude": "9.00814",
+            "longitude": "1.6654"
+        },
+        {
+            "city": "Banikoara",
+            "region": "07",
+            "country": "BJ",
+            "latitude": "11.29845",
+            "longitude": "2.43856"
+        },
+        {
+            "city": "Aplahou\u00e9",
+            "region": "00",
+            "country": "BJ",
+            "latitude": "6.93333",
+            "longitude": "1.68333"
+        },
+        {
+            "city": "Allada",
+            "region": "00",
+            "country": "BJ",
+            "latitude": "6.66547",
+            "longitude": "2.15138"
+        },
+        {
+            "city": "Abomey-Calavi",
+            "region": "00",
+            "country": "BJ",
+            "latitude": "6.44852",
+            "longitude": "2.35566"
+        },
+        {
+            "city": "Abomey",
+            "region": "18",
+            "country": "BJ",
+            "latitude": "7.18286",
+            "longitude": "1.99119"
+        }
+    ]
+}

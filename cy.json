@@ -1,0 +1,545 @@
+{
+    "country": "Cyprus",
+    "code": "CY",
+    "cities": [
+        {
+            "city": "Protaras",
+            "region": "01",
+            "country": "CY",
+            "latitude": "35.0125",
+            "longitude": "34.05833"
+        },
+        {
+            "city": "Ypsonas",
+            "region": "05",
+            "country": "CY",
+            "latitude": "34.68844",
+            "longitude": "32.95743"
+        },
+        {
+            "city": "Yeri",
+            "region": "04",
+            "country": "CY",
+            "latitude": "35.1",
+            "longitude": "33.41667"
+        },
+        {
+            "city": "Xeri",
+            "region": "04",
+            "country": "CY",
+            "latitude": "35.075",
+            "longitude": "33.32083"
+        },
+        {
+            "city": "Voroklini",
+            "region": "03",
+            "country": "CY",
+            "latitude": "34.98333",
+            "longitude": "33.65833"
+        },
+        {
+            "city": "Troulli",
+            "region": "03",
+            "country": "CY",
+            "latitude": "35.03333",
+            "longitude": "33.61667"
+        },
+        {
+            "city": "Trikomo",
+            "region": "01",
+            "country": "CY",
+            "latitude": "35.2875",
+            "longitude": "33.89167"
+        },
+        {
+            "city": "Tersephanou",
+            "region": "03",
+            "country": "CY",
+            "latitude": "34.85417",
+            "longitude": "33.54583"
+        },
+        {
+            "city": "Tala",
+            "region": "06",
+            "country": "CY",
+            "latitude": "34.8375",
+            "longitude": "32.43333"
+        },
+        {
+            "city": "Sotira",
+            "region": "05",
+            "country": "CY",
+            "latitude": "34.72917",
+            "longitude": "32.8625"
+        },
+        {
+            "city": "Rizokarpaso",
+            "region": "01",
+            "country": "CY",
+            "latitude": "35.6",
+            "longitude": "34.375"
+        },
+        {
+            "city": "Pyrgos",
+            "region": "03",
+            "country": "CY",
+            "latitude": "34.74167",
+            "longitude": "33.18333"
+        },
+        {
+            "city": "Pyla",
+            "region": "03",
+            "country": "CY",
+            "latitude": "35.02917",
+            "longitude": "33.69167"
+        },
+        {
+            "city": "Psomolophou",
+            "region": "00",
+            "country": "CY",
+            "latitude": "35.0625",
+            "longitude": "33.2625"
+        },
+        {
+            "city": "Psevdhas",
+            "region": "03",
+            "country": "CY",
+            "latitude": "34.95",
+            "longitude": "33.4625"
+        },
+        {
+            "city": "Polis",
+            "region": "06",
+            "country": "CY",
+            "latitude": "35.03667",
+            "longitude": "32.42639"
+        },
+        {
+            "city": "Pissouri",
+            "region": "05",
+            "country": "CY",
+            "latitude": "34.67083",
+            "longitude": "32.70833"
+        },
+        {
+            "city": "Phrenaros",
+            "region": "01",
+            "country": "CY",
+            "latitude": "35.04167",
+            "longitude": "33.925"
+        },
+        {
+            "city": "Peyia",
+            "region": "06",
+            "country": "CY",
+            "latitude": "34.88333",
+            "longitude": "32.38333"
+        },
+        {
+            "city": "Perivolia",
+            "region": "03",
+            "country": "CY",
+            "latitude": "34.82917",
+            "longitude": "33.58333"
+        },
+        {
+            "city": "Peristerona",
+            "region": "04",
+            "country": "CY",
+            "latitude": "35.13333",
+            "longitude": "33.07917"
+        },
+        {
+            "city": "Pera",
+            "region": "04",
+            "country": "CY",
+            "latitude": "35.03333",
+            "longitude": "33.25"
+        },
+        {
+            "city": "Pelendria",
+            "region": "05",
+            "country": "CY",
+            "latitude": "34.9",
+            "longitude": "32.96667"
+        },
+        {
+            "city": "Parekklisha",
+            "region": "03",
+            "country": "CY",
+            "latitude": "34.74583",
+            "longitude": "33.15833"
+        },
+        {
+            "city": "Paralimni",
+            "region": "01",
+            "country": "CY",
+            "latitude": "35.0375",
+            "longitude": "33.98333"
+        },
+        {
+            "city": "Paphos",
+            "region": "06",
+            "country": "CY",
+            "latitude": "34.76667",
+            "longitude": "32.41667"
+        },
+        {
+            "city": "Pano Polemidhia",
+            "region": "05",
+            "country": "CY",
+            "latitude": "34.7",
+            "longitude": "33"
+        },
+        {
+            "city": "Pano Dheftera",
+            "region": "04",
+            "country": "CY",
+            "latitude": "35.07917",
+            "longitude": "33.2625"
+        },
+        {
+            "city": "Pakhna",
+            "region": "05",
+            "country": "CY",
+            "latitude": "34.77917",
+            "longitude": "32.79583"
+        },
+        {
+            "city": "Nicosia",
+            "region": "04",
+            "country": "CY",
+            "latitude": "35.16667",
+            "longitude": "33.36667"
+        },
+        {
+            "city": "Moutayiaka",
+            "region": "05",
+            "country": "CY",
+            "latitude": "34.72083",
+            "longitude": "33.1"
+        },
+        {
+            "city": "Mosphiloti",
+            "region": "03",
+            "country": "CY",
+            "latitude": "34.95",
+            "longitude": "33.42917"
+        },
+        {
+            "city": "Morphou",
+            "region": "04",
+            "country": "CY",
+            "latitude": "35.19806",
+            "longitude": "32.99139"
+        },
+        {
+            "city": "Mesoyi",
+            "region": "06",
+            "country": "CY",
+            "latitude": "34.81667",
+            "longitude": "32.45833"
+        },
+        {
+            "city": "Meneou",
+            "region": "03",
+            "country": "CY",
+            "latitude": "34.85",
+            "longitude": "33.57083"
+        },
+        {
+            "city": "Mammari",
+            "region": "00",
+            "country": "CY",
+            "latitude": "35.16667",
+            "longitude": "33.2"
+        },
+        {
+            "city": "Lythrodhondas",
+            "region": "04",
+            "country": "CY",
+            "latitude": "34.95",
+            "longitude": "33.29583"
+        },
+        {
+            "city": "Lymbia",
+            "region": "04",
+            "country": "CY",
+            "latitude": "35",
+            "longitude": "33.4625"
+        },
+        {
+            "city": "Livadhia",
+            "region": "03",
+            "country": "CY",
+            "latitude": "34.95417",
+            "longitude": "33.62917"
+        },
+        {
+            "city": "Liopetri",
+            "region": "01",
+            "country": "CY",
+            "latitude": "35.00833",
+            "longitude": "33.89167"
+        },
+        {
+            "city": "Limassol",
+            "region": "05",
+            "country": "CY",
+            "latitude": "34.675",
+            "longitude": "33.03333"
+        },
+        {
+            "city": "Leonarisso",
+            "region": "01",
+            "country": "CY",
+            "latitude": "35.47083",
+            "longitude": "34.14167"
+        },
+        {
+            "city": "Lefkoniko",
+            "region": "01",
+            "country": "CY",
+            "latitude": "35.25833",
+            "longitude": "33.73333"
+        },
+        {
+            "city": "Lefka",
+            "region": "04",
+            "country": "CY",
+            "latitude": "35.11056",
+            "longitude": "32.85056"
+        },
+        {
+            "city": "Larnaca",
+            "region": "03",
+            "country": "CY",
+            "latitude": "34.91667",
+            "longitude": "33.62917"
+        },
+        {
+            "city": "Lapithos",
+            "region": "02",
+            "country": "CY",
+            "latitude": "35.3375",
+            "longitude": "33.17917"
+        },
+        {
+            "city": "Kyrenia",
+            "region": "02",
+            "country": "CY",
+            "latitude": "35.34167",
+            "longitude": "33.31667"
+        },
+        {
+            "city": "Kyperounda",
+            "region": "05",
+            "country": "CY",
+            "latitude": "34.9375",
+            "longitude": "32.975"
+        },
+        {
+            "city": "Kornos",
+            "region": "00",
+            "country": "CY",
+            "latitude": "34.92083",
+            "longitude": "33.39167"
+        },
+        {
+            "city": "Kophinou",
+            "region": "03",
+            "country": "CY",
+            "latitude": "34.825",
+            "longitude": "33.3875"
+        },
+        {
+            "city": "Kokkini Trimithia",
+            "region": "04",
+            "country": "CY",
+            "latitude": "35.15417",
+            "longitude": "33.2"
+        },
+        {
+            "city": "Klirou",
+            "region": "04",
+            "country": "CY",
+            "latitude": "35.02083",
+            "longitude": "33.17917"
+        },
+        {
+            "city": "Kiti",
+            "region": "03",
+            "country": "CY",
+            "latitude": "34.85",
+            "longitude": "33.575"
+        },
+        {
+            "city": "Kissonerga",
+            "region": "06",
+            "country": "CY",
+            "latitude": "34.825",
+            "longitude": "32.4"
+        },
+        {
+            "city": "Khlorakas",
+            "region": "06",
+            "country": "CY",
+            "latitude": "34.80417",
+            "longitude": "32.40833"
+        },
+        {
+            "city": "Kato Pyrgos",
+            "region": "04",
+            "country": "CY",
+            "latitude": "35.18028",
+            "longitude": "32.6825"
+        },
+        {
+            "city": "Kato Dheftera",
+            "region": "04",
+            "country": "CY",
+            "latitude": "35.0875",
+            "longitude": "33.27917"
+        },
+        {
+            "city": "Kakopetria",
+            "region": "04",
+            "country": "CY",
+            "latitude": "34.99167",
+            "longitude": "32.90417"
+        },
+        {
+            "city": "Famagusta",
+            "region": "01",
+            "country": "CY",
+            "latitude": "35.125",
+            "longitude": "33.95"
+        },
+        {
+            "city": "Erimi",
+            "region": "05",
+            "country": "CY",
+            "latitude": "34.67917",
+            "longitude": "32.91667"
+        },
+        {
+            "city": "Emba",
+            "region": "06",
+            "country": "CY",
+            "latitude": "34.80833",
+            "longitude": "32.425"
+        },
+        {
+            "city": "Dhromolaxia",
+            "region": "03",
+            "country": "CY",
+            "latitude": "34.87551",
+            "longitude": "33.58684"
+        },
+        {
+            "city": "Dherinia",
+            "region": "01",
+            "country": "CY",
+            "latitude": "35.06667",
+            "longitude": "33.95833"
+        },
+        {
+            "city": "Dhali",
+            "region": "04",
+            "country": "CY",
+            "latitude": "35.025",
+            "longitude": "33.42083"
+        },
+        {
+            "city": "Ayios Tykhonas",
+            "region": "03",
+            "country": "CY",
+            "latitude": "34.725",
+            "longitude": "33.14167"
+        },
+        {
+            "city": "Ayia Napa",
+            "region": "01",
+            "country": "CY",
+            "latitude": "34.98213",
+            "longitude": "34.00183"
+        },
+        {
+            "city": "Avgorou",
+            "region": "01",
+            "country": "CY",
+            "latitude": "35.03688",
+            "longitude": "33.84029"
+        },
+        {
+            "city": "Athna",
+            "region": "01",
+            "country": "CY",
+            "latitude": "35.05833",
+            "longitude": "33.78333"
+        },
+        {
+            "city": "Athienou",
+            "region": "03",
+            "country": "CY",
+            "latitude": "35.06667",
+            "longitude": "33.54167"
+        },
+        {
+            "city": "Astromeritis",
+            "region": "04",
+            "country": "CY",
+            "latitude": "35.14167",
+            "longitude": "33.0375"
+        },
+        {
+            "city": "Ergates",
+            "region": "04",
+            "country": "CY",
+            "latitude": "35.05417",
+            "longitude": "33.24583"
+        },
+        {
+            "city": "Aradhippou",
+            "region": "03",
+            "country": "CY",
+            "latitude": "34.95",
+            "longitude": "33.59167"
+        },
+        {
+            "city": "Aradhiou",
+            "region": "04",
+            "country": "CY",
+            "latitude": "35.04583",
+            "longitude": "33.19583"
+        },
+        {
+            "city": "Alambra",
+            "region": "04",
+            "country": "CY",
+            "latitude": "34.99167",
+            "longitude": "33.4"
+        },
+        {
+            "city": "Akhyritou",
+            "region": "01",
+            "country": "CY",
+            "latitude": "35.1",
+            "longitude": "33.8625"
+        },
+        {
+            "city": "Akaki",
+            "region": "04",
+            "country": "CY",
+            "latitude": "35.13333",
+            "longitude": "33.12917"
+        },
+        {
+            "city": "Meniko",
+            "region": "04",
+            "country": "CY",
+            "latitude": "35.10833",
+            "longitude": "33.14167"
+        }
+    ]
+}

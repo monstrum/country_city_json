@@ -1,0 +1,13 @@
+{
+    "country": "Holy See (Vatican City State)",
+    "code": "VA",
+    "cities": [
+        {
+            "city": "Vatican City",
+            "region": "",
+            "country": "VA",
+            "latitude": "41.90236",
+            "longitude": "12.45332"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "country": "Virgin Islands, U.S.",
+    "code": "VI",
+    "cities": [
+        {
+            "city": "Charlotte Amalie",
+            "region": "030",
+            "country": "VI",
+            "latitude": "18.3419",
+            "longitude": "-64.9307"
+        }
+    ]
+}

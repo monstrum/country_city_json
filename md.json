@@ -1,0 +1,475 @@
+{
+    "country": "Moldova, Republic of",
+    "code": "MD",
+    "cities": [
+        {
+            "city": "Tiraspolul Nou",
+            "region": "69",
+            "country": "MD",
+            "latitude": "46.83194",
+            "longitude": "29.57667"
+        },
+        {
+            "city": "Edine\u0163",
+            "region": "73",
+            "country": "MD",
+            "latitude": "48.16806",
+            "longitude": "27.305"
+        },
+        {
+            "city": "Iargara",
+            "region": "79",
+            "country": "MD",
+            "latitude": "46.4275",
+            "longitude": "28.43667"
+        },
+        {
+            "city": "Vulc\u0103ne\u015fti",
+            "region": "51",
+            "country": "MD",
+            "latitude": "45.68417",
+            "longitude": "28.40278"
+        },
+        {
+            "city": "Vi\u015fniovca",
+            "region": "65",
+            "country": "MD",
+            "latitude": "46.33333",
+            "longitude": "28.44944"
+        },
+        {
+            "city": "Varni\u0163a",
+            "region": "59",
+            "country": "MD",
+            "latitude": "46.86606",
+            "longitude": "29.46636"
+        },
+        {
+            "city": "Vadul lui Vod\u0103",
+            "region": "57",
+            "country": "MD",
+            "latitude": "47.09167",
+            "longitude": "29.07556"
+        },
+        {
+            "city": "Ungheni",
+            "region": "92",
+            "country": "MD",
+            "latitude": "47.20417",
+            "longitude": "27.79583"
+        },
+        {
+            "city": "Tiraspol",
+            "region": "58",
+            "country": "MD",
+            "latitude": "46.84028",
+            "longitude": "29.64333"
+        },
+        {
+            "city": "Telene\u015fti",
+            "region": "91",
+            "country": "MD",
+            "latitude": "47.49972",
+            "longitude": "28.36556"
+        },
+        {
+            "city": "Taraclia",
+            "region": "90",
+            "country": "MD",
+            "latitude": "45.9",
+            "longitude": "28.66889"
+        },
+        {
+            "city": "S\u00eengera",
+            "region": "57",
+            "country": "MD",
+            "latitude": "46.91306",
+            "longitude": "28.9775"
+        },
+        {
+            "city": "\u015etefan-Vod\u0103",
+            "region": "88",
+            "country": "MD",
+            "latitude": "46.51528",
+            "longitude": "29.66306"
+        },
+        {
+            "city": "Str\u0103\u015feni",
+            "region": "89",
+            "country": "MD",
+            "latitude": "47.14139",
+            "longitude": "28.61028"
+        },
+        {
+            "city": "St\u0103uceni",
+            "region": "57",
+            "country": "MD",
+            "latitude": "47.0875",
+            "longitude": "28.87028"
+        },
+        {
+            "city": "Bilicenii Vechi",
+            "region": "85",
+            "country": "MD",
+            "latitude": "47.65639",
+            "longitude": "28.04722"
+        },
+        {
+            "city": "Soroca",
+            "region": "87",
+            "country": "MD",
+            "latitude": "48.15583",
+            "longitude": "28.2975"
+        },
+        {
+            "city": "\u015eold\u0103ne\u015fti",
+            "region": "86",
+            "country": "MD",
+            "latitude": "47.81528",
+            "longitude": "28.79667"
+        },
+        {
+            "city": "Slobozia",
+            "region": "58",
+            "country": "MD",
+            "latitude": "46.72806",
+            "longitude": "29.70778"
+        },
+        {
+            "city": "Saharna",
+            "region": "83",
+            "country": "MD",
+            "latitude": "47.69361",
+            "longitude": "28.97028"
+        },
+        {
+            "city": "R\u00ee\u015fcani",
+            "region": "84",
+            "country": "MD",
+            "latitude": "47.95722",
+            "longitude": "27.55389"
+        },
+        {
+            "city": "R\u00eebni\u0163a",
+            "region": "58",
+            "country": "MD",
+            "latitude": "47.76639",
+            "longitude": "29.00111"
+        },
+        {
+            "city": "Rezina",
+            "region": "83",
+            "country": "MD",
+            "latitude": "47.74917",
+            "longitude": "28.96222"
+        },
+        {
+            "city": "Pervomaisc",
+            "region": "58",
+            "country": "MD",
+            "latitude": "46.73389",
+            "longitude": "29.95861"
+        },
+        {
+            "city": "Orhei",
+            "region": "82",
+            "country": "MD",
+            "latitude": "47.38306",
+            "longitude": "28.82306"
+        },
+        {
+            "city": "Anenii Noi",
+            "region": "59",
+            "country": "MD",
+            "latitude": "46.87889",
+            "longitude": "29.22472"
+        },
+        {
+            "city": "Nisporeni",
+            "region": "80",
+            "country": "MD",
+            "latitude": "47.08139",
+            "longitude": "28.17833"
+        },
+        {
+            "city": "M\u00eendre\u015fti",
+            "region": "91",
+            "country": "MD",
+            "latitude": "47.50722",
+            "longitude": "28.27694"
+        },
+        {
+            "city": "Maiac",
+            "region": "58",
+            "country": "MD",
+            "latitude": "47.2375",
+            "longitude": "29.38583"
+        },
+        {
+            "city": "M\u0103rcule\u015fti",
+            "region": "75",
+            "country": "MD",
+            "latitude": "47.86861",
+            "longitude": "28.2475"
+        },
+        {
+            "city": "Leova",
+            "region": "79",
+            "country": "MD",
+            "latitude": "46.47861",
+            "longitude": "28.25528"
+        },
+        {
+            "city": "Leninskiy",
+            "region": "75",
+            "country": "MD",
+            "latitude": "47.86389",
+            "longitude": "28.38944"
+        },
+        {
+            "city": "S\u00eengerei",
+            "region": "85",
+            "country": "MD",
+            "latitude": "47.64056",
+            "longitude": "28.14194"
+        },
+        {
+            "city": "Cricova",
+            "region": "57",
+            "country": "MD",
+            "latitude": "47.13889",
+            "longitude": "28.86194"
+        },
+        {
+            "city": "Crasnoe",
+            "region": "58",
+            "country": "MD",
+            "latitude": "46.65139",
+            "longitude": "29.80472"
+        },
+        {
+            "city": "H\u00eence\u015fti",
+            "region": "77",
+            "country": "MD",
+            "latitude": "46.82583",
+            "longitude": "28.59361"
+        },
+        {
+            "city": "Chi\u0163cani",
+            "region": "67",
+            "country": "MD",
+            "latitude": "46.78296",
+            "longitude": "29.61682"
+        },
+        {
+            "city": "C\u0103u\u015feni",
+            "region": "67",
+            "country": "MD",
+            "latitude": "46.64417",
+            "longitude": "29.41389"
+        },
+        {
+            "city": "Ialoveni",
+            "region": "78",
+            "country": "MD",
+            "latitude": "46.94306",
+            "longitude": "28.77778"
+        },
+        {
+            "city": "Grigoriopol",
+            "region": "58",
+            "country": "MD",
+            "latitude": "47.15361",
+            "longitude": "29.29639"
+        },
+        {
+            "city": "Glodeni",
+            "region": "76",
+            "country": "MD",
+            "latitude": "47.77083",
+            "longitude": "27.51444"
+        },
+        {
+            "city": "Flore\u015fti",
+            "region": "75",
+            "country": "MD",
+            "latitude": "47.89333",
+            "longitude": "28.30139"
+        },
+        {
+            "city": "F\u0103le\u015fti",
+            "region": "74",
+            "country": "MD",
+            "latitude": "47.57361",
+            "longitude": "27.70917"
+        },
+        {
+            "city": "Giurgiule\u015fti",
+            "region": "64",
+            "country": "MD",
+            "latitude": "45.48167",
+            "longitude": "28.19722"
+        },
+        {
+            "city": "Dub\u0103sari",
+            "region": "58",
+            "country": "MD",
+            "latitude": "47.26306",
+            "longitude": "29.16083"
+        },
+        {
+            "city": "Drochia",
+            "region": "71",
+            "country": "MD",
+            "latitude": "48.035",
+            "longitude": "27.81611"
+        },
+        {
+            "city": "Dondu\u015feni",
+            "region": "70",
+            "country": "MD",
+            "latitude": "48.24268",
+            "longitude": "27.6101"
+        },
+        {
+            "city": "Dnestrovsc",
+            "region": "58",
+            "country": "MD",
+            "latitude": "46.62222",
+            "longitude": "29.91333"
+        },
+        {
+            "city": "Criuleni",
+            "region": "69",
+            "country": "MD",
+            "latitude": "47.21444",
+            "longitude": "29.16139"
+        },
+        {
+            "city": "Comrat",
+            "region": "51",
+            "country": "MD",
+            "latitude": "46.30028",
+            "longitude": "28.65722"
+        },
+        {
+            "city": "Cimi\u015flia",
+            "region": "68",
+            "country": "MD",
+            "latitude": "46.52",
+            "longitude": "28.78417"
+        },
+        {
+            "city": "Chi\u015fin\u0103u",
+            "region": "57",
+            "country": "MD",
+            "latitude": "47.00556",
+            "longitude": "28.8575"
+        },
+        {
+            "city": "Cead\u00eer-Lunga",
+            "region": "51",
+            "country": "MD",
+            "latitude": "46.055",
+            "longitude": "28.83028"
+        },
+        {
+            "city": "Cantemir",
+            "region": "65",
+            "country": "MD",
+            "latitude": "46.27806",
+            "longitude": "28.20083"
+        },
+        {
+            "city": "Camenca",
+            "region": "58",
+            "country": "MD",
+            "latitude": "48.03194",
+            "longitude": "28.69778"
+        },
+        {
+            "city": "C\u0103l\u0103ra\u015fi",
+            "region": "66",
+            "country": "MD",
+            "latitude": "47.25444",
+            "longitude": "28.30806"
+        },
+        {
+            "city": "Cahul",
+            "region": "64",
+            "country": "MD",
+            "latitude": "45.9075",
+            "longitude": "28.19444"
+        },
+        {
+            "city": "Bucov\u0103\u0163",
+            "region": "89",
+            "country": "MD",
+            "latitude": "47.18861",
+            "longitude": "28.45694"
+        },
+        {
+            "city": "Bugeac",
+            "region": "51",
+            "country": "MD",
+            "latitude": "46.36583",
+            "longitude": "28.66333"
+        },
+        {
+            "city": "Briceni",
+            "region": "63",
+            "country": "MD",
+            "latitude": "48.36278",
+            "longitude": "27.085"
+        },
+        {
+            "city": "Briceni",
+            "region": "70",
+            "country": "MD",
+            "latitude": "48.35722",
+            "longitude": "27.70361"
+        },
+        {
+            "city": "Tighina",
+            "region": "62",
+            "country": "MD",
+            "latitude": "46.83056",
+            "longitude": "29.47111"
+        },
+        {
+            "city": "Basarabeasca",
+            "region": "61",
+            "country": "MD",
+            "latitude": "46.33111",
+            "longitude": "28.97278"
+        },
+        {
+            "city": "B\u0103l\u0163i",
+            "region": "60",
+            "country": "MD",
+            "latitude": "47.76167",
+            "longitude": "27.92889"
+        },
+        {
+            "city": "Otaci",
+            "region": "81",
+            "country": "MD",
+            "latitude": "48.43",
+            "longitude": "27.79389"
+        },
+        {
+            "city": "Vatra",
+            "region": "57",
+            "country": "MD",
+            "latitude": "47.07389",
+            "longitude": "28.735"
+        },
+        {
+            "city": "Biruin\u0163a",
+            "region": "85",
+            "country": "MD",
+            "latitude": "47.81611",
+            "longitude": "28.06861"
+        }
+    ]
+}

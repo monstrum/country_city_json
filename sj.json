@@ -1,0 +1,20 @@
+{
+    "country": "Svalbard and Jan Mayen",
+    "code": "SJ",
+    "cities": [
+        {
+            "city": "Longyearbyen",
+            "region": "21",
+            "country": "SJ",
+            "latitude": "78.2186",
+            "longitude": "15.64007"
+        },
+        {
+            "city": "Olonkinbyen",
+            "region": "22",
+            "country": "SJ",
+            "latitude": "70.9221",
+            "longitude": "-8.7187"
+        }
+    ]
+}

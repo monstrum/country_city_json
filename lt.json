@@ -1,0 +1,720 @@
+{
+    "country": "Lithuania",
+    "code": "LT",
+    "cities": [
+        {
+            "city": "\u017die\u017emariai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.8",
+            "longitude": "24.45"
+        },
+        {
+            "city": "\u017demai\u010di\u0173 Naumiestis",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.35917",
+            "longitude": "21.70222"
+        },
+        {
+            "city": "Zarasai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.73333",
+            "longitude": "26.25"
+        },
+        {
+            "city": "\u017dagar\u0117",
+            "region": "00",
+            "country": "LT",
+            "latitude": "56.35917",
+            "longitude": "23.25"
+        },
+        {
+            "city": "Visaginas",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.6",
+            "longitude": "26.41667"
+        },
+        {
+            "city": "Virbalis",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.62667",
+            "longitude": "22.81694"
+        },
+        {
+            "city": "Vilnius",
+            "region": "65",
+            "country": "LT",
+            "latitude": "54.68916",
+            "longitude": "25.2798"
+        },
+        {
+            "city": "Vilkija",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.05",
+            "longitude": "23.58333"
+        },
+        {
+            "city": "Vilkavi\u0161kis",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.65167",
+            "longitude": "23.03222"
+        },
+        {
+            "city": "Vievis",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.76667",
+            "longitude": "24.8"
+        },
+        {
+            "city": "Viek\u0161niai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "56.23333",
+            "longitude": "22.51667"
+        },
+        {
+            "city": "Venta",
+            "region": "00",
+            "country": "LT",
+            "latitude": "56.2",
+            "longitude": "22.7"
+        },
+        {
+            "city": "Veisiejai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.1",
+            "longitude": "23.7"
+        },
+        {
+            "city": "Varniai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.74056",
+            "longitude": "22.36444"
+        },
+        {
+            "city": "Var\u0117na",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.21667",
+            "longitude": "24.56667"
+        },
+        {
+            "city": "Vabalninkas",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.96667",
+            "longitude": "24.75"
+        },
+        {
+            "city": "Utena",
+            "region": "64",
+            "country": "LT",
+            "latitude": "55.5",
+            "longitude": "25.6"
+        },
+        {
+            "city": "Ukmerg\u0117",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.25",
+            "longitude": "24.75"
+        },
+        {
+            "city": "Tytuv\u0117n\u0117liai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.61667",
+            "longitude": "23.18333"
+        },
+        {
+            "city": "Trakai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.63333",
+            "longitude": "24.93333"
+        },
+        {
+            "city": "Tel\u0161iai",
+            "region": "63",
+            "country": "LT",
+            "latitude": "55.98139",
+            "longitude": "22.24722"
+        },
+        {
+            "city": "Taurag\u0117",
+            "region": "62",
+            "country": "LT",
+            "latitude": "55.25222",
+            "longitude": "22.28972"
+        },
+        {
+            "city": "\u0160ventoji",
+            "region": "00",
+            "country": "LT",
+            "latitude": "56.03333",
+            "longitude": "21.08333"
+        },
+        {
+            "city": "\u0160ven\u010dionys",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.15",
+            "longitude": "26.16667"
+        },
+        {
+            "city": "\u0160ven\u010dion\u0117liai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.16667",
+            "longitude": "26"
+        },
+        {
+            "city": "Skuodas",
+            "region": "00",
+            "country": "LT",
+            "latitude": "56.26667",
+            "longitude": "21.53333"
+        },
+        {
+            "city": "Skaudvil\u0117",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.41667",
+            "longitude": "22.61667"
+        },
+        {
+            "city": "\u0160irvintos",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.05",
+            "longitude": "24.95"
+        },
+        {
+            "city": "Simnas",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.4",
+            "longitude": "23.65"
+        },
+        {
+            "city": "\u0160ilut\u0117",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.34889",
+            "longitude": "21.48306"
+        },
+        {
+            "city": "\u0160ilal\u0117",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.49056",
+            "longitude": "22.18139"
+        },
+        {
+            "city": "\u0160iauliai",
+            "region": "61",
+            "country": "LT",
+            "latitude": "55.93333",
+            "longitude": "23.31667"
+        },
+        {
+            "city": "\u0160eduva",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.76667",
+            "longitude": "23.76667"
+        },
+        {
+            "city": "Seda",
+            "region": "00",
+            "country": "LT",
+            "latitude": "56.16667",
+            "longitude": "22.1"
+        },
+        {
+            "city": "\u0160al\u010dininkai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.3",
+            "longitude": "25.38333"
+        },
+        {
+            "city": "Salantai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "56.06667",
+            "longitude": "21.56667"
+        },
+        {
+            "city": "\u0160akiai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.95472",
+            "longitude": "23.03583"
+        },
+        {
+            "city": "Rusn\u0117",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.29639",
+            "longitude": "21.37583"
+        },
+        {
+            "city": "R\u016bdi\u0161k\u0117s",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.51667",
+            "longitude": "24.83333"
+        },
+        {
+            "city": "Roki\u0161kis",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.96667",
+            "longitude": "25.58333"
+        },
+        {
+            "city": "Rietavas",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.71944",
+            "longitude": "21.93111"
+        },
+        {
+            "city": "Raseiniai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.37361",
+            "longitude": "23.12167"
+        },
+        {
+            "city": "Ramygala",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.51667",
+            "longitude": "24.3"
+        },
+        {
+            "city": "Radvili\u0161kis",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.81667",
+            "longitude": "23.53333"
+        },
+        {
+            "city": "Prienai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.63333",
+            "longitude": "23.95"
+        },
+        {
+            "city": "Priekul\u0117",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.55361",
+            "longitude": "21.32667"
+        },
+        {
+            "city": "Plung\u0117",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.91139",
+            "longitude": "21.84417"
+        },
+        {
+            "city": "Pasvalys",
+            "region": "60",
+            "country": "LT",
+            "latitude": "56.05944",
+            "longitude": "24.40361"
+        },
+        {
+            "city": "Panev\u0117\u017eys",
+            "region": "60",
+            "country": "LT",
+            "latitude": "55.73333",
+            "longitude": "24.35"
+        },
+        {
+            "city": "Palanga",
+            "region": "58",
+            "country": "LT",
+            "latitude": "55.9175",
+            "longitude": "21.06861"
+        },
+        {
+            "city": "Pakruojis",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.96667",
+            "longitude": "23.86667"
+        },
+        {
+            "city": "Pag\u0117giai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.13806",
+            "longitude": "21.90889"
+        },
+        {
+            "city": "Pabrad\u0117",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55",
+            "longitude": "25.78333"
+        },
+        {
+            "city": "Obeliai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.96667",
+            "longitude": "25.15"
+        },
+        {
+            "city": "Nida",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.30806",
+            "longitude": "21.00667"
+        },
+        {
+            "city": "Neringa",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.37194",
+            "longitude": "21.06472"
+        },
+        {
+            "city": "Nemen\u010din\u0117",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.85",
+            "longitude": "25.48333"
+        },
+        {
+            "city": "Naujoji Akmen\u0117",
+            "region": "00",
+            "country": "LT",
+            "latitude": "56.31667",
+            "longitude": "22.9"
+        },
+        {
+            "city": "Mol\u0117tai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.23333",
+            "longitude": "25.41667"
+        },
+        {
+            "city": "Ma\u017eeikiai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "56.31667",
+            "longitude": "22.33333"
+        },
+        {
+            "city": "Marijampol\u0117",
+            "region": "59",
+            "country": "LT",
+            "latitude": "54.56667",
+            "longitude": "23.35"
+        },
+        {
+            "city": "Linkuva",
+            "region": "00",
+            "country": "LT",
+            "latitude": "56.08556",
+            "longitude": "23.9725"
+        },
+        {
+            "city": "Lentvaris",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.65",
+            "longitude": "25.05"
+        },
+        {
+            "city": "Lazdijai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.23333",
+            "longitude": "23.51667"
+        },
+        {
+            "city": "Kybartai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.63858",
+            "longitude": "22.76316"
+        },
+        {
+            "city": "Kur\u0161\u0117nai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.985",
+            "longitude": "22.91889"
+        },
+        {
+            "city": "Kupi\u0161kis",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.83333",
+            "longitude": "24.96667"
+        },
+        {
+            "city": "Kulautuva",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.93333",
+            "longitude": "23.6"
+        },
+        {
+            "city": "Kudirkos Naumiestis",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.77306",
+            "longitude": "22.86306"
+        },
+        {
+            "city": "Kretinga",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.87583",
+            "longitude": "21.25083"
+        },
+        {
+            "city": "Klaip\u0117da",
+            "region": "58",
+            "country": "LT",
+            "latitude": "55.71722",
+            "longitude": "21.1175"
+        },
+        {
+            "city": "Kelm\u0117",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.63389",
+            "longitude": "22.93417"
+        },
+        {
+            "city": "K\u0117dainiai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.28833",
+            "longitude": "23.97472"
+        },
+        {
+            "city": "Kazl\u0173 R\u016bda",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.76667",
+            "longitude": "23.5"
+        },
+        {
+            "city": "Kaunas",
+            "region": "57",
+            "country": "LT",
+            "latitude": "54.9",
+            "longitude": "23.9"
+        },
+        {
+            "city": "Kalvarija",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.4",
+            "longitude": "23.23333"
+        },
+        {
+            "city": "Kai\u0161iadorys",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.86667",
+            "longitude": "24.45"
+        },
+        {
+            "city": "Jurbarkas",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.07778",
+            "longitude": "22.76639"
+        },
+        {
+            "city": "Juodup\u0117",
+            "region": "00",
+            "country": "LT",
+            "latitude": "56.08333",
+            "longitude": "25.61667"
+        },
+        {
+            "city": "Joni\u0161kis",
+            "region": "61",
+            "country": "LT",
+            "latitude": "56.24028",
+            "longitude": "23.61528"
+        },
+        {
+            "city": "Jonava",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.08333",
+            "longitude": "24.28333"
+        },
+        {
+            "city": "Jieznas",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.6",
+            "longitude": "24.16667"
+        },
+        {
+            "city": "Ignalina",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.35",
+            "longitude": "26.16667"
+        },
+        {
+            "city": "Grigi\u0161k\u0117s",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.68333",
+            "longitude": "25.08333"
+        },
+        {
+            "city": "Gelgaudi\u0161kis",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.07917",
+            "longitude": "22.97583"
+        },
+        {
+            "city": "Garliava",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.81667",
+            "longitude": "23.86667"
+        },
+        {
+            "city": "Garg\u017edai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.71278",
+            "longitude": "21.40333"
+        },
+        {
+            "city": "E\u017eer\u0117lis",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.88333",
+            "longitude": "23.61667"
+        },
+        {
+            "city": "Elektr\u0117nai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.76667",
+            "longitude": "24.63333"
+        },
+        {
+            "city": "Ei\u0161i\u0161k\u0117s",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.16667",
+            "longitude": "25"
+        },
+        {
+            "city": "D\u016bk\u0161tas",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.53333",
+            "longitude": "26.33333"
+        },
+        {
+            "city": "Druskininkai",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.01667",
+            "longitude": "23.96667"
+        },
+        {
+            "city": "Daugai",
+            "region": "56",
+            "country": "LT",
+            "latitude": "54.36667",
+            "longitude": "24.33333"
+        },
+        {
+            "city": "Bir\u017eai",
+            "region": "60",
+            "country": "LT",
+            "latitude": "56.2",
+            "longitude": "24.75"
+        },
+        {
+            "city": "Bir\u0161tonas",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.61667",
+            "longitude": "24.03333"
+        },
+        {
+            "city": "Baltoji Vok\u0117",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.6",
+            "longitude": "25.2"
+        },
+        {
+            "city": "Auk\u0161tadvaris",
+            "region": "00",
+            "country": "LT",
+            "latitude": "54.58333",
+            "longitude": "24.53333"
+        },
+        {
+            "city": "Ariogala",
+            "region": "00",
+            "country": "LT",
+            "latitude": "55.26667",
+            "longitude": "23.46667"
+        },
+        {
+            "city": "Anyk\u0161\u010diai",
+            "region": "64",
+            "country": "LT",
+            "latitude": "55.52557",
+            "longitude": "25.10264"
+        },
+        {
+            "city": "Alytus",
+            "region": "56",
+            "country": "LT",
+            "latitude": "54.4",
+            "longitude": "24.05"
+        },
+        {
+            "city": "Akmen\u0117",
+            "region": "00",
+            "country": "LT",
+            "latitude": "56.25",
+            "longitude": "22.75"
+        },
+        {
+            "city": "Dainava (Kaunas)",
+            "region": "",
+            "country": "LT",
+            "latitude": "54.91525",
+            "longitude": "23.96831"
+        }
+    ]
+}

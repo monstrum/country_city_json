@@ -1,0 +1,2274 @@
+{
+    "country": "Denmark",
+    "code": "DK",
+    "cities": [
+        {
+            "city": "Vr\u00e5",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.34763",
+            "longitude": "9.95154"
+        },
+        {
+            "city": "Vordingborg",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.00801",
+            "longitude": "11.91057"
+        },
+        {
+            "city": "Vojens",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.24639",
+            "longitude": "9.30604"
+        },
+        {
+            "city": "Vodskov",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.10854",
+            "longitude": "10.02215"
+        },
+        {
+            "city": "Vissenbjerg",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.38482",
+            "longitude": "10.13784"
+        },
+        {
+            "city": "Virklund",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.13218",
+            "longitude": "9.55582"
+        },
+        {
+            "city": "Vipper\u00f8d",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.66768",
+            "longitude": "11.73967"
+        },
+        {
+            "city": "Vindinge",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.62298",
+            "longitude": "12.1387"
+        },
+        {
+            "city": "Vinderup",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.47515",
+            "longitude": "8.79081"
+        },
+        {
+            "city": "Vindeby",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.04489",
+            "longitude": "10.61309"
+        },
+        {
+            "city": "Vildbjerg",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.2",
+            "longitude": "8.76667"
+        },
+        {
+            "city": "Videb\u00e6k",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.0876",
+            "longitude": "8.62852"
+        },
+        {
+            "city": "Viby",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.54872",
+            "longitude": "12.02391"
+        },
+        {
+            "city": "Viborg",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.45319",
+            "longitude": "9.40201"
+        },
+        {
+            "city": "Vester Hassing",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.06767",
+            "longitude": "10.12558"
+        },
+        {
+            "city": "Vestbjerg",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.13166",
+            "longitude": "9.95942"
+        },
+        {
+            "city": "Veks\u00f8",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.75473",
+            "longitude": "12.23837"
+        },
+        {
+            "city": "Vejle",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.70927",
+            "longitude": "9.5357"
+        },
+        {
+            "city": "Vejen",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.48333",
+            "longitude": "9.15"
+        },
+        {
+            "city": "Varde",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.62112",
+            "longitude": "8.48069"
+        },
+        {
+            "city": "Vamdrup",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.42764",
+            "longitude": "9.28435"
+        },
+        {
+            "city": "Vallensb\u00e6k",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.63333",
+            "longitude": "12.36667"
+        },
+        {
+            "city": "Vadum",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.1179",
+            "longitude": "9.857"
+        },
+        {
+            "city": "Ulstrup",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.38994",
+            "longitude": "9.79354"
+        },
+        {
+            "city": "Ullerslev",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.36172",
+            "longitude": "10.6519"
+        },
+        {
+            "city": "Ulfborg",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.26725",
+            "longitude": "8.32167"
+        },
+        {
+            "city": "Tune",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.59528",
+            "longitude": "12.18319"
+        },
+        {
+            "city": "Tr\u00f8r\u00f8d",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.83946",
+            "longitude": "12.54432"
+        },
+        {
+            "city": "Trige",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.25291",
+            "longitude": "10.1484"
+        },
+        {
+            "city": "Tranbjerg",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.0901",
+            "longitude": "10.11937"
+        },
+        {
+            "city": "T\u00f8rring",
+            "region": "18",
+            "country": "DK",
+            "latitude": "55.85",
+            "longitude": "9.48333"
+        },
+        {
+            "city": "T\u00f8nder",
+            "region": "21",
+            "country": "DK",
+            "latitude": "54.93306",
+            "longitude": "8.86674"
+        },
+        {
+            "city": "T\u00f8ll\u00f8se",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.6125",
+            "longitude": "11.77034"
+        },
+        {
+            "city": "Tommerup",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.31952",
+            "longitude": "10.20659"
+        },
+        {
+            "city": "Toftlund",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.18858",
+            "longitude": "9.06925"
+        },
+        {
+            "city": "Tj\u00e6reborg",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.46457",
+            "longitude": "8.57968"
+        },
+        {
+            "city": "Tinglev",
+            "region": "21",
+            "country": "DK",
+            "latitude": "54.93099",
+            "longitude": "9.25243"
+        },
+        {
+            "city": "Thybor\u00f8n",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.69846",
+            "longitude": "8.21238"
+        },
+        {
+            "city": "Thur\u00f8 By",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.0474",
+            "longitude": "10.66385"
+        },
+        {
+            "city": "Thisted",
+            "region": "19",
+            "country": "DK",
+            "latitude": "56.95523",
+            "longitude": "8.69491"
+        },
+        {
+            "city": "Taulov",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.54582",
+            "longitude": "9.61553"
+        },
+        {
+            "city": "Taastrup",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.65173",
+            "longitude": "12.29216"
+        },
+        {
+            "city": "T\u00e5rs",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.38333",
+            "longitude": "10.11667"
+        },
+        {
+            "city": "T\u00e5rnby",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.6303",
+            "longitude": "12.60035"
+        },
+        {
+            "city": "Tarm",
+            "region": "18",
+            "country": "DK",
+            "latitude": "55.90862",
+            "longitude": "8.53041"
+        },
+        {
+            "city": "Svogerslev",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.63423",
+            "longitude": "12.01465"
+        },
+        {
+            "city": "Svinninge",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.72111",
+            "longitude": "11.46547"
+        },
+        {
+            "city": "Svenstrup",
+            "region": "19",
+            "country": "DK",
+            "latitude": "56.9723",
+            "longitude": "9.84806"
+        },
+        {
+            "city": "Svendborg",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.05982",
+            "longitude": "10.60677"
+        },
+        {
+            "city": "Svejb\u00e6k",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.13255",
+            "longitude": "9.63289"
+        },
+        {
+            "city": "Sveb\u00f8lle",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.65183",
+            "longitude": "11.28658"
+        },
+        {
+            "city": "Sunds",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.20417",
+            "longitude": "9.01266"
+        },
+        {
+            "city": "Sundby",
+            "region": "20",
+            "country": "DK",
+            "latitude": "54.864",
+            "longitude": "11.79302"
+        },
+        {
+            "city": "Stubbek\u00f8bing",
+            "region": "20",
+            "country": "DK",
+            "latitude": "54.88875",
+            "longitude": "12.04102"
+        },
+        {
+            "city": "Struer",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.49122",
+            "longitude": "8.58376"
+        },
+        {
+            "city": "Str\u00f8by Egede",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.41382",
+            "longitude": "12.24502"
+        },
+        {
+            "city": "Strib",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.54021",
+            "longitude": "9.76748"
+        },
+        {
+            "city": "Strandby",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.4915",
+            "longitude": "10.49608"
+        },
+        {
+            "city": "Storvorde",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.00392",
+            "longitude": "10.10125"
+        },
+        {
+            "city": "Store Heddinge",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.30965",
+            "longitude": "12.38885"
+        },
+        {
+            "city": "St\u00f8vring",
+            "region": "19",
+            "country": "DK",
+            "latitude": "56.88536",
+            "longitude": "9.83839"
+        },
+        {
+            "city": "Stoholm",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.48454",
+            "longitude": "9.14617"
+        },
+        {
+            "city": "Stilling",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.06224",
+            "longitude": "9.98822"
+        },
+        {
+            "city": "Stige",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.43941",
+            "longitude": "10.4094"
+        },
+        {
+            "city": "Stenl\u00f8se",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.76828",
+            "longitude": "12.19723"
+        },
+        {
+            "city": "Stenlille",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.54022",
+            "longitude": "11.59146"
+        },
+        {
+            "city": "Stege",
+            "region": "20",
+            "country": "DK",
+            "latitude": "54.98704",
+            "longitude": "12.28461"
+        },
+        {
+            "city": "Stavtrup",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.13124",
+            "longitude": "10.11987"
+        },
+        {
+            "city": "Stavnsholt",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.81479",
+            "longitude": "12.40545"
+        },
+        {
+            "city": "Starup",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.24097",
+            "longitude": "9.53503"
+        },
+        {
+            "city": "Spentrup",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.53703",
+            "longitude": "10.03792"
+        },
+        {
+            "city": "Sor\u00f8",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.43184",
+            "longitude": "11.55547"
+        },
+        {
+            "city": "S\u00f8nders\u00f8",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.48526",
+            "longitude": "10.2554"
+        },
+        {
+            "city": "S\u00f8nderborg",
+            "region": "21",
+            "country": "DK",
+            "latitude": "54.90926",
+            "longitude": "9.80737"
+        },
+        {
+            "city": "S\u00f8nder Bjert",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.45272",
+            "longitude": "9.56741"
+        },
+        {
+            "city": "S\u00f8ften",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.23801",
+            "longitude": "10.0851"
+        },
+        {
+            "city": "Solr\u00f8d Strand",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.53285",
+            "longitude": "12.22227"
+        },
+        {
+            "city": "Solr\u00f8d",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.53628",
+            "longitude": "12.1827"
+        },
+        {
+            "city": "Solbjerg",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.04271",
+            "longitude": "10.08631"
+        },
+        {
+            "city": "Snogh\u00f8j",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.52253",
+            "longitude": "9.72125"
+        },
+        {
+            "city": "Snejbjerg",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.13875",
+            "longitude": "8.89896"
+        },
+        {
+            "city": "Sm\u00f8rumnedre",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.74232",
+            "longitude": "12.30276"
+        },
+        {
+            "city": "Slangerup",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.85",
+            "longitude": "12.18333"
+        },
+        {
+            "city": "Slagelse",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.40276",
+            "longitude": "11.35459"
+        },
+        {
+            "city": "Sherrebek",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.15735",
+            "longitude": "8.76901"
+        },
+        {
+            "city": "Skovby",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.1534",
+            "longitude": "9.95695"
+        },
+        {
+            "city": "Sk\u00f8rping",
+            "region": "19",
+            "country": "DK",
+            "latitude": "56.83626",
+            "longitude": "9.89255"
+        },
+        {
+            "city": "Sk\u00e6lsk\u00f8r",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.25058",
+            "longitude": "11.29352"
+        },
+        {
+            "city": "Skjern",
+            "region": "18",
+            "country": "DK",
+            "latitude": "55.95",
+            "longitude": "8.5"
+        },
+        {
+            "city": "Skive",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.56667",
+            "longitude": "9.03333"
+        },
+        {
+            "city": "Skibby",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.75122",
+            "longitude": "11.96083"
+        },
+        {
+            "city": "Skanderborg",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.03991",
+            "longitude": "9.9272"
+        },
+        {
+            "city": "Skagen",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.72093",
+            "longitude": "10.58394"
+        },
+        {
+            "city": "Sindal",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.47117",
+            "longitude": "10.20312"
+        },
+        {
+            "city": "Silkeborg",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.1697",
+            "longitude": "9.54508"
+        },
+        {
+            "city": "Seden",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.42648",
+            "longitude": "10.44265"
+        },
+        {
+            "city": "S\u00e6by",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.33188",
+            "longitude": "10.52251"
+        },
+        {
+            "city": "Saksk\u00f8bing",
+            "region": "20",
+            "country": "DK",
+            "latitude": "54.7997",
+            "longitude": "11.62599"
+        },
+        {
+            "city": "Sabro",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.21333",
+            "longitude": "10.03441"
+        },
+        {
+            "city": "Ryomg\u00e5rd",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.3843",
+            "longitude": "10.50295"
+        },
+        {
+            "city": "Ry",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.09038",
+            "longitude": "9.76505"
+        },
+        {
+            "city": "Rudk\u00f8bing",
+            "region": "21",
+            "country": "DK",
+            "latitude": "54.93639",
+            "longitude": "10.71019"
+        },
+        {
+            "city": "Roskilde",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.64152",
+            "longitude": "12.08035"
+        },
+        {
+            "city": "R\u00f8nnede",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.2571",
+            "longitude": "12.02124"
+        },
+        {
+            "city": "R\u00f8nne",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.10091",
+            "longitude": "14.70664"
+        },
+        {
+            "city": "R\u00f8nde",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.30145",
+            "longitude": "10.47506"
+        },
+        {
+            "city": "R\u00f8dovre",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.68062",
+            "longitude": "12.45373"
+        },
+        {
+            "city": "R\u00f8dekro",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.07016",
+            "longitude": "9.31641"
+        },
+        {
+            "city": "R\u00f8dding",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.36569",
+            "longitude": "9.06316"
+        },
+        {
+            "city": "R\u00f8dbyhavn",
+            "region": "20",
+            "country": "DK",
+            "latitude": "54.65442",
+            "longitude": "11.35203"
+        },
+        {
+            "city": "R\u00f8dby",
+            "region": "20",
+            "country": "DK",
+            "latitude": "54.69495",
+            "longitude": "11.38885"
+        },
+        {
+            "city": "Ringsted",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.4426",
+            "longitude": "11.79011"
+        },
+        {
+            "city": "Ringk\u00f8bing",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.09006",
+            "longitude": "8.24402"
+        },
+        {
+            "city": "Ringe",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.24506",
+            "longitude": "10.47065"
+        },
+        {
+            "city": "Ribe",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.33051",
+            "longitude": "8.76966"
+        },
+        {
+            "city": "Rebild",
+            "region": "19",
+            "country": "DK",
+            "latitude": "56.83333",
+            "longitude": "9.85"
+        },
+        {
+            "city": "Randers",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.46667",
+            "longitude": "10.05"
+        },
+        {
+            "city": "Pr\u00e6st\u00f8",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.11777",
+            "longitude": "12.05727"
+        },
+        {
+            "city": "Pandrup",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.22147",
+            "longitude": "9.67569"
+        },
+        {
+            "city": "Padborg",
+            "region": "21",
+            "country": "DK",
+            "latitude": "54.82657",
+            "longitude": "9.36247"
+        },
+        {
+            "city": "Otterup",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.51527",
+            "longitude": "10.39756"
+        },
+        {
+            "city": "Osted",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.56228",
+            "longitude": "11.95786"
+        },
+        {
+            "city": "\u00d8rslev",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.04356",
+            "longitude": "11.96792"
+        },
+        {
+            "city": "\u00d8lstykke",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.79567",
+            "longitude": "12.15509"
+        },
+        {
+            "city": "\u00d8lgod",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.80682",
+            "longitude": "8.62859"
+        },
+        {
+            "city": "Oksb\u00f8l",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.6268",
+            "longitude": "8.28757"
+        },
+        {
+            "city": "Odense",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.39594",
+            "longitude": "10.38831"
+        },
+        {
+            "city": "Odder",
+            "region": "18",
+            "country": "DK",
+            "latitude": "55.97313",
+            "longitude": "10.153"
+        },
+        {
+            "city": "Nyr\u00e5d",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.00511",
+            "longitude": "11.9606"
+        },
+        {
+            "city": "Nyk\u00f8bing Falster",
+            "region": "20",
+            "country": "DK",
+            "latitude": "54.76906",
+            "longitude": "11.87425"
+        },
+        {
+            "city": "Nyk\u00f8bing Sj\u00e6lland",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.92491",
+            "longitude": "11.67109"
+        },
+        {
+            "city": "Nyk\u00f8bing Mors",
+            "region": "19",
+            "country": "DK",
+            "latitude": "56.79334",
+            "longitude": "8.85282"
+        },
+        {
+            "city": "Nyborg",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.31274",
+            "longitude": "10.78964"
+        },
+        {
+            "city": "N\u00e6stved",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.22992",
+            "longitude": "11.76092"
+        },
+        {
+            "city": "Nordby",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.44603",
+            "longitude": "8.39786"
+        },
+        {
+            "city": "Nordborg",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.05732",
+            "longitude": "9.7408"
+        },
+        {
+            "city": "N\u00f8rre Hvals\u00f8",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.60493",
+            "longitude": "11.85733"
+        },
+        {
+            "city": "N\u00f8rre Alslev",
+            "region": "20",
+            "country": "DK",
+            "latitude": "54.89784",
+            "longitude": "11.88414"
+        },
+        {
+            "city": "N\u00f8rre \u00c5by",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.46107",
+            "longitude": "9.8794"
+        },
+        {
+            "city": "N\u00f8debo",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.97877",
+            "longitude": "12.34685"
+        },
+        {
+            "city": "Niv\u00e5",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.93405",
+            "longitude": "12.50485"
+        },
+        {
+            "city": "Nibe",
+            "region": "19",
+            "country": "DK",
+            "latitude": "56.9815",
+            "longitude": "9.63917"
+        },
+        {
+            "city": "Nex\u00f8",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.06067",
+            "longitude": "15.13058"
+        },
+        {
+            "city": "Neder Vindinge",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.03211",
+            "longitude": "11.88356"
+        },
+        {
+            "city": "Neder Holluf",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.36451",
+            "longitude": "10.44824"
+        },
+        {
+            "city": "Nakskov",
+            "region": "20",
+            "country": "DK",
+            "latitude": "54.83734",
+            "longitude": "11.12839"
+        },
+        {
+            "city": "Munkebo",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.46184",
+            "longitude": "10.55577"
+        },
+        {
+            "city": "Middelfart",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.50591",
+            "longitude": "9.73054"
+        },
+        {
+            "city": "Marstal",
+            "region": "21",
+            "country": "DK",
+            "latitude": "54.8562",
+            "longitude": "10.51726"
+        },
+        {
+            "city": "M\u00e5rslet",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.0636",
+            "longitude": "10.1623"
+        },
+        {
+            "city": "Maribo",
+            "region": "20",
+            "country": "DK",
+            "latitude": "54.77662",
+            "longitude": "11.50017"
+        },
+        {
+            "city": "Mariager",
+            "region": "19",
+            "country": "DK",
+            "latitude": "56.64985",
+            "longitude": "9.97515"
+        },
+        {
+            "city": "M\u00e5l\u00f8v",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.75528",
+            "longitude": "12.32327"
+        },
+        {
+            "city": "Malling",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.03632",
+            "longitude": "10.19632"
+        },
+        {
+            "city": "Lystrup",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.2375",
+            "longitude": "10.23778"
+        },
+        {
+            "city": "Lynge",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.83941",
+            "longitude": "12.27725"
+        },
+        {
+            "city": "Lunderskov",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.48375",
+            "longitude": "9.29917"
+        },
+        {
+            "city": "L\u00f8jt Kirkeby",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.08333",
+            "longitude": "9.46667"
+        },
+        {
+            "city": "L\u00f8gumkloster",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.05941",
+            "longitude": "8.95508"
+        },
+        {
+            "city": "L\u00f8gten",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.27459",
+            "longitude": "10.31181"
+        },
+        {
+            "city": "L\u00f8gst\u00f8r",
+            "region": "19",
+            "country": "DK",
+            "latitude": "56.96245",
+            "longitude": "9.2583"
+        },
+        {
+            "city": "Liseleje",
+            "region": "17",
+            "country": "DK",
+            "latitude": "56.00531",
+            "longitude": "11.94827"
+        },
+        {
+            "city": "Lind",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.1",
+            "longitude": "8.98333"
+        },
+        {
+            "city": "V\u00e6rl\u00f8se",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.78251",
+            "longitude": "12.36856"
+        },
+        {
+            "city": "Liller\u00f8d",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.87496",
+            "longitude": "12.34579"
+        },
+        {
+            "city": "Lemvig",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.54856",
+            "longitude": "8.31019"
+        },
+        {
+            "city": "Lejre",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.60461",
+            "longitude": "11.97477"
+        },
+        {
+            "city": "Langeskov",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.35655",
+            "longitude": "10.58447"
+        },
+        {
+            "city": "Lang\u00e5",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.39026",
+            "longitude": "9.89486"
+        },
+        {
+            "city": "Krus\u00e5",
+            "region": "21",
+            "country": "DK",
+            "latitude": "54.85097",
+            "longitude": "9.40129"
+        },
+        {
+            "city": "Kors\u00f8r",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.32993",
+            "longitude": "11.13857"
+        },
+        {
+            "city": "K\u00f8ge",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.45802",
+            "longitude": "12.18214"
+        },
+        {
+            "city": "Copenhagen",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.67594",
+            "longitude": "12.56553"
+        },
+        {
+            "city": "Kongens Lyngby",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.77044",
+            "longitude": "12.50378"
+        },
+        {
+            "city": "Kolt",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.10845",
+            "longitude": "10.06986"
+        },
+        {
+            "city": "Kolding",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.4904",
+            "longitude": "9.47216"
+        },
+        {
+            "city": "Klarup",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.01194",
+            "longitude": "10.05617"
+        },
+        {
+            "city": "Kjellerup",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.28581",
+            "longitude": "9.43528"
+        },
+        {
+            "city": "Kib\u00e6k",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.0317",
+            "longitude": "8.85697"
+        },
+        {
+            "city": "Kerteminde",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.44903",
+            "longitude": "10.65769"
+        },
+        {
+            "city": "K\u00e5s",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.19774",
+            "longitude": "9.67173"
+        },
+        {
+            "city": "Karup",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.30673",
+            "longitude": "9.16835"
+        },
+        {
+            "city": "Kalundborg",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.67954",
+            "longitude": "11.08864"
+        },
+        {
+            "city": "Jyllinge",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.75843",
+            "longitude": "12.11227"
+        },
+        {
+            "city": "Jyderup",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.66399",
+            "longitude": "11.42029"
+        },
+        {
+            "city": "Juelsminde",
+            "region": "18",
+            "country": "DK",
+            "latitude": "55.70876",
+            "longitude": "10.01668"
+        },
+        {
+            "city": "J\u00e6gerspris",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.85544",
+            "longitude": "11.96786"
+        },
+        {
+            "city": "Jelling",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.75588",
+            "longitude": "9.4258"
+        },
+        {
+            "city": "Ish\u00f8j",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.61543",
+            "longitude": "12.35182"
+        },
+        {
+            "city": "Ikast",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.13883",
+            "longitude": "9.15768"
+        },
+        {
+            "city": "Hvidovre",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.65719",
+            "longitude": "12.47364"
+        },
+        {
+            "city": "Hvide Sande",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.00452",
+            "longitude": "8.12937"
+        },
+        {
+            "city": "Hurup",
+            "region": "19",
+            "country": "DK",
+            "latitude": "56.74944",
+            "longitude": "8.41952"
+        },
+        {
+            "city": "Hundested",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.96667",
+            "longitude": "11.86667"
+        },
+        {
+            "city": "Humleb\u00e6k",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.9618",
+            "longitude": "12.5341"
+        },
+        {
+            "city": "Horsens",
+            "region": "18",
+            "country": "DK",
+            "latitude": "55.86066",
+            "longitude": "9.85034"
+        },
+        {
+            "city": "Hornslet",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.3155",
+            "longitude": "10.32041"
+        },
+        {
+            "city": "Hornb\u00e6k",
+            "region": "17",
+            "country": "DK",
+            "latitude": "56.08541",
+            "longitude": "12.45048"
+        },
+        {
+            "city": "H\u00f8rve",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.75292",
+            "longitude": "11.45298"
+        },
+        {
+            "city": "H\u00f8ruphav",
+            "region": "21",
+            "country": "DK",
+            "latitude": "54.91017",
+            "longitude": "9.89872"
+        },
+        {
+            "city": "H\u00f8rsholm",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.88333",
+            "longitude": "12.5"
+        },
+        {
+            "city": "H\u00f8rning",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.08701",
+            "longitude": "10.03716"
+        },
+        {
+            "city": "H\u00f8ng",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.51165",
+            "longitude": "11.29032"
+        },
+        {
+            "city": "H\u00f8jslev",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.58565",
+            "longitude": "9.13637"
+        },
+        {
+            "city": "H\u00f8jby",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.34218",
+            "longitude": "10.43684"
+        },
+        {
+            "city": "Holsted",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.51086",
+            "longitude": "8.91872"
+        },
+        {
+            "city": "Holstebro",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.36009",
+            "longitude": "8.61607"
+        },
+        {
+            "city": "Holeby",
+            "region": "20",
+            "country": "DK",
+            "latitude": "54.71148",
+            "longitude": "11.46416"
+        },
+        {
+            "city": "Holb\u00e6k",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.71667",
+            "longitude": "11.71667"
+        },
+        {
+            "city": "Hobro",
+            "region": "19",
+            "country": "DK",
+            "latitude": "56.64306",
+            "longitude": "9.79029"
+        },
+        {
+            "city": "Hjortsh\u00f8j",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.24811",
+            "longitude": "10.26532"
+        },
+        {
+            "city": "Hj\u00f8rring",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.46417",
+            "longitude": "9.98229"
+        },
+        {
+            "city": "Hjallerup",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.16466",
+            "longitude": "10.14571"
+        },
+        {
+            "city": "Hirtshals",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.58812",
+            "longitude": "9.95922"
+        },
+        {
+            "city": "Hinnerup",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.26608",
+            "longitude": "10.06299"
+        },
+        {
+            "city": "Hiller\u00f8d",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.92667",
+            "longitude": "12.31091"
+        },
+        {
+            "city": "Herning",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.13932",
+            "longitude": "8.97378"
+        },
+        {
+            "city": "Herlev",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.72366",
+            "longitude": "12.43998"
+        },
+        {
+            "city": "Helsing\u00f8r",
+            "region": "17",
+            "country": "DK",
+            "latitude": "56.03606",
+            "longitude": "12.6136"
+        },
+        {
+            "city": "Helsinge",
+            "region": "17",
+            "country": "DK",
+            "latitude": "56.02283",
+            "longitude": "12.19752"
+        },
+        {
+            "city": "Helleb\u00e6k",
+            "region": "17",
+            "country": "DK",
+            "latitude": "56.06823",
+            "longitude": "12.55782"
+        },
+        {
+            "city": "Hedensted",
+            "region": "18",
+            "country": "DK",
+            "latitude": "55.77043",
+            "longitude": "9.7011"
+        },
+        {
+            "city": "Havdrup",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.54481",
+            "longitude": "12.12392"
+        },
+        {
+            "city": "Haslev",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.32346",
+            "longitude": "11.96389"
+        },
+        {
+            "city": "H\u00e5rlev",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.34936",
+            "longitude": "12.23382"
+        },
+        {
+            "city": "H\u00e5rby",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.21502",
+            "longitude": "10.12262"
+        },
+        {
+            "city": "Harbo\u00f8re",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.61752",
+            "longitude": "8.18069"
+        },
+        {
+            "city": "Hanstholm",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.11667",
+            "longitude": "8.61667"
+        },
+        {
+            "city": "Hammerum",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.13361",
+            "longitude": "9.06121"
+        },
+        {
+            "city": "Hammel",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.25762",
+            "longitude": "9.86316"
+        },
+        {
+            "city": "Hals",
+            "region": "19",
+            "country": "DK",
+            "latitude": "56.99609",
+            "longitude": "10.30807"
+        },
+        {
+            "city": "Hadsund",
+            "region": "19",
+            "country": "DK",
+            "latitude": "56.71482",
+            "longitude": "10.11682"
+        },
+        {
+            "city": "Hadsten",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.32819",
+            "longitude": "10.04931"
+        },
+        {
+            "city": "Haderslev",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.25377",
+            "longitude": "9.48982"
+        },
+        {
+            "city": "Gunds\u00f8magle",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.73565",
+            "longitude": "12.15158"
+        },
+        {
+            "city": "Guderup",
+            "region": "21",
+            "country": "DK",
+            "latitude": "54.98978",
+            "longitude": "9.87174"
+        },
+        {
+            "city": "Gr\u00e6sted",
+            "region": "17",
+            "country": "DK",
+            "latitude": "56.06558",
+            "longitude": "12.28512"
+        },
+        {
+            "city": "Grindsted",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.754",
+            "longitude": "8.91231"
+        },
+        {
+            "city": "Greve",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.58333",
+            "longitude": "12.3"
+        },
+        {
+            "city": "Grenaa",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.41578",
+            "longitude": "10.87825"
+        },
+        {
+            "city": "Gr\u00e5sten",
+            "region": "21",
+            "country": "DK",
+            "latitude": "54.91918",
+            "longitude": "9.59523"
+        },
+        {
+            "city": "Gram",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.28948",
+            "longitude": "9.04913"
+        },
+        {
+            "city": "G\u00f8rlev",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.53926",
+            "longitude": "11.22708"
+        },
+        {
+            "city": "Glostrup",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.66667",
+            "longitude": "12.4"
+        },
+        {
+            "city": "Glamsbjerg",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.27237",
+            "longitude": "10.10483"
+        },
+        {
+            "city": "Gladsakse",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.73333",
+            "longitude": "12.48333"
+        },
+        {
+            "city": "Gjellerup Kirkeby",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.14341",
+            "longitude": "9.04988"
+        },
+        {
+            "city": "Give",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.83977",
+            "longitude": "9.24998"
+        },
+        {
+            "city": "Gistrup",
+            "region": "19",
+            "country": "DK",
+            "latitude": "56.9943",
+            "longitude": "9.99085"
+        },
+        {
+            "city": "Gilleleje",
+            "region": "17",
+            "country": "DK",
+            "latitude": "56.12196",
+            "longitude": "12.31056"
+        },
+        {
+            "city": "Gentofte",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.75",
+            "longitude": "12.55"
+        },
+        {
+            "city": "Ganl\u00f8se",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.79124",
+            "longitude": "12.26421"
+        },
+        {
+            "city": "Galten",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.15902",
+            "longitude": "9.91691"
+        },
+        {
+            "city": "Fuglebjerg",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.30604",
+            "longitude": "11.54766"
+        },
+        {
+            "city": "Frejlev",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.00623",
+            "longitude": "9.81711"
+        },
+        {
+            "city": "Frederiksv\u00e6rk",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.97073",
+            "longitude": "12.0225"
+        },
+        {
+            "city": "Frederikssund",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.83956",
+            "longitude": "12.06896"
+        },
+        {
+            "city": "Frederikshavn",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.44073",
+            "longitude": "10.53661"
+        },
+        {
+            "city": "Frederiksberg",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.67938",
+            "longitude": "12.53463"
+        },
+        {
+            "city": "Frederiksberg",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.41618",
+            "longitude": "11.56934"
+        },
+        {
+            "city": "Fredericia",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.56568",
+            "longitude": "9.75257"
+        },
+        {
+            "city": "Fredensborg",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.96667",
+            "longitude": "12.4"
+        },
+        {
+            "city": "Framlev",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.15664",
+            "longitude": "10.01318"
+        },
+        {
+            "city": "Forlev",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.38333",
+            "longitude": "11.28333"
+        },
+        {
+            "city": "Fl\u00f8ng",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.66212",
+            "longitude": "12.18698"
+        },
+        {
+            "city": "Fjerritslev",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.08134",
+            "longitude": "9.26643"
+        },
+        {
+            "city": "Fensmark",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.27919",
+            "longitude": "11.80382"
+        },
+        {
+            "city": "Farum",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.80858",
+            "longitude": "12.36066"
+        },
+        {
+            "city": "Fars\u00f8",
+            "region": "19",
+            "country": "DK",
+            "latitude": "56.77276",
+            "longitude": "9.33926"
+        },
+        {
+            "city": "Fakse Ladeplads",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.2198",
+            "longitude": "12.17013"
+        },
+        {
+            "city": "Fakse",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.24686",
+            "longitude": "12.11764"
+        },
+        {
+            "city": "Faaborg",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.0951",
+            "longitude": "10.24226"
+        },
+        {
+            "city": "Esperg\u00e6rde",
+            "region": "17",
+            "country": "DK",
+            "latitude": "56",
+            "longitude": "12.56667"
+        },
+        {
+            "city": "Esbjerg",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.46667",
+            "longitude": "8.45"
+        },
+        {
+            "city": "Ejby",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.68923",
+            "longitude": "11.84725"
+        },
+        {
+            "city": "Ejby",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.4858",
+            "longitude": "12.08171"
+        },
+        {
+            "city": "Ejby",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.4301",
+            "longitude": "9.92973"
+        },
+        {
+            "city": "Egtved",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.61796",
+            "longitude": "9.30102"
+        },
+        {
+            "city": "Ebeltoft",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.19442",
+            "longitude": "10.6821"
+        },
+        {
+            "city": "Dybb\u00f8l",
+            "region": "21",
+            "country": "DK",
+            "latitude": "54.91079",
+            "longitude": "9.73601"
+        },
+        {
+            "city": "Dronninglund",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.16035",
+            "longitude": "10.29287"
+        },
+        {
+            "city": "Drag\u00f8r",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.59455",
+            "longitude": "12.66638"
+        },
+        {
+            "city": "Dianalund",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.53133",
+            "longitude": "11.4925"
+        },
+        {
+            "city": "Christiansfeld",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.35817",
+            "longitude": "9.48701"
+        },
+        {
+            "city": "Charlottenlund",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.75367",
+            "longitude": "12.59181"
+        },
+        {
+            "city": "Bullerup",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.42686",
+            "longitude": "10.47137"
+        },
+        {
+            "city": "Brovst",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.09562",
+            "longitude": "9.52801"
+        },
+        {
+            "city": "Br\u00f8rup",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.48194",
+            "longitude": "9.01756"
+        },
+        {
+            "city": "Br\u00f8nderslev",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.27021",
+            "longitude": "9.94102"
+        },
+        {
+            "city": "Broager",
+            "region": "21",
+            "country": "DK",
+            "latitude": "54.88736",
+            "longitude": "9.68096"
+        },
+        {
+            "city": "Brejning",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.6613",
+            "longitude": "9.67703"
+        },
+        {
+            "city": "Br\u00e6dstrup",
+            "region": "18",
+            "country": "DK",
+            "latitude": "55.97079",
+            "longitude": "9.60855"
+        },
+        {
+            "city": "Brande",
+            "region": "18",
+            "country": "DK",
+            "latitude": "55.93814",
+            "longitude": "9.12178"
+        },
+        {
+            "city": "Bramming",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.46946",
+            "longitude": "8.70007"
+        },
+        {
+            "city": "Borup",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.49472",
+            "longitude": "11.97584"
+        },
+        {
+            "city": "Bording Kirkeby",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.16871",
+            "longitude": "9.24384"
+        },
+        {
+            "city": "B\u00f8rkop",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.63794",
+            "longitude": "9.64822"
+        },
+        {
+            "city": "Bogense",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.56691",
+            "longitude": "10.08863"
+        },
+        {
+            "city": "Blovstr\u00f8d",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.87038",
+            "longitude": "12.3864"
+        },
+        {
+            "city": "Bj\u00e6verskov",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.45756",
+            "longitude": "12.03651"
+        },
+        {
+            "city": "Bjerringbro",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.37797",
+            "longitude": "9.66065"
+        },
+        {
+            "city": "Birker\u00f8d",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.84759",
+            "longitude": "12.42791"
+        },
+        {
+            "city": "Billund",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.73349",
+            "longitude": "9.10785"
+        },
+        {
+            "city": "Bellinge",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.33535",
+            "longitude": "10.32045"
+        },
+        {
+            "city": "Beder",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.06025",
+            "longitude": "10.21179"
+        },
+        {
+            "city": "Ballerup",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.73165",
+            "longitude": "12.36328"
+        },
+        {
+            "city": "Avlum",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.26539",
+            "longitude": "8.79256"
+        },
+        {
+            "city": "Auning",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.43079",
+            "longitude": "10.37818"
+        },
+        {
+            "city": "Augustenborg",
+            "region": "21",
+            "country": "DK",
+            "latitude": "54.95201",
+            "longitude": "9.87216"
+        },
+        {
+            "city": "Assentoft",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.4421",
+            "longitude": "10.1517"
+        },
+        {
+            "city": "Assens",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.27023",
+            "longitude": "9.90081"
+        },
+        {
+            "city": "Asn\u00e6s",
+            "region": "20",
+            "country": "DK",
+            "latitude": "55.81229",
+            "longitude": "11.50129"
+        },
+        {
+            "city": "\u00c5rup",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.37315",
+            "longitude": "10.04131"
+        },
+        {
+            "city": "\u00c5rslev",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.30353",
+            "longitude": "10.46428"
+        },
+        {
+            "city": "Aars",
+            "region": "19",
+            "country": "DK",
+            "latitude": "56.80399",
+            "longitude": "9.51441"
+        },
+        {
+            "city": "\u00c5rhus",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.15674",
+            "longitude": "10.21076"
+        },
+        {
+            "city": "Arden",
+            "region": "19",
+            "country": "DK",
+            "latitude": "56.76899",
+            "longitude": "9.86184"
+        },
+        {
+            "city": "Alling\u00e5bro",
+            "region": "18",
+            "country": "DK",
+            "latitude": "56.46495",
+            "longitude": "10.33409"
+        },
+        {
+            "city": "\u00c5lestrup",
+            "region": "19",
+            "country": "DK",
+            "latitude": "56.6947",
+            "longitude": "9.49336"
+        },
+        {
+            "city": "Aalborg",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.048",
+            "longitude": "9.9187"
+        },
+        {
+            "city": "Albertslund",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.65691",
+            "longitude": "12.36381"
+        },
+        {
+            "city": "\u00c5kirkeby",
+            "region": "17",
+            "country": "DK",
+            "latitude": "55.0708",
+            "longitude": "14.91978"
+        },
+        {
+            "city": "\u00c5bybro",
+            "region": "19",
+            "country": "DK",
+            "latitude": "57.15836",
+            "longitude": "9.73672"
+        },
+        {
+            "city": "Aabenraa",
+            "region": "21",
+            "country": "DK",
+            "latitude": "55.04434",
+            "longitude": "9.41741"
+        }
+    ]
+}

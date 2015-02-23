@@ -1,0 +1,552 @@
+{
+    "country": "Korea, Democratic People\"S Republic of",
+    "code": "KP",
+    "cities": [
+        {
+            "city": "Yonggang-\u016dp",
+            "region": "15",
+            "country": "KP",
+            "latitude": "38.85611",
+            "longitude": "125.42444"
+        },
+        {
+            "city": "Y\u014fngby\u014fn",
+            "region": "11",
+            "country": "KP",
+            "latitude": "39.81333",
+            "longitude": "125.80417"
+        },
+        {
+            "city": "Y\u014fnan-\u016dp",
+            "region": "06",
+            "country": "KP",
+            "latitude": "37.90889",
+            "longitude": "126.16111"
+        },
+        {
+            "city": "Y\u014fmju-\u016dp",
+            "region": "11",
+            "country": "KP",
+            "latitude": "39.89333",
+            "longitude": "124.59806"
+        },
+        {
+            "city": "W\u014fnsan",
+            "region": "09",
+            "country": "KP",
+            "latitude": "39.15278",
+            "longitude": "127.44361"
+        },
+        {
+            "city": "T\u2019ongch\u2019\u014fn-\u016dp",
+            "region": "09",
+            "country": "KP",
+            "latitude": "38.95389",
+            "longitude": "127.89167"
+        },
+        {
+            "city": "S\u016dngho 1-tong",
+            "region": "12",
+            "country": "KP",
+            "latitude": "38.99139",
+            "longitude": "125.97778"
+        },
+        {
+            "city": "Sunan",
+            "region": "12",
+            "country": "KP",
+            "latitude": "39.19833",
+            "longitude": "125.69"
+        },
+        {
+            "city": "Songnim",
+            "region": "07",
+            "country": "KP",
+            "latitude": "38.75417",
+            "longitude": "125.645"
+        },
+        {
+            "city": "Sil-li",
+            "region": "15",
+            "country": "KP",
+            "latitude": "39.49472",
+            "longitude": "125.47361"
+        },
+        {
+            "city": "Sinmak",
+            "region": "00",
+            "country": "KP",
+            "latitude": "38.41667",
+            "longitude": "126.23333"
+        },
+        {
+            "city": "Sinanju",
+            "region": "15",
+            "country": "KP",
+            "latitude": "39.59806",
+            "longitude": "125.60972"
+        },
+        {
+            "city": "Sariw\u014fn",
+            "region": "07",
+            "country": "KP",
+            "latitude": "38.50722",
+            "longitude": "125.75583"
+        },
+        {
+            "city": "Sangs\u014fng-ni",
+            "region": "15",
+            "country": "KP",
+            "latitude": "39.16944",
+            "longitude": "126.88556"
+        },
+        {
+            "city": "Samho-rodongjagu",
+            "region": "03",
+            "country": "KP",
+            "latitude": "39.9475",
+            "longitude": "127.87111"
+        },
+        {
+            "city": "Pyongyang",
+            "region": "12",
+            "country": "KP",
+            "latitude": "39.03385",
+            "longitude": "125.75432"
+        },
+        {
+            "city": "P\u2019y\u014fngs\u014fng",
+            "region": "15",
+            "country": "KP",
+            "latitude": "39.24639",
+            "longitude": "125.87194"
+        },
+        {
+            "city": "Py\u014fks\u014fng-\u016dp",
+            "region": "06",
+            "country": "KP",
+            "latitude": "38.0475",
+            "longitude": "125.55667"
+        },
+        {
+            "city": "Panghy\u014fn-dong",
+            "region": "11",
+            "country": "KP",
+            "latitude": "39.88722",
+            "longitude": "125.24139"
+        },
+        {
+            "city": "Ongjin",
+            "region": "06",
+            "country": "KP",
+            "latitude": "37.93472",
+            "longitude": "125.36194"
+        },
+        {
+            "city": "Namp\u2019o",
+            "region": "15",
+            "country": "KP",
+            "latitude": "38.7375",
+            "longitude": "125.40778"
+        },
+        {
+            "city": "Kwaksan",
+            "region": "11",
+            "country": "KP",
+            "latitude": "39.6875",
+            "longitude": "125.08278"
+        },
+        {
+            "city": "Kus\u014fng",
+            "region": "11",
+            "country": "KP",
+            "latitude": "39.98111",
+            "longitude": "125.24472"
+        },
+        {
+            "city": "Kujang-\u016dp",
+            "region": "11",
+            "country": "KP",
+            "latitude": "39.86722",
+            "longitude": "126.03028"
+        },
+        {
+            "city": "Kow\u014fn-\u016dp",
+            "region": "03",
+            "country": "KP",
+            "latitude": "39.43806",
+            "longitude": "127.24306"
+        },
+        {
+            "city": "Kosan",
+            "region": "09",
+            "country": "KP",
+            "latitude": "38.85583",
+            "longitude": "127.41806"
+        },
+        {
+            "city": "Koksan",
+            "region": "07",
+            "country": "KP",
+            "latitude": "38.78194",
+            "longitude": "126.66639"
+        },
+        {
+            "city": "Kangdong-\u016dp",
+            "region": "12",
+            "country": "KP",
+            "latitude": "39.1425",
+            "longitude": "126.09611"
+        },
+        {
+            "city": "Kaes\u014fng",
+            "region": "07",
+            "country": "KP",
+            "latitude": "37.97083",
+            "longitude": "126.55444"
+        },
+        {
+            "city": "Hwangju-\u016dp",
+            "region": "07",
+            "country": "KP",
+            "latitude": "38.67028",
+            "longitude": "125.77611"
+        },
+        {
+            "city": "H\u016dngnam",
+            "region": "03",
+            "country": "KP",
+            "latitude": "39.83167",
+            "longitude": "127.61861"
+        },
+        {
+            "city": "H\u016dkkyo-ri",
+            "region": "07",
+            "country": "KP",
+            "latitude": "38.79861",
+            "longitude": "125.79194"
+        },
+        {
+            "city": "Hoeyang",
+            "region": "09",
+            "country": "KP",
+            "latitude": "38.71028",
+            "longitude": "127.59833"
+        },
+        {
+            "city": "Hamh\u016dng",
+            "region": "03",
+            "country": "KP",
+            "latitude": "39.91833",
+            "longitude": "127.53639"
+        },
+        {
+            "city": "Haeju",
+            "region": "06",
+            "country": "KP",
+            "latitude": "38.04056",
+            "longitude": "125.71472"
+        },
+        {
+            "city": "Chunghwa",
+            "region": "12",
+            "country": "KP",
+            "latitude": "38.86389",
+            "longitude": "125.8"
+        },
+        {
+            "city": "Ch\u014fngju",
+            "region": "11",
+            "country": "KP",
+            "latitude": "39.69333",
+            "longitude": "125.21028"
+        },
+        {
+            "city": "Changy\u014fn",
+            "region": "06",
+            "country": "KP",
+            "latitude": "38.25083",
+            "longitude": "125.09611"
+        },
+        {
+            "city": "Chaery\u014fng-\u016dp",
+            "region": "06",
+            "country": "KP",
+            "latitude": "38.39917",
+            "longitude": "125.61556"
+        },
+        {
+            "city": "Ayang-ni",
+            "region": "06",
+            "country": "KP",
+            "latitude": "38.24306",
+            "longitude": "125.78"
+        },
+        {
+            "city": "Anju",
+            "region": "15",
+            "country": "KP",
+            "latitude": "39.61778",
+            "longitude": "125.66472"
+        },
+        {
+            "city": "Anby\u014fn-\u016dp",
+            "region": "09",
+            "country": "KP",
+            "latitude": "39.0425",
+            "longitude": "127.52389"
+        },
+        {
+            "city": "Anak",
+            "region": "07",
+            "country": "KP",
+            "latitude": "38.51083",
+            "longitude": "125.49417"
+        },
+        {
+            "city": "Sinsang-ni",
+            "region": "03",
+            "country": "KP",
+            "latitude": "39.65028",
+            "longitude": "127.40583"
+        },
+        {
+            "city": "Yuktae-dong",
+            "region": "03",
+            "country": "KP",
+            "latitude": "40.02472",
+            "longitude": "128.15972"
+        },
+        {
+            "city": "Ungsang-nodongjagu",
+            "region": "18",
+            "country": "KP",
+            "latitude": "42.35778",
+            "longitude": "130.46222"
+        },
+        {
+            "city": "\u016ciju",
+            "region": "11",
+            "country": "KP",
+            "latitude": "40.19944",
+            "longitude": "124.53167"
+        },
+        {
+            "city": "\u016cijin-dong",
+            "region": "01",
+            "country": "KP",
+            "latitude": "40.97518",
+            "longitude": "126.49584"
+        },
+        {
+            "city": "S\u016dngam-nodongjagu",
+            "region": "17",
+            "country": "KP",
+            "latitude": "41.66972",
+            "longitude": "129.66889"
+        },
+        {
+            "city": "S\u014fnbong",
+            "region": "18",
+            "country": "KP",
+            "latitude": "42.34222",
+            "longitude": "130.39667"
+        },
+        {
+            "city": "Sin\u016diju",
+            "region": "11",
+            "country": "KP",
+            "latitude": "40.10056",
+            "longitude": "124.39806"
+        },
+        {
+            "city": "Sakchu-\u016dp",
+            "region": "11",
+            "country": "KP",
+            "latitude": "40.38944",
+            "longitude": "125.04667"
+        },
+        {
+            "city": "Pury\u014fng",
+            "region": "17",
+            "country": "KP",
+            "latitude": "42.06056",
+            "longitude": "129.71167"
+        },
+        {
+            "city": "Pukchil-lodongjagu",
+            "region": "11",
+            "country": "KP",
+            "latitude": "40.20194",
+            "longitude": "125.74833"
+        },
+        {
+            "city": "Y\u014fnggwang-\u016dp",
+            "region": "03",
+            "country": "KP",
+            "latitude": "40.01833",
+            "longitude": "127.45472"
+        },
+        {
+            "city": "Ons\u014fng",
+            "region": "17",
+            "country": "KP",
+            "latitude": "42.95722",
+            "longitude": "129.99333"
+        },
+        {
+            "city": "Nanam",
+            "region": "17",
+            "country": "KP",
+            "latitude": "41.71361",
+            "longitude": "129.68444"
+        },
+        {
+            "city": "Namyang-dong",
+            "region": "17",
+            "country": "KP",
+            "latitude": "42.95",
+            "longitude": "129.86667"
+        },
+        {
+            "city": "Najin",
+            "region": "18",
+            "country": "KP",
+            "latitude": "42.24889",
+            "longitude": "130.30028"
+        },
+        {
+            "city": "Musan-\u016dp",
+            "region": "17",
+            "country": "KP",
+            "latitude": "42.22609",
+            "longitude": "129.20776"
+        },
+        {
+            "city": "Ky\u014fngw\u014fn",
+            "region": "17",
+            "country": "KP",
+            "latitude": "42.81361",
+            "longitude": "130.15278"
+        },
+        {
+            "city": "Ky\u014fngs\u014fng",
+            "region": "17",
+            "country": "KP",
+            "latitude": "41.58778",
+            "longitude": "129.60611"
+        },
+        {
+            "city": "Kilju",
+            "region": "17",
+            "country": "KP",
+            "latitude": "40.96417",
+            "longitude": "129.32778"
+        },
+        {
+            "city": "Kapsan-\u016dp",
+            "region": "13",
+            "country": "KP",
+            "latitude": "41.09028",
+            "longitude": "128.29333"
+        },
+        {
+            "city": "Kanggye-si",
+            "region": "01",
+            "country": "KP",
+            "latitude": "40.96946",
+            "longitude": "126.58523"
+        },
+        {
+            "city": "Iw\u014fn-\u016dp",
+            "region": "03",
+            "country": "KP",
+            "latitude": "40.32306",
+            "longitude": "128.65528"
+        },
+        {
+            "city": "Hyesan-dong",
+            "region": "13",
+            "country": "KP",
+            "latitude": "41.39756",
+            "longitude": "128.17873"
+        },
+        {
+            "city": "Hyesan-si",
+            "region": "13",
+            "country": "KP",
+            "latitude": "41.40167",
+            "longitude": "128.17778"
+        },
+        {
+            "city": "H\u016dngju-dong",
+            "region": "01",
+            "country": "KP",
+            "latitude": "40.99629",
+            "longitude": "126.54756"
+        },
+        {
+            "city": "Hongw\u014fn",
+            "region": "03",
+            "country": "KP",
+            "latitude": "40.02528",
+            "longitude": "127.95583"
+        },
+        {
+            "city": "Hoery\u014fng",
+            "region": "17",
+            "country": "KP",
+            "latitude": "42.44278",
+            "longitude": "129.75083"
+        },
+        {
+            "city": "Hoemul-li",
+            "region": "17",
+            "country": "KP",
+            "latitude": "41.43389",
+            "longitude": "129.67"
+        },
+        {
+            "city": "Hau-ri",
+            "region": "17",
+            "country": "KP",
+            "latitude": "41.20056",
+            "longitude": "129.47028"
+        },
+        {
+            "city": "Ch\u2019\u014fngjin",
+            "region": "17",
+            "country": "KP",
+            "latitude": "41.79556",
+            "longitude": "129.77583"
+        },
+        {
+            "city": "Chas\u014fng",
+            "region": "01",
+            "country": "KP",
+            "latitude": "41.46083",
+            "longitude": "126.64139"
+        },
+        {
+            "city": "Aoji-ri",
+            "region": "17",
+            "country": "KP",
+            "latitude": "42.52056",
+            "longitude": "130.39528"
+        },
+        {
+            "city": "S\u016dngjibaegam",
+            "region": "13",
+            "country": "KP",
+            "latitude": "41.24278",
+            "longitude": "128.79889"
+        },
+        {
+            "city": "Komusan 1-tong",
+            "region": "17",
+            "country": "KP",
+            "latitude": "42.10917",
+            "longitude": "129.7"
+        }
+    ]
+}

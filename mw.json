@@ -1,0 +1,258 @@
+{
+    "country": "Malawi",
+    "code": "MW",
+    "cities": [
+        {
+            "city": "Karonga",
+            "region": "N",
+            "country": "MW",
+            "latitude": "-9.93333",
+            "longitude": "33.93333"
+        },
+        {
+            "city": "Chitipa",
+            "region": "N",
+            "country": "MW",
+            "latitude": "-9.70237",
+            "longitude": "33.26969"
+        },
+        {
+            "city": "Zomba",
+            "region": "S",
+            "country": "MW",
+            "latitude": "-15.38596",
+            "longitude": "35.3188"
+        },
+        {
+            "city": "Thyolo",
+            "region": "S",
+            "country": "MW",
+            "latitude": "-16.07029",
+            "longitude": "35.14714"
+        },
+        {
+            "city": "Salima",
+            "region": "C",
+            "country": "MW",
+            "latitude": "-13.7804",
+            "longitude": "34.4587"
+        },
+        {
+            "city": "Rumphi",
+            "region": "N",
+            "country": "MW",
+            "latitude": "-11.01667",
+            "longitude": "33.86667"
+        },
+        {
+            "city": "Phalombe",
+            "region": "S",
+            "country": "MW",
+            "latitude": "-15.80635",
+            "longitude": "35.65067"
+        },
+        {
+            "city": "Ntchisi",
+            "region": "C",
+            "country": "MW",
+            "latitude": "-13.52775",
+            "longitude": "33.9149"
+        },
+        {
+            "city": "Ntcheu",
+            "region": "C",
+            "country": "MW",
+            "latitude": "-14.81667",
+            "longitude": "34.63333"
+        },
+        {
+            "city": "Nsanje",
+            "region": "S",
+            "country": "MW",
+            "latitude": "-16.91667",
+            "longitude": "35.26667"
+        },
+        {
+            "city": "Nkhotakota",
+            "region": "C",
+            "country": "MW",
+            "latitude": "-12.92493",
+            "longitude": "34.29434"
+        },
+        {
+            "city": "Nkhata Bay",
+            "region": "N",
+            "country": "MW",
+            "latitude": "-11.60667",
+            "longitude": "34.29794"
+        },
+        {
+            "city": "Neno",
+            "region": "S",
+            "country": "MW",
+            "latitude": "-15.39805",
+            "longitude": "34.65343"
+        },
+        {
+            "city": "Mzuzu",
+            "region": "N",
+            "country": "MW",
+            "latitude": "-11.46556",
+            "longitude": "34.02071"
+        },
+        {
+            "city": "Mzimba",
+            "region": "N",
+            "country": "MW",
+            "latitude": "-11.9",
+            "longitude": "33.6"
+        },
+        {
+            "city": "Mwanza",
+            "region": "S",
+            "country": "MW",
+            "latitude": "-15.60959",
+            "longitude": "34.52237"
+        },
+        {
+            "city": "Mulanje",
+            "region": "S",
+            "country": "MW",
+            "latitude": "-16.02544",
+            "longitude": "35.50402"
+        },
+        {
+            "city": "Mponela",
+            "region": "C",
+            "country": "MW",
+            "latitude": "-13.53194",
+            "longitude": "33.74008"
+        },
+        {
+            "city": "Monkey Bay",
+            "region": "S",
+            "country": "MW",
+            "latitude": "-14.0728",
+            "longitude": "34.92005"
+        },
+        {
+            "city": "Mchinji",
+            "region": "C",
+            "country": "MW",
+            "latitude": "-13.79707",
+            "longitude": "32.8898"
+        },
+        {
+            "city": "Mangochi",
+            "region": "S",
+            "country": "MW",
+            "latitude": "-14.47815",
+            "longitude": "35.26448"
+        },
+        {
+            "city": "Machinga",
+            "region": "S",
+            "country": "MW",
+            "latitude": "-15.1742",
+            "longitude": "35.30182"
+        },
+        {
+            "city": "Luchenza",
+            "region": "S",
+            "country": "MW",
+            "latitude": "-16.00693",
+            "longitude": "35.30948"
+        },
+        {
+            "city": "Liwonde",
+            "region": "00",
+            "country": "MW",
+            "latitude": "-15.05064",
+            "longitude": "35.20353"
+        },
+        {
+            "city": "Livingstonia",
+            "region": "N",
+            "country": "MW",
+            "latitude": "-10.60602",
+            "longitude": "34.10628"
+        },
+        {
+            "city": "Lilongwe",
+            "region": "C",
+            "country": "MW",
+            "latitude": "-13.96692",
+            "longitude": "33.78725"
+        },
+        {
+            "city": "Kasungu",
+            "region": "C",
+            "country": "MW",
+            "latitude": "-13.03333",
+            "longitude": "33.48333"
+        },
+        {
+            "city": "Dowa",
+            "region": "C",
+            "country": "MW",
+            "latitude": "-13.65399",
+            "longitude": "33.93754"
+        },
+        {
+            "city": "Dedza",
+            "region": "C",
+            "country": "MW",
+            "latitude": "-14.3779",
+            "longitude": "34.33322"
+        },
+        {
+            "city": "Chiradzulu",
+            "region": "S",
+            "country": "MW",
+            "latitude": "-15.67586",
+            "longitude": "35.13621"
+        },
+        {
+            "city": "Chipyela",
+            "region": "N",
+            "country": "MW",
+            "latitude": "-12.06618",
+            "longitude": "34.74092"
+        },
+        {
+            "city": "Chipoka",
+            "region": "C",
+            "country": "MW",
+            "latitude": "-13.99328",
+            "longitude": "34.51566"
+        },
+        {
+            "city": "Chikwawa",
+            "region": "S",
+            "country": "MW",
+            "latitude": "-16.04199",
+            "longitude": "34.80192"
+        },
+        {
+            "city": "Blantyre",
+            "region": "S",
+            "country": "MW",
+            "latitude": "-15.78682",
+            "longitude": "35.01387"
+        },
+        {
+            "city": "Balaka",
+            "region": "S",
+            "country": "MW",
+            "latitude": "-14.98333",
+            "longitude": "34.95"
+        },
+        {
+            "city": "Makata",
+            "region": "S",
+            "country": "MW",
+            "latitude": "-15.7872",
+            "longitude": "35.03046"
+        }
+    ]
+}

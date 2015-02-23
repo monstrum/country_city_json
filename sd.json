@@ -1,0 +1,489 @@
+{
+    "country": "Sudan",
+    "code": "SD",
+    "cities": [
+        {
+            "city": "Dongola",
+            "region": "43",
+            "country": "SD",
+            "latitude": "19.16667",
+            "longitude": "30.48333"
+        },
+        {
+            "city": "Zalingei",
+            "region": "47",
+            "country": "SD",
+            "latitude": "12.9096",
+            "longitude": "23.47406"
+        },
+        {
+            "city": "Wagar",
+            "region": "52",
+            "country": "SD",
+            "latitude": "16.1525",
+            "longitude": "36.2032"
+        },
+        {
+            "city": "Wad R\u0101wah",
+            "region": "38",
+            "country": "SD",
+            "latitude": "15.16028",
+            "longitude": "33.13972"
+        },
+        {
+            "city": "Wad Medani",
+            "region": "38",
+            "country": "SD",
+            "latitude": "14.4056",
+            "longitude": "33.4989"
+        },
+        {
+            "city": "Wad az Z\u0101ki",
+            "region": "41",
+            "country": "SD",
+            "latitude": "14.4619",
+            "longitude": "32.2065"
+        },
+        {
+            "city": "Um Ruww\u0101ba",
+            "region": "56",
+            "country": "SD",
+            "latitude": "12.9061",
+            "longitude": "31.2158"
+        },
+        {
+            "city": "Umm Kadd\u0101dah",
+            "region": "55",
+            "country": "SD",
+            "latitude": "13.6",
+            "longitude": "26.7"
+        },
+        {
+            "city": "Um Jar Al Gharbiyya",
+            "region": "41",
+            "country": "SD",
+            "latitude": "13.8013",
+            "longitude": "32.4078"
+        },
+        {
+            "city": "Omdurman",
+            "region": "29",
+            "country": "SD",
+            "latitude": "15.63611",
+            "longitude": "32.43722"
+        },
+        {
+            "city": "Tok\u0101r",
+            "region": "36",
+            "country": "SD",
+            "latitude": "18.4254",
+            "longitude": "37.729"
+        },
+        {
+            "city": "Tandalt\u012b",
+            "region": "41",
+            "country": "SD",
+            "latitude": "13.01667",
+            "longitude": "31.86667"
+        },
+        {
+            "city": "Talawd\u012b",
+            "region": "50",
+            "country": "SD",
+            "latitude": "10.63639",
+            "longitude": "30.37972"
+        },
+        {
+            "city": "Sinja",
+            "region": "58",
+            "country": "SD",
+            "latitude": "13.15",
+            "longitude": "33.93333"
+        },
+        {
+            "city": "Shendi",
+            "region": "53",
+            "country": "SD",
+            "latitude": "16.6915",
+            "longitude": "33.4341"
+        },
+        {
+            "city": "Saw\u0101kin",
+            "region": "36",
+            "country": "SD",
+            "latitude": "19.1059",
+            "longitude": "37.3321"
+        },
+        {
+            "city": "Sann\u0101r",
+            "region": "58",
+            "country": "SD",
+            "latitude": "13.55",
+            "longitude": "33.63333"
+        },
+        {
+            "city": "Rabaq",
+            "region": "41",
+            "country": "SD",
+            "latitude": "13.15",
+            "longitude": "32.73333"
+        },
+        {
+            "city": "Nyala",
+            "region": "49",
+            "country": "SD",
+            "latitude": "12.05",
+            "longitude": "24.88333"
+        },
+        {
+            "city": "Maraw\u012b",
+            "region": "43",
+            "country": "SD",
+            "latitude": "18.48333",
+            "longitude": "31.81667"
+        },
+        {
+            "city": "Marabba",
+            "region": "41",
+            "country": "SD",
+            "latitude": "12.35",
+            "longitude": "32.18333"
+        },
+        {
+            "city": "Maiurno",
+            "region": "58",
+            "country": "SD",
+            "latitude": "13.41667",
+            "longitude": "33.66667"
+        },
+        {
+            "city": "Kutum",
+            "region": "55",
+            "country": "SD",
+            "latitude": "14.2",
+            "longitude": "24.66667"
+        },
+        {
+            "city": "K\u016bst\u012b",
+            "region": "41",
+            "country": "SD",
+            "latitude": "13.16667",
+            "longitude": "32.66667"
+        },
+        {
+            "city": "Kurmuk",
+            "region": "42",
+            "country": "SD",
+            "latitude": "10.55",
+            "longitude": "34.28333"
+        },
+        {
+            "city": "Kuraymah",
+            "region": "43",
+            "country": "SD",
+            "latitude": "18.55",
+            "longitude": "31.85"
+        },
+        {
+            "city": "Kin\u0101na",
+            "region": "58",
+            "country": "SD",
+            "latitude": "14.0361",
+            "longitude": "33.1712"
+        },
+        {
+            "city": "Kassala",
+            "region": "52",
+            "country": "SD",
+            "latitude": "15.457",
+            "longitude": "36.4001"
+        },
+        {
+            "city": "Karmah an Nuzul",
+            "region": "43",
+            "country": "SD",
+            "latitude": "19.63333",
+            "longitude": "30.41667"
+        },
+        {
+            "city": "Kadugli",
+            "region": "50",
+            "country": "SD",
+            "latitude": "11.01667",
+            "longitude": "29.71667"
+        },
+        {
+            "city": "Gebeit",
+            "region": "36",
+            "country": "SD",
+            "latitude": "21.06667",
+            "longitude": "36.31667"
+        },
+        {
+            "city": "Jalqani",
+            "region": "58",
+            "country": "SD",
+            "latitude": "12.4486",
+            "longitude": "34.2186"
+        },
+        {
+            "city": "Doka",
+            "region": "39",
+            "country": "SD",
+            "latitude": "13.51667",
+            "longitude": "35.76667"
+        },
+        {
+            "city": "Dilling",
+            "region": "50",
+            "country": "SD",
+            "latitude": "12.05",
+            "longitude": "29.65"
+        },
+        {
+            "city": "Port Sudan",
+            "region": "36",
+            "country": "SD",
+            "latitude": "19.61583",
+            "longitude": "37.21639"
+        },
+        {
+            "city": "Berber",
+            "region": "53",
+            "country": "SD",
+            "latitude": "18.02158",
+            "longitude": "33.98299"
+        },
+        {
+            "city": "B\u0101rah",
+            "region": "56",
+            "country": "SD",
+            "latitude": "13.7",
+            "longitude": "30.36667"
+        },
+        {
+            "city": "Madent Atbara",
+            "region": "53",
+            "country": "SD",
+            "latitude": "17.6925",
+            "longitude": "33.9852"
+        },
+        {
+            "city": "As S\u016bk\u012b",
+            "region": "58",
+            "country": "SD",
+            "latitude": "13.31667",
+            "longitude": "33.88333"
+        },
+        {
+            "city": "Ar Ruseris",
+            "region": "42",
+            "country": "SD",
+            "latitude": "11.8659",
+            "longitude": "34.3869"
+        },
+        {
+            "city": "Ar Rahad",
+            "region": "56",
+            "country": "SD",
+            "latitude": "12.71667",
+            "longitude": "30.65"
+        },
+        {
+            "city": "Aroma",
+            "region": "52",
+            "country": "SD",
+            "latitude": "15.81667",
+            "longitude": "36.13333"
+        },
+        {
+            "city": "Argo",
+            "region": "43",
+            "country": "SD",
+            "latitude": "19.51667",
+            "longitude": "30.41667"
+        },
+        {
+            "city": "An Nuh\u016bd",
+            "region": "56",
+            "country": "SD",
+            "latitude": "12.7",
+            "longitude": "28.43333"
+        },
+        {
+            "city": "El Obeid",
+            "region": "56",
+            "country": "SD",
+            "latitude": "13.18333",
+            "longitude": "30.21667"
+        },
+        {
+            "city": "Al Qi\u0163ena",
+            "region": "41",
+            "country": "SD",
+            "latitude": "14.8648",
+            "longitude": "32.3668"
+        },
+        {
+            "city": "Gedaref",
+            "region": "39",
+            "country": "SD",
+            "latitude": "14.03333",
+            "longitude": "35.4"
+        },
+        {
+            "city": "Al Masallamiyya",
+            "region": "38",
+            "country": "SD",
+            "latitude": "14.5748",
+            "longitude": "33.3373"
+        },
+        {
+            "city": "Al Mijlad",
+            "region": "50",
+            "country": "SD",
+            "latitude": "11.03333",
+            "longitude": "27.73333"
+        },
+        {
+            "city": "El Matama",
+            "region": "53",
+            "country": "SD",
+            "latitude": "16.7095",
+            "longitude": "33.3565"
+        },
+        {
+            "city": "Al Man\u0101qil",
+            "region": "38",
+            "country": "SD",
+            "latitude": "14.2459",
+            "longitude": "32.9891"
+        },
+        {
+            "city": "Al Lagowa",
+            "region": "50",
+            "country": "SD",
+            "latitude": "11.4",
+            "longitude": "29.13333"
+        },
+        {
+            "city": "Khartoum",
+            "region": "29",
+            "country": "SD",
+            "latitude": "15.54665",
+            "longitude": "32.53361"
+        },
+        {
+            "city": "Al Kiremit al \u2018Arakiyy\u012bn",
+            "region": "38",
+            "country": "SD",
+            "latitude": "14.3476",
+            "longitude": "32.9437"
+        },
+        {
+            "city": "Al Kawa",
+            "region": "41",
+            "country": "SD",
+            "latitude": "13.7463",
+            "longitude": "32.4996"
+        },
+        {
+            "city": "El Geneina",
+            "region": "47",
+            "country": "SD",
+            "latitude": "13.45",
+            "longitude": "22.45"
+        },
+        {
+            "city": "Al Hil\u0101liyya",
+            "region": "38",
+            "country": "SD",
+            "latitude": "14.9398",
+            "longitude": "33.234"
+        },
+        {
+            "city": "Al \u1e28aw\u0101tah",
+            "region": "39",
+            "country": "SD",
+            "latitude": "13.41667",
+            "longitude": "34.63333"
+        },
+        {
+            "city": "Hasiheisa",
+            "region": "38",
+            "country": "SD",
+            "latitude": "14.7324",
+            "longitude": "33.3019"
+        },
+        {
+            "city": "Al F\u016blah",
+            "region": "50",
+            "country": "SD",
+            "latitude": "11.8",
+            "longitude": "28.4"
+        },
+        {
+            "city": "El Fasher",
+            "region": "55",
+            "country": "SD",
+            "latitude": "13.63333",
+            "longitude": "25.35"
+        },
+        {
+            "city": "El Bauga",
+            "region": "53",
+            "country": "SD",
+            "latitude": "18.26196",
+            "longitude": "33.90812"
+        },
+        {
+            "city": "Ad Diwem",
+            "region": "41",
+            "country": "SD",
+            "latitude": "14.0012",
+            "longitude": "32.3116"
+        },
+        {
+            "city": "Ad Dindar",
+            "region": "58",
+            "country": "SD",
+            "latitude": "13.2",
+            "longitude": "34.16667"
+        },
+        {
+            "city": "Ed Damer",
+            "region": "53",
+            "country": "SD",
+            "latitude": "17.59278",
+            "longitude": "33.95917"
+        },
+        {
+            "city": "Ed Damazin",
+            "region": "42",
+            "country": "SD",
+            "latitude": "11.7891",
+            "longitude": "34.3592"
+        },
+        {
+            "city": "Ad Dabbah",
+            "region": "43",
+            "country": "SD",
+            "latitude": "18.05",
+            "longitude": "30.95"
+        },
+        {
+            "city": "Ab\u016b Zabad",
+            "region": "56",
+            "country": "SD",
+            "latitude": "12.35",
+            "longitude": "29.25"
+        },
+        {
+            "city": "Abu Jibeha",
+            "region": "50",
+            "country": "SD",
+            "latitude": "11.4562",
+            "longitude": "31.2285"
+        }
+    ]
+}

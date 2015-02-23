@@ -1,0 +1,83 @@
+{
+    "country": "Bahamas",
+    "code": "BS",
+    "cities": [
+        {
+            "city": "West End",
+            "region": "25",
+            "country": "BS",
+            "latitude": "26.68333",
+            "longitude": "-78.96667"
+        },
+        {
+            "city": "Rock Sound",
+            "region": "33",
+            "country": "BS",
+            "latitude": "24.9",
+            "longitude": "-76.2"
+        },
+        {
+            "city": "Nassau",
+            "region": "23",
+            "country": "BS",
+            "latitude": "25.05823",
+            "longitude": "-77.34306"
+        },
+        {
+            "city": "Marsh Harbour",
+            "region": "31",
+            "country": "BS",
+            "latitude": "26.54124",
+            "longitude": "-77.0636"
+        },
+        {
+            "city": "Lucaya",
+            "region": "25",
+            "country": "BS",
+            "latitude": "26.53333",
+            "longitude": "-78.66667"
+        },
+        {
+            "city": "High Rock",
+            "region": "29",
+            "country": "BS",
+            "latitude": "26.62083",
+            "longitude": "-78.28333"
+        },
+        {
+            "city": "Freeport",
+            "region": "25",
+            "country": "BS",
+            "latitude": "26.53333",
+            "longitude": "-78.7"
+        },
+        {
+            "city": "Dunmore Town",
+            "region": "22",
+            "country": "BS",
+            "latitude": "25.5",
+            "longitude": "-76.65"
+        },
+        {
+            "city": "Cooper\u2019s Town",
+            "region": "28",
+            "country": "BS",
+            "latitude": "26.86667",
+            "longitude": "-77.51667"
+        },
+        {
+            "city": "Clarence Town",
+            "region": "15",
+            "country": "BS",
+            "latitude": "23.1",
+            "longitude": "-74.98333"
+        },
+        {
+            "city": "Andros Town",
+            "region": "26",
+            "country": "BS",
+            "latitude": "24.7",
+            "longitude": "-77.76667"
+        }
+    ]
+}

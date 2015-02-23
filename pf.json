@@ -1,0 +1,244 @@
+{
+    "country": "French Polynesia",
+    "code": "PF",
+    "cities": [
+        {
+            "city": "Atuona",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-9.8",
+            "longitude": "-139.03333"
+        },
+        {
+            "city": "Rikitea",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-23.12028",
+            "longitude": "-134.96917"
+        },
+        {
+            "city": "Vaitape",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-16.51667",
+            "longitude": "-151.75"
+        },
+        {
+            "city": "Vairao",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.78333",
+            "longitude": "-149.28333"
+        },
+        {
+            "city": "Uturoa",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-16.73333",
+            "longitude": "-151.43333"
+        },
+        {
+            "city": "Tohautu",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.75",
+            "longitude": "-149.31667"
+        },
+        {
+            "city": "Tiarei",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.53333",
+            "longitude": "-149.33333"
+        },
+        {
+            "city": "Tevaitoa",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-16.78333",
+            "longitude": "-151.5"
+        },
+        {
+            "city": "Teavaro",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.5",
+            "longitude": "-149.76667"
+        },
+        {
+            "city": "Teahupoo",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.83333",
+            "longitude": "-149.26667"
+        },
+        {
+            "city": "Tautira",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.73333",
+            "longitude": "-149.15"
+        },
+        {
+            "city": "Taunoa",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.75",
+            "longitude": "-149.35"
+        },
+        {
+            "city": "Punaauia",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.63333",
+            "longitude": "-149.6"
+        },
+        {
+            "city": "Pueu",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.73333",
+            "longitude": "-149.21667"
+        },
+        {
+            "city": "Pirae",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.51667",
+            "longitude": "-149.53333"
+        },
+        {
+            "city": "Papetoai",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.48333",
+            "longitude": "-149.86667"
+        },
+        {
+            "city": "Papeete",
+            "region": "01",
+            "country": "PF",
+            "latitude": "-17.53333",
+            "longitude": "-149.56667"
+        },
+        {
+            "city": "Papao",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.75",
+            "longitude": "-149.55"
+        },
+        {
+            "city": "Paopao",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.5",
+            "longitude": "-149.81667"
+        },
+        {
+            "city": "Paea",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.68333",
+            "longitude": "-149.58333"
+        },
+        {
+            "city": "Otutara",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.76667",
+            "longitude": "-149.41667"
+        },
+        {
+            "city": "Moerai",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-22.43333",
+            "longitude": "-151.33333"
+        },
+        {
+            "city": "Mahina",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.50648",
+            "longitude": "-149.48899"
+        },
+        {
+            "city": "Hitiaa",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.6",
+            "longitude": "-149.3"
+        },
+        {
+            "city": "Haapiti",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.56667",
+            "longitude": "-149.86667"
+        },
+        {
+            "city": "Fitii",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-16.73333",
+            "longitude": "-151.03333"
+        },
+        {
+            "city": "Fare",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-16.7",
+            "longitude": "-151.01667"
+        },
+        {
+            "city": "Faaone",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.66667",
+            "longitude": "-149.3"
+        },
+        {
+            "city": "Faanui",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-16.48333",
+            "longitude": "-151.75"
+        },
+        {
+            "city": "Faaa",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.55",
+            "longitude": "-149.6"
+        },
+        {
+            "city": "Arue",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.51667",
+            "longitude": "-149.5"
+        },
+        {
+            "city": "Anau",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-16.51667",
+            "longitude": "-151.73333"
+        },
+        {
+            "city": "Afareaitu",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.55",
+            "longitude": "-149.78333"
+        },
+        {
+            "city": "Afaahiti",
+            "region": "00",
+            "country": "PF",
+            "latitude": "-17.75",
+            "longitude": "-149.28333"
+        }
+    ]
+}

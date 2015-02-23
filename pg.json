@@ -1,0 +1,258 @@
+{
+    "country": "Papua New Guinea",
+    "code": "PG",
+    "cities": [
+        {
+            "city": "Wewak",
+            "region": "11",
+            "country": "PG",
+            "latitude": "-3.55342",
+            "longitude": "143.62678"
+        },
+        {
+            "city": "Wau",
+            "region": "14",
+            "country": "PG",
+            "latitude": "-7.33514",
+            "longitude": "146.71798"
+        },
+        {
+            "city": "Wabag",
+            "region": "19",
+            "country": "PG",
+            "latitude": "-5.47808",
+            "longitude": "143.70215"
+        },
+        {
+            "city": "Vanimo",
+            "region": "18",
+            "country": "PG",
+            "latitude": "-2.67408",
+            "longitude": "141.30284"
+        },
+        {
+            "city": "Rabaul",
+            "region": "10",
+            "country": "PG",
+            "latitude": "-4.19671",
+            "longitude": "152.17215"
+        },
+        {
+            "city": "Port Moresby",
+            "region": "20",
+            "country": "PG",
+            "latitude": "-9.44314",
+            "longitude": "147.17972"
+        },
+        {
+            "city": "Porgera",
+            "region": "19",
+            "country": "PG",
+            "latitude": "-5.46667",
+            "longitude": "143.2"
+        },
+        {
+            "city": "Popondetta",
+            "region": "04",
+            "country": "PG",
+            "latitude": "-8.75367",
+            "longitude": "148.25342"
+        },
+        {
+            "city": "Panguna",
+            "region": "07",
+            "country": "PG",
+            "latitude": "-6.3164",
+            "longitude": "155.48483"
+        },
+        {
+            "city": "Namatanai",
+            "region": "15",
+            "country": "PG",
+            "latitude": "-3.66667",
+            "longitude": "152.43333"
+        },
+        {
+            "city": "Mount Hagen",
+            "region": "16",
+            "country": "PG",
+            "latitude": "-5.8581",
+            "longitude": "144.22744"
+        },
+        {
+            "city": "Morehead",
+            "region": "06",
+            "country": "PG",
+            "latitude": "-8.71066",
+            "longitude": "141.63668"
+        },
+        {
+            "city": "Mendi",
+            "region": "05",
+            "country": "PG",
+            "latitude": "-6.17608",
+            "longitude": "143.65134"
+        },
+        {
+            "city": "Madang",
+            "region": "12",
+            "country": "PG",
+            "latitude": "-5.22465",
+            "longitude": "145.79656"
+        },
+        {
+            "city": "Lorengau",
+            "region": "13",
+            "country": "PG",
+            "latitude": "-2.02259",
+            "longitude": "147.27119"
+        },
+        {
+            "city": "Lae",
+            "region": "14",
+            "country": "PG",
+            "latitude": "-6.72208",
+            "longitude": "146.98469"
+        },
+        {
+            "city": "Kundiawa",
+            "region": "08",
+            "country": "PG",
+            "latitude": "-6.01667",
+            "longitude": "144.96667"
+        },
+        {
+            "city": "Kokopo",
+            "region": "10",
+            "country": "PG",
+            "latitude": "-4.35202",
+            "longitude": "152.26327"
+        },
+        {
+            "city": "Kokoda",
+            "region": "04",
+            "country": "PG",
+            "latitude": "-8.87853",
+            "longitude": "147.74073"
+        },
+        {
+            "city": "Kiunga",
+            "region": "06",
+            "country": "PG",
+            "latitude": "-6.12193",
+            "longitude": "141.29061"
+        },
+        {
+            "city": "Kimbe",
+            "region": "17",
+            "country": "PG",
+            "latitude": "-5.55021",
+            "longitude": "150.14285"
+        },
+        {
+            "city": "Kieta",
+            "region": "07",
+            "country": "PG",
+            "latitude": "-6.21667",
+            "longitude": "155.63333"
+        },
+        {
+            "city": "Kerema",
+            "region": "02",
+            "country": "PG",
+            "latitude": "-7.96309",
+            "longitude": "145.77851"
+        },
+        {
+            "city": "Kavieng",
+            "region": "15",
+            "country": "PG",
+            "latitude": "-2.57444",
+            "longitude": "150.79669"
+        },
+        {
+            "city": "Kandrian",
+            "region": "17",
+            "country": "PG",
+            "latitude": "-6.21667",
+            "longitude": "149.55"
+        },
+        {
+            "city": "Kainantu",
+            "region": "09",
+            "country": "PG",
+            "latitude": "-6.28872",
+            "longitude": "145.86548"
+        },
+        {
+            "city": "Ialibu",
+            "region": "05",
+            "country": "PG",
+            "latitude": "-6.28208",
+            "longitude": "143.99354"
+        },
+        {
+            "city": "Goroka",
+            "region": "09",
+            "country": "PG",
+            "latitude": "-6.08336",
+            "longitude": "145.38735"
+        },
+        {
+            "city": "Finschhafen",
+            "region": "14",
+            "country": "PG",
+            "latitude": "-6.60243",
+            "longitude": "147.86814"
+        },
+        {
+            "city": "Daru",
+            "region": "06",
+            "country": "PG",
+            "latitude": "-9.07628",
+            "longitude": "143.20919"
+        },
+        {
+            "city": "Bulolo",
+            "region": "14",
+            "country": "PG",
+            "latitude": "-7.2",
+            "longitude": "146.65"
+        },
+        {
+            "city": "Arawa",
+            "region": "07",
+            "country": "PG",
+            "latitude": "-6.21319",
+            "longitude": "155.53674"
+        },
+        {
+            "city": "Angoram",
+            "region": "11",
+            "country": "PG",
+            "latitude": "-4.06253",
+            "longitude": "144.06609"
+        },
+        {
+            "city": "Ambunti",
+            "region": "11",
+            "country": "PG",
+            "latitude": "-4.23653",
+            "longitude": "142.84485"
+        },
+        {
+            "city": "Aitape",
+            "region": "18",
+            "country": "PG",
+            "latitude": "-3.13744",
+            "longitude": "142.3475"
+        },
+        {
+            "city": "Samarai",
+            "region": "03",
+            "country": "PG",
+            "latitude": "-10.61667",
+            "longitude": "150.66667"
+        }
+    ]
+}

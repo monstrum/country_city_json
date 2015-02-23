@@ -1,0 +1,111 @@
+{
+    "country": "Qatar",
+    "code": "QA",
+    "cities": [
+        {
+            "city": "Umm \u015eal\u0101l Mu\u1e29ammad",
+            "region": "09",
+            "country": "QA",
+            "latitude": "25.41694",
+            "longitude": "51.40389"
+        },
+        {
+            "city": "Umm \u015eal\u0101l \u2018Al\u012b",
+            "region": "09",
+            "country": "QA",
+            "latitude": "25.46972",
+            "longitude": "51.3975"
+        },
+        {
+            "city": "Umm B\u0101b",
+            "region": "06",
+            "country": "QA",
+            "latitude": "25.21417",
+            "longitude": "50.80722"
+        },
+        {
+            "city": "Mad\u012bnat ash Sham\u0101l",
+            "region": "08",
+            "country": "QA",
+            "latitude": "26.12933",
+            "longitude": "51.2009"
+        },
+        {
+            "city": "Dukh\u0101n",
+            "region": "06",
+            "country": "QA",
+            "latitude": "25.42972",
+            "longitude": "50.78583"
+        },
+        {
+            "city": "Ash Sha\u1e29\u0101n\u012byah",
+            "region": "06",
+            "country": "QA",
+            "latitude": "25.36861",
+            "longitude": "51.22639"
+        },
+        {
+            "city": "Ar Ru\u2019ays",
+            "region": "08",
+            "country": "QA",
+            "latitude": "26.13333",
+            "longitude": "51.21667"
+        },
+        {
+            "city": "Ar Rayy\u0101n",
+            "region": "06",
+            "country": "QA",
+            "latitude": "25.29194",
+            "longitude": "51.42444"
+        },
+        {
+            "city": "Al Wukayr",
+            "region": "10",
+            "country": "QA",
+            "latitude": "25.15083",
+            "longitude": "51.53778"
+        },
+        {
+            "city": "Al Wakrah",
+            "region": "10",
+            "country": "QA",
+            "latitude": "25.17151",
+            "longitude": "51.60337"
+        },
+        {
+            "city": "Al Khawr",
+            "region": "04",
+            "country": "QA",
+            "latitude": "25.68389",
+            "longitude": "51.50583"
+        },
+        {
+            "city": "Al Jumayl\u012byah",
+            "region": "06",
+            "country": "QA",
+            "latitude": "25.60944",
+            "longitude": "51.09222"
+        },
+        {
+            "city": "Al Ghuwayr\u012byah",
+            "region": "04",
+            "country": "QA",
+            "latitude": "25.82972",
+            "longitude": "51.24528"
+        },
+        {
+            "city": "Doha",
+            "region": "01",
+            "country": "QA",
+            "latitude": "25.27932",
+            "longitude": "51.52245"
+        },
+        {
+            "city": "Fuwayri\u0163",
+            "region": "08",
+            "country": "QA",
+            "latitude": "26.02167",
+            "longitude": "51.36694"
+        }
+    ]
+}

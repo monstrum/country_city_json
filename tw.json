@@ -1,0 +1,237 @@
+{
+    "country": "Taiwan, Province of China",
+    "code": "TW",
+    "cities": [
+        {
+            "city": "Douliu",
+            "region": "04",
+            "country": "TW",
+            "latitude": "23.70944",
+            "longitude": "120.54333"
+        },
+        {
+            "city": "Yujing",
+            "region": "04",
+            "country": "TW",
+            "latitude": "23.12493",
+            "longitude": "120.46138"
+        },
+        {
+            "city": "Taoyuan",
+            "region": "04",
+            "country": "TW",
+            "latitude": "24.9896",
+            "longitude": "121.3187"
+        },
+        {
+            "city": "Taitung",
+            "region": "04",
+            "country": "TW",
+            "latitude": "22.75991",
+            "longitude": "121.14457"
+        },
+        {
+            "city": "Taipei",
+            "region": "03",
+            "country": "TW",
+            "latitude": "25.04776",
+            "longitude": "121.53185"
+        },
+        {
+            "city": "Taibao",
+            "region": "04",
+            "country": "TW",
+            "latitude": "23.45944",
+            "longitude": "120.33222"
+        },
+        {
+            "city": "Xinying",
+            "region": "04",
+            "country": "TW",
+            "latitude": "23.30694",
+            "longitude": "120.31056"
+        },
+        {
+            "city": "Tainan",
+            "region": "04",
+            "country": "TW",
+            "latitude": "22.99083",
+            "longitude": "120.21333"
+        },
+        {
+            "city": "Fengyuan",
+            "region": "04",
+            "country": "TW",
+            "latitude": "24.25",
+            "longitude": "120.71694"
+        },
+        {
+            "city": "Taichung",
+            "region": "04",
+            "country": "TW",
+            "latitude": "24.1469",
+            "longitude": "120.6839"
+        },
+        {
+            "city": "Daxi",
+            "region": "04",
+            "country": "TW",
+            "latitude": "24.88373",
+            "longitude": "121.29043"
+        },
+        {
+            "city": "Banqiao",
+            "region": "03",
+            "country": "TW",
+            "latitude": "25.01427",
+            "longitude": "121.46719"
+        },
+        {
+            "city": "Buli",
+            "region": "04",
+            "country": "TW",
+            "latitude": "23.96639",
+            "longitude": "120.96952"
+        },
+        {
+            "city": "Pingtung",
+            "region": "04",
+            "country": "TW",
+            "latitude": "22.67135",
+            "longitude": "120.48814"
+        },
+        {
+            "city": "Nantou",
+            "region": "04",
+            "country": "TW",
+            "latitude": "23.91566",
+            "longitude": "120.66387"
+        },
+        {
+            "city": "Miaoli",
+            "region": "04",
+            "country": "TW",
+            "latitude": "24.56427",
+            "longitude": "120.82367"
+        },
+        {
+            "city": "Ma-kung",
+            "region": "04",
+            "country": "TW",
+            "latitude": "23.5654",
+            "longitude": "119.58627"
+        },
+        {
+            "city": "Lugu",
+            "region": "04",
+            "country": "TW",
+            "latitude": "23.74639",
+            "longitude": "120.7525"
+        },
+        {
+            "city": "Fengshan",
+            "region": "04",
+            "country": "TW",
+            "latitude": "22.62659",
+            "longitude": "120.36126"
+        },
+        {
+            "city": "Kaohsiung",
+            "region": "02",
+            "country": "TW",
+            "latitude": "22.61626",
+            "longitude": "120.31333"
+        },
+        {
+            "city": "Yilan",
+            "region": "04",
+            "country": "TW",
+            "latitude": "24.757",
+            "longitude": "121.753"
+        },
+        {
+            "city": "Hualian",
+            "region": "04",
+            "country": "TW",
+            "latitude": "23.97694",
+            "longitude": "121.60444"
+        },
+        {
+            "city": "Hsinchu",
+            "region": "04",
+            "country": "TW",
+            "latitude": "24.80361",
+            "longitude": "120.96861"
+        },
+        {
+            "city": "Hengchun",
+            "region": "04",
+            "country": "TW",
+            "latitude": "22.00417",
+            "longitude": "120.74389"
+        },
+        {
+            "city": "Zhubei",
+            "region": "04",
+            "country": "TW",
+            "latitude": "24.83833",
+            "longitude": "121.00778"
+        },
+        {
+            "city": "Jincheng",
+            "region": "01",
+            "country": "TW",
+            "latitude": "24.43667",
+            "longitude": "118.31833"
+        },
+        {
+            "city": "Keelung",
+            "region": "04",
+            "country": "TW",
+            "latitude": "25.12825",
+            "longitude": "121.7419"
+        },
+        {
+            "city": "Jiayi Shi",
+            "region": "04",
+            "country": "TW",
+            "latitude": "23.47917",
+            "longitude": "120.44889"
+        },
+        {
+            "city": "Chang-hua",
+            "region": "04",
+            "country": "TW",
+            "latitude": "24.07327",
+            "longitude": "120.56276"
+        },
+        {
+            "city": "Taoyuan City",
+            "region": "04",
+            "country": "TW",
+            "latitude": "24.99368",
+            "longitude": "121.29696"
+        },
+        {
+            "city": "Taitung City",
+            "region": "",
+            "country": "TW",
+            "latitude": "22.7583",
+            "longitude": "121.1444"
+        },
+        {
+            "city": "Nangan",
+            "region": "01",
+            "country": "TW",
+            "latitude": "26.15039",
+            "longitude": "119.93284"
+        },
+        {
+            "city": "Zhongxing New Village",
+            "region": "04",
+            "country": "TW",
+            "latitude": "23.95908",
+            "longitude": "120.68516"
+        }
+    ]
+}

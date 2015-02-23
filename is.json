@@ -1,0 +1,195 @@
+{
+    "country": "Iceland",
+    "code": "IS",
+    "cities": [
+        {
+            "city": "Siglufj\u00f6r\u00f0ur",
+            "region": "40",
+            "country": "IS",
+            "latitude": "66.15134",
+            "longitude": "-18.90512"
+        },
+        {
+            "city": "Sau\u00f0\u00e1rkr\u00f3kur",
+            "region": "41",
+            "country": "IS",
+            "latitude": "65.74611",
+            "longitude": "-19.63944"
+        },
+        {
+            "city": "Neskaupsta\u00f0ur",
+            "region": "38",
+            "country": "IS",
+            "latitude": "65.14882",
+            "longitude": "-13.67951"
+        },
+        {
+            "city": "H\u00fasav\u00edk",
+            "region": "40",
+            "country": "IS",
+            "latitude": "66.04489",
+            "longitude": "-17.33885"
+        },
+        {
+            "city": "H\u00f6fn",
+            "region": "38",
+            "country": "IS",
+            "latitude": "64.25387",
+            "longitude": "-15.2082"
+        },
+        {
+            "city": "Dalv\u00edk",
+            "region": "40",
+            "country": "IS",
+            "latitude": "65.97018",
+            "longitude": "-18.52861"
+        },
+        {
+            "city": "Akureyri",
+            "region": "40",
+            "country": "IS",
+            "latitude": "65.68353",
+            "longitude": "-18.0878"
+        },
+        {
+            "city": "Vestmannaeyjar",
+            "region": "42",
+            "country": "IS",
+            "latitude": "63.44273",
+            "longitude": "-20.27339"
+        },
+        {
+            "city": "\u00deorl\u00e1ksh\u00f6fn",
+            "region": "42",
+            "country": "IS",
+            "latitude": "63.86093",
+            "longitude": "-21.37844"
+        },
+        {
+            "city": "Stykkish\u00f3lmur",
+            "region": "45",
+            "country": "IS",
+            "latitude": "65.07573",
+            "longitude": "-22.72967"
+        },
+        {
+            "city": "Selfoss",
+            "region": "42",
+            "country": "IS",
+            "latitude": "63.93311",
+            "longitude": "-20.99712"
+        },
+        {
+            "city": "Sandger\u00f0i",
+            "region": "43",
+            "country": "IS",
+            "latitude": "64.03661",
+            "longitude": "-22.7066"
+        },
+        {
+            "city": "Reykjav\u00edk",
+            "region": "39",
+            "country": "IS",
+            "latitude": "64.13548",
+            "longitude": "-21.89541"
+        },
+        {
+            "city": "Njar\u00f0v\u00edk",
+            "region": "43",
+            "country": "IS",
+            "latitude": "63.9809",
+            "longitude": "-22.5145"
+        },
+        {
+            "city": "Seltjarnarnes",
+            "region": "39",
+            "country": "IS",
+            "latitude": "64.15",
+            "longitude": "-22"
+        },
+        {
+            "city": "Mosfellsb\u00e6r",
+            "region": "39",
+            "country": "IS",
+            "latitude": "64.16667",
+            "longitude": "-21.7"
+        },
+        {
+            "city": "K\u00f3pavogur",
+            "region": "39",
+            "country": "IS",
+            "latitude": "64.11234",
+            "longitude": "-21.91298"
+        },
+        {
+            "city": "Keflav\u00edk",
+            "region": "43",
+            "country": "IS",
+            "latitude": "64.00492",
+            "longitude": "-22.56242"
+        },
+        {
+            "city": "\u00cdsafj\u00f6r\u00f0ur",
+            "region": "44",
+            "country": "IS",
+            "latitude": "66.07549",
+            "longitude": "-23.124"
+        },
+        {
+            "city": "Hverager\u00f0i",
+            "region": "42",
+            "country": "IS",
+            "latitude": "64.00057",
+            "longitude": "-21.18874"
+        },
+        {
+            "city": "Hafnarfj\u00f6r\u00f0ur",
+            "region": "39",
+            "country": "IS",
+            "latitude": "64.0671",
+            "longitude": "-21.93774"
+        },
+        {
+            "city": "Grindav\u00edk",
+            "region": "43",
+            "country": "IS",
+            "latitude": "63.8424",
+            "longitude": "-22.43375"
+        },
+        {
+            "city": "Gar\u00f0ab\u00e6r",
+            "region": "39",
+            "country": "IS",
+            "latitude": "64.08865",
+            "longitude": "-21.92298"
+        },
+        {
+            "city": "\u00c1lftanes",
+            "region": "43",
+            "country": "IS",
+            "latitude": "64.1",
+            "longitude": "-22.01667"
+        },
+        {
+            "city": "Borgarnes",
+            "region": "45",
+            "country": "IS",
+            "latitude": "64.53834",
+            "longitude": "-21.92064"
+        },
+        {
+            "city": "Akranes",
+            "region": "45",
+            "country": "IS",
+            "latitude": "64.32179",
+            "longitude": "-22.0749"
+        },
+        {
+            "city": "Egilssta\u00f0ir",
+            "region": "38",
+            "country": "IS",
+            "latitude": "65.26533",
+            "longitude": "-14.39484"
+        }
+    ]
+}

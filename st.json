@@ -1,0 +1,20 @@
+{
+    "country": "Sao Tome and Principe",
+    "code": "ST",
+    "cities": [
+        {
+            "city": "S\u00e3o Tom\u00e9",
+            "region": "02",
+            "country": "ST",
+            "latitude": "0.33654",
+            "longitude": "6.72732"
+        },
+        {
+            "city": "Santo Ant\u00f3nio",
+            "region": "01",
+            "country": "ST",
+            "latitude": "1.63726",
+            "longitude": "7.41783"
+        }
+    ]
+}

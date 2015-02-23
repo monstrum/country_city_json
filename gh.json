@@ -1,0 +1,489 @@
+{
+    "country": "Ghana",
+    "code": "GH",
+    "cities": [
+        {
+            "city": "Yendi",
+            "region": "00",
+            "country": "GH",
+            "latitude": "9.44272",
+            "longitude": "-0.00991"
+        },
+        {
+            "city": "Winneba",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.35113",
+            "longitude": "-0.62313"
+        },
+        {
+            "city": "Wenchi",
+            "region": "00",
+            "country": "GH",
+            "latitude": "7.73916",
+            "longitude": "-2.10456"
+        },
+        {
+            "city": "Wa",
+            "region": "11",
+            "country": "GH",
+            "latitude": "10.06069",
+            "longitude": "-2.50192"
+        },
+        {
+            "city": "Teshi",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.58365",
+            "longitude": "-0.10722"
+        },
+        {
+            "city": "Tema",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.61667",
+            "longitude": "-0.01667"
+        },
+        {
+            "city": "Techiman",
+            "region": "00",
+            "country": "GH",
+            "latitude": "7.58616",
+            "longitude": "-1.94137"
+        },
+        {
+            "city": "Tarkwa",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.30644",
+            "longitude": "-1.98474"
+        },
+        {
+            "city": "Tamale",
+            "region": "06",
+            "country": "GH",
+            "latitude": "9.40078",
+            "longitude": "-0.8393"
+        },
+        {
+            "city": "Takoradi",
+            "region": "00",
+            "country": "GH",
+            "latitude": "4.88447",
+            "longitude": "-1.75536"
+        },
+        {
+            "city": "Tafo",
+            "region": "00",
+            "country": "GH",
+            "latitude": "6.73453",
+            "longitude": "-1.61275"
+        },
+        {
+            "city": "Swedru",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.53711",
+            "longitude": "-0.69984"
+        },
+        {
+            "city": "Sunyani",
+            "region": "03",
+            "country": "GH",
+            "latitude": "7.33991",
+            "longitude": "-2.32676"
+        },
+        {
+            "city": "Suhum",
+            "region": "00",
+            "country": "GH",
+            "latitude": "6.04089",
+            "longitude": "-0.45004"
+        },
+        {
+            "city": "Shama Junction",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.00872",
+            "longitude": "-1.63011"
+        },
+        {
+            "city": "Sekondi",
+            "region": "09",
+            "country": "GH",
+            "latitude": "4.934",
+            "longitude": "-1.7137"
+        },
+        {
+            "city": "Savelugu",
+            "region": "06",
+            "country": "GH",
+            "latitude": "9.62441",
+            "longitude": "-0.8253"
+        },
+        {
+            "city": "Saltpond",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.20913",
+            "longitude": "-1.06058"
+        },
+        {
+            "city": "Salaga",
+            "region": "00",
+            "country": "GH",
+            "latitude": "8.55083",
+            "longitude": "-0.51875"
+        },
+        {
+            "city": "Prestea",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.43274",
+            "longitude": "-2.14284"
+        },
+        {
+            "city": "Oduponkpehe",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.53302",
+            "longitude": "-0.4224"
+        },
+        {
+            "city": "Oda",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.92313",
+            "longitude": "-0.99507"
+        },
+        {
+            "city": "Obuasi",
+            "region": "00",
+            "country": "GH",
+            "latitude": "6.20602",
+            "longitude": "-1.66191"
+        },
+        {
+            "city": "Nungua",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.60106",
+            "longitude": "-0.07713"
+        },
+        {
+            "city": "Nsawam",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.80893",
+            "longitude": "-0.35026"
+        },
+        {
+            "city": "Nkawkaw",
+            "region": "00",
+            "country": "GH",
+            "latitude": "6.55121",
+            "longitude": "-0.7662"
+        },
+        {
+            "city": "Navrongo",
+            "region": "10",
+            "country": "GH",
+            "latitude": "10.89557",
+            "longitude": "-1.0921"
+        },
+        {
+            "city": "Mumford",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.26176",
+            "longitude": "-0.75897"
+        },
+        {
+            "city": "Mpraeso",
+            "region": "00",
+            "country": "GH",
+            "latitude": "6.5932",
+            "longitude": "-0.73462"
+        },
+        {
+            "city": "Mampong",
+            "region": "00",
+            "country": "GH",
+            "latitude": "7.06273",
+            "longitude": "-1.4001"
+        },
+        {
+            "city": "Madina",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.68234",
+            "longitude": "-0.16413"
+        },
+        {
+            "city": "Kumasi",
+            "region": "02",
+            "country": "GH",
+            "latitude": "6.69362",
+            "longitude": "-1.62179"
+        },
+        {
+            "city": "Kpandu",
+            "region": "00",
+            "country": "GH",
+            "latitude": "6.99536",
+            "longitude": "0.29306"
+        },
+        {
+            "city": "Kpandae",
+            "region": "00",
+            "country": "GH",
+            "latitude": "8.46885",
+            "longitude": "-0.01127"
+        },
+        {
+            "city": "Konongo",
+            "region": "00",
+            "country": "GH",
+            "latitude": "6.61667",
+            "longitude": "-1.21667"
+        },
+        {
+            "city": "Koforidua",
+            "region": "05",
+            "country": "GH",
+            "latitude": "6.09408",
+            "longitude": "-0.25913"
+        },
+        {
+            "city": "Kintampo",
+            "region": "00",
+            "country": "GH",
+            "latitude": "8.05627",
+            "longitude": "-1.73058"
+        },
+        {
+            "city": "Kibi",
+            "region": "00",
+            "country": "GH",
+            "latitude": "6.16494",
+            "longitude": "-0.55376"
+        },
+        {
+            "city": "Kete Krachi",
+            "region": "00",
+            "country": "GH",
+            "latitude": "7.79391",
+            "longitude": "-0.0498"
+        },
+        {
+            "city": "Keta",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.91793",
+            "longitude": "0.9879"
+        },
+        {
+            "city": "Hohoe",
+            "region": "00",
+            "country": "GH",
+            "latitude": "7.15181",
+            "longitude": "0.47362"
+        },
+        {
+            "city": "Ho",
+            "region": "08",
+            "country": "GH",
+            "latitude": "6.6",
+            "longitude": "0.46667"
+        },
+        {
+            "city": "Gbawe",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.57714",
+            "longitude": "-0.31035"
+        },
+        {
+            "city": "Foso",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.70119",
+            "longitude": "-1.28657"
+        },
+        {
+            "city": "Elmina",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.08981",
+            "longitude": "-1.34804"
+        },
+        {
+            "city": "Ejura",
+            "region": "00",
+            "country": "GH",
+            "latitude": "7.38558",
+            "longitude": "-1.35617"
+        },
+        {
+            "city": "Dunkwa",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.96562",
+            "longitude": "-1.77995"
+        },
+        {
+            "city": "Duayaw Nkwanta",
+            "region": "00",
+            "country": "GH",
+            "latitude": "7.17242",
+            "longitude": "-2.1028"
+        },
+        {
+            "city": "Dom",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.65003",
+            "longitude": "-0.2361"
+        },
+        {
+            "city": "Cape Coast",
+            "region": "04",
+            "country": "GH",
+            "latitude": "5.10535",
+            "longitude": "-1.2466"
+        },
+        {
+            "city": "Bolgatanga",
+            "region": "10",
+            "country": "GH",
+            "latitude": "10.78556",
+            "longitude": "-0.85139"
+        },
+        {
+            "city": "Bibiani",
+            "region": "00",
+            "country": "GH",
+            "latitude": "6.46346",
+            "longitude": "-2.31938"
+        },
+        {
+            "city": "Berekum",
+            "region": "00",
+            "country": "GH",
+            "latitude": "7.4534",
+            "longitude": "-2.58404"
+        },
+        {
+            "city": "Bekwai",
+            "region": "00",
+            "country": "GH",
+            "latitude": "6.45335",
+            "longitude": "-1.57741"
+        },
+        {
+            "city": "Begoro",
+            "region": "00",
+            "country": "GH",
+            "latitude": "6.38706",
+            "longitude": "-0.37738"
+        },
+        {
+            "city": "Bechem",
+            "region": "00",
+            "country": "GH",
+            "latitude": "7.09034",
+            "longitude": "-2.02498"
+        },
+        {
+            "city": "Bawku",
+            "region": "10",
+            "country": "GH",
+            "latitude": "11.0616",
+            "longitude": "-0.24168"
+        },
+        {
+            "city": "Axim",
+            "region": "09",
+            "country": "GH",
+            "latitude": "4.86992",
+            "longitude": "-2.24046"
+        },
+        {
+            "city": "Asamankese",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.86006",
+            "longitude": "-0.6635"
+        },
+        {
+            "city": "Apam",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.28483",
+            "longitude": "-0.73711"
+        },
+        {
+            "city": "Anloga",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.79473",
+            "longitude": "0.89728"
+        },
+        {
+            "city": "Akwatia",
+            "region": "00",
+            "country": "GH",
+            "latitude": "6.04024",
+            "longitude": "-0.80876"
+        },
+        {
+            "city": "Akropong",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.97462",
+            "longitude": "-0.08542"
+        },
+        {
+            "city": "Akim Swedru",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.8938",
+            "longitude": "-1.01636"
+        },
+        {
+            "city": "Agogo",
+            "region": "00",
+            "country": "GH",
+            "latitude": "6.80004",
+            "longitude": "-1.08193"
+        },
+        {
+            "city": "Achiaman",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.7",
+            "longitude": "-0.33333"
+        },
+        {
+            "city": "Accra",
+            "region": "01",
+            "country": "GH",
+            "latitude": "5.55602",
+            "longitude": "-0.1969"
+        },
+        {
+            "city": "Aburi",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.84718",
+            "longitude": "-0.17754"
+        },
+        {
+            "city": "Aboso",
+            "region": "00",
+            "country": "GH",
+            "latitude": "5.3617",
+            "longitude": "-1.94732"
+        }
+    ]
+}

@@ -1,0 +1,454 @@
+{
+    "country": "Cote D\"Ivoire",
+    "code": "CI",
+    "cities": [
+        {
+            "city": "Zu\u00e9noula",
+            "region": "83",
+            "country": "CI",
+            "latitude": "7.42917",
+            "longitude": "-6.04306"
+        },
+        {
+            "city": "Yamoussoukro",
+            "region": "81",
+            "country": "CI",
+            "latitude": "6.82055",
+            "longitude": "-5.27674"
+        },
+        {
+            "city": "Vavoua",
+            "region": "80",
+            "country": "CI",
+            "latitude": "7.38194",
+            "longitude": "-6.47778"
+        },
+        {
+            "city": "Toumodi",
+            "region": "81",
+            "country": "CI",
+            "latitude": "6.56128",
+            "longitude": "-5.01575"
+        },
+        {
+            "city": "Toul\u00e9pleu Guer\u00e9",
+            "region": "84",
+            "country": "CI",
+            "latitude": "6.57395",
+            "longitude": "-8.42592"
+        },
+        {
+            "city": "Touba",
+            "region": "75",
+            "country": "CI",
+            "latitude": "8.28333",
+            "longitude": "-7.68333"
+        },
+        {
+            "city": "Tengrela",
+            "region": "87",
+            "country": "CI",
+            "latitude": "10.48694",
+            "longitude": "-6.40972"
+        },
+        {
+            "city": "Tiassal\u00e9",
+            "region": "82",
+            "country": "CI",
+            "latitude": "5.89833",
+            "longitude": "-4.82833"
+        },
+        {
+            "city": "Tanda",
+            "region": "92",
+            "country": "CI",
+            "latitude": "7.80639",
+            "longitude": "-3.17139"
+        },
+        {
+            "city": "Tabou",
+            "region": "76",
+            "country": "CI",
+            "latitude": "4.41667",
+            "longitude": "-7.35"
+        },
+        {
+            "city": "Sinfra",
+            "region": "92",
+            "country": "CI",
+            "latitude": "6.61667",
+            "longitude": "-5.91667"
+        },
+        {
+            "city": "Sassandra",
+            "region": "76",
+            "country": "CI",
+            "latitude": "4.95",
+            "longitude": "-6.08333"
+        },
+        {
+            "city": "San-P\u00e9dro",
+            "region": "76",
+            "country": "CI",
+            "latitude": "4.73333",
+            "longitude": "-6.61667"
+        },
+        {
+            "city": "Sakassou",
+            "region": "90",
+            "country": "CI",
+            "latitude": "7.45462",
+            "longitude": "-5.29263"
+        },
+        {
+            "city": "Oum\u00e9",
+            "region": "79",
+            "country": "CI",
+            "latitude": "6.38309",
+            "longitude": "-5.41759"
+        },
+        {
+            "city": "Odienn\u00e9",
+            "region": "77",
+            "country": "CI",
+            "latitude": "9.51",
+            "longitude": "-7.56917"
+        },
+        {
+            "city": "Mankono",
+            "region": "91",
+            "country": "CI",
+            "latitude": "8.05861",
+            "longitude": "-6.18972"
+        },
+        {
+            "city": "Man",
+            "region": "78",
+            "country": "CI",
+            "latitude": "7.41251",
+            "longitude": "-7.55383"
+        },
+        {
+            "city": "Lakota",
+            "region": "88",
+            "country": "CI",
+            "latitude": "5.85278",
+            "longitude": "-5.68833"
+        },
+        {
+            "city": "Korhogo",
+            "region": "87",
+            "country": "CI",
+            "latitude": "9.45",
+            "longitude": "-5.63333"
+        },
+        {
+            "city": "Katiola",
+            "region": "90",
+            "country": "CI",
+            "latitude": "8.13333",
+            "longitude": "-5.1"
+        },
+        {
+            "city": "Issia",
+            "region": "80",
+            "country": "CI",
+            "latitude": "6.49224",
+            "longitude": "-6.58558"
+        },
+        {
+            "city": "Guiglo",
+            "region": "84",
+            "country": "CI",
+            "latitude": "6.54559",
+            "longitude": "-7.49659"
+        },
+        {
+            "city": "Guib\u00e9roua",
+            "region": "79",
+            "country": "CI",
+            "latitude": "6.2392",
+            "longitude": "-6.17272"
+        },
+        {
+            "city": "Grand-Lahou",
+            "region": "88",
+            "country": "CI",
+            "latitude": "5.13667",
+            "longitude": "-5.02417"
+        },
+        {
+            "city": "Grand-Bassam",
+            "region": "89",
+            "country": "CI",
+            "latitude": "5.20194",
+            "longitude": "-3.735"
+        },
+        {
+            "city": "Affery",
+            "region": "74",
+            "country": "CI",
+            "latitude": "6.315",
+            "longitude": "-3.96028"
+        },
+        {
+            "city": "Gagnoa",
+            "region": "79",
+            "country": "CI",
+            "latitude": "6.12926",
+            "longitude": "-5.94371"
+        },
+        {
+            "city": "Ferkess\u00e9dougou",
+            "region": "87",
+            "country": "CI",
+            "latitude": "9.6",
+            "longitude": "-5.2"
+        },
+        {
+            "city": "Duekou\u00e9",
+            "region": "84",
+            "country": "CI",
+            "latitude": "6.74719",
+            "longitude": "-7.34959"
+        },
+        {
+            "city": "Divo",
+            "region": "88",
+            "country": "CI",
+            "latitude": "5.83972",
+            "longitude": "-5.36"
+        },
+        {
+            "city": "Dimbokro",
+            "region": "86",
+            "country": "CI",
+            "latitude": "6.6451",
+            "longitude": "-4.70477"
+        },
+        {
+            "city": "Daoukro",
+            "region": "86",
+            "country": "CI",
+            "latitude": "7.0591",
+            "longitude": "-3.9631"
+        },
+        {
+            "city": "Danan\u00e9",
+            "region": "78",
+            "country": "CI",
+            "latitude": "7.25957",
+            "longitude": "-8.15498"
+        },
+        {
+            "city": "Daloa",
+            "region": "80",
+            "country": "CI",
+            "latitude": "6.87736",
+            "longitude": "-6.45022"
+        },
+        {
+            "city": "Dabou",
+            "region": "82",
+            "country": "CI",
+            "latitude": "5.32056",
+            "longitude": "-4.38306"
+        },
+        {
+            "city": "Dabakala",
+            "region": "90",
+            "country": "CI",
+            "latitude": "8.36667",
+            "longitude": "-4.43333"
+        },
+        {
+            "city": "Boundiali",
+            "region": "87",
+            "country": "CI",
+            "latitude": "9.52167",
+            "longitude": "-6.48694"
+        },
+        {
+            "city": "Bouna",
+            "region": "92",
+            "country": "CI",
+            "latitude": "9.26667",
+            "longitude": "-3"
+        },
+        {
+            "city": "Bouak\u00e9",
+            "region": "90",
+            "country": "CI",
+            "latitude": "7.68949",
+            "longitude": "-5.02177"
+        },
+        {
+            "city": "Bouafl\u00e9",
+            "region": "83",
+            "country": "CI",
+            "latitude": "6.99041",
+            "longitude": "-5.7442"
+        },
+        {
+            "city": "Botro",
+            "region": "90",
+            "country": "CI",
+            "latitude": "7.85249",
+            "longitude": "-5.31063"
+        },
+        {
+            "city": "Bonoua",
+            "region": "89",
+            "country": "CI",
+            "latitude": "5.27222",
+            "longitude": "-3.60083"
+        },
+        {
+            "city": "Bongouanou",
+            "region": "86",
+            "country": "CI",
+            "latitude": "6.64861",
+            "longitude": "-4.19917"
+        },
+        {
+            "city": "Bondoukou",
+            "region": "92",
+            "country": "CI",
+            "latitude": "8.03333",
+            "longitude": "-2.8"
+        },
+        {
+            "city": "Bocanda",
+            "region": "86",
+            "country": "CI",
+            "latitude": "7.06264",
+            "longitude": "-4.49948"
+        },
+        {
+            "city": "Bingerville",
+            "region": "82",
+            "country": "CI",
+            "latitude": "5.35583",
+            "longitude": "-3.89"
+        },
+        {
+            "city": "Biankouma",
+            "region": "78",
+            "country": "CI",
+            "latitude": "7.73909",
+            "longitude": "-7.61377"
+        },
+        {
+            "city": "B\u00e9oumi",
+            "region": "90",
+            "country": "CI",
+            "latitude": "7.67356",
+            "longitude": "-5.57644"
+        },
+        {
+            "city": "Bangolo",
+            "region": "78",
+            "country": "CI",
+            "latitude": "7.00694",
+            "longitude": "-7.475"
+        },
+        {
+            "city": "Ayam\u00e9",
+            "region": "89",
+            "country": "CI",
+            "latitude": "5.6",
+            "longitude": "-3.16222"
+        },
+        {
+            "city": "Arrah",
+            "region": "86",
+            "country": "CI",
+            "latitude": "6.66528",
+            "longitude": "-3.97222"
+        },
+        {
+            "city": "Anyama",
+            "region": "82",
+            "country": "CI",
+            "latitude": "5.49583",
+            "longitude": "-4.05472"
+        },
+        {
+            "city": "Akoup\u00e9",
+            "region": "74",
+            "country": "CI",
+            "latitude": "6.39",
+            "longitude": "-3.90028"
+        },
+        {
+            "city": "Agnibil\u00e9krou",
+            "region": "00",
+            "country": "CI",
+            "latitude": "7.13444",
+            "longitude": "-3.20472"
+        },
+        {
+            "city": "Agboville",
+            "region": "74",
+            "country": "CI",
+            "latitude": "5.93417",
+            "longitude": "-4.22139"
+        },
+        {
+            "city": "Adzop\u00e9",
+            "region": "74",
+            "country": "CI",
+            "latitude": "6.10694",
+            "longitude": "-3.86194"
+        },
+        {
+            "city": "Adiak\u00e9",
+            "region": "89",
+            "country": "CI",
+            "latitude": "5.28639",
+            "longitude": "-3.3075"
+        },
+        {
+            "city": "Aboisso",
+            "region": "89",
+            "country": "CI",
+            "latitude": "5.4675",
+            "longitude": "-3.21444"
+        },
+        {
+            "city": "Abobo",
+            "region": "82",
+            "country": "CI",
+            "latitude": "5.41889",
+            "longitude": "-4.02056"
+        },
+        {
+            "city": "Abidjan",
+            "region": "82",
+            "country": "CI",
+            "latitude": "5.34111",
+            "longitude": "-4.02806"
+        },
+        {
+            "city": "Abengourou",
+            "region": "85",
+            "country": "CI",
+            "latitude": "6.72972",
+            "longitude": "-3.49639"
+        },
+        {
+            "city": "S\u00e9gu\u00e9la",
+            "region": "91",
+            "country": "CI",
+            "latitude": "7.96111",
+            "longitude": "-6.67306"
+        },
+        {
+            "city": "Soubr\u00e9",
+            "region": "76",
+            "country": "CI",
+            "latitude": "5.78556",
+            "longitude": "-6.60833"
+        }
+    ]
+}

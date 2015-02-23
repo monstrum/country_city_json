@@ -1,0 +1,13 @@
+{
+    "country": "Cook Islands",
+    "code": "CK",
+    "cities": [
+        {
+            "city": "Avarua",
+            "region": "00",
+            "country": "CK",
+            "latitude": "-21.20778",
+            "longitude": "-159.775"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "country": "Suriname",
+    "code": "SR",
+    "cities": [
+        {
+            "city": "Wageningen",
+            "region": "14",
+            "country": "SR",
+            "latitude": "5.76667",
+            "longitude": "-56.68333"
+        },
+        {
+            "city": "Totness",
+            "region": "12",
+            "country": "SR",
+            "latitude": "5.88333",
+            "longitude": "-56.31667"
+        },
+        {
+            "city": "Paramaribo",
+            "region": "16",
+            "country": "SR",
+            "latitude": "5.86638",
+            "longitude": "-55.16682"
+        },
+        {
+            "city": "Onverwacht",
+            "region": "15",
+            "country": "SR",
+            "latitude": "5.58333",
+            "longitude": "-55.18333"
+        },
+        {
+            "city": "Nieuw Nickerie",
+            "region": "14",
+            "country": "SR",
+            "latitude": "5.95",
+            "longitude": "-56.98333"
+        },
+        {
+            "city": "Nieuw Amsterdam",
+            "region": "11",
+            "country": "SR",
+            "latitude": "5.88333",
+            "longitude": "-55.08333"
+        },
+        {
+            "city": "Moengo",
+            "region": "13",
+            "country": "SR",
+            "latitude": "5.61667",
+            "longitude": "-54.4"
+        },
+        {
+            "city": "Mari\u00ebnburg",
+            "region": "11",
+            "country": "SR",
+            "latitude": "5.84691",
+            "longitude": "-55.02159"
+        },
+        {
+            "city": "Lelydorp",
+            "region": "19",
+            "country": "SR",
+            "latitude": "5.7",
+            "longitude": "-55.23333"
+        },
+        {
+            "city": "Groningen",
+            "region": "17",
+            "country": "SR",
+            "latitude": "5.8",
+            "longitude": "-55.46667"
+        },
+        {
+            "city": "Brownsweg",
+            "region": "10",
+            "country": "SR",
+            "latitude": "5.01667",
+            "longitude": "-55.16667"
+        },
+        {
+            "city": "Brokopondo",
+            "region": "10",
+            "country": "SR",
+            "latitude": "5.06667",
+            "longitude": "-54.96667"
+        },
+        {
+            "city": "Albina",
+            "region": "13",
+            "country": "SR",
+            "latitude": "5.5",
+            "longitude": "-54.05"
+        }
+    ]
+}

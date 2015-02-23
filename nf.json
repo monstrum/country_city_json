@@ -1,0 +1,13 @@
+{
+    "country": "Norfolk Island",
+    "code": "NF",
+    "cities": [
+        {
+            "city": "Kingston",
+            "region": "00",
+            "country": "NF",
+            "latitude": "-29.05459",
+            "longitude": "167.96628"
+        }
+    ]
+}

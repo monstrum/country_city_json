@@ -1,0 +1,41 @@
+{
+    "country": "Cayman Islands",
+    "code": "KY",
+    "cities": [
+        {
+            "city": "West Bay",
+            "region": "00",
+            "country": "KY",
+            "latitude": "19.36667",
+            "longitude": "-81.41667"
+        },
+        {
+            "city": "North Side",
+            "region": "00",
+            "country": "KY",
+            "latitude": "19.35",
+            "longitude": "-81.2"
+        },
+        {
+            "city": "George Town",
+            "region": "00",
+            "country": "KY",
+            "latitude": "19.28692",
+            "longitude": "-81.36706"
+        },
+        {
+            "city": "East End",
+            "region": "00",
+            "country": "KY",
+            "latitude": "19.3",
+            "longitude": "-81.11667"
+        },
+        {
+            "city": "Bodden Town",
+            "region": "00",
+            "country": "KY",
+            "latitude": "19.28333",
+            "longitude": "-81.25"
+        }
+    ]
+}

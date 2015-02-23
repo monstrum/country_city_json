@@ -1,0 +1,258 @@
+{
+    "country": "Mali",
+    "code": "ML",
+    "cities": [
+        {
+            "city": "Yorosso",
+            "region": "06",
+            "country": "ML",
+            "latitude": "12.3536",
+            "longitude": "-4.7761"
+        },
+        {
+            "city": "Tombouctou",
+            "region": "08",
+            "country": "ML",
+            "latitude": "16.77348",
+            "longitude": "-3.00742"
+        },
+        {
+            "city": "T\u00e9nenkou",
+            "region": "04",
+            "country": "ML",
+            "latitude": "14.45722",
+            "longitude": "-4.9169"
+        },
+        {
+            "city": "Taoudenni",
+            "region": "08",
+            "country": "ML",
+            "latitude": "22.67833",
+            "longitude": "-3.98361"
+        },
+        {
+            "city": "Sokolo",
+            "region": "05",
+            "country": "ML",
+            "latitude": "14.7328",
+            "longitude": "-6.1219"
+        },
+        {
+            "city": "Sikasso",
+            "region": "06",
+            "country": "ML",
+            "latitude": "11.3135",
+            "longitude": "-5.6697"
+        },
+        {
+            "city": "S\u00e9gou",
+            "region": "05",
+            "country": "ML",
+            "latitude": "13.4317",
+            "longitude": "-6.2157"
+        },
+        {
+            "city": "San",
+            "region": "05",
+            "country": "ML",
+            "latitude": "13.30335",
+            "longitude": "-4.89562"
+        },
+        {
+            "city": "Niafounk\u00e9",
+            "region": "08",
+            "country": "ML",
+            "latitude": "15.9322",
+            "longitude": "-3.9906"
+        },
+        {
+            "city": "Mopti",
+            "region": "04",
+            "country": "ML",
+            "latitude": "14.49302",
+            "longitude": "-4.1942"
+        },
+        {
+            "city": "M\u00e9naka",
+            "region": "09",
+            "country": "ML",
+            "latitude": "15.9182",
+            "longitude": "2.4022"
+        },
+        {
+            "city": "Markala",
+            "region": "05",
+            "country": "ML",
+            "latitude": "13.7021",
+            "longitude": "-6.0659"
+        },
+        {
+            "city": "Koutiala",
+            "region": "06",
+            "country": "ML",
+            "latitude": "12.39173",
+            "longitude": "-5.46421"
+        },
+        {
+            "city": "Koulikoro",
+            "region": "07",
+            "country": "ML",
+            "latitude": "12.86273",
+            "longitude": "-7.55985"
+        },
+        {
+            "city": "Kolondi\u00e9ba",
+            "region": "06",
+            "country": "ML",
+            "latitude": "11.0882",
+            "longitude": "-6.8926"
+        },
+        {
+            "city": "Kolokani",
+            "region": "07",
+            "country": "ML",
+            "latitude": "13.5728",
+            "longitude": "-8.0339"
+        },
+        {
+            "city": "Kita",
+            "region": "03",
+            "country": "ML",
+            "latitude": "13.0349",
+            "longitude": "-9.4895"
+        },
+        {
+            "city": "Kidal",
+            "region": "10",
+            "country": "ML",
+            "latitude": "18.44111",
+            "longitude": "1.40778"
+        },
+        {
+            "city": "Kinmparana",
+            "region": "05",
+            "country": "ML",
+            "latitude": "12.8402",
+            "longitude": "-4.9199"
+        },
+        {
+            "city": "K\u00e9-Macina",
+            "region": "05",
+            "country": "ML",
+            "latitude": "13.9623",
+            "longitude": "-5.3572"
+        },
+        {
+            "city": "Kayes Ndi",
+            "region": "03",
+            "country": "ML",
+            "latitude": "14.4586",
+            "longitude": "-11.4352"
+        },
+        {
+            "city": "Kayes",
+            "region": "03",
+            "country": "ML",
+            "latitude": "14.4417",
+            "longitude": "-11.4341"
+        },
+        {
+            "city": "Kati",
+            "region": "07",
+            "country": "ML",
+            "latitude": "12.74409",
+            "longitude": "-8.07257"
+        },
+        {
+            "city": "Kangaba",
+            "region": "00",
+            "country": "ML",
+            "latitude": "11.93333",
+            "longitude": "-8.41667"
+        },
+        {
+            "city": "Goundam",
+            "region": "08",
+            "country": "ML",
+            "latitude": "16.41453",
+            "longitude": "-3.67075"
+        },
+        {
+            "city": "Gao",
+            "region": "09",
+            "country": "ML",
+            "latitude": "16.27167",
+            "longitude": "-0.04472"
+        },
+        {
+            "city": "Douentza",
+            "region": "04",
+            "country": "ML",
+            "latitude": "14.9951",
+            "longitude": "-2.9517"
+        },
+        {
+            "city": "Dj\u00e9nn\u00e9",
+            "region": "04",
+            "country": "ML",
+            "latitude": "13.90608",
+            "longitude": "-4.55332"
+        },
+        {
+            "city": "Dir\u00e9",
+            "region": "00",
+            "country": "ML",
+            "latitude": "12.28333",
+            "longitude": "-10.96667"
+        },
+        {
+            "city": "Bougouni",
+            "region": "06",
+            "country": "ML",
+            "latitude": "11.41699",
+            "longitude": "-7.47899"
+        },
+        {
+            "city": "Bandiagara",
+            "region": "04",
+            "country": "ML",
+            "latitude": "14.35005",
+            "longitude": "-3.61038"
+        },
+        {
+            "city": "Banamba",
+            "region": "07",
+            "country": "ML",
+            "latitude": "13.55",
+            "longitude": "-7.45"
+        },
+        {
+            "city": "Bamako",
+            "region": "01",
+            "country": "ML",
+            "latitude": "12.65",
+            "longitude": "-8"
+        },
+        {
+            "city": "Bafoulab\u00e9",
+            "region": "03",
+            "country": "ML",
+            "latitude": "13.8065",
+            "longitude": "-10.8321"
+        },
+        {
+            "city": "Araouane",
+            "region": "08",
+            "country": "ML",
+            "latitude": "18.90476",
+            "longitude": "-3.52649"
+        },
+        {
+            "city": "Ansongo",
+            "region": "09",
+            "country": "ML",
+            "latitude": "15.6597",
+            "longitude": "0.5022"
+        }
+    ]
+}

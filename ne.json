@@ -1,0 +1,265 @@
+{
+    "country": "Niger",
+    "code": "NE",
+    "cities": [
+        {
+            "city": "Birni N Konni",
+            "region": "06",
+            "country": "NE",
+            "latitude": "13.79562",
+            "longitude": "5.2553"
+        },
+        {
+            "city": "Zinder",
+            "region": "07",
+            "country": "NE",
+            "latitude": "13.80487",
+            "longitude": "8.98837"
+        },
+        {
+            "city": "Tillab\u00e9ri",
+            "region": "09",
+            "country": "NE",
+            "latitude": "14.21167",
+            "longitude": "1.45306"
+        },
+        {
+            "city": "Tibiri",
+            "region": "04",
+            "country": "NE",
+            "latitude": "13.56271",
+            "longitude": "7.04848"
+        },
+        {
+            "city": "Tessaoua",
+            "region": "07",
+            "country": "NE",
+            "latitude": "13.75737",
+            "longitude": "7.9874"
+        },
+        {
+            "city": "T\u00e9ra",
+            "region": "09",
+            "country": "NE",
+            "latitude": "14.00776",
+            "longitude": "0.75306"
+        },
+        {
+            "city": "Tchin Tabarad\u00e8n",
+            "region": "06",
+            "country": "NE",
+            "latitude": "15.8969",
+            "longitude": "5.7985"
+        },
+        {
+            "city": "Tanout",
+            "region": "07",
+            "country": "NE",
+            "latitude": "14.97089",
+            "longitude": "8.88786"
+        },
+        {
+            "city": "Tahoua",
+            "region": "06",
+            "country": "NE",
+            "latitude": "14.8888",
+            "longitude": "5.2692"
+        },
+        {
+            "city": "Say",
+            "region": "09",
+            "country": "NE",
+            "latitude": "13.1007",
+            "longitude": "2.3689"
+        },
+        {
+            "city": "Ouallam",
+            "region": "09",
+            "country": "NE",
+            "latitude": "14.3188",
+            "longitude": "2.0866"
+        },
+        {
+            "city": "Niamey",
+            "region": "08",
+            "country": "NE",
+            "latitude": "13.5125",
+            "longitude": "2.11178"
+        },
+        {
+            "city": "Nguigmi",
+            "region": "02",
+            "country": "NE",
+            "latitude": "14.24953",
+            "longitude": "13.10921"
+        },
+        {
+            "city": "Mirya",
+            "region": "07",
+            "country": "NE",
+            "latitude": "13.70727",
+            "longitude": "9.15013"
+        },
+        {
+            "city": "Mayahi",
+            "region": "07",
+            "country": "NE",
+            "latitude": "13.95532",
+            "longitude": "7.67122"
+        },
+        {
+            "city": "Matamey",
+            "region": "07",
+            "country": "NE",
+            "latitude": "13.42309",
+            "longitude": "8.47485"
+        },
+        {
+            "city": "Maradi",
+            "region": "04",
+            "country": "NE",
+            "latitude": "13.5",
+            "longitude": "7.10174"
+        },
+        {
+            "city": "Ma\u00efn\u00e9-Soroa",
+            "region": "02",
+            "country": "NE",
+            "latitude": "13.21139",
+            "longitude": "12.0241"
+        },
+        {
+            "city": "Magaria",
+            "region": "07",
+            "country": "NE",
+            "latitude": "12.99826",
+            "longitude": "8.90991"
+        },
+        {
+            "city": "Madarounfa",
+            "region": "04",
+            "country": "NE",
+            "latitude": "13.30867",
+            "longitude": "7.15602"
+        },
+        {
+            "city": "Madaoua",
+            "region": "06",
+            "country": "NE",
+            "latitude": "14.073",
+            "longitude": "5.96"
+        },
+        {
+            "city": "Kollo",
+            "region": "09",
+            "country": "NE",
+            "latitude": "13.3043",
+            "longitude": "2.339"
+        },
+        {
+            "city": "Ke\u00efta",
+            "region": "06",
+            "country": "NE",
+            "latitude": "14.7551",
+            "longitude": "5.7749"
+        },
+        {
+            "city": "Ill\u00e9la",
+            "region": "06",
+            "country": "NE",
+            "latitude": "14.4605",
+            "longitude": "5.2437"
+        },
+        {
+            "city": "Gour\u00e9",
+            "region": "07",
+            "country": "NE",
+            "latitude": "13.9835",
+            "longitude": "10.27035"
+        },
+        {
+            "city": "Gaya",
+            "region": "03",
+            "country": "NE",
+            "latitude": "11.88435",
+            "longitude": "3.44919"
+        },
+        {
+            "city": "Filingu\u00e9",
+            "region": "09",
+            "country": "NE",
+            "latitude": "14.3521",
+            "longitude": "3.3168"
+        },
+        {
+            "city": "Dosso",
+            "region": "03",
+            "country": "NE",
+            "latitude": "13.049",
+            "longitude": "3.1937"
+        },
+        {
+            "city": "Dogondoutchi",
+            "region": "03",
+            "country": "NE",
+            "latitude": "13.63933",
+            "longitude": "4.02875"
+        },
+        {
+            "city": "Diffa",
+            "region": "02",
+            "country": "NE",
+            "latitude": "13.31536",
+            "longitude": "12.61134"
+        },
+        {
+            "city": "Dakoro",
+            "region": "04",
+            "country": "NE",
+            "latitude": "14.51056",
+            "longitude": "6.765"
+        },
+        {
+            "city": "Bouza",
+            "region": "06",
+            "country": "NE",
+            "latitude": "14.42293",
+            "longitude": "6.04278"
+        },
+        {
+            "city": "Bilma",
+            "region": "01",
+            "country": "NE",
+            "latitude": "18.68532",
+            "longitude": "12.91643"
+        },
+        {
+            "city": "Ayorou",
+            "region": "09",
+            "country": "NE",
+            "latitude": "14.73075",
+            "longitude": "0.91738"
+        },
+        {
+            "city": "Alaghsas",
+            "region": "01",
+            "country": "NE",
+            "latitude": "17.0187",
+            "longitude": "8.0168"
+        },
+        {
+            "city": "Agui\u00e9",
+            "region": "07",
+            "country": "NE",
+            "latitude": "13.50601",
+            "longitude": "7.77863"
+        },
+        {
+            "city": "Abalak",
+            "region": "06",
+            "country": "NE",
+            "latitude": "15.4509",
+            "longitude": "6.2793"
+        }
+    ]
+}

@@ -1,0 +1,629 @@
+{
+    "country": "Georgia",
+    "code": "GE",
+    "cities": [
+        {
+            "city": "Abastumani",
+            "region": "00",
+            "country": "GE",
+            "latitude": "41.7075",
+            "longitude": "42.84572"
+        },
+        {
+            "city": "Zugdidi",
+            "region": "71",
+            "country": "GE",
+            "latitude": "42.5088",
+            "longitude": "41.87088"
+        },
+        {
+            "city": "Zhinvali",
+            "region": "00",
+            "country": "GE",
+            "latitude": "42.13181",
+            "longitude": "44.77264"
+        },
+        {
+            "city": "Zestap\u2019oni",
+            "region": "66",
+            "country": "GE",
+            "latitude": "42.11",
+            "longitude": "43.0525"
+        },
+        {
+            "city": "Zahesi",
+            "region": "00",
+            "country": "GE",
+            "latitude": "41.82458",
+            "longitude": "44.75361"
+        },
+        {
+            "city": "Vani",
+            "region": "66",
+            "country": "GE",
+            "latitude": "42.0832",
+            "longitude": "42.52163"
+        },
+        {
+            "city": "Vale",
+            "region": "00",
+            "country": "GE",
+            "latitude": "41.61558",
+            "longitude": "42.87224"
+        },
+        {
+            "city": "Urek\u2019i",
+            "region": "65",
+            "country": "GE",
+            "latitude": "41.99556",
+            "longitude": "41.77861"
+        },
+        {
+            "city": "Tsnori",
+            "region": "00",
+            "country": "GE",
+            "latitude": "41.62088",
+            "longitude": "45.96943"
+        },
+        {
+            "city": "Tsqnet\u2019i",
+            "region": "00",
+            "country": "GE",
+            "latitude": "41.69472",
+            "longitude": "44.69861"
+        },
+        {
+            "city": "Ts\u2019khinvali",
+            "region": "22",
+            "country": "GE",
+            "latitude": "42.22764",
+            "longitude": "43.96861"
+        },
+        {
+            "city": "Tsinandali",
+            "region": "00",
+            "country": "GE",
+            "latitude": "41.89315",
+            "longitude": "45.57129"
+        },
+        {
+            "city": "Tsalka",
+            "region": "68",
+            "country": "GE",
+            "latitude": "41.5946",
+            "longitude": "44.08909"
+        },
+        {
+            "city": "Tsalenjikha",
+            "region": "71",
+            "country": "GE",
+            "latitude": "42.60444",
+            "longitude": "42.06825"
+        },
+        {
+            "city": "Tsaghveri",
+            "region": "72",
+            "country": "GE",
+            "latitude": "41.80365",
+            "longitude": "43.48194"
+        },
+        {
+            "city": "Tqvarch'eli",
+            "region": "00",
+            "country": "GE",
+            "latitude": "42.84035",
+            "longitude": "41.68007"
+        },
+        {
+            "city": "Tqibuli",
+            "region": "00",
+            "country": "GE",
+            "latitude": "42.35121",
+            "longitude": "42.99874"
+        },
+        {
+            "city": "T\u2019ianet\u2019i",
+            "region": "69",
+            "country": "GE",
+            "latitude": "42.10833",
+            "longitude": "44.96389"
+        },
+        {
+            "city": "T\u2019et\u2019ri Tsqaro",
+            "region": "68",
+            "country": "GE",
+            "latitude": "41.54448",
+            "longitude": "44.46153"
+        },
+        {
+            "city": "T\u2019elavi",
+            "region": "67",
+            "country": "GE",
+            "latitude": "41.91978",
+            "longitude": "45.47315"
+        },
+        {
+            "city": "Tbilisi",
+            "region": "51",
+            "country": "GE",
+            "latitude": "41.69411",
+            "longitude": "44.83368"
+        },
+        {
+            "city": "Surami",
+            "region": "28",
+            "country": "GE",
+            "latitude": "42.02431",
+            "longitude": "43.55556"
+        },
+        {
+            "city": "Sokhumi",
+            "region": "02",
+            "country": "GE",
+            "latitude": "43.00697",
+            "longitude": "40.9893"
+        },
+        {
+            "city": "Sighnaghi",
+            "region": "67",
+            "country": "GE",
+            "latitude": "41.62046",
+            "longitude": "45.92198"
+        },
+        {
+            "city": "Shorapani",
+            "region": "61",
+            "country": "GE",
+            "latitude": "42.0898",
+            "longitude": "43.08662"
+        },
+        {
+            "city": "Naghvarevi",
+            "region": "00",
+            "country": "GE",
+            "latitude": "41.35272",
+            "longitude": "44.76178"
+        },
+        {
+            "city": "Senaki",
+            "region": "71",
+            "country": "GE",
+            "latitude": "42.27042",
+            "longitude": "42.0675"
+        },
+        {
+            "city": "Samtredia",
+            "region": "00",
+            "country": "GE",
+            "latitude": "42.1537",
+            "longitude": "42.33517"
+        },
+        {
+            "city": "Sagarejo",
+            "region": "67",
+            "country": "GE",
+            "latitude": "41.73397",
+            "longitude": "45.33148"
+        },
+        {
+            "city": "Rust\u2019avi",
+            "region": "00",
+            "country": "GE",
+            "latitude": "41.54949",
+            "longitude": "44.99323"
+        },
+        {
+            "city": "Qvareli",
+            "region": "67",
+            "country": "GE",
+            "latitude": "41.95492",
+            "longitude": "45.81716"
+        },
+        {
+            "city": "P\u2019ot\u2019i",
+            "region": "71",
+            "country": "GE",
+            "latitude": "42.14616",
+            "longitude": "41.67197"
+        },
+        {
+            "city": "P\u2019asanauri",
+            "region": "69",
+            "country": "GE",
+            "latitude": "42.3506",
+            "longitude": "44.68912"
+        },
+        {
+            "city": "Oni",
+            "region": "70",
+            "country": "GE",
+            "latitude": "42.57944",
+            "longitude": "43.4425"
+        },
+        {
+            "city": "Ochkhamuri",
+            "region": "04",
+            "country": "GE",
+            "latitude": "41.85975",
+            "longitude": "41.85309"
+        },
+        {
+            "city": "Och\u2019amch\u2019ire",
+            "region": "00",
+            "country": "GE",
+            "latitude": "42.71232",
+            "longitude": "41.46863"
+        },
+        {
+            "city": "Ninotsminda",
+            "region": "72",
+            "country": "GE",
+            "latitude": "41.26458",
+            "longitude": "43.5916"
+        },
+        {
+            "city": "Mts\u2019khet\u2019a",
+            "region": "69",
+            "country": "GE",
+            "latitude": "41.84514",
+            "longitude": "44.71875"
+        },
+        {
+            "city": "Mestia",
+            "region": "71",
+            "country": "GE",
+            "latitude": "43.04581",
+            "longitude": "42.7278"
+        },
+        {
+            "city": "Martvili",
+            "region": "71",
+            "country": "GE",
+            "latitude": "42.41436",
+            "longitude": "42.37924"
+        },
+        {
+            "city": "Marneuli",
+            "region": "68",
+            "country": "GE",
+            "latitude": "41.47588",
+            "longitude": "44.80894"
+        },
+        {
+            "city": "Manglisi",
+            "region": "68",
+            "country": "GE",
+            "latitude": "41.69698",
+            "longitude": "44.38448"
+        },
+        {
+            "city": "Makhinjauri",
+            "region": "04",
+            "country": "GE",
+            "latitude": "41.67385",
+            "longitude": "41.69401"
+        },
+        {
+            "city": "Lentekhi",
+            "region": "70",
+            "country": "GE",
+            "latitude": "42.78556",
+            "longitude": "42.72611"
+        },
+        {
+            "city": "Lagodekhi",
+            "region": "67",
+            "country": "GE",
+            "latitude": "41.82681",
+            "longitude": "46.27667"
+        },
+        {
+            "city": "K\u2019veda Ch\u2019khorotsqu",
+            "region": "71",
+            "country": "GE",
+            "latitude": "42.48103",
+            "longitude": "42.09661"
+        },
+        {
+            "city": "K'ut'aisi",
+            "region": "66",
+            "country": "GE",
+            "latitude": "42.24961",
+            "longitude": "42.69974"
+        },
+        {
+            "city": "Kulashi",
+            "region": "00",
+            "country": "GE",
+            "latitude": "42.20444",
+            "longitude": "42.34944"
+        },
+        {
+            "city": "Kobuleti",
+            "region": "04",
+            "country": "GE",
+            "latitude": "41.82",
+            "longitude": "41.77528"
+        },
+        {
+            "city": "Khoni",
+            "region": "66",
+            "country": "GE",
+            "latitude": "42.3226",
+            "longitude": "42.42061"
+        },
+        {
+            "city": "Khobi",
+            "region": "71",
+            "country": "GE",
+            "latitude": "42.31558",
+            "longitude": "41.89871"
+        },
+        {
+            "city": "Khashuri",
+            "region": "73",
+            "country": "GE",
+            "latitude": "41.99414",
+            "longitude": "43.59994"
+        },
+        {
+            "city": "Step\u2019antsminda",
+            "region": "69",
+            "country": "GE",
+            "latitude": "42.65667",
+            "longitude": "44.64333"
+        },
+        {
+            "city": "Kaspi",
+            "region": "73",
+            "country": "GE",
+            "latitude": "41.9252",
+            "longitude": "44.42568"
+        },
+        {
+            "city": "Java",
+            "region": "24",
+            "country": "GE",
+            "latitude": "42.39972",
+            "longitude": "43.93667"
+        },
+        {
+            "city": "Gurjaani",
+            "region": "67",
+            "country": "GE",
+            "latitude": "41.74292",
+            "longitude": "45.80111"
+        },
+        {
+            "city": "Gudaut\u2019a",
+            "region": "02",
+            "country": "GE",
+            "latitude": "43.10547",
+            "longitude": "40.62067"
+        },
+        {
+            "city": "Gori",
+            "region": "73",
+            "country": "GE",
+            "latitude": "41.98422",
+            "longitude": "44.11578"
+        },
+        {
+            "city": "Gardabani",
+            "region": "68",
+            "country": "GE",
+            "latitude": "41.46054",
+            "longitude": "45.09283"
+        },
+        {
+            "city": "Gant\u2019iadi",
+            "region": "00",
+            "country": "GE",
+            "latitude": "43.38111",
+            "longitude": "40.07944"
+        },
+        {
+            "city": "Gali",
+            "region": "02",
+            "country": "GE",
+            "latitude": "42.62655",
+            "longitude": "41.73808"
+        },
+        {
+            "city": "Gagra",
+            "region": "02",
+            "country": "GE",
+            "latitude": "43.30387",
+            "longitude": "40.25614"
+        },
+        {
+            "city": "Jvari",
+            "region": "71",
+            "country": "GE",
+            "latitude": "42.71692",
+            "longitude": "42.052"
+        },
+        {
+            "city": "Dmanisi",
+            "region": "00",
+            "country": "GE",
+            "latitude": "41.52514",
+            "longitude": "44.3472"
+        },
+        {
+            "city": "Dioknisi",
+            "region": "00",
+            "country": "GE",
+            "latitude": "41.62933",
+            "longitude": "42.39171"
+        },
+        {
+            "city": "Didi Lilo",
+            "region": "00",
+            "country": "GE",
+            "latitude": "41.73611",
+            "longitude": "44.96472"
+        },
+        {
+            "city": "Borjomi",
+            "region": "72",
+            "country": "GE",
+            "latitude": "41.85272",
+            "longitude": "43.41284"
+        },
+        {
+            "city": "Bolnisi",
+            "region": "00",
+            "country": "GE",
+            "latitude": "41.44794",
+            "longitude": "44.53838"
+        },
+        {
+            "city": "Bichvint\u2019a",
+            "region": "02",
+            "country": "GE",
+            "latitude": "43.16198",
+            "longitude": "40.34102"
+        },
+        {
+            "city": "Bat\u2019umi",
+            "region": "04",
+            "country": "GE",
+            "latitude": "41.64159",
+            "longitude": "41.63593"
+        },
+        {
+            "city": "Bakuriani",
+            "region": "13",
+            "country": "GE",
+            "latitude": "41.74972",
+            "longitude": "43.5325"
+        },
+        {
+            "city": "Bagdadi",
+            "region": "00",
+            "country": "GE",
+            "latitude": "41.81667",
+            "longitude": "46.03333"
+        },
+        {
+            "city": "Aspindza",
+            "region": "72",
+            "country": "GE",
+            "latitude": "41.57389",
+            "longitude": "43.24826"
+        },
+        {
+            "city": "Ambrolauri",
+            "region": "70",
+            "country": "GE",
+            "latitude": "42.52111",
+            "longitude": "43.16222"
+        },
+        {
+            "city": "Akhmeta",
+            "region": "67",
+            "country": "GE",
+            "latitude": "42.03111",
+            "longitude": "45.2075"
+        },
+        {
+            "city": "Akhalts\u2019ikhe",
+            "region": "00",
+            "country": "GE",
+            "latitude": "41.63901",
+            "longitude": "42.98262"
+        },
+        {
+            "city": "Akhalk\u2019alak\u2019i",
+            "region": "06",
+            "country": "GE",
+            "latitude": "41.40514",
+            "longitude": "43.48629"
+        },
+        {
+            "city": "Stantsiya Novyy Afon",
+            "region": "00",
+            "country": "GE",
+            "latitude": "43.08056",
+            "longitude": "40.83833"
+        },
+        {
+            "city": "Akhalgori",
+            "region": "69",
+            "country": "GE",
+            "latitude": "42.12597",
+            "longitude": "44.48333"
+        },
+        {
+            "city": "Akhaldaba",
+            "region": "04",
+            "country": "GE",
+            "latitude": "41.65395",
+            "longitude": "42.15163"
+        },
+        {
+            "city": "Agara",
+            "region": "25",
+            "country": "GE",
+            "latitude": "42.03761",
+            "longitude": "43.82382"
+        },
+        {
+            "city": "Adigeni",
+            "region": "72",
+            "country": "GE",
+            "latitude": "41.6819",
+            "longitude": "42.69867"
+        },
+        {
+            "city": "Abasha",
+            "region": "71",
+            "country": "GE",
+            "latitude": "42.20959",
+            "longitude": "42.22111"
+        },
+        {
+            "city": "Tsqaltubo",
+            "region": "66",
+            "country": "GE",
+            "latitude": "42.34129",
+            "longitude": "42.5976"
+        },
+        {
+            "city": "Naruja",
+            "region": "65",
+            "country": "GE",
+            "latitude": "41.90694",
+            "longitude": "41.95417"
+        },
+        {
+            "city": "Bakurianis Andeziti",
+            "region": "13",
+            "country": "GE",
+            "latitude": "41.73371",
+            "longitude": "43.47242"
+        },
+        {
+            "city": "Meria",
+            "region": "",
+            "country": "GE",
+            "latitude": "41.69278",
+            "longitude": "44.80154"
+        },
+        {
+            "city": "Tskhinvali",
+            "region": "",
+            "country": "GE",
+            "latitude": "42.23",
+            "longitude": "43.97"
+        },
+        {
+            "city": "Kharagauli",
+            "region": "66",
+            "country": "GE",
+            "latitude": "42.02137",
+            "longitude": "43.19773"
+        }
+    ]
+}

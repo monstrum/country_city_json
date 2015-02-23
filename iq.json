@@ -1,0 +1,503 @@
+{
+    "country": "Iraq",
+    "code": "IQ",
+    "cities": [
+        {
+            "city": "Z\u0101kh\u016b",
+            "region": "08",
+            "country": "IQ",
+            "latitude": "37.14817",
+            "longitude": "42.70008"
+        },
+        {
+            "city": "Tozkhurmato",
+            "region": "18",
+            "country": "IQ",
+            "latitude": "34.89046",
+            "longitude": "44.62994"
+        },
+        {
+            "city": "Tikr\u012bt",
+            "region": "18",
+            "country": "IQ",
+            "latitude": "34.60712",
+            "longitude": "43.67822"
+        },
+        {
+            "city": "Qa\u1e11\u0101\u2019 Talk\u012bf",
+            "region": "15",
+            "country": "IQ",
+            "latitude": "36.48944",
+            "longitude": "43.11917"
+        },
+        {
+            "city": "S\u012bnah",
+            "region": "08",
+            "country": "IQ",
+            "latitude": "36.80902",
+            "longitude": "43.03886"
+        },
+        {
+            "city": "S\u0101marr\u0101\u2019",
+            "region": "18",
+            "country": "IQ",
+            "latitude": "34.20096",
+            "longitude": "43.87562"
+        },
+        {
+            "city": "Saddat al Hind\u012byah",
+            "region": "06",
+            "country": "IQ",
+            "latitude": "32.71472",
+            "longitude": "44.28028"
+        },
+        {
+            "city": "R\u0101wand\u016bz",
+            "region": "11",
+            "country": "IQ",
+            "latitude": "36.61631",
+            "longitude": "44.53111"
+        },
+        {
+            "city": "R\u0101wah",
+            "region": "01",
+            "country": "IQ",
+            "latitude": "34.48164",
+            "longitude": "41.9093"
+        },
+        {
+            "city": "Qa\u1e11\u0101\u2019 al \u1e28amd\u0101n\u012byah",
+            "region": "15",
+            "country": "IQ",
+            "latitude": "36.27146",
+            "longitude": "43.37373"
+        },
+        {
+            "city": "Mandal\u012b",
+            "region": "10",
+            "country": "IQ",
+            "latitude": "33.74986",
+            "longitude": "45.5541"
+        },
+        {
+            "city": "K\u016bysanjaq",
+            "region": "11",
+            "country": "IQ",
+            "latitude": "36.08616",
+            "longitude": "44.62941"
+        },
+        {
+            "city": "Kifr\u012b",
+            "region": "10",
+            "country": "IQ",
+            "latitude": "34.69587",
+            "longitude": "44.9661"
+        },
+        {
+            "city": "Kirkuk",
+            "region": "13",
+            "country": "IQ",
+            "latitude": "35.46806",
+            "longitude": "44.39222"
+        },
+        {
+            "city": "Karbala",
+            "region": "12",
+            "country": "IQ",
+            "latitude": "32.61603",
+            "longitude": "44.02488"
+        },
+        {
+            "city": "Erbil",
+            "region": "11",
+            "country": "IQ",
+            "latitude": "36.19257",
+            "longitude": "44.01062"
+        },
+        {
+            "city": "H\u012bt",
+            "region": "01",
+            "country": "IQ",
+            "latitude": "33.64159",
+            "longitude": "42.82509"
+        },
+        {
+            "city": "\u1e28alabjah",
+            "region": "05",
+            "country": "IQ",
+            "latitude": "35.17778",
+            "longitude": "45.98611"
+        },
+        {
+            "city": "\u1e28ad\u012bthah",
+            "region": "01",
+            "country": "IQ",
+            "latitude": "34.13972",
+            "longitude": "42.37806"
+        },
+        {
+            "city": "Dah\u016bk",
+            "region": "08",
+            "country": "IQ",
+            "latitude": "36.8695",
+            "longitude": "42.99398"
+        },
+        {
+            "city": "Chamcham\u0101l",
+            "region": "05",
+            "country": "IQ",
+            "latitude": "35.53653",
+            "longitude": "44.83167"
+        },
+        {
+            "city": "Bayj\u012b",
+            "region": "18",
+            "country": "IQ",
+            "latitude": "34.93114",
+            "longitude": "43.487"
+        },
+        {
+            "city": "Ba\u2018q\u016bbah",
+            "region": "10",
+            "country": "IQ",
+            "latitude": "33.74846",
+            "longitude": "44.65545"
+        },
+        {
+            "city": "Paynjuwayn",
+            "region": "05",
+            "country": "IQ",
+            "latitude": "35.6183",
+            "longitude": "45.9541"
+        },
+        {
+            "city": "Balad",
+            "region": "18",
+            "country": "IQ",
+            "latitude": "34.01638",
+            "longitude": "44.14531"
+        },
+        {
+            "city": "Baghdad",
+            "region": "07",
+            "country": "IQ",
+            "latitude": "33.34058",
+            "longitude": "44.40088"
+        },
+        {
+            "city": "Az Zubayr",
+            "region": "02",
+            "country": "IQ",
+            "latitude": "30.39447",
+            "longitude": "47.70114"
+        },
+        {
+            "city": "A\u015f \u015euwayrah",
+            "region": "16",
+            "country": "IQ",
+            "latitude": "32.92556",
+            "longitude": "44.77583"
+        },
+        {
+            "city": "As Sulaym\u0101n\u012byah",
+            "region": "05",
+            "country": "IQ",
+            "latitude": "35.56113",
+            "longitude": "45.43749"
+        },
+        {
+            "city": "As Samawah",
+            "region": "03",
+            "country": "IQ",
+            "latitude": "31.33198",
+            "longitude": "45.2944"
+        },
+        {
+            "city": "N\u0101\u1e29iyat ash Shin\u0101f\u012byah",
+            "region": "04",
+            "country": "IQ",
+            "latitude": "31.58737",
+            "longitude": "44.66016"
+        },
+        {
+            "city": "Ash Sha\u0163rah",
+            "region": "09",
+            "country": "IQ",
+            "latitude": "31.41171",
+            "longitude": "46.17418"
+        },
+        {
+            "city": "Ash Sh\u0101m\u012byah",
+            "region": "04",
+            "country": "IQ",
+            "latitude": "31.96362",
+            "longitude": "44.59904"
+        },
+        {
+            "city": "Ar Ru\u0163bah",
+            "region": "01",
+            "country": "IQ",
+            "latitude": "33.03807",
+            "longitude": "40.28482"
+        },
+        {
+            "city": "Ar Rumaythah",
+            "region": "03",
+            "country": "IQ",
+            "latitude": "31.52629",
+            "longitude": "45.20246"
+        },
+        {
+            "city": "Ar Ram\u0101d\u012b",
+            "region": "01",
+            "country": "IQ",
+            "latitude": "33.42257",
+            "longitude": "43.30584"
+        },
+        {
+            "city": "An N\u0101\u015fir\u012byah",
+            "region": "09",
+            "country": "IQ",
+            "latitude": "31.05205",
+            "longitude": "46.26102"
+        },
+        {
+            "city": "An Najaf al Ashraf",
+            "region": "17",
+            "country": "IQ",
+            "latitude": "31.99854",
+            "longitude": "44.33976"
+        },
+        {
+            "city": "\u2018Anat al Qad\u012bmah",
+            "region": "01",
+            "country": "IQ",
+            "latitude": "34.46589",
+            "longitude": "41.9331"
+        },
+        {
+            "city": "Al Q\u0101sim",
+            "region": "06",
+            "country": "IQ",
+            "latitude": "32.29799",
+            "longitude": "44.68281"
+        },
+        {
+            "city": "Al Musayyib",
+            "region": "06",
+            "country": "IQ",
+            "latitude": "32.78332",
+            "longitude": "44.28251"
+        },
+        {
+            "city": "Al Mishkh\u0101b",
+            "region": "17",
+            "country": "IQ",
+            "latitude": "31.80416",
+            "longitude": "44.49107"
+        },
+        {
+            "city": "Al Miqd\u0101d\u012byah",
+            "region": "10",
+            "country": "IQ",
+            "latitude": "33.97861",
+            "longitude": "44.93694"
+        },
+        {
+            "city": "Al Maw\u015fil al Jad\u012bdah",
+            "region": "15",
+            "country": "IQ",
+            "latitude": "36.33464",
+            "longitude": "43.09777"
+        },
+        {
+            "city": "Mosul",
+            "region": "15",
+            "country": "IQ",
+            "latitude": "36.335",
+            "longitude": "43.11889"
+        },
+        {
+            "city": "Al Majar al Kabir",
+            "region": "14",
+            "country": "IQ",
+            "latitude": "31.57232",
+            "longitude": "47.17529"
+        },
+        {
+            "city": "Al K\u016bt",
+            "region": "16",
+            "country": "IQ",
+            "latitude": "32.5147",
+            "longitude": "45.81902"
+        },
+        {
+            "city": "Kh\u0101li\u015f",
+            "region": "10",
+            "country": "IQ",
+            "latitude": "33.81996",
+            "longitude": "44.52637"
+        },
+        {
+            "city": "\u2018Al\u012b al Gharb\u012b",
+            "region": "14",
+            "country": "IQ",
+            "latitude": "32.46326",
+            "longitude": "46.68637"
+        },
+        {
+            "city": "Al Hind\u012byah",
+            "region": "12",
+            "country": "IQ",
+            "latitude": "32.54333",
+            "longitude": "44.2225"
+        },
+        {
+            "city": "Al \u1e28illah",
+            "region": "06",
+            "country": "IQ",
+            "latitude": "32.48014",
+            "longitude": "44.43526"
+        },
+        {
+            "city": "Al \u1e28ayy",
+            "region": "16",
+            "country": "IQ",
+            "latitude": "32.17349",
+            "longitude": "46.0433"
+        },
+        {
+            "city": "Al H\u0101rithah",
+            "region": "02",
+            "country": "IQ",
+            "latitude": "30.71861",
+            "longitude": "47.72083"
+        },
+        {
+            "city": "Nahiyat Ghammas",
+            "region": "04",
+            "country": "IQ",
+            "latitude": "31.74311",
+            "longitude": "44.6196"
+        },
+        {
+            "city": "N\u0101\u1e29iyat al Fuh\u016bd",
+            "region": "09",
+            "country": "IQ",
+            "latitude": "30.96972",
+            "longitude": "46.72278"
+        },
+        {
+            "city": "Al F\u0101w",
+            "region": "02",
+            "country": "IQ",
+            "latitude": "29.97763",
+            "longitude": "48.47412"
+        },
+        {
+            "city": "Al Fall\u016bjah",
+            "region": "01",
+            "country": "IQ",
+            "latitude": "33.3538",
+            "longitude": "43.77951"
+        },
+        {
+            "city": "Al Ba\u015frah",
+            "region": "02",
+            "country": "IQ",
+            "latitude": "30.53488",
+            "longitude": "47.78885"
+        },
+        {
+            "city": "Al \u2018Az\u012bz\u012byah",
+            "region": "16",
+            "country": "IQ",
+            "latitude": "32.90583",
+            "longitude": "45.06163"
+        },
+        {
+            "city": "Al \u2018Am\u0101rah",
+            "region": "14",
+            "country": "IQ",
+            "latitude": "31.84064",
+            "longitude": "47.1396"
+        },
+        {
+            "city": "\u2018Afak",
+            "region": "04",
+            "country": "IQ",
+            "latitude": "32.06898",
+            "longitude": "45.25055"
+        },
+        {
+            "city": "Ad Dujayl",
+            "region": "18",
+            "country": "IQ",
+            "latitude": "33.84667",
+            "longitude": "44.23444"
+        },
+        {
+            "city": "Ad D\u012bw\u0101n\u012byah",
+            "region": "04",
+            "country": "IQ",
+            "latitude": "31.99051",
+            "longitude": "44.93063"
+        },
+        {
+            "city": "Ab\u016b Ghurayb",
+            "region": "07",
+            "country": "IQ",
+            "latitude": "33.30833",
+            "longitude": "44.185"
+        },
+        {
+            "city": "Al Ba\u015frat al Qad\u012bmah",
+            "region": "02",
+            "country": "IQ",
+            "latitude": "30.49721",
+            "longitude": "47.81491"
+        },
+        {
+            "city": "Sinj\u0101r",
+            "region": "15",
+            "country": "IQ",
+            "latitude": "36.32092",
+            "longitude": "41.87542"
+        },
+        {
+            "city": "N\u0101\u1e29iyat H\u012br\u0101n",
+            "region": "11",
+            "country": "IQ",
+            "latitude": "36.27899",
+            "longitude": "44.48815"
+        },
+        {
+            "city": "Markaz N\u0101\u1e29iyat Kh\u016bsh\u0101n",
+            "region": "11",
+            "country": "IQ",
+            "latitude": "36.27741",
+            "longitude": "44.49399"
+        },
+        {
+            "city": "N\u0101\u1e29iyat Ba\u1e29\u0101r",
+            "region": "02",
+            "country": "IQ",
+            "latitude": "30.17864",
+            "longitude": "48.39769"
+        },
+        {
+            "city": "N\u0101\u1e29iyat \u2018Atbah",
+            "region": "02",
+            "country": "IQ",
+            "latitude": "30.48293",
+            "longitude": "48.01438"
+        },
+        {
+            "city": "N\u0101\u1e29iyat Al\u012b ash Sharq\u012b",
+            "region": "14",
+            "country": "IQ",
+            "latitude": "32.12287",
+            "longitude": "46.74928"
+        }
+    ]
+}

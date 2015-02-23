@@ -1,0 +1,13 @@
+{
+    "country": "Macao",
+    "code": "MO",
+    "cities": [
+        {
+            "city": "Macau",
+            "region": "02",
+            "country": "MO",
+            "latitude": "22.20056",
+            "longitude": "113.54611"
+        }
+    ]
+}

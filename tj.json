@@ -1,0 +1,468 @@
+{
+    "country": "Tajikistan",
+    "code": "TJ",
+    "cities": [
+        {
+            "city": "Yovan",
+            "region": "02",
+            "country": "TJ",
+            "latitude": "38.31408",
+            "longitude": "69.03784"
+        },
+        {
+            "city": "Vose\u2019",
+            "region": "02",
+            "country": "TJ",
+            "latitude": "37.80396",
+            "longitude": "69.64416"
+        },
+        {
+            "city": "Vorukh",
+            "region": "03",
+            "country": "TJ",
+            "latitude": "39.84941",
+            "longitude": "70.58382"
+        },
+        {
+            "city": "Varzob",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "38.77369",
+            "longitude": "68.81776"
+        },
+        {
+            "city": "Vanj",
+            "region": "01",
+            "country": "TJ",
+            "latitude": "38.37078",
+            "longitude": "71.45474"
+        },
+        {
+            "city": "Vakhsh",
+            "region": "02",
+            "country": "TJ",
+            "latitude": "37.71485",
+            "longitude": "68.83456"
+        },
+        {
+            "city": "Istaravshan",
+            "region": "03",
+            "country": "TJ",
+            "latitude": "39.9142",
+            "longitude": "69.00328"
+        },
+        {
+            "city": "Tursunzoda",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "38.51437",
+            "longitude": "68.23327"
+        },
+        {
+            "city": "Tartki",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "37.58225",
+            "longitude": "68.1329"
+        },
+        {
+            "city": "Tagob",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "38.83827",
+            "longitude": "68.89847"
+        },
+        {
+            "city": "Sovety",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "38.0467",
+            "longitude": "69.58822"
+        },
+        {
+            "city": "Shughnon",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "37.5",
+            "longitude": "71.58333"
+        },
+        {
+            "city": "Shakhrinav",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "38.57085",
+            "longitude": "68.33498"
+        },
+        {
+            "city": "Shahrtuz",
+            "region": "02",
+            "country": "TJ",
+            "latitude": "37.26369",
+            "longitude": "68.13848"
+        },
+        {
+            "city": "Roshtqal\u2019a",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "37.25827",
+            "longitude": "71.82591"
+        },
+        {
+            "city": "Roghun",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "38.78257",
+            "longitude": "69.87081"
+        },
+        {
+            "city": "Q\u016drghonteppa",
+            "region": "02",
+            "country": "TJ",
+            "latitude": "37.83639",
+            "longitude": "68.78028"
+        },
+        {
+            "city": "Panj",
+            "region": "02",
+            "country": "TJ",
+            "latitude": "37.23634",
+            "longitude": "69.09911"
+        },
+        {
+            "city": "Panjakent",
+            "region": "03",
+            "country": "TJ",
+            "latitude": "39.49524",
+            "longitude": "67.60931"
+        },
+        {
+            "city": "Farkhor",
+            "region": "02",
+            "country": "TJ",
+            "latitude": "37.49219",
+            "longitude": "69.40356"
+        },
+        {
+            "city": "Orzu",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "37.55933",
+            "longitude": "68.81842"
+        },
+        {
+            "city": "Kofarnihon",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "38.55632",
+            "longitude": "69.01354"
+        },
+        {
+            "city": "Obigarm",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "38.71731",
+            "longitude": "69.70885"
+        },
+        {
+            "city": "Norak",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "38.38917",
+            "longitude": "69.32272"
+        },
+        {
+            "city": "Novobod",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "39.01084",
+            "longitude": "70.15082"
+        },
+        {
+            "city": "Murghob",
+            "region": "01",
+            "country": "TJ",
+            "latitude": "38.17023",
+            "longitude": "73.96674"
+        },
+        {
+            "city": "M\u016dminobod",
+            "region": "02",
+            "country": "TJ",
+            "latitude": "38.10847",
+            "longitude": "70.02846"
+        },
+        {
+            "city": "Kuybishevsk",
+            "region": "02",
+            "country": "TJ",
+            "latitude": "37.94636",
+            "longitude": "68.80878"
+        },
+        {
+            "city": "K\u016dlob",
+            "region": "02",
+            "country": "TJ",
+            "latitude": "37.91453",
+            "longitude": "69.78303"
+        },
+        {
+            "city": "Komsomolobod",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "38.86776",
+            "longitude": "69.96642"
+        },
+        {
+            "city": "Kolkhozobod",
+            "region": "02",
+            "country": "TJ",
+            "latitude": "37.58823",
+            "longitude": "68.65886"
+        },
+        {
+            "city": "Kirovskiy",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "37.81774",
+            "longitude": "68.85922"
+        },
+        {
+            "city": "Khorugh",
+            "region": "01",
+            "country": "TJ",
+            "latitude": "37.48974",
+            "longitude": "71.55304"
+        },
+        {
+            "city": "Khodzha-Maston",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "38.74457",
+            "longitude": "68.62702"
+        },
+        {
+            "city": "Karakenja",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "39.23585",
+            "longitude": "71.52412"
+        },
+        {
+            "city": "Ishkashim",
+            "region": "01",
+            "country": "TJ",
+            "latitude": "36.72484",
+            "longitude": "71.61331"
+        },
+        {
+            "city": "Hisor",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "38.52504",
+            "longitude": "68.55124"
+        },
+        {
+            "city": "Gharm",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "39.02872",
+            "longitude": "70.37446"
+        },
+        {
+            "city": "Garavuti",
+            "region": "01",
+            "country": "TJ",
+            "latitude": "37.56724",
+            "longitude": "68.44692"
+        },
+        {
+            "city": "Jilikul",
+            "region": "02",
+            "country": "TJ",
+            "latitude": "37.49167",
+            "longitude": "68.53106"
+        },
+        {
+            "city": "D\u016dsty",
+            "region": "02",
+            "country": "TJ",
+            "latitude": "37.34812",
+            "longitude": "68.66398"
+        },
+        {
+            "city": "Dushanbe",
+            "region": "7280679",
+            "country": "TJ",
+            "latitude": "38.53575",
+            "longitude": "68.77905"
+        },
+        {
+            "city": "Danghara",
+            "region": "02",
+            "country": "TJ",
+            "latitude": "38.09578",
+            "longitude": "69.33998"
+        },
+        {
+            "city": "Chubek",
+            "region": "02",
+            "country": "TJ",
+            "latitude": "37.61366",
+            "longitude": "69.70611"
+        },
+        {
+            "city": "Chorbog",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "37.41667",
+            "longitude": "68.2"
+        },
+        {
+            "city": "B\u016dstonqal\u2019a",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "37.84783",
+            "longitude": "68.83125"
+        },
+        {
+            "city": "Boshkengash",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "38.46613",
+            "longitude": "68.80533"
+        },
+        {
+            "city": "Ayny",
+            "region": "03",
+            "country": "TJ",
+            "latitude": "39.392",
+            "longitude": "68.53834"
+        },
+        {
+            "city": "Taboshar",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "40.56864",
+            "longitude": "69.64127"
+        },
+        {
+            "city": "Sh\u016drob",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "40.04906",
+            "longitude": "70.54888"
+        },
+        {
+            "city": "Proletarsk",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "40.16704",
+            "longitude": "69.50398"
+        },
+        {
+            "city": "Palas",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "40.31348",
+            "longitude": "69.74652"
+        },
+        {
+            "city": "Pakhtakoron",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "40.15709",
+            "longitude": "68.74659"
+        },
+        {
+            "city": "Nefteobod",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "40.21539",
+            "longitude": "70.57133"
+        },
+        {
+            "city": "Nov",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "40.15053",
+            "longitude": "69.37358"
+        },
+        {
+            "city": "Quruqsoy",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "40.57579",
+            "longitude": "69.3789"
+        },
+        {
+            "city": "Kim",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "40.20798",
+            "longitude": "70.46882"
+        },
+        {
+            "city": "Khujand",
+            "region": "03",
+            "country": "TJ",
+            "latitude": "40.28527",
+            "longitude": "69.62792"
+        },
+        {
+            "city": "Kaindisoy",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "40.49155",
+            "longitude": "69.70245"
+        },
+        {
+            "city": "Konibodom",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "40.28434",
+            "longitude": "70.44257"
+        },
+        {
+            "city": "Isfara",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "40.12648",
+            "longitude": "70.62526"
+        },
+        {
+            "city": "B\u016dston",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "40.52286",
+            "longitude": "69.33308"
+        },
+        {
+            "city": "Asht",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "40.67474",
+            "longitude": "70.34596"
+        },
+        {
+            "city": "Oltintopkan",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "40.65428",
+            "longitude": "69.5988"
+        },
+        {
+            "city": "Adrasmon",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "40.64716",
+            "longitude": "69.98559"
+        },
+        {
+            "city": "Chkalovsk",
+            "region": "00",
+            "country": "TJ",
+            "latitude": "40.23417",
+            "longitude": "69.69481"
+        }
+    ]
+}

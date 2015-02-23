@@ -1,0 +1,755 @@
+{
+    "country": "Ecuador",
+    "code": "EC",
+    "cities": [
+        {
+            "city": "Zaruma",
+            "region": "08",
+            "country": "EC",
+            "latitude": "-3.68333",
+            "longitude": "-79.61667"
+        },
+        {
+            "city": "Zamora",
+            "region": "20",
+            "country": "EC",
+            "latitude": "-4.06917",
+            "longitude": "-78.95667"
+        },
+        {
+            "city": "Yantzaza",
+            "region": "20",
+            "country": "EC",
+            "latitude": "-3.82778",
+            "longitude": "-78.75944"
+        },
+        {
+            "city": "Yaguachi",
+            "region": "10",
+            "country": "EC",
+            "latitude": "-2.11667",
+            "longitude": "-79.68333"
+        },
+        {
+            "city": "Vinces",
+            "region": "13",
+            "country": "EC",
+            "latitude": "-1.55",
+            "longitude": "-79.73333"
+        },
+        {
+            "city": "Ventanas",
+            "region": "13",
+            "country": "EC",
+            "latitude": "-1.45",
+            "longitude": "-79.46667"
+        },
+        {
+            "city": "Velasco Ibarra",
+            "region": "10",
+            "country": "EC",
+            "latitude": "-1.05",
+            "longitude": "-79.61667"
+        },
+        {
+            "city": "Valdez",
+            "region": "09",
+            "country": "EC",
+            "latitude": "1.24917",
+            "longitude": "-78.98306"
+        },
+        {
+            "city": "Tosagua",
+            "region": "14",
+            "country": "EC",
+            "latitude": "-0.78333",
+            "longitude": "-80.25"
+        },
+        {
+            "city": "Tena",
+            "region": "23",
+            "country": "EC",
+            "latitude": "-0.98333",
+            "longitude": "-77.81667"
+        },
+        {
+            "city": "Suc\u00faa",
+            "region": "15",
+            "country": "EC",
+            "latitude": "-2.46667",
+            "longitude": "-78.16667"
+        },
+        {
+            "city": "Sucre",
+            "region": "14",
+            "country": "EC",
+            "latitude": "-1.26667",
+            "longitude": "-80.43333"
+        },
+        {
+            "city": "Saquisil\u00ed",
+            "region": "07",
+            "country": "EC",
+            "latitude": "-0.83333",
+            "longitude": "-78.66667"
+        },
+        {
+            "city": "Santo Domingo de los Colorados",
+            "region": "18",
+            "country": "EC",
+            "latitude": "-0.25",
+            "longitude": "-79.15"
+        },
+        {
+            "city": "Santa Rosa",
+            "region": "08",
+            "country": "EC",
+            "latitude": "-3.45",
+            "longitude": "-79.96667"
+        },
+        {
+            "city": "Santa Luc\u00eda",
+            "region": "10",
+            "country": "EC",
+            "latitude": "-2.18333",
+            "longitude": "-80"
+        },
+        {
+            "city": "Santa Elena",
+            "region": "25",
+            "country": "EC",
+            "latitude": "-2.23333",
+            "longitude": "-80.85"
+        },
+        {
+            "city": "Santa Ana",
+            "region": "14",
+            "country": "EC",
+            "latitude": "-1.21667",
+            "longitude": "-80.38333"
+        },
+        {
+            "city": "San Miguel de Salcedo",
+            "region": "07",
+            "country": "EC",
+            "latitude": "-1.03333",
+            "longitude": "-78.56667"
+        },
+        {
+            "city": "San Miguel",
+            "region": "03",
+            "country": "EC",
+            "latitude": "-1.7",
+            "longitude": "-79.03333"
+        },
+        {
+            "city": "San Lorenzo de Esmeraldas",
+            "region": "09",
+            "country": "EC",
+            "latitude": "1.28833",
+            "longitude": "-78.83694"
+        },
+        {
+            "city": "Sangolqu\u00ed",
+            "region": "18",
+            "country": "EC",
+            "latitude": "-0.33405",
+            "longitude": "-78.45217"
+        },
+        {
+            "city": "San Gabriel",
+            "region": "05",
+            "country": "EC",
+            "latitude": "0.6",
+            "longitude": "-77.81667"
+        },
+        {
+            "city": "San Crist\u00f3bal",
+            "region": "01",
+            "country": "EC",
+            "latitude": "-0.9045",
+            "longitude": "-89.61744"
+        },
+        {
+            "city": "Samborond\u00f3n",
+            "region": "10",
+            "country": "EC",
+            "latitude": "-1.95",
+            "longitude": "-79.73333"
+        },
+        {
+            "city": "Salinas",
+            "region": "10",
+            "country": "EC",
+            "latitude": "-2.21667",
+            "longitude": "-80.96667"
+        },
+        {
+            "city": "Rosa Z\u00e1rate",
+            "region": "09",
+            "country": "EC",
+            "latitude": "0.33333",
+            "longitude": "-79.46667"
+        },
+        {
+            "city": "Rocafuerte",
+            "region": "14",
+            "country": "EC",
+            "latitude": "-0.91667",
+            "longitude": "-80.43333"
+        },
+        {
+            "city": "Riobamba",
+            "region": "06",
+            "country": "EC",
+            "latitude": "-1.66667",
+            "longitude": "-78.63333"
+        },
+        {
+            "city": "Quito",
+            "region": "18",
+            "country": "EC",
+            "latitude": "-0.22985",
+            "longitude": "-78.52495"
+        },
+        {
+            "city": "Quevedo",
+            "region": "13",
+            "country": "EC",
+            "latitude": "-1.03333",
+            "longitude": "-79.45"
+        },
+        {
+            "city": "Puyo",
+            "region": "17",
+            "country": "EC",
+            "latitude": "-1.46667",
+            "longitude": "-77.98333"
+        },
+        {
+            "city": "Pujil\u00ed",
+            "region": "07",
+            "country": "EC",
+            "latitude": "-0.95",
+            "longitude": "-78.68333"
+        },
+        {
+            "city": "Puerto Villamil",
+            "region": "01",
+            "country": "EC",
+            "latitude": "-0.95542",
+            "longitude": "-90.96654"
+        },
+        {
+            "city": "Puerto Bol\u00edvar",
+            "region": "08",
+            "country": "EC",
+            "latitude": "-3.26667",
+            "longitude": "-79.98333"
+        },
+        {
+            "city": "Puerto Baquerizo Moreno",
+            "region": "01",
+            "country": "EC",
+            "latitude": "-0.9",
+            "longitude": "-89.6"
+        },
+        {
+            "city": "Puerto Ayora",
+            "region": "01",
+            "country": "EC",
+            "latitude": "-0.73931",
+            "longitude": "-90.35176"
+        },
+        {
+            "city": "Propicia",
+            "region": "09",
+            "country": "EC",
+            "latitude": "0.93333",
+            "longitude": "-79.68333"
+        },
+        {
+            "city": "Portoviejo",
+            "region": "14",
+            "country": "EC",
+            "latitude": "-1.05",
+            "longitude": "-80.45"
+        },
+        {
+            "city": "Portovelo",
+            "region": "08",
+            "country": "EC",
+            "latitude": "-3.71667",
+            "longitude": "-79.61667"
+        },
+        {
+            "city": "Playas",
+            "region": "10",
+            "country": "EC",
+            "latitude": "-2.63333",
+            "longitude": "-80.38333"
+        },
+        {
+            "city": "Pi\u00f1as",
+            "region": "08",
+            "country": "EC",
+            "latitude": "-3.66667",
+            "longitude": "-79.65"
+        },
+        {
+            "city": "Pimampiro",
+            "region": "11",
+            "country": "EC",
+            "latitude": "0.4",
+            "longitude": "-77.96667"
+        },
+        {
+            "city": "P\u00edllaro",
+            "region": "19",
+            "country": "EC",
+            "latitude": "-1.16667",
+            "longitude": "-78.53333"
+        },
+        {
+            "city": "Pelileo",
+            "region": "19",
+            "country": "EC",
+            "latitude": "-1.31667",
+            "longitude": "-78.53333"
+        },
+        {
+            "city": "Pedro Carbo",
+            "region": "10",
+            "country": "EC",
+            "latitude": "-1.83333",
+            "longitude": "-80.23333"
+        },
+        {
+            "city": "Pedernales",
+            "region": "14",
+            "country": "EC",
+            "latitude": "0.08333",
+            "longitude": "-80.05"
+        },
+        {
+            "city": "Pasaje",
+            "region": "08",
+            "country": "EC",
+            "latitude": "-3.33333",
+            "longitude": "-79.81667"
+        },
+        {
+            "city": "Palora",
+            "region": "15",
+            "country": "EC",
+            "latitude": "-1.7",
+            "longitude": "-77.93333"
+        },
+        {
+            "city": "Palestina",
+            "region": "10",
+            "country": "EC",
+            "latitude": "-1.93333",
+            "longitude": "-79.73333"
+        },
+        {
+            "city": "Palenque",
+            "region": "13",
+            "country": "EC",
+            "latitude": "-1.45",
+            "longitude": "-79.73333"
+        },
+        {
+            "city": "Paj\u00e1n",
+            "region": "14",
+            "country": "EC",
+            "latitude": "-1.56667",
+            "longitude": "-80.41667"
+        },
+        {
+            "city": "Otavalo",
+            "region": "11",
+            "country": "EC",
+            "latitude": "0.23333",
+            "longitude": "-78.26667"
+        },
+        {
+            "city": "Naranjito",
+            "region": "10",
+            "country": "EC",
+            "latitude": "-2.21667",
+            "longitude": "-79.48333"
+        },
+        {
+            "city": "Naranjal",
+            "region": "10",
+            "country": "EC",
+            "latitude": "-2.66667",
+            "longitude": "-79.61667"
+        },
+        {
+            "city": "Muisne",
+            "region": "09",
+            "country": "EC",
+            "latitude": "0.6",
+            "longitude": "-80.03333"
+        },
+        {
+            "city": "Montecristi",
+            "region": "14",
+            "country": "EC",
+            "latitude": "-1.05",
+            "longitude": "-80.66667"
+        },
+        {
+            "city": "Montalvo",
+            "region": "13",
+            "country": "EC",
+            "latitude": "-1.8",
+            "longitude": "-79.33333"
+        },
+        {
+            "city": "Manta",
+            "region": "14",
+            "country": "EC",
+            "latitude": "-0.95",
+            "longitude": "-80.73333"
+        },
+        {
+            "city": "Machala",
+            "region": "08",
+            "country": "EC",
+            "latitude": "-3.26667",
+            "longitude": "-79.96667"
+        },
+        {
+            "city": "Machachi",
+            "region": "18",
+            "country": "EC",
+            "latitude": "-0.5",
+            "longitude": "-78.56667"
+        },
+        {
+            "city": "Macas",
+            "region": "15",
+            "country": "EC",
+            "latitude": "-2.31667",
+            "longitude": "-78.11667"
+        },
+        {
+            "city": "Macar\u00e1",
+            "region": "12",
+            "country": "EC",
+            "latitude": "-4.38333",
+            "longitude": "-79.95"
+        },
+        {
+            "city": "Lomas de Sargentillo",
+            "region": "10",
+            "country": "EC",
+            "latitude": "-1.88333",
+            "longitude": "-80.08333"
+        },
+        {
+            "city": "Loja",
+            "region": "12",
+            "country": "EC",
+            "latitude": "-3.99313",
+            "longitude": "-79.20422"
+        },
+        {
+            "city": "La Troncal",
+            "region": "04",
+            "country": "EC",
+            "latitude": "-2.4",
+            "longitude": "-79.33333"
+        },
+        {
+            "city": "Latacunga",
+            "region": "07",
+            "country": "EC",
+            "latitude": "-0.93333",
+            "longitude": "-78.61667"
+        },
+        {
+            "city": "La Man\u00e1",
+            "region": "07",
+            "country": "EC",
+            "latitude": "-0.93333",
+            "longitude": "-79.21667"
+        },
+        {
+            "city": "La Libertad",
+            "region": "10",
+            "country": "EC",
+            "latitude": "-2.23333",
+            "longitude": "-80.9"
+        },
+        {
+            "city": "Nueva Loja",
+            "region": "22",
+            "country": "EC",
+            "latitude": "0.08472",
+            "longitude": "-76.88278"
+        },
+        {
+            "city": "Jun\u00edn",
+            "region": "14",
+            "country": "EC",
+            "latitude": "-0.93333",
+            "longitude": "-80.21667"
+        },
+        {
+            "city": "Jipijapa",
+            "region": "14",
+            "country": "EC",
+            "latitude": "-1.33333",
+            "longitude": "-80.58333"
+        },
+        {
+            "city": "Ibarra",
+            "region": "11",
+            "country": "EC",
+            "latitude": "0.35",
+            "longitude": "-78.11667"
+        },
+        {
+            "city": "Huaquillas",
+            "region": "08",
+            "country": "EC",
+            "latitude": "-3.48333",
+            "longitude": "-80.23333"
+        },
+        {
+            "city": "Guayaquil",
+            "region": "10",
+            "country": "EC",
+            "latitude": "-2.16667",
+            "longitude": "-79.9"
+        },
+        {
+            "city": "Guaranda",
+            "region": "03",
+            "country": "EC",
+            "latitude": "-1.6",
+            "longitude": "-79"
+        },
+        {
+            "city": "Guano",
+            "region": "06",
+            "country": "EC",
+            "latitude": "-1.58333",
+            "longitude": "-78.63333"
+        },
+        {
+            "city": "Gualaquiza",
+            "region": "15",
+            "country": "EC",
+            "latitude": "-3.4",
+            "longitude": "-78.55"
+        },
+        {
+            "city": "Gualaceo",
+            "region": "02",
+            "country": "EC",
+            "latitude": "-2.9",
+            "longitude": "-78.78333"
+        },
+        {
+            "city": "El Triunfo",
+            "region": "10",
+            "country": "EC",
+            "latitude": "-1.93333",
+            "longitude": "-79.96667"
+        },
+        {
+            "city": "Dur\u00e1n",
+            "region": "10",
+            "country": "EC",
+            "latitude": "-2.2",
+            "longitude": "-79.83333"
+        },
+        {
+            "city": "El \u00c1ngel",
+            "region": "05",
+            "country": "EC",
+            "latitude": "0.61667",
+            "longitude": "-77.93333"
+        },
+        {
+            "city": "Cuenca",
+            "region": "02",
+            "country": "EC",
+            "latitude": "-2.88333",
+            "longitude": "-78.98333"
+        },
+        {
+            "city": "Cotacachi",
+            "region": "11",
+            "country": "EC",
+            "latitude": "0.3",
+            "longitude": "-78.26667"
+        },
+        {
+            "city": "Coronel Marcelino Maridue\u00f1a",
+            "region": "10",
+            "country": "EC",
+            "latitude": "-2.2",
+            "longitude": "-79.41667"
+        },
+        {
+            "city": "Colimes",
+            "region": "10",
+            "country": "EC",
+            "latitude": "-1.55",
+            "longitude": "-80.01667"
+        },
+        {
+            "city": "Chone",
+            "region": "14",
+            "country": "EC",
+            "latitude": "-0.68333",
+            "longitude": "-80.1"
+        },
+        {
+            "city": "Celica",
+            "region": "12",
+            "country": "EC",
+            "latitude": "-4.11667",
+            "longitude": "-79.95"
+        },
+        {
+            "city": "Cayambe",
+            "region": "18",
+            "country": "EC",
+            "latitude": "0.05",
+            "longitude": "-78.13333"
+        },
+        {
+            "city": "Catarama",
+            "region": "13",
+            "country": "EC",
+            "latitude": "-1.58333",
+            "longitude": "-79.46667"
+        },
+        {
+            "city": "Catamayo",
+            "region": "12",
+            "country": "EC",
+            "latitude": "-3.98333",
+            "longitude": "-79.35"
+        },
+        {
+            "city": "Catacocha",
+            "region": "12",
+            "country": "EC",
+            "latitude": "-4.06667",
+            "longitude": "-79.63333"
+        },
+        {
+            "city": "Cariamanga",
+            "region": "12",
+            "country": "EC",
+            "latitude": "-4.33333",
+            "longitude": "-79.55"
+        },
+        {
+            "city": "Ca\u00f1ar",
+            "region": "04",
+            "country": "EC",
+            "latitude": "-2.55",
+            "longitude": "-78.93333"
+        },
+        {
+            "city": "Calceta",
+            "region": "14",
+            "country": "EC",
+            "latitude": "-0.85",
+            "longitude": "-80.16667"
+        },
+        {
+            "city": "Boca Suno",
+            "region": "24",
+            "country": "EC",
+            "latitude": "-0.71667",
+            "longitude": "-77.13333"
+        },
+        {
+            "city": "Ba\u00f1os",
+            "region": "19",
+            "country": "EC",
+            "latitude": "-1.4",
+            "longitude": "-78.41667"
+        },
+        {
+            "city": "Balzar",
+            "region": "10",
+            "country": "EC",
+            "latitude": "-1.36667",
+            "longitude": "-79.9"
+        },
+        {
+            "city": "Bal\u00e1o",
+            "region": "10",
+            "country": "EC",
+            "latitude": "-2.91667",
+            "longitude": "-79.81667"
+        },
+        {
+            "city": "Bah\u00eda de Car\u00e1quez",
+            "region": "14",
+            "country": "EC",
+            "latitude": "-0.6",
+            "longitude": "-80.41667"
+        },
+        {
+            "city": "Babahoyo",
+            "region": "13",
+            "country": "EC",
+            "latitude": "-1.81667",
+            "longitude": "-79.51667"
+        },
+        {
+            "city": "Azogues",
+            "region": "04",
+            "country": "EC",
+            "latitude": "-2.73333",
+            "longitude": "-78.83333"
+        },
+        {
+            "city": "Atuntaqui",
+            "region": "11",
+            "country": "EC",
+            "latitude": "0.33333",
+            "longitude": "-78.21667"
+        },
+        {
+            "city": "Archidona",
+            "region": "23",
+            "country": "EC",
+            "latitude": "-0.91667",
+            "longitude": "-77.8"
+        },
+        {
+            "city": "Ambato",
+            "region": "19",
+            "country": "EC",
+            "latitude": "-1.24908",
+            "longitude": "-78.61675"
+        },
+        {
+            "city": "Alfredo Baquerizo Moreno",
+            "region": "10",
+            "country": "EC",
+            "latitude": "-1.91667",
+            "longitude": "-79.51667"
+        },
+        {
+            "city": "Alaus\u00ed",
+            "region": "06",
+            "country": "EC",
+            "latitude": "-2.2",
+            "longitude": "-78.83333"
+        }
+    ]
+}

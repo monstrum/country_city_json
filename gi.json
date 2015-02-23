@@ -1,0 +1,13 @@
+{
+    "country": "Gibraltar",
+    "code": "GI",
+    "cities": [
+        {
+            "city": "Gibraltar",
+            "region": "00",
+            "country": "GI",
+            "latitude": "36.14474",
+            "longitude": "-5.35257"
+        }
+    ]
+}

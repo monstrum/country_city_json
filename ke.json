@@ -1,0 +1,720 @@
+{
+    "country": "Kenya",
+    "code": "KE",
+    "cities": [
+        {
+            "city": "Yala",
+            "region": "09",
+            "country": "KE",
+            "latitude": "0.09906",
+            "longitude": "34.53757"
+        },
+        {
+            "city": "Wundanyi",
+            "region": "02",
+            "country": "KE",
+            "latitude": "-3.40193",
+            "longitude": "38.36402"
+        },
+        {
+            "city": "Wote",
+            "region": "03",
+            "country": "KE",
+            "latitude": "-1.78079",
+            "longitude": "37.62882"
+        },
+        {
+            "city": "Witu",
+            "region": "02",
+            "country": "KE",
+            "latitude": "-2.38886",
+            "longitude": "40.43821"
+        },
+        {
+            "city": "Webuye",
+            "region": "09",
+            "country": "KE",
+            "latitude": "0.60751",
+            "longitude": "34.76966"
+        },
+        {
+            "city": "Wajir",
+            "region": "06",
+            "country": "KE",
+            "latitude": "1.7471",
+            "longitude": "40.05732"
+        },
+        {
+            "city": "Voi",
+            "region": "02",
+            "country": "KE",
+            "latitude": "-3.39452",
+            "longitude": "38.56304"
+        },
+        {
+            "city": "Thika",
+            "region": "01",
+            "country": "KE",
+            "latitude": "-1.03326",
+            "longitude": "37.06933"
+        },
+        {
+            "city": "Taveta",
+            "region": "02",
+            "country": "KE",
+            "latitude": "-3.39632",
+            "longitude": "37.67362"
+        },
+        {
+            "city": "Takaungu",
+            "region": "02",
+            "country": "KE",
+            "latitude": "-3.68367",
+            "longitude": "39.85662"
+        },
+        {
+            "city": "Sotik",
+            "region": "08",
+            "country": "KE",
+            "latitude": "-0.68333",
+            "longitude": "35.11871"
+        },
+        {
+            "city": "Shimoni",
+            "region": "02",
+            "country": "KE",
+            "latitude": "-4.64756",
+            "longitude": "39.38175"
+        },
+        {
+            "city": "Sawa Sawa",
+            "region": "02",
+            "country": "KE",
+            "latitude": "-4.47166",
+            "longitude": "39.48463"
+        },
+        {
+            "city": "Sagana",
+            "region": "01",
+            "country": "KE",
+            "latitude": "-0.66667",
+            "longitude": "37.2"
+        },
+        {
+            "city": "Rumuruti",
+            "region": "08",
+            "country": "KE",
+            "latitude": "0.26699",
+            "longitude": "36.53886"
+        },
+        {
+            "city": "Rongai",
+            "region": "08",
+            "country": "KE",
+            "latitude": "-0.17333",
+            "longitude": "35.86382"
+        },
+        {
+            "city": "Oyugis",
+            "region": "07",
+            "country": "KE",
+            "latitude": "-0.50898",
+            "longitude": "34.73583"
+        },
+        {
+            "city": "Othaya",
+            "region": "01",
+            "country": "KE",
+            "latitude": "-0.56516",
+            "longitude": "36.96091"
+        },
+        {
+            "city": "Ogembo",
+            "region": "07",
+            "country": "KE",
+            "latitude": "-0.7984",
+            "longitude": "34.72531"
+        },
+        {
+            "city": "Nyeri",
+            "region": "01",
+            "country": "KE",
+            "latitude": "-0.42013",
+            "longitude": "36.94759"
+        },
+        {
+            "city": "Nyahururu",
+            "region": "01",
+            "country": "KE",
+            "latitude": "0.0421",
+            "longitude": "36.36734"
+        },
+        {
+            "city": "Ngong",
+            "region": "08",
+            "country": "KE",
+            "latitude": "-1.36175",
+            "longitude": "36.6566"
+        },
+        {
+            "city": "Naro Moru",
+            "region": "08",
+            "country": "KE",
+            "latitude": "-0.16756",
+            "longitude": "37.02129"
+        },
+        {
+            "city": "Narok",
+            "region": "08",
+            "country": "KE",
+            "latitude": "-1.07829",
+            "longitude": "35.86012"
+        },
+        {
+            "city": "Nanyuki",
+            "region": "08",
+            "country": "KE",
+            "latitude": "0.01667",
+            "longitude": "37.07283"
+        },
+        {
+            "city": "Nandi Hills",
+            "region": "08",
+            "country": "KE",
+            "latitude": "0.1066",
+            "longitude": "35.18378"
+        },
+        {
+            "city": "Nambale",
+            "region": "09",
+            "country": "KE",
+            "latitude": "0.44594",
+            "longitude": "34.25194"
+        },
+        {
+            "city": "Namanga",
+            "region": "08",
+            "country": "KE",
+            "latitude": "-2.54327",
+            "longitude": "36.79053"
+        },
+        {
+            "city": "Nakuru",
+            "region": "08",
+            "country": "KE",
+            "latitude": "-0.28333",
+            "longitude": "36.06667"
+        },
+        {
+            "city": "Naivasha",
+            "region": "08",
+            "country": "KE",
+            "latitude": "-0.71667",
+            "longitude": "36.43591"
+        },
+        {
+            "city": "Nairobi",
+            "region": "05",
+            "country": "KE",
+            "latitude": "-1.28333",
+            "longitude": "36.81667"
+        },
+        {
+            "city": "Mwingi",
+            "region": "03",
+            "country": "KE",
+            "latitude": "-0.93435",
+            "longitude": "38.06005"
+        },
+        {
+            "city": "Murang\u2019a",
+            "region": "01",
+            "country": "KE",
+            "latitude": "-0.71667",
+            "longitude": "37.15"
+        },
+        {
+            "city": "Mumias",
+            "region": "09",
+            "country": "KE",
+            "latitude": "0.33511",
+            "longitude": "34.4864"
+        },
+        {
+            "city": "Muhoroni",
+            "region": "07",
+            "country": "KE",
+            "latitude": "-0.15406",
+            "longitude": "35.19878"
+        },
+        {
+            "city": "Mtito Andei",
+            "region": "03",
+            "country": "KE",
+            "latitude": "-2.69009",
+            "longitude": "38.16631"
+        },
+        {
+            "city": "Moyale",
+            "region": "03",
+            "country": "KE",
+            "latitude": "3.5167",
+            "longitude": "39.05842"
+        },
+        {
+            "city": "Mombasa",
+            "region": "02",
+            "country": "KE",
+            "latitude": "-4.05466",
+            "longitude": "39.66359"
+        },
+        {
+            "city": "Molo",
+            "region": "08",
+            "country": "KE",
+            "latitude": "-0.2479",
+            "longitude": "35.73743"
+        },
+        {
+            "city": "Migori",
+            "region": "07",
+            "country": "KE",
+            "latitude": "-1.06344",
+            "longitude": "34.47313"
+        },
+        {
+            "city": "Meru",
+            "region": "03",
+            "country": "KE",
+            "latitude": "0.04626",
+            "longitude": "37.65587"
+        },
+        {
+            "city": "Maua",
+            "region": "03",
+            "country": "KE",
+            "latitude": "0.23206",
+            "longitude": "37.94052"
+        },
+        {
+            "city": "Marsabit",
+            "region": "03",
+            "country": "KE",
+            "latitude": "2.32839",
+            "longitude": "37.98986"
+        },
+        {
+            "city": "Mariakani",
+            "region": "02",
+            "country": "KE",
+            "latitude": "-3.86332",
+            "longitude": "39.47362"
+        },
+        {
+            "city": "Maralal",
+            "region": "08",
+            "country": "KE",
+            "latitude": "1.09679",
+            "longitude": "36.69799"
+        },
+        {
+            "city": "Maragua",
+            "region": "01",
+            "country": "KE",
+            "latitude": "-0.78333",
+            "longitude": "37.13333"
+        },
+        {
+            "city": "Mandera",
+            "region": "06",
+            "country": "KE",
+            "latitude": "3.93663",
+            "longitude": "41.86701"
+        },
+        {
+            "city": "Malindi",
+            "region": "02",
+            "country": "KE",
+            "latitude": "-3.21748",
+            "longitude": "40.1191"
+        },
+        {
+            "city": "Malikisi",
+            "region": "09",
+            "country": "KE",
+            "latitude": "0.67694",
+            "longitude": "34.42167"
+        },
+        {
+            "city": "Malaba",
+            "region": "09",
+            "country": "KE",
+            "latitude": "0.63457",
+            "longitude": "34.2756"
+        },
+        {
+            "city": "Makueni",
+            "region": "03",
+            "country": "KE",
+            "latitude": "-1.80409",
+            "longitude": "37.62034"
+        },
+        {
+            "city": "Magadi",
+            "region": "08",
+            "country": "KE",
+            "latitude": "-1.90122",
+            "longitude": "36.287"
+        },
+        {
+            "city": "Machakos",
+            "region": "03",
+            "country": "KE",
+            "latitude": "-1.51667",
+            "longitude": "37.26667"
+        },
+        {
+            "city": "Lumbwa",
+            "region": "08",
+            "country": "KE",
+            "latitude": "-0.19675",
+            "longitude": "35.46847"
+        },
+        {
+            "city": "Lugulu",
+            "region": "09",
+            "country": "KE",
+            "latitude": "0.39361",
+            "longitude": "34.30528"
+        },
+        {
+            "city": "Luanda",
+            "region": "09",
+            "country": "KE",
+            "latitude": "0.29668",
+            "longitude": "34.06459"
+        },
+        {
+            "city": "Londiani",
+            "region": "08",
+            "country": "KE",
+            "latitude": "-0.16496",
+            "longitude": "35.59086"
+        },
+        {
+            "city": "Lodwar",
+            "region": "08",
+            "country": "KE",
+            "latitude": "3.11911",
+            "longitude": "35.59727"
+        },
+        {
+            "city": "Litein",
+            "region": "08",
+            "country": "KE",
+            "latitude": "-0.58226",
+            "longitude": "35.19029"
+        },
+        {
+            "city": "Limuru",
+            "region": "01",
+            "country": "KE",
+            "latitude": "-1.1",
+            "longitude": "36.65"
+        },
+        {
+            "city": "Lamu",
+            "region": "02",
+            "country": "KE",
+            "latitude": "-2.26925",
+            "longitude": "40.89915"
+        },
+        {
+            "city": "Kwale",
+            "region": "02",
+            "country": "KE",
+            "latitude": "-4.17375",
+            "longitude": "39.45206"
+        },
+        {
+            "city": "Konza",
+            "region": "08",
+            "country": "KE",
+            "latitude": "-1.7426",
+            "longitude": "37.12941"
+        },
+        {
+            "city": "Kitui",
+            "region": "03",
+            "country": "KE",
+            "latitude": "-1.36696",
+            "longitude": "38.01056"
+        },
+        {
+            "city": "Kitale",
+            "region": "08",
+            "country": "KE",
+            "latitude": "1.01572",
+            "longitude": "35.00622"
+        },
+        {
+            "city": "Kisumu",
+            "region": "07",
+            "country": "KE",
+            "latitude": "-0.10221",
+            "longitude": "34.76171"
+        },
+        {
+            "city": "Kisii",
+            "region": "07",
+            "country": "KE",
+            "latitude": "-0.67394",
+            "longitude": "34.77225"
+        },
+        {
+            "city": "Kipini",
+            "region": "02",
+            "country": "KE",
+            "latitude": "-2.52565",
+            "longitude": "40.5262"
+        },
+        {
+            "city": "Kinango",
+            "region": "02",
+            "country": "KE",
+            "latitude": "-4.13723",
+            "longitude": "39.31528"
+        },
+        {
+            "city": "Kinancha",
+            "region": "07",
+            "country": "KE",
+            "latitude": "-1.18376",
+            "longitude": "34.62616"
+        },
+        {
+            "city": "Kilifi",
+            "region": "02",
+            "country": "KE",
+            "latitude": "-3.63045",
+            "longitude": "39.84992"
+        },
+        {
+            "city": "Kikuyu",
+            "region": "01",
+            "country": "KE",
+            "latitude": "-1.24576",
+            "longitude": "36.66328"
+        },
+        {
+            "city": "Kijabe",
+            "region": "01",
+            "country": "KE",
+            "latitude": "-0.93304",
+            "longitude": "36.57581"
+        },
+        {
+            "city": "Kiambu",
+            "region": "01",
+            "country": "KE",
+            "latitude": "-1.16667",
+            "longitude": "36.83333"
+        },
+        {
+            "city": "Keruguya",
+            "region": "01",
+            "country": "KE",
+            "latitude": "-0.49886",
+            "longitude": "37.28031"
+        },
+        {
+            "city": "Keroka",
+            "region": "07",
+            "country": "KE",
+            "latitude": "-0.77584",
+            "longitude": "34.94531"
+        },
+        {
+            "city": "Kericho",
+            "region": "08",
+            "country": "KE",
+            "latitude": "-0.36774",
+            "longitude": "35.28314"
+        },
+        {
+            "city": "Karuri",
+            "region": "01",
+            "country": "KE",
+            "latitude": "-0.7",
+            "longitude": "37.18333"
+        },
+        {
+            "city": "Kapsabet",
+            "region": "08",
+            "country": "KE",
+            "latitude": "0.20387",
+            "longitude": "35.105"
+        },
+        {
+            "city": "Kangundo",
+            "region": "03",
+            "country": "KE",
+            "latitude": "-1.29792",
+            "longitude": "37.34705"
+        },
+        {
+            "city": "Kangema",
+            "region": "01",
+            "country": "KE",
+            "latitude": "-0.68333",
+            "longitude": "36.96667"
+        },
+        {
+            "city": "Kakamega",
+            "region": "09",
+            "country": "KE",
+            "latitude": "0.28422",
+            "longitude": "34.75228"
+        },
+        {
+            "city": "Kajiado",
+            "region": "08",
+            "country": "KE",
+            "latitude": "-1.85238",
+            "longitude": "36.77683"
+        },
+        {
+            "city": "Kabarnet",
+            "region": "08",
+            "country": "KE",
+            "latitude": "0.49194",
+            "longitude": "35.74303"
+        },
+        {
+            "city": "Isiolo",
+            "region": "03",
+            "country": "KE",
+            "latitude": "0.35462",
+            "longitude": "37.58218"
+        },
+        {
+            "city": "Homa Bay",
+            "region": "07",
+            "country": "KE",
+            "latitude": "-0.52731",
+            "longitude": "34.45714"
+        },
+        {
+            "city": "Gazi",
+            "region": "02",
+            "country": "KE",
+            "latitude": "-4.42402",
+            "longitude": "39.50588"
+        },
+        {
+            "city": "Garissa",
+            "region": "06",
+            "country": "KE",
+            "latitude": "-0.45355",
+            "longitude": "39.64011"
+        },
+        {
+            "city": "Embu",
+            "region": "03",
+            "country": "KE",
+            "latitude": "-0.53112",
+            "longitude": "37.4506"
+        },
+        {
+            "city": "Eldoret",
+            "region": "08",
+            "country": "KE",
+            "latitude": "0.52036",
+            "longitude": "35.26992"
+        },
+        {
+            "city": "Eldama Ravine",
+            "region": "08",
+            "country": "KE",
+            "latitude": "0.05158",
+            "longitude": "35.73078"
+        },
+        {
+            "city": "Chuka",
+            "region": "03",
+            "country": "KE",
+            "latitude": "-0.33316",
+            "longitude": "37.64588"
+        },
+        {
+            "city": "Chepareria",
+            "region": "08",
+            "country": "KE",
+            "latitude": "1.30774",
+            "longitude": "35.2039"
+        },
+        {
+            "city": "Butere",
+            "region": "09",
+            "country": "KE",
+            "latitude": "0.20636",
+            "longitude": "34.49348"
+        },
+        {
+            "city": "Port Bunyala",
+            "region": "09",
+            "country": "KE",
+            "latitude": "0.09388",
+            "longitude": "33.97559"
+        },
+        {
+            "city": "Bungoma",
+            "region": "09",
+            "country": "KE",
+            "latitude": "0.5635",
+            "longitude": "34.56055"
+        },
+        {
+            "city": "Bondo",
+            "region": "07",
+            "country": "KE",
+            "latitude": "0.23861",
+            "longitude": "34.26944"
+        },
+        {
+            "city": "Bomet",
+            "region": "08",
+            "country": "KE",
+            "latitude": "-0.78129",
+            "longitude": "35.34156"
+        },
+        {
+            "city": "Baringo",
+            "region": "08",
+            "country": "KE",
+            "latitude": "0.46667",
+            "longitude": "35.96667"
+        },
+        {
+            "city": "Athi River",
+            "region": "03",
+            "country": "KE",
+            "latitude": "-1.45071",
+            "longitude": "36.98245"
+        },
+        {
+            "city": "Ahero",
+            "region": "07",
+            "country": "KE",
+            "latitude": "-0.17462",
+            "longitude": "34.9163"
+        },
+        {
+            "city": "Siaya",
+            "region": "07",
+            "country": "KE",
+            "latitude": "0.06116",
+            "longitude": "34.28823"
+        }
+    ]
+}

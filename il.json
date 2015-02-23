@@ -1,0 +1,951 @@
+{
+    "country": "Israel",
+    "code": "IL",
+    "cities": [
+        {
+            "city": "Jerusalem",
+            "region": "06",
+            "country": "IL",
+            "latitude": "31.77902",
+            "longitude": "35.2253"
+        },
+        {
+            "city": "Har Adar",
+            "region": "06",
+            "country": "IL",
+            "latitude": "31.82754",
+            "longitude": "35.13093"
+        },
+        {
+            "city": "\u1e94ur Moshe",
+            "region": "02",
+            "country": "IL",
+            "latitude": "32.3",
+            "longitude": "34.91667"
+        },
+        {
+            "city": "\u1e94ur Hadassa",
+            "region": "06",
+            "country": "IL",
+            "latitude": "31.71667",
+            "longitude": "35.1"
+        },
+        {
+            "city": "\u1e94efat",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.96667",
+            "longitude": "35.49444"
+        },
+        {
+            "city": "Yero\u1e96am",
+            "region": "01",
+            "country": "IL",
+            "latitude": "30.98722",
+            "longitude": "34.93139"
+        },
+        {
+            "city": "Yavne\u2019el",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.7125",
+            "longitude": "35.5"
+        },
+        {
+            "city": "Yavne",
+            "region": "02",
+            "country": "IL",
+            "latitude": "31.87639",
+            "longitude": "34.74"
+        },
+        {
+            "city": "Yafo",
+            "region": "05",
+            "country": "IL",
+            "latitude": "32.05043",
+            "longitude": "34.75224"
+        },
+        {
+            "city": "\u2018Uzeir",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.79444",
+            "longitude": "35.33194"
+        },
+        {
+            "city": "Umm el Fa\u1e25m",
+            "region": "04",
+            "country": "IL",
+            "latitude": "32.51583",
+            "longitude": "35.1525"
+        },
+        {
+            "city": "Tirat Karmel",
+            "region": "04",
+            "country": "IL",
+            "latitude": "32.76167",
+            "longitude": "34.97194"
+        },
+        {
+            "city": "Timrat",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.70361",
+            "longitude": "35.22667"
+        },
+        {
+            "city": "Tiberias",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.79556",
+            "longitude": "35.52861"
+        },
+        {
+            "city": "Tel Mond",
+            "region": "02",
+            "country": "IL",
+            "latitude": "32.25",
+            "longitude": "34.93333"
+        },
+        {
+            "city": "Tel Aviv",
+            "region": "05",
+            "country": "IL",
+            "latitude": "32.06667",
+            "longitude": "34.76667"
+        },
+        {
+            "city": "maalot Tarsh\u012bh\u0101",
+            "region": "03",
+            "country": "IL",
+            "latitude": "33.01667",
+            "longitude": "35.26667"
+        },
+        {
+            "city": "Tamra",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.84861",
+            "longitude": "35.20472"
+        },
+        {
+            "city": "S\u016blam",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.60833",
+            "longitude": "35.33333"
+        },
+        {
+            "city": "Shelomi",
+            "region": "03",
+            "country": "IL",
+            "latitude": "33.06667",
+            "longitude": "35.1"
+        },
+        {
+            "city": "Sederot",
+            "region": "01",
+            "country": "IL",
+            "latitude": "31.51667",
+            "longitude": "34.58333"
+        },
+        {
+            "city": "Savyon",
+            "region": "02",
+            "country": "IL",
+            "latitude": "32.05306",
+            "longitude": "34.87778"
+        },
+        {
+            "city": "Sakhn\u012bn",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.86222",
+            "longitude": "35.29333"
+        },
+        {
+            "city": "S\u0101j\u016br",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.94583",
+            "longitude": "35.34306"
+        },
+        {
+            "city": "Rosh Pinna",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.96667",
+            "longitude": "35.53333"
+        },
+        {
+            "city": "Rishon Le\u1e94iyyon",
+            "region": "02",
+            "country": "IL",
+            "latitude": "31.96417",
+            "longitude": "34.80444"
+        },
+        {
+            "city": "Rekhasim",
+            "region": "04",
+            "country": "IL",
+            "latitude": "32.75",
+            "longitude": "35.1"
+        },
+        {
+            "city": "Ramla",
+            "region": "02",
+            "country": "IL",
+            "latitude": "31.92528",
+            "longitude": "34.86694"
+        },
+        {
+            "city": "Ramat Yishay",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.70056",
+            "longitude": "35.17972"
+        },
+        {
+            "city": "Ramat HaSharon",
+            "region": "05",
+            "country": "IL",
+            "latitude": "32.14722",
+            "longitude": "34.84167"
+        },
+        {
+            "city": "Ramat Gan",
+            "region": "05",
+            "country": "IL",
+            "latitude": "32.08056",
+            "longitude": "34.81417"
+        },
+        {
+            "city": "Qiryat Yam",
+            "region": "04",
+            "country": "IL",
+            "latitude": "32.85083",
+            "longitude": "35.07028"
+        },
+        {
+            "city": "Qiryat Shemona",
+            "region": "03",
+            "country": "IL",
+            "latitude": "33.20806",
+            "longitude": "35.56861"
+        },
+        {
+            "city": "Qiryat Motzkin",
+            "region": "04",
+            "country": "IL",
+            "latitude": "32.83639",
+            "longitude": "35.07528"
+        },
+        {
+            "city": "Qiryat Gat",
+            "region": "01",
+            "country": "IL",
+            "latitude": "31.6",
+            "longitude": "34.76667"
+        },
+        {
+            "city": "Qiryat Bialik",
+            "region": "04",
+            "country": "IL",
+            "latitude": "32.8275",
+            "longitude": "35.08583"
+        },
+        {
+            "city": "Qiryat Ata",
+            "region": "04",
+            "country": "IL",
+            "latitude": "32.80056",
+            "longitude": "35.10639"
+        },
+        {
+            "city": "Qalansuwa",
+            "region": "02",
+            "country": "IL",
+            "latitude": "32.28472",
+            "longitude": "34.97972"
+        },
+        {
+            "city": "Pardesiyya",
+            "region": "02",
+            "country": "IL",
+            "latitude": "32.3",
+            "longitude": "34.91667"
+        },
+        {
+            "city": "Or Yehuda",
+            "region": "05",
+            "country": "IL",
+            "latitude": "32.03111",
+            "longitude": "34.84583"
+        },
+        {
+            "city": "Ofaqim",
+            "region": "01",
+            "country": "IL",
+            "latitude": "31.28333",
+            "longitude": "34.61667"
+        },
+        {
+            "city": "Nordiyya",
+            "region": "02",
+            "country": "IL",
+            "latitude": "32.31667",
+            "longitude": "34.9"
+        },
+        {
+            "city": "Netivot",
+            "region": "01",
+            "country": "IL",
+            "latitude": "31.41667",
+            "longitude": "34.58333"
+        },
+        {
+            "city": "Netanya",
+            "region": "02",
+            "country": "IL",
+            "latitude": "32.33361",
+            "longitude": "34.85778"
+        },
+        {
+            "city": "Ness Ziona",
+            "region": "02",
+            "country": "IL",
+            "latitude": "31.92933",
+            "longitude": "34.79868"
+        },
+        {
+            "city": "Nesher",
+            "region": "04",
+            "country": "IL",
+            "latitude": "32.765",
+            "longitude": "35.05"
+        },
+        {
+            "city": "Nein",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.63333",
+            "longitude": "35.35"
+        },
+        {
+            "city": "Ne\u1e96alim",
+            "region": "02",
+            "country": "IL",
+            "latitude": "32.06194",
+            "longitude": "34.91389"
+        },
+        {
+            "city": "Nazareth",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.70361",
+            "longitude": "35.29556"
+        },
+        {
+            "city": "Na\u1e25f",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.93333",
+            "longitude": "35.31667"
+        },
+        {
+            "city": "Nahariyya",
+            "region": "03",
+            "country": "IL",
+            "latitude": "33.00583",
+            "longitude": "35.09472"
+        },
+        {
+            "city": "Mi\u1e95pe Ramon",
+            "region": "01",
+            "country": "IL",
+            "latitude": "30.60944",
+            "longitude": "34.80111"
+        },
+        {
+            "city": "Mi\u2018ily\u0101",
+            "region": "03",
+            "country": "IL",
+            "latitude": "33.02806",
+            "longitude": "35.25833"
+        },
+        {
+            "city": "Migdal Ha\u2018Emeq",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.67139",
+            "longitude": "35.24056"
+        },
+        {
+            "city": "Mevo Betar",
+            "region": "06",
+            "country": "IL",
+            "latitude": "31.71667",
+            "longitude": "35.1"
+        },
+        {
+            "city": "Metulla",
+            "region": "03",
+            "country": "IL",
+            "latitude": "33.28611",
+            "longitude": "35.57472"
+        },
+        {
+            "city": "Mazkeret Batya",
+            "region": "02",
+            "country": "IL",
+            "latitude": "31.85389",
+            "longitude": "34.83861"
+        },
+        {
+            "city": "Magh\u0101r",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.88694",
+            "longitude": "35.40694"
+        },
+        {
+            "city": "Lod",
+            "region": "02",
+            "country": "IL",
+            "latitude": "31.95139",
+            "longitude": "34.89528"
+        },
+        {
+            "city": "Kefar Yona",
+            "region": "02",
+            "country": "IL",
+            "latitude": "32.31667",
+            "longitude": "34.93333"
+        },
+        {
+            "city": "Kefar Tavor",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.68889",
+            "longitude": "35.42083"
+        },
+        {
+            "city": "Kefar Shemaryahu",
+            "region": "05",
+            "country": "IL",
+            "latitude": "32.18556",
+            "longitude": "34.82194"
+        },
+        {
+            "city": "Kfar Saba",
+            "region": "02",
+            "country": "IL",
+            "latitude": "32.175",
+            "longitude": "34.90694"
+        },
+        {
+            "city": "Kefar H\u0331abad",
+            "region": "02",
+            "country": "IL",
+            "latitude": "31.98667",
+            "longitude": "34.85111"
+        },
+        {
+            "city": "Kaukab Ab\u016b el H\u012bja",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.83333",
+            "longitude": "35.25"
+        },
+        {
+            "city": "Karmi\u2019el",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.91722",
+            "longitude": "35.30417"
+        },
+        {
+            "city": "Kafr Y\u0101s\u012bf",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.95361",
+            "longitude": "35.16528"
+        },
+        {
+            "city": "Kafr Q\u0101sim",
+            "region": "02",
+            "country": "IL",
+            "latitude": "32.11417",
+            "longitude": "34.97389"
+        },
+        {
+            "city": "Kafr Mi\u1e63r",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.64722",
+            "longitude": "35.42083"
+        },
+        {
+            "city": "Kafr Mand\u0101",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.80722",
+            "longitude": "35.26028"
+        },
+        {
+            "city": "Kafr Kann\u0101",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.75",
+            "longitude": "35.34167"
+        },
+        {
+            "city": "Kafr Kam\u0101",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.71667",
+            "longitude": "35.44167"
+        },
+        {
+            "city": "K\u0101b\u016bl",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.86667",
+            "longitude": "35.21306"
+        },
+        {
+            "city": "Judeida",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.92556",
+            "longitude": "35.155"
+        },
+        {
+            "city": "J\u012bsh",
+            "region": "03",
+            "country": "IL",
+            "latitude": "33.02472",
+            "longitude": "35.44444"
+        },
+        {
+            "city": "Jalj\u016blya",
+            "region": "02",
+            "country": "IL",
+            "latitude": "32.15583",
+            "longitude": "34.95278"
+        },
+        {
+            "city": "Iks\u0101l",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.67861",
+            "longitude": "35.32222"
+        },
+        {
+            "city": "Ib\u1e6din",
+            "region": "04",
+            "country": "IL",
+            "latitude": "32.76167",
+            "longitude": "35.10083"
+        },
+        {
+            "city": "\u1e24urfeish",
+            "region": "03",
+            "country": "IL",
+            "latitude": "33.015",
+            "longitude": "35.34944"
+        },
+        {
+            "city": "H\u0331olon",
+            "region": "05",
+            "country": "IL",
+            "latitude": "32.01139",
+            "longitude": "34.77222"
+        },
+        {
+            "city": "Hod HaSharon",
+            "region": "02",
+            "country": "IL",
+            "latitude": "32.15083",
+            "longitude": "34.88833"
+        },
+        {
+            "city": "Herzliyya",
+            "region": "05",
+            "country": "IL",
+            "latitude": "32.16583",
+            "longitude": "34.83667"
+        },
+        {
+            "city": "Haifa",
+            "region": "04",
+            "country": "IL",
+            "latitude": "32.81556",
+            "longitude": "34.98917"
+        },
+        {
+            "city": "H\u0331adera",
+            "region": "04",
+            "country": "IL",
+            "latitude": "32.43528",
+            "longitude": "34.9175"
+        },
+        {
+            "city": "Giv\u2018at Shemu\u2019el",
+            "region": "05",
+            "country": "IL",
+            "latitude": "32.07528",
+            "longitude": "34.84667"
+        },
+        {
+            "city": "Giv\u2018atayim",
+            "region": "05",
+            "country": "IL",
+            "latitude": "32.06972",
+            "longitude": "34.81167"
+        },
+        {
+            "city": "Gedera",
+            "region": "02",
+            "country": "IL",
+            "latitude": "31.81667",
+            "longitude": "34.76667"
+        },
+        {
+            "city": "Gan Yavne",
+            "region": "02",
+            "country": "IL",
+            "latitude": "31.78333",
+            "longitude": "34.71667"
+        },
+        {
+            "city": "Ganne Tiqwa",
+            "region": "02",
+            "country": "IL",
+            "latitude": "32.06028",
+            "longitude": "34.87472"
+        },
+        {
+            "city": "Mafshatah",
+            "region": "03",
+            "country": "IL",
+            "latitude": "33.04972",
+            "longitude": "35.30889"
+        },
+        {
+            "city": "Even Yehuda",
+            "region": "02",
+            "country": "IL",
+            "latitude": "32.26667",
+            "longitude": "34.88333"
+        },
+        {
+            "city": "Tirah",
+            "region": "02",
+            "country": "IL",
+            "latitude": "32.23278",
+            "longitude": "34.95028"
+        },
+        {
+            "city": "E\u1e6d \u1e6caiyiba",
+            "region": "02",
+            "country": "IL",
+            "latitude": "32.26472",
+            "longitude": "35.00806"
+        },
+        {
+            "city": "Esh Sheikh Dann\u016bn",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.99",
+            "longitude": "35.145"
+        },
+        {
+            "city": "Er Reina",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.72361",
+            "longitude": "35.3125"
+        },
+        {
+            "city": "\u2018En Boqeq",
+            "region": "01",
+            "country": "IL",
+            "latitude": "31.20139",
+            "longitude": "35.36389"
+        },
+        {
+            "city": "Elyakhin",
+            "region": "02",
+            "country": "IL",
+            "latitude": "32.4",
+            "longitude": "34.91667"
+        },
+        {
+            "city": "El Mazra\u2018a",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.98583",
+            "longitude": "35.09889"
+        },
+        {
+            "city": "El Fureid\u012bs",
+            "region": "04",
+            "country": "IL",
+            "latitude": "32.6",
+            "longitude": "34.95"
+        },
+        {
+            "city": "Eilat",
+            "region": "01",
+            "country": "IL",
+            "latitude": "29.56111",
+            "longitude": "34.95167"
+        },
+        {
+            "city": "\u2018Eilab\u016bn",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.83472",
+            "longitude": "35.39667"
+        },
+        {
+            "city": "Dimona",
+            "region": "01",
+            "country": "IL",
+            "latitude": "31.06667",
+            "longitude": "35.03333"
+        },
+        {
+            "city": "Deir \u1e24ann\u0101",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.8625",
+            "longitude": "35.36667"
+        },
+        {
+            "city": "D\u0101liyat el Karmil",
+            "region": "04",
+            "country": "IL",
+            "latitude": "32.69361",
+            "longitude": "35.04083"
+        },
+        {
+            "city": "Dabb\u016br\u012bya",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.69583",
+            "longitude": "35.37222"
+        },
+        {
+            "city": "Buqei\u2018a",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.97917",
+            "longitude": "35.33611"
+        },
+        {
+            "city": "Bu\u2018eina",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.80528",
+            "longitude": "35.36361"
+        },
+        {
+            "city": "B\u012br el Maks\u016br",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.75",
+            "longitude": "35.23333"
+        },
+        {
+            "city": "Bet Yi\u1e95\u1e96aq",
+            "region": "02",
+            "country": "IL",
+            "latitude": "32.31667",
+            "longitude": "34.88333"
+        },
+        {
+            "city": "Bet Shemesh",
+            "region": "06",
+            "country": "IL",
+            "latitude": "31.75",
+            "longitude": "35"
+        },
+        {
+            "city": "Bet She\u2019an",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.5",
+            "longitude": "35.5"
+        },
+        {
+            "city": "Bet Dagan",
+            "region": "02",
+            "country": "IL",
+            "latitude": "32.00139",
+            "longitude": "34.83028"
+        },
+        {
+            "city": "Bene Beraq",
+            "region": "05",
+            "country": "IL",
+            "latitude": "32.09028",
+            "longitude": "34.83972"
+        },
+        {
+            "city": "Bene 'Ayish",
+            "region": "02",
+            "country": "IL",
+            "latitude": "31.78333",
+            "longitude": "34.75"
+        },
+        {
+            "city": "Beit Jann",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.96528",
+            "longitude": "35.37944"
+        },
+        {
+            "city": "Beersheba",
+            "region": "01",
+            "country": "IL",
+            "latitude": "31.25181",
+            "longitude": "34.7913"
+        },
+        {
+            "city": "Bat Yam",
+            "region": "05",
+            "country": "IL",
+            "latitude": "32.02306",
+            "longitude": "34.75028"
+        },
+        {
+            "city": "Basmat \u1e6cab\u2018\u016bn",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.73444",
+            "longitude": "35.14583"
+        },
+        {
+            "city": "Azor",
+            "region": "05",
+            "country": "IL",
+            "latitude": "32.01917",
+            "longitude": "34.81056"
+        },
+        {
+            "city": "\u2018Atlit",
+            "region": "04",
+            "country": "IL",
+            "latitude": "32.68333",
+            "longitude": "34.93333"
+        },
+        {
+            "city": "Ashqelon",
+            "region": "01",
+            "country": "IL",
+            "latitude": "31.66667",
+            "longitude": "34.58333"
+        },
+        {
+            "city": "Ashdod",
+            "region": "01",
+            "country": "IL",
+            "latitude": "31.81667",
+            "longitude": "34.65"
+        },
+        {
+            "city": "\u2018Akko",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.92361",
+            "longitude": "35.07278"
+        },
+        {
+            "city": "\u2018Afula \u2018Illit",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.63333",
+            "longitude": "35.33333"
+        },
+        {
+            "city": "Ab\u016b Ghaush",
+            "region": "06",
+            "country": "IL",
+            "latitude": "31.8",
+            "longitude": "35.1"
+        },
+        {
+            "city": "Shibli",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.69583",
+            "longitude": "35.39722"
+        },
+        {
+            "city": "R\u016bmat Heib",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.77917",
+            "longitude": "35.30694"
+        },
+        {
+            "city": "Sallama",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.89722",
+            "longitude": "35.37083"
+        },
+        {
+            "city": "Kefar Weradim",
+            "region": "03",
+            "country": "IL",
+            "latitude": "32.99306",
+            "longitude": "35.275"
+        },
+        {
+            "city": "Lehavim",
+            "region": "01",
+            "country": "IL",
+            "latitude": "31.37284",
+            "longitude": "34.81619"
+        },
+        {
+            "city": "Petah Tikva",
+            "region": "02",
+            "country": "IL",
+            "latitude": "32.09174",
+            "longitude": "34.88503"
+        },
+        {
+            "city": "Midreshet Ben-Gurion",
+            "region": "01",
+            "country": "IL",
+            "latitude": "30.85154",
+            "longitude": "34.7834"
+        },
+        {
+            "city": "Old City",
+            "region": "06",
+            "country": "IL",
+            "latitude": "31.77667",
+            "longitude": "35.23417"
+        },
+        {
+            "city": "Qesarya",
+            "region": "04",
+            "country": "IL",
+            "latitude": "32.51888",
+            "longitude": "34.90459"
+        },
+        {
+            "city": "West Jerusalem",
+            "region": "06",
+            "country": "IL",
+            "latitude": "31.78199",
+            "longitude": "35.21961"
+        }
+    ]
+}

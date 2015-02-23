@@ -1,0 +1,69 @@
+{
+    "country": "AndorrA",
+    "code": "AD",
+    "cities": [
+        {
+            "city": "Sant Juli\u00e0 de L\u00f2ria",
+            "region": "06",
+            "country": "AD",
+            "latitude": "42.46372",
+            "longitude": "1.49129"
+        },
+        {
+            "city": "Pas de la Casa",
+            "region": "03",
+            "country": "AD",
+            "latitude": "42.54277",
+            "longitude": "1.73361"
+        },
+        {
+            "city": "Ordino",
+            "region": "05",
+            "country": "AD",
+            "latitude": "42.55623",
+            "longitude": "1.53319"
+        },
+        {
+            "city": "les Escaldes",
+            "region": "08",
+            "country": "AD",
+            "latitude": "42.50729",
+            "longitude": "1.53414"
+        },
+        {
+            "city": "la Massana",
+            "region": "04",
+            "country": "AD",
+            "latitude": "42.54499",
+            "longitude": "1.51483"
+        },
+        {
+            "city": "Encamp",
+            "region": "03",
+            "country": "AD",
+            "latitude": "42.53451",
+            "longitude": "1.5767"
+        },
+        {
+            "city": "Canillo",
+            "region": "02",
+            "country": "AD",
+            "latitude": "42.5669",
+            "longitude": "1.59556"
+        },
+        {
+            "city": "Arinsal",
+            "region": "04",
+            "country": "AD",
+            "latitude": "42.57205",
+            "longitude": "1.48453"
+        },
+        {
+            "city": "Andorra la Vella",
+            "region": "07",
+            "country": "AD",
+            "latitude": "42.50779",
+            "longitude": "1.52109"
+        }
+    ]
+}

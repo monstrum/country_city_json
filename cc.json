@@ -1,0 +1,13 @@
+{
+    "country": "Cocos (Keeling) Islands",
+    "code": "CC",
+    "cities": [
+        {
+            "city": "West Island",
+            "region": "",
+            "country": "CC",
+            "latitude": "-12.15681",
+            "longitude": "96.82251"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "country": "Saint Helena",
+    "code": "SH",
+    "cities": [
+        {
+            "city": "Georgetown",
+            "region": "01",
+            "country": "SH",
+            "latitude": "-7.93333",
+            "longitude": "-14.41667"
+        },
+        {
+            "city": "Edinburgh of the Seven Seas",
+            "region": "03",
+            "country": "SH",
+            "latitude": "-37.06757",
+            "longitude": "-12.31155"
+        },
+        {
+            "city": "Jamestown",
+            "region": "02",
+            "country": "SH",
+            "latitude": "-15.93872",
+            "longitude": "-5.71675"
+        }
+    ]
+}

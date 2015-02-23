@@ -1,0 +1,349 @@
+{
+    "country": "Burkina Faso",
+    "code": "BF",
+    "cities": [
+        {
+            "city": "Zorgho",
+            "region": "11",
+            "country": "BF",
+            "latitude": "12.24889",
+            "longitude": "-0.61583"
+        },
+        {
+            "city": "Ziniar\u00e9",
+            "region": "11",
+            "country": "BF",
+            "latitude": "12.58222",
+            "longitude": "-1.29833"
+        },
+        {
+            "city": "Yako",
+            "region": "10",
+            "country": "BF",
+            "latitude": "12.96667",
+            "longitude": "-2.26667"
+        },
+        {
+            "city": "Tougan",
+            "region": "01",
+            "country": "BF",
+            "latitude": "13.06667",
+            "longitude": "-3.06667"
+        },
+        {
+            "city": "Toma",
+            "region": "01",
+            "country": "BF",
+            "latitude": "12.76667",
+            "longitude": "-2.88333"
+        },
+        {
+            "city": "Titao",
+            "region": "10",
+            "country": "BF",
+            "latitude": "13.76667",
+            "longitude": "-2.06667"
+        },
+        {
+            "city": "Tenkodogo",
+            "region": "04",
+            "country": "BF",
+            "latitude": "11.78",
+            "longitude": "-0.36972"
+        },
+        {
+            "city": "Solenzo",
+            "region": "01",
+            "country": "BF",
+            "latitude": "12.18333",
+            "longitude": "-4.08333"
+        },
+        {
+            "city": "Sindou",
+            "region": "02",
+            "country": "BF",
+            "latitude": "10.66667",
+            "longitude": "-5.16667"
+        },
+        {
+            "city": "Sebba",
+            "region": "12",
+            "country": "BF",
+            "latitude": "13.43641",
+            "longitude": "0.53044"
+        },
+        {
+            "city": "Sapouy",
+            "region": "06",
+            "country": "BF",
+            "latitude": "11.55444",
+            "longitude": "-1.77361"
+        },
+        {
+            "city": "R\u00e9o",
+            "region": "06",
+            "country": "BF",
+            "latitude": "12.31667",
+            "longitude": "-2.46667"
+        },
+        {
+            "city": "P\u00f4",
+            "region": "07",
+            "country": "BF",
+            "latitude": "11.16972",
+            "longitude": "-1.145"
+        },
+        {
+            "city": "Pitmoaga",
+            "region": "06",
+            "country": "BF",
+            "latitude": "12.23972",
+            "longitude": "-1.87667"
+        },
+        {
+            "city": "Pama",
+            "region": "08",
+            "country": "BF",
+            "latitude": "11.24972",
+            "longitude": "0.7075"
+        },
+        {
+            "city": "Ouargaye",
+            "region": "04",
+            "country": "BF",
+            "latitude": "11.50333",
+            "longitude": "0.05722"
+        },
+        {
+            "city": "Ouahigouya",
+            "region": "10",
+            "country": "BF",
+            "latitude": "13.58278",
+            "longitude": "-2.42158"
+        },
+        {
+            "city": "Ouagadougou",
+            "region": "03",
+            "country": "BF",
+            "latitude": "12.36423",
+            "longitude": "-1.53834"
+        },
+        {
+            "city": "Nouna",
+            "region": "01",
+            "country": "BF",
+            "latitude": "12.73333",
+            "longitude": "-3.86667"
+        },
+        {
+            "city": "Manga",
+            "region": "07",
+            "country": "BF",
+            "latitude": "11.66361",
+            "longitude": "-1.07306"
+        },
+        {
+            "city": "L\u00e9o",
+            "region": "06",
+            "country": "BF",
+            "latitude": "11.1",
+            "longitude": "-2.1"
+        },
+        {
+            "city": "Koup\u00e9la",
+            "region": "04",
+            "country": "BF",
+            "latitude": "12.17944",
+            "longitude": "-0.35167"
+        },
+        {
+            "city": "Koudougou",
+            "region": "06",
+            "country": "BF",
+            "latitude": "12.25",
+            "longitude": "-2.36667"
+        },
+        {
+            "city": "Kongoussi",
+            "region": "05",
+            "country": "BF",
+            "latitude": "13.32583",
+            "longitude": "-1.53472"
+        },
+        {
+            "city": "Kombissiri",
+            "region": "07",
+            "country": "BF",
+            "latitude": "12.06556",
+            "longitude": "-1.3375"
+        },
+        {
+            "city": "Kokologo",
+            "region": "06",
+            "country": "BF",
+            "latitude": "12.18972",
+            "longitude": "-1.88556"
+        },
+        {
+            "city": "Kaya",
+            "region": "05",
+            "country": "BF",
+            "latitude": "13.09167",
+            "longitude": "-1.08444"
+        },
+        {
+            "city": "Hound\u00e9",
+            "region": "09",
+            "country": "BF",
+            "latitude": "11.5",
+            "longitude": "-3.51667"
+        },
+        {
+            "city": "Gourcy",
+            "region": "10",
+            "country": "BF",
+            "latitude": "13.21667",
+            "longitude": "-2.35"
+        },
+        {
+            "city": "Goulour\u00e9",
+            "region": "06",
+            "country": "BF",
+            "latitude": "12.23056",
+            "longitude": "-1.92889"
+        },
+        {
+            "city": "Gorom-Gorom",
+            "region": "12",
+            "country": "BF",
+            "latitude": "14.44389",
+            "longitude": "-0.23611"
+        },
+        {
+            "city": "Gay\u00e9ri",
+            "region": "08",
+            "country": "BF",
+            "latitude": "12.64972",
+            "longitude": "0.49306"
+        },
+        {
+            "city": "Garango",
+            "region": "04",
+            "country": "BF",
+            "latitude": "11.8",
+            "longitude": "-0.55056"
+        },
+        {
+            "city": "Fada N\u2019Gourma",
+            "region": "08",
+            "country": "BF",
+            "latitude": "12.06222",
+            "longitude": "0.35778"
+        },
+        {
+            "city": "Dori",
+            "region": "12",
+            "country": "BF",
+            "latitude": "14.0354",
+            "longitude": "-0.0345"
+        },
+        {
+            "city": "Djibo",
+            "region": "12",
+            "country": "BF",
+            "latitude": "14.10222",
+            "longitude": "-1.63056"
+        },
+        {
+            "city": "Di\u00e9bougou",
+            "region": "13",
+            "country": "BF",
+            "latitude": "10.96667",
+            "longitude": "-3.25"
+        },
+        {
+            "city": "Diapaga",
+            "region": "08",
+            "country": "BF",
+            "latitude": "12.07083",
+            "longitude": "1.78889"
+        },
+        {
+            "city": "D\u00e9dougou",
+            "region": "01",
+            "country": "BF",
+            "latitude": "12.46667",
+            "longitude": "-3.46667"
+        },
+        {
+            "city": "Dano",
+            "region": "13",
+            "country": "BF",
+            "latitude": "11.15",
+            "longitude": "-3.06667"
+        },
+        {
+            "city": "Bouss\u00e9",
+            "region": "11",
+            "country": "BF",
+            "latitude": "12.66056",
+            "longitude": "-1.89222"
+        },
+        {
+            "city": "Boulsa",
+            "region": "05",
+            "country": "BF",
+            "latitude": "12.6675",
+            "longitude": "-0.57583"
+        },
+        {
+            "city": "Boromo",
+            "region": "01",
+            "country": "BF",
+            "latitude": "11.75",
+            "longitude": "-2.93333"
+        },
+        {
+            "city": "Bogand\u00e9",
+            "region": "08",
+            "country": "BF",
+            "latitude": "12.97139",
+            "longitude": "-0.14361"
+        },
+        {
+            "city": "Bobo-Dioulasso",
+            "region": "09",
+            "country": "BF",
+            "latitude": "11.17715",
+            "longitude": "-4.2979"
+        },
+        {
+            "city": "Bati\u00e9",
+            "region": "13",
+            "country": "BF",
+            "latitude": "9.88333",
+            "longitude": "-2.91667"
+        },
+        {
+            "city": "Banfora",
+            "region": "02",
+            "country": "BF",
+            "latitude": "10.63333",
+            "longitude": "-4.76667"
+        },
+        {
+            "city": "Gaoua",
+            "region": "13",
+            "country": "BF",
+            "latitude": "10.29917",
+            "longitude": "-3.25083"
+        },
+        {
+            "city": "Orodara",
+            "region": "09",
+            "country": "BF",
+            "latitude": "10.94917",
+            "longitude": "-4.93417"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "country": "Antigua and Barbuda",
+    "code": "AG",
+    "cities": [
+        {
+            "city": "Saint John\u2019s",
+            "region": "04",
+            "country": "AG",
+            "latitude": "17.11667",
+            "longitude": "-61.85"
+        },
+        {
+            "city": "Potters Village",
+            "region": "04",
+            "country": "AG",
+            "latitude": "17.08333",
+            "longitude": "-61.81667"
+        },
+        {
+            "city": "Liberta",
+            "region": "06",
+            "country": "AG",
+            "latitude": "17.03333",
+            "longitude": "-61.78333"
+        },
+        {
+            "city": "Bolans",
+            "region": "05",
+            "country": "AG",
+            "latitude": "17.03333",
+            "longitude": "-61.88333"
+        },
+        {
+            "city": "All Saints",
+            "region": "00",
+            "country": "AG",
+            "latitude": "17.05",
+            "longitude": "-61.8"
+        }
+    ]
+}

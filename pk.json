@@ -1,0 +1,3002 @@
+{
+    "country": "Pakistan",
+    "code": "PK",
+    "cities": [
+        {
+            "city": "Chuhar Jam\u0101li",
+            "region": "05",
+            "country": "PK",
+            "latitude": "24.38953",
+            "longitude": "67.99234"
+        },
+        {
+            "city": "T\u012bmurgara",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.82636",
+            "longitude": "71.84149"
+        },
+        {
+            "city": "R\u0101wala Kot",
+            "region": "06",
+            "country": "PK",
+            "latitude": "33.85782",
+            "longitude": "73.76043"
+        },
+        {
+            "city": "P\u012br jo Goth",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.59102",
+            "longitude": "68.61786"
+        },
+        {
+            "city": "Khairpur",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.52948",
+            "longitude": "68.7617"
+        },
+        {
+            "city": "\u0100dilpur",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.93697",
+            "longitude": "69.31868"
+        },
+        {
+            "city": "Zi\u0101rat",
+            "region": "02",
+            "country": "PK",
+            "latitude": "30.3823",
+            "longitude": "67.72822"
+        },
+        {
+            "city": "Zhob",
+            "region": "02",
+            "country": "PK",
+            "latitude": "31.34111",
+            "longitude": "69.44806"
+        },
+        {
+            "city": "Zaida",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.06028",
+            "longitude": "72.46778"
+        },
+        {
+            "city": "Z\u0101hir P\u012br",
+            "region": "04",
+            "country": "PK",
+            "latitude": "28.81239",
+            "longitude": "70.52405"
+        },
+        {
+            "city": "Zafarw\u0101l",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.34631",
+            "longitude": "74.89987"
+        },
+        {
+            "city": "Yazm\u0101n Mandi",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.12122",
+            "longitude": "71.74459"
+        },
+        {
+            "city": "Waz\u012br\u0101b\u0101d",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.44583",
+            "longitude": "74.11594"
+        },
+        {
+            "city": "Warburton",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.55",
+            "longitude": "73.83333"
+        },
+        {
+            "city": "W\u0101r\u0101h",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.44808",
+            "longitude": "67.79776"
+        },
+        {
+            "city": "W\u0101na",
+            "region": "01",
+            "country": "PK",
+            "latitude": "32.29889",
+            "longitude": "69.5725"
+        },
+        {
+            "city": "Vih\u0101ri",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.03333",
+            "longitude": "72.35"
+        },
+        {
+            "city": "Utm\u0101nzai",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.18799",
+            "longitude": "71.76286"
+        },
+        {
+            "city": "Uthal",
+            "region": "02",
+            "country": "PK",
+            "latitude": "25.80722",
+            "longitude": "66.62194"
+        },
+        {
+            "city": "Usta Muhammad",
+            "region": "02",
+            "country": "PK",
+            "latitude": "28.17943",
+            "longitude": "68.04454"
+        },
+        {
+            "city": "Umarkot",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.36157",
+            "longitude": "69.73624"
+        },
+        {
+            "city": "Ubauro",
+            "region": "05",
+            "country": "PK",
+            "latitude": "28.16524",
+            "longitude": "69.7289"
+        },
+        {
+            "city": "Turbat",
+            "region": "02",
+            "country": "PK",
+            "latitude": "26.00228",
+            "longitude": "63.04399"
+        },
+        {
+            "city": "Topi",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.07041",
+            "longitude": "72.62358"
+        },
+        {
+            "city": "Toba Tek Singh",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.97433",
+            "longitude": "72.48269"
+        },
+        {
+            "city": "Thul",
+            "region": "05",
+            "country": "PK",
+            "latitude": "28.24034",
+            "longitude": "68.77588"
+        },
+        {
+            "city": "Thatta",
+            "region": "05",
+            "country": "PK",
+            "latitude": "24.74745",
+            "longitude": "67.92353"
+        },
+        {
+            "city": "Th\u0101ru Sh\u0101h",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.94423",
+            "longitude": "68.11602"
+        },
+        {
+            "city": "Taunsa",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.70484",
+            "longitude": "70.65051"
+        },
+        {
+            "city": "T\u0101nk",
+            "region": "03",
+            "country": "PK",
+            "latitude": "32.22168",
+            "longitude": "70.37928"
+        },
+        {
+            "city": "Tangw\u0101ni",
+            "region": "05",
+            "country": "PK",
+            "latitude": "28.2787",
+            "longitude": "68.99718"
+        },
+        {
+            "city": "Tangi",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.30056",
+            "longitude": "71.65361"
+        },
+        {
+            "city": "Tando Muhammad Kh\u0101n",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.12301",
+            "longitude": "68.53577"
+        },
+        {
+            "city": "T\u0101ndo Mittha Kh\u0101n",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.99444",
+            "longitude": "69.20247"
+        },
+        {
+            "city": "Tando J\u0101m",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.42718",
+            "longitude": "68.53619"
+        },
+        {
+            "city": "Tando B\u0101go",
+            "region": "05",
+            "country": "PK",
+            "latitude": "24.78857",
+            "longitude": "68.96614"
+        },
+        {
+            "city": "Tando All\u0101hy\u0101r",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.46263",
+            "longitude": "68.71923"
+        },
+        {
+            "city": "Tando \u0100dam",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.76374",
+            "longitude": "68.66098"
+        },
+        {
+            "city": "T\u0101ndli\u0101nw\u0101la",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.03333",
+            "longitude": "73.13333"
+        },
+        {
+            "city": "Talh\u0101r",
+            "region": "05",
+            "country": "PK",
+            "latitude": "24.88333",
+            "longitude": "68.81667"
+        },
+        {
+            "city": "Talamba",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.52708",
+            "longitude": "72.24011"
+        },
+        {
+            "city": "Talagang",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.92973",
+            "longitude": "72.41583"
+        },
+        {
+            "city": "T\u0101l",
+            "region": "03",
+            "country": "PK",
+            "latitude": "35.47908",
+            "longitude": "72.24385"
+        },
+        {
+            "city": "Sw\u0101bi",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.11988",
+            "longitude": "72.46987"
+        },
+        {
+            "city": "S\u016br\u0101b",
+            "region": "02",
+            "country": "PK",
+            "latitude": "28.49139",
+            "longitude": "66.2585"
+        },
+        {
+            "city": "Sukkur",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.70516",
+            "longitude": "68.85738"
+        },
+        {
+            "city": "Sukheke Mandi",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.86388",
+            "longitude": "73.51122"
+        },
+        {
+            "city": "Sohbatpur",
+            "region": "02",
+            "country": "PK",
+            "latitude": "28.52017",
+            "longitude": "68.54344"
+        },
+        {
+            "city": "Sodhra",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.46162",
+            "longitude": "74.18234"
+        },
+        {
+            "city": "Sobh\u0101dero",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.30459",
+            "longitude": "68.39764"
+        },
+        {
+            "city": "Sk\u0101rdu",
+            "region": "07",
+            "country": "PK",
+            "latitude": "35.28851",
+            "longitude": "75.63334"
+        },
+        {
+            "city": "S\u012bta Road",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.03333",
+            "longitude": "67.85"
+        },
+        {
+            "city": "Sinjhoro",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.03031",
+            "longitude": "68.80898"
+        },
+        {
+            "city": "Sill\u0101nw\u0101li",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.82611",
+            "longitude": "72.53984"
+        },
+        {
+            "city": "Sibi",
+            "region": "02",
+            "country": "PK",
+            "latitude": "29.5448",
+            "longitude": "67.8764"
+        },
+        {
+            "city": "Si\u0101lkot",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.5101",
+            "longitude": "74.54313"
+        },
+        {
+            "city": "Shuj\u0101\u0101b\u0101d",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.87967",
+            "longitude": "71.29313"
+        },
+        {
+            "city": "Shorko",
+            "region": "03",
+            "country": "PK",
+            "latitude": "31.90991",
+            "longitude": "70.87741"
+        },
+        {
+            "city": "Sh\u012bnpokh",
+            "region": "01",
+            "country": "PK",
+            "latitude": "34.3292",
+            "longitude": "71.17821"
+        },
+        {
+            "city": "Shik\u0101rpur",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.95706",
+            "longitude": "68.63789"
+        },
+        {
+            "city": "Sheikhupura",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.71306",
+            "longitude": "73.97833"
+        },
+        {
+            "city": "Sharqpur",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.46333",
+            "longitude": "74.1"
+        },
+        {
+            "city": "Shakargarr",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.26232",
+            "longitude": "75.16682"
+        },
+        {
+            "city": "Shahr Sult\u0101n",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.57646",
+            "longitude": "71.02116"
+        },
+        {
+            "city": "Sh\u0101hpur Ch\u0101kar",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.15497",
+            "longitude": "68.65093"
+        },
+        {
+            "city": "Sh\u0101hpur",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.2676",
+            "longitude": "72.47204"
+        },
+        {
+            "city": "Sh\u0101hd\u0101dpur",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.92406",
+            "longitude": "68.61999"
+        },
+        {
+            "city": "Sh\u0101hd\u0101dkot",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.84771",
+            "longitude": "67.9055"
+        },
+        {
+            "city": "Shabqadar",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.2139",
+            "longitude": "71.55523"
+        },
+        {
+            "city": "Sehw\u0101n",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.42794",
+            "longitude": "67.863"
+        },
+        {
+            "city": "Sargodha",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.08361",
+            "longitude": "72.67111"
+        },
+        {
+            "city": "Sar\u0101i Sidhu",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.59489",
+            "longitude": "71.96977"
+        },
+        {
+            "city": "Sar\u0101i Naurang",
+            "region": "03",
+            "country": "PK",
+            "latitude": "32.82591",
+            "longitude": "70.78136"
+        },
+        {
+            "city": "Sar\u0101i \u0100lamg\u012br",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.90122",
+            "longitude": "73.75591"
+        },
+        {
+            "city": "Sann",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.04184",
+            "longitude": "68.13777"
+        },
+        {
+            "city": "Sanjw\u0101l",
+            "region": "04",
+            "country": "PK",
+            "latitude": "33.76083",
+            "longitude": "72.43361"
+        },
+        {
+            "city": "S\u0101ngla",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.71667",
+            "longitude": "73.38333"
+        },
+        {
+            "city": "S\u0101nghar",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.04656",
+            "longitude": "68.9481"
+        },
+        {
+            "city": "Sambri\u0101l",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.47455",
+            "longitude": "74.35209"
+        },
+        {
+            "city": "Samaro",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.28147",
+            "longitude": "69.39654"
+        },
+        {
+            "city": "Sakrand",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.13839",
+            "longitude": "68.27361"
+        },
+        {
+            "city": "Saidu Shar\u012bf",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.7447",
+            "longitude": "72.3546"
+        },
+        {
+            "city": "S\u0101h\u012bw\u0101l",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.97446",
+            "longitude": "72.33087"
+        },
+        {
+            "city": "Montgomery",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.66667",
+            "longitude": "73.1"
+        },
+        {
+            "city": "S\u0101diq\u0101b\u0101d",
+            "region": "04",
+            "country": "PK",
+            "latitude": "28.30623",
+            "longitude": "70.13065"
+        },
+        {
+            "city": "Rustam jo Goth",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.96897",
+            "longitude": "68.80481"
+        },
+        {
+            "city": "Rojh\u0101n",
+            "region": "04",
+            "country": "PK",
+            "latitude": "28.68677",
+            "longitude": "69.95343"
+        },
+        {
+            "city": "Rohri",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.69223",
+            "longitude": "68.89506"
+        },
+        {
+            "city": "Ren\u0101la Khurd",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.88333",
+            "longitude": "73.6"
+        },
+        {
+            "city": "R\u0101walpindi",
+            "region": "04",
+            "country": "PK",
+            "latitude": "33.6007",
+            "longitude": "73.0679"
+        },
+        {
+            "city": "Ratodero",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.80296",
+            "longitude": "68.28708"
+        },
+        {
+            "city": "Ras\u016blnagar",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.32853",
+            "longitude": "73.78136"
+        },
+        {
+            "city": "R\u0101n\u012bpur",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.28792",
+            "longitude": "68.50505"
+        },
+        {
+            "city": "R\u0101jo Khan\u0101ni",
+            "region": "05",
+            "country": "PK",
+            "latitude": "24.98405",
+            "longitude": "68.85357"
+        },
+        {
+            "city": "R\u0101janpur",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.10351",
+            "longitude": "70.32504"
+        },
+        {
+            "city": "R\u0101ja Jang",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.22083",
+            "longitude": "74.25194"
+        },
+        {
+            "city": "R\u0101iwind",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.25444",
+            "longitude": "74.21778"
+        },
+        {
+            "city": "R\u0101dhan",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.18333",
+            "longitude": "67.95"
+        },
+        {
+            "city": "Quetta",
+            "region": "02",
+            "country": "PK",
+            "latitude": "30.199",
+            "longitude": "67.00971"
+        },
+        {
+            "city": "Qila Saifull\u0101h",
+            "region": "02",
+            "country": "PK",
+            "latitude": "30.7013",
+            "longitude": "68.35993"
+        },
+        {
+            "city": "Qila Abdull\u0101h",
+            "region": "02",
+            "country": "PK",
+            "latitude": "30.72917",
+            "longitude": "66.66083"
+        },
+        {
+            "city": "Kambar",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.58676",
+            "longitude": "68.00103"
+        },
+        {
+            "city": "Q\u0101dirpur R\u0101n",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.29238",
+            "longitude": "71.67117"
+        },
+        {
+            "city": "Pithoro",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.51667",
+            "longitude": "69.38333"
+        },
+        {
+            "city": "Pishin",
+            "region": "02",
+            "country": "PK",
+            "latitude": "30.58028",
+            "longitude": "66.99611"
+        },
+        {
+            "city": "P\u012br Mahal",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.76667",
+            "longitude": "72.43333"
+        },
+        {
+            "city": "Pindi Gheb",
+            "region": "04",
+            "country": "PK",
+            "latitude": "33.24024",
+            "longitude": "72.26609"
+        },
+        {
+            "city": "Pindi Bhatti\u0101n",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.89781",
+            "longitude": "73.27302"
+        },
+        {
+            "city": "Pind D\u0101dan Kh\u0101n",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.58789",
+            "longitude": "73.04564"
+        },
+        {
+            "city": "Ph\u016blji",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.88251",
+            "longitude": "67.6807"
+        },
+        {
+            "city": "Ph\u0101lia",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.42973",
+            "longitude": "73.57745"
+        },
+        {
+            "city": "Pesh\u0101war",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.008",
+            "longitude": "71.57849"
+        },
+        {
+            "city": "Pattoki",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.01667",
+            "longitude": "73.85"
+        },
+        {
+            "city": "Pasr\u016br",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.26413",
+            "longitude": "74.66342"
+        },
+        {
+            "city": "Pasni",
+            "region": "02",
+            "country": "PK",
+            "latitude": "25.26311",
+            "longitude": "63.47103"
+        },
+        {
+            "city": "P\u0101no \u0100qil",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.85685",
+            "longitude": "69.11156"
+        },
+        {
+            "city": "Panjg\u016br",
+            "region": "02",
+            "country": "PK",
+            "latitude": "26.96446",
+            "longitude": "64.09028"
+        },
+        {
+            "city": "Palandri",
+            "region": "06",
+            "country": "PK",
+            "latitude": "33.7177",
+            "longitude": "73.68739"
+        },
+        {
+            "city": "P\u0101kpattan",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.34104",
+            "longitude": "73.38664"
+        },
+        {
+            "city": "Pah\u0101rpur",
+            "region": "03",
+            "country": "PK",
+            "latitude": "32.10384",
+            "longitude": "70.97235"
+        },
+        {
+            "city": "Pad \u012adan",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.77475",
+            "longitude": "68.30197"
+        },
+        {
+            "city": "Pabbi",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.01056",
+            "longitude": "71.79889"
+        },
+        {
+            "city": "Orm\u0101ra",
+            "region": "02",
+            "country": "PK",
+            "latitude": "25.2088",
+            "longitude": "64.6357"
+        },
+        {
+            "city": "Ok\u0101ra",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.80806",
+            "longitude": "73.44583"
+        },
+        {
+            "city": "Nushki",
+            "region": "02",
+            "country": "PK",
+            "latitude": "29.55423",
+            "longitude": "66.02148"
+        },
+        {
+            "city": "Nowshera",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.00582",
+            "longitude": "71.99773"
+        },
+        {
+            "city": "New M\u012brpur",
+            "region": "06",
+            "country": "PK",
+            "latitude": "33.14176",
+            "longitude": "73.76736"
+        },
+        {
+            "city": "Naw\u0101bsh\u0101h",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.24833",
+            "longitude": "68.40955"
+        },
+        {
+            "city": "Naushahro F\u012broz",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.84238",
+            "longitude": "68.12298"
+        },
+        {
+            "city": "Naushahra Virk\u0101n",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.96284",
+            "longitude": "73.97225"
+        },
+        {
+            "city": "Naudero",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.66477",
+            "longitude": "68.36217"
+        },
+        {
+            "city": "Nas\u012br\u0101b\u0101d",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.38091",
+            "longitude": "67.91678"
+        },
+        {
+            "city": "N\u0101row\u0101l",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.1",
+            "longitude": "74.88333"
+        },
+        {
+            "city": "N\u0101rang",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.9132",
+            "longitude": "74.51756"
+        },
+        {
+            "city": "Naukot",
+            "region": "05",
+            "country": "PK",
+            "latitude": "24.85869",
+            "longitude": "69.40238"
+        },
+        {
+            "city": "Nank\u0101na S\u0101hib",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.4475",
+            "longitude": "73.69722"
+        },
+        {
+            "city": "Nab\u012bsar",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.06854",
+            "longitude": "69.64186"
+        },
+        {
+            "city": "Muzaffargarh",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.07537",
+            "longitude": "71.19213"
+        },
+        {
+            "city": "Muzaffar\u0101b\u0101d",
+            "region": "06",
+            "country": "PK",
+            "latitude": "34.37",
+            "longitude": "73.47111"
+        },
+        {
+            "city": "Mustaf\u0101b\u0101d",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.89222",
+            "longitude": "73.49889"
+        },
+        {
+            "city": "M\u016bsa Khel B\u0101z\u0101r",
+            "region": "02",
+            "country": "PK",
+            "latitude": "30.86057",
+            "longitude": "69.82295"
+        },
+        {
+            "city": "Murree",
+            "region": "04",
+            "country": "PK",
+            "latitude": "33.90727",
+            "longitude": "73.39295"
+        },
+        {
+            "city": "Mur\u012bdke",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.8025",
+            "longitude": "74.26167"
+        },
+        {
+            "city": "Mult\u0101n",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.19556",
+            "longitude": "71.47528"
+        },
+        {
+            "city": "Moro",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.66459",
+            "longitude": "68.00156"
+        },
+        {
+            "city": "Mithi",
+            "region": "05",
+            "country": "PK",
+            "latitude": "24.73183",
+            "longitude": "69.79811"
+        },
+        {
+            "city": "Mitha Tiw\u0101na",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.24861",
+            "longitude": "72.11083"
+        },
+        {
+            "city": "M\u012brw\u0101h Gorchani",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.30928",
+            "longitude": "69.05211"
+        },
+        {
+            "city": "M\u012brpur Sakro",
+            "region": "05",
+            "country": "PK",
+            "latitude": "24.54742",
+            "longitude": "67.62771"
+        },
+        {
+            "city": "M\u012brpur M\u0101thelo",
+            "region": "05",
+            "country": "PK",
+            "latitude": "28.02271",
+            "longitude": "69.54886"
+        },
+        {
+            "city": "M\u012brpur Kh\u0101s",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.5251",
+            "longitude": "69.0159"
+        },
+        {
+            "city": "M\u012brpur Batoro",
+            "region": "05",
+            "country": "PK",
+            "latitude": "24.72861",
+            "longitude": "68.26026"
+        },
+        {
+            "city": "M\u012bro Kh\u0101n",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.75991",
+            "longitude": "68.09212"
+        },
+        {
+            "city": "M\u012bram Sh\u0101h",
+            "region": "01",
+            "country": "PK",
+            "latitude": "33.00861",
+            "longitude": "70.06972"
+        },
+        {
+            "city": "Ming\u0101ora",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.77584",
+            "longitude": "72.36249"
+        },
+        {
+            "city": "Minchin\u0101b\u0101d",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.163",
+            "longitude": "73.56854"
+        },
+        {
+            "city": "Mi\u0101nw\u0101li",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.5741",
+            "longitude": "71.52639"
+        },
+        {
+            "city": "Mi\u0101n Chann\u016bn",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.44004",
+            "longitude": "72.35431"
+        },
+        {
+            "city": "Mehr\u0101bpur",
+            "region": "02",
+            "country": "PK",
+            "latitude": "28.1085",
+            "longitude": "68.0254"
+        },
+        {
+            "city": "Mehar",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.18067",
+            "longitude": "67.82288"
+        },
+        {
+            "city": "M\u0101tli",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.04312",
+            "longitude": "68.65568"
+        },
+        {
+            "city": "Mati\u0101ri",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.59609",
+            "longitude": "68.44666"
+        },
+        {
+            "city": "Mastung",
+            "region": "02",
+            "country": "PK",
+            "latitude": "29.79936",
+            "longitude": "66.84505"
+        },
+        {
+            "city": "Mard\u0101n",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.20195",
+            "longitude": "72.05254"
+        },
+        {
+            "city": "M\u0101nsehra",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.33333",
+            "longitude": "73.2"
+        },
+        {
+            "city": "Mankera",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.38656",
+            "longitude": "71.44067"
+        },
+        {
+            "city": "Mangla",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.89306",
+            "longitude": "72.38167"
+        },
+        {
+            "city": "Mandi Bah\u0101udd\u012bn",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.58339",
+            "longitude": "73.48432"
+        },
+        {
+            "city": "M\u0101n\u0101nw\u0101la",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.58417",
+            "longitude": "73.68778"
+        },
+        {
+            "city": "M\u0101mu K\u0101njan",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.83333",
+            "longitude": "72.8"
+        },
+        {
+            "city": "Malakw\u0101l",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.55362",
+            "longitude": "73.21234"
+        },
+        {
+            "city": "Malakand",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.56561",
+            "longitude": "71.93043"
+        },
+        {
+            "city": "Mailsi",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.80028",
+            "longitude": "72.17583"
+        },
+        {
+            "city": "Madeji",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.75443",
+            "longitude": "68.45256"
+        },
+        {
+            "city": "Mach",
+            "region": "02",
+            "country": "PK",
+            "latitude": "29.86371",
+            "longitude": "67.32978"
+        },
+        {
+            "city": "Loralai",
+            "region": "02",
+            "country": "PK",
+            "latitude": "30.37053",
+            "longitude": "68.59798"
+        },
+        {
+            "city": "Lodhr\u0101n",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.54051",
+            "longitude": "71.63357"
+        },
+        {
+            "city": "Lili\u0101ni",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.20651",
+            "longitude": "72.95372"
+        },
+        {
+            "city": "Leiah",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.96128",
+            "longitude": "70.93904"
+        },
+        {
+            "city": "L\u0101rk\u0101na",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.55508",
+            "longitude": "68.21414"
+        },
+        {
+            "city": "Landi Kotal",
+            "region": "01",
+            "country": "PK",
+            "latitude": "34.10167",
+            "longitude": "71.14667"
+        },
+        {
+            "city": "L\u0101li\u0101n",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.82414",
+            "longitude": "72.79971"
+        },
+        {
+            "city": "L\u0101la M\u016bsa",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.70235",
+            "longitude": "73.96"
+        },
+        {
+            "city": "Lakki Marwat",
+            "region": "03",
+            "country": "PK",
+            "latitude": "32.60795",
+            "longitude": "70.91142"
+        },
+        {
+            "city": "Lakhi",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.84958",
+            "longitude": "68.69936"
+        },
+        {
+            "city": "Lahore",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.54972",
+            "longitude": "74.34361"
+        },
+        {
+            "city": "Ladhew\u0101la War\u0101ich",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.15656",
+            "longitude": "74.11701"
+        },
+        {
+            "city": "L\u0101chi",
+            "region": "03",
+            "country": "PK",
+            "latitude": "33.38325",
+            "longitude": "71.33858"
+        },
+        {
+            "city": "Kunri",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.17847",
+            "longitude": "69.56913"
+        },
+        {
+            "city": "Kunj\u0101h",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.52848",
+            "longitude": "73.97368"
+        },
+        {
+            "city": "Kundi\u0101n",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.45872",
+            "longitude": "71.47754"
+        },
+        {
+            "city": "Kul\u0101chi",
+            "region": "03",
+            "country": "PK",
+            "latitude": "31.92861",
+            "longitude": "70.45917"
+        },
+        {
+            "city": "Kot Sultan",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.7737",
+            "longitude": "70.93125"
+        },
+        {
+            "city": "Kot Sam\u0101ba",
+            "region": "04",
+            "country": "PK",
+            "latitude": "28.5522",
+            "longitude": "70.46837"
+        },
+        {
+            "city": "Kotri",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.366",
+            "longitude": "68.31216"
+        },
+        {
+            "city": "Kot R\u0101dha Kishan",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.1725",
+            "longitude": "74.09972"
+        },
+        {
+            "city": "Kot M\u016bmin",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.18954",
+            "longitude": "73.02798"
+        },
+        {
+            "city": "Kot Malik",
+            "region": "02",
+            "country": "PK",
+            "latitude": "30.19438",
+            "longitude": "66.99299"
+        },
+        {
+            "city": "Kotli Loh\u0101r\u0101n",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.5883",
+            "longitude": "74.49321"
+        },
+        {
+            "city": "Kotli",
+            "region": "06",
+            "country": "PK",
+            "latitude": "33.51667",
+            "longitude": "73.91667"
+        },
+        {
+            "city": "Kot Ghul\u0101m Muhammad",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.33298",
+            "longitude": "74.54798"
+        },
+        {
+            "city": "Kot Diji",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.34272",
+            "longitude": "68.70834"
+        },
+        {
+            "city": "Kot Addu",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.4692",
+            "longitude": "70.96714"
+        },
+        {
+            "city": "Kohlu",
+            "region": "02",
+            "country": "PK",
+            "latitude": "29.89615",
+            "longitude": "69.25199"
+        },
+        {
+            "city": "Koh\u0101t",
+            "region": "03",
+            "country": "PK",
+            "latitude": "33.58196",
+            "longitude": "71.44929"
+        },
+        {
+            "city": "Khush\u0101b",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.29667",
+            "longitude": "72.3525"
+        },
+        {
+            "city": "Khurri\u0101nw\u0101la",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.50056",
+            "longitude": "73.26667"
+        },
+        {
+            "city": "Khipro",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.82847",
+            "longitude": "69.37719"
+        },
+        {
+            "city": "Khewra",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.64793",
+            "longitude": "73.01058"
+        },
+        {
+            "city": "Kh\u0101ri\u0101n",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.81493",
+            "longitude": "73.86359"
+        },
+        {
+            "city": "Kh\u0101r\u0101n",
+            "region": "02",
+            "country": "PK",
+            "latitude": "28.58333",
+            "longitude": "65.41667"
+        },
+        {
+            "city": "Karak",
+            "region": "03",
+            "country": "PK",
+            "latitude": "33.11738",
+            "longitude": "71.0949"
+        },
+        {
+            "city": "Khapalu",
+            "region": "07",
+            "country": "PK",
+            "latitude": "35.15268",
+            "longitude": "76.34404"
+        },
+        {
+            "city": "Kh\u0101npur",
+            "region": "04",
+            "country": "PK",
+            "latitude": "28.64534",
+            "longitude": "70.6567"
+        },
+        {
+            "city": "Kh\u0101npur",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.84358",
+            "longitude": "69.41373"
+        },
+        {
+            "city": "Kh\u0101ngarh",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.9173",
+            "longitude": "71.16184"
+        },
+        {
+            "city": "Kh\u0101ng\u0101h Dogr\u0101n",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.83167",
+            "longitude": "73.62306"
+        },
+        {
+            "city": "Kh\u0101new\u0101l",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.3",
+            "longitude": "71.93333"
+        },
+        {
+            "city": "Khal\u0101bat",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.06",
+            "longitude": "72.88944"
+        },
+        {
+            "city": "Khairpur Nathan Sh\u0101h",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.09359",
+            "longitude": "67.73366"
+        },
+        {
+            "city": "Khairpur",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.58111",
+            "longitude": "72.23639"
+        },
+        {
+            "city": "Khairpur",
+            "region": "05",
+            "country": "PK",
+            "latitude": "28.06526",
+            "longitude": "69.70076"
+        },
+        {
+            "city": "Khadro",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.14723",
+            "longitude": "68.71764"
+        },
+        {
+            "city": "Keti Bandar",
+            "region": "05",
+            "country": "PK",
+            "latitude": "24.14472",
+            "longitude": "67.44972"
+        },
+        {
+            "city": "Kas\u016br",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.11556",
+            "longitude": "74.44667"
+        },
+        {
+            "city": "Kashmor",
+            "region": "05",
+            "country": "PK",
+            "latitude": "28.43333",
+            "longitude": "69.58333"
+        },
+        {
+            "city": "Karor",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.22741",
+            "longitude": "70.94923"
+        },
+        {
+            "city": "Kario",
+            "region": "05",
+            "country": "PK",
+            "latitude": "24.80817",
+            "longitude": "68.60448"
+        },
+        {
+            "city": "Karaundi",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.89745",
+            "longitude": "68.40681"
+        },
+        {
+            "city": "Karachi",
+            "region": "05",
+            "country": "PK",
+            "latitude": "24.9056",
+            "longitude": "67.0822"
+        },
+        {
+            "city": "Kanganpur",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.76629",
+            "longitude": "74.12311"
+        },
+        {
+            "city": "Kandi\u0101ro",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.06011",
+            "longitude": "68.20909"
+        },
+        {
+            "city": "Kandi\u0101ri",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.91558",
+            "longitude": "68.5216"
+        },
+        {
+            "city": "Kandhkot",
+            "region": "05",
+            "country": "PK",
+            "latitude": "28.24396",
+            "longitude": "69.18235"
+        },
+        {
+            "city": "K\u0101mra",
+            "region": "04",
+            "country": "PK",
+            "latitude": "33.74734",
+            "longitude": "73.51107"
+        },
+        {
+            "city": "Kamoke",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.97444",
+            "longitude": "74.22444"
+        },
+        {
+            "city": "Kam\u012br",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.43333",
+            "longitude": "73.05"
+        },
+        {
+            "city": "Kamar Mush\u0101ni",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.84389",
+            "longitude": "71.36694"
+        },
+        {
+            "city": "Kam\u0101lia",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.73333",
+            "longitude": "72.65"
+        },
+        {
+            "city": "Kal\u016br Kot",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.15639",
+            "longitude": "71.25944"
+        },
+        {
+            "city": "Kallar Kah\u0101r",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.78333",
+            "longitude": "72.7"
+        },
+        {
+            "city": "K\u0101leke Mandi",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.97718",
+            "longitude": "73.60259"
+        },
+        {
+            "city": "Kal\u0101t",
+            "region": "02",
+            "country": "PK",
+            "latitude": "29.02252",
+            "longitude": "66.5916"
+        },
+        {
+            "city": "Kal\u0101sw\u0101la",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.20093",
+            "longitude": "74.64914"
+        },
+        {
+            "city": "K\u0101l\u0101b\u0101gh",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.965",
+            "longitude": "71.55697"
+        },
+        {
+            "city": "Kah\u016bta",
+            "region": "04",
+            "country": "PK",
+            "latitude": "33.5913",
+            "longitude": "73.38676"
+        },
+        {
+            "city": "Kohror Pakka",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.62382",
+            "longitude": "71.91673"
+        },
+        {
+            "city": "K\u0101hna",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.36917",
+            "longitude": "74.36528"
+        },
+        {
+            "city": "Kadhan",
+            "region": "05",
+            "country": "PK",
+            "latitude": "24.48102",
+            "longitude": "68.9859"
+        },
+        {
+            "city": "Kab\u012brw\u0101la",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.40677",
+            "longitude": "71.8667"
+        },
+        {
+            "city": "Johi",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.69206",
+            "longitude": "67.6133"
+        },
+        {
+            "city": "J\u012bwani",
+            "region": "02",
+            "country": "PK",
+            "latitude": "25.04992",
+            "longitude": "61.7468"
+        },
+        {
+            "city": "Jhumra",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.56781",
+            "longitude": "73.18347"
+        },
+        {
+            "city": "Jhol",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.95507",
+            "longitude": "68.88821"
+        },
+        {
+            "city": "Jhelum",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.93313",
+            "longitude": "73.72637"
+        },
+        {
+            "city": "Jhaw\u0101ri\u0101n",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.36139",
+            "longitude": "72.62278"
+        },
+        {
+            "city": "Jhatpat",
+            "region": "02",
+            "country": "PK",
+            "latitude": "28.37477",
+            "longitude": "68.34874"
+        },
+        {
+            "city": "Jhang Sadr",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.27154",
+            "longitude": "72.32842"
+        },
+        {
+            "city": "Jauhar\u0101b\u0101d",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.2898",
+            "longitude": "72.2813"
+        },
+        {
+            "city": "Jatoi Shim\u0101li",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.51654",
+            "longitude": "70.85032"
+        },
+        {
+            "city": "J\u0101ti",
+            "region": "05",
+            "country": "PK",
+            "latitude": "24.3539",
+            "longitude": "68.26706"
+        },
+        {
+            "city": "Jar\u0101nw\u0101la",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.33333",
+            "longitude": "73.43333"
+        },
+        {
+            "city": "J\u0101ndi\u0101la Sher Kh\u0101n",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.81986",
+            "longitude": "73.91812"
+        },
+        {
+            "city": "Jand",
+            "region": "04",
+            "country": "PK",
+            "latitude": "33.42985",
+            "longitude": "72.01928"
+        },
+        {
+            "city": "Jamshoro",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.43939",
+            "longitude": "68.29027"
+        },
+        {
+            "city": "J\u0101mpur",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.64414",
+            "longitude": "70.59544"
+        },
+        {
+            "city": "Jal\u0101lpur P\u012brw\u0101la",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.50687",
+            "longitude": "71.21917"
+        },
+        {
+            "city": "Jal\u0101lpur",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.63744",
+            "longitude": "74.21829"
+        },
+        {
+            "city": "Jah\u0101ni\u0101n Sh\u0101h",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.80552",
+            "longitude": "72.27711"
+        },
+        {
+            "city": "Jacob\u0101b\u0101d",
+            "region": "05",
+            "country": "PK",
+            "latitude": "28.281",
+            "longitude": "68.43876"
+        },
+        {
+            "city": "Isl\u0101mkot",
+            "region": "05",
+            "country": "PK",
+            "latitude": "24.6997",
+            "longitude": "70.177"
+        },
+        {
+            "city": "Isl\u0101m\u0101b\u0101d",
+            "region": "08",
+            "country": "PK",
+            "latitude": "33.72148",
+            "longitude": "73.04329"
+        },
+        {
+            "city": "Hyder\u0101b\u0101d",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.39242",
+            "longitude": "68.37366"
+        },
+        {
+            "city": "Hujra",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.74179",
+            "longitude": "73.82358"
+        },
+        {
+            "city": "Hingorja",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.21088",
+            "longitude": "68.41598"
+        },
+        {
+            "city": "Hazro",
+            "region": "04",
+            "country": "PK",
+            "latitude": "33.90914",
+            "longitude": "72.49212"
+        },
+        {
+            "city": "Haveli\u0101n",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.0536",
+            "longitude": "73.16571"
+        },
+        {
+            "city": "Haveli",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.45016",
+            "longitude": "73.69888"
+        },
+        {
+            "city": "H\u0101silpur",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.71222",
+            "longitude": "72.55528"
+        },
+        {
+            "city": "Hasan Abd\u0101l",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.43333",
+            "longitude": "72.7"
+        },
+        {
+            "city": "Haru Zbad",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.61333",
+            "longitude": "73.13889"
+        },
+        {
+            "city": "Harnoli",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.27917",
+            "longitude": "71.55389"
+        },
+        {
+            "city": "Harnai",
+            "region": "02",
+            "country": "PK",
+            "latitude": "30.10047",
+            "longitude": "67.93741"
+        },
+        {
+            "city": "Har\u012bpur",
+            "region": "03",
+            "country": "PK",
+            "latitude": "33.99997",
+            "longitude": "72.93409"
+        },
+        {
+            "city": "Hangu",
+            "region": "03",
+            "country": "PK",
+            "latitude": "33.53108",
+            "longitude": "71.05934"
+        },
+        {
+            "city": "H\u0101la",
+            "region": "02",
+            "country": "PK",
+            "latitude": "25.81308",
+            "longitude": "68.42273"
+        },
+        {
+            "city": "H\u0101fiz\u0101b\u0101d",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.06786",
+            "longitude": "73.68545"
+        },
+        {
+            "city": "Had\u0101li",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.64132",
+            "longitude": "74.56904"
+        },
+        {
+            "city": "Gw\u0101dar",
+            "region": "02",
+            "country": "PK",
+            "latitude": "25.12163",
+            "longitude": "62.32541"
+        },
+        {
+            "city": "Gujr\u0101t",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.57284",
+            "longitude": "74.07897"
+        },
+        {
+            "city": "Gujr\u0101nw\u0101la",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.16167",
+            "longitude": "74.18831"
+        },
+        {
+            "city": "G\u016bjar Kh\u0101n",
+            "region": "04",
+            "country": "PK",
+            "latitude": "33.25579",
+            "longitude": "73.30255"
+        },
+        {
+            "city": "Gojra",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.14874",
+            "longitude": "72.68656"
+        },
+        {
+            "city": "Gilgit",
+            "region": "07",
+            "country": "PK",
+            "latitude": "35.9221",
+            "longitude": "74.3087"
+        },
+        {
+            "city": "Ghotki",
+            "region": "05",
+            "country": "PK",
+            "latitude": "28.00604",
+            "longitude": "69.31608"
+        },
+        {
+            "city": "Ghauspur",
+            "region": "05",
+            "country": "PK",
+            "latitude": "28.13906",
+            "longitude": "69.08305"
+        },
+        {
+            "city": "Gh\u0101ro",
+            "region": "05",
+            "country": "PK",
+            "latitude": "24.74241",
+            "longitude": "67.58565"
+        },
+        {
+            "city": "Garh Mah\u0101r\u0101ja",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.83388",
+            "longitude": "71.90529"
+        },
+        {
+            "city": "Garhi Y\u0101s\u012bn",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.9069",
+            "longitude": "68.51096"
+        },
+        {
+            "city": "Garhi Khairo",
+            "region": "05",
+            "country": "PK",
+            "latitude": "28.06058",
+            "longitude": "67.98027"
+        },
+        {
+            "city": "Goth Garelo",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.43517",
+            "longitude": "68.0755"
+        },
+        {
+            "city": "Gand\u0101va",
+            "region": "02",
+            "country": "PK",
+            "latitude": "28.6127",
+            "longitude": "67.4854"
+        },
+        {
+            "city": "Gambat",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.35145",
+            "longitude": "68.52051"
+        },
+        {
+            "city": "G\u0101kuch",
+            "region": "07",
+            "country": "PK",
+            "latitude": "36.17683",
+            "longitude": "73.76383"
+        },
+        {
+            "city": "Gad\u0101ni",
+            "region": "02",
+            "country": "PK",
+            "latitude": "25.11853",
+            "longitude": "66.72985"
+        },
+        {
+            "city": "Fort Abb\u0101s",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.1925",
+            "longitude": "72.85361"
+        },
+        {
+            "city": "Fazalpur",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.18333",
+            "longitude": "75.06667"
+        },
+        {
+            "city": "Chak Two Hundred Forty-Nine TDA",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.17959",
+            "longitude": "71.20946"
+        },
+        {
+            "city": "Faruka",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.88722",
+            "longitude": "72.4144"
+        },
+        {
+            "city": "Faq\u012brw\u0101li",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.46631",
+            "longitude": "73.03403"
+        },
+        {
+            "city": "Faisal\u0101b\u0101d",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.41667",
+            "longitude": "73.08333"
+        },
+        {
+            "city": "Emin\u0101b\u0101d",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.04219",
+            "longitude": "74.25944"
+        },
+        {
+            "city": "Duny\u0101pur",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.7995",
+            "longitude": "71.71958"
+        },
+        {
+            "city": "Dunga Bunga",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.74931",
+            "longitude": "73.24324"
+        },
+        {
+            "city": "Dullew\u0101la",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.83587",
+            "longitude": "71.43625"
+        },
+        {
+            "city": "Duki",
+            "region": "02",
+            "country": "PK",
+            "latitude": "30.15414",
+            "longitude": "68.5728"
+        },
+        {
+            "city": "Dokri",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.37427",
+            "longitude": "68.09673"
+        },
+        {
+            "city": "Do\u0101ba",
+            "region": "03",
+            "country": "PK",
+            "latitude": "33.42444",
+            "longitude": "70.73639"
+        },
+        {
+            "city": "D\u012br",
+            "region": "03",
+            "country": "PK",
+            "latitude": "35.20583",
+            "longitude": "71.87556"
+        },
+        {
+            "city": "Diplo",
+            "region": "05",
+            "country": "PK",
+            "latitude": "24.46667",
+            "longitude": "69.58401"
+        },
+        {
+            "city": "D\u012bp\u0101lpur",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.67091",
+            "longitude": "73.65292"
+        },
+        {
+            "city": "Dinga",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.63976",
+            "longitude": "73.72202"
+        },
+        {
+            "city": "Dijkot",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.21667",
+            "longitude": "72.98333"
+        },
+        {
+            "city": "Digri",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.15579",
+            "longitude": "69.11129"
+        },
+        {
+            "city": "Dhoro N\u0101ro",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.5",
+            "longitude": "69.56667"
+        },
+        {
+            "city": "Dhaunkal",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.40623",
+            "longitude": "74.13687"
+        },
+        {
+            "city": "Dhanot",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.57991",
+            "longitude": "71.75213"
+        },
+        {
+            "city": "Dera Ism\u0101\u012bl Kh\u0101n",
+            "region": "03",
+            "country": "PK",
+            "latitude": "31.83269",
+            "longitude": "70.9024"
+        },
+        {
+            "city": "Dera Gh\u0101zi Kh\u0101n",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.05614",
+            "longitude": "70.63477"
+        },
+        {
+            "city": "Dera Bugti",
+            "region": "02",
+            "country": "PK",
+            "latitude": "29.03069",
+            "longitude": "69.15099"
+        },
+        {
+            "city": "Daur",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.45834",
+            "longitude": "68.31915"
+        },
+        {
+            "city": "Dault\u0101la",
+            "region": "04",
+            "country": "PK",
+            "latitude": "33.19253",
+            "longitude": "73.14128"
+        },
+        {
+            "city": "Daulatpur",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.50154",
+            "longitude": "67.9706"
+        },
+        {
+            "city": "D\u0101\u016bd Khel",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.87498",
+            "longitude": "71.57012"
+        },
+        {
+            "city": "Daska",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.32426",
+            "longitude": "74.34974"
+        },
+        {
+            "city": "Darya Kh\u0101n Marri",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.67748",
+            "longitude": "68.2859"
+        },
+        {
+            "city": "Darya Kh\u0101n",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.79123",
+            "longitude": "71.10394"
+        },
+        {
+            "city": "D\u0101ro Mehar",
+            "region": "05",
+            "country": "PK",
+            "latitude": "24.79463",
+            "longitude": "68.18052"
+        },
+        {
+            "city": "D\u0101lband\u012bn",
+            "region": "02",
+            "country": "PK",
+            "latitude": "28.8947",
+            "longitude": "64.41009"
+        },
+        {
+            "city": "D\u0101jal",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.55767",
+            "longitude": "70.37615"
+        },
+        {
+            "city": "D\u0101ira D\u012bn Pan\u0101h",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.5702",
+            "longitude": "70.93611"
+        },
+        {
+            "city": "Daggar",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.51028",
+            "longitude": "72.48432"
+        },
+        {
+            "city": "D\u0101du",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.73286",
+            "longitude": "67.77631"
+        },
+        {
+            "city": "D\u0101dhar",
+            "region": "02",
+            "country": "PK",
+            "latitude": "29.47527",
+            "longitude": "67.65135"
+        },
+        {
+            "city": "Ch\u016bni\u0101n",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.96397",
+            "longitude": "73.98029"
+        },
+        {
+            "city": "Ch\u016bhar K\u0101na",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.75",
+            "longitude": "73.8"
+        },
+        {
+            "city": "Chor",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.51667",
+            "longitude": "69.76667"
+        },
+        {
+            "city": "Choa Said\u0101n Sh\u0101h",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.72006",
+            "longitude": "72.98486"
+        },
+        {
+            "city": "Chitr\u0101l",
+            "region": "03",
+            "country": "PK",
+            "latitude": "35.84623",
+            "longitude": "71.7858"
+        },
+        {
+            "city": "Chishti\u0101n Mandi",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.8",
+            "longitude": "72.86667"
+        },
+        {
+            "city": "Chiniot",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.72",
+            "longitude": "72.97889"
+        },
+        {
+            "city": "Chil\u0101s",
+            "region": "07",
+            "country": "PK",
+            "latitude": "35.41172",
+            "longitude": "74.10352"
+        },
+        {
+            "city": "Ch\u012bch\u0101watni",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.53333",
+            "longitude": "72.7"
+        },
+        {
+            "city": "Cher\u0101t",
+            "region": "01",
+            "country": "PK",
+            "latitude": "33.82328",
+            "longitude": "71.89153"
+        },
+        {
+            "city": "Chawinda",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.34692",
+            "longitude": "74.70612"
+        },
+        {
+            "city": "Ch\u0101rsadda",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.14345",
+            "longitude": "71.73173"
+        },
+        {
+            "city": "Chambar",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.29313",
+            "longitude": "68.81201"
+        },
+        {
+            "city": "Chaman",
+            "region": "02",
+            "country": "PK",
+            "latitude": "30.9236",
+            "longitude": "66.45116"
+        },
+        {
+            "city": "Chakw\u0101l",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.93338",
+            "longitude": "72.85853"
+        },
+        {
+            "city": "Chak \u0100zam Saffo",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.75",
+            "longitude": "73.03333"
+        },
+        {
+            "city": "Chak",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.85754",
+            "longitude": "68.83292"
+        },
+        {
+            "city": "B\u016brew\u0101la",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.16667",
+            "longitude": "72.65"
+        },
+        {
+            "city": "Bulri",
+            "region": "05",
+            "country": "PK",
+            "latitude": "24.86667",
+            "longitude": "68.33333"
+        },
+        {
+            "city": "Bozdar",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.18275",
+            "longitude": "68.63604"
+        },
+        {
+            "city": "Bhop\u0101lw\u0101la",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.42888",
+            "longitude": "74.3633"
+        },
+        {
+            "city": "Bhit Sh\u0101h",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.80437",
+            "longitude": "68.49265"
+        },
+        {
+            "city": "Bhiria",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.91067",
+            "longitude": "68.19484"
+        },
+        {
+            "city": "Bhimbar",
+            "region": "06",
+            "country": "PK",
+            "latitude": "32.97568",
+            "longitude": "74.07926"
+        },
+        {
+            "city": "Bhera",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.48318",
+            "longitude": "72.9097"
+        },
+        {
+            "city": "Bhaw\u0101na",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.56918",
+            "longitude": "72.64899"
+        },
+        {
+            "city": "Bh\u0101n",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.55831",
+            "longitude": "67.72139"
+        },
+        {
+            "city": "Bhalw\u0101l",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.27204",
+            "longitude": "72.90425"
+        },
+        {
+            "city": "Bhakkar",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.62525",
+            "longitude": "71.06574"
+        },
+        {
+            "city": "Bh\u0101i Pheru",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.2",
+            "longitude": "73.95"
+        },
+        {
+            "city": "Bh\u0101g",
+            "region": "02",
+            "country": "PK",
+            "latitude": "29.0415",
+            "longitude": "67.8239"
+        },
+        {
+            "city": "Ber\u0101ni",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.785",
+            "longitude": "68.80686"
+        },
+        {
+            "city": "Bela",
+            "region": "02",
+            "country": "PK",
+            "latitude": "26.2271",
+            "longitude": "66.3111"
+        },
+        {
+            "city": "Begow\u0101la",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.43759",
+            "longitude": "74.26824"
+        },
+        {
+            "city": "Bat Khela",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.61667",
+            "longitude": "71.97139"
+        },
+        {
+            "city": "Batgr\u0101m",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.68184",
+            "longitude": "73.03171"
+        },
+        {
+            "city": "Bas\u012brpur",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.58318",
+            "longitude": "73.829"
+        },
+        {
+            "city": "B\u0101rkh\u0101n",
+            "region": "02",
+            "country": "PK",
+            "latitude": "29.8977",
+            "longitude": "69.52555"
+        },
+        {
+            "city": "Bannu",
+            "region": "03",
+            "country": "PK",
+            "latitude": "32.98541",
+            "longitude": "70.6027"
+        },
+        {
+            "city": "B\u0101ndhi",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.58613",
+            "longitude": "68.30058"
+        },
+        {
+            "city": "Bakhri Ahmad Khan",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.73586",
+            "longitude": "70.83796"
+        },
+        {
+            "city": "Bah\u0101walpur",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.4",
+            "longitude": "71.68333"
+        },
+        {
+            "city": "Bah\u0101walnagar",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.99866",
+            "longitude": "73.2536"
+        },
+        {
+            "city": "B\u0101gh",
+            "region": "06",
+            "country": "PK",
+            "latitude": "33.98111",
+            "longitude": "73.77608"
+        },
+        {
+            "city": "B\u0101garji",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.75599",
+            "longitude": "68.75236"
+        },
+        {
+            "city": "Baffa",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.43782",
+            "longitude": "73.21937"
+        },
+        {
+            "city": "Bad\u012bn",
+            "region": "05",
+            "country": "PK",
+            "latitude": "24.65599",
+            "longitude": "68.83841"
+        },
+        {
+            "city": "Baddomalhi",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.99283",
+            "longitude": "74.66834"
+        },
+        {
+            "city": "Aw\u0101r\u0101n",
+            "region": "02",
+            "country": "PK",
+            "latitude": "26.4555",
+            "longitude": "65.2312"
+        },
+        {
+            "city": "Attock City",
+            "region": "04",
+            "country": "PK",
+            "latitude": "33.77311",
+            "longitude": "72.3741"
+        },
+        {
+            "city": "\u0100rifw\u0101la",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.29399",
+            "longitude": "73.07354"
+        },
+        {
+            "city": "Amangarh",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.00583",
+            "longitude": "71.93"
+        },
+        {
+            "city": "Al\u012bzai",
+            "region": "01",
+            "country": "PK",
+            "latitude": "33.53833",
+            "longitude": "70.34616"
+        },
+        {
+            "city": "Al\u012bpur",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.38464",
+            "longitude": "70.91157"
+        },
+        {
+            "city": "Al\u012b\u0101bad",
+            "region": "07",
+            "country": "PK",
+            "latitude": "36.30703",
+            "longitude": "74.61545"
+        },
+        {
+            "city": "Akora",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.00361",
+            "longitude": "72.12611"
+        },
+        {
+            "city": "Ahmadpur East",
+            "region": "04",
+            "country": "PK",
+            "latitude": "29.14309",
+            "longitude": "71.25976"
+        },
+        {
+            "city": "Abbott\u0101b\u0101d",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.14685",
+            "longitude": "73.21449"
+        },
+        {
+            "city": "Jhang City",
+            "region": "04",
+            "country": "PK",
+            "latitude": "31.30677",
+            "longitude": "72.32814"
+        },
+        {
+            "city": "Bah\u0101walnagar",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.55083",
+            "longitude": "73.39083"
+        },
+        {
+            "city": "Gulish\u0101h Kach",
+            "region": "01",
+            "country": "PK",
+            "latitude": "32.67074",
+            "longitude": "70.33922"
+        },
+        {
+            "city": "Nowshera Cantonment",
+            "region": "03",
+            "country": "PK",
+            "latitude": "33.99667",
+            "longitude": "72.01306"
+        },
+        {
+            "city": "Alik Ghund",
+            "region": "02",
+            "country": "PK",
+            "latitude": "30.48963",
+            "longitude": "67.52261"
+        },
+        {
+            "city": "Khadan Kh\u0101k",
+            "region": "02",
+            "country": "PK",
+            "latitude": "30.74774",
+            "longitude": "67.70846"
+        },
+        {
+            "city": "Ahmadpur Si\u0101l",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.67539",
+            "longitude": "71.74828"
+        },
+        {
+            "city": "New B\u0101d\u0101h",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.34167",
+            "longitude": "68.03194"
+        },
+        {
+            "city": "Tando Ghul\u0101m Ali",
+            "region": "05",
+            "country": "PK",
+            "latitude": "25.13111",
+            "longitude": "68.86759"
+        },
+        {
+            "city": "Dera Mur\u0101d Jam\u0101li",
+            "region": "02",
+            "country": "PK",
+            "latitude": "28.54657",
+            "longitude": "68.22308"
+        },
+        {
+            "city": "J\u0101m S\u0101hib",
+            "region": "05",
+            "country": "PK",
+            "latitude": "26.29583",
+            "longitude": "68.62917"
+        },
+        {
+            "city": "Chowki Jamali",
+            "region": "02",
+            "country": "PK",
+            "latitude": "28.01944",
+            "longitude": "67.92083"
+        },
+        {
+            "city": "Seth\u0101rja Old",
+            "region": "05",
+            "country": "PK",
+            "latitude": "27.2127",
+            "longitude": "68.46883"
+        },
+        {
+            "city": "Ris\u0101lpur",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.06186",
+            "longitude": "71.99166"
+        },
+        {
+            "city": "Noor\u0101b\u0101d",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.25195",
+            "longitude": "71.96656"
+        },
+        {
+            "city": "Alp\u016brai",
+            "region": "03",
+            "country": "PK",
+            "latitude": "34.92058",
+            "longitude": "72.63256"
+        },
+        {
+            "city": "Malakwal City",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.55492",
+            "longitude": "73.2122"
+        },
+        {
+            "city": "Mehmand Chak",
+            "region": "04",
+            "country": "PK",
+            "latitude": "32.78518",
+            "longitude": "73.82306"
+        },
+        {
+            "city": "Basti Dosa",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.78769",
+            "longitude": "70.86853"
+        },
+        {
+            "city": "Moza Shahwala",
+            "region": "04",
+            "country": "PK",
+            "latitude": "30.80563",
+            "longitude": "70.84911"
+        },
+        {
+            "city": "Khuzd\u0101r",
+            "region": "02",
+            "country": "PK",
+            "latitude": "27.73838",
+            "longitude": "66.64336"
+        },
+        {
+            "city": "\u012adg\u0101h",
+            "region": "07",
+            "country": "PK",
+            "latitude": "35.3447",
+            "longitude": "74.8561"
+        },
+        {
+            "city": "Dasu",
+            "region": "03",
+            "country": "PK",
+            "latitude": "35.29169",
+            "longitude": "73.2906"
+        },
+        {
+            "city": "Barish\u0101l",
+            "region": "07",
+            "country": "PK",
+            "latitude": "36.3163",
+            "longitude": "74.6786"
+        },
+        {
+            "city": "Athmuqam",
+            "region": "06",
+            "country": "PK",
+            "latitude": "34.57173",
+            "longitude": "73.89724"
+        },
+        {
+            "city": "Nazir Town",
+            "region": "04",
+            "country": "PK",
+            "latitude": "33.30614",
+            "longitude": "73.4833"
+        }
+    ]
+}

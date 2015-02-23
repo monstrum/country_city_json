@@ -1,0 +1,13 @@
+{
+    "country": "South Georgia and the South Sandwich Islands",
+    "code": "GS",
+    "cities": [
+        {
+            "city": "Grytviken",
+            "region": "00",
+            "country": "GS",
+            "latitude": "-54.28111",
+            "longitude": "-36.5092"
+        }
+    ]
+}

@@ -1,0 +1,643 @@
+{
+    "country": "Mauritius",
+    "code": "MU",
+    "cities": [
+        {
+            "city": "Verdun",
+            "region": "15",
+            "country": "MU",
+            "latitude": "-20.22833",
+            "longitude": "57.54389"
+        },
+        {
+            "city": "Vacoas",
+            "region": "17",
+            "country": "MU",
+            "latitude": "-20.29806",
+            "longitude": "57.47833"
+        },
+        {
+            "city": "Triolet",
+            "region": "16",
+            "country": "MU",
+            "latitude": "-20.05472",
+            "longitude": "57.54528"
+        },
+        {
+            "city": "The Vale",
+            "region": "19",
+            "country": "MU",
+            "latitude": "-20.02833",
+            "longitude": "57.58778"
+        },
+        {
+            "city": "Terre Rouge",
+            "region": "16",
+            "country": "MU",
+            "latitude": "-20.12611",
+            "longitude": "57.52444"
+        },
+        {
+            "city": "Tamarin",
+            "region": "12",
+            "country": "MU",
+            "latitude": "-20.32556",
+            "longitude": "57.37056"
+        },
+        {
+            "city": "Surinam",
+            "region": "20",
+            "country": "MU",
+            "latitude": "-20.50972",
+            "longitude": "57.50528"
+        },
+        {
+            "city": "Souillac",
+            "region": "20",
+            "country": "MU",
+            "latitude": "-20.51667",
+            "longitude": "57.51667"
+        },
+        {
+            "city": "Sebastopol",
+            "region": "13",
+            "country": "MU",
+            "latitude": "-20.28889",
+            "longitude": "57.6875"
+        },
+        {
+            "city": "Saint Pierre",
+            "region": "15",
+            "country": "MU",
+            "latitude": "-20.2175",
+            "longitude": "57.52083"
+        },
+        {
+            "city": "Saint Julien",
+            "region": "13",
+            "country": "MU",
+            "latitude": "-20.22639",
+            "longitude": "57.63639"
+        },
+        {
+            "city": "Saint Hubert",
+            "region": "14",
+            "country": "MU",
+            "latitude": "-20.36417",
+            "longitude": "57.63833"
+        },
+        {
+            "city": "Saint Aubin",
+            "region": "20",
+            "country": "MU",
+            "latitude": "-20.49167",
+            "longitude": "57.54139"
+        },
+        {
+            "city": "Morcellemont Saint Andr\u00e9",
+            "region": "16",
+            "country": "MU",
+            "latitude": "-20.07306",
+            "longitude": "57.55806"
+        },
+        {
+            "city": "Rose Belle",
+            "region": "14",
+            "country": "MU",
+            "latitude": "-20.40028",
+            "longitude": "57.59667"
+        },
+        {
+            "city": "Roche Terre",
+            "region": "19",
+            "country": "MU",
+            "latitude": "-20.01861",
+            "longitude": "57.64472"
+        },
+        {
+            "city": "Roches Noire",
+            "region": "19",
+            "country": "MU",
+            "latitude": "-20.11111",
+            "longitude": "57.71222"
+        },
+        {
+            "city": "Grande Rivi\u00e8re Noire",
+            "region": "12",
+            "country": "MU",
+            "latitude": "-20.36028",
+            "longitude": "57.36611"
+        },
+        {
+            "city": "Rivi\u00e8re du Rempart",
+            "region": "19",
+            "country": "MU",
+            "latitude": "-20.10306",
+            "longitude": "57.68472"
+        },
+        {
+            "city": "Rivi\u00e8re des Anguilles",
+            "region": "20",
+            "country": "MU",
+            "latitude": "-20.48528",
+            "longitude": "57.55083"
+        },
+        {
+            "city": "Queen Victoria",
+            "region": "13",
+            "country": "MU",
+            "latitude": "-20.22",
+            "longitude": "57.7075"
+        },
+        {
+            "city": "Quatre Soeurs",
+            "region": "13",
+            "country": "MU",
+            "latitude": "-20.29917",
+            "longitude": "57.77056"
+        },
+        {
+            "city": "Quatre Bornes",
+            "region": "17",
+            "country": "MU",
+            "latitude": "-20.26444",
+            "longitude": "57.47194"
+        },
+        {
+            "city": "Quartier Militaire",
+            "region": "15",
+            "country": "MU",
+            "latitude": "-20.24389",
+            "longitude": "57.58917"
+        },
+        {
+            "city": "Providence",
+            "region": "15",
+            "country": "MU",
+            "latitude": "-20.24472",
+            "longitude": "57.61222"
+        },
+        {
+            "city": "Poste de Flacq",
+            "region": "13",
+            "country": "MU",
+            "latitude": "-20.16306",
+            "longitude": "57.73056"
+        },
+        {
+            "city": "Port Louis",
+            "region": "18",
+            "country": "MU",
+            "latitude": "-20.16194",
+            "longitude": "57.49889"
+        },
+        {
+            "city": "Plaine Magnien",
+            "region": "14",
+            "country": "MU",
+            "latitude": "-20.42861",
+            "longitude": "57.65306"
+        },
+        {
+            "city": "Plaine des Papayes",
+            "region": "16",
+            "country": "MU",
+            "latitude": "-20.065",
+            "longitude": "57.5725"
+        },
+        {
+            "city": "Petit Raffray",
+            "region": "19",
+            "country": "MU",
+            "latitude": "-20.01333",
+            "longitude": "57.61194"
+        },
+        {
+            "city": "Petite Rivi\u00e8re",
+            "region": "12",
+            "country": "MU",
+            "latitude": "-20.18944",
+            "longitude": "57.44528"
+        },
+        {
+            "city": "Petite Case Noyale",
+            "region": "12",
+            "country": "MU",
+            "latitude": "-20.39306",
+            "longitude": "57.365"
+        },
+        {
+            "city": "Pamplemousses",
+            "region": "16",
+            "country": "MU",
+            "latitude": "-20.10389",
+            "longitude": "57.57028"
+        },
+        {
+            "city": "Pailles",
+            "region": "15",
+            "country": "MU",
+            "latitude": "-20.19271",
+            "longitude": "57.48826"
+        },
+        {
+            "city": "Olivia",
+            "region": "13",
+            "country": "MU",
+            "latitude": "-20.2975",
+            "longitude": "57.72556"
+        },
+        {
+            "city": "Nouvelle France",
+            "region": "14",
+            "country": "MU",
+            "latitude": "-20.37056",
+            "longitude": "57.56111"
+        },
+        {
+            "city": "Notre Dame",
+            "region": "16",
+            "country": "MU",
+            "latitude": "-20.14056",
+            "longitude": "57.55306"
+        },
+        {
+            "city": "New Grove",
+            "region": "14",
+            "country": "MU",
+            "latitude": "-20.40861",
+            "longitude": "57.61361"
+        },
+        {
+            "city": "Piton",
+            "region": "19",
+            "country": "MU",
+            "latitude": "-20.09028",
+            "longitude": "57.63028"
+        },
+        {
+            "city": "Montagne Blanche",
+            "region": "00",
+            "country": "MU",
+            "latitude": "-20.28278",
+            "longitude": "57.65444"
+        },
+        {
+            "city": "Moka",
+            "region": "15",
+            "country": "MU",
+            "latitude": "-20.21889",
+            "longitude": "57.49583"
+        },
+        {
+            "city": "Midlands",
+            "region": "17",
+            "country": "MU",
+            "latitude": "-20.3325",
+            "longitude": "57.55833"
+        },
+        {
+            "city": "Melrose",
+            "region": "15",
+            "country": "MU",
+            "latitude": "-20.26972",
+            "longitude": "57.63194"
+        },
+        {
+            "city": "Mah\u00e9bourg",
+            "region": "14",
+            "country": "MU",
+            "latitude": "-20.40806",
+            "longitude": "57.7"
+        },
+        {
+            "city": "Long Mountain",
+            "region": "16",
+            "country": "MU",
+            "latitude": "-20.14306",
+            "longitude": "57.56222"
+        },
+        {
+            "city": "Lalmatie",
+            "region": "13",
+            "country": "MU",
+            "latitude": "-20.18972",
+            "longitude": "57.66111"
+        },
+        {
+            "city": "La Dagoti\u00e8re",
+            "region": "15",
+            "country": "MU",
+            "latitude": "-20.24444",
+            "longitude": "57.55417"
+        },
+        {
+            "city": "Grand Sable",
+            "region": "14",
+            "country": "MU",
+            "latitude": "-20.31417",
+            "longitude": "57.76444"
+        },
+        {
+            "city": "Grande Rivi\u00e8re Sud Est",
+            "region": "13",
+            "country": "MU",
+            "latitude": "-20.28611",
+            "longitude": "57.77583"
+        },
+        {
+            "city": "Grand Gaube",
+            "region": "19",
+            "country": "MU",
+            "latitude": "-20.00639",
+            "longitude": "57.66083"
+        },
+        {
+            "city": "Grand Baie",
+            "region": "19",
+            "country": "MU",
+            "latitude": "-20.01816",
+            "longitude": "57.58015"
+        },
+        {
+            "city": "Grand Bois",
+            "region": "20",
+            "country": "MU",
+            "latitude": "-20.41889",
+            "longitude": "57.54417"
+        },
+        {
+            "city": "Goodlands",
+            "region": "19",
+            "country": "MU",
+            "latitude": "-20.035",
+            "longitude": "57.64306"
+        },
+        {
+            "city": "Fond du Sac",
+            "region": "16",
+            "country": "MU",
+            "latitude": "-20.04306",
+            "longitude": "57.57861"
+        },
+        {
+            "city": "Flic en Flac",
+            "region": "12",
+            "country": "MU",
+            "latitude": "-20.27417",
+            "longitude": "57.36306"
+        },
+        {
+            "city": "Esp\u00e9rance Tr\u00e9buchet",
+            "region": "19",
+            "country": "MU",
+            "latitude": "-20.06972",
+            "longitude": "57.64194"
+        },
+        {
+            "city": "Curepipe",
+            "region": "17",
+            "country": "MU",
+            "latitude": "-20.31472",
+            "longitude": "57.52028"
+        },
+        {
+            "city": "Cr\u00e8ve Coeur",
+            "region": "16",
+            "country": "MU",
+            "latitude": "-20.19111",
+            "longitude": "57.55722"
+        },
+        {
+            "city": "Cl\u00e9mencia",
+            "region": "13",
+            "country": "MU",
+            "latitude": "-20.26389",
+            "longitude": "57.70611"
+        },
+        {
+            "city": "Chemin Grenier",
+            "region": "20",
+            "country": "MU",
+            "latitude": "-20.48722",
+            "longitude": "57.46556"
+        },
+        {
+            "city": "Chamouny",
+            "region": "20",
+            "country": "MU",
+            "latitude": "-20.48222",
+            "longitude": "57.46611"
+        },
+        {
+            "city": "Centre de Flacq",
+            "region": "13",
+            "country": "MU",
+            "latitude": "-20.18972",
+            "longitude": "57.71444"
+        },
+        {
+            "city": "Cascavelle",
+            "region": "12",
+            "country": "MU",
+            "latitude": "-20.28694",
+            "longitude": "57.40722"
+        },
+        {
+            "city": "Cap Malheureux",
+            "region": "19",
+            "country": "MU",
+            "latitude": "-19.98417",
+            "longitude": "57.61417"
+        },
+        {
+            "city": "Camp Thorel",
+            "region": "15",
+            "country": "MU",
+            "latitude": "-20.21472",
+            "longitude": "57.61611"
+        },
+        {
+            "city": "Camp Diable",
+            "region": "20",
+            "country": "MU",
+            "latitude": "-20.46278",
+            "longitude": "57.57889"
+        },
+        {
+            "city": "Camp de Masque",
+            "region": "13",
+            "country": "MU",
+            "latitude": "-20.23694",
+            "longitude": "57.66333"
+        },
+        {
+            "city": "Bris\u00e9e Verdi\u00e8re",
+            "region": "13",
+            "country": "MU",
+            "latitude": "-20.16389",
+            "longitude": "57.64667"
+        },
+        {
+            "city": "Bon Accueil",
+            "region": "13",
+            "country": "MU",
+            "latitude": "-20.17083",
+            "longitude": "57.65639"
+        },
+        {
+            "city": "Bois des Amourettes",
+            "region": "14",
+            "country": "MU",
+            "latitude": "-20.36306",
+            "longitude": "57.73111"
+        },
+        {
+            "city": "Bel Air",
+            "region": "13",
+            "country": "MU",
+            "latitude": "-20.25417",
+            "longitude": "57.74528"
+        },
+        {
+            "city": "Beau Vallon",
+            "region": "14",
+            "country": "MU",
+            "latitude": "-20.41889",
+            "longitude": "57.69528"
+        },
+        {
+            "city": "Albion",
+            "region": "12",
+            "country": "MU",
+            "latitude": "-20.21167",
+            "longitude": "57.40083"
+        },
+        {
+            "city": "Laventure",
+            "region": "13",
+            "country": "MU",
+            "latitude": "-20.14583",
+            "longitude": "57.67667"
+        },
+        {
+            "city": "Cluny",
+            "region": "14",
+            "country": "MU",
+            "latitude": "-20.36694",
+            "longitude": "57.60389"
+        },
+        {
+            "city": "Cottage",
+            "region": "19",
+            "country": "MU",
+            "latitude": "-20.05972",
+            "longitude": "57.62917"
+        },
+        {
+            "city": "Grande Pointe aux Piments",
+            "region": "16",
+            "country": "MU",
+            "latitude": "-20.06278",
+            "longitude": "57.51306"
+        },
+        {
+            "city": "Congomah",
+            "region": "16",
+            "country": "MU",
+            "latitude": "-20.14889",
+            "longitude": "57.59083"
+        },
+        {
+            "city": "Amaury",
+            "region": "19",
+            "country": "MU",
+            "latitude": "-20.13083",
+            "longitude": "57.65917"
+        },
+        {
+            "city": "Plaines des Roches",
+            "region": "19",
+            "country": "MU",
+            "latitude": "-20.11167",
+            "longitude": "57.69083"
+        },
+        {
+            "city": "Mare La Chaux",
+            "region": "13",
+            "country": "MU",
+            "latitude": "-20.19806",
+            "longitude": "57.74944"
+        },
+        {
+            "city": "Quatre Cocos",
+            "region": "13",
+            "country": "MU",
+            "latitude": "-20.20778",
+            "longitude": "57.7625"
+        },
+        {
+            "city": "Camp Ithier",
+            "region": "13",
+            "country": "MU",
+            "latitude": "-20.21583",
+            "longitude": "57.74556"
+        },
+        {
+            "city": "Ecroignard",
+            "region": "13",
+            "country": "MU",
+            "latitude": "-20.22611",
+            "longitude": "57.73611"
+        },
+        {
+            "city": "Bambous Virieux",
+            "region": "14",
+            "country": "MU",
+            "latitude": "-20.34278",
+            "longitude": "57.7575"
+        },
+        {
+            "city": "Gros Cailloux",
+            "region": "12",
+            "country": "MU",
+            "latitude": "-20.20722",
+            "longitude": "57.43"
+        },
+        {
+            "city": "Mapou",
+            "region": "19",
+            "country": "MU",
+            "latitude": "-20.07583",
+            "longitude": "57.60139"
+        },
+        {
+            "city": "Dubreuil",
+            "region": "15",
+            "country": "MU",
+            "latitude": "-20.2975",
+            "longitude": "57.595"
+        },
+        {
+            "city": "Le Hochet",
+            "region": "16",
+            "country": "MU",
+            "latitude": "-20.135",
+            "longitude": "57.52111"
+        },
+        {
+            "city": "Calebasses",
+            "region": "16",
+            "country": "MU",
+            "latitude": "-20.11167",
+            "longitude": "57.55389"
+        },
+        {
+            "city": "Arsenal",
+            "region": "16",
+            "country": "MU",
+            "latitude": "-20.10556",
+            "longitude": "57.53528"
+        }
+    ]
+}

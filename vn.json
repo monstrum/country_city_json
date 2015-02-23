@@ -1,0 +1,573 @@
+{
+    "country": "Viet Nam",
+    "code": "VN",
+    "cities": [
+        {
+            "city": "Y\u00ean Vinh",
+            "region": "26",
+            "country": "VN",
+            "latitude": "18.66667",
+            "longitude": "105.66667"
+        },
+        {
+            "city": "Y\u00ean B\u00e1i",
+            "region": "70",
+            "country": "VN",
+            "latitude": "21.7",
+            "longitude": "104.86667"
+        },
+        {
+            "city": "V\u0169ng T\u00e0u",
+            "region": "45",
+            "country": "VN",
+            "latitude": "10.34599",
+            "longitude": "107.08426"
+        },
+        {
+            "city": "V\u0129nh Y\u00ean",
+            "region": "86",
+            "country": "VN",
+            "latitude": "21.31",
+            "longitude": "105.59667"
+        },
+        {
+            "city": "V\u0129nh Long",
+            "region": "69",
+            "country": "VN",
+            "latitude": "10.25",
+            "longitude": "105.96667"
+        },
+        {
+            "city": "Vinh",
+            "region": "58",
+            "country": "VN",
+            "latitude": "18.66667",
+            "longitude": "105.66667"
+        },
+        {
+            "city": "Vi\u1ec7t Tr\u00ec",
+            "region": "83",
+            "country": "VN",
+            "latitude": "21.30194",
+            "longitude": "105.43083"
+        },
+        {
+            "city": "U\u00f4ng B\u00ed",
+            "region": "30",
+            "country": "VN",
+            "latitude": "21.03333",
+            "longitude": "106.78333"
+        },
+        {
+            "city": "Tuy H\u00f2a",
+            "region": "61",
+            "country": "VN",
+            "latitude": "13.08333",
+            "longitude": "109.3"
+        },
+        {
+            "city": "Tuy\u00ean Quang",
+            "region": "68",
+            "country": "VN",
+            "latitude": "21.82333",
+            "longitude": "105.21806"
+        },
+        {
+            "city": "Tr\u00e0 Vinh",
+            "region": "67",
+            "country": "VN",
+            "latitude": "9.93472",
+            "longitude": "106.34528"
+        },
+        {
+            "city": "Th\u1ee7 D\u1ea7u M\u1ed9t",
+            "region": "75",
+            "country": "VN",
+            "latitude": "10.96667",
+            "longitude": "106.65"
+        },
+        {
+            "city": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "region": "20",
+            "country": "VN",
+            "latitude": "10.75",
+            "longitude": "106.66667"
+        },
+        {
+            "city": "Thanh H\u00f3a",
+            "region": "34",
+            "country": "VN",
+            "latitude": "19.8",
+            "longitude": "105.76667"
+        },
+        {
+            "city": "Th\u00e1i Nguy\u00ean",
+            "region": "85",
+            "country": "VN",
+            "latitude": "21.59278",
+            "longitude": "105.84417"
+        },
+        {
+            "city": "Th\u00e1i B\u00ecnh",
+            "region": "35",
+            "country": "VN",
+            "latitude": "20.45",
+            "longitude": "106.33333"
+        },
+        {
+            "city": "T\u00e2y Ninh",
+            "region": "33",
+            "country": "VN",
+            "latitude": "11.3",
+            "longitude": "106.1"
+        },
+        {
+            "city": "T\u00e2n An",
+            "region": "24",
+            "country": "VN",
+            "latitude": "10.53333",
+            "longitude": "106.41667"
+        },
+        {
+            "city": "Tam K\u1ef3",
+            "region": "84",
+            "country": "VN",
+            "latitude": "15.56667",
+            "longitude": "108.48333"
+        },
+        {
+            "city": "S\u01a1n T\u00e2y",
+            "region": "51",
+            "country": "VN",
+            "latitude": "21.13778",
+            "longitude": "105.505"
+        },
+        {
+            "city": "S\u01a1n La",
+            "region": "32",
+            "country": "VN",
+            "latitude": "21.31667",
+            "longitude": "103.9"
+        },
+        {
+            "city": "S\u00f4ng C\u1ea7u",
+            "region": "61",
+            "country": "VN",
+            "latitude": "13.45",
+            "longitude": "109.21667"
+        },
+        {
+            "city": "S\u00f3c Tr\u0103ng",
+            "region": "65",
+            "country": "VN",
+            "latitude": "9.60333",
+            "longitude": "105.98"
+        },
+        {
+            "city": "Sa P\u00e1",
+            "region": "90",
+            "country": "VN",
+            "latitude": "22.34023",
+            "longitude": "103.84415"
+        },
+        {
+            "city": "Sa \u00d0\u00e9c",
+            "region": "09",
+            "country": "VN",
+            "latitude": "10.3",
+            "longitude": "105.76667"
+        },
+        {
+            "city": "R\u1ea1ch Gi\u00e1",
+            "region": "21",
+            "country": "VN",
+            "latitude": "10.01667",
+            "longitude": "105.08333"
+        },
+        {
+            "city": "Quy Nh\u01a1n",
+            "region": "46",
+            "country": "VN",
+            "latitude": "13.76667",
+            "longitude": "109.23333"
+        },
+        {
+            "city": "Qu\u1ea3ng Ng\u00e3i",
+            "region": "63",
+            "country": "VN",
+            "latitude": "15.11667",
+            "longitude": "108.8"
+        },
+        {
+            "city": "Pleiku",
+            "region": "49",
+            "country": "VN",
+            "latitude": "13.98333",
+            "longitude": "108"
+        },
+        {
+            "city": "D\u01b0\u01a1ng \u0110\u00f4ng",
+            "region": "21",
+            "country": "VN",
+            "latitude": "10.21667",
+            "longitude": "103.96667"
+        },
+        {
+            "city": "Ph\u1ee7 L\u00fd",
+            "region": "80",
+            "country": "VN",
+            "latitude": "20.54111",
+            "longitude": "105.91389"
+        },
+        {
+            "city": "Ph\u00fa Kh\u01b0\u01a1ng",
+            "region": "33",
+            "country": "VN",
+            "latitude": "11.28333",
+            "longitude": "106.13333"
+        },
+        {
+            "city": "Phong Th\u1ed5",
+            "region": "89",
+            "country": "VN",
+            "latitude": "22.53333",
+            "longitude": "103.35"
+        },
+        {
+            "city": "Phan Thi\u1ebft",
+            "region": "47",
+            "country": "VN",
+            "latitude": "10.93333",
+            "longitude": "108.1"
+        },
+        {
+            "city": "Phan Rang-Th\u00e1p Ch\u00e0m",
+            "region": "60",
+            "country": "VN",
+            "latitude": "11.56667",
+            "longitude": "108.98333"
+        },
+        {
+            "city": "Ninh B\u00ecnh",
+            "region": "59",
+            "country": "VN",
+            "latitude": "20.25389",
+            "longitude": "105.975"
+        },
+        {
+            "city": "Nha Trang",
+            "region": "54",
+            "country": "VN",
+            "latitude": "12.25",
+            "longitude": "109.18333"
+        },
+        {
+            "city": "Nam \u00d0\u1ecbnh",
+            "region": "82",
+            "country": "VN",
+            "latitude": "20.41667",
+            "longitude": "106.16667"
+        },
+        {
+            "city": "M\u1ef9 Tho",
+            "region": "37",
+            "country": "VN",
+            "latitude": "10.35",
+            "longitude": "106.35"
+        },
+        {
+            "city": "Long Xuy\u00ean",
+            "region": "01",
+            "country": "VN",
+            "latitude": "10.38333",
+            "longitude": "105.41667"
+        },
+        {
+            "city": "L\u00e0o Cai",
+            "region": "90",
+            "country": "VN",
+            "latitude": "22.48333",
+            "longitude": "103.95"
+        },
+        {
+            "city": "L\u1ea1ng S\u01a1n",
+            "region": "39",
+            "country": "VN",
+            "latitude": "21.83333",
+            "longitude": "106.73333"
+        },
+        {
+            "city": "Kon Tum",
+            "region": "55",
+            "country": "VN",
+            "latitude": "14.35",
+            "longitude": "108"
+        },
+        {
+            "city": "H\u01b0ng Y\u00ean",
+            "region": "81",
+            "country": "VN",
+            "latitude": "20.65",
+            "longitude": "106.06667"
+        },
+        {
+            "city": "Hu\u1ebf",
+            "region": "66",
+            "country": "VN",
+            "latitude": "16.46667",
+            "longitude": "107.6"
+        },
+        {
+            "city": "H\u1ea1 Long",
+            "region": "30",
+            "country": "VN",
+            "latitude": "20.95111",
+            "longitude": "107.08"
+        },
+        {
+            "city": "H\u1ed9i An",
+            "region": "84",
+            "country": "VN",
+            "latitude": "15.87944",
+            "longitude": "108.335"
+        },
+        {
+            "city": "H\u00f2a B\u00ecnh",
+            "region": "53",
+            "country": "VN",
+            "latitude": "20.81333",
+            "longitude": "105.33833"
+        },
+        {
+            "city": "H\u00e0 T\u0129nh",
+            "region": "52",
+            "country": "VN",
+            "latitude": "18.33333",
+            "longitude": "105.9"
+        },
+        {
+            "city": "H\u00e0 Ti\u00ean",
+            "region": "21",
+            "country": "VN",
+            "latitude": "10.38333",
+            "longitude": "104.48333"
+        },
+        {
+            "city": "H\u00e0 N\u1ed9i",
+            "region": "44",
+            "country": "VN",
+            "latitude": "21.0245",
+            "longitude": "105.84117"
+        },
+        {
+            "city": "Haiphong",
+            "region": "13",
+            "country": "VN",
+            "latitude": "20.85611",
+            "longitude": "106.68222"
+        },
+        {
+            "city": "H\u1ea3i D\u01b0\u01a1ng",
+            "region": "79",
+            "country": "VN",
+            "latitude": "20.93333",
+            "longitude": "106.31667"
+        },
+        {
+            "city": "H\u00e0 Giang",
+            "region": "50",
+            "country": "VN",
+            "latitude": "22.83333",
+            "longitude": "104.98333"
+        },
+        {
+            "city": "H\u00e0 \u00d0\u00f4ng",
+            "region": "51",
+            "country": "VN",
+            "latitude": "20.9725",
+            "longitude": "105.77722"
+        },
+        {
+            "city": "D\u1ed3ng Xo\u00e0i",
+            "region": "76",
+            "country": "VN",
+            "latitude": "11.53333",
+            "longitude": "106.91667"
+        },
+        {
+            "city": "\u00d0\u1ed3ng H\u1edbi",
+            "region": "62",
+            "country": "VN",
+            "latitude": "17.48333",
+            "longitude": "106.6"
+        },
+        {
+            "city": "\u00d0\u00f4ng H\u00e0",
+            "region": "64",
+            "country": "VN",
+            "latitude": "16.81625",
+            "longitude": "107.10031"
+        },
+        {
+            "city": "Di\u1ec7n Bi\u00ean Ph\u1ee7",
+            "region": "92",
+            "country": "VN",
+            "latitude": "21.38333",
+            "longitude": "103.01667"
+        },
+        {
+            "city": "Turan",
+            "region": "78",
+            "country": "VN",
+            "latitude": "16.06778",
+            "longitude": "108.22083"
+        },
+        {
+            "city": "\u00d0\u00e0 L\u1ea1t",
+            "region": "23",
+            "country": "VN",
+            "latitude": "11.94646",
+            "longitude": "108.44193"
+        },
+        {
+            "city": "C\u1ee7 Chi",
+            "region": "20",
+            "country": "VN",
+            "latitude": "10.96667",
+            "longitude": "106.46667"
+        },
+        {
+            "city": "C\u00f4n S\u01a1n",
+            "region": "65",
+            "country": "VN",
+            "latitude": "8.68333",
+            "longitude": "106.61667"
+        },
+        {
+            "city": "Ch\u00e2u \u00d0\u1ed1c",
+            "region": "01",
+            "country": "VN",
+            "latitude": "10.7",
+            "longitude": "105.11667"
+        },
+        {
+            "city": "Cao L\u00e3nh",
+            "region": "09",
+            "country": "VN",
+            "latitude": "10.45",
+            "longitude": "105.63333"
+        },
+        {
+            "city": "Cao B\u1eb1ng",
+            "region": "05",
+            "country": "VN",
+            "latitude": "22.66667",
+            "longitude": "106.25"
+        },
+        {
+            "city": "C\u1ea7n Th\u01a1",
+            "region": "87",
+            "country": "VN",
+            "latitude": "10.03333",
+            "longitude": "105.78333"
+        },
+        {
+            "city": "C\u1ea7n Gi\u1edd",
+            "region": "20",
+            "country": "VN",
+            "latitude": "10.41667",
+            "longitude": "106.96667"
+        },
+        {
+            "city": "C\u1ea7n Du\u1ed9c",
+            "region": "24",
+            "country": "VN",
+            "latitude": "10.61667",
+            "longitude": "106.66667"
+        },
+        {
+            "city": "Cam Ranh",
+            "region": "54",
+            "country": "VN",
+            "latitude": "11.92144",
+            "longitude": "109.15913"
+        },
+        {
+            "city": "C\u1ea9m Ph\u1ea3 Mines",
+            "region": "30",
+            "country": "VN",
+            "latitude": "21.01667",
+            "longitude": "107.3"
+        },
+        {
+            "city": "C\u00e0 Mau",
+            "region": "77",
+            "country": "VN",
+            "latitude": "9.17694",
+            "longitude": "105.15"
+        },
+        {
+            "city": "Bu\u00f4n Ma Thu\u1ed9t",
+            "region": "88",
+            "country": "VN",
+            "latitude": "12.66667",
+            "longitude": "108.05"
+        },
+        {
+            "city": "B\u1ec9m S\u01a1n",
+            "region": "34",
+            "country": "VN",
+            "latitude": "20.07806",
+            "longitude": "105.86028"
+        },
+        {
+            "city": "Bi\u00ean H\u00f2a",
+            "region": "43",
+            "country": "VN",
+            "latitude": "10.95",
+            "longitude": "106.81667"
+        },
+        {
+            "city": "B\u1ebfn Tre",
+            "region": "03",
+            "country": "VN",
+            "latitude": "10.23333",
+            "longitude": "106.38333"
+        },
+        {
+            "city": "B\u1eafc Ninh",
+            "region": "74",
+            "country": "VN",
+            "latitude": "21.18333",
+            "longitude": "106.05"
+        },
+        {
+            "city": "B\u1ea1c Li\u00eau",
+            "region": "73",
+            "country": "VN",
+            "latitude": "9.285",
+            "longitude": "105.72444"
+        },
+        {
+            "city": "B\u1eafc Giang",
+            "region": "71",
+            "country": "VN",
+            "latitude": "21.26667",
+            "longitude": "106.2"
+        },
+        {
+            "city": "B\u1eafc K\u1ea1n",
+            "region": "72",
+            "country": "VN",
+            "latitude": "22.13333",
+            "longitude": "105.83333"
+        },
+        {
+            "city": "Uyen Hung",
+            "region": "49",
+            "country": "VN",
+            "latitude": "11.08416",
+            "longitude": "106.78834"
+        }
+    ]
+}

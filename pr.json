@@ -1,0 +1,1532 @@
+{
+    "country": "Puerto Rico",
+    "code": "PR",
+    "cities": [
+        {
+            "city": "Aceitunas",
+            "region": "099",
+            "country": "PR",
+            "latitude": "18.44328",
+            "longitude": "-67.0649"
+        },
+        {
+            "city": "Adjuntas",
+            "region": "001",
+            "country": "PR",
+            "latitude": "18.15849",
+            "longitude": "-66.80177"
+        },
+        {
+            "city": "Aguada",
+            "region": "003",
+            "country": "PR",
+            "latitude": "18.37939",
+            "longitude": "-67.18824"
+        },
+        {
+            "city": "Aguadilla",
+            "region": "005",
+            "country": "PR",
+            "latitude": "18.42745",
+            "longitude": "-67.15407"
+        },
+        {
+            "city": "Aguas Buenas",
+            "region": "",
+            "country": "PR",
+            "latitude": "18.2569",
+            "longitude": "-66.10294"
+        },
+        {
+            "city": "Aguas Claras",
+            "region": "037",
+            "country": "PR",
+            "latitude": "18.25273",
+            "longitude": "-65.6535"
+        },
+        {
+            "city": "Aguilita",
+            "region": "075",
+            "country": "PR",
+            "latitude": "18.0233",
+            "longitude": "-66.53462"
+        },
+        {
+            "city": "Aibonito",
+            "region": "009",
+            "country": "PR",
+            "latitude": "18.13996",
+            "longitude": "-66.266"
+        },
+        {
+            "city": "A\u00f1asco",
+            "region": "011",
+            "country": "PR",
+            "latitude": "18.28273",
+            "longitude": "-67.13962"
+        },
+        {
+            "city": "Animas",
+            "region": "013",
+            "country": "PR",
+            "latitude": "18.4455",
+            "longitude": "-66.6349"
+        },
+        {
+            "city": "Ant\u00f3n Ruiz",
+            "region": "069",
+            "country": "PR",
+            "latitude": "18.18524",
+            "longitude": "-65.8085"
+        },
+        {
+            "city": "Arecibo",
+            "region": "013",
+            "country": "PR",
+            "latitude": "18.47244",
+            "longitude": "-66.71573"
+        },
+        {
+            "city": "Arroyo",
+            "region": "015",
+            "country": "PR",
+            "latitude": "17.9658",
+            "longitude": "-66.06128"
+        },
+        {
+            "city": "Bairoa",
+            "region": "025",
+            "country": "PR",
+            "latitude": "18.25912",
+            "longitude": "-66.04044"
+        },
+        {
+            "city": "Bajadero",
+            "region": "013",
+            "country": "PR",
+            "latitude": "18.42661",
+            "longitude": "-66.68323"
+        },
+        {
+            "city": "Bajandas",
+            "region": "069",
+            "country": "PR",
+            "latitude": "18.15774",
+            "longitude": "-65.78155"
+        },
+        {
+            "city": "Barahona",
+            "region": "101",
+            "country": "PR",
+            "latitude": "18.35134",
+            "longitude": "-66.44545"
+        },
+        {
+            "city": "Barceloneta",
+            "region": "017",
+            "country": "PR",
+            "latitude": "18.4505",
+            "longitude": "-66.53851"
+        },
+        {
+            "city": "Barranquitas",
+            "region": "019",
+            "country": "PR",
+            "latitude": "18.18662",
+            "longitude": "-66.30628"
+        },
+        {
+            "city": "Bartolo",
+            "region": "119",
+            "country": "PR",
+            "latitude": "18.36134",
+            "longitude": "-65.8385"
+        },
+        {
+            "city": "Bayam\u00f3n",
+            "region": "021",
+            "country": "PR",
+            "latitude": "18.39856",
+            "longitude": "-66.15572"
+        },
+        {
+            "city": "Bayamon",
+            "region": "041",
+            "country": "PR",
+            "latitude": "18.17774",
+            "longitude": "-66.11322"
+        },
+        {
+            "city": "Benitez",
+            "region": "029",
+            "country": "PR",
+            "latitude": "18.27357",
+            "longitude": "-65.87905"
+        },
+        {
+            "city": "Boquer\u00f3n",
+            "region": "023",
+            "country": "PR",
+            "latitude": "18.02691",
+            "longitude": "-67.16907"
+        },
+        {
+            "city": "Boqueron",
+            "region": "085",
+            "country": "PR",
+            "latitude": "18.20746",
+            "longitude": "-65.8485"
+        },
+        {
+            "city": "Brenas",
+            "region": "143",
+            "country": "PR",
+            "latitude": "18.46717",
+            "longitude": "-66.341"
+        },
+        {
+            "city": "Buena Vista",
+            "region": "015",
+            "country": "PR",
+            "latitude": "17.99635",
+            "longitude": "-66.05183"
+        },
+        {
+            "city": "Bufalo",
+            "region": "017",
+            "country": "PR",
+            "latitude": "18.41828",
+            "longitude": "-66.57323"
+        },
+        {
+            "city": "Caban",
+            "region": "005",
+            "country": "PR",
+            "latitude": "18.44328",
+            "longitude": "-67.13601"
+        },
+        {
+            "city": "Cabo Rojo",
+            "region": "023",
+            "country": "PR",
+            "latitude": "18.08663",
+            "longitude": "-67.14573"
+        },
+        {
+            "city": "Cacao",
+            "region": "115",
+            "country": "PR",
+            "latitude": "18.43661",
+            "longitude": "-66.93712"
+        },
+        {
+            "city": "Caguas",
+            "region": "025",
+            "country": "PR",
+            "latitude": "18.23412",
+            "longitude": "-66.0485"
+        },
+        {
+            "city": "Campanilla",
+            "region": "137",
+            "country": "PR",
+            "latitude": "18.42134",
+            "longitude": "-66.23683"
+        },
+        {
+            "city": "Campo Rico",
+            "region": "029",
+            "country": "PR",
+            "latitude": "18.33717",
+            "longitude": "-65.89794"
+        },
+        {
+            "city": "Camuy",
+            "region": "027",
+            "country": "PR",
+            "latitude": "18.48383",
+            "longitude": "-66.8449"
+        },
+        {
+            "city": "Candelaria",
+            "region": "137",
+            "country": "PR",
+            "latitude": "18.40411",
+            "longitude": "-66.20878"
+        },
+        {
+            "city": "Candelaria Arenas",
+            "region": "137",
+            "country": "PR",
+            "latitude": "18.41717",
+            "longitude": "-66.21739"
+        },
+        {
+            "city": "Candelero Arriba",
+            "region": "069",
+            "country": "PR",
+            "latitude": "18.10191",
+            "longitude": "-65.83683"
+        },
+        {
+            "city": "Canovanas",
+            "region": "029",
+            "country": "PR",
+            "latitude": "18.37773",
+            "longitude": "-65.90628"
+        },
+        {
+            "city": "Capitanejo",
+            "region": "075",
+            "country": "PR",
+            "latitude": "17.99135",
+            "longitude": "-66.49462"
+        },
+        {
+            "city": "Carolina",
+            "region": "031",
+            "country": "PR",
+            "latitude": "18.38078",
+            "longitude": "-65.95739"
+        },
+        {
+            "city": "Carrizales",
+            "region": "065",
+            "country": "PR",
+            "latitude": "18.48189",
+            "longitude": "-66.7899"
+        },
+        {
+            "city": "Cata\u00f1o",
+            "region": "033",
+            "country": "PR",
+            "latitude": "18.44134",
+            "longitude": "-66.11822"
+        },
+        {
+            "city": "Cayey",
+            "region": "035",
+            "country": "PR",
+            "latitude": "18.11191",
+            "longitude": "-66.166"
+        },
+        {
+            "city": "Cayuco",
+            "region": "141",
+            "country": "PR",
+            "latitude": "18.29106",
+            "longitude": "-66.73934"
+        },
+        {
+            "city": "Ceiba",
+            "region": "037",
+            "country": "PR",
+            "latitude": "18.26412",
+            "longitude": "-65.6485"
+        },
+        {
+            "city": "Ceiba",
+            "region": "143",
+            "country": "PR",
+            "latitude": "18.44634",
+            "longitude": "-66.35073"
+        },
+        {
+            "city": "Celada",
+            "region": "063",
+            "country": "PR",
+            "latitude": "18.27162",
+            "longitude": "-65.966"
+        },
+        {
+            "city": "Central Aguirre",
+            "region": "123",
+            "country": "PR",
+            "latitude": "17.95358",
+            "longitude": "-66.22294"
+        },
+        {
+            "city": "Ciales",
+            "region": "039",
+            "country": "PR",
+            "latitude": "18.33606",
+            "longitude": "-66.46878"
+        },
+        {
+            "city": "Cidra",
+            "region": "041",
+            "country": "PR",
+            "latitude": "18.17579",
+            "longitude": "-66.16128"
+        },
+        {
+            "city": "Coamo",
+            "region": "043",
+            "country": "PR",
+            "latitude": "18.07996",
+            "longitude": "-66.35795"
+        },
+        {
+            "city": "Coco",
+            "region": "123",
+            "country": "PR",
+            "latitude": "18.00719",
+            "longitude": "-66.25933"
+        },
+        {
+            "city": "Comer\u00edo",
+            "region": "045",
+            "country": "PR",
+            "latitude": "18.21801",
+            "longitude": "-66.226"
+        },
+        {
+            "city": "Comunas",
+            "region": "151",
+            "country": "PR",
+            "latitude": "18.08719",
+            "longitude": "-65.84377"
+        },
+        {
+            "city": "Coqu\u00ed",
+            "region": "123",
+            "country": "PR",
+            "latitude": "17.97413",
+            "longitude": "-66.22711"
+        },
+        {
+            "city": "Coraz\u00f3n",
+            "region": "057",
+            "country": "PR",
+            "latitude": "17.99274",
+            "longitude": "-66.08489"
+        },
+        {
+            "city": "Corcovado",
+            "region": "065",
+            "country": "PR",
+            "latitude": "18.45856",
+            "longitude": "-66.77629"
+        },
+        {
+            "city": "Corozal",
+            "region": "047",
+            "country": "PR",
+            "latitude": "18.34106",
+            "longitude": "-66.31684"
+        },
+        {
+            "city": "Coto Laurel",
+            "region": "113",
+            "country": "PR",
+            "latitude": "18.04969",
+            "longitude": "-66.55128"
+        },
+        {
+            "city": "Coto Norte",
+            "region": "145",
+            "country": "PR",
+            "latitude": "18.43078",
+            "longitude": "-66.43989"
+        },
+        {
+            "city": "Culebra",
+            "region": "049",
+            "country": "PR",
+            "latitude": "18.30301",
+            "longitude": "-65.30099"
+        },
+        {
+            "city": "Daguao",
+            "region": "103",
+            "country": "PR",
+            "latitude": "18.22635",
+            "longitude": "-65.68322"
+        },
+        {
+            "city": "Dorado",
+            "region": "051",
+            "country": "PR",
+            "latitude": "18.45883",
+            "longitude": "-66.26767"
+        },
+        {
+            "city": "Duque",
+            "region": "103",
+            "country": "PR",
+            "latitude": "18.2394",
+            "longitude": "-65.75044"
+        },
+        {
+            "city": "El Mang\u00f3",
+            "region": "077",
+            "country": "PR",
+            "latitude": "18.23412",
+            "longitude": "-65.87961"
+        },
+        {
+            "city": "El Negro",
+            "region": "151",
+            "country": "PR",
+            "latitude": "18.03747",
+            "longitude": "-65.85127"
+        },
+        {
+            "city": "El Ojo",
+            "region": "133",
+            "country": "PR",
+            "latitude": "18.00385",
+            "longitude": "-66.39156"
+        },
+        {
+            "city": "Emajagua",
+            "region": "095",
+            "country": "PR",
+            "latitude": "18.00052",
+            "longitude": "-65.88266"
+        },
+        {
+            "city": "Esperanza",
+            "region": "147",
+            "country": "PR",
+            "latitude": "18.09719",
+            "longitude": "-65.47071"
+        },
+        {
+            "city": "Espino",
+            "region": "011",
+            "country": "PR",
+            "latitude": "18.27634",
+            "longitude": "-67.11935"
+        },
+        {
+            "city": "Estancias de Florida",
+            "region": "054",
+            "country": "PR",
+            "latitude": "18.36662",
+            "longitude": "-66.56962"
+        },
+        {
+            "city": "Fajardo",
+            "region": "053",
+            "country": "PR",
+            "latitude": "18.32579",
+            "longitude": "-65.65238"
+        },
+        {
+            "city": "Florida",
+            "region": "054",
+            "country": "PR",
+            "latitude": "18.36245",
+            "longitude": "-66.56128"
+        },
+        {
+            "city": "Franquez",
+            "region": "101",
+            "country": "PR",
+            "latitude": "18.34023",
+            "longitude": "-66.42767"
+        },
+        {
+            "city": "Fuig",
+            "region": "055",
+            "country": "PR",
+            "latitude": "17.98774",
+            "longitude": "-66.91601"
+        },
+        {
+            "city": "G. L. Garcia",
+            "region": "035",
+            "country": "PR",
+            "latitude": "18.12746",
+            "longitude": "-66.10405"
+        },
+        {
+            "city": "Galateo",
+            "region": "135",
+            "country": "PR",
+            "latitude": "18.36245",
+            "longitude": "-66.25878"
+        },
+        {
+            "city": "Garrochales",
+            "region": "017",
+            "country": "PR",
+            "latitude": "18.45356",
+            "longitude": "-66.56628"
+        },
+        {
+            "city": "Gu\u00e1nica",
+            "region": "055",
+            "country": "PR",
+            "latitude": "17.97163",
+            "longitude": "-66.90795"
+        },
+        {
+            "city": "Guayabal",
+            "region": "075",
+            "country": "PR",
+            "latitude": "18.08135",
+            "longitude": "-66.50128"
+        },
+        {
+            "city": "Guayama",
+            "region": "057",
+            "country": "PR",
+            "latitude": "17.98413",
+            "longitude": "-66.11378"
+        },
+        {
+            "city": "Guayanilla",
+            "region": "059",
+            "country": "PR",
+            "latitude": "18.01913",
+            "longitude": "-66.79184"
+        },
+        {
+            "city": "Guaynabo",
+            "region": "061",
+            "country": "PR",
+            "latitude": "18.35745",
+            "longitude": "-66.111"
+        },
+        {
+            "city": "Gurabo",
+            "region": "063",
+            "country": "PR",
+            "latitude": "18.2544",
+            "longitude": "-65.97294"
+        },
+        {
+            "city": "H. Rivera Colon",
+            "region": "135",
+            "country": "PR",
+            "latitude": "18.34773",
+            "longitude": "-66.27378"
+        },
+        {
+            "city": "Hatillo",
+            "region": "065",
+            "country": "PR",
+            "latitude": "18.48633",
+            "longitude": "-66.82545"
+        },
+        {
+            "city": "Hato Candal",
+            "region": "119",
+            "country": "PR",
+            "latitude": "18.37439",
+            "longitude": "-65.78711"
+        },
+        {
+            "city": "Hormigueros",
+            "region": "067",
+            "country": "PR",
+            "latitude": "18.13968",
+            "longitude": "-67.1274"
+        },
+        {
+            "city": "Imbery",
+            "region": "017",
+            "country": "PR",
+            "latitude": "18.43689",
+            "longitude": "-66.55239"
+        },
+        {
+            "city": "Indios",
+            "region": "059",
+            "country": "PR",
+            "latitude": "17.99413",
+            "longitude": "-66.81934"
+        },
+        {
+            "city": "Ingenio",
+            "region": "137",
+            "country": "PR",
+            "latitude": "18.44217",
+            "longitude": "-66.226"
+        },
+        {
+            "city": "Humacao",
+            "region": "069",
+            "country": "PR",
+            "latitude": "18.14968",
+            "longitude": "-65.82738"
+        },
+        {
+            "city": "Isabela",
+            "region": "071",
+            "country": "PR",
+            "latitude": "18.50078",
+            "longitude": "-67.02435"
+        },
+        {
+            "city": "Jagual",
+            "region": "129",
+            "country": "PR",
+            "latitude": "18.16163",
+            "longitude": "-65.99544"
+        },
+        {
+            "city": "Jauca",
+            "region": "133",
+            "country": "PR",
+            "latitude": "17.96913",
+            "longitude": "-66.36572"
+        },
+        {
+            "city": "Jayuya",
+            "region": "073",
+            "country": "PR",
+            "latitude": "18.21857",
+            "longitude": "-66.59156"
+        },
+        {
+            "city": "Jobos",
+            "region": "057",
+            "country": "PR",
+            "latitude": "17.95524",
+            "longitude": "-66.16544"
+        },
+        {
+            "city": "Juana D\u00edaz",
+            "region": "075",
+            "country": "PR",
+            "latitude": "18.05246",
+            "longitude": "-66.50656"
+        },
+        {
+            "city": "Juncal",
+            "region": "131",
+            "country": "PR",
+            "latitude": "18.31384",
+            "longitude": "-66.91907"
+        },
+        {
+            "city": "Juncos",
+            "region": "077",
+            "country": "PR",
+            "latitude": "18.22746",
+            "longitude": "-65.921"
+        },
+        {
+            "city": "La Alianza",
+            "region": "013",
+            "country": "PR",
+            "latitude": "18.39745",
+            "longitude": "-66.6024"
+        },
+        {
+            "city": "La Dolores",
+            "region": "119",
+            "country": "PR",
+            "latitude": "18.3755",
+            "longitude": "-65.85572"
+        },
+        {
+            "city": "La Fermina",
+            "region": "085",
+            "country": "PR",
+            "latitude": "18.17551",
+            "longitude": "-65.8535"
+        },
+        {
+            "city": "La Luisa",
+            "region": "091",
+            "country": "PR",
+            "latitude": "18.44884",
+            "longitude": "-66.50989"
+        },
+        {
+            "city": "La Parguera",
+            "region": "079",
+            "country": "PR",
+            "latitude": "17.97497",
+            "longitude": "-67.04657"
+        },
+        {
+            "city": "La Playa",
+            "region": "011",
+            "country": "PR",
+            "latitude": "18.28745",
+            "longitude": "-67.18685"
+        },
+        {
+            "city": "La Plena",
+            "region": "123",
+            "country": "PR",
+            "latitude": "18.04663",
+            "longitude": "-66.20461"
+        },
+        {
+            "city": "Lajas",
+            "region": "079",
+            "country": "PR",
+            "latitude": "18.04996",
+            "longitude": "-67.05934"
+        },
+        {
+            "city": "Lamboglia",
+            "region": "109",
+            "country": "PR",
+            "latitude": "17.98136",
+            "longitude": "-65.98572"
+        },
+        {
+            "city": "Lares",
+            "region": "081",
+            "country": "PR",
+            "latitude": "18.29467",
+            "longitude": "-66.87712"
+        },
+        {
+            "city": "Las Marias",
+            "region": "011",
+            "country": "PR",
+            "latitude": "18.29328",
+            "longitude": "-67.14629"
+        },
+        {
+            "city": "Las Mar\u00edas",
+            "region": "083",
+            "country": "PR",
+            "latitude": "18.2519",
+            "longitude": "-66.99212"
+        },
+        {
+            "city": "Las Ochenta",
+            "region": "123",
+            "country": "PR",
+            "latitude": "17.98469",
+            "longitude": "-66.31795"
+        },
+        {
+            "city": "Las Ollas",
+            "region": "133",
+            "country": "PR",
+            "latitude": "18.03302",
+            "longitude": "-66.42434"
+        },
+        {
+            "city": "Las Piedras",
+            "region": "085",
+            "country": "PR",
+            "latitude": "18.18301",
+            "longitude": "-65.86627"
+        },
+        {
+            "city": "Levittown",
+            "region": "137",
+            "country": "PR",
+            "latitude": "18.44995",
+            "longitude": "-66.18156"
+        },
+        {
+            "city": "Liborio Negron Torres",
+            "region": "121",
+            "country": "PR",
+            "latitude": "18.04302",
+            "longitude": "-66.9424"
+        },
+        {
+            "city": "Lluveras",
+            "region": "121",
+            "country": "PR",
+            "latitude": "18.0383",
+            "longitude": "-66.90462"
+        },
+        {
+            "city": "Lo\u00edza",
+            "region": "087",
+            "country": "PR",
+            "latitude": "18.43134",
+            "longitude": "-65.88016"
+        },
+        {
+            "city": "Los Llanos",
+            "region": "043",
+            "country": "PR",
+            "latitude": "18.05524",
+            "longitude": "-66.40573"
+        },
+        {
+            "city": "Luis Llorens Torres",
+            "region": "075",
+            "country": "PR",
+            "latitude": "18.05691",
+            "longitude": "-66.52684"
+        },
+        {
+            "city": "Luis M. Cintron",
+            "region": "053",
+            "country": "PR",
+            "latitude": "18.29968",
+            "longitude": "-65.63849"
+        },
+        {
+            "city": "Luquillo",
+            "region": "089",
+            "country": "PR",
+            "latitude": "18.37245",
+            "longitude": "-65.71655"
+        },
+        {
+            "city": "Luyando",
+            "region": "003",
+            "country": "PR",
+            "latitude": "18.36439",
+            "longitude": "-67.1574"
+        },
+        {
+            "city": "Magas Arriba",
+            "region": "059",
+            "country": "PR",
+            "latitude": "18.01746",
+            "longitude": "-66.76906"
+        },
+        {
+            "city": "Manat\u00ed",
+            "region": "091",
+            "country": "PR",
+            "latitude": "18.42745",
+            "longitude": "-66.49212"
+        },
+        {
+            "city": "Maria Antonia",
+            "region": "055",
+            "country": "PR",
+            "latitude": "17.9783",
+            "longitude": "-66.88934"
+        },
+        {
+            "city": "Mariano Col\u00f3n",
+            "region": "043",
+            "country": "PR",
+            "latitude": "18.0233",
+            "longitude": "-66.33239"
+        },
+        {
+            "city": "Maricao",
+            "region": "093",
+            "country": "PR",
+            "latitude": "18.18079",
+            "longitude": "-66.9799"
+        },
+        {
+            "city": "Martorell",
+            "region": "151",
+            "country": "PR",
+            "latitude": "18.07607",
+            "longitude": "-65.89822"
+        },
+        {
+            "city": "Maunabo",
+            "region": "095",
+            "country": "PR",
+            "latitude": "18.00719",
+            "longitude": "-65.89933"
+        },
+        {
+            "city": "Miranda",
+            "region": "145",
+            "country": "PR",
+            "latitude": "18.38662",
+            "longitude": "-66.38378"
+        },
+        {
+            "city": "Moca",
+            "region": "099",
+            "country": "PR",
+            "latitude": "18.39467",
+            "longitude": "-67.11324"
+        },
+        {
+            "city": "Monserrate",
+            "region": "145",
+            "country": "PR",
+            "latitude": "18.43661",
+            "longitude": "-66.35961"
+        },
+        {
+            "city": "Monte Grande",
+            "region": "023",
+            "country": "PR",
+            "latitude": "18.08746",
+            "longitude": "-67.1074"
+        },
+        {
+            "city": "Mora",
+            "region": "071",
+            "country": "PR",
+            "latitude": "18.463",
+            "longitude": "-67.03268"
+        },
+        {
+            "city": "Morovis",
+            "region": "101",
+            "country": "PR",
+            "latitude": "18.32578",
+            "longitude": "-66.40656"
+        },
+        {
+            "city": "Mucarabones",
+            "region": "135",
+            "country": "PR",
+            "latitude": "18.39078",
+            "longitude": "-66.216"
+        },
+        {
+            "city": "Mayag\u00fcez",
+            "region": "097",
+            "country": "PR",
+            "latitude": "18.20107",
+            "longitude": "-67.13962"
+        },
+        {
+            "city": "Naguabo",
+            "region": "103",
+            "country": "PR",
+            "latitude": "18.21162",
+            "longitude": "-65.73488"
+        },
+        {
+            "city": "Naranjito",
+            "region": "105",
+            "country": "PR",
+            "latitude": "18.30079",
+            "longitude": "-66.24489"
+        },
+        {
+            "city": "Olimpo",
+            "region": "057",
+            "country": "PR",
+            "latitude": "18.00191",
+            "longitude": "-66.10822"
+        },
+        {
+            "city": "P\u00e1jaros",
+            "region": "135",
+            "country": "PR",
+            "latitude": "18.36856",
+            "longitude": "-66.21683"
+        },
+        {
+            "city": "Palmarejo",
+            "region": "043",
+            "country": "PR",
+            "latitude": "18.06802",
+            "longitude": "-66.32545"
+        },
+        {
+            "city": "Palmarejo",
+            "region": "079",
+            "country": "PR",
+            "latitude": "18.04024",
+            "longitude": "-67.07684"
+        },
+        {
+            "city": "Palmas",
+            "region": "015",
+            "country": "PR",
+            "latitude": "17.98719",
+            "longitude": "-66.02544"
+        },
+        {
+            "city": "Palmer",
+            "region": "119",
+            "country": "PR",
+            "latitude": "18.37051",
+            "longitude": "-65.77405"
+        },
+        {
+            "city": "Palo Seco",
+            "region": "095",
+            "country": "PR",
+            "latitude": "18.00747",
+            "longitude": "-65.93683"
+        },
+        {
+            "city": "Palomas",
+            "region": "045",
+            "country": "PR",
+            "latitude": "18.23246",
+            "longitude": "-66.25628"
+        },
+        {
+            "city": "Palomas",
+            "region": "153",
+            "country": "PR",
+            "latitude": "18.01358",
+            "longitude": "-66.87323"
+        },
+        {
+            "city": "Parcelas La Milagrosa",
+            "region": "041",
+            "country": "PR",
+            "latitude": "18.17079",
+            "longitude": "-66.18822"
+        },
+        {
+            "city": "Parcelas Nuevas",
+            "region": "041",
+            "country": "PR",
+            "latitude": "18.14024",
+            "longitude": "-66.17239"
+        },
+        {
+            "city": "Parcelas Pe\u00f1uelas",
+            "region": "133",
+            "country": "PR",
+            "latitude": "17.99885",
+            "longitude": "-66.34128"
+        },
+        {
+            "city": "Pastos",
+            "region": "009",
+            "country": "PR",
+            "latitude": "18.11774",
+            "longitude": "-66.25878"
+        },
+        {
+            "city": "Patillas",
+            "region": "109",
+            "country": "PR",
+            "latitude": "18.00635",
+            "longitude": "-66.01572"
+        },
+        {
+            "city": "Pe\u00f1a Pobre",
+            "region": "103",
+            "country": "PR",
+            "latitude": "18.21551",
+            "longitude": "-65.82211"
+        },
+        {
+            "city": "Pe\u00f1uelas",
+            "region": "111",
+            "country": "PR",
+            "latitude": "18.05635",
+            "longitude": "-66.72156"
+        },
+        {
+            "city": "Piedra Gorda",
+            "region": "027",
+            "country": "PR",
+            "latitude": "18.43411",
+            "longitude": "-66.88768"
+        },
+        {
+            "city": "Playa Fortuna",
+            "region": "089",
+            "country": "PR",
+            "latitude": "18.37967",
+            "longitude": "-65.74516"
+        },
+        {
+            "city": "Playita",
+            "region": "151",
+            "country": "PR",
+            "latitude": "18.04469",
+            "longitude": "-65.90738"
+        },
+        {
+            "city": "Playita Cortada",
+            "region": "133",
+            "country": "PR",
+            "latitude": "17.98497",
+            "longitude": "-66.43906"
+        },
+        {
+            "city": "Pole Ojea",
+            "region": "023",
+            "country": "PR",
+            "latitude": "17.97496",
+            "longitude": "-67.18518"
+        },
+        {
+            "city": "Ponce",
+            "region": "113",
+            "country": "PR",
+            "latitude": "18.01108",
+            "longitude": "-66.61406"
+        },
+        {
+            "city": "Potala Pastillo",
+            "region": "075",
+            "country": "PR",
+            "latitude": "17.99135",
+            "longitude": "-66.49656"
+        },
+        {
+            "city": "Pueblito del Rio",
+            "region": "085",
+            "country": "PR",
+            "latitude": "18.22801",
+            "longitude": "-65.86294"
+        },
+        {
+            "city": "Puerto Real",
+            "region": "023",
+            "country": "PR",
+            "latitude": "18.07496",
+            "longitude": "-67.18712"
+        },
+        {
+            "city": "Punta Santiago",
+            "region": "069",
+            "country": "PR",
+            "latitude": "18.16635",
+            "longitude": "-65.74822"
+        },
+        {
+            "city": "Quebrada",
+            "region": "027",
+            "country": "PR",
+            "latitude": "18.35662",
+            "longitude": "-66.83212"
+        },
+        {
+            "city": "Quebradillas",
+            "region": "115",
+            "country": "PR",
+            "latitude": "18.47383",
+            "longitude": "-66.93851"
+        },
+        {
+            "city": "Rafael Capo",
+            "region": "065",
+            "country": "PR",
+            "latitude": "18.40717",
+            "longitude": "-66.78212"
+        },
+        {
+            "city": "Rafael Gonzalez",
+            "region": "065",
+            "country": "PR",
+            "latitude": "18.42745",
+            "longitude": "-66.78684"
+        },
+        {
+            "city": "Rafael Hernandez",
+            "region": "005",
+            "country": "PR",
+            "latitude": "18.47133",
+            "longitude": "-67.07907"
+        },
+        {
+            "city": "Ramos",
+            "region": "089",
+            "country": "PR",
+            "latitude": "18.33967",
+            "longitude": "-65.71266"
+        },
+        {
+            "city": "Rinc\u00f3n",
+            "region": "117",
+            "country": "PR",
+            "latitude": "18.34023",
+            "longitude": "-67.2499"
+        },
+        {
+            "city": "R\u00edo Blanco",
+            "region": "103",
+            "country": "PR",
+            "latitude": "18.21829",
+            "longitude": "-65.7885"
+        },
+        {
+            "city": "R\u00edo Ca\u00f1as Abajo",
+            "region": "075",
+            "country": "PR",
+            "latitude": "18.0383",
+            "longitude": "-66.46767"
+        },
+        {
+            "city": "R\u00edo Grande",
+            "region": "119",
+            "country": "PR",
+            "latitude": "18.38023",
+            "longitude": "-65.83127"
+        },
+        {
+            "city": "R\u00edo Lajas",
+            "region": "051",
+            "country": "PR",
+            "latitude": "18.39467",
+            "longitude": "-66.26767"
+        },
+        {
+            "city": "Rosa Sanchez",
+            "region": "151",
+            "country": "PR",
+            "latitude": "18.06163",
+            "longitude": "-65.9135"
+        },
+        {
+            "city": "Sabana",
+            "region": "145",
+            "country": "PR",
+            "latitude": "18.46078",
+            "longitude": "-66.3585"
+        },
+        {
+            "city": "Sabana Eneas",
+            "region": "125",
+            "country": "PR",
+            "latitude": "18.08607",
+            "longitude": "-67.08101"
+        },
+        {
+            "city": "Sabana Grande",
+            "region": "121",
+            "country": "PR",
+            "latitude": "18.07774",
+            "longitude": "-66.96045"
+        },
+        {
+            "city": "Sabana Hoyos",
+            "region": "013",
+            "country": "PR",
+            "latitude": "18.43384",
+            "longitude": "-66.61378"
+        },
+        {
+            "city": "Sabana Seca",
+            "region": "137",
+            "country": "PR",
+            "latitude": "18.42689",
+            "longitude": "-66.18461"
+        },
+        {
+            "city": "Salinas",
+            "region": "123",
+            "country": "PR",
+            "latitude": "17.97747",
+            "longitude": "-66.29795"
+        },
+        {
+            "city": "San Antonio",
+            "region": "005",
+            "country": "PR",
+            "latitude": "18.49217",
+            "longitude": "-67.09851"
+        },
+        {
+            "city": "San Antonio",
+            "region": "051",
+            "country": "PR",
+            "latitude": "18.44884",
+            "longitude": "-66.30267"
+        },
+        {
+            "city": "San Antonio",
+            "region": "115",
+            "country": "PR",
+            "latitude": "18.45161",
+            "longitude": "-66.94962"
+        },
+        {
+            "city": "San Germ\u00e1n",
+            "region": "125",
+            "country": "PR",
+            "latitude": "18.08163",
+            "longitude": "-67.0449"
+        },
+        {
+            "city": "San Isidro",
+            "region": "029",
+            "country": "PR",
+            "latitude": "18.39217",
+            "longitude": "-65.88544"
+        },
+        {
+            "city": "San Jos\u00e9",
+            "region": "137",
+            "country": "PR",
+            "latitude": "18.39828",
+            "longitude": "-66.25572"
+        },
+        {
+            "city": "San Juan",
+            "region": "127",
+            "country": "PR",
+            "latitude": "18.46633",
+            "longitude": "-66.10572"
+        },
+        {
+            "city": "San Lorenzo",
+            "region": "129",
+            "country": "PR",
+            "latitude": "18.1894",
+            "longitude": "-65.961"
+        },
+        {
+            "city": "San Sebasti\u00e1n",
+            "region": "131",
+            "country": "PR",
+            "latitude": "18.33662",
+            "longitude": "-66.99018"
+        },
+        {
+            "city": "Santa Barbara",
+            "region": "029",
+            "country": "PR",
+            "latitude": "18.39356",
+            "longitude": "-65.91878"
+        },
+        {
+            "city": "Santa Clara",
+            "region": "007",
+            "country": "PR",
+            "latitude": "18.21857",
+            "longitude": "-66.12878"
+        },
+        {
+            "city": "Santa Isabel",
+            "region": "133",
+            "country": "PR",
+            "latitude": "17.96608",
+            "longitude": "-66.40489"
+        },
+        {
+            "city": "Santo Domingo",
+            "region": "111",
+            "country": "PR",
+            "latitude": "18.0633",
+            "longitude": "-66.7524"
+        },
+        {
+            "city": "Stella",
+            "region": "117",
+            "country": "PR",
+            "latitude": "18.32189",
+            "longitude": "-67.24685"
+        },
+        {
+            "city": "Su\u00e1rez",
+            "region": "087",
+            "country": "PR",
+            "latitude": "18.43022",
+            "longitude": "-65.8535"
+        },
+        {
+            "city": "Sumidero",
+            "region": "007",
+            "country": "PR",
+            "latitude": "18.21857",
+            "longitude": "-66.12878"
+        },
+        {
+            "city": "Tallaboa",
+            "region": "111",
+            "country": "PR",
+            "latitude": "17.99497",
+            "longitude": "-66.71629"
+        },
+        {
+            "city": "Tallaboa Alta",
+            "region": "111",
+            "country": "PR",
+            "latitude": "18.05107",
+            "longitude": "-66.70017"
+        },
+        {
+            "city": "Tierras Nuevas Poniente",
+            "region": "091",
+            "country": "PR",
+            "latitude": "18.46189",
+            "longitude": "-66.4885"
+        },
+        {
+            "city": "Toa Alta",
+            "region": "135",
+            "country": "PR",
+            "latitude": "18.38828",
+            "longitude": "-66.24822"
+        },
+        {
+            "city": "Toa Baja",
+            "region": "137",
+            "country": "PR",
+            "latitude": "18.44384",
+            "longitude": "-66.25961"
+        },
+        {
+            "city": "Trujillo Alto",
+            "region": "139",
+            "country": "PR",
+            "latitude": "18.35467",
+            "longitude": "-66.00739"
+        },
+        {
+            "city": "Utuado",
+            "region": "141",
+            "country": "PR",
+            "latitude": "18.26551",
+            "longitude": "-66.70045"
+        },
+        {
+            "city": "V\u00e1zquez",
+            "region": "123",
+            "country": "PR",
+            "latitude": "18.0658",
+            "longitude": "-66.2385"
+        },
+        {
+            "city": "Vega Alta",
+            "region": "143",
+            "country": "PR",
+            "latitude": "18.41217",
+            "longitude": "-66.33128"
+        },
+        {
+            "city": "Vega Baja",
+            "region": "145",
+            "country": "PR",
+            "latitude": "18.44439",
+            "longitude": "-66.38767"
+        },
+        {
+            "city": "Vieques",
+            "region": "087",
+            "country": "PR",
+            "latitude": "18.42495",
+            "longitude": "-65.83294"
+        },
+        {
+            "city": "Vieques",
+            "region": "147",
+            "country": "PR",
+            "latitude": "18.14746",
+            "longitude": "-65.44488"
+        },
+        {
+            "city": "Villalba",
+            "region": "149",
+            "country": "PR",
+            "latitude": "18.12718",
+            "longitude": "-66.49212"
+        },
+        {
+            "city": "Yabucoa",
+            "region": "151",
+            "country": "PR",
+            "latitude": "18.05052",
+            "longitude": "-65.87933"
+        },
+        {
+            "city": "Yauco",
+            "region": "153",
+            "country": "PR",
+            "latitude": "18.03496",
+            "longitude": "-66.8499"
+        },
+        {
+            "city": "Yaurel",
+            "region": "015",
+            "country": "PR",
+            "latitude": "18.02691",
+            "longitude": "-66.05711"
+        }
+    ]
+}

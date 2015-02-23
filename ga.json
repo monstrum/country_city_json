@@ -1,0 +1,195 @@
+{
+    "country": "Gabon",
+    "code": "GA",
+    "cities": [
+        {
+            "city": "Tchibanga",
+            "region": "05",
+            "country": "GA",
+            "latitude": "-2.85",
+            "longitude": "11.03333"
+        },
+        {
+            "city": "Port-Gentil",
+            "region": "08",
+            "country": "GA",
+            "latitude": "-0.71933",
+            "longitude": "8.78151"
+        },
+        {
+            "city": "Oyem",
+            "region": "09",
+            "country": "GA",
+            "latitude": "1.5995",
+            "longitude": "11.57933"
+        },
+        {
+            "city": "Ombou\u00e9",
+            "region": "08",
+            "country": "GA",
+            "latitude": "-1.57464",
+            "longitude": "9.26184"
+        },
+        {
+            "city": "Okondja",
+            "region": "02",
+            "country": "GA",
+            "latitude": "-0.65487",
+            "longitude": "13.67533"
+        },
+        {
+            "city": "Ntoum",
+            "region": "01",
+            "country": "GA",
+            "latitude": "0.38333",
+            "longitude": "9.78333"
+        },
+        {
+            "city": "Ndend\u00e9",
+            "region": "04",
+            "country": "GA",
+            "latitude": "-2.40077",
+            "longitude": "11.35813"
+        },
+        {
+            "city": "Ndjol\u00e9",
+            "region": "03",
+            "country": "GA",
+            "latitude": "-0.18333",
+            "longitude": "10.75"
+        },
+        {
+            "city": "Mounana",
+            "region": "02",
+            "country": "GA",
+            "latitude": "-1.4085",
+            "longitude": "13.15857"
+        },
+        {
+            "city": "Mouila",
+            "region": "04",
+            "country": "GA",
+            "latitude": "-1.86846",
+            "longitude": "11.05594"
+        },
+        {
+            "city": "Moanda",
+            "region": "02",
+            "country": "GA",
+            "latitude": "-1.55746",
+            "longitude": "13.21775"
+        },
+        {
+            "city": "Mitzic",
+            "region": "09",
+            "country": "GA",
+            "latitude": "0.78206",
+            "longitude": "11.54904"
+        },
+        {
+            "city": "Mimongo",
+            "region": "04",
+            "country": "GA",
+            "latitude": "-1.61952",
+            "longitude": "11.60675"
+        },
+        {
+            "city": "Mbigou",
+            "region": "04",
+            "country": "GA",
+            "latitude": "-1.8971",
+            "longitude": "11.91253"
+        },
+        {
+            "city": "Mayumba",
+            "region": "05",
+            "country": "GA",
+            "latitude": "-3.43198",
+            "longitude": "10.6554"
+        },
+        {
+            "city": "Makokou",
+            "region": "06",
+            "country": "GA",
+            "latitude": "0.57381",
+            "longitude": "12.86419"
+        },
+        {
+            "city": "Libreville",
+            "region": "01",
+            "country": "GA",
+            "latitude": "0.3925",
+            "longitude": "9.45365"
+        },
+        {
+            "city": "L\u00e9koni",
+            "region": "02",
+            "country": "GA",
+            "latitude": "-1.58431",
+            "longitude": "14.25905"
+        },
+        {
+            "city": "Lastoursville",
+            "region": "07",
+            "country": "GA",
+            "latitude": "-0.83132",
+            "longitude": "12.77934"
+        },
+        {
+            "city": "Lambar\u00e9n\u00e9",
+            "region": "03",
+            "country": "GA",
+            "latitude": "-0.7001",
+            "longitude": "10.24055"
+        },
+        {
+            "city": "Koulamoutou",
+            "region": "07",
+            "country": "GA",
+            "latitude": "-1.13032",
+            "longitude": "12.47359"
+        },
+        {
+            "city": "Gamba",
+            "region": "08",
+            "country": "GA",
+            "latitude": "-2.65",
+            "longitude": "10"
+        },
+        {
+            "city": "Franceville",
+            "region": "02",
+            "country": "GA",
+            "latitude": "-1.63333",
+            "longitude": "13.58357"
+        },
+        {
+            "city": "Fougamou",
+            "region": "04",
+            "country": "GA",
+            "latitude": "-1.21038",
+            "longitude": "10.59022"
+        },
+        {
+            "city": "Cocobeach",
+            "region": "01",
+            "country": "GA",
+            "latitude": "1.00019",
+            "longitude": "9.58228"
+        },
+        {
+            "city": "Boou\u00e9",
+            "region": "06",
+            "country": "GA",
+            "latitude": "-0.09207",
+            "longitude": "11.93846"
+        },
+        {
+            "city": "Bitam",
+            "region": "09",
+            "country": "GA",
+            "latitude": "2.07597",
+            "longitude": "11.50065"
+        }
+    ]
+}

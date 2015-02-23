@@ -1,0 +1,1273 @@
+{
+    "country": "Ireland",
+    "code": "IE",
+    "cities": [
+        {
+            "city": "Buncrana",
+            "region": "U",
+            "country": "IE",
+            "latitude": "55.13333",
+            "longitude": "-7.45"
+        },
+        {
+            "city": "Eochaill",
+            "region": "M",
+            "country": "IE",
+            "latitude": "51.95",
+            "longitude": "-7.85056"
+        },
+        {
+            "city": "Wicklow",
+            "region": "L",
+            "country": "IE",
+            "latitude": "52.975",
+            "longitude": "-6.04944"
+        },
+        {
+            "city": "Loch Garman",
+            "region": "L",
+            "country": "IE",
+            "latitude": "52.33417",
+            "longitude": "-6.4575"
+        },
+        {
+            "city": "Westport",
+            "region": "C",
+            "country": "IE",
+            "latitude": "53.8",
+            "longitude": "-9.51667"
+        },
+        {
+            "city": "Waterford",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.25833",
+            "longitude": "-7.11194"
+        },
+        {
+            "city": "Tullow",
+            "region": "L",
+            "country": "IE",
+            "latitude": "52.80028",
+            "longitude": "-6.73694"
+        },
+        {
+            "city": "Tullamore",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.27389",
+            "longitude": "-7.48889"
+        },
+        {
+            "city": "Tuam",
+            "region": "C",
+            "country": "IE",
+            "latitude": "53.51667",
+            "longitude": "-8.85"
+        },
+        {
+            "city": "Trim",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.555",
+            "longitude": "-6.79167"
+        },
+        {
+            "city": "Tr\u00e1 Mh\u00f3r",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.16235",
+            "longitude": "-7.15244"
+        },
+        {
+            "city": "Tralee",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.27042",
+            "longitude": "-9.70264"
+        },
+        {
+            "city": "Tower",
+            "region": "M",
+            "country": "IE",
+            "latitude": "51.91667",
+            "longitude": "-8.6"
+        },
+        {
+            "city": "Tipperary",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.47333",
+            "longitude": "-8.15583"
+        },
+        {
+            "city": "Thurles",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.68194",
+            "longitude": "-7.80222"
+        },
+        {
+            "city": "Thomastown",
+            "region": "L",
+            "country": "IE",
+            "latitude": "52.52667",
+            "longitude": "-7.13722"
+        },
+        {
+            "city": "An Teampall M\u00f3r",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.79472",
+            "longitude": "-7.83389"
+        },
+        {
+            "city": "Tallaght",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.2859",
+            "longitude": "-6.37344"
+        },
+        {
+            "city": "Swords",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.45972",
+            "longitude": "-6.21806"
+        },
+        {
+            "city": "Swinford",
+            "region": "C",
+            "country": "IE",
+            "latitude": "53.95",
+            "longitude": "-8.95"
+        },
+        {
+            "city": "Sligo",
+            "region": "C",
+            "country": "IE",
+            "latitude": "54.26969",
+            "longitude": "-8.46943"
+        },
+        {
+            "city": "Skibbereen",
+            "region": "M",
+            "country": "IE",
+            "latitude": "51.55",
+            "longitude": "-9.26667"
+        },
+        {
+            "city": "Skerries",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.58278",
+            "longitude": "-6.10833"
+        },
+        {
+            "city": "Sallins",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.24889",
+            "longitude": "-6.66611"
+        },
+        {
+            "city": "An Ros",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.5223",
+            "longitude": "-6.09308"
+        },
+        {
+            "city": "Rosslare",
+            "region": "L",
+            "country": "IE",
+            "latitude": "52.27583",
+            "longitude": "-6.38444"
+        },
+        {
+            "city": "Roscrea",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.95111",
+            "longitude": "-7.80167"
+        },
+        {
+            "city": "Roscommon",
+            "region": "C",
+            "country": "IE",
+            "latitude": "53.63333",
+            "longitude": "-8.18333"
+        },
+        {
+            "city": "Ratoath",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.50806",
+            "longitude": "-6.4625"
+        },
+        {
+            "city": "Rathkeale",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.52444",
+            "longitude": "-8.93806"
+        },
+        {
+            "city": "Rathdrum",
+            "region": "L",
+            "country": "IE",
+            "latitude": "52.92639",
+            "longitude": "-6.23556"
+        },
+        {
+            "city": "Rathcoole",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.28278",
+            "longitude": "-6.47278"
+        },
+        {
+            "city": "Rathangan",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.22139",
+            "longitude": "-6.995"
+        },
+        {
+            "city": "Prosperous",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.29028",
+            "longitude": "-6.75389"
+        },
+        {
+            "city": "Portmarnock",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.42306",
+            "longitude": "-6.1375"
+        },
+        {
+            "city": "Portlaoise",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.03441",
+            "longitude": "-7.29979"
+        },
+        {
+            "city": "Portarlington",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.16222",
+            "longitude": "-7.19111"
+        },
+        {
+            "city": "Passage West",
+            "region": "M",
+            "country": "IE",
+            "latitude": "51.87389",
+            "longitude": "-8.34444"
+        },
+        {
+            "city": "Oranmore",
+            "region": "C",
+            "country": "IE",
+            "latitude": "53.26833",
+            "longitude": "-8.92"
+        },
+        {
+            "city": "Old Kilcullen",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.10639",
+            "longitude": "-6.76528"
+        },
+        {
+            "city": "Newtown Trim",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.55611",
+            "longitude": "-6.77"
+        },
+        {
+            "city": "New Ross",
+            "region": "L",
+            "country": "IE",
+            "latitude": "52.39667",
+            "longitude": "-6.93667"
+        },
+        {
+            "city": "Newmarket on Fergus",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.76",
+            "longitude": "-8.89556"
+        },
+        {
+            "city": "Newcastle West",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.44917",
+            "longitude": "-9.06111"
+        },
+        {
+            "city": "Droichead Nua",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.18194",
+            "longitude": "-6.79667"
+        },
+        {
+            "city": "Nenagh",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.86194",
+            "longitude": "-8.19667"
+        },
+        {
+            "city": "Navan",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.65278",
+            "longitude": "-6.68139"
+        },
+        {
+            "city": "Naas",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.21583",
+            "longitude": "-6.66694"
+        },
+        {
+            "city": "An Muileann gCearr",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.53333",
+            "longitude": "-7.35"
+        },
+        {
+            "city": "Moycullen",
+            "region": "C",
+            "country": "IE",
+            "latitude": "53.33783",
+            "longitude": "-9.18002"
+        },
+        {
+            "city": "Moville",
+            "region": "U",
+            "country": "IE",
+            "latitude": "55.18333",
+            "longitude": "-7.05"
+        },
+        {
+            "city": "Mountrath",
+            "region": "L",
+            "country": "IE",
+            "latitude": "52.99889",
+            "longitude": "-7.47278"
+        },
+        {
+            "city": "Mountmellick",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.11361",
+            "longitude": "-7.32"
+        },
+        {
+            "city": "Monasterevin",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.14056",
+            "longitude": "-7.06639"
+        },
+        {
+            "city": "Monaghan",
+            "region": "U",
+            "country": "IE",
+            "latitude": "54.25",
+            "longitude": "-6.96667"
+        },
+        {
+            "city": "Moate",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.55",
+            "longitude": "-7.71667"
+        },
+        {
+            "city": "Mitchelstown",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.26583",
+            "longitude": "-8.26806"
+        },
+        {
+            "city": "Midleton",
+            "region": "M",
+            "country": "IE",
+            "latitude": "51.91526",
+            "longitude": "-8.18052"
+        },
+        {
+            "city": "Maynooth",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.385",
+            "longitude": "-6.59361"
+        },
+        {
+            "city": "Mallow",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.13333",
+            "longitude": "-8.63333"
+        },
+        {
+            "city": "Malahide",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.45083",
+            "longitude": "-6.15444"
+        },
+        {
+            "city": "Macroom",
+            "region": "M",
+            "country": "IE",
+            "latitude": "51.9",
+            "longitude": "-8.95"
+        },
+        {
+            "city": "Lusk",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.52743",
+            "longitude": "-6.16423"
+        },
+        {
+            "city": "Loughrea",
+            "region": "C",
+            "country": "IE",
+            "latitude": "53.19694",
+            "longitude": "-8.56694"
+        },
+        {
+            "city": "An Longfort",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.73333",
+            "longitude": "-7.8"
+        },
+        {
+            "city": "Listowel",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.44639",
+            "longitude": "-9.485"
+        },
+        {
+            "city": "Limerick",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.66472",
+            "longitude": "-8.62306"
+        },
+        {
+            "city": "Leifear",
+            "region": "U",
+            "country": "IE",
+            "latitude": "54.83194",
+            "longitude": "-7.48361"
+        },
+        {
+            "city": "Letterkenny",
+            "region": "U",
+            "country": "IE",
+            "latitude": "54.95",
+            "longitude": "-7.73333"
+        },
+        {
+            "city": "Leixlip",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.36583",
+            "longitude": "-6.49556"
+        },
+        {
+            "city": "Laytown",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.68194",
+            "longitude": "-6.23917"
+        },
+        {
+            "city": "Knockbridge",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.9732",
+            "longitude": "-6.48597"
+        },
+        {
+            "city": "Kinsale",
+            "region": "M",
+            "country": "IE",
+            "latitude": "51.7075",
+            "longitude": "-8.53056"
+        },
+        {
+            "city": "Cill Rois",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.63972",
+            "longitude": "-9.48333"
+        },
+        {
+            "city": "Kilmallock",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.4",
+            "longitude": "-8.57722"
+        },
+        {
+            "city": "Killybegs",
+            "region": "U",
+            "country": "IE",
+            "latitude": "54.63333",
+            "longitude": "-8.45"
+        },
+        {
+            "city": "Killorglin",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.1",
+            "longitude": "-9.78333"
+        },
+        {
+            "city": "Cill Airne",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.05",
+            "longitude": "-9.51667"
+        },
+        {
+            "city": "Kill",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.17611",
+            "longitude": "-7.335"
+        },
+        {
+            "city": "Kilkenny",
+            "region": "L",
+            "country": "IE",
+            "latitude": "52.65417",
+            "longitude": "-7.25222"
+        },
+        {
+            "city": "Kilcoole",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.10278",
+            "longitude": "-6.065"
+        },
+        {
+            "city": "Kilcock",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.40222",
+            "longitude": "-6.67083"
+        },
+        {
+            "city": "Kenmare",
+            "region": "M",
+            "country": "IE",
+            "latitude": "51.88333",
+            "longitude": "-9.58333"
+        },
+        {
+            "city": "Kells",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.72639",
+            "longitude": "-6.87917"
+        },
+        {
+            "city": "Kanturk",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.16667",
+            "longitude": "-8.9"
+        },
+        {
+            "city": "Gweedore",
+            "region": "U",
+            "country": "IE",
+            "latitude": "55.05028",
+            "longitude": "-8.23194"
+        },
+        {
+            "city": "Greystones",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.14083",
+            "longitude": "-6.06306"
+        },
+        {
+            "city": "Granard",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.76667",
+            "longitude": "-7.5"
+        },
+        {
+            "city": "Gort",
+            "region": "C",
+            "country": "IE",
+            "latitude": "53.06639",
+            "longitude": "-8.81667"
+        },
+        {
+            "city": "Gorey",
+            "region": "L",
+            "country": "IE",
+            "latitude": "52.67472",
+            "longitude": "-6.2925"
+        },
+        {
+            "city": "Glenties",
+            "region": "U",
+            "country": "IE",
+            "latitude": "54.7975",
+            "longitude": "-8.2825"
+        },
+        {
+            "city": "Galway",
+            "region": "C",
+            "country": "IE",
+            "latitude": "53.27194",
+            "longitude": "-9.04889"
+        },
+        {
+            "city": "Fermoy",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.13583",
+            "longitude": "-8.27583"
+        },
+        {
+            "city": "Enniskerry",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.1925",
+            "longitude": "-6.16917"
+        },
+        {
+            "city": "Enniscorthy",
+            "region": "L",
+            "country": "IE",
+            "latitude": "52.50083",
+            "longitude": "-6.55778"
+        },
+        {
+            "city": "Ennis",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.84361",
+            "longitude": "-8.98639"
+        },
+        {
+            "city": "Edenderry",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.34528",
+            "longitude": "-7.04972"
+        },
+        {
+            "city": "Dunshaughlin",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.5125",
+            "longitude": "-6.54"
+        },
+        {
+            "city": "Dunmore East",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.15139",
+            "longitude": "-6.98611"
+        },
+        {
+            "city": "Dunmanway",
+            "region": "M",
+            "country": "IE",
+            "latitude": "51.71667",
+            "longitude": "-9.11667"
+        },
+        {
+            "city": "Dunlewy",
+            "region": "U",
+            "country": "IE",
+            "latitude": "55.01667",
+            "longitude": "-8.1"
+        },
+        {
+            "city": "D\u00fan Laoghaire",
+            "region": "00",
+            "country": "IE",
+            "latitude": "53.29395",
+            "longitude": "-6.13586"
+        },
+        {
+            "city": "Dungarvan",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.08806",
+            "longitude": "-7.62528"
+        },
+        {
+            "city": "Dundalk",
+            "region": "L",
+            "country": "IE",
+            "latitude": "54",
+            "longitude": "-6.41667"
+        },
+        {
+            "city": "Dunboyne",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.4",
+            "longitude": "-6.46667"
+        },
+        {
+            "city": "Duleek",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.65667",
+            "longitude": "-6.41917"
+        },
+        {
+            "city": "Dublin",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.34399",
+            "longitude": "-6.26719"
+        },
+        {
+            "city": "Drogheda",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.71889",
+            "longitude": "-6.34778"
+        },
+        {
+            "city": "Donnybrook",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.31375",
+            "longitude": "-6.22274"
+        },
+        {
+            "city": "Donegal",
+            "region": "U",
+            "country": "IE",
+            "latitude": "54.65",
+            "longitude": "-8.11667"
+        },
+        {
+            "city": "Donabate",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.48722",
+            "longitude": "-6.15194"
+        },
+        {
+            "city": "Dingle",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.14083",
+            "longitude": "-10.26889"
+        },
+        {
+            "city": "Derry",
+            "region": "M",
+            "country": "IE",
+            "latitude": "51.58666",
+            "longitude": "-9.05026"
+        },
+        {
+            "city": "Cork",
+            "region": "M",
+            "country": "IE",
+            "latitude": "51.89797",
+            "longitude": "-8.47061"
+        },
+        {
+            "city": "Cootehill",
+            "region": "U",
+            "country": "IE",
+            "latitude": "54.0725",
+            "longitude": "-7.08194"
+        },
+        {
+            "city": "Cobh",
+            "region": "M",
+            "country": "IE",
+            "latitude": "51.85722",
+            "longitude": "-8.29917"
+        },
+        {
+            "city": "Clonmel",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.355",
+            "longitude": "-7.70389"
+        },
+        {
+            "city": "Cluain Eois",
+            "region": "U",
+            "country": "IE",
+            "latitude": "54.18333",
+            "longitude": "-7.23333"
+        },
+        {
+            "city": "Clonakilty",
+            "region": "M",
+            "country": "IE",
+            "latitude": "51.62306",
+            "longitude": "-8.87056"
+        },
+        {
+            "city": "Clifden",
+            "region": "C",
+            "country": "IE",
+            "latitude": "53.48333",
+            "longitude": "-10.01667"
+        },
+        {
+            "city": "Claremorris",
+            "region": "C",
+            "country": "IE",
+            "latitude": "53.71667",
+            "longitude": "-9"
+        },
+        {
+            "city": "Clara",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.3425",
+            "longitude": "-7.61389"
+        },
+        {
+            "city": "Clane",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.29139",
+            "longitude": "-6.68917"
+        },
+        {
+            "city": "Cherryville",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.15694",
+            "longitude": "-6.96667"
+        },
+        {
+            "city": "R\u00e1th Luirc",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.35",
+            "longitude": "-8.68333"
+        },
+        {
+            "city": "Celbridge",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.33861",
+            "longitude": "-6.54361"
+        },
+        {
+            "city": "An Cabh\u00e1n",
+            "region": "U",
+            "country": "IE",
+            "latitude": "53.99083",
+            "longitude": "-7.36056"
+        },
+        {
+            "city": "Castlerea",
+            "region": "C",
+            "country": "IE",
+            "latitude": "53.76667",
+            "longitude": "-8.5"
+        },
+        {
+            "city": "Castleisland",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.23333",
+            "longitude": "-9.46667"
+        },
+        {
+            "city": "Castlecomer",
+            "region": "L",
+            "country": "IE",
+            "latitude": "52.80611",
+            "longitude": "-7.21056"
+        },
+        {
+            "city": "Castleblayney",
+            "region": "U",
+            "country": "IE",
+            "latitude": "54.11667",
+            "longitude": "-6.73333"
+        },
+        {
+            "city": "Castlebar",
+            "region": "C",
+            "country": "IE",
+            "latitude": "53.85",
+            "longitude": "-9.3"
+        },
+        {
+            "city": "Cashel",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.51583",
+            "longitude": "-7.88556"
+        },
+        {
+            "city": "Carrigaline",
+            "region": "M",
+            "country": "IE",
+            "latitude": "51.81167",
+            "longitude": "-8.39861"
+        },
+        {
+            "city": "Carrick-on-Suir",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.34917",
+            "longitude": "-7.41306"
+        },
+        {
+            "city": "Carrick-on-Shannon",
+            "region": "C",
+            "country": "IE",
+            "latitude": "53.94694",
+            "longitude": "-8.09"
+        },
+        {
+            "city": "Carrickmacross",
+            "region": "U",
+            "country": "IE",
+            "latitude": "53.97278",
+            "longitude": "-6.71889"
+        },
+        {
+            "city": "Carndonagh",
+            "region": "U",
+            "country": "IE",
+            "latitude": "55.25",
+            "longitude": "-7.26667"
+        },
+        {
+            "city": "Carlow",
+            "region": "L",
+            "country": "IE",
+            "latitude": "52.84083",
+            "longitude": "-6.92611"
+        },
+        {
+            "city": "Cahersiveen",
+            "region": "M",
+            "country": "IE",
+            "latitude": "51.94861",
+            "longitude": "-10.22222"
+        },
+        {
+            "city": "Cahir",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.37694",
+            "longitude": "-7.92167"
+        },
+        {
+            "city": "Bundoran",
+            "region": "U",
+            "country": "IE",
+            "latitude": "54.47782",
+            "longitude": "-8.28094"
+        },
+        {
+            "city": "Bray",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.20278",
+            "longitude": "-6.09833"
+        },
+        {
+            "city": "Boyle",
+            "region": "C",
+            "country": "IE",
+            "latitude": "53.96667",
+            "longitude": "-8.3"
+        },
+        {
+            "city": "Blessington",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.17",
+            "longitude": "-6.5325"
+        },
+        {
+            "city": "Blarney",
+            "region": "M",
+            "country": "IE",
+            "latitude": "51.93333",
+            "longitude": "-8.56667"
+        },
+        {
+            "city": "Blackrock",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.96405",
+            "longitude": "-6.36514"
+        },
+        {
+            "city": "Blackrock",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.3015",
+            "longitude": "-6.1778"
+        },
+        {
+            "city": "Birr",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.09139",
+            "longitude": "-7.91333"
+        },
+        {
+            "city": "Belturbet",
+            "region": "U",
+            "country": "IE",
+            "latitude": "54.1",
+            "longitude": "-7.45"
+        },
+        {
+            "city": "Bantry",
+            "region": "M",
+            "country": "IE",
+            "latitude": "51.68333",
+            "longitude": "-9.45"
+        },
+        {
+            "city": "Bandon",
+            "region": "M",
+            "country": "IE",
+            "latitude": "51.74694",
+            "longitude": "-8.7425"
+        },
+        {
+            "city": "Banagher",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.18861",
+            "longitude": "-7.98667"
+        },
+        {
+            "city": "Ballyshannon",
+            "region": "U",
+            "country": "IE",
+            "latitude": "54.5",
+            "longitude": "-8.18333"
+        },
+        {
+            "city": "Ballyhaunis",
+            "region": "C",
+            "country": "IE",
+            "latitude": "53.76667",
+            "longitude": "-8.76667"
+        },
+        {
+            "city": "Ballybunnion",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.50972",
+            "longitude": "-9.67167"
+        },
+        {
+            "city": "Ballybofey",
+            "region": "U",
+            "country": "IE",
+            "latitude": "54.8",
+            "longitude": "-7.78333"
+        },
+        {
+            "city": "Ballinrobe",
+            "region": "C",
+            "country": "IE",
+            "latitude": "53.63333",
+            "longitude": "-9.23333"
+        },
+        {
+            "city": "Ballinasloe",
+            "region": "C",
+            "country": "IE",
+            "latitude": "53.3275",
+            "longitude": "-8.21944"
+        },
+        {
+            "city": "B\u00e9al An \u00c1tha",
+            "region": "C",
+            "country": "IE",
+            "latitude": "54.11667",
+            "longitude": "-9.16667"
+        },
+        {
+            "city": "Ballaghaderreen",
+            "region": "C",
+            "country": "IE",
+            "latitude": "53.9",
+            "longitude": "-8.58333"
+        },
+        {
+            "city": "Balbriggan",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.61278",
+            "longitude": "-6.18194"
+        },
+        {
+            "city": "Bailieborough",
+            "region": "U",
+            "country": "IE",
+            "latitude": "53.91667",
+            "longitude": "-6.96667"
+        },
+        {
+            "city": "Bagenalstown",
+            "region": "L",
+            "country": "IE",
+            "latitude": "52.70031",
+            "longitude": "-6.96181"
+        },
+        {
+            "city": "Athy",
+            "region": "L",
+            "country": "IE",
+            "latitude": "52.99139",
+            "longitude": "-6.98028"
+        },
+        {
+            "city": "Baile \u00c1tha Luain",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.43333",
+            "longitude": "-7.95"
+        },
+        {
+            "city": "Athenry",
+            "region": "C",
+            "country": "IE",
+            "latitude": "53.29639",
+            "longitude": "-8.74306"
+        },
+        {
+            "city": "Athboy",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.61861",
+            "longitude": "-6.92056"
+        },
+        {
+            "city": "Ashbourne",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.51083",
+            "longitude": "-6.42722"
+        },
+        {
+            "city": "Arklow",
+            "region": "L",
+            "country": "IE",
+            "latitude": "52.79306",
+            "longitude": "-6.14139"
+        },
+        {
+            "city": "Ardee",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.85972",
+            "longitude": "-6.54056"
+        },
+        {
+            "city": "Ardara",
+            "region": "U",
+            "country": "IE",
+            "latitude": "54.76444",
+            "longitude": "-8.4075"
+        },
+        {
+            "city": "Abbeyleix",
+            "region": "L",
+            "country": "IE",
+            "latitude": "52.89917",
+            "longitude": "-7.3575"
+        },
+        {
+            "city": "Abbeyfeale",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.38139",
+            "longitude": "-9.3025"
+        },
+        {
+            "city": "Portraine",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.49667",
+            "longitude": "-6.11111"
+        },
+        {
+            "city": "Nenagh Bridge",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.88167",
+            "longitude": "-8.19583"
+        },
+        {
+            "city": "Shannon",
+            "region": "M",
+            "country": "IE",
+            "latitude": "52.70389",
+            "longitude": "-8.86417"
+        },
+        {
+            "city": "Kilcormac",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.17417",
+            "longitude": "-7.72556"
+        },
+        {
+            "city": "Sandyford",
+            "region": "L",
+            "country": "IE",
+            "latitude": "53.2747",
+            "longitude": "-6.2253"
+        },
+        {
+            "city": "Charlesland",
+            "region": "",
+            "country": "IE",
+            "latitude": "53.12771",
+            "longitude": "-6.06347"
+        },
+        {
+            "city": "Moyross",
+            "region": "",
+            "country": "IE",
+            "latitude": "52.68198",
+            "longitude": "-8.63955"
+        }
+    ]
+}

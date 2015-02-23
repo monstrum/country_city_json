@@ -1,0 +1,3772 @@
+{
+    "country": "Belgium",
+    "code": "BE",
+    "cities": [
+        {
+            "city": "Zwijndrecht",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.21979",
+            "longitude": "4.32664"
+        },
+        {
+            "city": "Zwevegem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.81268",
+            "longitude": "3.33848"
+        },
+        {
+            "city": "Zutendaal",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.93306",
+            "longitude": "5.5753"
+        },
+        {
+            "city": "Zulte",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.91954",
+            "longitude": "3.44859"
+        },
+        {
+            "city": "Zuienkerke",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.26511",
+            "longitude": "3.15506"
+        },
+        {
+            "city": "Zoutleeuw",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.83316",
+            "longitude": "5.10376"
+        },
+        {
+            "city": "Zottegem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.86956",
+            "longitude": "3.81052"
+        },
+        {
+            "city": "Zonnebeke",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.8726",
+            "longitude": "2.98725"
+        },
+        {
+            "city": "Zonhoven",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.99064",
+            "longitude": "5.36819"
+        },
+        {
+            "city": "Zomergem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.11994",
+            "longitude": "3.56496"
+        },
+        {
+            "city": "Zoersel",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.26825",
+            "longitude": "4.71296"
+        },
+        {
+            "city": "Zingem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.90409",
+            "longitude": "3.65305"
+        },
+        {
+            "city": "Zemst",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.98318",
+            "longitude": "4.46079"
+        },
+        {
+            "city": "Zelzate",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.18963",
+            "longitude": "3.80777"
+        },
+        {
+            "city": "Zele",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.06566",
+            "longitude": "4.0403"
+        },
+        {
+            "city": "Zeebrugge",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.32902",
+            "longitude": "3.18188"
+        },
+        {
+            "city": "Zedelgem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.14236",
+            "longitude": "3.1368"
+        },
+        {
+            "city": "Zaventem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.88365",
+            "longitude": "4.47298"
+        },
+        {
+            "city": "Zandhoven",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.21488",
+            "longitude": "4.66164"
+        },
+        {
+            "city": "Yvoir",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.3279",
+            "longitude": "4.88059"
+        },
+        {
+            "city": "Wuustwezel",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.39214",
+            "longitude": "4.59546"
+        },
+        {
+            "city": "Wommelgem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.20452",
+            "longitude": "4.5225"
+        },
+        {
+            "city": "Wingene",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.05782",
+            "longitude": "3.27359"
+        },
+        {
+            "city": "Willebroek",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.06041",
+            "longitude": "4.36019"
+        },
+        {
+            "city": "Wijnegem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.22787",
+            "longitude": "4.51895"
+        },
+        {
+            "city": "Wielsbeke",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.9",
+            "longitude": "3.36667"
+        },
+        {
+            "city": "Wichelen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.00526",
+            "longitude": "3.97683"
+        },
+        {
+            "city": "Wezembeek-Oppem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.8395",
+            "longitude": "4.49427"
+        },
+        {
+            "city": "Wevelgem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.8",
+            "longitude": "3.16667"
+        },
+        {
+            "city": "Wetteren",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.00526",
+            "longitude": "3.88341"
+        },
+        {
+            "city": "Westerlo",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.09049",
+            "longitude": "4.91544"
+        },
+        {
+            "city": "Wervik",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.78069",
+            "longitude": "3.03854"
+        },
+        {
+            "city": "Wenduine",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.2983",
+            "longitude": "3.08213"
+        },
+        {
+            "city": "Wemmel",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.90812",
+            "longitude": "4.30613"
+        },
+        {
+            "city": "Wellin",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.08133",
+            "longitude": "5.11413"
+        },
+        {
+            "city": "Wellen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.84096",
+            "longitude": "5.33867"
+        },
+        {
+            "city": "Welkenraedt",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.6605",
+            "longitude": "5.97034"
+        },
+        {
+            "city": "Wavre",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.71717",
+            "longitude": "4.60138"
+        },
+        {
+            "city": "Waterloo",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.71255",
+            "longitude": "4.4014"
+        },
+        {
+            "city": "Wasseiges",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.62186",
+            "longitude": "5.00528"
+        },
+        {
+            "city": "Waremme",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.6976",
+            "longitude": "5.25524"
+        },
+        {
+            "city": "Waregem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.88898",
+            "longitude": "3.42756"
+        },
+        {
+            "city": "Wanze",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.53907",
+            "longitude": "5.20846"
+        },
+        {
+            "city": "Walhain-Saint-Paul",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.62627",
+            "longitude": "4.69837"
+        },
+        {
+            "city": "Walcourt",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.25401",
+            "longitude": "4.43796"
+        },
+        {
+            "city": "Waimes",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.41488",
+            "longitude": "6.11207"
+        },
+        {
+            "city": "Wachtebeke",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.16852",
+            "longitude": "3.87183"
+        },
+        {
+            "city": "Waasmunster",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.10572",
+            "longitude": "4.08573"
+        },
+        {
+            "city": "Waarschoot",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.1525",
+            "longitude": "3.605"
+        },
+        {
+            "city": "Vosselaar",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.30856",
+            "longitude": "4.8896"
+        },
+        {
+            "city": "Vorselaar",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.20243",
+            "longitude": "4.77259"
+        },
+        {
+            "city": "Vis\u00e9",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.7376",
+            "longitude": "5.69907"
+        },
+        {
+            "city": "Virton",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.56824",
+            "longitude": "5.53259"
+        },
+        {
+            "city": "Vilvoorde",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.92814",
+            "longitude": "4.42938"
+        },
+        {
+            "city": "Villers-le-Bouillet",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.57708",
+            "longitude": "5.25945"
+        },
+        {
+            "city": "Villers-la-Ville",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.56667",
+            "longitude": "4.51667"
+        },
+        {
+            "city": "Vielsalm",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.28472",
+            "longitude": "5.91861"
+        },
+        {
+            "city": "Veurne",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.07231",
+            "longitude": "2.66238"
+        },
+        {
+            "city": "Verviers",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.58907",
+            "longitude": "5.86241"
+        },
+        {
+            "city": "Verlaine",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.60743",
+            "longitude": "5.3174"
+        },
+        {
+            "city": "Vaux-sur-S\u00fbre",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.90111",
+            "longitude": "5.56553"
+        },
+        {
+            "city": "Turnhout",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.32254",
+            "longitude": "4.94471"
+        },
+        {
+            "city": "Tubize",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.69059",
+            "longitude": "4.2009"
+        },
+        {
+            "city": "Trooz",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.57026",
+            "longitude": "5.69521"
+        },
+        {
+            "city": "Trois-Ponts",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.37128",
+            "longitude": "5.87146"
+        },
+        {
+            "city": "Tremelo",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.99231",
+            "longitude": "4.70807"
+        },
+        {
+            "city": "Tournai",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.60715",
+            "longitude": "3.38932"
+        },
+        {
+            "city": "Torhout",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.0656",
+            "longitude": "3.10085"
+        },
+        {
+            "city": "Tongeren",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.78054",
+            "longitude": "5.46484"
+        },
+        {
+            "city": "Tintigny",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.68326",
+            "longitude": "5.51349"
+        },
+        {
+            "city": "Tinlot",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.47493",
+            "longitude": "5.37755"
+        },
+        {
+            "city": "Tienen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.80744",
+            "longitude": "4.9378"
+        },
+        {
+            "city": "Tielt",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.99931",
+            "longitude": "3.32707"
+        },
+        {
+            "city": "Thuin",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.33933",
+            "longitude": "4.28604"
+        },
+        {
+            "city": "Theux",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.53323",
+            "longitude": "5.81245"
+        },
+        {
+            "city": "Tessenderlo",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.06513",
+            "longitude": "5.08856"
+        },
+        {
+            "city": "Tervuren",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.82372",
+            "longitude": "4.51418"
+        },
+        {
+            "city": "Ternat",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.86654",
+            "longitude": "4.16682"
+        },
+        {
+            "city": "Tenneville",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.09501",
+            "longitude": "5.52894"
+        },
+        {
+            "city": "Temse",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.12794",
+            "longitude": "4.21372"
+        },
+        {
+            "city": "Tellin",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.08038",
+            "longitude": "5.21638"
+        },
+        {
+            "city": "Stoumont",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.40667",
+            "longitude": "5.80838"
+        },
+        {
+            "city": "Stekene",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.2099",
+            "longitude": "4.0365"
+        },
+        {
+            "city": "Steenokkerzeel",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.91851",
+            "longitude": "4.50989"
+        },
+        {
+            "city": "Stavelot",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.395",
+            "longitude": "5.93124"
+        },
+        {
+            "city": "Staden",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.97456",
+            "longitude": "3.01468"
+        },
+        {
+            "city": "Stabroek",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.33189",
+            "longitude": "4.37127"
+        },
+        {
+            "city": "Sprimont",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.50922",
+            "longitude": "5.6595"
+        },
+        {
+            "city": "Spa",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.48375",
+            "longitude": "5.86674"
+        },
+        {
+            "city": "Soumagne",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.61385",
+            "longitude": "5.74679"
+        },
+        {
+            "city": "Somme-Leuze",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.33699",
+            "longitude": "5.36705"
+        },
+        {
+            "city": "Sombreffe",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.52865",
+            "longitude": "4.60087"
+        },
+        {
+            "city": "Soignies",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.57904",
+            "longitude": "4.07129"
+        },
+        {
+            "city": "Sint-Truiden",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.81679",
+            "longitude": "5.18647"
+        },
+        {
+            "city": "Sint-Pieters-Leeuw",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.77926",
+            "longitude": "4.24355"
+        },
+        {
+            "city": "Sint-Niklaas",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.16509",
+            "longitude": "4.1437"
+        },
+        {
+            "city": "Sint-Martens-Lennik",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.81158",
+            "longitude": "4.16965"
+        },
+        {
+            "city": "Sint-Martens-Latem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.01459",
+            "longitude": "3.63779"
+        },
+        {
+            "city": "Sint-Maria-Lierde",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.82172",
+            "longitude": "3.84814"
+        },
+        {
+            "city": "Sint-Lievens-Houtem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.9197",
+            "longitude": "3.86225"
+        },
+        {
+            "city": "Sint-Laureins",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.24202",
+            "longitude": "3.52441"
+        },
+        {
+            "city": "Sint-Katelijne-Waver",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.06691",
+            "longitude": "4.53469"
+        },
+        {
+            "city": "Sint-Gillis-Waas",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.21914",
+            "longitude": "4.12374"
+        },
+        {
+            "city": "Sint-Genesius-Rode",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.74645",
+            "longitude": "4.35754"
+        },
+        {
+            "city": "Sint-Amands",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.05645",
+            "longitude": "4.20957"
+        },
+        {
+            "city": "Silly",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.64877",
+            "longitude": "3.92363"
+        },
+        {
+            "city": "Seraing",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.58362",
+            "longitude": "5.50115"
+        },
+        {
+            "city": "Seneffe",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.53134",
+            "longitude": "4.26301"
+        },
+        {
+            "city": "Schoten",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.25251",
+            "longitude": "4.50268"
+        },
+        {
+            "city": "Schilde",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.24107",
+            "longitude": "4.58336"
+        },
+        {
+            "city": "Schelle",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.12615",
+            "longitude": "4.34114"
+        },
+        {
+            "city": "Saint-Yvon",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.74335",
+            "longitude": "2.90992"
+        },
+        {
+            "city": "Saint-Vith",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.28146",
+            "longitude": "6.12724"
+        },
+        {
+            "city": "Saint-Nicolas",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.62837",
+            "longitude": "5.53243"
+        },
+        {
+            "city": "Saint-L\u00e9ger",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.61196",
+            "longitude": "5.65688"
+        },
+        {
+            "city": "Saint-Hubert",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.02668",
+            "longitude": "5.37401"
+        },
+        {
+            "city": "Saint-Ghislain",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.44816",
+            "longitude": "3.81886"
+        },
+        {
+            "city": "Sainte-Ode",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.08333",
+            "longitude": "5.53333"
+        },
+        {
+            "city": "Rumst",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.08153",
+            "longitude": "4.42217"
+        },
+        {
+            "city": "Rumes",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.5545",
+            "longitude": "3.30535"
+        },
+        {
+            "city": "Ruiselede",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.04039",
+            "longitude": "3.39416"
+        },
+        {
+            "city": "Rouvroy",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.53771",
+            "longitude": "5.49031"
+        },
+        {
+            "city": "Rotselaar",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.95302",
+            "longitude": "4.71665"
+        },
+        {
+            "city": "Ronse",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.74574",
+            "longitude": "3.6005"
+        },
+        {
+            "city": "Roeulx",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.50365",
+            "longitude": "4.11163"
+        },
+        {
+            "city": "Roeselare",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.94653",
+            "longitude": "3.12269"
+        },
+        {
+            "city": "Rochefort",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.1631",
+            "longitude": "5.2216"
+        },
+        {
+            "city": "Rixensart",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.71229",
+            "longitude": "4.52529"
+        },
+        {
+            "city": "Rijkevorsel",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.34795",
+            "longitude": "4.76053"
+        },
+        {
+            "city": "Riemst",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.80995",
+            "longitude": "5.60131"
+        },
+        {
+            "city": "Retie",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.26652",
+            "longitude": "5.08242"
+        },
+        {
+            "city": "Rendeux",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.23422",
+            "longitude": "5.50414"
+        },
+        {
+            "city": "Remicourt",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.68069",
+            "longitude": "5.32785"
+        },
+        {
+            "city": "Rebecq-Rognon",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.65147",
+            "longitude": "4.10683"
+        },
+        {
+            "city": "Ravels",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.37274",
+            "longitude": "4.9921"
+        },
+        {
+            "city": "Ranst",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.18983",
+            "longitude": "4.56533"
+        },
+        {
+            "city": "Ramillies",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.63395",
+            "longitude": "4.90119"
+        },
+        {
+            "city": "Raeren",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.6672",
+            "longitude": "6.11535"
+        },
+        {
+            "city": "Qui\u00e9vrain",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.40737",
+            "longitude": "3.68351"
+        },
+        {
+            "city": "Qu\u00e9vy-le-Petit",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.36879",
+            "longitude": "3.93602"
+        },
+        {
+            "city": "Quaregnon",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.44067",
+            "longitude": "3.8653"
+        },
+        {
+            "city": "Puurs",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.07409",
+            "longitude": "4.28844"
+        },
+        {
+            "city": "Putte",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.05337",
+            "longitude": "4.63263"
+        },
+        {
+            "city": "Profondeville",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.37581",
+            "longitude": "4.86506"
+        },
+        {
+            "city": "Poperinge",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.85386",
+            "longitude": "2.72659"
+        },
+        {
+            "city": "Pont-\u00e0-Celles",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.50518",
+            "longitude": "4.36887"
+        },
+        {
+            "city": "Plombi\u00e8res",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.73656",
+            "longitude": "5.95922"
+        },
+        {
+            "city": "Pittem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.99279",
+            "longitude": "3.26317"
+        },
+        {
+            "city": "Philippeville",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.19612",
+            "longitude": "4.54374"
+        },
+        {
+            "city": "Perwez",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.62426",
+            "longitude": "4.81354"
+        },
+        {
+            "city": "P\u00e9ruwelz",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.50819",
+            "longitude": "3.59373"
+        },
+        {
+            "city": "Perre",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.88914",
+            "longitude": "3.86098"
+        },
+        {
+            "city": "Pepinster",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.57375",
+            "longitude": "5.8049"
+        },
+        {
+            "city": "Pepingen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.75922",
+            "longitude": "4.15983"
+        },
+        {
+            "city": "Peer",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.1303",
+            "longitude": "5.45952"
+        },
+        {
+            "city": "Pecq",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.68619",
+            "longitude": "3.33789"
+        },
+        {
+            "city": "Paliseul",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.90395",
+            "longitude": "5.13537"
+        },
+        {
+            "city": "Overpelt",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.21038",
+            "longitude": "5.41557"
+        },
+        {
+            "city": "Overijse",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.77436",
+            "longitude": "4.53461"
+        },
+        {
+            "city": "Oupeye",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.71184",
+            "longitude": "5.6468"
+        },
+        {
+            "city": "Ouffet",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.4387",
+            "longitude": "5.4657"
+        },
+        {
+            "city": "Oud-Turnhout",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.31978",
+            "longitude": "4.9841"
+        },
+        {
+            "city": "Oud-Heverlee",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.83522",
+            "longitude": "4.66421"
+        },
+        {
+            "city": "Oudenburg",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.18489",
+            "longitude": "3.00035"
+        },
+        {
+            "city": "Oudenaarde",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.85168",
+            "longitude": "3.60891"
+        },
+        {
+            "city": "Ottignies",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.66535",
+            "longitude": "4.56679"
+        },
+        {
+            "city": "Oreye",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.71749",
+            "longitude": "5.3488"
+        },
+        {
+            "city": "Opwijk",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.96724",
+            "longitude": "4.18442"
+        },
+        {
+            "city": "Opglabbeek",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.04258",
+            "longitude": "5.58346"
+        },
+        {
+            "city": "Oostrozebeke",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.92093",
+            "longitude": "3.33799"
+        },
+        {
+            "city": "Oostkamp",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.15432",
+            "longitude": "3.23128"
+        },
+        {
+            "city": "Oosterzele",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.95261",
+            "longitude": "3.79826"
+        },
+        {
+            "city": "Oostende",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.22339",
+            "longitude": "2.91185"
+        },
+        {
+            "city": "Onhaye",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.24148",
+            "longitude": "4.84069"
+        },
+        {
+            "city": "Olne",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.58994",
+            "longitude": "5.74662"
+        },
+        {
+            "city": "Olen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.14391",
+            "longitude": "4.8598"
+        },
+        {
+            "city": "Ohey",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.4357",
+            "longitude": "5.12375"
+        },
+        {
+            "city": "Nivelles",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.59833",
+            "longitude": "4.32848"
+        },
+        {
+            "city": "Ninove",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.82776",
+            "longitude": "4.02657"
+        },
+        {
+            "city": "Nijlen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.16096",
+            "longitude": "4.67008"
+        },
+        {
+            "city": "Nieuwpoort",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.13008",
+            "longitude": "2.75134"
+        },
+        {
+            "city": "Nieuwerkerken",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.8638",
+            "longitude": "5.19467"
+        },
+        {
+            "city": "Niel",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.11096",
+            "longitude": "4.33428"
+        },
+        {
+            "city": "Nevele",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.03531",
+            "longitude": "3.54574"
+        },
+        {
+            "city": "Neufch\u00e2teau",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.84074",
+            "longitude": "5.43535"
+        },
+        {
+            "city": "Neerpelt",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.22807",
+            "longitude": "5.4427"
+        },
+        {
+            "city": "Nazareth",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.95686",
+            "longitude": "3.59426"
+        },
+        {
+            "city": "Nassogne",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.12849",
+            "longitude": "5.34274"
+        },
+        {
+            "city": "Nandrin",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.50674",
+            "longitude": "5.41905"
+        },
+        {
+            "city": "Namur",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.4669",
+            "longitude": "4.86746"
+        },
+        {
+            "city": "Musson",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.55681",
+            "longitude": "5.69952"
+        },
+        {
+            "city": "Mouscron",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.74497",
+            "longitude": "3.20639"
+        },
+        {
+            "city": "Mortsel",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.16697",
+            "longitude": "4.45127"
+        },
+        {
+            "city": "Morlanwelz-Mariemont",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.45502",
+            "longitude": "4.24519"
+        },
+        {
+            "city": "Moorslede",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.8919",
+            "longitude": "3.06117"
+        },
+        {
+            "city": "Mont-Saint-Guibert",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.63427",
+            "longitude": "4.61061"
+        },
+        {
+            "city": "Mons",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.45413",
+            "longitude": "3.95229"
+        },
+        {
+            "city": "Momignies",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.02968",
+            "longitude": "4.16477"
+        },
+        {
+            "city": "Mol",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.19188",
+            "longitude": "5.11662"
+        },
+        {
+            "city": "Moerbeke",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.17409",
+            "longitude": "3.93001"
+        },
+        {
+            "city": "Modave",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.44614",
+            "longitude": "5.29532"
+        },
+        {
+            "city": "Middelkerke",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.18532",
+            "longitude": "2.82077"
+        },
+        {
+            "city": "Meulebeke",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.95136",
+            "longitude": "3.28804"
+        },
+        {
+            "city": "Mettet",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.32119",
+            "longitude": "4.66232"
+        },
+        {
+            "city": "Messancy",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.592",
+            "longitude": "5.81878"
+        },
+        {
+            "city": "Merksplas",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.35851",
+            "longitude": "4.86513"
+        },
+        {
+            "city": "Merelbeke",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.99447",
+            "longitude": "3.74621"
+        },
+        {
+            "city": "Merchtem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.95129",
+            "longitude": "4.23197"
+        },
+        {
+            "city": "Merbes-le-Ch\u00e2teau",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.3245",
+            "longitude": "4.1649"
+        },
+        {
+            "city": "Menen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.79722",
+            "longitude": "3.12245"
+        },
+        {
+            "city": "Melle",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.00232",
+            "longitude": "3.80526"
+        },
+        {
+            "city": "Meix-devant-Virton",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.60581",
+            "longitude": "5.48045"
+        },
+        {
+            "city": "Meise",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.93934",
+            "longitude": "4.32655"
+        },
+        {
+            "city": "Meerhout",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.1321",
+            "longitude": "5.07842"
+        },
+        {
+            "city": "Mechelen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.02574",
+            "longitude": "4.47762"
+        },
+        {
+            "city": "Martelange",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.83195",
+            "longitude": "5.73655"
+        },
+        {
+            "city": "Marchin",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.46707",
+            "longitude": "5.2428"
+        },
+        {
+            "city": "Marche-en-Famenne",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.22678",
+            "longitude": "5.34416"
+        },
+        {
+            "city": "Manhay",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.29219",
+            "longitude": "5.67562"
+        },
+        {
+            "city": "Manage",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.50312",
+            "longitude": "4.23589"
+        },
+        {
+            "city": "Malm\u00e9dy",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.42686",
+            "longitude": "6.02794"
+        },
+        {
+            "city": "Maldegem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.20737",
+            "longitude": "3.44511"
+        },
+        {
+            "city": "Machelen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.91061",
+            "longitude": "4.44174"
+        },
+        {
+            "city": "Maasmechelen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.96545",
+            "longitude": "5.69452"
+        },
+        {
+            "city": "Maaseik",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.09802",
+            "longitude": "5.78379"
+        },
+        {
+            "city": "Lummen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.98772",
+            "longitude": "5.19121"
+        },
+        {
+            "city": "Lubbeek",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.88278",
+            "longitude": "4.83896"
+        },
+        {
+            "city": "Lovendegem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.10168",
+            "longitude": "3.61298"
+        },
+        {
+            "city": "Louvain-la-Neuve",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.66829",
+            "longitude": "4.61443"
+        },
+        {
+            "city": "Lontzen",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.68126",
+            "longitude": "6.00712"
+        },
+        {
+            "city": "Londerzeel",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.00468",
+            "longitude": "4.30304"
+        },
+        {
+            "city": "Lommel",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.23074",
+            "longitude": "5.31349"
+        },
+        {
+            "city": "Lokeren",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.10364",
+            "longitude": "3.99339"
+        },
+        {
+            "city": "Lochristi",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.09644",
+            "longitude": "3.83194"
+        },
+        {
+            "city": "Lobbes",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.3522",
+            "longitude": "4.26836"
+        },
+        {
+            "city": "Lint",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.12708",
+            "longitude": "4.49669"
+        },
+        {
+            "city": "Linkebeek",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.76781",
+            "longitude": "4.33688"
+        },
+        {
+            "city": "Lincent",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.71222",
+            "longitude": "5.03654"
+        },
+        {
+            "city": "Limbourg",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.61222",
+            "longitude": "5.9412"
+        },
+        {
+            "city": "Lille",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.24197",
+            "longitude": "4.82312"
+        },
+        {
+            "city": "Lier",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.13128",
+            "longitude": "4.57042"
+        },
+        {
+            "city": "Lierneux",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.28477",
+            "longitude": "5.79236"
+        },
+        {
+            "city": "Li\u00e8ge",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.63373",
+            "longitude": "5.56749"
+        },
+        {
+            "city": "Liedekerke",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.86892",
+            "longitude": "4.08743"
+        },
+        {
+            "city": "Lichtervelde",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.03333",
+            "longitude": "3.15"
+        },
+        {
+            "city": "Libin",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.98107",
+            "longitude": "5.25612"
+        },
+        {
+            "city": "Leuven",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.87959",
+            "longitude": "4.70093"
+        },
+        {
+            "city": "Lessines",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.71104",
+            "longitude": "3.83579"
+        },
+        {
+            "city": "Leopoldsburg",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.11667",
+            "longitude": "5.25"
+        },
+        {
+            "city": "Lens",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.55696",
+            "longitude": "3.89946"
+        },
+        {
+            "city": "Lendelede",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.88626",
+            "longitude": "3.23747"
+        },
+        {
+            "city": "L\u00e9glise",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.79985",
+            "longitude": "5.53652"
+        },
+        {
+            "city": "Ledegem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.85785",
+            "longitude": "3.12409"
+        },
+        {
+            "city": "Ledeberg",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.03859",
+            "longitude": "3.74458"
+        },
+        {
+            "city": "Ledeberg",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.84356",
+            "longitude": "4.09112"
+        },
+        {
+            "city": "Lede",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.96626",
+            "longitude": "3.98594"
+        },
+        {
+            "city": "Lebbeke",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.00464",
+            "longitude": "4.13457"
+        },
+        {
+            "city": "La Roche-en-Ardenne",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.18361",
+            "longitude": "5.57547"
+        },
+        {
+            "city": "Landen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.75266",
+            "longitude": "5.082"
+        },
+        {
+            "city": "Lanaken",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.89318",
+            "longitude": "5.6468"
+        },
+        {
+            "city": "La Louvi\u00e8re",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.48657",
+            "longitude": "4.18785"
+        },
+        {
+            "city": "La Hulpe",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.73091",
+            "longitude": "4.48577"
+        },
+        {
+            "city": "La Calamine",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.71809",
+            "longitude": "6.01107"
+        },
+        {
+            "city": "La Bruy\u00e8re",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.39478",
+            "longitude": "4.61444"
+        },
+        {
+            "city": "Laarne",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.03078",
+            "longitude": "3.85077"
+        },
+        {
+            "city": "Kuurne",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.85143",
+            "longitude": "3.2824"
+        },
+        {
+            "city": "Kruishoutem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.90168",
+            "longitude": "3.52588"
+        },
+        {
+            "city": "Kruibeke",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.17048",
+            "longitude": "4.31444"
+        },
+        {
+            "city": "Kraainem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.86155",
+            "longitude": "4.46946"
+        },
+        {
+            "city": "Kortrijk",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.82803",
+            "longitude": "3.26487"
+        },
+        {
+            "city": "Kortessem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.8589",
+            "longitude": "5.38974"
+        },
+        {
+            "city": "Kortenberg",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.88982",
+            "longitude": "4.54353"
+        },
+        {
+            "city": "Kortenaken",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.90862",
+            "longitude": "5.05968"
+        },
+        {
+            "city": "Kortemark",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.02951",
+            "longitude": "3.04112"
+        },
+        {
+            "city": "Kontich",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.13213",
+            "longitude": "4.44706"
+        },
+        {
+            "city": "Koksijde",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.11642",
+            "longitude": "2.63772"
+        },
+        {
+            "city": "Koekelare",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.09047",
+            "longitude": "2.9783"
+        },
+        {
+            "city": "Knokke-Heist",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.35",
+            "longitude": "3.26667"
+        },
+        {
+            "city": "Knesselare",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.13932",
+            "longitude": "3.41282"
+        },
+        {
+            "city": "Kinrooi",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.14543",
+            "longitude": "5.74207"
+        },
+        {
+            "city": "Keerbergen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.00295",
+            "longitude": "4.63434"
+        },
+        {
+            "city": "Kasterlee",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.24118",
+            "longitude": "4.96651"
+        },
+        {
+            "city": "Kaprijke",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.2172",
+            "longitude": "3.61519"
+        },
+        {
+            "city": "Kapelle-op-den-Bos",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.0097",
+            "longitude": "4.36303"
+        },
+        {
+            "city": "Kapellen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.31377",
+            "longitude": "4.43539"
+        },
+        {
+            "city": "Kampenhout",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.9421",
+            "longitude": "4.55103"
+        },
+        {
+            "city": "Kalmthout",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.38442",
+            "longitude": "4.47556"
+        },
+        {
+            "city": "Jurbise",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.531",
+            "longitude": "3.90942"
+        },
+        {
+            "city": "Juprelle",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.7076",
+            "longitude": "5.53127"
+        },
+        {
+            "city": "Jodoigne",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.72357",
+            "longitude": "4.86914"
+        },
+        {
+            "city": "Jalhay",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.55876",
+            "longitude": "5.96764"
+        },
+        {
+            "city": "Jabbeke",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.18185",
+            "longitude": "3.08935"
+        },
+        {
+            "city": "Izegem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.91396",
+            "longitude": "3.21378"
+        },
+        {
+            "city": "Ittre",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.64396",
+            "longitude": "4.26476"
+        },
+        {
+            "city": "Ingelmunster",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.92081",
+            "longitude": "3.25571"
+        },
+        {
+            "city": "Incourt",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.69151",
+            "longitude": "4.79816"
+        },
+        {
+            "city": "Ieper",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.85114",
+            "longitude": "2.88569"
+        },
+        {
+            "city": "Ichtegem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.09572",
+            "longitude": "3.01549"
+        },
+        {
+            "city": "Huy",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.51894",
+            "longitude": "5.23284"
+        },
+        {
+            "city": "Hulshout",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.07451",
+            "longitude": "4.79081"
+        },
+        {
+            "city": "Huldenberg",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.78939",
+            "longitude": "4.5831"
+        },
+        {
+            "city": "Hove",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.15446",
+            "longitude": "4.4707"
+        },
+        {
+            "city": "Houyet",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.18619",
+            "longitude": "5.00762"
+        },
+        {
+            "city": "Houthulst",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.97824",
+            "longitude": "2.9505"
+        },
+        {
+            "city": "Houthalen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.03427",
+            "longitude": "5.37429"
+        },
+        {
+            "city": "Houffalize",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.13343",
+            "longitude": "5.78876"
+        },
+        {
+            "city": "Hotton",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.26742",
+            "longitude": "5.44609"
+        },
+        {
+            "city": "Hoogstraten",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.40029",
+            "longitude": "4.76034"
+        },
+        {
+            "city": "Hooglede",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.98333",
+            "longitude": "3.08333"
+        },
+        {
+            "city": "Holsbeek",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.92097",
+            "longitude": "4.75747"
+        },
+        {
+            "city": "Hoeselt",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.84714",
+            "longitude": "5.48767"
+        },
+        {
+            "city": "Hoeilaart",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.7673",
+            "longitude": "4.46835"
+        },
+        {
+            "city": "Hoegaarden",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.7756",
+            "longitude": "4.88952"
+        },
+        {
+            "city": "Hoboken",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.17611",
+            "longitude": "4.34844"
+        },
+        {
+            "city": "Heusden",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.03664",
+            "longitude": "5.28013"
+        },
+        {
+            "city": "Herzele",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.88681",
+            "longitude": "3.89014"
+        },
+        {
+            "city": "Herve",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.64083",
+            "longitude": "5.79353"
+        },
+        {
+            "city": "Herstal",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.66415",
+            "longitude": "5.62346"
+        },
+        {
+            "city": "Herselt",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.05159",
+            "longitude": "4.88231"
+        },
+        {
+            "city": "H\u00e9ron",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.54731",
+            "longitude": "5.09774"
+        },
+        {
+            "city": "Herne",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.72423",
+            "longitude": "4.03481"
+        },
+        {
+            "city": "Herk-de-Stad",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.94013",
+            "longitude": "5.16636"
+        },
+        {
+            "city": "Herenthout",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.1401",
+            "longitude": "4.75572"
+        },
+        {
+            "city": "Herentals",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.17655",
+            "longitude": "4.83248"
+        },
+        {
+            "city": "Herent",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.90861",
+            "longitude": "4.67056"
+        },
+        {
+            "city": "Herbeumont",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.78086",
+            "longitude": "5.2358"
+        },
+        {
+            "city": "Hensies",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.43263",
+            "longitude": "3.68411"
+        },
+        {
+            "city": "Hemiksem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.14484",
+            "longitude": "4.33874"
+        },
+        {
+            "city": "Helchteren",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.05591",
+            "longitude": "5.38244"
+        },
+        {
+            "city": "Heist-op-den-Berg",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.07537",
+            "longitude": "4.72827"
+        },
+        {
+            "city": "Heers",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.75383",
+            "longitude": "5.3021"
+        },
+        {
+            "city": "Havelange",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.38931",
+            "longitude": "5.23816"
+        },
+        {
+            "city": "Hasti\u00e8re-Lavaux",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.21849",
+            "longitude": "4.82446"
+        },
+        {
+            "city": "Hasselt",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.93106",
+            "longitude": "5.33781"
+        },
+        {
+            "city": "Harelbeke",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.85343",
+            "longitude": "3.30935"
+        },
+        {
+            "city": "Hannut",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.67142",
+            "longitude": "5.07898"
+        },
+        {
+            "city": "Hamois",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.3402",
+            "longitude": "5.15619"
+        },
+        {
+            "city": "Hamoir",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.42675",
+            "longitude": "5.53304"
+        },
+        {
+            "city": "Hamme",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.09822",
+            "longitude": "4.13705"
+        },
+        {
+            "city": "Halle",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.73385",
+            "longitude": "4.23454"
+        },
+        {
+            "city": "Halen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.94837",
+            "longitude": "5.11096"
+        },
+        {
+            "city": "Habay-la-Vieille",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.72329",
+            "longitude": "5.61999"
+        },
+        {
+            "city": "Haaltert",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.90634",
+            "longitude": "4.00093"
+        },
+        {
+            "city": "Haacht",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.97737",
+            "longitude": "4.63777"
+        },
+        {
+            "city": "Grobbendonk",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.19043",
+            "longitude": "4.73562"
+        },
+        {
+            "city": "Grimbergen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.93409",
+            "longitude": "4.37213"
+        },
+        {
+            "city": "Grez-Doiceau",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.73901",
+            "longitude": "4.69829"
+        },
+        {
+            "city": "Gouvy",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.186",
+            "longitude": "5.93918"
+        },
+        {
+            "city": "Gooik",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.79443",
+            "longitude": "4.11378"
+        },
+        {
+            "city": "Glabbeek-Zuurbemde",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.87348",
+            "longitude": "4.94442"
+        },
+        {
+            "city": "Gistel",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.15612",
+            "longitude": "2.96388"
+        },
+        {
+            "city": "Gingelom",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.74792",
+            "longitude": "5.13422"
+        },
+        {
+            "city": "Gesves",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.40146",
+            "longitude": "5.07457"
+        },
+        {
+            "city": "Gerpinnes",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.33789",
+            "longitude": "4.52731"
+        },
+        {
+            "city": "Geraardsbergen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.77343",
+            "longitude": "3.88223"
+        },
+        {
+            "city": "Gent",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.05",
+            "longitude": "3.71667"
+        },
+        {
+            "city": "Genk",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.965",
+            "longitude": "5.50082"
+        },
+        {
+            "city": "Genappe",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.61173",
+            "longitude": "4.45152"
+        },
+        {
+            "city": "Gembloux",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.56149",
+            "longitude": "4.69889"
+        },
+        {
+            "city": "Geetbets",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.89431",
+            "longitude": "5.11199"
+        },
+        {
+            "city": "Geer",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.6699",
+            "longitude": "5.17364"
+        },
+        {
+            "city": "Geel",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.16557",
+            "longitude": "4.98917"
+        },
+        {
+            "city": "Gedinne",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.98037",
+            "longitude": "4.93674"
+        },
+        {
+            "city": "Gavere",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.92917",
+            "longitude": "3.66184"
+        },
+        {
+            "city": "Galmaarden",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.75389",
+            "longitude": "3.97121"
+        },
+        {
+            "city": "Froidchapelle",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.15106",
+            "longitude": "4.32742"
+        },
+        {
+            "city": "Frasnes-lez-Buissenal",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.66783",
+            "longitude": "3.62047"
+        },
+        {
+            "city": "Frameries",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.40578",
+            "longitude": "3.89603"
+        },
+        {
+            "city": "Sint-Pieters-Voeren",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.73863",
+            "longitude": "5.82224"
+        },
+        {
+            "city": "Fosses-la-Ville",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.39517",
+            "longitude": "4.69623"
+        },
+        {
+            "city": "Florenville",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.69983",
+            "longitude": "5.3074"
+        },
+        {
+            "city": "Florennes",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.25127",
+            "longitude": "4.60636"
+        },
+        {
+            "city": "Floreffe",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.43452",
+            "longitude": "4.7596"
+        },
+        {
+            "city": "Flobecq",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.73733",
+            "longitude": "3.73876"
+        },
+        {
+            "city": "Fleurus",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.48351",
+            "longitude": "4.55006"
+        },
+        {
+            "city": "Fl\u00e9ron",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.61516",
+            "longitude": "5.68062"
+        },
+        {
+            "city": "Fl\u00e9malle-Haute",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.59994",
+            "longitude": "5.44471"
+        },
+        {
+            "city": "Fexhe-le-Haut-Clocher",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.6654",
+            "longitude": "5.39978"
+        },
+        {
+            "city": "Ferri\u00e8res",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.40157",
+            "longitude": "5.61092"
+        },
+        {
+            "city": "Fauvillers",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.85057",
+            "longitude": "5.66717"
+        },
+        {
+            "city": "Farciennes",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.43006",
+            "longitude": "4.54152"
+        },
+        {
+            "city": "Faimes",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.66252",
+            "longitude": "5.26005"
+        },
+        {
+            "city": "Evergem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.1053",
+            "longitude": "3.704"
+        },
+        {
+            "city": "Eupen",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.6279",
+            "longitude": "6.03647"
+        },
+        {
+            "city": "\u00c9talle",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.6764",
+            "longitude": "5.60201"
+        },
+        {
+            "city": "Estinnes-au-Val",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.41016",
+            "longitude": "4.10477"
+        },
+        {
+            "city": "Estaimpuis",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.70485",
+            "longitude": "3.26785"
+        },
+        {
+            "city": "Essen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.46272",
+            "longitude": "4.45393"
+        },
+        {
+            "city": "Esneux",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.53596",
+            "longitude": "5.56775"
+        },
+        {
+            "city": "Erquelinnes",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.30334",
+            "longitude": "4.10664"
+        },
+        {
+            "city": "\u00c9rez\u00e9e",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.29292",
+            "longitude": "5.55815"
+        },
+        {
+            "city": "Engis",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.58156",
+            "longitude": "5.39916"
+        },
+        {
+            "city": "Enghien",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.68373",
+            "longitude": "4.03284"
+        },
+        {
+            "city": "Ellezelles",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.73512",
+            "longitude": "3.67985"
+        },
+        {
+            "city": "\u00c9ghez\u00e9e",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.59076",
+            "longitude": "4.91175"
+        },
+        {
+            "city": "Eeklo",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.18703",
+            "longitude": "3.55654"
+        },
+        {
+            "city": "Edegem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.15662",
+            "longitude": "4.44504"
+        },
+        {
+            "city": "\u00c9caussinnes-d'Enghien",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.56822",
+            "longitude": "4.1658"
+        },
+        {
+            "city": "Durbuy",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.35291",
+            "longitude": "5.45631"
+        },
+        {
+            "city": "Duffel",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.09554",
+            "longitude": "4.50903"
+        },
+        {
+            "city": "Drogenbos",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.78733",
+            "longitude": "4.31471"
+        },
+        {
+            "city": "Dour",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.39583",
+            "longitude": "3.77792"
+        },
+        {
+            "city": "Donceel",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.64827",
+            "longitude": "5.32"
+        },
+        {
+            "city": "Doische",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.13356",
+            "longitude": "4.73545"
+        },
+        {
+            "city": "Dison",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.61004",
+            "longitude": "5.8534"
+        },
+        {
+            "city": "Dinant",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.25807",
+            "longitude": "4.91166"
+        },
+        {
+            "city": "Dilbeek",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.84799",
+            "longitude": "4.25972"
+        },
+        {
+            "city": "Diksmuide",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.03248",
+            "longitude": "2.86384"
+        },
+        {
+            "city": "Diest",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.98923",
+            "longitude": "5.05062"
+        },
+        {
+            "city": "Diepenbeek",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.90769",
+            "longitude": "5.41875"
+        },
+        {
+            "city": "Destelbergen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.05952",
+            "longitude": "3.79899"
+        },
+        {
+            "city": "Dessel",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.23855",
+            "longitude": "5.11448"
+        },
+        {
+            "city": "De Pinte",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.99339",
+            "longitude": "3.64747"
+        },
+        {
+            "city": "De Panne",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.09793",
+            "longitude": "2.59368"
+        },
+        {
+            "city": "Dentergem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.96429",
+            "longitude": "3.41617"
+        },
+        {
+            "city": "Dendermonde",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.02869",
+            "longitude": "4.10106"
+        },
+        {
+            "city": "Denderleeuw",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.88506",
+            "longitude": "4.07601"
+        },
+        {
+            "city": "Deinze",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.98175",
+            "longitude": "3.53096"
+        },
+        {
+            "city": "De Haan",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.27261",
+            "longitude": "3.03446"
+        },
+        {
+            "city": "Deerlijk",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.85337",
+            "longitude": "3.35416"
+        },
+        {
+            "city": "Daverdisse",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.02161",
+            "longitude": "5.11811"
+        },
+        {
+            "city": "Damme",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.25147",
+            "longitude": "3.28144"
+        },
+        {
+            "city": "Dalhem",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.71315",
+            "longitude": "5.72774"
+        },
+        {
+            "city": "Crisn\u00e9e",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.71703",
+            "longitude": "5.39802"
+        },
+        {
+            "city": "Couvin",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.05284",
+            "longitude": "4.49495"
+        },
+        {
+            "city": "Court-Saint-\u00c9tienne",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.63378",
+            "longitude": "4.56851"
+        },
+        {
+            "city": "Courcelles",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.46379",
+            "longitude": "4.3747"
+        },
+        {
+            "city": "Comblain-au-Pont",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.47488",
+            "longitude": "5.57711"
+        },
+        {
+            "city": "Colfontaine",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.4141",
+            "longitude": "3.85569"
+        },
+        {
+            "city": "Clavier",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.40069",
+            "longitude": "5.35154"
+        },
+        {
+            "city": "Ciney",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.29449",
+            "longitude": "5.10015"
+        },
+        {
+            "city": "Chiny",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.73833",
+            "longitude": "5.34104"
+        },
+        {
+            "city": "Chimay",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.04856",
+            "longitude": "4.31712"
+        },
+        {
+            "city": "Chi\u00e8vres",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.58787",
+            "longitude": "3.80711"
+        },
+        {
+            "city": "Chaumont-Gistoux",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.67753",
+            "longitude": "4.7212"
+        },
+        {
+            "city": "Chaudfontaine",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.5828",
+            "longitude": "5.6341"
+        },
+        {
+            "city": "Ch\u00e2telet",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.40338",
+            "longitude": "4.52826"
+        },
+        {
+            "city": "Chastre-Villeroux-Blanmont",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.60857",
+            "longitude": "4.64198"
+        },
+        {
+            "city": "Chasse Royale",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.42842",
+            "longitude": "3.95001"
+        },
+        {
+            "city": "Charleroi",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.41136",
+            "longitude": "4.44448"
+        },
+        {
+            "city": "Chapelle-lez-Herlaimont",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.4713",
+            "longitude": "4.28227"
+        },
+        {
+            "city": "Cerfontaine",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.17047",
+            "longitude": "4.41028"
+        },
+        {
+            "city": "Celles",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.71229",
+            "longitude": "3.45733"
+        },
+        {
+            "city": "Butgenbach",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.42689",
+            "longitude": "6.20504"
+        },
+        {
+            "city": "Burdinne",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.58454",
+            "longitude": "5.07663"
+        },
+        {
+            "city": "Bullange",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.40731",
+            "longitude": "6.25749"
+        },
+        {
+            "city": "Buggenhout",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.0159",
+            "longitude": "4.20173"
+        },
+        {
+            "city": "Brussels",
+            "region": "BRU",
+            "country": "BE",
+            "latitude": "50.85045",
+            "longitude": "4.34878"
+        },
+        {
+            "city": "Brunehault",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.50524",
+            "longitude": "4.43209"
+        },
+        {
+            "city": "Brugge",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.20892",
+            "longitude": "3.22424"
+        },
+        {
+            "city": "Brugelette",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.59577",
+            "longitude": "3.85363"
+        },
+        {
+            "city": "Bree",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.14152",
+            "longitude": "5.5969"
+        },
+        {
+            "city": "Bredene",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.23489",
+            "longitude": "2.97559"
+        },
+        {
+            "city": "Brecht",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.35024",
+            "longitude": "4.63829"
+        },
+        {
+            "city": "Brasschaat",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.2912",
+            "longitude": "4.49182"
+        },
+        {
+            "city": "Braives",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.61745",
+            "longitude": "5.13302"
+        },
+        {
+            "city": "Braine-le-Comte",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.60979",
+            "longitude": "4.14658"
+        },
+        {
+            "city": "Braine-le-Ch\u00e2teau",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.6799",
+            "longitude": "4.27385"
+        },
+        {
+            "city": "Braine-l'Alleud",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.68363",
+            "longitude": "4.36784"
+        },
+        {
+            "city": "Boutersem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.83511",
+            "longitude": "4.8345"
+        },
+        {
+            "city": "Boussu",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.43417",
+            "longitude": "3.7944"
+        },
+        {
+            "city": "Bouillon",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.79324",
+            "longitude": "5.06704"
+        },
+        {
+            "city": "Borsbeek",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.19661",
+            "longitude": "4.48543"
+        },
+        {
+            "city": "Bornem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.09716",
+            "longitude": "4.24364"
+        },
+        {
+            "city": "Borgloon",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.80505",
+            "longitude": "5.34366"
+        },
+        {
+            "city": "Boortmeerbeek",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.97929",
+            "longitude": "4.57443"
+        },
+        {
+            "city": "Boom",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.09242",
+            "longitude": "4.3717"
+        },
+        {
+            "city": "Bonheiden",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.02261",
+            "longitude": "4.54714"
+        },
+        {
+            "city": "Boechout",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.15959",
+            "longitude": "4.49195"
+        },
+        {
+            "city": "Bocholt",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.17337",
+            "longitude": "5.57994"
+        },
+        {
+            "city": "Bl\u00e9gny",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.67255",
+            "longitude": "5.72508"
+        },
+        {
+            "city": "Blankenberge",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.31306",
+            "longitude": "3.13227"
+        },
+        {
+            "city": "Binche",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.41155",
+            "longitude": "4.16469"
+        },
+        {
+            "city": "Bilzen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.87325",
+            "longitude": "5.5184"
+        },
+        {
+            "city": "Bi\u00e8vre",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.94086",
+            "longitude": "5.01592"
+        },
+        {
+            "city": "Bierbeek",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.82876",
+            "longitude": "4.75949"
+        },
+        {
+            "city": "Beyne-Heusay",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.62251",
+            "longitude": "5.66508"
+        },
+        {
+            "city": "Beveren",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.21187",
+            "longitude": "4.25633"
+        },
+        {
+            "city": "Bever",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.91667",
+            "longitude": "4.31667"
+        },
+        {
+            "city": "Bertrix",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.85596",
+            "longitude": "5.25539"
+        },
+        {
+            "city": "Bertogne",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.08501",
+            "longitude": "5.66839"
+        },
+        {
+            "city": "Bertem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.86403",
+            "longitude": "4.62918"
+        },
+        {
+            "city": "Bernissart",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.4746",
+            "longitude": "3.64961"
+        },
+        {
+            "city": "Berloz",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.69829",
+            "longitude": "5.21236"
+        },
+        {
+            "city": "Berlare",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.03333",
+            "longitude": "4"
+        },
+        {
+            "city": "Berlaar",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.1176",
+            "longitude": "4.65835"
+        },
+        {
+            "city": "Beringen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.04954",
+            "longitude": "5.22606"
+        },
+        {
+            "city": "Beloeil",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.55047",
+            "longitude": "3.73484"
+        },
+        {
+            "city": "Bekkevoort",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.94074",
+            "longitude": "4.969"
+        },
+        {
+            "city": "Begijnendijk",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.01942",
+            "longitude": "4.78377"
+        },
+        {
+            "city": "Beersel",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.76589",
+            "longitude": "4.3002"
+        },
+        {
+            "city": "Beerse",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.31927",
+            "longitude": "4.85304"
+        },
+        {
+            "city": "Beernem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.13981",
+            "longitude": "3.33896"
+        },
+        {
+            "city": "Beauvechain",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.78195",
+            "longitude": "4.7718"
+        },
+        {
+            "city": "Beauraing",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.11042",
+            "longitude": "4.95554"
+        },
+        {
+            "city": "Beaumont",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.23699",
+            "longitude": "4.23926"
+        },
+        {
+            "city": "Bastogne",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.00347",
+            "longitude": "5.71844"
+        },
+        {
+            "city": "Bassenge",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.75883",
+            "longitude": "5.60989"
+        },
+        {
+            "city": "Basse Lasne",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.69503",
+            "longitude": "4.49218"
+        },
+        {
+            "city": "Balen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.16837",
+            "longitude": "5.17027"
+        },
+        {
+            "city": "Baelen",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.63131",
+            "longitude": "5.97433"
+        },
+        {
+            "city": "Baarle-Hertog",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.40504",
+            "longitude": "4.89226"
+        },
+        {
+            "city": "Aywaille",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.47411",
+            "longitude": "5.67684"
+        },
+        {
+            "city": "Awans",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.66774",
+            "longitude": "5.46329"
+        },
+        {
+            "city": "Avelgem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.77618",
+            "longitude": "3.44502"
+        },
+        {
+            "city": "Aubel",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.70189",
+            "longitude": "5.85812"
+        },
+        {
+            "city": "Aubange",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.56652",
+            "longitude": "5.80492"
+        },
+        {
+            "city": "Attert",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.75035",
+            "longitude": "5.78634"
+        },
+        {
+            "city": "Ath",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.62937",
+            "longitude": "3.77801"
+        },
+        {
+            "city": "Assesse",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.36934",
+            "longitude": "5.02204"
+        },
+        {
+            "city": "Assenede",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.22598",
+            "longitude": "3.75085"
+        },
+        {
+            "city": "Asse",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.91011",
+            "longitude": "4.19836"
+        },
+        {
+            "city": "As",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.00755",
+            "longitude": "5.58453"
+        },
+        {
+            "city": "Arlon",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "49.68333",
+            "longitude": "5.81667"
+        },
+        {
+            "city": "Arendonk",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.32267",
+            "longitude": "5.08289"
+        },
+        {
+            "city": "Ardooie",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.9757",
+            "longitude": "3.19736"
+        },
+        {
+            "city": "Anzegem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.837",
+            "longitude": "3.47786"
+        },
+        {
+            "city": "Antwerpen",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.21989",
+            "longitude": "4.40346"
+        },
+        {
+            "city": "Antoing",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.56765",
+            "longitude": "3.4492"
+        },
+        {
+            "city": "Anthisnes",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.48323",
+            "longitude": "5.519"
+        },
+        {
+            "city": "Ans",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.6623",
+            "longitude": "5.52029"
+        },
+        {
+            "city": "Anh\u00e9e",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.31039",
+            "longitude": "4.87827"
+        },
+        {
+            "city": "Anderlues",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.40704",
+            "longitude": "4.27136"
+        },
+        {
+            "city": "Andenne",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.48941",
+            "longitude": "5.09513"
+        },
+        {
+            "city": "Ambl\u00e8ve",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.35357",
+            "longitude": "6.17002"
+        },
+        {
+            "city": "Amay",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.54829",
+            "longitude": "5.30974"
+        },
+        {
+            "city": "Alveringem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.01238",
+            "longitude": "2.71117"
+        },
+        {
+            "city": "Alken",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.87552",
+            "longitude": "5.30558"
+        },
+        {
+            "city": "Aiseau",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.41158",
+            "longitude": "4.58671"
+        },
+        {
+            "city": "Aartselaar",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.13412",
+            "longitude": "4.38678"
+        },
+        {
+            "city": "Aarschot",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.98715",
+            "longitude": "4.83695"
+        },
+        {
+            "city": "Aalter",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.09017",
+            "longitude": "3.44693"
+        },
+        {
+            "city": "Aalst",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.93604",
+            "longitude": "4.0355"
+        },
+        {
+            "city": "Frasnes-lez-Anvaing",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.69211",
+            "longitude": "3.63562"
+        },
+        {
+            "city": "Chastre",
+            "region": "WAL",
+            "country": "BE",
+            "latitude": "50.60067",
+            "longitude": "4.634"
+        },
+        {
+            "city": "Lennik",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "50.80903",
+            "longitude": "4.16219"
+        },
+        {
+            "city": "Laakdal",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.08067",
+            "longitude": "5.00556"
+        },
+        {
+            "city": "Scherpenheuvel-Zichem",
+            "region": "VLG",
+            "country": "BE",
+            "latitude": "51.01041",
+            "longitude": "4.97492"
+        }
+    ]
+}

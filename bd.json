@@ -1,0 +1,678 @@
+{
+    "country": "Bangladesh",
+    "code": "BD",
+    "cities": [
+        {
+            "city": "Th\u0101kurgaon",
+            "region": "83",
+            "country": "BD",
+            "latitude": "26.03333",
+            "longitude": "88.46667"
+        },
+        {
+            "city": "Tekn\u0101f",
+            "region": "84",
+            "country": "BD",
+            "latitude": "20.86243",
+            "longitude": "92.30582"
+        },
+        {
+            "city": "Tungi",
+            "region": "81",
+            "country": "BD",
+            "latitude": "23.89",
+            "longitude": "90.40583"
+        },
+        {
+            "city": "Sylhet",
+            "region": "86",
+            "country": "BD",
+            "latitude": "24.89667",
+            "longitude": "91.87167"
+        },
+        {
+            "city": "Doh\u0101r",
+            "region": "81",
+            "country": "BD",
+            "latitude": "23.58833",
+            "longitude": "90.14694"
+        },
+        {
+            "city": "Jam\u0101lpur",
+            "region": "00",
+            "country": "BD",
+            "latitude": "24.91667",
+            "longitude": "89.93333"
+        },
+        {
+            "city": "Shibganj",
+            "region": "83",
+            "country": "BD",
+            "latitude": "24.68293",
+            "longitude": "88.15975"
+        },
+        {
+            "city": "S\u0101tkhira",
+            "region": "00",
+            "country": "BD",
+            "latitude": "22.71667",
+            "longitude": "89.1"
+        },
+        {
+            "city": "Sir\u0101jganj",
+            "region": "00",
+            "country": "BD",
+            "latitude": "24.45",
+            "longitude": "89.71667"
+        },
+        {
+            "city": "Netrakona",
+            "region": "81",
+            "country": "BD",
+            "latitude": "24.88333",
+            "longitude": "90.71667"
+        },
+        {
+            "city": "Narsingdi",
+            "region": "81",
+            "country": "BD",
+            "latitude": "23.92083",
+            "longitude": "90.71806"
+        },
+        {
+            "city": "Sandw\u012bp",
+            "region": "84",
+            "country": "BD",
+            "latitude": "22.46778",
+            "longitude": "91.45611"
+        },
+        {
+            "city": "Sh\u0101hz\u0101dpur",
+            "region": "00",
+            "country": "BD",
+            "latitude": "24.16667",
+            "longitude": "89.6"
+        },
+        {
+            "city": "R\u0101mganj",
+            "region": "00",
+            "country": "BD",
+            "latitude": "23.1",
+            "longitude": "90.85"
+        },
+        {
+            "city": "R\u0101jsh\u0101hi",
+            "region": "83",
+            "country": "BD",
+            "latitude": "24.36667",
+            "longitude": "88.6"
+        },
+        {
+            "city": "Pirojpur",
+            "region": "85",
+            "country": "BD",
+            "latitude": "22.56667",
+            "longitude": "89.98333"
+        },
+        {
+            "city": "Panchagarh",
+            "region": "83",
+            "country": "BD",
+            "latitude": "26.33129",
+            "longitude": "88.562"
+        },
+        {
+            "city": "Patiya",
+            "region": "84",
+            "country": "BD",
+            "latitude": "22.29312",
+            "longitude": "91.97621"
+        },
+        {
+            "city": "Parbatipur",
+            "region": "83",
+            "country": "BD",
+            "latitude": "25.66491",
+            "longitude": "88.9247"
+        },
+        {
+            "city": "N\u0101r\u0101yanganj",
+            "region": "81",
+            "country": "BD",
+            "latitude": "23.62333",
+            "longitude": "90.50111"
+        },
+        {
+            "city": "N\u0101lchiti",
+            "region": "00",
+            "country": "BD",
+            "latitude": "22.63333",
+            "longitude": "90.28333"
+        },
+        {
+            "city": "Nageswari",
+            "region": "87",
+            "country": "BD",
+            "latitude": "25.96881",
+            "longitude": "89.69299"
+        },
+        {
+            "city": "Mymensingh",
+            "region": "00",
+            "country": "BD",
+            "latitude": "24.75",
+            "longitude": "90.4"
+        },
+        {
+            "city": "Mukt\u0101g\u0101cha",
+            "region": "00",
+            "country": "BD",
+            "latitude": "24.76667",
+            "longitude": "90.23333"
+        },
+        {
+            "city": "Mirz\u0101pur",
+            "region": "00",
+            "country": "BD",
+            "latitude": "24.1",
+            "longitude": "90.1"
+        },
+        {
+            "city": "Moulvi B\u0101z\u0101r",
+            "region": "86",
+            "country": "BD",
+            "latitude": "24.48333",
+            "longitude": "91.78333"
+        },
+        {
+            "city": "Morrelgonj",
+            "region": "82",
+            "country": "BD",
+            "latitude": "22.4537",
+            "longitude": "89.8587"
+        },
+        {
+            "city": "Mehendiganj",
+            "region": "00",
+            "country": "BD",
+            "latitude": "22.81667",
+            "longitude": "90.53333"
+        },
+        {
+            "city": "Mathba",
+            "region": "85",
+            "country": "BD",
+            "latitude": "22.2855",
+            "longitude": "89.9629"
+        },
+        {
+            "city": "Lalmanirhat",
+            "region": "87",
+            "country": "BD",
+            "latitude": "25.91244",
+            "longitude": "89.44729"
+        },
+        {
+            "city": "L\u0101ksh\u0101m",
+            "region": "84",
+            "country": "BD",
+            "latitude": "23.24722",
+            "longitude": "91.1425"
+        },
+        {
+            "city": "Comilla",
+            "region": "84",
+            "country": "BD",
+            "latitude": "23.45778",
+            "longitude": "91.20444"
+        },
+        {
+            "city": "Rangpur",
+            "region": "00",
+            "country": "BD",
+            "latitude": "25.75",
+            "longitude": "89.25"
+        },
+        {
+            "city": "Kushtia",
+            "region": "82",
+            "country": "BD",
+            "latitude": "23.90105",
+            "longitude": "89.12207"
+        },
+        {
+            "city": "K\u0101l\u012bganj",
+            "region": "82",
+            "country": "BD",
+            "latitude": "23.4095",
+            "longitude": "89.1402"
+        },
+        {
+            "city": "Jhingerg\u0101cha",
+            "region": "82",
+            "country": "BD",
+            "latitude": "23.1131",
+            "longitude": "89.0938"
+        },
+        {
+            "city": "Joypurhat",
+            "region": "83",
+            "country": "BD",
+            "latitude": "25.09433",
+            "longitude": "89.02169"
+        },
+        {
+            "city": "Ishurdi",
+            "region": "00",
+            "country": "BD",
+            "latitude": "24.13333",
+            "longitude": "89.08333"
+        },
+        {
+            "city": "Habiganj",
+            "region": "86",
+            "country": "BD",
+            "latitude": "24.38333",
+            "longitude": "91.41667"
+        },
+        {
+            "city": "Gaurnadi",
+            "region": "00",
+            "country": "BD",
+            "latitude": "22.96667",
+            "longitude": "90.23333"
+        },
+        {
+            "city": "Gafargaon",
+            "region": "00",
+            "country": "BD",
+            "latitude": "24.43333",
+            "longitude": "90.56667"
+        },
+        {
+            "city": "Feni",
+            "region": "84",
+            "country": "BD",
+            "latitude": "23.01861",
+            "longitude": "91.41"
+        },
+        {
+            "city": "R\u0101ipur",
+            "region": "00",
+            "country": "BD",
+            "latitude": "23.05",
+            "longitude": "90.76667"
+        },
+        {
+            "city": "Sarankhola",
+            "region": "82",
+            "country": "BD",
+            "latitude": "22.3082",
+            "longitude": "89.7897"
+        },
+        {
+            "city": "Dhaka",
+            "region": "81",
+            "country": "BD",
+            "latitude": "23.7104",
+            "longitude": "90.40744"
+        },
+        {
+            "city": "Chilm\u0101ri",
+            "region": "87",
+            "country": "BD",
+            "latitude": "25.55592",
+            "longitude": "89.67152"
+        },
+        {
+            "city": "Chh\u0101galn\u0101iya",
+            "region": "84",
+            "country": "BD",
+            "latitude": "23.03",
+            "longitude": "91.50694"
+        },
+        {
+            "city": "L\u0101lmohan",
+            "region": "85",
+            "country": "BD",
+            "latitude": "22.3384",
+            "longitude": "90.7419"
+        },
+        {
+            "city": "Khagr\u0101chari",
+            "region": "00",
+            "country": "BD",
+            "latitude": "23.1",
+            "longitude": "91.96667"
+        },
+        {
+            "city": "Chh\u0101tak",
+            "region": "00",
+            "country": "BD",
+            "latitude": "25.03333",
+            "longitude": "91.66667"
+        },
+        {
+            "city": "Bh\u0101tp\u0101ra Abhaynagar",
+            "region": "82",
+            "country": "BD",
+            "latitude": "23.01531",
+            "longitude": "89.4432"
+        },
+        {
+            "city": "Bher\u0101m\u0101ra",
+            "region": "82",
+            "country": "BD",
+            "latitude": "24.0232",
+            "longitude": "88.9925"
+        },
+        {
+            "city": "Bhairab B\u0101z\u0101r",
+            "region": "00",
+            "country": "BD",
+            "latitude": "24.06667",
+            "longitude": "90.96667"
+        },
+        {
+            "city": "B\u0101ndarban",
+            "region": "84",
+            "country": "BD",
+            "latitude": "22.1965",
+            "longitude": "92.2262"
+        },
+        {
+            "city": "K\u0101lia",
+            "region": "81",
+            "country": "BD",
+            "latitude": "23.0396",
+            "longitude": "89.6328"
+        },
+        {
+            "city": "Baniachang",
+            "region": "00",
+            "country": "BD",
+            "latitude": "24.51667",
+            "longitude": "91.36667"
+        },
+        {
+            "city": "B\u0101jitpur",
+            "region": "00",
+            "country": "BD",
+            "latitude": "24.21667",
+            "longitude": "90.95"
+        },
+        {
+            "city": "Badarganj",
+            "region": "00",
+            "country": "BD",
+            "latitude": "25.67403",
+            "longitude": "89.0549"
+        },
+        {
+            "city": "Narail",
+            "region": "00",
+            "country": "BD",
+            "latitude": "23.16667",
+            "longitude": "89.5"
+        },
+        {
+            "city": "Tungip\u0101ra",
+            "region": "00",
+            "country": "BD",
+            "latitude": "22.9",
+            "longitude": "89.91667"
+        },
+        {
+            "city": "Sarish\u0101b\u0101ri",
+            "region": "00",
+            "country": "BD",
+            "latitude": "24.73333",
+            "longitude": "89.83333"
+        },
+        {
+            "city": "Sakhipur",
+            "region": "00",
+            "country": "BD",
+            "latitude": "24.3",
+            "longitude": "90.18333"
+        },
+        {
+            "city": "Raoj\u0101n",
+            "region": "84",
+            "country": "BD",
+            "latitude": "22.53702",
+            "longitude": "91.91984"
+        },
+        {
+            "city": "Phultala",
+            "region": "00",
+            "country": "BD",
+            "latitude": "22.7",
+            "longitude": "89.51667"
+        },
+        {
+            "city": "P\u0101lang",
+            "region": "00",
+            "country": "BD",
+            "latitude": "23.21667",
+            "longitude": "90.35"
+        },
+        {
+            "city": "P\u0101r Naogaon",
+            "region": "83",
+            "country": "BD",
+            "latitude": "24.80287",
+            "longitude": "88.95084"
+        },
+        {
+            "city": "Nab\u012bnagar",
+            "region": "84",
+            "country": "BD",
+            "latitude": "23.89167",
+            "longitude": "90.97333"
+        },
+        {
+            "city": "Lakshm\u012bpur",
+            "region": "84",
+            "country": "BD",
+            "latitude": "22.95",
+            "longitude": "90.83333"
+        },
+        {
+            "city": "Kesabpur",
+            "region": "00",
+            "country": "BD",
+            "latitude": "22.91667",
+            "longitude": "89.21667"
+        },
+        {
+            "city": "H\u0101j\u012bganj",
+            "region": "84",
+            "country": "BD",
+            "latitude": "23.25111",
+            "longitude": "90.85917"
+        },
+        {
+            "city": "Far\u012bdpur",
+            "region": "00",
+            "country": "BD",
+            "latitude": "23.6",
+            "longitude": "89.83333"
+        },
+        {
+            "city": "Din\u0101jpur",
+            "region": "83",
+            "country": "BD",
+            "latitude": "25.62715",
+            "longitude": "88.63864"
+        },
+        {
+            "city": "Uttar Char Fasson",
+            "region": "82",
+            "country": "BD",
+            "latitude": "22.23322",
+            "longitude": "90.71323"
+        },
+        {
+            "city": "Chittagong",
+            "region": "84",
+            "country": "BD",
+            "latitude": "22.33306",
+            "longitude": "91.83639"
+        },
+        {
+            "city": "Char Bhadr\u0101san",
+            "region": "00",
+            "country": "BD",
+            "latitude": "23.31667",
+            "longitude": "90.21667"
+        },
+        {
+            "city": "Bera",
+            "region": "00",
+            "country": "BD",
+            "latitude": "24.08333",
+            "longitude": "89.61667"
+        },
+        {
+            "city": "Burh\u0101nuddin",
+            "region": "85",
+            "country": "BD",
+            "latitude": "22.49184",
+            "longitude": "90.72346"
+        },
+        {
+            "city": "S\u0101tkania",
+            "region": "84",
+            "country": "BD",
+            "latitude": "22.0796",
+            "longitude": "92.0572"
+        },
+        {
+            "city": "Cox\u2019s B\u0101z\u0101r",
+            "region": "84",
+            "country": "BD",
+            "latitude": "21.45324",
+            "longitude": "91.97977"
+        },
+        {
+            "city": "Khulna",
+            "region": "82",
+            "country": "BD",
+            "latitude": "22.81348",
+            "longitude": "89.56723"
+        },
+        {
+            "city": "Bhola",
+            "region": "00",
+            "country": "BD",
+            "latitude": "22.68333",
+            "longitude": "90.65"
+        },
+        {
+            "city": "Baris\u0101l",
+            "region": "85",
+            "country": "BD",
+            "latitude": "22.70194",
+            "longitude": "90.37111"
+        },
+        {
+            "city": "Jessore",
+            "region": "82",
+            "country": "BD",
+            "latitude": "23.16869",
+            "longitude": "89.21315"
+        },
+        {
+            "city": "P\u0101bna",
+            "region": "00",
+            "country": "BD",
+            "latitude": "24",
+            "longitude": "89.25"
+        },
+        {
+            "city": "T\u0101ng\u0101il",
+            "region": "00",
+            "country": "BD",
+            "latitude": "24.25",
+            "longitude": "89.91667"
+        },
+        {
+            "city": "Bogra",
+            "region": "83",
+            "country": "BD",
+            "latitude": "24.85",
+            "longitude": "89.36667"
+        },
+        {
+            "city": "P\u012brgaaj",
+            "region": "83",
+            "country": "BD",
+            "latitude": "25.8604",
+            "longitude": "88.3635"
+        },
+        {
+            "city": "Naw\u0101bganj",
+            "region": "83",
+            "country": "BD",
+            "latitude": "24.59112",
+            "longitude": "88.27102"
+        },
+        {
+            "city": "M\u0101d\u0101r\u012bpur",
+            "region": "81",
+            "country": "BD",
+            "latitude": "23.17528",
+            "longitude": "90.20722"
+        },
+        {
+            "city": "Sherpur",
+            "region": "81",
+            "country": "BD",
+            "latitude": "25.01881",
+            "longitude": "90.01751"
+        },
+        {
+            "city": "Kishorganj",
+            "region": "81",
+            "country": "BD",
+            "latitude": "24.43333",
+            "longitude": "90.76667"
+        },
+        {
+            "city": "Manikchari",
+            "region": "84",
+            "country": "BD",
+            "latitude": "22.8408",
+            "longitude": "91.844"
+        },
+        {
+            "city": "Bh\u0101nd\u0101ria",
+            "region": "85",
+            "country": "BD",
+            "latitude": "22.4861",
+            "longitude": "90.0609"
+        },
+        {
+            "city": "Fatikchari",
+            "region": "84",
+            "country": "BD",
+            "latitude": "22.68726",
+            "longitude": "91.7853"
+        },
+        {
+            "city": "Saidpur",
+            "region": "83",
+            "country": "BD",
+            "latitude": "25.77769",
+            "longitude": "88.89169"
+        },
+        {
+            "city": "Gaibandha",
+            "region": "83",
+            "country": "BD",
+            "latitude": "25.3293",
+            "longitude": "89.5438"
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "country": "Turkmenistan",
+    "code": "TM",
+    "cities": [
+        {
+            "city": "Balkanabat",
+            "region": "02",
+            "country": "TM",
+            "latitude": "39.51075",
+            "longitude": "54.36713"
+        },
+        {
+            "city": "Kaka",
+            "region": "00",
+            "country": "TM",
+            "latitude": "37.34821",
+            "longitude": "59.61431"
+        },
+        {
+            "city": "Gyzylarbat",
+            "region": "02",
+            "country": "TM",
+            "latitude": "38.97644",
+            "longitude": "56.27575"
+        },
+        {
+            "city": "Gumdag",
+            "region": "02",
+            "country": "TM",
+            "latitude": "39.20611",
+            "longitude": "54.59056"
+        },
+        {
+            "city": "Gazanjyk",
+            "region": "02",
+            "country": "TM",
+            "latitude": "39.24463",
+            "longitude": "55.51536"
+        },
+        {
+            "city": "Pewrize",
+            "region": "00",
+            "country": "TM",
+            "latitude": "37.91677",
+            "longitude": "58.09237"
+        },
+        {
+            "city": "B\u00fczme\u00fdin",
+            "region": "01",
+            "country": "TM",
+            "latitude": "38.05067",
+            "longitude": "58.20559"
+        },
+        {
+            "city": "B\u00e4herden",
+            "region": "01",
+            "country": "TM",
+            "latitude": "38.43624",
+            "longitude": "57.43158"
+        },
+        {
+            "city": "Ashgabat",
+            "region": "01",
+            "country": "TM",
+            "latitude": "37.95",
+            "longitude": "58.38333"
+        },
+        {
+            "city": "Annau",
+            "region": "00",
+            "country": "TM",
+            "latitude": "37.88757",
+            "longitude": "58.516"
+        },
+        {
+            "city": "Tagta",
+            "region": "00",
+            "country": "TM",
+            "latitude": "41.65041",
+            "longitude": "59.9164"
+        },
+        {
+            "city": "Akdepe",
+            "region": "00",
+            "country": "TM",
+            "latitude": "42.05513",
+            "longitude": "59.37877"
+        },
+        {
+            "city": "T\u00fcrkmenba\u015fy",
+            "region": "02",
+            "country": "TM",
+            "latitude": "40.02216",
+            "longitude": "52.95518"
+        },
+        {
+            "city": "K\u00f6ne\u00fcrgench",
+            "region": "00",
+            "country": "TM",
+            "latitude": "42.32773",
+            "longitude": "59.15442"
+        },
+        {
+            "city": "Boldumsaz",
+            "region": "00",
+            "country": "TM",
+            "latitude": "42.12824",
+            "longitude": "59.67101"
+        },
+        {
+            "city": "Da\u015foguz",
+            "region": "03",
+            "country": "TM",
+            "latitude": "41.83625",
+            "longitude": "59.96662"
+        },
+        {
+            "city": "Yol\u00f6ten",
+            "region": "00",
+            "country": "TM",
+            "latitude": "37.29886",
+            "longitude": "62.35975"
+        },
+        {
+            "city": "Tejen",
+            "region": "01",
+            "country": "TM",
+            "latitude": "37.38338",
+            "longitude": "60.50544"
+        },
+        {
+            "city": "Seydi",
+            "region": "00",
+            "country": "TM",
+            "latitude": "39.4816",
+            "longitude": "62.91374"
+        },
+        {
+            "city": "Sa\u00fdat",
+            "region": "04",
+            "country": "TM",
+            "latitude": "38.78392",
+            "longitude": "63.88035"
+        },
+        {
+            "city": "Murgab",
+            "region": "00",
+            "country": "TM",
+            "latitude": "37.49656",
+            "longitude": "61.97142"
+        },
+        {
+            "city": "Mary",
+            "region": "05",
+            "country": "TM",
+            "latitude": "37.59378",
+            "longitude": "61.83031"
+        },
+        {
+            "city": "Atamyrat",
+            "region": "04",
+            "country": "TM",
+            "latitude": "37.83574",
+            "longitude": "65.21058"
+        },
+        {
+            "city": "Serhetabat",
+            "region": "05",
+            "country": "TM",
+            "latitude": "35.27992",
+            "longitude": "62.34382"
+        },
+        {
+            "city": "Gowurdak",
+            "region": "04",
+            "country": "TM",
+            "latitude": "37.81244",
+            "longitude": "66.04656"
+        },
+        {
+            "city": "Farap",
+            "region": "04",
+            "country": "TM",
+            "latitude": "39.17037",
+            "longitude": "63.61164"
+        },
+        {
+            "city": "T\u00fcrkmenabat",
+            "region": "04",
+            "country": "TM",
+            "latitude": "39.07328",
+            "longitude": "63.57862"
+        },
+        {
+            "city": "Bayramaly",
+            "region": "05",
+            "country": "TM",
+            "latitude": "37.61852",
+            "longitude": "62.16715"
+        },
+        {
+            "city": "Gazojak",
+            "region": "00",
+            "country": "TM",
+            "latitude": "41.18746",
+            "longitude": "61.4036"
+        }
+    ]
+}

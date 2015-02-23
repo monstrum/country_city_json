@@ -1,0 +1,132 @@
+{
+    "country": "Samoa",
+    "code": "WS",
+    "cities": [
+        {
+            "city": "Vaiusu",
+            "region": "00",
+            "country": "WS",
+            "latitude": "-13.82678",
+            "longitude": "-171.79332"
+        },
+        {
+            "city": "Vaitele",
+            "region": "00",
+            "country": "WS",
+            "latitude": "-13.81964",
+            "longitude": "-171.80253"
+        },
+        {
+            "city": "Solosolo",
+            "region": "00",
+            "country": "WS",
+            "latitude": "-13.87504",
+            "longitude": "-171.64181"
+        },
+        {
+            "city": "Siusega",
+            "region": "00",
+            "country": "WS",
+            "latitude": "-13.84432",
+            "longitude": "-171.81397"
+        },
+        {
+            "city": "Satapuala",
+            "region": "00",
+            "country": "WS",
+            "latitude": "-13.83535",
+            "longitude": "-171.97963"
+        },
+        {
+            "city": "Safotu",
+            "region": "00",
+            "country": "WS",
+            "latitude": "-13.45132",
+            "longitude": "-172.40176"
+        },
+        {
+            "city": "Nofoali\u2018i",
+            "region": "00",
+            "country": "WS",
+            "latitude": "-13.8217",
+            "longitude": "-171.95873"
+        },
+        {
+            "city": "Matavai",
+            "region": "00",
+            "country": "WS",
+            "latitude": "-14.03208",
+            "longitude": "-171.64768"
+        },
+        {
+            "city": "Malie",
+            "region": "00",
+            "country": "WS",
+            "latitude": "-13.80044",
+            "longitude": "-171.8469"
+        },
+        {
+            "city": "Lufilufi",
+            "region": "00",
+            "country": "WS",
+            "latitude": "-13.87449",
+            "longitude": "-171.59857"
+        },
+        {
+            "city": "Lotofag\u0101",
+            "region": "00",
+            "country": "WS",
+            "latitude": "-13.97643",
+            "longitude": "-171.85781"
+        },
+        {
+            "city": "Leulumoega",
+            "region": "00",
+            "country": "WS",
+            "latitude": "-13.82298",
+            "longitude": "-171.96127"
+        },
+        {
+            "city": "Gataivai",
+            "region": "00",
+            "country": "WS",
+            "latitude": "-13.7736",
+            "longitude": "-172.38802"
+        },
+        {
+            "city": "Fasito\u2018outa",
+            "region": "00",
+            "country": "WS",
+            "latitude": "-13.81163",
+            "longitude": "-171.94063"
+        },
+        {
+            "city": "Faleula",
+            "region": "00",
+            "country": "WS",
+            "latitude": "-13.79456",
+            "longitude": "-171.83126"
+        },
+        {
+            "city": "Falefa",
+            "region": "00",
+            "country": "WS",
+            "latitude": "-13.88695",
+            "longitude": "-171.58805"
+        },
+        {
+            "city": "Apia",
+            "region": "10",
+            "country": "WS",
+            "latitude": "-13.83333",
+            "longitude": "-171.76666"
+        },
+        {
+            "city": "Afenga",
+            "region": "00",
+            "country": "WS",
+            "latitude": "-13.79726",
+            "longitude": "-171.85308"
+        }
+    ]
+}

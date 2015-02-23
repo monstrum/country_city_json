@@ -1,0 +1,1805 @@
+{
+    "country": "Kazakhstan",
+    "code": "KZ",
+    "cities": [
+        {
+            "city": "Zhumysker",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "49.33333",
+            "longitude": "49.4"
+        },
+        {
+            "city": "Zhetibay",
+            "region": "09",
+            "country": "KZ",
+            "latitude": "43.59417",
+            "longitude": "52.07889"
+        },
+        {
+            "city": "Temir",
+            "region": "04",
+            "country": "KZ",
+            "latitude": "49.14139",
+            "longitude": "57.13"
+        },
+        {
+            "city": "Ta\u016bshyq",
+            "region": "09",
+            "country": "KZ",
+            "latitude": "44.35667",
+            "longitude": "51.35361"
+        },
+        {
+            "city": "Shubarshi",
+            "region": "04",
+            "country": "KZ",
+            "latitude": "48.58722",
+            "longitude": "57.18694"
+        },
+        {
+            "city": "Shubarkuduk",
+            "region": "04",
+            "country": "KZ",
+            "latitude": "49.14472",
+            "longitude": "56.48722"
+        },
+        {
+            "city": "Shetpe",
+            "region": "09",
+            "country": "KZ",
+            "latitude": "44.16667",
+            "longitude": "52.11667"
+        },
+        {
+            "city": "Say\u00f6tesh",
+            "region": "09",
+            "country": "KZ",
+            "latitude": "44.32972",
+            "longitude": "53.53639"
+        },
+        {
+            "city": "Saykhin",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "48.85611",
+            "longitude": "46.83361"
+        },
+        {
+            "city": "Peremetnoe",
+            "region": "07",
+            "country": "KZ",
+            "latitude": "51.18333",
+            "longitude": "50.81667"
+        },
+        {
+            "city": "Oral",
+            "region": "07",
+            "country": "KZ",
+            "latitude": "51.23333",
+            "longitude": "51.36667"
+        },
+        {
+            "city": "Oktyabr\u2019sk",
+            "region": "04",
+            "country": "KZ",
+            "latitude": "49.47444",
+            "longitude": "57.42333"
+        },
+        {
+            "city": "Munayshy",
+            "region": "09",
+            "country": "KZ",
+            "latitude": "43.49111",
+            "longitude": "52.10861"
+        },
+        {
+            "city": "Miyaly",
+            "region": "06",
+            "country": "KZ",
+            "latitude": "48.88444",
+            "longitude": "53.78361"
+        },
+        {
+            "city": "Martuk",
+            "region": "04",
+            "country": "KZ",
+            "latitude": "50.7475",
+            "longitude": "56.50556"
+        },
+        {
+            "city": "Maqat",
+            "region": "06",
+            "country": "KZ",
+            "latitude": "47.65",
+            "longitude": "53.31667"
+        },
+        {
+            "city": "Maloye Ganyushkino",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "46.6",
+            "longitude": "49.26667"
+        },
+        {
+            "city": "Makhambet",
+            "region": "06",
+            "country": "KZ",
+            "latitude": "47.66667",
+            "longitude": "51.58333"
+        },
+        {
+            "city": "Qulsary",
+            "region": "06",
+            "country": "KZ",
+            "latitude": "46.95307",
+            "longitude": "54.01978"
+        },
+        {
+            "city": "Kr\u016bgloozernoe",
+            "region": "07",
+            "country": "KZ",
+            "latitude": "51.0825",
+            "longitude": "51.28528"
+        },
+        {
+            "city": "Khromtau",
+            "region": "04",
+            "country": "KZ",
+            "latitude": "50.25028",
+            "longitude": "58.43472"
+        },
+        {
+            "city": "Kaztalovka",
+            "region": "07",
+            "country": "KZ",
+            "latitude": "49.7575",
+            "longitude": "48.695"
+        },
+        {
+            "city": "Qaraton",
+            "region": "06",
+            "country": "KZ",
+            "latitude": "46.43528",
+            "longitude": "53.48639"
+        },
+        {
+            "city": "Karagandy",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "50.06667",
+            "longitude": "54.86667"
+        },
+        {
+            "city": "Kamenka",
+            "region": "07",
+            "country": "KZ",
+            "latitude": "51.11667",
+            "longitude": "50.31667"
+        },
+        {
+            "city": "\u012anderbor",
+            "region": "06",
+            "country": "KZ",
+            "latitude": "48.55",
+            "longitude": "51.78333"
+        },
+        {
+            "city": "Fort-Shevchenko",
+            "region": "09",
+            "country": "KZ",
+            "latitude": "44.51667",
+            "longitude": "50.26667"
+        },
+        {
+            "city": "Fedorovka",
+            "region": "07",
+            "country": "KZ",
+            "latitude": "51.2",
+            "longitude": "51.98333"
+        },
+        {
+            "city": "Kuryk",
+            "region": "09",
+            "country": "KZ",
+            "latitude": "43.2",
+            "longitude": "51.65"
+        },
+        {
+            "city": "Embi",
+            "region": "04",
+            "country": "KZ",
+            "latitude": "48.82639",
+            "longitude": "58.14417"
+        },
+        {
+            "city": "Zh\u00e4nibek",
+            "region": "07",
+            "country": "KZ",
+            "latitude": "49.41667",
+            "longitude": "46.85"
+        },
+        {
+            "city": "Dzhangala",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "49.21667",
+            "longitude": "50.33333"
+        },
+        {
+            "city": "Dzhambeyty",
+            "region": "07",
+            "country": "KZ",
+            "latitude": "50.25361",
+            "longitude": "52.595"
+        },
+        {
+            "city": "Dossor",
+            "region": "06",
+            "country": "KZ",
+            "latitude": "47.52722",
+            "longitude": "52.98111"
+        },
+        {
+            "city": "Chingirlau",
+            "region": "07",
+            "country": "KZ",
+            "latitude": "51.095",
+            "longitude": "54.08139"
+        },
+        {
+            "city": "Chapaev",
+            "region": "07",
+            "country": "KZ",
+            "latitude": "50.2",
+            "longitude": "51.16667"
+        },
+        {
+            "city": "Burlin",
+            "region": "07",
+            "country": "KZ",
+            "latitude": "51.42694",
+            "longitude": "52.7125"
+        },
+        {
+            "city": "Beyneu",
+            "region": "09",
+            "country": "KZ",
+            "latitude": "45.31667",
+            "longitude": "55.2"
+        },
+        {
+            "city": "Bayganin",
+            "region": "04",
+            "country": "KZ",
+            "latitude": "48.69472",
+            "longitude": "55.87417"
+        },
+        {
+            "city": "Bayshonas",
+            "region": "06",
+            "country": "KZ",
+            "latitude": "47.24139",
+            "longitude": "52.94111"
+        },
+        {
+            "city": "Ba\u016bt\u012bno",
+            "region": "09",
+            "country": "KZ",
+            "latitude": "44.53778",
+            "longitude": "50.25"
+        },
+        {
+            "city": "Batamshinskiy",
+            "region": "04",
+            "country": "KZ",
+            "latitude": "50.55944",
+            "longitude": "58.27472"
+        },
+        {
+            "city": "Balyqshy",
+            "region": "06",
+            "country": "KZ",
+            "latitude": "47.06667",
+            "longitude": "51.86667"
+        },
+        {
+            "city": "Atyrau",
+            "region": "06",
+            "country": "KZ",
+            "latitude": "47.11667",
+            "longitude": "51.88333"
+        },
+        {
+            "city": "Aqt\u00f6be",
+            "region": "04",
+            "country": "KZ",
+            "latitude": "50.27969",
+            "longitude": "57.20718"
+        },
+        {
+            "city": "Aktau",
+            "region": "09",
+            "country": "KZ",
+            "latitude": "43.65",
+            "longitude": "51.2"
+        },
+        {
+            "city": "Aqsay",
+            "region": "07",
+            "country": "KZ",
+            "latitude": "51.16778",
+            "longitude": "52.995"
+        },
+        {
+            "city": "Akkol\u2019",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "48.78333",
+            "longitude": "53.2"
+        },
+        {
+            "city": "\u00d6mirzaq",
+            "region": "09",
+            "country": "KZ",
+            "latitude": "43.59639",
+            "longitude": "51.255"
+        },
+        {
+            "city": "Zyryanovsk",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "49.73861",
+            "longitude": "84.27194"
+        },
+        {
+            "city": "Zhosaly",
+            "region": "14",
+            "country": "KZ",
+            "latitude": "45.48778",
+            "longitude": "64.07806"
+        },
+        {
+            "city": "Zholymbet",
+            "region": "03",
+            "country": "KZ",
+            "latitude": "51.74333",
+            "longitude": "71.71222"
+        },
+        {
+            "city": "Zhezqazghan",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "47.78333",
+            "longitude": "67.76667"
+        },
+        {
+            "city": "Zhezkent",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "50.93222",
+            "longitude": "81.36111"
+        },
+        {
+            "city": "Zhetiqara",
+            "region": "13",
+            "country": "KZ",
+            "latitude": "52.19083",
+            "longitude": "61.20056"
+        },
+        {
+            "city": "Zhelez\u012bnka",
+            "region": "11",
+            "country": "KZ",
+            "latitude": "53.54",
+            "longitude": "75.30722"
+        },
+        {
+            "city": "Saken Seyfullin",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "48.85167",
+            "longitude": "72.82972"
+        },
+        {
+            "city": "Zhangatas",
+            "region": "17",
+            "country": "KZ",
+            "latitude": "43.56667",
+            "longitude": "69.75"
+        },
+        {
+            "city": "Ayteke Bi",
+            "region": "14",
+            "country": "KZ",
+            "latitude": "45.85361",
+            "longitude": "62.15611"
+        },
+        {
+            "city": "Taraz",
+            "region": "17",
+            "country": "KZ",
+            "latitude": "42.9",
+            "longitude": "71.36667"
+        },
+        {
+            "city": "Zhalghyztobe",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "49.22",
+            "longitude": "81.21417"
+        },
+        {
+            "city": "Zhaqsy",
+            "region": "03",
+            "country": "KZ",
+            "latitude": "51.90833",
+            "longitude": "67.31333"
+        },
+        {
+            "city": "Zaysan",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "47.46667",
+            "longitude": "84.86667"
+        },
+        {
+            "city": "Yrghyz",
+            "region": "04",
+            "country": "KZ",
+            "latitude": "48.61667",
+            "longitude": "61.26667"
+        },
+        {
+            "city": "Yavlenka",
+            "region": "16",
+            "country": "KZ",
+            "latitude": "54.34611",
+            "longitude": "68.4575"
+        },
+        {
+            "city": "Zhangaqorghan",
+            "region": "14",
+            "country": "KZ",
+            "latitude": "43.915",
+            "longitude": "67.24806"
+        },
+        {
+            "city": "Saumalkol\u2019",
+            "region": "16",
+            "country": "KZ",
+            "latitude": "53.29333",
+            "longitude": "68.10417"
+        },
+        {
+            "city": "Verkhniye Kayrakty",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "48.68333",
+            "longitude": "73.28333"
+        },
+        {
+            "city": "Turar Ryskulov",
+            "region": "10",
+            "country": "KZ",
+            "latitude": "42.53333",
+            "longitude": "70.33333"
+        },
+        {
+            "city": "\u016ast\u2019-Talovka",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "50.55583",
+            "longitude": "81.85833"
+        },
+        {
+            "city": "Ush-Tyube",
+            "region": "01",
+            "country": "KZ",
+            "latitude": "45.24222",
+            "longitude": "77.98222"
+        },
+        {
+            "city": "\u00dcrzhar",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "47.08833",
+            "longitude": "81.63083"
+        },
+        {
+            "city": "Turkestan",
+            "region": "10",
+            "country": "KZ",
+            "latitude": "43.33333",
+            "longitude": "68.25"
+        },
+        {
+            "city": "Turgen\u2019",
+            "region": "01",
+            "country": "KZ",
+            "latitude": "43.40056",
+            "longitude": "77.59333"
+        },
+        {
+            "city": "Timiryazevo",
+            "region": "16",
+            "country": "KZ",
+            "latitude": "53.74194",
+            "longitude": "66.52056"
+        },
+        {
+            "city": "Troyebratskiy",
+            "region": "13",
+            "country": "KZ",
+            "latitude": "54.4325",
+            "longitude": "66.07667"
+        },
+        {
+            "city": "Torghay",
+            "region": "13",
+            "country": "KZ",
+            "latitude": "49.63389",
+            "longitude": "63.49806"
+        },
+        {
+            "city": "Tokarevka",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "50.11917",
+            "longitude": "73.16556"
+        },
+        {
+            "city": "Tobol",
+            "region": "13",
+            "country": "KZ",
+            "latitude": "52.68444",
+            "longitude": "62.57944"
+        },
+        {
+            "city": "Terenozek",
+            "region": "14",
+            "country": "KZ",
+            "latitude": "45.05",
+            "longitude": "64.98333"
+        },
+        {
+            "city": "Temirtau",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "50.05444",
+            "longitude": "72.94833"
+        },
+        {
+            "city": "Temirlanovka",
+            "region": "10",
+            "country": "KZ",
+            "latitude": "42.59944",
+            "longitude": "69.26333"
+        },
+        {
+            "city": "Tekeli",
+            "region": "01",
+            "country": "KZ",
+            "latitude": "44.83",
+            "longitude": "78.82389"
+        },
+        {
+            "city": "Tasb\u00f6get",
+            "region": "14",
+            "country": "KZ",
+            "latitude": "44.77278",
+            "longitude": "65.5525"
+        },
+        {
+            "city": "Taranovskoye",
+            "region": "13",
+            "country": "KZ",
+            "latitude": "52.82278",
+            "longitude": "62.51639"
+        },
+        {
+            "city": "Talshyq",
+            "region": "16",
+            "country": "KZ",
+            "latitude": "53.63722",
+            "longitude": "71.87722"
+        },
+        {
+            "city": "Talghar",
+            "region": "01",
+            "country": "KZ",
+            "latitude": "43.30444",
+            "longitude": "77.23278"
+        },
+        {
+            "city": "Taldyqorghan",
+            "region": "01",
+            "country": "KZ",
+            "latitude": "45.01556",
+            "longitude": "78.37389"
+        },
+        {
+            "city": "Taldyqorghan",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "45",
+            "longitude": "77.91667"
+        },
+        {
+            "city": "Suykbulak",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "49.7",
+            "longitude": "81.05"
+        },
+        {
+            "city": "Stepnyak",
+            "region": "16",
+            "country": "KZ",
+            "latitude": "52.83389",
+            "longitude": "70.78028"
+        },
+        {
+            "city": "Smirnovo",
+            "region": "16",
+            "country": "KZ",
+            "latitude": "54.5125",
+            "longitude": "69.42222"
+        },
+        {
+            "city": "Myrzakent",
+            "region": "10",
+            "country": "KZ",
+            "latitude": "40.66667",
+            "longitude": "68.53333"
+        },
+        {
+            "city": "Shymkent",
+            "region": "10",
+            "country": "KZ",
+            "latitude": "42.3",
+            "longitude": "69.6"
+        },
+        {
+            "city": "Shu",
+            "region": "17",
+            "country": "KZ",
+            "latitude": "43.59833",
+            "longitude": "73.76139"
+        },
+        {
+            "city": "Shortandy",
+            "region": "03",
+            "country": "KZ",
+            "latitude": "51.70056",
+            "longitude": "70.99944"
+        },
+        {
+            "city": "Shemona\u012bkha",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "50.63278",
+            "longitude": "81.90556"
+        },
+        {
+            "city": "Shch\u016bch\u012bnsk",
+            "region": "16",
+            "country": "KZ",
+            "latitude": "52.93333",
+            "longitude": "70.2"
+        },
+        {
+            "city": "Shar",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "49.58861",
+            "longitude": "81.04528"
+        },
+        {
+            "city": "Shantobe",
+            "region": "03",
+            "country": "KZ",
+            "latitude": "52.45806",
+            "longitude": "68.18389"
+        },
+        {
+            "city": "Shakhan",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "49.82333",
+            "longitude": "72.63417"
+        },
+        {
+            "city": "Sergeyevka",
+            "region": "16",
+            "country": "KZ",
+            "latitude": "53.88",
+            "longitude": "67.41583"
+        },
+        {
+            "city": "Semey",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "50.41111",
+            "longitude": "80.2275"
+        },
+        {
+            "city": "Sayaq",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "47",
+            "longitude": "77.26667"
+        },
+        {
+            "city": "Sast\u00f6be",
+            "region": "10",
+            "country": "KZ",
+            "latitude": "42.55",
+            "longitude": "70"
+        },
+        {
+            "city": "Saryshaghan",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "46.11917",
+            "longitude": "73.61917"
+        },
+        {
+            "city": "Sary\u00f6zek",
+            "region": "01",
+            "country": "KZ",
+            "latitude": "44.35833",
+            "longitude": "77.97528"
+        },
+        {
+            "city": "Sarykamys",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "47.78333",
+            "longitude": "78.71667"
+        },
+        {
+            "city": "Saryaghash",
+            "region": "10",
+            "country": "KZ",
+            "latitude": "41.45",
+            "longitude": "69.16667"
+        },
+        {
+            "city": "Sarkand",
+            "region": "01",
+            "country": "KZ",
+            "latitude": "45.41",
+            "longitude": "79.91861"
+        },
+        {
+            "city": "Sorang",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "49.78",
+            "longitude": "72.85056"
+        },
+        {
+            "city": "Rudnyy",
+            "region": "13",
+            "country": "KZ",
+            "latitude": "52.95944",
+            "longitude": "63.12056"
+        },
+        {
+            "city": "Qyzylorda",
+            "region": "14",
+            "country": "KZ",
+            "latitude": "44.85278",
+            "longitude": "65.50917"
+        },
+        {
+            "city": "Qusmuryn",
+            "region": "13",
+            "country": "KZ",
+            "latitude": "52.45028",
+            "longitude": "64.63111"
+        },
+        {
+            "city": "Qostanay",
+            "region": "13",
+            "country": "KZ",
+            "latitude": "53.16667",
+            "longitude": "63.58333"
+        },
+        {
+            "city": "Kachar",
+            "region": "13",
+            "country": "KZ",
+            "latitude": "53.39056",
+            "longitude": "62.92972"
+        },
+        {
+            "city": "Qarqaraly",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "49.40583",
+            "longitude": "75.47417"
+        },
+        {
+            "city": "Qarazhal",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "48.00778",
+            "longitude": "70.79028"
+        },
+        {
+            "city": "Qara\u016byl",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "48.94639",
+            "longitude": "79.25889"
+        },
+        {
+            "city": "Karatau",
+            "region": "17",
+            "country": "KZ",
+            "latitude": "43.16667",
+            "longitude": "70.46667"
+        },
+        {
+            "city": "Qaraghandy",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "49.79889",
+            "longitude": "73.09944"
+        },
+        {
+            "city": "Qapshaghay",
+            "region": "01",
+            "country": "KZ",
+            "latitude": "43.88333",
+            "longitude": "77.08333"
+        },
+        {
+            "city": "T\u016bghyl",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "47.75",
+            "longitude": "84.18333"
+        },
+        {
+            "city": "Petropavlovsk",
+            "region": "16",
+            "country": "KZ",
+            "latitude": "54.87528",
+            "longitude": "69.16278"
+        },
+        {
+            "city": "Pervorosiyskiy",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "49.7",
+            "longitude": "83.83333"
+        },
+        {
+            "city": "Pervomayskiy",
+            "region": "01",
+            "country": "KZ",
+            "latitude": "43.37361",
+            "longitude": "76.94"
+        },
+        {
+            "city": "Pavlodar",
+            "region": "11",
+            "country": "KZ",
+            "latitude": "52.3",
+            "longitude": "76.95"
+        },
+        {
+            "city": "Zharkent",
+            "region": "01",
+            "country": "KZ",
+            "latitude": "44.16278",
+            "longitude": "80"
+        },
+        {
+            "city": "Oytal",
+            "region": "17",
+            "country": "KZ",
+            "latitude": "42.90722",
+            "longitude": "73.27361"
+        },
+        {
+            "city": "Ust\u2019-Kamenogorsk",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "49.97889",
+            "longitude": "82.61028"
+        },
+        {
+            "city": "Osakarovka",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "50.565",
+            "longitude": "72.56917"
+        },
+        {
+            "city": "Ordzhonikidze",
+            "region": "13",
+            "country": "KZ",
+            "latitude": "52.44111",
+            "longitude": "61.74083"
+        },
+        {
+            "city": "Ognevka",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "49.67028",
+            "longitude": "83.02889"
+        },
+        {
+            "city": "Novodol\u012bnsk\u012by",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "49.705",
+            "longitude": "72.70472"
+        },
+        {
+            "city": "Zhanga Buqtyrma",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "49.63528",
+            "longitude": "83.52333"
+        },
+        {
+            "city": "Mynaral",
+            "region": "17",
+            "country": "KZ",
+            "latitude": "45.41611",
+            "longitude": "73.68444"
+        },
+        {
+            "city": "Moyynty",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "47.22111",
+            "longitude": "73.36694"
+        },
+        {
+            "city": "K\u016brchatov",
+            "region": "11",
+            "country": "KZ",
+            "latitude": "50.75667",
+            "longitude": "78.54"
+        },
+        {
+            "city": "Sarykemer",
+            "region": "17",
+            "country": "KZ",
+            "latitude": "43",
+            "longitude": "71.5"
+        },
+        {
+            "city": "Merke",
+            "region": "17",
+            "country": "KZ",
+            "latitude": "42.87278",
+            "longitude": "73.17861"
+        },
+        {
+            "city": "Mayqayyng",
+            "region": "11",
+            "country": "KZ",
+            "latitude": "51.4625",
+            "longitude": "75.79861"
+        },
+        {
+            "city": "Matay",
+            "region": "01",
+            "country": "KZ",
+            "latitude": "45.895",
+            "longitude": "78.71806"
+        },
+        {
+            "city": "Mak\u012bnsk",
+            "region": "03",
+            "country": "KZ",
+            "latitude": "52.62917",
+            "longitude": "70.41694"
+        },
+        {
+            "city": "Kulan",
+            "region": "17",
+            "country": "KZ",
+            "latitude": "42.91528",
+            "longitude": "72.70806"
+        },
+        {
+            "city": "Lugovoy",
+            "region": "17",
+            "country": "KZ",
+            "latitude": "42.94722",
+            "longitude": "72.76444"
+        },
+        {
+            "city": "Lisakovsk",
+            "region": "13",
+            "country": "KZ",
+            "latitude": "52.53694",
+            "longitude": "62.49361"
+        },
+        {
+            "city": "Lepsy",
+            "region": "01",
+            "country": "KZ",
+            "latitude": "46.235",
+            "longitude": "78.94556"
+        },
+        {
+            "city": "Qazyqurt",
+            "region": "10",
+            "country": "KZ",
+            "latitude": "41.75889",
+            "longitude": "69.38639"
+        },
+        {
+            "city": "Len\u012bnsk\u012by",
+            "region": "11",
+            "country": "KZ",
+            "latitude": "52.25028",
+            "longitude": "76.78056"
+        },
+        {
+            "city": "Baykonyr",
+            "region": "08",
+            "country": "KZ",
+            "latitude": "45.61667",
+            "longitude": "63.31667"
+        },
+        {
+            "city": "Ridder",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "50.355",
+            "longitude": "83.51333"
+        },
+        {
+            "city": "Lenger",
+            "region": "10",
+            "country": "KZ",
+            "latitude": "42.2",
+            "longitude": "69.9"
+        },
+        {
+            "city": "Kishkenekol\u2019",
+            "region": "16",
+            "country": "KZ",
+            "latitude": "53.63639",
+            "longitude": "72.34139"
+        },
+        {
+            "city": "Kyzylzhar",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "49.98333",
+            "longitude": "72.58333"
+        },
+        {
+            "city": "Q\u016bshoqy",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "50.23389",
+            "longitude": "73.4025"
+        },
+        {
+            "city": "Kurchum",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "48.57222",
+            "longitude": "83.65417"
+        },
+        {
+            "city": "Krasnoznamenskoe",
+            "region": "03",
+            "country": "KZ",
+            "latitude": "51.05306",
+            "longitude": "69.47417"
+        },
+        {
+            "city": "Krasnogorsk\u012by",
+            "region": "03",
+            "country": "KZ",
+            "latitude": "52.24056",
+            "longitude": "66.57444"
+        },
+        {
+            "city": "Taiynsha",
+            "region": "16",
+            "country": "KZ",
+            "latitude": "53.84778",
+            "longitude": "69.76389"
+        },
+        {
+            "city": "Kokshetau",
+            "region": "16",
+            "country": "KZ",
+            "latitude": "53.2775",
+            "longitude": "69.38833"
+        },
+        {
+            "city": "Komsomolets",
+            "region": "13",
+            "country": "KZ",
+            "latitude": "53.74528",
+            "longitude": "62.07083"
+        },
+        {
+            "city": "Kokterek",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "42.53333",
+            "longitude": "70.26667"
+        },
+        {
+            "city": "Koktal",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "49.65",
+            "longitude": "73.51667"
+        },
+        {
+            "city": "Kokpekty",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "48.75",
+            "longitude": "82.4"
+        },
+        {
+            "city": "K\u012bevka",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "50.26194",
+            "longitude": "71.55139"
+        },
+        {
+            "city": "Balpyk Bi",
+            "region": "01",
+            "country": "KZ",
+            "latitude": "44.89472",
+            "longitude": "78.20833"
+        },
+        {
+            "city": "Asykata",
+            "region": "10",
+            "country": "KZ",
+            "latitude": "40.89944",
+            "longitude": "68.36111"
+        },
+        {
+            "city": "Khanta\u016b",
+            "region": "17",
+            "country": "KZ",
+            "latitude": "44.23083",
+            "longitude": "73.8"
+        },
+        {
+            "city": "Kenta\u016b",
+            "region": "10",
+            "country": "KZ",
+            "latitude": "43.52194",
+            "longitude": "68.51083"
+        },
+        {
+            "city": "Kegen",
+            "region": "01",
+            "country": "KZ",
+            "latitude": "43.01972",
+            "longitude": "79.22028"
+        },
+        {
+            "city": "Qazaly",
+            "region": "14",
+            "country": "KZ",
+            "latitude": "45.76278",
+            "longitude": "62.1075"
+        },
+        {
+            "city": "Karasu",
+            "region": "13",
+            "country": "KZ",
+            "latitude": "52.6725",
+            "longitude": "65.49111"
+        },
+        {
+            "city": "Karabas",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "46.53333",
+            "longitude": "76.2"
+        },
+        {
+            "city": "Khantaghy",
+            "region": "10",
+            "country": "KZ",
+            "latitude": "43.52639",
+            "longitude": "68.5775"
+        },
+        {
+            "city": "Qalqaman",
+            "region": "11",
+            "country": "KZ",
+            "latitude": "51.9525",
+            "longitude": "76.02111"
+        },
+        {
+            "city": "Kach\u012bry",
+            "region": "11",
+            "country": "KZ",
+            "latitude": "53.0675",
+            "longitude": "76.10361"
+        },
+        {
+            "city": "Esik",
+            "region": "01",
+            "country": "KZ",
+            "latitude": "43.3552",
+            "longitude": "77.45245"
+        },
+        {
+            "city": "Ertis",
+            "region": "11",
+            "country": "KZ",
+            "latitude": "53.33333",
+            "longitude": "75.45722"
+        },
+        {
+            "city": "Ilyich",
+            "region": "10",
+            "country": "KZ",
+            "latitude": "40.84639",
+            "longitude": "68.50667"
+        },
+        {
+            "city": "Gran\u012btogorsk",
+            "region": "17",
+            "country": "KZ",
+            "latitude": "42.74611",
+            "longitude": "73.46472"
+        },
+        {
+            "city": "Glubokoye",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "50.14556",
+            "longitude": "82.31139"
+        },
+        {
+            "city": "Georg\u012bevka",
+            "region": "17",
+            "country": "KZ",
+            "latitude": "43.03694",
+            "longitude": "74.71139"
+        },
+        {
+            "city": "Georg\u012bevka",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "49.33139",
+            "longitude": "81.57611"
+        },
+        {
+            "city": "Moyynkum",
+            "region": "17",
+            "country": "KZ",
+            "latitude": "44.29139",
+            "longitude": "72.94694"
+        },
+        {
+            "city": "Fedorovka",
+            "region": "13",
+            "country": "KZ",
+            "latitude": "53.63139",
+            "longitude": "62.70778"
+        },
+        {
+            "city": "Esil",
+            "region": "03",
+            "country": "KZ",
+            "latitude": "51.95556",
+            "longitude": "66.40417"
+        },
+        {
+            "city": "Aqs\u016b",
+            "region": "11",
+            "country": "KZ",
+            "latitude": "52.03333",
+            "longitude": "76.91667"
+        },
+        {
+            "city": "Yereymentau",
+            "region": "03",
+            "country": "KZ",
+            "latitude": "51.62139",
+            "longitude": "73.10694"
+        },
+        {
+            "city": "Energeticheskiy",
+            "region": "01",
+            "country": "KZ",
+            "latitude": "43.42778",
+            "longitude": "77.02222"
+        },
+        {
+            "city": "Ekibastuz",
+            "region": "11",
+            "country": "KZ",
+            "latitude": "51.66667",
+            "longitude": "75.36667"
+        },
+        {
+            "city": "Zhambyl",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "47.20694",
+            "longitude": "71.39694"
+        },
+        {
+            "city": "Dzhalagash",
+            "region": "14",
+            "country": "KZ",
+            "latitude": "45.08333",
+            "longitude": "64.66667"
+        },
+        {
+            "city": "Dostyq",
+            "region": "01",
+            "country": "KZ",
+            "latitude": "45.25333",
+            "longitude": "82.48444"
+        },
+        {
+            "city": "Dol\u012bnka",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "49.67417",
+            "longitude": "72.67611"
+        },
+        {
+            "city": "Derzhav\u012bnsk",
+            "region": "03",
+            "country": "KZ",
+            "latitude": "51.1",
+            "longitude": "66.31667"
+        },
+        {
+            "city": "Sholaqqkorghan",
+            "region": "10",
+            "country": "KZ",
+            "latitude": "43.765",
+            "longitude": "69.18139"
+        },
+        {
+            "city": "Sh\u012beli",
+            "region": "14",
+            "country": "KZ",
+            "latitude": "44.16667",
+            "longitude": "66.75"
+        },
+        {
+            "city": "Shayan",
+            "region": "10",
+            "country": "KZ",
+            "latitude": "43.02972",
+            "longitude": "69.37722"
+        },
+        {
+            "city": "Shardara",
+            "region": "10",
+            "country": "KZ",
+            "latitude": "41.25472",
+            "longitude": "67.96917"
+        },
+        {
+            "city": "Burunday",
+            "region": "01",
+            "country": "KZ",
+            "latitude": "43.36028",
+            "longitude": "76.85778"
+        },
+        {
+            "city": "B\u016blaevo",
+            "region": "16",
+            "country": "KZ",
+            "latitude": "54.90556",
+            "longitude": "70.44389"
+        },
+        {
+            "city": "Borovskoy",
+            "region": "13",
+            "country": "KZ",
+            "latitude": "53.8",
+            "longitude": "64.15"
+        },
+        {
+            "city": "B\u016brabay",
+            "region": "16",
+            "country": "KZ",
+            "latitude": "53.08382",
+            "longitude": "70.31379"
+        },
+        {
+            "city": "Borod\u016bl\u012bkha",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "50.72028",
+            "longitude": "80.92833"
+        },
+        {
+            "city": "Priisk Boko",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "49.06028",
+            "longitude": "81.64528"
+        },
+        {
+            "city": "Bishkul\u2019",
+            "region": "16",
+            "country": "KZ",
+            "latitude": "54.78028",
+            "longitude": "69.10333"
+        },
+        {
+            "city": "Best\u00f6be",
+            "region": "03",
+            "country": "KZ",
+            "latitude": "52.49944",
+            "longitude": "73.0975"
+        },
+        {
+            "city": "Aksu",
+            "region": "10",
+            "country": "KZ",
+            "latitude": "42.41667",
+            "longitude": "69.83333"
+        },
+        {
+            "city": "Bel\u016bsovka",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "50.13389",
+            "longitude": "82.52389"
+        },
+        {
+            "city": "K\u00f6kt\u00f6be",
+            "region": "11",
+            "country": "KZ",
+            "latitude": "51.52972",
+            "longitude": "77.47139"
+        },
+        {
+            "city": "Belogorsk\u012by",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "49.48583",
+            "longitude": "83.15333"
+        },
+        {
+            "city": "Bayzhansay",
+            "region": "10",
+            "country": "KZ",
+            "latitude": "43.18",
+            "longitude": "69.93722"
+        },
+        {
+            "city": "Bayana\u016byl",
+            "region": "11",
+            "country": "KZ",
+            "latitude": "50.78889",
+            "longitude": "75.69556"
+        },
+        {
+            "city": "Bayaldyr",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "42.83333",
+            "longitude": "68.31667"
+        },
+        {
+            "city": "Balqash",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "46.84806",
+            "longitude": "74.995"
+        },
+        {
+            "city": "Balkashino",
+            "region": "03",
+            "country": "KZ",
+            "latitude": "52.51667",
+            "longitude": "68.76667"
+        },
+        {
+            "city": "Bakanas",
+            "region": "01",
+            "country": "KZ",
+            "latitude": "44.80806",
+            "longitude": "76.27722"
+        },
+        {
+            "city": "Ayagoz",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "47.97139",
+            "longitude": "80.43917"
+        },
+        {
+            "city": "Bakyrshik",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "49.71611",
+            "longitude": "81.58361"
+        },
+        {
+            "city": "Atbasar",
+            "region": "03",
+            "country": "KZ",
+            "latitude": "51.8",
+            "longitude": "68.33333"
+        },
+        {
+            "city": "Atas\u016b",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "48.68139",
+            "longitude": "71.64333"
+        },
+        {
+            "city": "As\u016bbulaq",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "49.55833",
+            "longitude": "83.05583"
+        },
+        {
+            "city": "Astrakhan",
+            "region": "03",
+            "country": "KZ",
+            "latitude": "51.52833",
+            "longitude": "69.79722"
+        },
+        {
+            "city": "Ashchysay",
+            "region": "10",
+            "country": "KZ",
+            "latitude": "43.55417",
+            "longitude": "68.88889"
+        },
+        {
+            "city": "Arys",
+            "region": "10",
+            "country": "KZ",
+            "latitude": "42.43333",
+            "longitude": "68.8"
+        },
+        {
+            "city": "Arkalyk",
+            "region": "13",
+            "country": "KZ",
+            "latitude": "50.24861",
+            "longitude": "66.91139"
+        },
+        {
+            "city": "Aral",
+            "region": "14",
+            "country": "KZ",
+            "latitude": "46.8",
+            "longitude": "61.66667"
+        },
+        {
+            "city": "Aqtoghay",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "46.95",
+            "longitude": "79.66667"
+        },
+        {
+            "city": "Aqta\u016b",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "50.23667",
+            "longitude": "73.06278"
+        },
+        {
+            "city": "Aqs\u016b",
+            "region": "03",
+            "country": "KZ",
+            "latitude": "52.45861",
+            "longitude": "71.98583"
+        },
+        {
+            "city": "Aqshata\u016b",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "47.98917",
+            "longitude": "74.0575"
+        },
+        {
+            "city": "Astana",
+            "region": "05",
+            "country": "KZ",
+            "latitude": "51.1801",
+            "longitude": "71.44598"
+        },
+        {
+            "city": "Aqadyr",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "48.25528",
+            "longitude": "72.84833"
+        },
+        {
+            "city": "Almaty",
+            "region": "02",
+            "country": "KZ",
+            "latitude": "43.25",
+            "longitude": "76.95"
+        },
+        {
+            "city": "Aqk\u00f6l",
+            "region": "03",
+            "country": "KZ",
+            "latitude": "51.99778",
+            "longitude": "70.93417"
+        },
+        {
+            "city": "Akzhal",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "49.69139",
+            "longitude": "75.58111"
+        },
+        {
+            "city": "Aktogay",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "48.16667",
+            "longitude": "75.3"
+        },
+        {
+            "city": "Aktau",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "48.03333",
+            "longitude": "72.83333"
+        },
+        {
+            "city": "Aqtas",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "49.77889",
+            "longitude": "72.96083"
+        },
+        {
+            "city": "Aqs\u016b-Ayuly",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "48.76639",
+            "longitude": "73.67222"
+        },
+        {
+            "city": "Aksuat",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "48.71667",
+            "longitude": "83.7"
+        },
+        {
+            "city": "Akkol\u2019",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "53.2925",
+            "longitude": "69.60111"
+        },
+        {
+            "city": "Aqbaqay",
+            "region": "17",
+            "country": "KZ",
+            "latitude": "45",
+            "longitude": "72.78333"
+        },
+        {
+            "city": "Abay",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "49.63111",
+            "longitude": "72.85389"
+        },
+        {
+            "city": "Shalq\u012bya",
+            "region": "14",
+            "country": "KZ",
+            "latitude": "43.97944",
+            "longitude": "67.33222"
+        },
+        {
+            "city": "Birlestik",
+            "region": "00",
+            "country": "KZ",
+            "latitude": "53.58278",
+            "longitude": "68.35417"
+        },
+        {
+            "city": "Maleevsk",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "49.81083",
+            "longitude": "84.28694"
+        },
+        {
+            "city": "Belk\u00f6l",
+            "region": "14",
+            "country": "KZ",
+            "latitude": "44.81028",
+            "longitude": "65.5875"
+        },
+        {
+            "city": "Novoishimskiy",
+            "region": "16",
+            "country": "KZ",
+            "latitude": "53.19806",
+            "longitude": "66.76944"
+        },
+        {
+            "city": "Shash\u016bbay",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "46.81694",
+            "longitude": "75.04028"
+        },
+        {
+            "city": "Shyghanaq",
+            "region": "17",
+            "country": "KZ",
+            "latitude": "44.83056",
+            "longitude": "70.00194"
+        },
+        {
+            "city": "Shubark\u00f6l",
+            "region": "12",
+            "country": "KZ",
+            "latitude": "48.88222",
+            "longitude": "68.80722"
+        },
+        {
+            "city": "Stepnogorsk",
+            "region": "03",
+            "country": "KZ",
+            "latitude": "52.35444",
+            "longitude": "71.88694"
+        },
+        {
+            "city": "Zavodskoy",
+            "region": "03",
+            "country": "KZ",
+            "latitude": "52.4775",
+            "longitude": "72.01889"
+        },
+        {
+            "city": "\u00dclken",
+            "region": "01",
+            "country": "KZ",
+            "latitude": "45.21194",
+            "longitude": "73.97861"
+        },
+        {
+            "city": "Altay",
+            "region": "15",
+            "country": "KZ",
+            "latitude": "50.24917",
+            "longitude": "82.35333"
+        },
+        {
+            "city": "Priozersk",
+            "region": "",
+            "country": "KZ",
+            "latitude": "46.03106",
+            "longitude": "73.70247"
+        }
+    ]
+}

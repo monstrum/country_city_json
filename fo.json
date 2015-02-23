@@ -1,0 +1,97 @@
+{
+    "country": "Faroe Islands",
+    "code": "FO",
+    "cities": [
+        {
+            "city": "Vestmanna",
+            "region": "ST",
+            "country": "FO",
+            "latitude": "62.15639",
+            "longitude": "-7.16639"
+        },
+        {
+            "city": "V\u00e1gur",
+            "region": "SU",
+            "country": "FO",
+            "latitude": "61.47324",
+            "longitude": "-6.81185"
+        },
+        {
+            "city": "Tv\u00f8royri",
+            "region": "SU",
+            "country": "FO",
+            "latitude": "61.55557",
+            "longitude": "-6.81109"
+        },
+        {
+            "city": "T\u00f3rshavn",
+            "region": "ST",
+            "country": "FO",
+            "latitude": "62.00973",
+            "longitude": "-6.77164"
+        },
+        {
+            "city": "S\u00f8rv\u00e1gur",
+            "region": "VG",
+            "country": "FO",
+            "latitude": "62.09726",
+            "longitude": "-7.3577"
+        },
+        {
+            "city": "Sandur",
+            "region": "SA",
+            "country": "FO",
+            "latitude": "61.8425",
+            "longitude": "-6.80778"
+        },
+        {
+            "city": "Mi\u00f0v\u00e1gur",
+            "region": "VG",
+            "country": "FO",
+            "latitude": "62.05111",
+            "longitude": "-7.19389"
+        },
+        {
+            "city": "Kollafj\u00f8r\u00f0ur",
+            "region": "ST",
+            "country": "FO",
+            "latitude": "62.11167",
+            "longitude": "-6.91067"
+        },
+        {
+            "city": "Klaksv\u00edk",
+            "region": "NO",
+            "country": "FO",
+            "latitude": "62.22655",
+            "longitude": "-6.58901"
+        },
+        {
+            "city": "Hoyv\u00edk",
+            "region": "ST",
+            "country": "FO",
+            "latitude": "62.03407",
+            "longitude": "-6.78127"
+        },
+        {
+            "city": "Fuglafj\u00f8r\u00f0ur",
+            "region": "OS",
+            "country": "FO",
+            "latitude": "62.24398",
+            "longitude": "-6.81395"
+        },
+        {
+            "city": "Argir",
+            "region": "ST",
+            "country": "FO",
+            "latitude": "61.99595",
+            "longitude": "-6.77154"
+        },
+        {
+            "city": "Eystur",
+            "region": "OS",
+            "country": "FO",
+            "latitude": "62.20907",
+            "longitude": "-6.75247"
+        }
+    ]
+}

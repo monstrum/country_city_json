@@ -1,0 +1,83 @@
+{
+    "country": "Eritrea",
+    "code": "ER",
+    "cities": [
+        {
+            "city": "Teseney",
+            "region": "00",
+            "country": "ER",
+            "latitude": "15.11",
+            "longitude": "36.6575"
+        },
+        {
+            "city": "Massawa",
+            "region": "06",
+            "country": "ER",
+            "latitude": "15.60972",
+            "longitude": "39.45"
+        },
+        {
+            "city": "Keren",
+            "region": "01",
+            "country": "ER",
+            "latitude": "15.77778",
+            "longitude": "38.45806"
+        },
+        {
+            "city": "Eid",
+            "region": "03",
+            "country": "ER",
+            "latitude": "13.92972",
+            "longitude": "41.6925"
+        },
+        {
+            "city": "Dek\u2019emhare",
+            "region": "02",
+            "country": "ER",
+            "latitude": "15.07",
+            "longitude": "39.0475"
+        },
+        {
+            "city": "Barentu",
+            "region": "04",
+            "country": "ER",
+            "latitude": "15.11389",
+            "longitude": "37.59278"
+        },
+        {
+            "city": "Asmara",
+            "region": "05",
+            "country": "ER",
+            "latitude": "15.33333",
+            "longitude": "38.93333"
+        },
+        {
+            "city": "Assab",
+            "region": "03",
+            "country": "ER",
+            "latitude": "13.00917",
+            "longitude": "42.73944"
+        },
+        {
+            "city": "Ak\u2019ordat",
+            "region": "04",
+            "country": "ER",
+            "latitude": "15.54861",
+            "longitude": "37.88667"
+        },
+        {
+            "city": "Mendefera",
+            "region": "02",
+            "country": "ER",
+            "latitude": "14.88722",
+            "longitude": "38.81528"
+        },
+        {
+            "city": "Adi Keyh",
+            "region": "00",
+            "country": "ER",
+            "latitude": "14.84444",
+            "longitude": "39.37722"
+        }
+    ]
+}

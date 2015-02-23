@@ -1,0 +1,48 @@
+{
+    "country": "Grenada",
+    "code": "GD",
+    "cities": [
+        {
+            "city": "Victoria",
+            "region": "05",
+            "country": "GD",
+            "latitude": "12.19021",
+            "longitude": "-61.70677"
+        },
+        {
+            "city": "Sauteurs",
+            "region": "06",
+            "country": "GD",
+            "latitude": "12.21667",
+            "longitude": "-61.63333"
+        },
+        {
+            "city": "Saint George's",
+            "region": "03",
+            "country": "GD",
+            "latitude": "12.05644",
+            "longitude": "-61.74849"
+        },
+        {
+            "city": "Saint David\u2019s",
+            "region": "02",
+            "country": "GD",
+            "latitude": "12.03333",
+            "longitude": "-61.66667"
+        },
+        {
+            "city": "Grenville",
+            "region": "01",
+            "country": "GD",
+            "latitude": "12.11667",
+            "longitude": "-61.61667"
+        },
+        {
+            "city": "Gouyave",
+            "region": "04",
+            "country": "GD",
+            "latitude": "12.16462",
+            "longitude": "-61.72965"
+        }
+    ]
+}

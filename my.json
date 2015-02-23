@@ -1,0 +1,1063 @@
+{
+    "country": "Malaysia",
+    "code": "MY",
+    "cities": [
+        {
+            "city": "Kuah",
+            "region": "02",
+            "country": "MY",
+            "latitude": "6.32649",
+            "longitude": "99.8432"
+        },
+        {
+            "city": "Jerantut",
+            "region": "06",
+            "country": "MY",
+            "latitude": "3.936",
+            "longitude": "102.3626"
+        },
+        {
+            "city": "Raub",
+            "region": "06",
+            "country": "MY",
+            "latitude": "3.7899",
+            "longitude": "101.857"
+        },
+        {
+            "city": "Batu Pahat",
+            "region": "01",
+            "country": "MY",
+            "latitude": "1.8548",
+            "longitude": "102.9325"
+        },
+        {
+            "city": "Parit Raja",
+            "region": "01",
+            "country": "MY",
+            "latitude": "1.8681",
+            "longitude": "103.1124"
+        },
+        {
+            "city": "Pekan Nenas",
+            "region": "01",
+            "country": "MY",
+            "latitude": "1.51",
+            "longitude": "103.5141"
+        },
+        {
+            "city": "Pontian Kechil",
+            "region": "01",
+            "country": "MY",
+            "latitude": "1.4866",
+            "longitude": "103.3896"
+        },
+        {
+            "city": "Kampung Pasir Gudang Baru",
+            "region": "01",
+            "country": "MY",
+            "latitude": "1.4726",
+            "longitude": "103.878"
+        },
+        {
+            "city": "Kota Tinggi",
+            "region": "01",
+            "country": "MY",
+            "latitude": "1.7381",
+            "longitude": "103.8999"
+        },
+        {
+            "city": "Taman Senai",
+            "region": "01",
+            "country": "MY",
+            "latitude": "1.6006",
+            "longitude": "103.6419"
+        },
+        {
+            "city": "Kulai",
+            "region": "01",
+            "country": "MY",
+            "latitude": "1.6561",
+            "longitude": "103.6032"
+        },
+        {
+            "city": "Sekudai",
+            "region": "01",
+            "country": "MY",
+            "latitude": "1.53333",
+            "longitude": "103.66667"
+        },
+        {
+            "city": "Johor Bahru",
+            "region": "01",
+            "country": "MY",
+            "latitude": "1.4655",
+            "longitude": "103.7578"
+        },
+        {
+            "city": "Kluang",
+            "region": "01",
+            "country": "MY",
+            "latitude": "2.0251",
+            "longitude": "103.3328"
+        },
+        {
+            "city": "Yong Peng",
+            "region": "01",
+            "country": "MY",
+            "latitude": "2.0136",
+            "longitude": "103.0659"
+        },
+        {
+            "city": "Mersing",
+            "region": "01",
+            "country": "MY",
+            "latitude": "2.4312",
+            "longitude": "103.8405"
+        },
+        {
+            "city": "Segamat",
+            "region": "01",
+            "country": "MY",
+            "latitude": "2.5148",
+            "longitude": "102.8158"
+        },
+        {
+            "city": "Tangkak",
+            "region": "01",
+            "country": "MY",
+            "latitude": "2.2673",
+            "longitude": "102.5453"
+        },
+        {
+            "city": "Muar",
+            "region": "01",
+            "country": "MY",
+            "latitude": "2.0442",
+            "longitude": "102.5689"
+        },
+        {
+            "city": "Bakri",
+            "region": "01",
+            "country": "MY",
+            "latitude": "2.0441",
+            "longitude": "102.6527"
+        },
+        {
+            "city": "Labis",
+            "region": "01",
+            "country": "MY",
+            "latitude": "2.385",
+            "longitude": "103.021"
+        },
+        {
+            "city": "Chaah",
+            "region": "01",
+            "country": "MY",
+            "latitude": "2.249",
+            "longitude": "103.048"
+        },
+        {
+            "city": "Kuala Selangor",
+            "region": "12",
+            "country": "MY",
+            "latitude": "3.35",
+            "longitude": "101.25"
+        },
+        {
+            "city": "Batang Berjuntai",
+            "region": "00",
+            "country": "MY",
+            "latitude": "3.38333",
+            "longitude": "101.41667"
+        },
+        {
+            "city": "Batu Arang",
+            "region": "00",
+            "country": "MY",
+            "latitude": "3.31667",
+            "longitude": "101.46667"
+        },
+        {
+            "city": "Shah Alam",
+            "region": "12",
+            "country": "MY",
+            "latitude": "3.08507",
+            "longitude": "101.53281"
+        },
+        {
+            "city": "Klang",
+            "region": "12",
+            "country": "MY",
+            "latitude": "3.03333",
+            "longitude": "101.45"
+        },
+        {
+            "city": "Cukai",
+            "region": "13",
+            "country": "MY",
+            "latitude": "4.25",
+            "longitude": "103.41667"
+        },
+        {
+            "city": "Kuala Lipis",
+            "region": "06",
+            "country": "MY",
+            "latitude": "4.1842",
+            "longitude": "102.0468"
+        },
+        {
+            "city": "Papar",
+            "region": "16",
+            "country": "MY",
+            "latitude": "5.73333",
+            "longitude": "115.93333"
+        },
+        {
+            "city": "Kota Kinabalu",
+            "region": "16",
+            "country": "MY",
+            "latitude": "5.9749",
+            "longitude": "116.0724"
+        },
+        {
+            "city": "Donggongon",
+            "region": "16",
+            "country": "MY",
+            "latitude": "5.90702",
+            "longitude": "116.10146"
+        },
+        {
+            "city": "Putatan",
+            "region": "16",
+            "country": "MY",
+            "latitude": "5.9258",
+            "longitude": "116.06094"
+        },
+        {
+            "city": "Kinarut",
+            "region": "16",
+            "country": "MY",
+            "latitude": "5.8231",
+            "longitude": "116.0466"
+        },
+        {
+            "city": "Ranau",
+            "region": "16",
+            "country": "MY",
+            "latitude": "5.9538",
+            "longitude": "116.6641"
+        },
+        {
+            "city": "Semporna",
+            "region": "16",
+            "country": "MY",
+            "latitude": "4.48178",
+            "longitude": "118.61118"
+        },
+        {
+            "city": "Victoria",
+            "region": "15",
+            "country": "MY",
+            "latitude": "5.27667",
+            "longitude": "115.24167"
+        },
+        {
+            "city": "Beaufort",
+            "region": "16",
+            "country": "MY",
+            "latitude": "5.3473",
+            "longitude": "115.7455"
+        },
+        {
+            "city": "Lahad Datu",
+            "region": "16",
+            "country": "MY",
+            "latitude": "5.0268",
+            "longitude": "118.327"
+        },
+        {
+            "city": "Sandakan",
+            "region": "16",
+            "country": "MY",
+            "latitude": "5.8402",
+            "longitude": "118.1179"
+        },
+        {
+            "city": "Keningau",
+            "region": "16",
+            "country": "MY",
+            "latitude": "5.3378",
+            "longitude": "116.1602"
+        },
+        {
+            "city": "Tawau",
+            "region": "16",
+            "country": "MY",
+            "latitude": "4.2498",
+            "longitude": "117.8871"
+        },
+        {
+            "city": "Paka",
+            "region": "13",
+            "country": "MY",
+            "latitude": "4.6374",
+            "longitude": "103.4368"
+        },
+        {
+            "city": "Kertih",
+            "region": "13",
+            "country": "MY",
+            "latitude": "4.5141",
+            "longitude": "103.4483"
+        },
+        {
+            "city": "Kulim",
+            "region": "02",
+            "country": "MY",
+            "latitude": "5.36499",
+            "longitude": "100.56177"
+        },
+        {
+            "city": "Bagan Serai",
+            "region": "07",
+            "country": "MY",
+            "latitude": "5.0108",
+            "longitude": "100.54101"
+        },
+        {
+            "city": "Bedong",
+            "region": "02",
+            "country": "MY",
+            "latitude": "5.72744",
+            "longitude": "100.50876"
+        },
+        {
+            "city": "Simpang Empat",
+            "region": "07",
+            "country": "MY",
+            "latitude": "4.95",
+            "longitude": "100.63333"
+        },
+        {
+            "city": "Taiping",
+            "region": "07",
+            "country": "MY",
+            "latitude": "4.85",
+            "longitude": "100.73333"
+        },
+        {
+            "city": "Kuala Kangsar",
+            "region": "07",
+            "country": "MY",
+            "latitude": "4.76667",
+            "longitude": "100.93333"
+        },
+        {
+            "city": "Ipoh",
+            "region": "07",
+            "country": "MY",
+            "latitude": "4.5841",
+            "longitude": "101.0829"
+        },
+        {
+            "city": "Gua Musang",
+            "region": "03",
+            "country": "MY",
+            "latitude": "4.8823",
+            "longitude": "101.9644"
+        },
+        {
+            "city": "Kuala Terengganu",
+            "region": "13",
+            "country": "MY",
+            "latitude": "5.3302",
+            "longitude": "103.1408"
+        },
+        {
+            "city": "Marang",
+            "region": "13",
+            "country": "MY",
+            "latitude": "5.2056",
+            "longitude": "103.2059"
+        },
+        {
+            "city": "Tampin",
+            "region": "05",
+            "country": "MY",
+            "latitude": "2.4701",
+            "longitude": "102.2302"
+        },
+        {
+            "city": "Alor Gajah",
+            "region": "04",
+            "country": "MY",
+            "latitude": "2.3804",
+            "longitude": "102.2089"
+        },
+        {
+            "city": "Kampung Ayer Keroh",
+            "region": "04",
+            "country": "MY",
+            "latitude": "2.2654",
+            "longitude": "102.2801"
+        },
+        {
+            "city": "Sungai Udang",
+            "region": "04",
+            "country": "MY",
+            "latitude": "2.269",
+            "longitude": "102.1427"
+        },
+        {
+            "city": "Melaka",
+            "region": "04",
+            "country": "MY",
+            "latitude": "2.196",
+            "longitude": "102.2405"
+        },
+        {
+            "city": "Banting",
+            "region": "00",
+            "country": "MY",
+            "latitude": "2.81667",
+            "longitude": "101.5"
+        },
+        {
+            "city": "Jenjarum",
+            "region": "12",
+            "country": "MY",
+            "latitude": "2.88333",
+            "longitude": "101.5"
+        },
+        {
+            "city": "Semenyih",
+            "region": "12",
+            "country": "MY",
+            "latitude": "2.9516",
+            "longitude": "101.843"
+        },
+        {
+            "city": "Beranang",
+            "region": "12",
+            "country": "MY",
+            "latitude": "2.8733",
+            "longitude": "101.8697"
+        },
+        {
+            "city": "Seremban",
+            "region": "05",
+            "country": "MY",
+            "latitude": "2.7297",
+            "longitude": "101.9381"
+        },
+        {
+            "city": "Port Dickson",
+            "region": "05",
+            "country": "MY",
+            "latitude": "2.5228",
+            "longitude": "101.7959"
+        },
+        {
+            "city": "Bahau",
+            "region": "05",
+            "country": "MY",
+            "latitude": "2.8079",
+            "longitude": "102.4049"
+        },
+        {
+            "city": "Kuala Pilah",
+            "region": "05",
+            "country": "MY",
+            "latitude": "2.7389",
+            "longitude": "102.2487"
+        },
+        {
+            "city": "Buloh Kasap",
+            "region": "01",
+            "country": "MY",
+            "latitude": "2.5536",
+            "longitude": "102.764"
+        },
+        {
+            "city": "Pekan",
+            "region": "06",
+            "country": "MY",
+            "latitude": "3.4836",
+            "longitude": "103.3996"
+        },
+        {
+            "city": "Mentekab",
+            "region": "06",
+            "country": "MY",
+            "latitude": "3.4854",
+            "longitude": "102.3484"
+        },
+        {
+            "city": "Temerluh",
+            "region": "06",
+            "country": "MY",
+            "latitude": "3.4506",
+            "longitude": "102.4176"
+        },
+        {
+            "city": "Butterworth",
+            "region": "09",
+            "country": "MY",
+            "latitude": "5.3991",
+            "longitude": "100.36382"
+        },
+        {
+            "city": "Perai",
+            "region": "09",
+            "country": "MY",
+            "latitude": "5.38333",
+            "longitude": "100.38333"
+        },
+        {
+            "city": "Bukit Mertajam",
+            "region": "09",
+            "country": "MY",
+            "latitude": "5.36301",
+            "longitude": "100.4667"
+        },
+        {
+            "city": "Nibong Tebal",
+            "region": "09",
+            "country": "MY",
+            "latitude": "5.16586",
+            "longitude": "100.47793"
+        },
+        {
+            "city": "Parit Buntar",
+            "region": "07",
+            "country": "MY",
+            "latitude": "5.12671",
+            "longitude": "100.49316"
+        },
+        {
+            "city": "Tasek Glugor",
+            "region": "09",
+            "country": "MY",
+            "latitude": "5.48032",
+            "longitude": "100.49849"
+        },
+        {
+            "city": "George Town",
+            "region": "09",
+            "country": "MY",
+            "latitude": "5.41123",
+            "longitude": "100.33543"
+        },
+        {
+            "city": "Kampung Bukit Tinggi",
+            "region": "00",
+            "country": "MY",
+            "latitude": "3.35",
+            "longitude": "101.81667"
+        },
+        {
+            "city": "Serendah",
+            "region": "12",
+            "country": "MY",
+            "latitude": "3.3646",
+            "longitude": "101.6041"
+        },
+        {
+            "city": "Rawang",
+            "region": "12",
+            "country": "MY",
+            "latitude": "3.3213",
+            "longitude": "101.5767"
+        },
+        {
+            "city": "Petaling Jaya",
+            "region": "00",
+            "country": "MY",
+            "latitude": "3.10726",
+            "longitude": "101.60671"
+        },
+        {
+            "city": "Kuala Lumpur",
+            "region": "14",
+            "country": "MY",
+            "latitude": "3.1412",
+            "longitude": "101.68653"
+        },
+        {
+            "city": "Sabak Bernam",
+            "region": "12",
+            "country": "MY",
+            "latitude": "3.7698",
+            "longitude": "100.9879"
+        },
+        {
+            "city": "Sungai Besar",
+            "region": "12",
+            "country": "MY",
+            "latitude": "3.6746",
+            "longitude": "100.9867"
+        },
+        {
+            "city": "Kuantan",
+            "region": "06",
+            "country": "MY",
+            "latitude": "3.8077",
+            "longitude": "103.326"
+        },
+        {
+            "city": "Tanah Rata",
+            "region": "06",
+            "country": "MY",
+            "latitude": "4.475",
+            "longitude": "101.3704"
+        },
+        {
+            "city": "Batu Gajah",
+            "region": "07",
+            "country": "MY",
+            "latitude": "4.46916",
+            "longitude": "101.04107"
+        },
+        {
+            "city": "Kampar",
+            "region": "07",
+            "country": "MY",
+            "latitude": "4.3",
+            "longitude": "101.15"
+        },
+        {
+            "city": "Tapah Road",
+            "region": "07",
+            "country": "MY",
+            "latitude": "4.16667",
+            "longitude": "101.2"
+        },
+        {
+            "city": "Bidur",
+            "region": "07",
+            "country": "MY",
+            "latitude": "4.11667",
+            "longitude": "101.28333"
+        },
+        {
+            "city": "Lumut",
+            "region": "07",
+            "country": "MY",
+            "latitude": "4.2323",
+            "longitude": "100.6298"
+        },
+        {
+            "city": "Teluk Intan",
+            "region": "07",
+            "country": "MY",
+            "latitude": "4.0259",
+            "longitude": "101.0213"
+        },
+        {
+            "city": "Gurun",
+            "region": "02",
+            "country": "MY",
+            "latitude": "5.81717",
+            "longitude": "100.47381"
+        },
+        {
+            "city": "Sungai Petani",
+            "region": "02",
+            "country": "MY",
+            "latitude": "5.647",
+            "longitude": "100.48772"
+        },
+        {
+            "city": "Kepala Batas",
+            "region": "09",
+            "country": "MY",
+            "latitude": "5.51707",
+            "longitude": "100.4265"
+        },
+        {
+            "city": "Ketereh",
+            "region": "03",
+            "country": "MY",
+            "latitude": "5.95701",
+            "longitude": "102.24817"
+        },
+        {
+            "city": "Pulai Chondong",
+            "region": "03",
+            "country": "MY",
+            "latitude": "5.87133",
+            "longitude": "102.23177"
+        },
+        {
+            "city": "Tanah Merah",
+            "region": "03",
+            "country": "MY",
+            "latitude": "5.8",
+            "longitude": "102.15"
+        },
+        {
+            "city": "Kuching",
+            "region": "11",
+            "country": "MY",
+            "latitude": "1.55",
+            "longitude": "110.33333"
+        },
+        {
+            "city": "Simanggang",
+            "region": "11",
+            "country": "MY",
+            "latitude": "1.24722",
+            "longitude": "111.45278"
+        },
+        {
+            "city": "Sarikei",
+            "region": "11",
+            "country": "MY",
+            "latitude": "2.11667",
+            "longitude": "111.51667"
+        },
+        {
+            "city": "Sibu",
+            "region": "11",
+            "country": "MY",
+            "latitude": "2.3",
+            "longitude": "111.81667"
+        },
+        {
+            "city": "Kangar",
+            "region": "08",
+            "country": "MY",
+            "latitude": "6.4414",
+            "longitude": "100.19862"
+        },
+        {
+            "city": "Kuala Perlis",
+            "region": "08",
+            "country": "MY",
+            "latitude": "6.4",
+            "longitude": "100.13333"
+        },
+        {
+            "city": "Jitra",
+            "region": "02",
+            "country": "MY",
+            "latitude": "6.26812",
+            "longitude": "100.42167"
+        },
+        {
+            "city": "Kuala Kedah",
+            "region": "02",
+            "country": "MY",
+            "latitude": "6.1",
+            "longitude": "100.3"
+        },
+        {
+            "city": "Alor Setar",
+            "region": "02",
+            "country": "MY",
+            "latitude": "6.12104",
+            "longitude": "100.36014"
+        },
+        {
+            "city": "Tumpat",
+            "region": "03",
+            "country": "MY",
+            "latitude": "6.19776",
+            "longitude": "102.17098"
+        },
+        {
+            "city": "Pasir Mas",
+            "region": "03",
+            "country": "MY",
+            "latitude": "6.04934",
+            "longitude": "102.13987"
+        },
+        {
+            "city": "Kota Bharu",
+            "region": "03",
+            "country": "MY",
+            "latitude": "6.13328",
+            "longitude": "102.2386"
+        },
+        {
+            "city": "Jertih",
+            "region": "13",
+            "country": "MY",
+            "latitude": "5.7336",
+            "longitude": "102.4897"
+        },
+        {
+            "city": "Kudat",
+            "region": "16",
+            "country": "MY",
+            "latitude": "6.8837",
+            "longitude": "116.8477"
+        },
+        {
+            "city": "Kota Belud",
+            "region": "16",
+            "country": "MY",
+            "latitude": "6.351",
+            "longitude": "116.4305"
+        },
+        {
+            "city": "Kapit",
+            "region": "11",
+            "country": "MY",
+            "latitude": "2.01667",
+            "longitude": "112.93333"
+        },
+        {
+            "city": "Bintulu",
+            "region": "11",
+            "country": "MY",
+            "latitude": "3.16667",
+            "longitude": "113.03333"
+        },
+        {
+            "city": "Limbang",
+            "region": "11",
+            "country": "MY",
+            "latitude": "4.75",
+            "longitude": "115"
+        },
+        {
+            "city": "Miri",
+            "region": "11",
+            "country": "MY",
+            "latitude": "4.4148",
+            "longitude": "114.0089"
+        },
+        {
+            "city": "Ulu Tiram",
+            "region": "01",
+            "country": "MY",
+            "latitude": "1.6",
+            "longitude": "103.81667"
+        },
+        {
+            "city": "Tanjung Tokong",
+            "region": "09",
+            "country": "MY",
+            "latitude": "5.46061",
+            "longitude": "100.30742"
+        },
+        {
+            "city": "Tanjung Sepat",
+            "region": "12",
+            "country": "MY",
+            "latitude": "2.6579",
+            "longitude": "101.5629"
+        },
+        {
+            "city": "Sungai Pelek New Village",
+            "region": "00",
+            "country": "MY",
+            "latitude": "2.65",
+            "longitude": "101.7"
+        },
+        {
+            "city": "Pulau Sebang",
+            "region": "04",
+            "country": "MY",
+            "latitude": "2.455",
+            "longitude": "102.2329"
+        },
+        {
+            "city": "Permatang Kuching",
+            "region": "09",
+            "country": "MY",
+            "latitude": "5.46339",
+            "longitude": "100.38144"
+        },
+        {
+            "city": "Peringat",
+            "region": "03",
+            "country": "MY",
+            "latitude": "6.03333",
+            "longitude": "102.28333"
+        },
+        {
+            "city": "Ladang Seri Kundang",
+            "region": "12",
+            "country": "MY",
+            "latitude": "3.2856",
+            "longitude": "101.519"
+        },
+        {
+            "city": "Pantai Remis",
+            "region": "07",
+            "country": "MY",
+            "latitude": "4.4557",
+            "longitude": "100.6288"
+        },
+        {
+            "city": "Kuang",
+            "region": "12",
+            "country": "MY",
+            "latitude": "3.2594",
+            "longitude": "101.5541"
+        },
+        {
+            "city": "Kuala Sungai Baru",
+            "region": "04",
+            "country": "MY",
+            "latitude": "2.3594",
+            "longitude": "102.0353"
+        },
+        {
+            "city": "Klebang Besar",
+            "region": "04",
+            "country": "MY",
+            "latitude": "2.2186",
+            "longitude": "102.1995"
+        },
+        {
+            "city": "Kelapa Sawit",
+            "region": "01",
+            "country": "MY",
+            "latitude": "1.6698",
+            "longitude": "103.5327"
+        },
+        {
+            "city": "Kampung Tanjung Karang",
+            "region": "12",
+            "country": "MY",
+            "latitude": "3.4242",
+            "longitude": "101.1849"
+        },
+        {
+            "city": "Kampung Sungai Ara",
+            "region": "09",
+            "country": "MY",
+            "latitude": "5.32699",
+            "longitude": "100.27348"
+        },
+        {
+            "city": "Kampung Simpang Renggam",
+            "region": "01",
+            "country": "MY",
+            "latitude": "1.8278",
+            "longitude": "103.3"
+        },
+        {
+            "city": "Kampong Pangkal Kalong",
+            "region": "03",
+            "country": "MY",
+            "latitude": "5.91667",
+            "longitude": "102.21667"
+        },
+        {
+            "city": "Kampong Masjid Tanah",
+            "region": "04",
+            "country": "MY",
+            "latitude": "2.35",
+            "longitude": "102.11667"
+        },
+        {
+            "city": "Kampong Kadok",
+            "region": "03",
+            "country": "MY",
+            "latitude": "6",
+            "longitude": "102.25"
+        },
+        {
+            "city": "Kampong Dungun",
+            "region": "00",
+            "country": "MY",
+            "latitude": "3.21667",
+            "longitude": "101.31667"
+        },
+        {
+            "city": "Kampung Bukit Baharu",
+            "region": "04",
+            "country": "MY",
+            "latitude": "2.2152",
+            "longitude": "102.2851"
+        },
+        {
+            "city": "Kampung Baru Subang",
+            "region": "00",
+            "country": "MY",
+            "latitude": "3.15",
+            "longitude": "101.53333"
+        },
+        {
+            "city": "Kampung Baharu Nilai",
+            "region": "05",
+            "country": "MY",
+            "latitude": "2.8033",
+            "longitude": "101.7972"
+        },
+        {
+            "city": "Kampong Baharu Balakong",
+            "region": "00",
+            "country": "MY",
+            "latitude": "3.03333",
+            "longitude": "101.75"
+        },
+        {
+            "city": "Kampung Ayer Molek",
+            "region": "04",
+            "country": "MY",
+            "latitude": "2.2139",
+            "longitude": "102.3278"
+        },
+        {
+            "city": "Juru",
+            "region": "09",
+            "country": "MY",
+            "latitude": "5.31201",
+            "longitude": "100.44229"
+        },
+        {
+            "city": "Bukit Rambai",
+            "region": "04",
+            "country": "MY",
+            "latitude": "2.2594",
+            "longitude": "102.1838"
+        },
+        {
+            "city": "Bentong Town",
+            "region": "06",
+            "country": "MY",
+            "latitude": "3.51667",
+            "longitude": "101.9"
+        },
+        {
+            "city": "Bemban",
+            "region": "04",
+            "country": "MY",
+            "latitude": "2.2684",
+            "longitude": "102.3746"
+        },
+        {
+            "city": "Batu Berendam",
+            "region": "04",
+            "country": "MY",
+            "latitude": "2.2487",
+            "longitude": "102.246"
+        },
+        {
+            "city": "Putrajaya",
+            "region": "17",
+            "country": "MY",
+            "latitude": "2.93527",
+            "longitude": "101.69112"
+        },
+        {
+            "city": "Kampung Lemal",
+            "region": "03",
+            "country": "MY",
+            "latitude": "6.03021",
+            "longitude": "102.14126"
+        },
+        {
+            "city": "Bandar Labuan",
+            "region": "16",
+            "country": "MY",
+            "latitude": "5.28883",
+            "longitude": "115.26924"
+        }
+    ]
+}

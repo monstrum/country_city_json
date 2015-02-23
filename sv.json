@@ -1,0 +1,706 @@
+{
+    "country": "El Salvador",
+    "code": "SV",
+    "cities": [
+        {
+            "city": "Zaragoza",
+            "region": "05",
+            "country": "SV",
+            "latitude": "13.58944",
+            "longitude": "-89.28889"
+        },
+        {
+            "city": "Zacatecoluca",
+            "region": "06",
+            "country": "SV",
+            "latitude": "13.5",
+            "longitude": "-88.86667"
+        },
+        {
+            "city": "Victoria",
+            "region": "02",
+            "country": "SV",
+            "latitude": "13.95",
+            "longitude": "-88.63333"
+        },
+        {
+            "city": "Usulut\u00e1n",
+            "region": "14",
+            "country": "SV",
+            "latitude": "13.35",
+            "longitude": "-88.45"
+        },
+        {
+            "city": "Tonacatepeque",
+            "region": "10",
+            "country": "SV",
+            "latitude": "13.78111",
+            "longitude": "-89.11861"
+        },
+        {
+            "city": "Texistepeque",
+            "region": "11",
+            "country": "SV",
+            "latitude": "14.13333",
+            "longitude": "-89.5"
+        },
+        {
+            "city": "Tenancingo",
+            "region": "04",
+            "country": "SV",
+            "latitude": "13.83333",
+            "longitude": "-88.98333"
+        },
+        {
+            "city": "Tecoluca",
+            "region": "04",
+            "country": "SV",
+            "latitude": "13.78917",
+            "longitude": "-89.00528"
+        },
+        {
+            "city": "Tacuba",
+            "region": "01",
+            "country": "SV",
+            "latitude": "13.90111",
+            "longitude": "-89.92972"
+        },
+        {
+            "city": "Suchitoto",
+            "region": "04",
+            "country": "SV",
+            "latitude": "13.93806",
+            "longitude": "-89.02778"
+        },
+        {
+            "city": "Soyapango",
+            "region": "10",
+            "country": "SV",
+            "latitude": "13.73472",
+            "longitude": "-89.15139"
+        },
+        {
+            "city": "Sonzacate",
+            "region": "13",
+            "country": "SV",
+            "latitude": "13.73417",
+            "longitude": "-89.71472"
+        },
+        {
+            "city": "Sonsonate",
+            "region": "13",
+            "country": "SV",
+            "latitude": "13.71889",
+            "longitude": "-89.72417"
+        },
+        {
+            "city": "Sociedad",
+            "region": "08",
+            "country": "SV",
+            "latitude": "13.7",
+            "longitude": "-88.01667"
+        },
+        {
+            "city": "Sesori",
+            "region": "09",
+            "country": "SV",
+            "latitude": "13.71667",
+            "longitude": "-88.36667"
+        },
+        {
+            "city": "Sensuntepeque",
+            "region": "02",
+            "country": "SV",
+            "latitude": "13.86667",
+            "longitude": "-88.63333"
+        },
+        {
+            "city": "San Vicente",
+            "region": "12",
+            "country": "SV",
+            "latitude": "13.63333",
+            "longitude": "-88.8"
+        },
+        {
+            "city": "Santo Tom\u00e1s",
+            "region": "10",
+            "country": "SV",
+            "latitude": "13.64083",
+            "longitude": "-89.13333"
+        },
+        {
+            "city": "Santiago Nonualco",
+            "region": "06",
+            "country": "SV",
+            "latitude": "13.51667",
+            "longitude": "-88.95"
+        },
+        {
+            "city": "Santiago de Mar\u00eda",
+            "region": "14",
+            "country": "SV",
+            "latitude": "13.48333",
+            "longitude": "-88.46667"
+        },
+        {
+            "city": "Santa Rosa de Lima",
+            "region": "07",
+            "country": "SV",
+            "latitude": "13.62472",
+            "longitude": "-87.89361"
+        },
+        {
+            "city": "Santa Elena",
+            "region": "14",
+            "country": "SV",
+            "latitude": "13.38333",
+            "longitude": "-88.41667"
+        },
+        {
+            "city": "Santa Ana",
+            "region": "11",
+            "country": "SV",
+            "latitude": "13.99417",
+            "longitude": "-89.55972"
+        },
+        {
+            "city": "San Sebasti\u00e1n",
+            "region": "12",
+            "country": "SV",
+            "latitude": "13.73333",
+            "longitude": "-88.83333"
+        },
+        {
+            "city": "San Salvador",
+            "region": "10",
+            "country": "SV",
+            "latitude": "13.68935",
+            "longitude": "-89.18718"
+        },
+        {
+            "city": "San Rafael Oriente",
+            "region": "09",
+            "country": "SV",
+            "latitude": "13.38333",
+            "longitude": "-88.35"
+        },
+        {
+            "city": "San Pedro Masahuat",
+            "region": "06",
+            "country": "SV",
+            "latitude": "13.54361",
+            "longitude": "-89.03861"
+        },
+        {
+            "city": "San Pablo Tacachico",
+            "region": "05",
+            "country": "SV",
+            "latitude": "13.97556",
+            "longitude": "-89.34"
+        },
+        {
+            "city": "San Miquel",
+            "region": "09",
+            "country": "SV",
+            "latitude": "13.48333",
+            "longitude": "-88.18333"
+        },
+        {
+            "city": "San Mart\u00edn",
+            "region": "04",
+            "country": "SV",
+            "latitude": "13.78333",
+            "longitude": "-88.91667"
+        },
+        {
+            "city": "San Marcos",
+            "region": "10",
+            "country": "SV",
+            "latitude": "13.65889",
+            "longitude": "-89.18306"
+        },
+        {
+            "city": "San Juan Opico",
+            "region": "05",
+            "country": "SV",
+            "latitude": "13.87611",
+            "longitude": "-89.35972"
+        },
+        {
+            "city": "San Francisco Men\u00e9ndez",
+            "region": "01",
+            "country": "SV",
+            "latitude": "13.84306",
+            "longitude": "-90.01583"
+        },
+        {
+            "city": "San Francisco",
+            "region": "08",
+            "country": "SV",
+            "latitude": "13.7",
+            "longitude": "-88.1"
+        },
+        {
+            "city": "San Antonio del Monte",
+            "region": "13",
+            "country": "SV",
+            "latitude": "13.71639",
+            "longitude": "-89.73833"
+        },
+        {
+            "city": "San Alejo",
+            "region": "07",
+            "country": "SV",
+            "latitude": "13.43139",
+            "longitude": "-87.96306"
+        },
+        {
+            "city": "San Agust\u00edn",
+            "region": "14",
+            "country": "SV",
+            "latitude": "13.43333",
+            "longitude": "-88.6"
+        },
+        {
+            "city": "Rosario de Mora",
+            "region": "10",
+            "country": "SV",
+            "latitude": "13.57528",
+            "longitude": "-89.20889"
+        },
+        {
+            "city": "Quezaltepeque",
+            "region": "05",
+            "country": "SV",
+            "latitude": "13.835",
+            "longitude": "-89.27444"
+        },
+        {
+            "city": "Puerto El Triunfo",
+            "region": "14",
+            "country": "SV",
+            "latitude": "13.28333",
+            "longitude": "-88.55"
+        },
+        {
+            "city": "Pasaquina",
+            "region": "07",
+            "country": "SV",
+            "latitude": "13.58444",
+            "longitude": "-87.84111"
+        },
+        {
+            "city": "Panchimalco",
+            "region": "10",
+            "country": "SV",
+            "latitude": "13.61278",
+            "longitude": "-89.18"
+        },
+        {
+            "city": "Ozatl\u00e1n",
+            "region": "14",
+            "country": "SV",
+            "latitude": "13.38333",
+            "longitude": "-88.5"
+        },
+        {
+            "city": "Olocuilta",
+            "region": "06",
+            "country": "SV",
+            "latitude": "13.56972",
+            "longitude": "-89.11722"
+        },
+        {
+            "city": "Nuevo Cuscatl\u00e1n",
+            "region": "05",
+            "country": "SV",
+            "latitude": "13.64861",
+            "longitude": "-89.26528"
+        },
+        {
+            "city": "Nueva San Salvador",
+            "region": "05",
+            "country": "SV",
+            "latitude": "13.67694",
+            "longitude": "-89.27972"
+        },
+        {
+            "city": "Nueva Guadalupe",
+            "region": "09",
+            "country": "SV",
+            "latitude": "13.53333",
+            "longitude": "-88.35"
+        },
+        {
+            "city": "Nueva Esparta",
+            "region": "07",
+            "country": "SV",
+            "latitude": "13.78361",
+            "longitude": "-87.83861"
+        },
+        {
+            "city": "Nueva Concepci\u00f3n",
+            "region": "03",
+            "country": "SV",
+            "latitude": "14.13333",
+            "longitude": "-89.3"
+        },
+        {
+            "city": "Nahuizalco",
+            "region": "13",
+            "country": "SV",
+            "latitude": "13.7775",
+            "longitude": "-89.73667"
+        },
+        {
+            "city": "Moncagua",
+            "region": "09",
+            "country": "SV",
+            "latitude": "13.53333",
+            "longitude": "-88.25"
+        },
+        {
+            "city": "Metap\u00e1n",
+            "region": "11",
+            "country": "SV",
+            "latitude": "14.33333",
+            "longitude": "-89.45"
+        },
+        {
+            "city": "Mejicanos",
+            "region": "10",
+            "country": "SV",
+            "latitude": "13.74028",
+            "longitude": "-89.21306"
+        },
+        {
+            "city": "Lolotique",
+            "region": "09",
+            "country": "SV",
+            "latitude": "13.55",
+            "longitude": "-88.35"
+        },
+        {
+            "city": "La Uni\u00f3n",
+            "region": "07",
+            "country": "SV",
+            "latitude": "13.33694",
+            "longitude": "-87.84389"
+        },
+        {
+            "city": "La Libertad",
+            "region": "05",
+            "country": "SV",
+            "latitude": "13.48833",
+            "longitude": "-89.32222"
+        },
+        {
+            "city": "Jujutla",
+            "region": "01",
+            "country": "SV",
+            "latitude": "13.78694",
+            "longitude": "-89.85722"
+        },
+        {
+            "city": "Jucuar\u00e1n",
+            "region": "14",
+            "country": "SV",
+            "latitude": "13.25389",
+            "longitude": "-88.24778"
+        },
+        {
+            "city": "Jucuapa",
+            "region": "14",
+            "country": "SV",
+            "latitude": "13.51667",
+            "longitude": "-88.38333"
+        },
+        {
+            "city": "Juay\u00faa",
+            "region": "13",
+            "country": "SV",
+            "latitude": "13.84139",
+            "longitude": "-89.74556"
+        },
+        {
+            "city": "Jocoro",
+            "region": "08",
+            "country": "SV",
+            "latitude": "13.61667",
+            "longitude": "-88.01667"
+        },
+        {
+            "city": "Jiquilisco",
+            "region": "14",
+            "country": "SV",
+            "latitude": "13.31667",
+            "longitude": "-88.58333"
+        },
+        {
+            "city": "Izalco",
+            "region": "13",
+            "country": "SV",
+            "latitude": "13.74472",
+            "longitude": "-89.67306"
+        },
+        {
+            "city": "Intipuc\u00e1",
+            "region": "07",
+            "country": "SV",
+            "latitude": "13.19694",
+            "longitude": "-88.05444"
+        },
+        {
+            "city": "Ilopango",
+            "region": "10",
+            "country": "SV",
+            "latitude": "13.70167",
+            "longitude": "-89.10944"
+        },
+        {
+            "city": "Guazapa",
+            "region": "10",
+            "country": "SV",
+            "latitude": "13.87694",
+            "longitude": "-89.17306"
+        },
+        {
+            "city": "Guaymango",
+            "region": "01",
+            "country": "SV",
+            "latitude": "13.75028",
+            "longitude": "-89.84222"
+        },
+        {
+            "city": "Guatajiagua",
+            "region": "08",
+            "country": "SV",
+            "latitude": "13.66667",
+            "longitude": "-88.2"
+        },
+        {
+            "city": "El Tr\u00e1nsito",
+            "region": "09",
+            "country": "SV",
+            "latitude": "13.35",
+            "longitude": "-88.35"
+        },
+        {
+            "city": "El Rosario",
+            "region": "06",
+            "country": "SV",
+            "latitude": "13.49778",
+            "longitude": "-89.02972"
+        },
+        {
+            "city": "El Paisnal",
+            "region": "10",
+            "country": "SV",
+            "latitude": "13.97361",
+            "longitude": "-89.21861"
+        },
+        {
+            "city": "El Congo",
+            "region": "11",
+            "country": "SV",
+            "latitude": "13.90889",
+            "longitude": "-89.49583"
+        },
+        {
+            "city": "Delgado",
+            "region": "10",
+            "country": "SV",
+            "latitude": "13.72417",
+            "longitude": "-89.17028"
+        },
+        {
+            "city": "Cuscatancingo",
+            "region": "10",
+            "country": "SV",
+            "latitude": "13.73611",
+            "longitude": "-89.18139"
+        },
+        {
+            "city": "Corinto",
+            "region": "08",
+            "country": "SV",
+            "latitude": "13.81083",
+            "longitude": "-87.97139"
+        },
+        {
+            "city": "Conchagua",
+            "region": "07",
+            "country": "SV",
+            "latitude": "13.30778",
+            "longitude": "-87.86472"
+        },
+        {
+            "city": "Concepci\u00f3n de Ataco",
+            "region": "01",
+            "country": "SV",
+            "latitude": "13.87028",
+            "longitude": "-89.84861"
+        },
+        {
+            "city": "Concepci\u00f3n Batres",
+            "region": "14",
+            "country": "SV",
+            "latitude": "13.35",
+            "longitude": "-88.36667"
+        },
+        {
+            "city": "Cojutepeque",
+            "region": "04",
+            "country": "SV",
+            "latitude": "13.71667",
+            "longitude": "-88.93333"
+        },
+        {
+            "city": "Coatepeque",
+            "region": "11",
+            "country": "SV",
+            "latitude": "13.92861",
+            "longitude": "-89.50417"
+        },
+        {
+            "city": "Ciudad Barrios",
+            "region": "09",
+            "country": "SV",
+            "latitude": "13.76667",
+            "longitude": "-88.26667"
+        },
+        {
+            "city": "Ciudad Arce",
+            "region": "05",
+            "country": "SV",
+            "latitude": "13.84028",
+            "longitude": "-89.44722"
+        },
+        {
+            "city": "Chirilagua",
+            "region": "09",
+            "country": "SV",
+            "latitude": "13.22028",
+            "longitude": "-88.13861"
+        },
+        {
+            "city": "Chinameca",
+            "region": "09",
+            "country": "SV",
+            "latitude": "13.5",
+            "longitude": "-88.35"
+        },
+        {
+            "city": "Chapeltique",
+            "region": "09",
+            "country": "SV",
+            "latitude": "13.63333",
+            "longitude": "-88.26667"
+        },
+        {
+            "city": "Chalchuapa",
+            "region": "11",
+            "country": "SV",
+            "latitude": "13.98667",
+            "longitude": "-89.68111"
+        },
+        {
+            "city": "Chalatenango",
+            "region": "03",
+            "country": "SV",
+            "latitude": "14.03333",
+            "longitude": "-88.93333"
+        },
+        {
+            "city": "Candelaria de La Frontera",
+            "region": "11",
+            "country": "SV",
+            "latitude": "14.11667",
+            "longitude": "-89.65"
+        },
+        {
+            "city": "Cacaopera",
+            "region": "08",
+            "country": "SV",
+            "latitude": "13.76667",
+            "longitude": "-88.08333"
+        },
+        {
+            "city": "Berl\u00edn",
+            "region": "14",
+            "country": "SV",
+            "latitude": "13.5",
+            "longitude": "-88.53333"
+        },
+        {
+            "city": "Ayutuxtepeque",
+            "region": "10",
+            "country": "SV",
+            "latitude": "13.74556",
+            "longitude": "-89.20639"
+        },
+        {
+            "city": "Atiquizaya",
+            "region": "01",
+            "country": "SV",
+            "latitude": "13.97694",
+            "longitude": "-89.7525"
+        },
+        {
+            "city": "Armenia",
+            "region": "13",
+            "country": "SV",
+            "latitude": "13.74361",
+            "longitude": "-89.49889"
+        },
+        {
+            "city": "Apopa",
+            "region": "10",
+            "country": "SV",
+            "latitude": "13.80722",
+            "longitude": "-89.17917"
+        },
+        {
+            "city": "Apastepeque",
+            "region": "12",
+            "country": "SV",
+            "latitude": "13.66667",
+            "longitude": "-88.78333"
+        },
+        {
+            "city": "Antiguo Cuscatl\u00e1n",
+            "region": "05",
+            "country": "SV",
+            "latitude": "13.67306",
+            "longitude": "-89.24083"
+        },
+        {
+            "city": "Anamor\u00f3s",
+            "region": "07",
+            "country": "SV",
+            "latitude": "13.74056",
+            "longitude": "-87.87361"
+        },
+        {
+            "city": "Ahuachap\u00e1n",
+            "region": "01",
+            "country": "SV",
+            "latitude": "13.92139",
+            "longitude": "-89.845"
+        },
+        {
+            "city": "Aguilares",
+            "region": "10",
+            "country": "SV",
+            "latitude": "13.95722",
+            "longitude": "-89.18972"
+        },
+        {
+            "city": "Acajutla",
+            "region": "13",
+            "country": "SV",
+            "latitude": "13.59278",
+            "longitude": "-89.8275"
+        }
+    ]
+}

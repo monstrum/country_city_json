@@ -1,0 +1,223 @@
+{
+    "country": "Lebanon",
+    "code": "LB",
+    "cities": [
+        {
+            "city": "Zghart\u0101",
+            "region": "09",
+            "country": "LB",
+            "latitude": "34.39972",
+            "longitude": "35.89361"
+        },
+        {
+            "city": "Zahl\u00e9",
+            "region": "08",
+            "country": "LB",
+            "latitude": "33.84972",
+            "longitude": "35.90417"
+        },
+        {
+            "city": "Tripoli",
+            "region": "09",
+            "country": "LB",
+            "latitude": "34.43667",
+            "longitude": "35.84972"
+        },
+        {
+            "city": "Tyre",
+            "region": "06",
+            "country": "LB",
+            "latitude": "33.27333",
+            "longitude": "35.19389"
+        },
+        {
+            "city": "S\u00eer ed Danniy\u00e9",
+            "region": "09",
+            "country": "LB",
+            "latitude": "34.38528",
+            "longitude": "36.03111"
+        },
+        {
+            "city": "Sidon",
+            "region": "06",
+            "country": "LB",
+            "latitude": "33.56306",
+            "longitude": "35.36889"
+        },
+        {
+            "city": "Ra\u2019s Bayr\u016bt",
+            "region": "04",
+            "country": "LB",
+            "latitude": "33.9",
+            "longitude": "35.48333"
+        },
+        {
+            "city": "Marjayo\u00fbn",
+            "region": "07",
+            "country": "LB",
+            "latitude": "33.36028",
+            "longitude": "35.59111"
+        },
+        {
+            "city": "Djounie",
+            "region": "05",
+            "country": "LB",
+            "latitude": "33.98083",
+            "longitude": "35.61778"
+        },
+        {
+            "city": "Joubb Jann\u00eene",
+            "region": "08",
+            "country": "LB",
+            "latitude": "33.62694",
+            "longitude": "35.78417"
+        },
+        {
+            "city": "Jba\u00efl",
+            "region": "05",
+            "country": "LB",
+            "latitude": "34.12111",
+            "longitude": "35.64806"
+        },
+        {
+            "city": "Jezz\u00eene",
+            "region": "06",
+            "country": "LB",
+            "latitude": "33.54167",
+            "longitude": "35.58444"
+        },
+        {
+            "city": "H\u00e2sba\u00efya",
+            "region": "07",
+            "country": "LB",
+            "latitude": "33.39778",
+            "longitude": "35.685"
+        },
+        {
+            "city": "Halba",
+            "region": "10",
+            "country": "LB",
+            "latitude": "34.54278",
+            "longitude": "36.07972"
+        },
+        {
+            "city": "Habbo\u00fbch",
+            "region": "07",
+            "country": "LB",
+            "latitude": "33.4075",
+            "longitude": "35.48278"
+        },
+        {
+            "city": "Bcharr\u00e9",
+            "region": "09",
+            "country": "LB",
+            "latitude": "34.25083",
+            "longitude": "36.01056"
+        },
+        {
+            "city": "Bent Jba\u00efl",
+            "region": "07",
+            "country": "LB",
+            "latitude": "33.11944",
+            "longitude": "35.43333"
+        },
+        {
+            "city": "Bhamdo\u00fbn el Mhatta",
+            "region": "05",
+            "country": "LB",
+            "latitude": "33.80861",
+            "longitude": "35.65972"
+        },
+        {
+            "city": "Bhamdoun",
+            "region": "05",
+            "country": "LB",
+            "latitude": "33.795",
+            "longitude": "35.65111"
+        },
+        {
+            "city": "Be\u00eft ed D\u00eene",
+            "region": "05",
+            "country": "LB",
+            "latitude": "33.69417",
+            "longitude": "35.58083"
+        },
+        {
+            "city": "Beirut",
+            "region": "04",
+            "country": "LB",
+            "latitude": "33.88894",
+            "longitude": "35.49442"
+        },
+        {
+            "city": "Baalbek",
+            "region": "11",
+            "country": "LB",
+            "latitude": "34.00583",
+            "longitude": "36.21806"
+        },
+        {
+            "city": "Baabda",
+            "region": "05",
+            "country": "LB",
+            "latitude": "33.83389",
+            "longitude": "35.54417"
+        },
+        {
+            "city": "Ain Ebel",
+            "region": "07",
+            "country": "LB",
+            "latitude": "33.11023",
+            "longitude": "35.40251"
+        },
+        {
+            "city": "Nabat\u00eey\u00e9 et Tahta",
+            "region": "07",
+            "country": "LB",
+            "latitude": "33.37889",
+            "longitude": "35.48389"
+        },
+        {
+            "city": "Amio\u00fbn",
+            "region": "09",
+            "country": "LB",
+            "latitude": "34.3",
+            "longitude": "35.80889"
+        },
+        {
+            "city": "Jdaidet el Matn",
+            "region": "05",
+            "country": "LB",
+            "latitude": "33.89056",
+            "longitude": "35.56639"
+        },
+        {
+            "city": "El Hermel",
+            "region": "11",
+            "country": "LB",
+            "latitude": "34.39417",
+            "longitude": "36.38472"
+        },
+        {
+            "city": "Batro\u00fbn",
+            "region": "09",
+            "country": "LB",
+            "latitude": "34.25528",
+            "longitude": "35.65806"
+        },
+        {
+            "city": "Aaley",
+            "region": "05",
+            "country": "LB",
+            "latitude": "33.80528",
+            "longitude": "35.6"
+        },
+        {
+            "city": "R\u00e2cha\u00efya el Ouadi",
+            "region": "08",
+            "country": "LB",
+            "latitude": "33.49806",
+            "longitude": "35.83972"
+        }
+    ]
+}

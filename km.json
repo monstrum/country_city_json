@@ -1,0 +1,580 @@
+{
+    "country": "Comoros",
+    "code": "KM",
+    "cities": [
+        {
+            "city": "Ouanani",
+            "region": "03",
+            "country": "KM",
+            "latitude": "-12.3375",
+            "longitude": "43.7975"
+        },
+        {
+            "city": "Vouani",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.24417",
+            "longitude": "44.37444"
+        },
+        {
+            "city": "Vanambouani",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.61139",
+            "longitude": "43.25306"
+        },
+        {
+            "city": "Singani",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.84556",
+            "longitude": "43.30917"
+        },
+        {
+            "city": "Sima",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.19556",
+            "longitude": "44.27667"
+        },
+        {
+            "city": "Salimani",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.80806",
+            "longitude": "43.25917"
+        },
+        {
+            "city": "Patsi",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.15556",
+            "longitude": "44.43722"
+        },
+        {
+            "city": "Ouzini",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.26722",
+            "longitude": "44.47972"
+        },
+        {
+            "city": "Oussivo",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.585",
+            "longitude": "43.26722"
+        },
+        {
+            "city": "Ourov\u00e9ni",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.90972",
+            "longitude": "43.48861"
+        },
+        {
+            "city": "Ouani",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.13222",
+            "longitude": "44.42583"
+        },
+        {
+            "city": "Ongoni",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.17028",
+            "longitude": "44.50694"
+        },
+        {
+            "city": "Ntsoudjini",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.65972",
+            "longitude": "43.26139"
+        },
+        {
+            "city": "Ntsaou\u00e9ni",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.46583",
+            "longitude": "43.26278"
+        },
+        {
+            "city": "Nioumachoua",
+            "region": "03",
+            "country": "KM",
+            "latitude": "-12.36139",
+            "longitude": "43.71528"
+        },
+        {
+            "city": "Kyo",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.33222",
+            "longitude": "44.51917"
+        },
+        {
+            "city": "Moutsamoudou",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.16672",
+            "longitude": "44.39944"
+        },
+        {
+            "city": "Mtsamdou",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.60694",
+            "longitude": "43.38056"
+        },
+        {
+            "city": "Mr\u00e9mani",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.30833",
+            "longitude": "44.49861"
+        },
+        {
+            "city": "Mramani",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.34639",
+            "longitude": "44.52861"
+        },
+        {
+            "city": "Moya",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.30667",
+            "longitude": "44.43778"
+        },
+        {
+            "city": "Moroni",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.70216",
+            "longitude": "43.25506"
+        },
+        {
+            "city": "Mohoro",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.82583",
+            "longitude": "43.44611"
+        },
+        {
+            "city": "Mjimandra",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.19167",
+            "longitude": "44.37028"
+        },
+        {
+            "city": "Mjamaou\u00e9",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.19361",
+            "longitude": "44.31"
+        },
+        {
+            "city": "Mitsamiouli",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.38472",
+            "longitude": "43.28444"
+        },
+        {
+            "city": "Mb\u00e9ni",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.50139",
+            "longitude": "43.3775"
+        },
+        {
+            "city": "Marahar\u00e9",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.23083",
+            "longitude": "44.31333"
+        },
+        {
+            "city": "Koni-Djodjo",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.22972",
+            "longitude": "44.48167"
+        },
+        {
+            "city": "Koni-Ngani",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.21583",
+            "longitude": "44.48"
+        },
+        {
+            "city": "Koki",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.17139",
+            "longitude": "44.44167"
+        },
+        {
+            "city": "Kangani",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.31167",
+            "longitude": "44.47472"
+        },
+        {
+            "city": "Ivouani",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.3875",
+            "longitude": "43.38639"
+        },
+        {
+            "city": "Itsandra",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.67111",
+            "longitude": "43.25472"
+        },
+        {
+            "city": "H\u00e9roumbili",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.54389",
+            "longitude": "43.37972"
+        },
+        {
+            "city": "Hoani",
+            "region": "03",
+            "country": "KM",
+            "latitude": "-12.25083",
+            "longitude": "43.67472"
+        },
+        {
+            "city": "Foumbouni",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.86167",
+            "longitude": "43.48417"
+        },
+        {
+            "city": "Fomboni",
+            "region": "03",
+            "country": "KM",
+            "latitude": "-12.28",
+            "longitude": "43.7425"
+        },
+        {
+            "city": "Dziani",
+            "region": "00",
+            "country": "KM",
+            "latitude": "-12.18333",
+            "longitude": "44.48333"
+        },
+        {
+            "city": "Domoni",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.25694",
+            "longitude": "44.53194"
+        },
+        {
+            "city": "Djoy\u00e9zi",
+            "region": "03",
+            "country": "KM",
+            "latitude": "-12.2975",
+            "longitude": "43.77333"
+        },
+        {
+            "city": "Demb\u00e9ni",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.87361",
+            "longitude": "43.39778"
+        },
+        {
+            "city": "Chironkamba",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.19111",
+            "longitude": "44.3525"
+        },
+        {
+            "city": "Chindini",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.92083",
+            "longitude": "43.48111"
+        },
+        {
+            "city": "Chezani",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.42806",
+            "longitude": "43.3875"
+        },
+        {
+            "city": "Chandra",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.195",
+            "longitude": "44.46472"
+        },
+        {
+            "city": "Bouni",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.48694",
+            "longitude": "43.38833"
+        },
+        {
+            "city": "Boungou\u00e9ni",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.20556",
+            "longitude": "44.29944"
+        },
+        {
+            "city": "Bimbini",
+            "region": "00",
+            "country": "KM",
+            "latitude": "-12.18833",
+            "longitude": "44.23556"
+        },
+        {
+            "city": "Assimpao",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.23306",
+            "longitude": "44.31972"
+        },
+        {
+            "city": "Antsah\u00e9",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.35639",
+            "longitude": "44.5225"
+        },
+        {
+            "city": "Mtakoudja",
+            "region": "03",
+            "country": "KM",
+            "latitude": "-12.26111",
+            "longitude": "43.70361"
+        },
+        {
+            "city": "Ziroudani",
+            "region": "03",
+            "country": "KM",
+            "latitude": "-12.3325",
+            "longitude": "43.7775"
+        },
+        {
+            "city": "Kavani",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.19194",
+            "longitude": "44.26944"
+        },
+        {
+            "city": "Bandajou",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.19167",
+            "longitude": "44.28694"
+        },
+        {
+            "city": "Chitrouni",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.18583",
+            "longitude": "44.33556"
+        },
+        {
+            "city": "Hajoho",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.1175",
+            "longitude": "44.48833"
+        },
+        {
+            "city": "Barakani",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.13556",
+            "longitude": "44.43167"
+        },
+        {
+            "city": "Harembo",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.14361",
+            "longitude": "44.49833"
+        },
+        {
+            "city": "Mirontsi",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.15667",
+            "longitude": "44.40806"
+        },
+        {
+            "city": "Paj\u00e9",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.16972",
+            "longitude": "44.38806"
+        },
+        {
+            "city": "Limbi",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.23944",
+            "longitude": "44.50528"
+        },
+        {
+            "city": "Lingoni",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.25583",
+            "longitude": "44.41833"
+        },
+        {
+            "city": "Magnassini-Nindri",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.27806",
+            "longitude": "44.41583"
+        },
+        {
+            "city": "Daji",
+            "region": "01",
+            "country": "KM",
+            "latitude": "-12.32583",
+            "longitude": "44.48861"
+        },
+        {
+            "city": "Ouhozi",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.405",
+            "longitude": "43.28222"
+        },
+        {
+            "city": "Mandza",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.41806",
+            "longitude": "43.29528"
+        },
+        {
+            "city": "Douniani",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.42111",
+            "longitude": "43.28889"
+        },
+        {
+            "city": "Koua",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.42083",
+            "longitude": "43.27639"
+        },
+        {
+            "city": "Hantsindzi",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.42917",
+            "longitude": "43.40222"
+        },
+        {
+            "city": "Itsandz\u00e9ni",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.47278",
+            "longitude": "43.38444"
+        },
+        {
+            "city": "Bambadjani",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.47861",
+            "longitude": "43.37722"
+        },
+        {
+            "city": "Mnoungou",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.51778",
+            "longitude": "43.37389"
+        },
+        {
+            "city": "Vanadjou",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.6075",
+            "longitude": "43.27611"
+        },
+        {
+            "city": "Bahani",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.63972",
+            "longitude": "43.28417"
+        },
+        {
+            "city": "Ouella",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.65361",
+            "longitude": "43.28056"
+        },
+        {
+            "city": "Tsidj\u00e9",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.69806",
+            "longitude": "43.26194"
+        },
+        {
+            "city": "Mvouni",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.71611",
+            "longitude": "43.26472"
+        },
+        {
+            "city": "Mavingouni",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.71639",
+            "longitude": "43.2525"
+        },
+        {
+            "city": "S\u00e9l\u00e9a",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.78444",
+            "longitude": "43.26083"
+        },
+        {
+            "city": "Madjeou\u00e9ni",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.82167",
+            "longitude": "43.27806"
+        },
+        {
+            "city": "Nioumamilima",
+            "region": "02",
+            "country": "KM",
+            "latitude": "-11.85111",
+            "longitude": "43.43722"
+        }
+    ]
+}

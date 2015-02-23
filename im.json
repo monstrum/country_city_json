@@ -1,0 +1,20 @@
+{
+    "country": "Isle of Man",
+    "code": "IM",
+    "cities": [
+        {
+            "city": "Port Erin",
+            "region": "00",
+            "country": "IM",
+            "latitude": "54.08487",
+            "longitude": "-4.75099"
+        },
+        {
+            "city": "Douglas",
+            "region": "00",
+            "country": "IM",
+            "latitude": "54.15",
+            "longitude": "-4.48333"
+        }
+    ]
+}

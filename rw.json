@@ -1,0 +1,111 @@
+{
+    "country": "RWANDA",
+    "code": "RW",
+    "cities": [
+        {
+            "city": "Rwamagana",
+            "region": "11",
+            "country": "RW",
+            "latitude": "-1.9487",
+            "longitude": "30.4347"
+        },
+        {
+            "city": "Ruhengeri",
+            "region": "13",
+            "country": "RW",
+            "latitude": "-1.49984",
+            "longitude": "29.63497"
+        },
+        {
+            "city": "Nzega",
+            "region": "15",
+            "country": "RW",
+            "latitude": "-2.479",
+            "longitude": "29.5564"
+        },
+        {
+            "city": "Kigali",
+            "region": "12",
+            "country": "RW",
+            "latitude": "-1.94995",
+            "longitude": "30.05885"
+        },
+        {
+            "city": "Kibuye",
+            "region": "14",
+            "country": "RW",
+            "latitude": "-2.0597",
+            "longitude": "29.3482"
+        },
+        {
+            "city": "Kibungo",
+            "region": "11",
+            "country": "RW",
+            "latitude": "-2.1597",
+            "longitude": "30.5427"
+        },
+        {
+            "city": "Kibeho",
+            "region": "15",
+            "country": "RW",
+            "latitude": "-2.6465",
+            "longitude": "29.5591"
+        },
+        {
+            "city": "Gitarama",
+            "region": "15",
+            "country": "RW",
+            "latitude": "-2.07444",
+            "longitude": "29.75667"
+        },
+        {
+            "city": "Gikongoro",
+            "region": "15",
+            "country": "RW",
+            "latitude": "-2.46397",
+            "longitude": "29.57389"
+        },
+        {
+            "city": "Cyangugu",
+            "region": "14",
+            "country": "RW",
+            "latitude": "-2.4846",
+            "longitude": "28.9075"
+        },
+        {
+            "city": "Gisenyi",
+            "region": "14",
+            "country": "RW",
+            "latitude": "-1.70278",
+            "longitude": "29.25639"
+        },
+        {
+            "city": "Byumba",
+            "region": "13",
+            "country": "RW",
+            "latitude": "-1.5763",
+            "longitude": "30.0675"
+        },
+        {
+            "city": "Butare",
+            "region": "15",
+            "country": "RW",
+            "latitude": "-2.59667",
+            "longitude": "29.73944"
+        },
+        {
+            "city": "Butare",
+            "region": "15",
+            "country": "RW",
+            "latitude": "-2.6038",
+            "longitude": "29.7431"
+        },
+        {
+            "city": "Nyanza",
+            "region": "15",
+            "country": "RW",
+            "latitude": "-2.35187",
+            "longitude": "29.75089"
+        }
+    ]
+}

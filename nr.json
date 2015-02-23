@@ -1,0 +1,20 @@
+{
+    "country": "Nauru",
+    "code": "NR",
+    "cities": [
+        {
+            "city": "Government Offices",
+            "region": "14",
+            "country": "NR",
+            "latitude": "-0.54756",
+            "longitude": "166.91729"
+        },
+        {
+            "city": "The Location mostly abandoned",
+            "region": "00",
+            "country": "NR",
+            "latitude": "-0.52545",
+            "longitude": "166.91247"
+        }
+    ]
+}

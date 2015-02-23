@@ -1,0 +1,104 @@
+{
+    "country": "Palau",
+    "code": "PW",
+    "cities": [
+        {
+            "city": "Koror State",
+            "region": "06",
+            "country": "PW",
+            "latitude": "7.33978",
+            "longitude": "134.47326"
+        },
+        {
+            "city": "Ulimang",
+            "region": "08",
+            "country": "PW",
+            "latitude": "7.62416",
+            "longitude": "134.64208"
+        },
+        {
+            "city": "Melekeok Village",
+            "region": "07",
+            "country": "PW",
+            "latitude": "7.49567",
+            "longitude": "134.63671"
+        },
+        {
+            "city": "Ngereklmadel",
+            "region": "11",
+            "country": "PW",
+            "latitude": "7.48826",
+            "longitude": "134.48562"
+        },
+        {
+            "city": "Ngerkeai",
+            "region": "14",
+            "country": "PW",
+            "latitude": "7.55456",
+            "longitude": "134.63612"
+        },
+        {
+            "city": "Mengellang",
+            "region": "09",
+            "country": "PW",
+            "latitude": "7.6957",
+            "longitude": "134.63054"
+        },
+        {
+            "city": "Angaur State",
+            "region": "03",
+            "country": "PW",
+            "latitude": "6.90601",
+            "longitude": "134.12997"
+        },
+        {
+            "city": "Melekeok - Palau State Capital",
+            "region": "07",
+            "country": "PW",
+            "latitude": "7.50043",
+            "longitude": "134.62355"
+        },
+        {
+            "city": "Kayangel",
+            "region": "05",
+            "country": "PW",
+            "latitude": "8.08228",
+            "longitude": "134.71725"
+        },
+        {
+            "city": "Kloulklubed",
+            "region": "15",
+            "country": "PW",
+            "latitude": "7.04192",
+            "longitude": "134.25561"
+        },
+        {
+            "city": "Ngetkib",
+            "region": "02",
+            "country": "PW",
+            "latitude": "7.36451",
+            "longitude": "134.51484"
+        },
+        {
+            "city": "Ngchemiangel",
+            "region": "01",
+            "country": "PW",
+            "latitude": "7.44613",
+            "longitude": "134.47678"
+        },
+        {
+            "city": "Ngardmau",
+            "region": "10",
+            "country": "PW",
+            "latitude": "7.60986",
+            "longitude": "134.5744"
+        },
+        {
+            "city": "Koror Town",
+            "region": "06",
+            "country": "PW",
+            "latitude": "7.34257",
+            "longitude": "134.47888"
+        }
+    ]
+}

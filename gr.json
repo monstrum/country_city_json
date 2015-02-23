@@ -1,0 +1,6684 @@
+{
+    "country": "Greece",
+    "code": "GR",
+    "cities": [
+        {
+            "city": "Zonian\u00e1",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.3",
+            "longitude": "24.83333"
+        },
+        {
+            "city": "Zar\u00f3s",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.13333",
+            "longitude": "24.9"
+        },
+        {
+            "city": "Z\u00e1rkos",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.61667",
+            "longitude": "22.13333"
+        },
+        {
+            "city": "Z\u00e1kynthos",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "37.79139",
+            "longitude": "20.89528"
+        },
+        {
+            "city": "Zakh\u00e1ro",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.48333",
+            "longitude": "21.65"
+        },
+        {
+            "city": "Zagor\u00e1",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.45",
+            "longitude": "23.1"
+        },
+        {
+            "city": "G\u00fdtheion",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "36.755",
+            "longitude": "22.56417"
+        },
+        {
+            "city": "Yimn\u00f3n",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.43333",
+            "longitude": "23.88333"
+        },
+        {
+            "city": "Yi\u00e1nnouli",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.66667",
+            "longitude": "22.38333"
+        },
+        {
+            "city": "Y\u00e9ryeri",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.13333",
+            "longitude": "24.95"
+        },
+        {
+            "city": "Yer\u00e1kion",
+            "region": "",
+            "country": "GR",
+            "latitude": "37",
+            "longitude": "22.7"
+        },
+        {
+            "city": "G\u00e9fyra",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "36.6869",
+            "longitude": "23.03642"
+        },
+        {
+            "city": "Xyl\u00f3kastron",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.07762",
+            "longitude": "22.63166"
+        },
+        {
+            "city": "Vront\u00e1dos",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "38.40889",
+            "longitude": "26.13278"
+        },
+        {
+            "city": "Vrakhna\u00edika",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.16667",
+            "longitude": "21.66667"
+        },
+        {
+            "city": "Vrakh\u00e1tion",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.95895",
+            "longitude": "22.80573"
+        },
+        {
+            "city": "Vouliagm\u00e9ni",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.81667",
+            "longitude": "23.78333"
+        },
+        {
+            "city": "Vo\u00fala",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.84221",
+            "longitude": "23.77651"
+        },
+        {
+            "city": "V\u00f3nitsa",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "38.91639",
+            "longitude": "20.88639"
+        },
+        {
+            "city": "V\u00f3los",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.36667",
+            "longitude": "22.94583"
+        },
+        {
+            "city": "Vlakh\u00f3poulon",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.03333",
+            "longitude": "21.78333"
+        },
+        {
+            "city": "Vlakhi\u00f3tis",
+            "region": "",
+            "country": "GR",
+            "latitude": "36.86667",
+            "longitude": "22.7"
+        },
+        {
+            "city": "V\u00edron",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.96667",
+            "longitude": "23.75"
+        },
+        {
+            "city": "V\u00edlia",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.16667",
+            "longitude": "23.33333"
+        },
+        {
+            "city": "Verdiko\u00fassa",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.78028",
+            "longitude": "21.97222"
+        },
+        {
+            "city": "V\u00e9lon",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.96667",
+            "longitude": "22.76667"
+        },
+        {
+            "city": "Velest\u00ednon",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.38333",
+            "longitude": "22.75"
+        },
+        {
+            "city": "V\u00e1yia",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.31667",
+            "longitude": "23.18333"
+        },
+        {
+            "city": "Vath\u00ed",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.4",
+            "longitude": "23.6"
+        },
+        {
+            "city": "Vath\u00ed",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.76567",
+            "longitude": "23.4812"
+        },
+        {
+            "city": "Vath\u00fd",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "37.75",
+            "longitude": "26.98333"
+        },
+        {
+            "city": "Vasilik\u00f3n",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.43333",
+            "longitude": "23.66667"
+        },
+        {
+            "city": "Vasilik\u00ed",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.63889",
+            "longitude": "21.70472"
+        },
+        {
+            "city": "Varv\u00e1saina",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.68333",
+            "longitude": "21.5"
+        },
+        {
+            "city": "Vartholomi\u00f3n",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "37.86667",
+            "longitude": "21.2"
+        },
+        {
+            "city": "Varn\u00e1vas",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.21667",
+            "longitude": "23.91667"
+        },
+        {
+            "city": "Varei\u00e1",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "39.08333",
+            "longitude": "26.56667"
+        },
+        {
+            "city": "V\u00e1ri",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.8312",
+            "longitude": "23.80809"
+        },
+        {
+            "city": "V\u00e1ri",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.4",
+            "longitude": "24.95"
+        },
+        {
+            "city": "V\u00e1rda",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "38.03333",
+            "longitude": "21.36667"
+        },
+        {
+            "city": "Vamvako\u00fa",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.33333",
+            "longitude": "22.41667"
+        },
+        {
+            "city": "Valsam\u00e1ta",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.16667",
+            "longitude": "20.6"
+        },
+        {
+            "city": "Tsikalari\u00e1",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.48333",
+            "longitude": "24.06667"
+        },
+        {
+            "city": "Tsar\u00edtsani",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.88333",
+            "longitude": "22.23333"
+        },
+        {
+            "city": "Tr\u00edpolis",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.50889",
+            "longitude": "22.37944"
+        },
+        {
+            "city": "Tr\u00edkeri",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.1",
+            "longitude": "23.08333"
+        },
+        {
+            "city": "Tr\u00edkala",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.55528",
+            "longitude": "21.7675"
+        },
+        {
+            "city": "Tri\u00e1nta",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.4",
+            "longitude": "28.16667"
+        },
+        {
+            "city": "Tragan\u00f3n",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.89789",
+            "longitude": "21.31245"
+        },
+        {
+            "city": "Trag\u00e1na",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.61667",
+            "longitude": "23.11667"
+        },
+        {
+            "city": "Tol\u00f3n",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.52021",
+            "longitude": "22.8586"
+        },
+        {
+            "city": "T\u00fdrnavos",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.73778",
+            "longitude": "22.28917"
+        },
+        {
+            "city": "T\u00ednos",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "37.53333",
+            "longitude": "25.16667"
+        },
+        {
+            "city": "Tymp\u00e1kion",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.06667",
+            "longitude": "24.76667"
+        },
+        {
+            "city": "T\u00edlisos",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.3",
+            "longitude": "25.01667"
+        },
+        {
+            "city": "Thrapsan\u00f3n",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.18333",
+            "longitude": "25.28333"
+        },
+        {
+            "city": "Thour\u00eda",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.08333",
+            "longitude": "22.05"
+        },
+        {
+            "city": "Th\u00edvai",
+            "region": "ESYE24",
+            "country": "GR",
+            "latitude": "38.325",
+            "longitude": "23.31889"
+        },
+        {
+            "city": "Th\u00edra",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.42171",
+            "longitude": "25.42824"
+        },
+        {
+            "city": "Thymian\u00e1",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "38.315",
+            "longitude": "26.13361"
+        },
+        {
+            "city": "Thesprotik\u00f3n",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.25",
+            "longitude": "20.78472"
+        },
+        {
+            "city": "Thespia\u00ed",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.3",
+            "longitude": "23.15"
+        },
+        {
+            "city": "Th\u00e9rmon",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.58333",
+            "longitude": "21.66667"
+        },
+        {
+            "city": "Terpsith\u00e9a",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.61667",
+            "longitude": "22.36667"
+        },
+        {
+            "city": "T\u00e9meni",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.23333",
+            "longitude": "22.11667"
+        },
+        {
+            "city": "Str\u00e1tos",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.66667",
+            "longitude": "21.31667"
+        },
+        {
+            "city": "St\u00edrion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.4",
+            "longitude": "22.71667"
+        },
+        {
+            "city": "St\u00fdpsi",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "39.31167",
+            "longitude": "26.21972"
+        },
+        {
+            "city": "Stil\u00eds",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.91667",
+            "longitude": "22.61667"
+        },
+        {
+            "city": "Stefanav\u00edkion",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.46667",
+            "longitude": "22.73333"
+        },
+        {
+            "city": "St\u00e1nos",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.8",
+            "longitude": "21.16667"
+        },
+        {
+            "city": "Stam\u00e1ta",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.13333",
+            "longitude": "23.88333"
+        },
+        {
+            "city": "Stal\u00eds",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.29257",
+            "longitude": "25.43292"
+        },
+        {
+            "city": "Sp\u00e9tses",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.26191",
+            "longitude": "23.15943"
+        },
+        {
+            "city": "Sperkh\u00f3yia",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.06667",
+            "longitude": "22.06667"
+        },
+        {
+            "city": "Sperkhi\u00e1s",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.9",
+            "longitude": "22.11667"
+        },
+        {
+            "city": "Sp\u00e1ta",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.96163",
+            "longitude": "23.91514"
+        },
+        {
+            "city": "Sparta",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.07333",
+            "longitude": "22.42972"
+        },
+        {
+            "city": "So\u00farpi",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.1",
+            "longitude": "22.9"
+        },
+        {
+            "city": "So\u00fada",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.48444",
+            "longitude": "24.07444"
+        },
+        {
+            "city": "Sofik\u00f3n",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.8",
+            "longitude": "23.05"
+        },
+        {
+            "city": "Sk\u00f3pelos",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.12472",
+            "longitude": "23.72472"
+        },
+        {
+            "city": "Sk\u00f3pelos",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "39.02972",
+            "longitude": "26.44833"
+        },
+        {
+            "city": "Sk\u00fdros",
+            "region": "ESYE24",
+            "country": "GR",
+            "latitude": "38.90417",
+            "longitude": "24.56306"
+        },
+        {
+            "city": "Sk\u00edathos",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.16227",
+            "longitude": "23.49089"
+        },
+        {
+            "city": "Skh\u00edsma",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.26667",
+            "longitude": "25.71667"
+        },
+        {
+            "city": "Skhimat\u00e1rion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.35",
+            "longitude": "23.58333"
+        },
+        {
+            "city": "Sk\u00e1la Oropo\u00fa",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.31991",
+            "longitude": "23.79124"
+        },
+        {
+            "city": "Skal\u00e1nion",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.28333",
+            "longitude": "25.18333"
+        },
+        {
+            "city": "Sk\u00e1la",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "36.85",
+            "longitude": "22.66667"
+        },
+        {
+            "city": "Site\u00eda",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.2",
+            "longitude": "26.09861"
+        },
+        {
+            "city": "Sinoikism\u00f3s Khav\u00e1rion",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.85",
+            "longitude": "21.38333"
+        },
+        {
+            "city": "S\u00fdmi",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.61333",
+            "longitude": "27.84083"
+        },
+        {
+            "city": "Siliveni\u00f3tika",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.16667",
+            "longitude": "22.33333"
+        },
+        {
+            "city": "Syko\u00farion",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.75833",
+            "longitude": "22.57861"
+        },
+        {
+            "city": "Siki\u00f3n",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.98333",
+            "longitude": "22.73333"
+        },
+        {
+            "city": "Syk\u00e9a",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "36.76556",
+            "longitude": "22.94878"
+        },
+        {
+            "city": "Sel\u00ednia",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.93361",
+            "longitude": "23.53361"
+        },
+        {
+            "city": "Selian\u00edtika",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.28333",
+            "longitude": "22.03333"
+        },
+        {
+            "city": "Sav\u00e1lia",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "37.82158",
+            "longitude": "21.29425"
+        },
+        {
+            "city": "Sard\u00ednia",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "38.88333",
+            "longitude": "21.2"
+        },
+        {
+            "city": "S\u00e1mos",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "37.75722",
+            "longitude": "26.97694"
+        },
+        {
+            "city": "S\u00e1mi",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "38.25417",
+            "longitude": "20.65139"
+        },
+        {
+            "city": "Salam\u00eds",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.96427",
+            "longitude": "23.49649"
+        },
+        {
+            "city": "Roy\u00edtika",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.18333",
+            "longitude": "21.68333"
+        },
+        {
+            "city": "Rovia\u00ed",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.81667",
+            "longitude": "23.23333"
+        },
+        {
+            "city": "Rodot\u00f3pion",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.70833",
+            "longitude": "20.72583"
+        },
+        {
+            "city": "Riz\u00f3milos",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.43333",
+            "longitude": "22.75"
+        },
+        {
+            "city": "R\u00edzoma",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.665",
+            "longitude": "21.735"
+        },
+        {
+            "city": "R\u00edon",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.3",
+            "longitude": "21.78333"
+        },
+        {
+            "city": "R\u00e9thymnon",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.36472",
+            "longitude": "24.47139"
+        },
+        {
+            "city": "Raf\u00edna",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.01812",
+            "longitude": "24.00599"
+        },
+        {
+            "city": "Ptele\u00f3s",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.05",
+            "longitude": "22.95"
+        },
+        {
+            "city": "Psikhik\u00f3n",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.01667",
+            "longitude": "23.76667"
+        },
+        {
+            "city": "Psakhn\u00e1",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.58333",
+            "longitude": "23.63333"
+        },
+        {
+            "city": "Prok\u00f3pion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.73333",
+            "longitude": "23.48333"
+        },
+        {
+            "city": "Prof\u00edtis Il\u00edas",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.2",
+            "longitude": "25.1"
+        },
+        {
+            "city": "Pr\u00e9veza",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "38.95",
+            "longitude": "20.75"
+        },
+        {
+            "city": "Pr\u00e1manta",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.52306",
+            "longitude": "21.10139"
+        },
+        {
+            "city": "P\u00f3rto Ch\u00e9li",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.32483",
+            "longitude": "23.14152"
+        },
+        {
+            "city": "Portari\u00e1",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.38333",
+            "longitude": "23"
+        },
+        {
+            "city": "P\u00f3ros",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.15",
+            "longitude": "20.78333"
+        },
+        {
+            "city": "P\u00f3ros",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.49944",
+            "longitude": "23.45361"
+        },
+        {
+            "city": "Politik\u00e1",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.6",
+            "longitude": "23.55"
+        },
+        {
+            "city": "Polichn\u00edtos",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "39.08111",
+            "longitude": "26.18333"
+        },
+        {
+            "city": "Plom\u00e1rion",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "38.97667",
+            "longitude": "26.36806"
+        },
+        {
+            "city": "Plat\u00edkambos",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.61667",
+            "longitude": "22.53333"
+        },
+        {
+            "city": "Platari\u00e1",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.4525",
+            "longitude": "20.27611"
+        },
+        {
+            "city": "Pl\u00e1tanos",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "37.66667",
+            "longitude": "21.61667"
+        },
+        {
+            "city": "Pl\u00e1tanos",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.46667",
+            "longitude": "23.6"
+        },
+        {
+            "city": "Pl\u00e1nos",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.81667",
+            "longitude": "20.85"
+        },
+        {
+            "city": "Pig\u00ed",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.51194",
+            "longitude": "21.70111"
+        },
+        {
+            "city": "Pith\u00e1rion",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.51667",
+            "longitude": "24.08333"
+        },
+        {
+            "city": "Pythag\u00f3reion",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "37.69194",
+            "longitude": "26.94833"
+        },
+        {
+            "city": "Pyrg\u00edon",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "38.22583",
+            "longitude": "25.99528"
+        },
+        {
+            "city": "Pyrget\u00f3s",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.91861",
+            "longitude": "22.59278"
+        },
+        {
+            "city": "Pyrget\u00f3s",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.55194",
+            "longitude": "21.74806"
+        },
+        {
+            "city": "P\u00fdrgos",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "37.67513",
+            "longitude": "21.44102"
+        },
+        {
+            "city": "P\u00edrgos",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35",
+            "longitude": "25.15"
+        },
+        {
+            "city": "Piraeus",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.94745",
+            "longitude": "23.63708"
+        },
+        {
+            "city": "P\u00fdlos",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "36.91344",
+            "longitude": "21.69639"
+        },
+        {
+            "city": "Pyl\u00edon",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.84778",
+            "longitude": "27.16139"
+        },
+        {
+            "city": "P\u00fdli",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.45806",
+            "longitude": "21.61889"
+        },
+        {
+            "city": "Pik\u00e9rmion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38",
+            "longitude": "23.95"
+        },
+        {
+            "city": "Petro\u00fapolis",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.04187",
+            "longitude": "23.68494"
+        },
+        {
+            "city": "P\u00e9tra",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.33333",
+            "longitude": "26.18333"
+        },
+        {
+            "city": "P\u00e9tas",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.16667",
+            "longitude": "21.03472"
+        },
+        {
+            "city": "Periyi\u00e1lion",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.95",
+            "longitude": "22.83333"
+        },
+        {
+            "city": "Periv\u00f3lion",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "39.42056",
+            "longitude": "20.01472"
+        },
+        {
+            "city": "Periv\u00f3lia",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.48333",
+            "longitude": "23.98333"
+        },
+        {
+            "city": "Perist\u00e9rion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.01667",
+            "longitude": "23.7"
+        },
+        {
+            "city": "P\u00e9rdika",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.36889",
+            "longitude": "20.30389"
+        },
+        {
+            "city": "P\u00e9rama",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.69528",
+            "longitude": "20.84861"
+        },
+        {
+            "city": "P\u00e9rama",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.96775",
+            "longitude": "23.5721"
+        },
+        {
+            "city": "P\u00e9rama",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.36972",
+            "longitude": "24.69722"
+        },
+        {
+            "city": "Perakh\u00f3ra",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "38.03333",
+            "longitude": "22.95"
+        },
+        {
+            "city": "Pel\u00f3pion",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.68333",
+            "longitude": "21.58333"
+        },
+        {
+            "city": "Pelasy\u00eda",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.95",
+            "longitude": "22.83333"
+        },
+        {
+            "city": "Pedin\u00ed",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.59972",
+            "longitude": "20.84333"
+        },
+        {
+            "city": "P\u00e1trai",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "38.24444",
+            "longitude": "21.73444"
+        },
+        {
+            "city": "Patit\u00edrion",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.15",
+            "longitude": "23.86667"
+        },
+        {
+            "city": "P\u00e1sion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.01667",
+            "longitude": "22.73333"
+        },
+        {
+            "city": "P\u00e1ros",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "37.08333",
+            "longitude": "25.15"
+        },
+        {
+            "city": "P\u00e1rga",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.28306",
+            "longitude": "20.39639"
+        },
+        {
+            "city": "Parav\u00f3la",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.61667",
+            "longitude": "21.51667"
+        },
+        {
+            "city": "Pro\u00e1stion",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.48861",
+            "longitude": "21.9025"
+        },
+        {
+            "city": "Parap\u00f3tamos",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.54917",
+            "longitude": "20.32278"
+        },
+        {
+            "city": "Paramyth\u00eda",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.47111",
+            "longitude": "20.51111"
+        },
+        {
+            "city": "Paral\u00eda",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.2",
+            "longitude": "21.7"
+        },
+        {
+            "city": "Papp\u00e1dos",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "39.03944",
+            "longitude": "26.45472"
+        },
+        {
+            "city": "Pappad\u00e1tai",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.31333",
+            "longitude": "20.7925"
+        },
+        {
+            "city": "P\u00e1normos",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.41667",
+            "longitude": "24.7"
+        },
+        {
+            "city": "Panait\u00f3lion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.58333",
+            "longitude": "21.45"
+        },
+        {
+            "city": "P\u00e1mfylla",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "39.15667",
+            "longitude": "26.52167"
+        },
+        {
+            "city": "Pall\u00edni",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.99702",
+            "longitude": "23.87723"
+        },
+        {
+            "city": "Palam\u00e1s",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.46667",
+            "longitude": "22.08333"
+        },
+        {
+            "city": "P\u00e1lairos",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "38.78333",
+            "longitude": "20.88333"
+        },
+        {
+            "city": "Palai\u00f3pyrgos",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.60722",
+            "longitude": "21.81722"
+        },
+        {
+            "city": "Palai\u00f3 F\u00e1liro",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.92066",
+            "longitude": "23.70916"
+        },
+        {
+            "city": "Palaiomon\u00e1stiron",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.4625",
+            "longitude": "21.65861"
+        },
+        {
+            "city": "Palai\u00f3kipos",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "39.05583",
+            "longitude": "26.45111"
+        },
+        {
+            "city": "Palaioch\u00f3ra",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.23333",
+            "longitude": "23.68333"
+        },
+        {
+            "city": "Pala\u00edkastron",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.2",
+            "longitude": "26.25"
+        },
+        {
+            "city": "Palai\u00e1 F\u00f3kaia",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.71995",
+            "longitude": "23.94626"
+        },
+        {
+            "city": "Paian\u00eda",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.95527",
+            "longitude": "23.85443"
+        },
+        {
+            "city": "Ox\u00edlithos",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.58333",
+            "longitude": "24.11667"
+        },
+        {
+            "city": "Ovri\u00e1",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.18333",
+            "longitude": "21.71667"
+        },
+        {
+            "city": "Orchomen\u00f3s",
+            "region": "ESYE24",
+            "country": "GR",
+            "latitude": "38.4929",
+            "longitude": "22.97962"
+        },
+        {
+            "city": "Oreo\u00ed",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.95",
+            "longitude": "23.1"
+        },
+        {
+            "city": "Omvriak\u00ed",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.1",
+            "longitude": "22.26667"
+        },
+        {
+            "city": "Oino\u00fassai",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "38.51417",
+            "longitude": "26.22028"
+        },
+        {
+            "city": "Oin\u00f3fita",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.31667",
+            "longitude": "23.63333"
+        },
+        {
+            "city": "Oikism\u00f3s Pap\u00e1gou",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.98333",
+            "longitude": "23.81667"
+        },
+        {
+            "city": "N\u00edkaia",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.56667",
+            "longitude": "22.46667"
+        },
+        {
+            "city": "N\u00edkaia",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.96667",
+            "longitude": "23.65"
+        },
+        {
+            "city": "Neroko\u00faros",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.48333",
+            "longitude": "24.03333"
+        },
+        {
+            "city": "N\u00e9on Monast\u00edrion",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.23333",
+            "longitude": "22.25"
+        },
+        {
+            "city": "N\u00e9on Karlov\u00e1sion",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "37.79028",
+            "longitude": "26.70444"
+        },
+        {
+            "city": "Neochor\u00f3poulon",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.62861",
+            "longitude": "20.83417"
+        },
+        {
+            "city": "Oichal\u00eda",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.60667",
+            "longitude": "21.98083"
+        },
+        {
+            "city": "Neoch\u00f3rion",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.27694",
+            "longitude": "21.73306"
+        },
+        {
+            "city": "Neoch\u00f3rion",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.06944",
+            "longitude": "21.01889"
+        },
+        {
+            "city": "Neoch\u00f3rion",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "38.41667",
+            "longitude": "21.28333"
+        },
+        {
+            "city": "Neoch\u00f3rion",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "37.91667",
+            "longitude": "21.2"
+        },
+        {
+            "city": "N\u00e9nita",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "38.23889",
+            "longitude": "26.09306"
+        },
+        {
+            "city": "Nem\u00e9a",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.81667",
+            "longitude": "22.66667"
+        },
+        {
+            "city": "N\u00e9a T\u00edrins",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.6",
+            "longitude": "22.81667"
+        },
+        {
+            "city": "N\u00e9a St\u00edra",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.18333",
+            "longitude": "24.2"
+        },
+        {
+            "city": "N\u00e9a Sm\u00edrni",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.95",
+            "longitude": "23.71667"
+        },
+        {
+            "city": "N\u00e9a Sel\u00e9fkeia",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.52556",
+            "longitude": "20.25861"
+        },
+        {
+            "city": "Ne\u00e1polis",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.25389",
+            "longitude": "25.60972"
+        },
+        {
+            "city": "N\u00e9a P\u00e9ramos",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.00763",
+            "longitude": "23.42295"
+        },
+        {
+            "city": "N\u00e9a Pal\u00e1tia",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.31667",
+            "longitude": "23.8"
+        },
+        {
+            "city": "N\u00e9a Manol\u00e1s",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.05",
+            "longitude": "21.38333"
+        },
+        {
+            "city": "N\u00e9a M\u00e1kri",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.08333",
+            "longitude": "23.98333"
+        },
+        {
+            "city": "N\u00e9a Li\u00f3sia",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.03333",
+            "longitude": "23.7"
+        },
+        {
+            "city": "N\u00e9a K\u00edos",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.59102",
+            "longitude": "22.74144"
+        },
+        {
+            "city": "N\u00e9a Ion\u00eda",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.03333",
+            "longitude": "23.75"
+        },
+        {
+            "city": "N\u00e9a Filadh\u00e9lfia",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.03333",
+            "longitude": "23.73333"
+        },
+        {
+            "city": "N\u00e9a Erithra\u00eda",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.1",
+            "longitude": "23.81667"
+        },
+        {
+            "city": "N\u00e9a Art\u00e1ki",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.51667",
+            "longitude": "23.63333"
+        },
+        {
+            "city": "N\u00e9a Ankh\u00edalos",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.28333",
+            "longitude": "22.81667"
+        },
+        {
+            "city": "Naxos",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "37.10556",
+            "longitude": "25.37639"
+        },
+        {
+            "city": "N\u00e1fplio",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.56828",
+            "longitude": "22.80528"
+        },
+        {
+            "city": "N\u00e1fpaktos",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "38.39167",
+            "longitude": "21.8275"
+        },
+        {
+            "city": "N\u00e1ousa",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.11667",
+            "longitude": "25.23333"
+        },
+        {
+            "city": "Mouzour\u00e1s",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.53333",
+            "longitude": "24.15"
+        },
+        {
+            "city": "Mouz\u00e1kion",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.42972",
+            "longitude": "21.66361"
+        },
+        {
+            "city": "Mouzaki",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.73333",
+            "longitude": "20.81667"
+        },
+        {
+            "city": "Mournia\u00ed",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.47639",
+            "longitude": "24.00917"
+        },
+        {
+            "city": "Mo\u00falkion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38",
+            "longitude": "22.73333"
+        },
+        {
+            "city": "Moskh\u00e1ton",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.95",
+            "longitude": "23.66667"
+        },
+        {
+            "city": "M\u00f3ria",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "39.13333",
+            "longitude": "26.51667"
+        },
+        {
+            "city": "Morfovo\u00fanion",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.3525",
+            "longitude": "21.75"
+        },
+        {
+            "city": "Monastir\u00e1kion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.85",
+            "longitude": "20.95"
+        },
+        {
+            "city": "M\u00f3los",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.81667",
+            "longitude": "22.65"
+        },
+        {
+            "city": "Mol\u00e1oi",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "36.80757",
+            "longitude": "22.85132"
+        },
+        {
+            "city": "Mokh\u00f3s",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.26667",
+            "longitude": "25.41667"
+        },
+        {
+            "city": "Mo\u00edrai",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.05",
+            "longitude": "24.86667"
+        },
+        {
+            "city": "Mitr\u00f3polis",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.33944",
+            "longitude": "21.83694"
+        },
+        {
+            "city": "Mytilinio\u00ed",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "37.72861",
+            "longitude": "26.90833"
+        },
+        {
+            "city": "Mytil\u00edni",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "39.11",
+            "longitude": "26.55472"
+        },
+        {
+            "city": "Mytikas",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.44373",
+            "longitude": "23.65365"
+        },
+        {
+            "city": "M\u00edthymna",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.36781",
+            "longitude": "26.17639"
+        },
+        {
+            "city": "Mirs\u00edni",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.91667",
+            "longitude": "21.23333"
+        },
+        {
+            "city": "M\u00fdrina",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "39.87972",
+            "longitude": "25.07417"
+        },
+        {
+            "city": "Mil\u00e9sion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.28333",
+            "longitude": "23.8"
+        },
+        {
+            "city": "Mykonos",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "37.44529",
+            "longitude": "25.32872"
+        },
+        {
+            "city": "Metsovo",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.76944",
+            "longitude": "21.18222"
+        },
+        {
+            "city": "Meth\u00f3ni",
+            "region": "",
+            "country": "GR",
+            "latitude": "36.81973",
+            "longitude": "21.70486"
+        },
+        {
+            "city": "M\u00e9thana",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.58234",
+            "longitude": "23.39142"
+        },
+        {
+            "city": "Mess\u00edni",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.05111",
+            "longitude": "22.00778"
+        },
+        {
+            "city": "Mesol\u00f3ngion",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "38.36917",
+            "longitude": "21.42917"
+        },
+        {
+            "city": "Mesari\u00e1",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.39848",
+            "longitude": "25.44589"
+        },
+        {
+            "city": "Ag\u00eda Tri\u00e1s",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.46333",
+            "longitude": "21.89861"
+        },
+        {
+            "city": "Men\u00eddion",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "39.04194",
+            "longitude": "21.11778"
+        },
+        {
+            "city": "Mel\u00edvoia",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.75",
+            "longitude": "22.8"
+        },
+        {
+            "city": "Mel\u00edssia",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.05",
+            "longitude": "23.83333"
+        },
+        {
+            "city": "Meligal\u00e1s",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.21667",
+            "longitude": "21.96667"
+        },
+        {
+            "city": "M\u00e9gara",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38",
+            "longitude": "23.34556"
+        },
+        {
+            "city": "Megal\u00f3polis",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.40111",
+            "longitude": "22.14222"
+        },
+        {
+            "city": "Megaloch\u00f3rion",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.55944",
+            "longitude": "21.84083"
+        },
+        {
+            "city": "Meg\u00e1li Kh\u00f3ra",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.63333",
+            "longitude": "21.36667"
+        },
+        {
+            "city": "Meg\u00e1la Kal\u00fdvia",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.5",
+            "longitude": "21.7875"
+        },
+        {
+            "city": "Mavromm\u00e1tion",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.42389",
+            "longitude": "21.69556"
+        },
+        {
+            "city": "Mart\u00ednon",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.56667",
+            "longitude": "23.21667"
+        },
+        {
+            "city": "Marm\u00e1rion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.04839",
+            "longitude": "24.32039"
+        },
+        {
+            "city": "Mark\u00f3poulon Oropo\u00fa",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.28333",
+            "longitude": "23.83333"
+        },
+        {
+            "city": "Mark\u00f3poulo",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.88333",
+            "longitude": "23.93333"
+        },
+        {
+            "city": "Marath\u00f3n",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.15",
+            "longitude": "23.96667"
+        },
+        {
+            "city": "Marath\u00f3kampos",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "37.72639",
+            "longitude": "26.69"
+        },
+        {
+            "city": "Manol\u00e1s",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "38.05",
+            "longitude": "21.35"
+        },
+        {
+            "city": "M\u00e1ndra",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.06667",
+            "longitude": "23.5"
+        },
+        {
+            "city": "Manto\u00fadion",
+            "region": "ESYE24",
+            "country": "GR",
+            "latitude": "38.8",
+            "longitude": "23.48333"
+        },
+        {
+            "city": "Mantam\u00e1dos",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "39.31167",
+            "longitude": "26.33389"
+        },
+        {
+            "city": "M\u00e1lia",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.28333",
+            "longitude": "25.46667"
+        },
+        {
+            "city": "Males\u00edna",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.61667",
+            "longitude": "23.23333"
+        },
+        {
+            "city": "Makr\u00edsia",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.61667",
+            "longitude": "21.6"
+        },
+        {
+            "city": "Makrin\u00edtsa",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.4",
+            "longitude": "22.98333"
+        },
+        {
+            "city": "Makrikh\u00f3rion",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.8",
+            "longitude": "22.48333"
+        },
+        {
+            "city": "Makrych\u00f3rion",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.44",
+            "longitude": "21.96639"
+        },
+        {
+            "city": "Makrak\u00f3mi",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.93333",
+            "longitude": "22.11667"
+        },
+        {
+            "city": "Mago\u00fala",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.41667",
+            "longitude": "23.83333"
+        },
+        {
+            "city": "Mago\u00fala",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.08333",
+            "longitude": "23.51667"
+        },
+        {
+            "city": "Mago\u00fala",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.08333",
+            "longitude": "22.41667"
+        },
+        {
+            "city": "Loutr\u00e1kion",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.9783",
+            "longitude": "22.97781"
+        },
+        {
+            "city": "Loutr\u00e1",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "39.05694",
+            "longitude": "26.545"
+        },
+        {
+            "city": "Lo\u00faros",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.16278",
+            "longitude": "20.75194"
+        },
+        {
+            "city": "Louk\u00edsia",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.48333",
+            "longitude": "23.45"
+        },
+        {
+            "city": "Lixo\u00farion",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "38.20194",
+            "longitude": "20.43139"
+        },
+        {
+            "city": "Livan\u00e1tai",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.71667",
+            "longitude": "23.05"
+        },
+        {
+            "city": "Lithaki\u00e1",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.71667",
+            "longitude": "20.83333"
+        },
+        {
+            "city": "L\u00edmni",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.76667",
+            "longitude": "23.31667"
+        },
+        {
+            "city": "Lim\u00edn Kherson\u00edsou",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.31621",
+            "longitude": "25.39279"
+        },
+        {
+            "city": "Lik\u00f3vrisi",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.06667",
+            "longitude": "23.78333"
+        },
+        {
+            "city": "Ligouri\u00f3n",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.61667",
+            "longitude": "23.03333"
+        },
+        {
+            "city": "Lefk\u00edmmi",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "39.42333",
+            "longitude": "20.06889"
+        },
+        {
+            "city": "Lefk\u00e1da",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "38.8275",
+            "longitude": "20.70194"
+        },
+        {
+            "city": "Lev\u00e1deia",
+            "region": "ESYE24",
+            "country": "GR",
+            "latitude": "38.435",
+            "longitude": "22.87389"
+        },
+        {
+            "city": "Lepeno\u00fa",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.7",
+            "longitude": "21.28333"
+        },
+        {
+            "city": "Leon\u00eddi",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.16679",
+            "longitude": "22.85773"
+        },
+        {
+            "city": "L\u00e9khaion",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.93333",
+            "longitude": "22.85"
+        },
+        {
+            "city": "Lechain\u00e1",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "37.93333",
+            "longitude": "21.26667"
+        },
+        {
+            "city": "L\u00e1vrion",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.71445",
+            "longitude": "24.05648"
+        },
+        {
+            "city": "L\u00e1risa",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.63722",
+            "longitude": "22.42028"
+        },
+        {
+            "city": "L\u00e1rimna",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.56667",
+            "longitude": "23.28333"
+        },
+        {
+            "city": "L\u00e1pas",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.1",
+            "longitude": "21.41667"
+        },
+        {
+            "city": "Lagk\u00e1da",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "38.47583",
+            "longitude": "26.12083"
+        },
+        {
+            "city": "Lam\u00eda",
+            "region": "ESYE24",
+            "country": "GR",
+            "latitude": "38.9",
+            "longitude": "22.43333"
+        },
+        {
+            "city": "L\u00e1las",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.71667",
+            "longitude": "21.71667"
+        },
+        {
+            "city": "Lakk\u00edon",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.13333",
+            "longitude": "26.85"
+        },
+        {
+            "city": "Krous\u00f3n",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.23333",
+            "longitude": "24.98333"
+        },
+        {
+            "city": "Krokea\u00ed",
+            "region": "",
+            "country": "GR",
+            "latitude": "36.88333",
+            "longitude": "22.55"
+        },
+        {
+            "city": "Taxi\u00e1rchai",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.575",
+            "longitude": "21.8925"
+        },
+        {
+            "city": "Krits\u00e1",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.16667",
+            "longitude": "25.65"
+        },
+        {
+            "city": "Krion\u00e9rion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.15",
+            "longitude": "23.83333"
+        },
+        {
+            "city": "Krikellos",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.95",
+            "longitude": "21.18333"
+        },
+        {
+            "city": "Kr\u00e9stena",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "37.61667",
+            "longitude": "21.63333"
+        },
+        {
+            "city": "Kran\u00eddi",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.38167",
+            "longitude": "23.15528"
+        },
+        {
+            "city": "Kran\u00e9a Elass\u00f3nos",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.94833",
+            "longitude": "21.96583"
+        },
+        {
+            "city": "Kouvar\u00e1s",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.83333",
+            "longitude": "23.96667"
+        },
+        {
+            "city": "Kouts\u00e9lion",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.58889",
+            "longitude": "20.91417"
+        },
+        {
+            "city": "Kostakio\u00ed",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.1375",
+            "longitude": "20.95889"
+        },
+        {
+            "city": "Kos",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.89333",
+            "longitude": "27.28889"
+        },
+        {
+            "city": "Korop\u00ed",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.89886",
+            "longitude": "23.87181"
+        },
+        {
+            "city": "Kor\u00f3ni",
+            "region": "",
+            "country": "GR",
+            "latitude": "36.8",
+            "longitude": "21.95"
+        },
+        {
+            "city": "Corinth",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.94068",
+            "longitude": "22.95734"
+        },
+        {
+            "city": "Kor\u00edni",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.25",
+            "longitude": "22.98333"
+        },
+        {
+            "city": "Komp\u00f3tion",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.10222",
+            "longitude": "21.08528"
+        },
+        {
+            "city": "Kolimv\u00e1rion",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.55",
+            "longitude": "23.78333"
+        },
+        {
+            "city": "Kokk\u00f3nion",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.96667",
+            "longitude": "22.78333"
+        },
+        {
+            "city": "Kokkini Hani",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.32794",
+            "longitude": "25.25826"
+        },
+        {
+            "city": "Kokk\u00e1rion",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "37.77639",
+            "longitude": "26.89389"
+        },
+        {
+            "city": "Koil\u00e1s",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.40946",
+            "longitude": "23.11471"
+        },
+        {
+            "city": "K\u00edssamos",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.49389",
+            "longitude": "23.65694"
+        },
+        {
+            "city": "K\u00edrra",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.43333",
+            "longitude": "22.45"
+        },
+        {
+            "city": "Kiri\u00e1kion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.35",
+            "longitude": "22.78333"
+        },
+        {
+            "city": "Kyr\u00e1s Vr\u00fdsi",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.91468",
+            "longitude": "22.986"
+        },
+        {
+            "city": "Kips\u00e9li",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.00272",
+            "longitude": "23.74107"
+        },
+        {
+            "city": "Kypariss\u00eda",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.25111",
+            "longitude": "21.67361"
+        },
+        {
+            "city": "Kin\u00e9ta",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.97094",
+            "longitude": "23.21832"
+        },
+        {
+            "city": "K\u00edmi",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.63333",
+            "longitude": "24.1"
+        },
+        {
+            "city": "Kyll\u00edni",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "37.93333",
+            "longitude": "21.15"
+        },
+        {
+            "city": "Kifisi\u00e1",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.07438",
+            "longitude": "23.81106"
+        },
+        {
+            "city": "Ki\u00e1ton",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "38.01667",
+            "longitude": "22.75"
+        },
+        {
+            "city": "Ch\u00f3ra",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "37.70361",
+            "longitude": "26.90556"
+        },
+        {
+            "city": "Kh\u00f3ra",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.05",
+            "longitude": "21.71667"
+        },
+        {
+            "city": "Kholarg\u00f3s",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38",
+            "longitude": "23.8"
+        },
+        {
+            "city": "Ch\u00edos",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "38.36778",
+            "longitude": "26.13583"
+        },
+        {
+            "city": "Khiliom\u00f3dhion",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.81667",
+            "longitude": "22.86667"
+        },
+        {
+            "city": "Chav\u00e1rion",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "37.85",
+            "longitude": "21.38333"
+        },
+        {
+            "city": "Khani\u00f3tis",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.99908",
+            "longitude": "23.58001"
+        },
+        {
+            "city": "Chani\u00e1",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.51222",
+            "longitude": "24.01556"
+        },
+        {
+            "city": "Khalko\u00fatsion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.33333",
+            "longitude": "23.73333"
+        },
+        {
+            "city": "Chalk\u00edda",
+            "region": "ESYE24",
+            "country": "GR",
+            "latitude": "38.46361",
+            "longitude": "23.59944"
+        },
+        {
+            "city": "Chalki\u00e1des",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.15917",
+            "longitude": "20.9325"
+        },
+        {
+            "city": "Kh\u00e1lki",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.56667",
+            "longitude": "22.53333"
+        },
+        {
+            "city": "Khal\u00e1ndrion",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.03058",
+            "longitude": "23.79793"
+        },
+        {
+            "city": "Kerats\u00ednion",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.9625",
+            "longitude": "23.61972"
+        },
+        {
+            "city": "Kerat\u00e9a",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.80733",
+            "longitude": "23.97692"
+        },
+        {
+            "city": "K\u00e9falos",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.74528",
+            "longitude": "26.95889"
+        },
+        {
+            "city": "Kav\u00e1silas",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.86667",
+            "longitude": "21.26667"
+        },
+        {
+            "city": "Katsik\u00e1s",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.6225",
+            "longitude": "20.8875"
+        },
+        {
+            "city": "Kato\u00fana",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.78333",
+            "longitude": "21.11667"
+        },
+        {
+            "city": "K\u00e1to Tithor\u00e9a",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.6",
+            "longitude": "22.71667"
+        },
+        {
+            "city": "K\u00e1to So\u00falion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.16667",
+            "longitude": "24"
+        },
+        {
+            "city": "K\u00e1to Mazar\u00e1kion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.06667",
+            "longitude": "21.65"
+        },
+        {
+            "city": "K\u00e1to Lekh\u00f3nia",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.33333",
+            "longitude": "23.03333"
+        },
+        {
+            "city": "K\u00e1to Khor\u00edon",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.05",
+            "longitude": "25.78333"
+        },
+        {
+            "city": "K\u00e1to Glik\u00f3vrisi",
+            "region": "",
+            "country": "GR",
+            "latitude": "36.83333",
+            "longitude": "22.78333"
+        },
+        {
+            "city": "K\u00e1to \u00c1ssos",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.95",
+            "longitude": "22.83333"
+        },
+        {
+            "city": "K\u00e1to As\u00edtai",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.2",
+            "longitude": "25"
+        },
+        {
+            "city": "K\u00e1to Acha\u1e2fa",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "38.15",
+            "longitude": "21.55"
+        },
+        {
+            "city": "Katast\u00e1rion",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.83333",
+            "longitude": "20.76667"
+        },
+        {
+            "city": "Kastr\u00e1kion",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.71556",
+            "longitude": "21.61806"
+        },
+        {
+            "city": "Kast\u00e9llion",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.2",
+            "longitude": "25.33333"
+        },
+        {
+            "city": "Kast\u00e9lla",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.56667",
+            "longitude": "23.63333"
+        },
+        {
+            "city": "Karpokh\u00f3rion",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.33333",
+            "longitude": "22.01667"
+        },
+        {
+            "city": "Karpen\u00edsion",
+            "region": "ESYE24",
+            "country": "GR",
+            "latitude": "38.91667",
+            "longitude": "21.78333"
+        },
+        {
+            "city": "K\u00e1rpathos",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "35.50701",
+            "longitude": "27.21322"
+        },
+        {
+            "city": "K\u00e1rystos",
+            "region": "ESYE24",
+            "country": "GR",
+            "latitude": "38.01333",
+            "longitude": "24.41611"
+        },
+        {
+            "city": "Karia\u00ed",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.3",
+            "longitude": "22.5"
+        },
+        {
+            "city": "Karditsomago\u00fala",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.39194",
+            "longitude": "21.92417"
+        },
+        {
+            "city": "Kard\u00edtsa",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.36556",
+            "longitude": "21.92167"
+        },
+        {
+            "city": "Kardam\u00e1s",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "37.76667",
+            "longitude": "21.33333"
+        },
+        {
+            "city": "Kard\u00e1maina",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.78139",
+            "longitude": "27.1425"
+        },
+        {
+            "city": "Kar\u00e1toulas",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.73333",
+            "longitude": "21.53333"
+        },
+        {
+            "city": "Kapar\u00e9llion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.23333",
+            "longitude": "23.21667"
+        },
+        {
+            "city": "Kapandr\u00edtion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.21667",
+            "longitude": "23.88333"
+        },
+        {
+            "city": "Kand\u00edla",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "38.7",
+            "longitude": "20.93333"
+        },
+        {
+            "city": "Kanall\u00e1kion",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.23361",
+            "longitude": "20.6"
+        },
+        {
+            "city": "Kan\u00e1lia",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.5",
+            "longitude": "22.88333"
+        },
+        {
+            "city": "Kam\u00e9na Vo\u00farla",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.77844",
+            "longitude": "22.78573"
+        },
+        {
+            "city": "Kamp\u00ed",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.21667",
+            "longitude": "20.9"
+        },
+        {
+            "city": "Kam\u00e1rion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.1",
+            "longitude": "22.58333"
+        },
+        {
+            "city": "Kam\u00e1rion",
+            "region": "",
+            "country": "GR",
+            "latitude": "36.8",
+            "longitude": "25.81667"
+        },
+        {
+            "city": "Kam\u00e1rai",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.3",
+            "longitude": "22"
+        },
+        {
+            "city": "Kallon\u00ed",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "39.23278",
+            "longitude": "26.20806"
+        },
+        {
+            "city": "Kall\u00edthiron",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.28167",
+            "longitude": "21.90611"
+        },
+        {
+            "city": "Kallith\u00e9a",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.95",
+            "longitude": "23.7"
+        },
+        {
+            "city": "Kallif\u00f3nion",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.2725",
+            "longitude": "21.95611"
+        },
+        {
+            "city": "Kal\u00fdvia Thoriko\u00fa",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.84066",
+            "longitude": "23.92766"
+        },
+        {
+            "city": "Kal\u00edvai",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.45",
+            "longitude": "24.16667"
+        },
+        {
+            "city": "K\u00e1lymnos",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.95",
+            "longitude": "26.98333"
+        },
+        {
+            "city": "Kal\u00e1vryta",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "38.03222",
+            "longitude": "22.1125"
+        },
+        {
+            "city": "K\u00e1lamos",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.28333",
+            "longitude": "23.86667"
+        },
+        {
+            "city": "Kalami\u00e1",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.16556",
+            "longitude": "20.93167"
+        },
+        {
+            "city": "Kalamp\u00e1ka",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.70444",
+            "longitude": "21.62694"
+        },
+        {
+            "city": "Kalam\u00e1ta",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.03889",
+            "longitude": "22.11417"
+        },
+        {
+            "city": "Kalam\u00e1ki",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.91033",
+            "longitude": "23.72361"
+        },
+        {
+            "city": "Kaisarian\u00ed",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.96667",
+            "longitude": "23.8"
+        },
+        {
+            "city": "Kaino\u00faryion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.8",
+            "longitude": "22.71667"
+        },
+        {
+            "city": "Kaino\u00faryion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.6",
+            "longitude": "21.5"
+        },
+        {
+            "city": "Ith\u00e1ki",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "38.36421",
+            "longitude": "20.71848"
+        },
+        {
+            "city": "It\u00e9a",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.46667",
+            "longitude": "22.16667"
+        },
+        {
+            "city": "It\u00e9a",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.43333",
+            "longitude": "22.41667"
+        },
+        {
+            "city": "Istia\u00eda",
+            "region": "ESYE24",
+            "country": "GR",
+            "latitude": "38.95583",
+            "longitude": "23.15278"
+        },
+        {
+            "city": "Isthm\u00eda",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.91211",
+            "longitude": "22.99988"
+        },
+        {
+            "city": "Ir\u00e1klion",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.06667",
+            "longitude": "23.76667"
+        },
+        {
+            "city": "Ir\u00e1kleion",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.32787",
+            "longitude": "25.14341"
+        },
+        {
+            "city": "\u00cdos",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.73333",
+            "longitude": "25.28333"
+        },
+        {
+            "city": "Io\u00e1nnina",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.6675",
+            "longitude": "20.85083"
+        },
+        {
+            "city": "Igoumen\u00edtsa",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.50389",
+            "longitude": "20.26556"
+        },
+        {
+            "city": "Ier\u00e1petra",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.01",
+            "longitude": "25.73528"
+        },
+        {
+            "city": "Ydro\u00fassa",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "37.77944",
+            "longitude": "26.75167"
+        },
+        {
+            "city": "\u00dddra",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.35095",
+            "longitude": "23.46697"
+        },
+        {
+            "city": "Gr\u00edzanon",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.63333",
+            "longitude": "22.05"
+        },
+        {
+            "city": "Grammen\u00edtsa",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.18306",
+            "longitude": "20.98056"
+        },
+        {
+            "city": "Grammatiko\u00fa",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.53333",
+            "longitude": "21.5"
+        },
+        {
+            "city": "Grammatik\u00f3n",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.2",
+            "longitude": "23.96667"
+        },
+        {
+            "city": "Gra Liyi\u00e1",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.01667",
+            "longitude": "25.68333"
+        },
+        {
+            "city": "Graikoch\u00f3rion",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.47889",
+            "longitude": "20.295"
+        },
+        {
+            "city": "Go\u00favai",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.3105",
+            "longitude": "25.31327"
+        },
+        {
+            "city": "Go\u00farnai",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.31667",
+            "longitude": "25.28333"
+        },
+        {
+            "city": "Gouri\u00e1",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.46667",
+            "longitude": "21.26667"
+        },
+        {
+            "city": "Go\u00fameron",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.76667",
+            "longitude": "21.61667"
+        },
+        {
+            "city": "G\u00f3nnoi",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.86667",
+            "longitude": "22.46667"
+        },
+        {
+            "city": "G\u00f3mfoi",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.46361",
+            "longitude": "21.6925"
+        },
+        {
+            "city": "G\u00e1zion",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.33333",
+            "longitude": "25.06667"
+        },
+        {
+            "city": "Gavalo\u00fa",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.53333",
+            "longitude": "21.53333"
+        },
+        {
+            "city": "Gasto\u00fani",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "37.85",
+            "longitude": "21.25"
+        },
+        {
+            "city": "Gargali\u00e1noi",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.06667",
+            "longitude": "21.63333"
+        },
+        {
+            "city": "Gal\u00e1tsion",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.01667",
+            "longitude": "23.75"
+        },
+        {
+            "city": "Galat\u00e1s",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.35",
+            "longitude": "21.56667"
+        },
+        {
+            "city": "Galat\u00e1s",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.49618",
+            "longitude": "23.44886"
+        },
+        {
+            "city": "Galat\u00e1s",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.5",
+            "longitude": "23.96667"
+        },
+        {
+            "city": "Ga\u00eft\u00e1nion",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.78333",
+            "longitude": "20.86667"
+        },
+        {
+            "city": "Fit\u00edai",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.7",
+            "longitude": "21.18333"
+        },
+        {
+            "city": "Fil\u00f3tion",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.05",
+            "longitude": "25.5"
+        },
+        {
+            "city": "F\u00edlla",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.43333",
+            "longitude": "23.68333"
+        },
+        {
+            "city": "Filippi\u00e1s",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.20472",
+            "longitude": "20.88222"
+        },
+        {
+            "city": "Filiatr\u00e1",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.15",
+            "longitude": "21.58333"
+        },
+        {
+            "city": "Fili\u00e1tai",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.60111",
+            "longitude": "20.31194"
+        },
+        {
+            "city": "Fil\u00ed",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.1",
+            "longitude": "23.66667"
+        },
+        {
+            "city": "F\u00edki",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.51694",
+            "longitude": "21.65556"
+        },
+        {
+            "city": "F\u00e1rsala",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.29472",
+            "longitude": "22.38472"
+        },
+        {
+            "city": "F\u00e1ros",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.4",
+            "longitude": "23.61667"
+        },
+        {
+            "city": "Mago\u00fala",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.45556",
+            "longitude": "21.80278"
+        },
+        {
+            "city": "F\u00e1lanna",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.71667",
+            "longitude": "22.4"
+        },
+        {
+            "city": "Exam\u00edlia",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.9",
+            "longitude": "22.93333"
+        },
+        {
+            "city": "Ermo\u00fapolis",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "37.44227",
+            "longitude": "24.94248"
+        },
+        {
+            "city": "Ermi\u00f3ni",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.3869",
+            "longitude": "23.24423"
+        },
+        {
+            "city": "Erithra\u00ed",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.21667",
+            "longitude": "23.31667"
+        },
+        {
+            "city": "Er\u00e9tria",
+            "region": "ESYE24",
+            "country": "GR",
+            "latitude": "38.4",
+            "longitude": "23.8"
+        },
+        {
+            "city": "Eres\u00f3s",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.16667",
+            "longitude": "25.93333"
+        },
+        {
+            "city": "Epit\u00e1lion",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.63333",
+            "longitude": "21.5"
+        },
+        {
+            "city": "Ep\u00e1no Arkh\u00e1nai",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.23333",
+            "longitude": "25.16667"
+        },
+        {
+            "city": "Empore\u00edo",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.35813",
+            "longitude": "25.44393"
+        },
+        {
+            "city": "\u00c9mbonas",
+            "region": "",
+            "country": "GR",
+            "latitude": "36.21667",
+            "longitude": "27.86667"
+        },
+        {
+            "city": "Ellinik\u00f3n",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.88333",
+            "longitude": "23.73333"
+        },
+        {
+            "city": "Elefs\u00edna",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.04135",
+            "longitude": "23.54295"
+        },
+        {
+            "city": "Eleo\u00fasa",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.70639",
+            "longitude": "20.7925"
+        },
+        {
+            "city": "El\u00e1tia",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.63333",
+            "longitude": "22.76667"
+        },
+        {
+            "city": "Elass\u00f3n",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.89472",
+            "longitude": "22.18861"
+        },
+        {
+            "city": "Ek\u00e1li",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.11667",
+            "longitude": "23.83333"
+        },
+        {
+            "city": "Dr\u00e9panon",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.54255",
+            "longitude": "22.89419"
+        },
+        {
+            "city": "Domok\u00f3s",
+            "region": "ESYE24",
+            "country": "GR",
+            "latitude": "39.12722",
+            "longitude": "22.30028"
+        },
+        {
+            "city": "Desk\u00e1ti",
+            "region": "ESYE13",
+            "country": "GR",
+            "latitude": "39.9225",
+            "longitude": "21.80278"
+        },
+        {
+            "city": "Dherv\u00e9nion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.13333",
+            "longitude": "22.41667"
+        },
+        {
+            "city": "Dhelfo\u00ed",
+            "region": "ESYE24",
+            "country": "GR",
+            "latitude": "38.48333",
+            "longitude": "22.5"
+        },
+        {
+            "city": "Dhar\u00e1tsos",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.5",
+            "longitude": "23.98333"
+        },
+        {
+            "city": "\u00c1yios Ye\u00f3ryios",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.4",
+            "longitude": "22.93333"
+        },
+        {
+            "city": "\u00c1yios Vas\u00edlios",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.8",
+            "longitude": "22.8"
+        },
+        {
+            "city": "\u00c1yios Thom\u00e1s",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.2814",
+            "longitude": "23.58823"
+        },
+        {
+            "city": "\u00c1yios St\u00e9fanos",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.15",
+            "longitude": "23.85"
+        },
+        {
+            "city": "\u00c1gios Spyr\u00eddon",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.14444",
+            "longitude": "20.86306"
+        },
+        {
+            "city": "\u00c1yios Seraf\u00edm",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.8",
+            "longitude": "22.7"
+        },
+        {
+            "city": "\u00c1yios Nik\u00f3laos",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.41667",
+            "longitude": "23.65"
+        },
+        {
+            "city": "\u00c1yios Nik\u00f3laos",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.85",
+            "longitude": "21.11667"
+        },
+        {
+            "city": "\u00c1gios Nik\u00f3laos",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.19139",
+            "longitude": "25.71333"
+        },
+        {
+            "city": "\u00c1gios K\u00edrykos",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "37.61472",
+            "longitude": "26.29444"
+        },
+        {
+            "city": "\u00c1gios Dim\u00edtrios",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.4",
+            "longitude": "21.08333"
+        },
+        {
+            "city": "\u00c1gios Andr\u00e9as",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.35",
+            "longitude": "22.76667"
+        },
+        {
+            "city": "Ay\u00eda Varv\u00e1ra",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.98333",
+            "longitude": "23.66667"
+        },
+        {
+            "city": "Ay\u00eda Varv\u00e1ra",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.13333",
+            "longitude": "25"
+        },
+        {
+            "city": "Ay\u00eda Tri\u00e1s",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.35",
+            "longitude": "22.91667"
+        },
+        {
+            "city": "Agi\u00e1sos",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "39.085",
+            "longitude": "26.37"
+        },
+        {
+            "city": "Ag\u00eda Paraskev\u00ed",
+            "region": "ESYE41",
+            "country": "GR",
+            "latitude": "39.24806",
+            "longitude": "26.27167"
+        },
+        {
+            "city": "Ay\u00eda Paraskev\u00ed",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.01667",
+            "longitude": "23.83333"
+        },
+        {
+            "city": "Ay\u00eda Mar\u00edna",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.75",
+            "longitude": "23.53333"
+        },
+        {
+            "city": "Ag\u00eda Mar\u00edna",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "37.15",
+            "longitude": "26.86667"
+        },
+        {
+            "city": "Ay\u00eda Mar\u00edna",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.51667",
+            "longitude": "23.93333"
+        },
+        {
+            "city": "Ay\u00eda Gal\u00edni",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.1",
+            "longitude": "24.68333"
+        },
+        {
+            "city": "Agi\u00e1",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.71778",
+            "longitude": "22.76361"
+        },
+        {
+            "city": "Atsip\u00f3poulon",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.35",
+            "longitude": "24.43333"
+        },
+        {
+            "city": "Athens",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.97945",
+            "longitude": "23.71622"
+        },
+        {
+            "city": "Ath\u00edkia",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.81667",
+            "longitude": "22.93333"
+        },
+        {
+            "city": "Atal\u00e1nti",
+            "region": "ESYE24",
+            "country": "GR",
+            "latitude": "38.65111",
+            "longitude": "22.99917"
+        },
+        {
+            "city": "\u00c1stros",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.40317",
+            "longitude": "22.7303"
+        },
+        {
+            "city": "Astyp\u00e1laia",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.55",
+            "longitude": "26.35"
+        },
+        {
+            "city": "Astak\u00f3s",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "38.53556",
+            "longitude": "21.08135"
+        },
+        {
+            "city": "\u00c1ssos",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.93333",
+            "longitude": "22.83333"
+        },
+        {
+            "city": "Aspr\u00f3pirgos",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.06667",
+            "longitude": "23.58333"
+        },
+        {
+            "city": "Asop\u00f3s",
+            "region": "",
+            "country": "GR",
+            "latitude": "36.73333",
+            "longitude": "22.86667"
+        },
+        {
+            "city": "Asop\u00eda",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.3",
+            "longitude": "23.5"
+        },
+        {
+            "city": "As\u00edni",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.5454",
+            "longitude": "22.86207"
+        },
+        {
+            "city": "As\u00edmion",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.05",
+            "longitude": "25.1"
+        },
+        {
+            "city": "Aryiropo\u00falion",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.83333",
+            "longitude": "22.3"
+        },
+        {
+            "city": "Artesian\u00f3n",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.40278",
+            "longitude": "21.89472"
+        },
+        {
+            "city": "\u00c1rta",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.16056",
+            "longitude": "20.98528"
+        },
+        {
+            "city": "\u00c1rma",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.35",
+            "longitude": "23.48333"
+        },
+        {
+            "city": "Archontoch\u00f3rion",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "38.7",
+            "longitude": "21.03333"
+        },
+        {
+            "city": "Archa\u00eda Olymp\u00eda",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "37.64788",
+            "longitude": "21.6271"
+        },
+        {
+            "city": "Arkha\u00eda K\u00f3rinthos",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.91667",
+            "longitude": "22.88333"
+        },
+        {
+            "city": "Arkaloch\u00f3rion",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.15",
+            "longitude": "25.26667"
+        },
+        {
+            "city": "\u00c1ris",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.1",
+            "longitude": "22"
+        },
+        {
+            "city": "Aria",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.57372",
+            "longitude": "22.83539"
+        },
+        {
+            "city": "Argost\u00f3lion",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "38.18109",
+            "longitude": "20.48903"
+        },
+        {
+            "city": "\u00c1rgos",
+            "region": "ESYE25",
+            "country": "GR",
+            "latitude": "37.63333",
+            "longitude": "22.73333"
+        },
+        {
+            "city": "Argalast\u00ed",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.23333",
+            "longitude": "23.21667"
+        },
+        {
+            "city": "Arfar\u00e1",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.15",
+            "longitude": "22.03333"
+        },
+        {
+            "city": "Ar\u00e1chova",
+            "region": "ESYE24",
+            "country": "GR",
+            "latitude": "38.48333",
+            "longitude": "22.58333"
+        },
+        {
+            "city": "Apollon\u00eda",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.97163",
+            "longitude": "24.7231"
+        },
+        {
+            "city": "Anth\u00edli",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.85",
+            "longitude": "22.46667"
+        },
+        {
+            "city": "An\u00f3geia",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.28333",
+            "longitude": "24.88333"
+        },
+        {
+            "city": "\u00c1no S\u00edros",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "37.45",
+            "longitude": "24.93333"
+        },
+        {
+            "city": "\u00c1no Mer\u00e1",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.45",
+            "longitude": "25.4"
+        },
+        {
+            "city": "\u00c1no Li\u00f3sia",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.08333",
+            "longitude": "23.7"
+        },
+        {
+            "city": "\u00c1no Lekh\u00f3nia",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.33333",
+            "longitude": "23.05"
+        },
+        {
+            "city": "\u00c1no Kopan\u00e1kion",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.28333",
+            "longitude": "21.81667"
+        },
+        {
+            "city": "\u00c1no Kastr\u00edtsion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.26667",
+            "longitude": "21.83333"
+        },
+        {
+            "city": "\u00c1noixis",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.13333",
+            "longitude": "23.85"
+        },
+        {
+            "city": "Angel\u00f3kastron",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "38.56667",
+            "longitude": "21.3"
+        },
+        {
+            "city": "An\u00e9za",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.08667",
+            "longitude": "20.92333"
+        },
+        {
+            "city": "Andros",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "37.83333",
+            "longitude": "24.93333"
+        },
+        {
+            "city": "Andrav\u00edda",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "37.90588",
+            "longitude": "21.26936"
+        },
+        {
+            "city": "Antim\u00e1cheia",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.81083",
+            "longitude": "27.09972"
+        },
+        {
+            "city": "An\u00e1vra",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.2",
+            "longitude": "22.08333"
+        },
+        {
+            "city": "An\u00e1vra",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.06667",
+            "longitude": "22.55"
+        },
+        {
+            "city": "An\u00e1vyssos",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.73333",
+            "longitude": "23.95"
+        },
+        {
+            "city": "Anatol\u00ed",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.63889",
+            "longitude": "20.86528"
+        },
+        {
+            "city": "An\u00e1lipsis",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.31667",
+            "longitude": "25.56667"
+        },
+        {
+            "city": "\u00c1mfissa",
+            "region": "ESYE24",
+            "country": "GR",
+            "latitude": "38.525",
+            "longitude": "22.37306"
+        },
+        {
+            "city": "Amfiloch\u00eda",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "38.85944",
+            "longitude": "21.16639"
+        },
+        {
+            "city": "Amf\u00edklia",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.63333",
+            "longitude": "22.58333"
+        },
+        {
+            "city": "Ambel\u00f3n",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.75",
+            "longitude": "22.36667"
+        },
+        {
+            "city": "Ambel\u00f3kipoi",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.76667",
+            "longitude": "20.86667"
+        },
+        {
+            "city": "Ampel\u00e1kia",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.94902",
+            "longitude": "23.52445"
+        },
+        {
+            "city": "Amaro\u00fasion",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.05",
+            "longitude": "23.8"
+        },
+        {
+            "city": "Am\u00e1rinthos",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.4",
+            "longitude": "23.88333"
+        },
+        {
+            "city": "Amali\u00e1s",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "37.8",
+            "longitude": "21.35"
+        },
+        {
+            "city": "Almyr\u00f3s",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.18222",
+            "longitude": "22.75944"
+        },
+        {
+            "city": "\u00c1lli Meri\u00e1",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.36667",
+            "longitude": "22.98333"
+        },
+        {
+            "city": "Aliv\u00e9rion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.41667",
+            "longitude": "24.03333"
+        },
+        {
+            "city": "Al\u00edartos",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.36667",
+            "longitude": "23.1"
+        },
+        {
+            "city": "Alfio\u00fasa",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.65",
+            "longitude": "21.53333"
+        },
+        {
+            "city": "Akr\u00e1ta",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.15",
+            "longitude": "22.31667"
+        },
+        {
+            "city": "Akra\u00edfnion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.45",
+            "longitude": "23.21667"
+        },
+        {
+            "city": "Acharnes",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.08333",
+            "longitude": "23.73333"
+        },
+        {
+            "city": "A\u00edyira",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.15",
+            "longitude": "22.35"
+        },
+        {
+            "city": "A\u00edgion",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "38.24861",
+            "longitude": "22.08194"
+        },
+        {
+            "city": "A\u00edgina",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.74667",
+            "longitude": "23.4275"
+        },
+        {
+            "city": "Aitolik\u00f3n",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.43333",
+            "longitude": "21.35"
+        },
+        {
+            "city": "Aig\u00e1leo",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.98333",
+            "longitude": "23.68333"
+        },
+        {
+            "city": "Ai\u00e1nteion",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.92278",
+            "longitude": "23.46613"
+        },
+        {
+            "city": "Agr\u00ednion",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "38.62139",
+            "longitude": "21.40778"
+        },
+        {
+            "city": "Agri\u00e1",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.33333",
+            "longitude": "23.01667"
+        },
+        {
+            "city": "Agnanter\u00f3n",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "39.48722",
+            "longitude": "21.84556"
+        },
+        {
+            "city": "Afr\u00e1tion",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.45",
+            "longitude": "23.68333"
+        },
+        {
+            "city": "Ad\u00e1mas",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.73333",
+            "longitude": "24.43333"
+        },
+        {
+            "city": "R\u00f3dos",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.44083",
+            "longitude": "28.2225"
+        },
+        {
+            "city": "N\u00e9a Alikarnass\u00f3s",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.33333",
+            "longitude": "25.16667"
+        },
+        {
+            "city": "Kremast\u00ed",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.4",
+            "longitude": "28.11667"
+        },
+        {
+            "city": "Af\u00e1ntou",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.29354",
+            "longitude": "28.16225"
+        },
+        {
+            "city": "Arch\u00e1ngelos",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.21492",
+            "longitude": "28.11487"
+        },
+        {
+            "city": "L\u00e1rdos",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.09419",
+            "longitude": "28.01565"
+        },
+        {
+            "city": "Zip\u00e1rion",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.875",
+            "longitude": "27.20417"
+        },
+        {
+            "city": "N\u00e9os Orop\u00f3s",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "39.15139",
+            "longitude": "20.73667"
+        },
+        {
+            "city": "Zig\u00f3s",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.01667",
+            "longitude": "24.38333"
+        },
+        {
+            "city": "Akrol\u00edmni",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.67917",
+            "longitude": "22.26389"
+        },
+        {
+            "city": "Giannits\u00e1",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.79194",
+            "longitude": "22.4075"
+        },
+        {
+            "city": "Gerakaro\u00fa",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.62666",
+            "longitude": "23.21566"
+        },
+        {
+            "city": "Yenis\u00e9a",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.06667",
+            "longitude": "24.96667"
+        },
+        {
+            "city": "G\u00e9fyra",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.73333",
+            "longitude": "22.69222"
+        },
+        {
+            "city": "Xirop\u00f3tamos",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.2",
+            "longitude": "24.1"
+        },
+        {
+            "city": "Xin\u00f3n Ner\u00f3n",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.68333",
+            "longitude": "21.61667"
+        },
+        {
+            "city": "Xil\u00f3polis",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.92713",
+            "longitude": "23.17944"
+        },
+        {
+            "city": "Xilagan\u00ed",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.98333",
+            "longitude": "25.41667"
+        },
+        {
+            "city": "X\u00e1nthi",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "41.14139",
+            "longitude": "24.88361"
+        },
+        {
+            "city": "Vronto\u00fa",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.19222",
+            "longitude": "22.43278"
+        },
+        {
+            "city": "V\u00f3lax",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.31667",
+            "longitude": "24"
+        },
+        {
+            "city": "Verg\u00edna",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.48111",
+            "longitude": "22.31361"
+        },
+        {
+            "city": "V\u00e9ryi",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.95",
+            "longitude": "23.4"
+        },
+        {
+            "city": "V\u00e9roia",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.52333",
+            "longitude": "22.20361"
+        },
+        {
+            "city": "Velvent\u00f3s",
+            "region": "ESYE13",
+            "country": "GR",
+            "latitude": "40.25167",
+            "longitude": "22.06306"
+        },
+        {
+            "city": "Vath\u00fdlakkos",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.76944",
+            "longitude": "22.70167"
+        },
+        {
+            "city": "Vasilik\u00e1",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.47966",
+            "longitude": "23.13695"
+        },
+        {
+            "city": "Vamvak\u00f3fiton",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.18333",
+            "longitude": "23.4"
+        },
+        {
+            "city": "Valtot\u00f3pion",
+            "region": "",
+            "country": "GR",
+            "latitude": "41",
+            "longitude": "23.6"
+        },
+        {
+            "city": "Valter\u00f3n",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.18333",
+            "longitude": "23.31667"
+        },
+        {
+            "city": "Tsot\u00edlion",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.26667",
+            "longitude": "21.31667"
+        },
+        {
+            "city": "Ts\u00e1koi",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.95861",
+            "longitude": "22.03639"
+        },
+        {
+            "city": "Tr\u00edlofon",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.46722",
+            "longitude": "22.96944"
+        },
+        {
+            "city": "Tr\u00edkala",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.59806",
+            "longitude": "22.55667"
+        },
+        {
+            "city": "Tycher\u00f3n",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "41.03333",
+            "longitude": "26.28333"
+        },
+        {
+            "city": "Thessalon\u00edki",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.64028",
+            "longitude": "22.94389"
+        },
+        {
+            "city": "Th\u00e9rmi",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.54712",
+            "longitude": "23.01967"
+        },
+        {
+            "city": "Th\u00e1sos",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "40.77806",
+            "longitude": "24.70944"
+        },
+        {
+            "city": "Terpn\u00ed",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.91667",
+            "longitude": "23.48333"
+        },
+        {
+            "city": "Taxi\u00e1rkhis",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.43333",
+            "longitude": "23.51667"
+        },
+        {
+            "city": "Svor\u00f3nos",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.26444",
+            "longitude": "22.46"
+        },
+        {
+            "city": "Strimonik\u00f3n",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.05",
+            "longitude": "23.31667"
+        },
+        {
+            "city": "Strat\u00f3nion",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.51406",
+            "longitude": "23.82471"
+        },
+        {
+            "city": "Stavr\u00f3s",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.58889",
+            "longitude": "22.30861"
+        },
+        {
+            "city": "Sourot\u00ed",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.47274",
+            "longitude": "23.09197"
+        },
+        {
+            "city": "Soufl\u00edon",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "41.19194",
+            "longitude": "26.29944"
+        },
+        {
+            "city": "Sos\u00e1ndra",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.99833",
+            "longitude": "22.02944"
+        },
+        {
+            "city": "Sokh\u00f3s",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.81667",
+            "longitude": "23.35"
+        },
+        {
+            "city": "Sko\u00fatari",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.01667",
+            "longitude": "23.51667"
+        },
+        {
+            "city": "Skoto\u00fassa",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.13333",
+            "longitude": "23.38333"
+        },
+        {
+            "city": "Sk\u00fddra",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.76722",
+            "longitude": "22.15194"
+        },
+        {
+            "city": "Leptokary\u00e1",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.05833",
+            "longitude": "22.56139"
+        },
+        {
+            "city": "Sitagro\u00ed",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.11667",
+            "longitude": "24.03333"
+        },
+        {
+            "city": "Sisam\u00eda",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.95",
+            "longitude": "23.41667"
+        },
+        {
+            "city": "S\u00edndos",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.66972",
+            "longitude": "22.80472"
+        },
+        {
+            "city": "Siki\u00e1",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.03333",
+            "longitude": "23.93333"
+        },
+        {
+            "city": "Syk\u00e9ai",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.64944",
+            "longitude": "22.95083"
+        },
+        {
+            "city": "Sidir\u00f3kastron",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "41.23472",
+            "longitude": "23.38667"
+        },
+        {
+            "city": "Si\u00e1tista",
+            "region": "ESYE13",
+            "country": "GR",
+            "latitude": "40.26194",
+            "longitude": "21.54417"
+        },
+        {
+            "city": "Sfend\u00e1mion",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.41389",
+            "longitude": "22.54611"
+        },
+        {
+            "city": "Sevastian\u00e1",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.76806",
+            "longitude": "22.12028"
+        },
+        {
+            "city": "S\u00e9rvia",
+            "region": "ESYE13",
+            "country": "GR",
+            "latitude": "40.17972",
+            "longitude": "21.99444"
+        },
+        {
+            "city": "S\u00e9rres",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "41.08556",
+            "longitude": "23.54972"
+        },
+        {
+            "city": "S\u00e9leron",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.13333",
+            "longitude": "25"
+        },
+        {
+            "city": "S\u00e1rti",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.1",
+            "longitude": "23.98333"
+        },
+        {
+            "city": "S\u00e1pai",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "41.02861",
+            "longitude": "25.69306"
+        },
+        {
+            "city": "Rod\u00f3polis",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "41.25778",
+            "longitude": "22.99833"
+        },
+        {
+            "city": "Riz\u00f3n",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.73389",
+            "longitude": "22.13583"
+        },
+        {
+            "city": "Riz\u00f3mata",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.34722",
+            "longitude": "22.20361"
+        },
+        {
+            "city": "R\u00edzia",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.61667",
+            "longitude": "26.43333"
+        },
+        {
+            "city": "Riz\u00e1rion",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.78722",
+            "longitude": "22.08389"
+        },
+        {
+            "city": "Rit\u00edni",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.28694",
+            "longitude": "22.28083"
+        },
+        {
+            "city": "P\u00e9fka",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.65722",
+            "longitude": "22.99028"
+        },
+        {
+            "city": "Ptolema\u1e2fs",
+            "region": "ESYE13",
+            "country": "GR",
+            "latitude": "40.51472",
+            "longitude": "21.67861"
+        },
+        {
+            "city": "Ptel\u00e9a",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.08333",
+            "longitude": "24.18333"
+        },
+        {
+            "city": "Psikhik\u00f3n",
+            "region": "",
+            "country": "GR",
+            "latitude": "41",
+            "longitude": "23.63333"
+        },
+        {
+            "city": "Provat\u00e1s",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.06667",
+            "longitude": "23.38333"
+        },
+        {
+            "city": "Pr\u00f3ti",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.95",
+            "longitude": "24"
+        },
+        {
+            "city": "Prosots\u00e1ni",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.18333",
+            "longitude": "23.96667"
+        },
+        {
+            "city": "Pr\u00f3machoi",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "41.02528",
+            "longitude": "22"
+        },
+        {
+            "city": "Pr\u00f3choma",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.79694",
+            "longitude": "22.65833"
+        },
+        {
+            "city": "Prof\u00edtis Il\u00edas",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.81278",
+            "longitude": "22.15694"
+        },
+        {
+            "city": "Potami\u00e1",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.71633",
+            "longitude": "24.72859"
+        },
+        {
+            "city": "Portari\u00e1",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.28333",
+            "longitude": "23.3"
+        },
+        {
+            "city": "Pol\u00fdgyros",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.37444",
+            "longitude": "23.43833"
+        },
+        {
+            "city": "Pol\u00edkhronon",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.01657",
+            "longitude": "23.52834"
+        },
+        {
+            "city": "Pol\u00edchni",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.66671",
+            "longitude": "22.94881"
+        },
+        {
+            "city": "Pol\u00fdkastron",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.99361",
+            "longitude": "22.56583"
+        },
+        {
+            "city": "Polyk\u00e1rpion",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.92722",
+            "longitude": "22.01361"
+        },
+        {
+            "city": "Plagi\u00e1rion",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.47417",
+            "longitude": "22.95722"
+        },
+        {
+            "city": "Plat\u00fd",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.64028",
+            "longitude": "22.53389"
+        },
+        {
+            "city": "Platan\u00f3rrevma",
+            "region": "ESYE13",
+            "country": "GR",
+            "latitude": "40.19667",
+            "longitude": "22.02056"
+        },
+        {
+            "city": "Piga\u00ed",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "40.90417",
+            "longitude": "24.67083"
+        },
+        {
+            "city": "P\u00fdrgos",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.62861",
+            "longitude": "22.73278"
+        },
+        {
+            "city": "Pyla\u00eda",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.60056",
+            "longitude": "22.9875"
+        },
+        {
+            "city": "Petro\u00fassa",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.2",
+            "longitude": "24.01667"
+        },
+        {
+            "city": "Petrokh\u00f3rion",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.11667",
+            "longitude": "24.83333"
+        },
+        {
+            "city": "Petin\u00f3s",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.1",
+            "longitude": "24.9"
+        },
+        {
+            "city": "Perister\u00e1",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.55",
+            "longitude": "23.16667"
+        },
+        {
+            "city": "Per\u00edstasis",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.27417",
+            "longitude": "22.54111"
+        },
+        {
+            "city": "Pera\u00eda",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.50028",
+            "longitude": "22.925"
+        },
+        {
+            "city": "P\u00e9plos",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.95833",
+            "longitude": "26.26556"
+        },
+        {
+            "city": "Pend\u00e1polis",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.05",
+            "longitude": "23.68333"
+        },
+        {
+            "city": "Pentapl\u00e1tanon",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.81667",
+            "longitude": "22.40861"
+        },
+        {
+            "city": "Pent\u00e1lofos",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.74167",
+            "longitude": "22.85194"
+        },
+        {
+            "city": "P\u00e9lla",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.76",
+            "longitude": "22.51917"
+        },
+        {
+            "city": "Pedin\u00f3n",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.90889",
+            "longitude": "22.86667"
+        },
+        {
+            "city": "Patr\u00eds",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.56111",
+            "longitude": "22.18611"
+        },
+        {
+            "city": "Paral\u00eda",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.26806",
+            "longitude": "22.59528"
+        },
+        {
+            "city": "Pappayi\u00e1nnis",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.83333",
+            "longitude": "21.5"
+        },
+        {
+            "city": "Pan\u00f3rama",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.58779",
+            "longitude": "23.0315"
+        },
+        {
+            "city": "Ax\u00f3s",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.79889",
+            "longitude": "22.35583"
+        },
+        {
+            "city": "Palaiok\u00f3mi",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.86667",
+            "longitude": "23.9"
+        },
+        {
+            "city": "Palaiokh\u00f3rion",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.95",
+            "longitude": "24.18333"
+        },
+        {
+            "city": "Pala\u00edfyton",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.78167",
+            "longitude": "22.26611"
+        },
+        {
+            "city": "P\u00e1khni",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.3",
+            "longitude": "24.9"
+        },
+        {
+            "city": "Ouran\u00f3polis",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.33333",
+            "longitude": "23.98333"
+        },
+        {
+            "city": "Orm\u00edlia",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.3",
+            "longitude": "23.55"
+        },
+        {
+            "city": "Oresti\u00e1s",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "41.50306",
+            "longitude": "26.52972"
+        },
+        {
+            "city": "Orai\u00f3kastron",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.73083",
+            "longitude": "22.91722"
+        },
+        {
+            "city": "Nis\u00edon",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.63694",
+            "longitude": "22.38778"
+        },
+        {
+            "city": "Nik\u00f3klia",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.93333",
+            "longitude": "23.43333"
+        },
+        {
+            "city": "Nik\u00edsiani",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.95",
+            "longitude": "24.15"
+        },
+        {
+            "city": "Nigr\u00edta",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.90528",
+            "longitude": "23.49944"
+        },
+        {
+            "city": "N\u00e9os Skop\u00f3s",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.01667",
+            "longitude": "23.61667"
+        },
+        {
+            "city": "N\u00e9os Myl\u00f3topos",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.81639",
+            "longitude": "22.34639"
+        },
+        {
+            "city": "N\u00e9os Marmar\u00e1s",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.1",
+            "longitude": "23.78333"
+        },
+        {
+            "city": "N\u00e9on So\u00falion",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.1",
+            "longitude": "23.65"
+        },
+        {
+            "city": "N\u00e9on R\u00fdsion",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.49667",
+            "longitude": "22.98861"
+        },
+        {
+            "city": "N\u00e9on Petr\u00edtsion",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.28333",
+            "longitude": "23.3"
+        },
+        {
+            "city": "N\u00e9on Agion\u00e9rion",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.80861",
+            "longitude": "22.70028"
+        },
+        {
+            "city": "Neochoro\u00fada",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.73667",
+            "longitude": "22.87611"
+        },
+        {
+            "city": "Neokh\u00f3rion",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.51667",
+            "longitude": "26.45"
+        },
+        {
+            "city": "Neokh\u00f3rion",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.18333",
+            "longitude": "23.25"
+        },
+        {
+            "city": "N\u00e9oi Epiv\u00e1tai",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.50028",
+            "longitude": "22.91111"
+        },
+        {
+            "city": "N\u00e9a Z\u00edchni",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "41.03306",
+            "longitude": "23.82972"
+        },
+        {
+            "city": "N\u00e9a V\u00edssa",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.58333",
+            "longitude": "26.53333"
+        },
+        {
+            "city": "N\u00e9a Tr\u00edglia",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.3",
+            "longitude": "23.2"
+        },
+        {
+            "city": "N\u00e9a S\u00e1nta",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.84084",
+            "longitude": "22.92163"
+        },
+        {
+            "city": "N\u00e9a Pot\u00eddhaia",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.2",
+            "longitude": "23.33333"
+        },
+        {
+            "city": "N\u00e9a Pl\u00e1yia",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.26667",
+            "longitude": "23.2"
+        },
+        {
+            "city": "N\u00e9a P\u00e9ramos",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "40.83889",
+            "longitude": "24.30361"
+        },
+        {
+            "city": "N\u00e9a P\u00e9lla",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.76611",
+            "longitude": "22.48556"
+        },
+        {
+            "city": "N\u00e9a \u00d3linthos",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.3",
+            "longitude": "23.35"
+        },
+        {
+            "city": "N\u00e9a Michani\u00f3na",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.46444",
+            "longitude": "22.86083"
+        },
+        {
+            "city": "N\u00e9a Mesimvr\u00eda",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.75139",
+            "longitude": "22.7625"
+        },
+        {
+            "city": "N\u00e9a M\u00e1lgara",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.60944",
+            "longitude": "22.68167"
+        },
+        {
+            "city": "N\u00e9a Magnis\u00eda",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.6875",
+            "longitude": "22.84694"
+        },
+        {
+            "city": "N\u00e9a Karv\u00e1li",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "40.96167",
+            "longitude": "24.51"
+        },
+        {
+            "city": "N\u00e9a Kary\u00e1",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "40.9075",
+            "longitude": "24.70833"
+        },
+        {
+            "city": "N\u00e9a Kallikr\u00e1tia",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.31667",
+            "longitude": "23.06667"
+        },
+        {
+            "city": "N\u00e9a Irakle\u00edtsa",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "40.86444",
+            "longitude": "24.31583"
+        },
+        {
+            "city": "N\u00e9a Ir\u00e1klia",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.18333",
+            "longitude": "23.26667"
+        },
+        {
+            "city": "N\u00e9a F\u00f3kaia",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.13333",
+            "longitude": "23.4"
+        },
+        {
+            "city": "N\u00e9a \u00c9fesos",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.23",
+            "longitude": "22.49639"
+        },
+        {
+            "city": "N\u00e9a Apollon\u00eda",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.63333",
+            "longitude": "23.45"
+        },
+        {
+            "city": "N\u00e1ousa",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.62944",
+            "longitude": "22.06806"
+        },
+        {
+            "city": "Mousth\u00e9ni",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.86667",
+            "longitude": "24.11667"
+        },
+        {
+            "city": "Mikr\u00f3polis",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "41.19351",
+            "longitude": "23.8157"
+        },
+        {
+            "city": "Mikr\u00f3n Monast\u00edrion",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.70583",
+            "longitude": "22.54139"
+        },
+        {
+            "city": "Mikr\u00f3kampos",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.83861",
+            "longitude": "22.76972"
+        },
+        {
+            "city": "M\u00edki",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.25",
+            "longitude": "24.91667"
+        },
+        {
+            "city": "Mesopotami\u00e1",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.5",
+            "longitude": "21.16667"
+        },
+        {
+            "city": "Mesim\u00e9rion",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.41204",
+            "longitude": "23.00594"
+        },
+        {
+            "city": "Menem\u00e9ni",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.65694",
+            "longitude": "22.9"
+        },
+        {
+            "city": "Mel\u00edti",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.83333",
+            "longitude": "21.58333"
+        },
+        {
+            "city": "Melissoch\u00f3rion",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.76667",
+            "longitude": "22.925"
+        },
+        {
+            "city": "Mel\u00edki",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.51667",
+            "longitude": "22.39528"
+        },
+        {
+            "city": "Meg\u00e1los Pr\u00ednos",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "40.73333",
+            "longitude": "24.61667"
+        },
+        {
+            "city": "Meg\u00e1li Panay\u00eda",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.45",
+            "longitude": "23.68333"
+        },
+        {
+            "city": "Mavrovo\u00fanion",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.78222",
+            "longitude": "22.15306"
+        },
+        {
+            "city": "Mar\u00edna",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.69611",
+            "longitude": "22.10083"
+        },
+        {
+            "city": "Mani\u00e1koi",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.5",
+            "longitude": "21.25"
+        },
+        {
+            "city": "M\u00e1ndalon",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.85833",
+            "longitude": "22.20972"
+        },
+        {
+            "city": "D\u00edon",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.17333",
+            "longitude": "22.48667"
+        },
+        {
+            "city": "Makroch\u00f3rion",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.55139",
+            "longitude": "22.25"
+        },
+        {
+            "city": "Makr\u00fdgialos",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.41639",
+            "longitude": "22.60278"
+        },
+        {
+            "city": "Loutr\u00f3s",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.58833",
+            "longitude": "22.39944"
+        },
+        {
+            "city": "L\u00f3fos",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.24472",
+            "longitude": "22.37972"
+        },
+        {
+            "city": "Liv\u00e1dion",
+            "region": "ESYE14",
+            "country": "GR",
+            "latitude": "40.125",
+            "longitude": "22.15167"
+        },
+        {
+            "city": "Livadher\u00f3n",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.03333",
+            "longitude": "21.93333"
+        },
+        {
+            "city": "Lit\u00f3choron",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.10056",
+            "longitude": "22.49778"
+        },
+        {
+            "city": "Lit\u00ed",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.74528",
+            "longitude": "22.97861"
+        },
+        {
+            "city": "Limen\u00e1ria",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.62607",
+            "longitude": "24.57856"
+        },
+        {
+            "city": "L\u00edkion",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.05",
+            "longitude": "25.68333"
+        },
+        {
+            "city": "Leianov\u00e9rgion",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.63778",
+            "longitude": "22.50306"
+        },
+        {
+            "city": "Lagyn\u00e1",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.72306",
+            "longitude": "23"
+        },
+        {
+            "city": "L\u00e1vara",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.26667",
+            "longitude": "26.38333"
+        },
+        {
+            "city": "Lagkad\u00e1s",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.75",
+            "longitude": "23.06667"
+        },
+        {
+            "city": "L\u00e1kkoma",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.38333",
+            "longitude": "23.05"
+        },
+        {
+            "city": "Lag\u00f3s",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.45",
+            "longitude": "26.46667"
+        },
+        {
+            "city": "Kr\u00f3kos",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.26667",
+            "longitude": "21.81667"
+        },
+        {
+            "city": "Krithi\u00e1",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.84111",
+            "longitude": "22.97778"
+        },
+        {
+            "city": "Krist\u00f3ni",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.95556",
+            "longitude": "22.85528"
+        },
+        {
+            "city": "Kr\u00fda Vr\u00fdsi",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.68722",
+            "longitude": "22.30222"
+        },
+        {
+            "city": "Koz\u00e1ni",
+            "region": "ESYE13",
+            "country": "GR",
+            "latitude": "40.30111",
+            "longitude": "21.78639"
+        },
+        {
+            "city": "Koulo\u00fara",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.54528",
+            "longitude": "22.31806"
+        },
+        {
+            "city": "Kouf\u00e1lia",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.77778",
+            "longitude": "22.57194"
+        },
+        {
+            "city": "Korm\u00edsta",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.98333",
+            "longitude": "24.05"
+        },
+        {
+            "city": "Koris\u00f3s",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.5",
+            "longitude": "21.38333"
+        },
+        {
+            "city": "Korin\u00f3s",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.315",
+            "longitude": "22.58528"
+        },
+        {
+            "city": "Koryf\u00ed",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.6",
+            "longitude": "22.5"
+        },
+        {
+            "city": "Kopan\u00f3s",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.63361",
+            "longitude": "22.13028"
+        },
+        {
+            "city": "K\u00f3nitsa",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "40.04861",
+            "longitude": "20.75667"
+        },
+        {
+            "city": "Kontari\u00f3tissa",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.22889",
+            "longitude": "22.46222"
+        },
+        {
+            "city": "Komotin\u00ed",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "41.12278",
+            "longitude": "25.39639"
+        },
+        {
+            "city": "Komnin\u00e1",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.6",
+            "longitude": "21.78333"
+        },
+        {
+            "city": "Kolchik\u00f3n",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.75662",
+            "longitude": "23.13377"
+        },
+        {
+            "city": "Kolindr\u00f3s",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.47583",
+            "longitude": "22.48083"
+        },
+        {
+            "city": "Kokkin\u00f3khoma",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "40.93333",
+            "longitude": "24.3"
+        },
+        {
+            "city": "Ko\u00edmisis",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.21667",
+            "longitude": "23.3"
+        },
+        {
+            "city": "Ko\u00edla",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.33333",
+            "longitude": "21.78333"
+        },
+        {
+            "city": "Kl\u00edtos",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.43333",
+            "longitude": "21.86667"
+        },
+        {
+            "city": "Kleid\u00edon",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.56573",
+            "longitude": "22.58998"
+        },
+        {
+            "city": "K\u00edtros",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.37556",
+            "longitude": "22.57833"
+        },
+        {
+            "city": "K\u00edria",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.1",
+            "longitude": "24.28333"
+        },
+        {
+            "city": "Kipr\u00ednos",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.57556",
+            "longitude": "26.23056"
+        },
+        {
+            "city": "Kimm\u00e9ria",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.15",
+            "longitude": "24.93333"
+        },
+        {
+            "city": "K\u00fdmina",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.61472",
+            "longitude": "22.69111"
+        },
+        {
+            "city": "Kilk\u00eds",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.99194",
+            "longitude": "22.87083"
+        },
+        {
+            "city": "Chryso\u00fapolis",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "40.98556",
+            "longitude": "24.69389"
+        },
+        {
+            "city": "Khris\u00f3n",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.06667",
+            "longitude": "23.65"
+        },
+        {
+            "city": "Khrisokh\u00f3rion",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "40.93333",
+            "longitude": "24.71667"
+        },
+        {
+            "city": "Khrisokh\u00f3rafa",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.18333",
+            "longitude": "23.23333"
+        },
+        {
+            "city": "Chorti\u00e1tis",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.61048",
+            "longitude": "23.09963"
+        },
+        {
+            "city": "Khorist\u00ed",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.13333",
+            "longitude": "24.21667"
+        },
+        {
+            "city": "Kharop\u00f3n",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.26667",
+            "longitude": "23.38333"
+        },
+        {
+            "city": "Chalkid\u00f3n",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.73306",
+            "longitude": "22.59917"
+        },
+        {
+            "city": "Kerk\u00edni",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.21667",
+            "longitude": "23.08333"
+        },
+        {
+            "city": "Keramot\u00ed",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "40.85833",
+            "longitude": "24.70611"
+        },
+        {
+            "city": "Kefal\u00f3vryson",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "40.01444",
+            "longitude": "20.5625"
+        },
+        {
+            "city": "Kav\u00edli",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.56667",
+            "longitude": "26.51667"
+        },
+        {
+            "city": "Kavall\u00e1ri",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.71539",
+            "longitude": "23.04588"
+        },
+        {
+            "city": "Kav\u00e1la",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "40.93972",
+            "longitude": "24.40194"
+        },
+        {
+            "city": "K\u00e1to Skhol\u00e1rion",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.43333",
+            "longitude": "23.03333"
+        },
+        {
+            "city": "K\u00e1to Mil\u00e9a",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.24833",
+            "longitude": "22.33778"
+        },
+        {
+            "city": "K\u00e1to Loutr\u00e1kion",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.96667",
+            "longitude": "21.95"
+        },
+        {
+            "city": "Lipoch\u00f3rion",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.75889",
+            "longitude": "22.17583"
+        },
+        {
+            "city": "K\u00e1to Kam\u00edla",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.01667",
+            "longitude": "23.48333"
+        },
+        {
+            "city": "Kater\u00edni",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.27194",
+            "longitude": "22.5025"
+        },
+        {
+            "city": "Kastori\u00e1",
+            "region": "ESYE13",
+            "country": "GR",
+            "latitude": "40.51667",
+            "longitude": "21.26667"
+        },
+        {
+            "city": "Kastan\u00e9ai",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.65",
+            "longitude": "26.46667"
+        },
+        {
+            "city": "Karper\u00ed",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.11667",
+            "longitude": "23.3"
+        },
+        {
+            "city": "Kar\u00edtsa",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.1875",
+            "longitude": "22.48194"
+        },
+        {
+            "city": "Kary\u00f3tissa",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.76833",
+            "longitude": "22.30528"
+        },
+        {
+            "city": "Karyes",
+            "region": "736572",
+            "country": "GR",
+            "latitude": "40.25715",
+            "longitude": "24.24498"
+        },
+        {
+            "city": "Kardi\u00e1",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.46778",
+            "longitude": "22.99472"
+        },
+        {
+            "city": "Kamp\u00e1nis",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.88806",
+            "longitude": "22.91028"
+        },
+        {
+            "city": "Kamari\u00f3tissa",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.48333",
+            "longitude": "25.46667"
+        },
+        {
+            "city": "Kal\u00f3s Agr\u00f3s",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.1",
+            "longitude": "24.08333"
+        },
+        {
+            "city": "Kaloch\u00f3rion",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.64139",
+            "longitude": "22.85667"
+        },
+        {
+            "city": "Kallith\u00e9a",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.25",
+            "longitude": "24.73333"
+        },
+        {
+            "city": "Kallith\u00e9a",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.27639",
+            "longitude": "22.57833"
+        },
+        {
+            "city": "Kall\u00edfitos",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.16667",
+            "longitude": "24.21667"
+        },
+        {
+            "city": "Kal\u00ed Vr\u00edsi",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.15",
+            "longitude": "23.9"
+        },
+        {
+            "city": "Kal\u00edvia Poliy\u00edrou",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.28333",
+            "longitude": "23.4"
+        },
+        {
+            "city": "\u00c1gios Spyr\u00eddon",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.20667",
+            "longitude": "22.44028"
+        },
+        {
+            "city": "Kal\u00fdvia",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.75611",
+            "longitude": "22.21361"
+        },
+        {
+            "city": "Kal\u00ed",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.82",
+            "longitude": "22.17528"
+        },
+        {
+            "city": "Kalamb\u00e1kion",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.05",
+            "longitude": "24.18333"
+        },
+        {
+            "city": "Kalamari\u00e1",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.5825",
+            "longitude": "22.95028"
+        },
+        {
+            "city": "Iro\u00efk\u00f3n",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.58333",
+            "longitude": "21.48333"
+        },
+        {
+            "city": "Ieriss\u00f3s",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.4",
+            "longitude": "23.88333"
+        },
+        {
+            "city": "\u00cdasmos",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.13333",
+            "longitude": "25.18333"
+        },
+        {
+            "city": "Greven\u00e1",
+            "region": "ESYE13",
+            "country": "GR",
+            "latitude": "40.08452",
+            "longitude": "21.42744"
+        },
+        {
+            "city": "Goum\u00e9nissa",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.94389",
+            "longitude": "22.44417"
+        },
+        {
+            "city": "G\u00e1zoros",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.01667",
+            "longitude": "23.76667"
+        },
+        {
+            "city": "Gallik\u00f3s",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.85917",
+            "longitude": "22.87556"
+        },
+        {
+            "city": "Gal\u00e1tista",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.46667",
+            "longitude": "23.28333"
+        },
+        {
+            "city": "Galatin\u00ed",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.31667",
+            "longitude": "21.55"
+        },
+        {
+            "city": "Galat\u00e1des",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.75444",
+            "longitude": "22.27167"
+        },
+        {
+            "city": "Fotol\u00edvos",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.06667",
+            "longitude": "24.06667"
+        },
+        {
+            "city": "Floyit\u00e1",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.26667",
+            "longitude": "23.21667"
+        },
+        {
+            "city": "Fl\u00f3rina",
+            "region": "ESYE13",
+            "country": "GR",
+            "latitude": "40.78197",
+            "longitude": "21.40981"
+        },
+        {
+            "city": "Fil\u00f3tas",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.63333",
+            "longitude": "21.7"
+        },
+        {
+            "city": "Fill\u00edra",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.11667",
+            "longitude": "25.63333"
+        },
+        {
+            "city": "F\u00edliro",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.69151",
+            "longitude": "23.0046"
+        },
+        {
+            "city": "F\u00e9rai",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "40.89556",
+            "longitude": "26.17"
+        },
+        {
+            "city": "Exoch\u00ed",
+            "region": "ESYE21",
+            "country": "GR",
+            "latitude": "40.0975",
+            "longitude": "20.74028"
+        },
+        {
+            "city": "Exapl\u00e1tanos",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.97722",
+            "longitude": "22.125"
+        },
+        {
+            "city": "Evrop\u00f3s",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.89444",
+            "longitude": "22.54472"
+        },
+        {
+            "city": "Efkarp\u00eda",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.68778",
+            "longitude": "22.95361"
+        },
+        {
+            "city": "Er\u00e1tira",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.35",
+            "longitude": "21.51667"
+        },
+        {
+            "city": "Episkop\u00ed",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.68833",
+            "longitude": "22.13556"
+        },
+        {
+            "city": "Epanom\u00ed",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.42722",
+            "longitude": "22.92833"
+        },
+        {
+            "city": "Emmanou\u00edl Papp\u00e1s",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.08333",
+            "longitude": "23.71667"
+        },
+        {
+            "city": "Emb\u00f3rion",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.48333",
+            "longitude": "21.55"
+        },
+        {
+            "city": "Elefthero\u00fapolis",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "40.91389",
+            "longitude": "24.25139"
+        },
+        {
+            "city": "Elaiokh\u00f3rion",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.81667",
+            "longitude": "24.25"
+        },
+        {
+            "city": "Ekh\u00ednos",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.28333",
+            "longitude": "24.96667"
+        },
+        {
+            "city": "\u00c9dessa",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.80056",
+            "longitude": "22.04722"
+        },
+        {
+            "city": "Dr\u00e1ma",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "41.15444",
+            "longitude": "24.13944"
+        },
+        {
+            "city": "Dros\u00e1ton",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "41.16278",
+            "longitude": "22.79889"
+        },
+        {
+            "city": "Drym\u00f3s",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.78139",
+            "longitude": "22.95472"
+        },
+        {
+            "city": "Didym\u00f3teichon",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "41.34806",
+            "longitude": "26.49611"
+        },
+        {
+            "city": "Diavat\u00f3s",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.54556",
+            "longitude": "22.26694"
+        },
+        {
+            "city": "N\u00e9a Ioni\u00e1",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.68889",
+            "longitude": "22.85694"
+        },
+        {
+            "city": "\u00c1gios Ge\u00f3rgios",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.60111",
+            "longitude": "22.19417"
+        },
+        {
+            "city": "\u00c1yios Vas\u00edlios",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.66461",
+            "longitude": "23.11375"
+        },
+        {
+            "city": "\u00c1gios P\u00e9tros",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.86472",
+            "longitude": "22.57639"
+        },
+        {
+            "city": "\u00c1yios Nik\u00f3laos",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.25",
+            "longitude": "23.7"
+        },
+        {
+            "city": "\u00c1yios M\u00e1mas",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.26667",
+            "longitude": "23.33333"
+        },
+        {
+            "city": "\u00c1gios Louk\u00e1s",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.71944",
+            "longitude": "22.295"
+        },
+        {
+            "city": "\u00c1yios Athan\u00e1sios",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.06667",
+            "longitude": "24.25"
+        },
+        {
+            "city": "\u00c1gios Athan\u00e1sios",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.71722",
+            "longitude": "22.72806"
+        },
+        {
+            "city": "Ag\u00eda Tri\u00e1s",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.49944",
+            "longitude": "22.87611"
+        },
+        {
+            "city": "Ag\u00edasma",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "40.90889",
+            "longitude": "24.65722"
+        },
+        {
+            "city": "Ay\u00eda Paraskev\u00ed",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.48333",
+            "longitude": "23.05"
+        },
+        {
+            "city": "Axio\u00fapolis",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.98361",
+            "longitude": "22.535"
+        },
+        {
+            "city": "\u00c1vaton",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.96667",
+            "longitude": "24.8"
+        },
+        {
+            "city": "\u00c1thyra",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.82528",
+            "longitude": "22.58333"
+        },
+        {
+            "city": "Asvestoch\u00f3ri",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.64125",
+            "longitude": "23.02528"
+        },
+        {
+            "city": "\u00c1ssiros",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.81667",
+            "longitude": "23.03333"
+        },
+        {
+            "city": "Asprov\u00e1lta",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.71667",
+            "longitude": "23.7"
+        },
+        {
+            "city": "Ask\u00f3s",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.75",
+            "longitude": "23.38333"
+        },
+        {
+            "city": "Ars\u00e9nion",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.71417",
+            "longitude": "22.16222"
+        },
+        {
+            "city": "Arrian\u00e1",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.08333",
+            "longitude": "25.7"
+        },
+        {
+            "city": "\u00c1rnissa",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.8",
+            "longitude": "21.83333"
+        },
+        {
+            "city": "Arna\u00eda",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.48652",
+            "longitude": "23.59537"
+        },
+        {
+            "city": "Armenokh\u00f3rion",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.8",
+            "longitude": "21.46667"
+        },
+        {
+            "city": "Ar\u00edsvi",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.06667",
+            "longitude": "25.58333"
+        },
+        {
+            "city": "Arida\u00eda",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.97306",
+            "longitude": "22.05639"
+        },
+        {
+            "city": "\u00c1rgos Orestik\u00f3n",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.46667",
+            "longitude": "21.26667"
+        },
+        {
+            "city": "Araviss\u00f3s",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.84",
+            "longitude": "22.29556"
+        },
+        {
+            "city": "\u00c1ratos",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.08333",
+            "longitude": "25.55"
+        },
+        {
+            "city": "\u00c1psalos",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.89278",
+            "longitude": "22.05444"
+        },
+        {
+            "city": "\u00c1no Por\u00f3\u00efa",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.28333",
+            "longitude": "23.03333"
+        },
+        {
+            "city": "\u00c1no K\u00f3mi",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.23333",
+            "longitude": "21.83333"
+        },
+        {
+            "city": "\u00c1ngistron",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.38333",
+            "longitude": "23.45"
+        },
+        {
+            "city": "Angeloch\u00f3rion",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.67833",
+            "longitude": "22.19917"
+        },
+        {
+            "city": "Agkathi\u00e1",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.55583",
+            "longitude": "22.47083"
+        },
+        {
+            "city": "Anatolik\u00f3n",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.66306",
+            "longitude": "22.71139"
+        },
+        {
+            "city": "Anarr\u00e1khi",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.48333",
+            "longitude": "21.56667"
+        },
+        {
+            "city": "Ammokh\u00f3rion",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.78333",
+            "longitude": "21.48333"
+        },
+        {
+            "city": "Amisian\u00e1",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "40.93333",
+            "longitude": "24.35"
+        },
+        {
+            "city": "\u00c1mbeloi",
+            "region": "",
+            "country": "GR",
+            "latitude": "41",
+            "longitude": "23.36667"
+        },
+        {
+            "city": "Ampele\u00edai",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.83361",
+            "longitude": "22.37861"
+        },
+        {
+            "city": "Alistr\u00e1ti",
+            "region": "",
+            "country": "GR",
+            "latitude": "41.06667",
+            "longitude": "23.95"
+        },
+        {
+            "city": "Alexandro\u00fapolis",
+            "region": "ESYE11",
+            "country": "GR",
+            "latitude": "40.8475",
+            "longitude": "25.87444"
+        },
+        {
+            "city": "Alex\u00e1ndreia",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.62667",
+            "longitude": "22.44417"
+        },
+        {
+            "city": "Akrin\u00ed",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.43333",
+            "longitude": "21.9"
+        },
+        {
+            "city": "Aig\u00ednion",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.50139",
+            "longitude": "22.54"
+        },
+        {
+            "city": "Aian\u00ed",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.16667",
+            "longitude": "21.81667"
+        },
+        {
+            "city": "\u00c1fitos",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.1",
+            "longitude": "23.43333"
+        },
+        {
+            "city": "\u00c1dendron",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.67167",
+            "longitude": "22.60444"
+        },
+        {
+            "city": "Eirino\u00fapoli",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.67806",
+            "longitude": "22.19278"
+        },
+        {
+            "city": "\u00c1gios P\u00e1vlos",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.64056",
+            "longitude": "22.95944"
+        },
+        {
+            "city": "Triandr\u00eda",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.62278",
+            "longitude": "22.97111"
+        },
+        {
+            "city": "Mel\u00edssion",
+            "region": "ESYE12",
+            "country": "GR",
+            "latitude": "40.77417",
+            "longitude": "22.34417"
+        },
+        {
+            "city": "Vir\u00f3s",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "39.58389",
+            "longitude": "19.88194"
+        },
+        {
+            "city": "Sinar\u00e1des",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "39.56472",
+            "longitude": "19.84583"
+        },
+        {
+            "city": "Potam\u00f3s",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "39.625",
+            "longitude": "19.87556"
+        },
+        {
+            "city": "Kontok\u00e1lion",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "39.64528",
+            "longitude": "19.84944"
+        },
+        {
+            "city": "Kynopi\u00e1stai",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "39.56944",
+            "longitude": "19.8825"
+        },
+        {
+            "city": "K\u00e9rkyra",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "39.62",
+            "longitude": "19.91972"
+        },
+        {
+            "city": "K\u00e1to Koraki\u00e1na",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "39.68972",
+            "longitude": "19.82528"
+        },
+        {
+            "city": "Kassi\u00f3pi",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "39.78861",
+            "longitude": "19.91861"
+        },
+        {
+            "city": "Kan\u00e1lion",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "39.60556",
+            "longitude": "19.8925"
+        },
+        {
+            "city": "Gasto\u00farion",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "39.56",
+            "longitude": "19.8975"
+        },
+        {
+            "city": "Ben\u00edtsai",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "39.54556",
+            "longitude": "19.90722"
+        },
+        {
+            "city": "\u00c1gios Mattha\u00edos",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "39.49583",
+            "longitude": "19.87306"
+        },
+        {
+            "city": "Alepo\u00fa",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "39.61028",
+            "longitude": "19.88889"
+        },
+        {
+            "city": "Vrilissia",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.03381",
+            "longitude": "23.82962"
+        },
+        {
+            "city": "Faliraki",
+            "region": "ESYE42",
+            "country": "GR",
+            "latitude": "36.33981",
+            "longitude": "28.19942"
+        },
+        {
+            "city": "Young Inn",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.12282",
+            "longitude": "25.23903"
+        },
+        {
+            "city": "Alimos",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "37.91667",
+            "longitude": "23.71667"
+        },
+        {
+            "city": "Potos (Thassos)",
+            "region": "",
+            "country": "GR",
+            "latitude": "40.60991",
+            "longitude": "24.61349"
+        },
+        {
+            "city": "Agios Georgis",
+            "region": "ESYE22",
+            "country": "GR",
+            "latitude": "39.72363",
+            "longitude": "19.69969"
+        },
+        {
+            "city": "Pefkochori",
+            "region": "",
+            "country": "GR",
+            "latitude": "39.98883",
+            "longitude": "23.61288"
+        },
+        {
+            "city": "Nidri",
+            "region": "",
+            "country": "GR",
+            "latitude": "38.70708",
+            "longitude": "20.70983"
+        },
+        {
+            "city": "\u039c\u03b5\u03c3\u03bf\u03bb\u03cc\u03b3\u03b3\u03b9",
+            "region": "ESYE23",
+            "country": "GR",
+            "latitude": "38.37019",
+            "longitude": "21.42952"
+        },
+        {
+            "city": "Marousi",
+            "region": "ESYE31",
+            "country": "GR",
+            "latitude": "38.05404",
+            "longitude": "23.806"
+        },
+        {
+            "city": "Ymittos",
+            "region": "",
+            "country": "GR",
+            "latitude": "37.95342",
+            "longitude": "23.74897"
+        },
+        {
+            "city": "Makry Gialos",
+            "region": "ESYE43",
+            "country": "GR",
+            "latitude": "35.0397",
+            "longitude": "25.9542"
+        }
+    ]
+}

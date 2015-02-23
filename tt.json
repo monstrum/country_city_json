@@ -1,0 +1,167 @@
+{
+    "country": "Trinidad and Tobago",
+    "code": "TT",
+    "cities": [
+        {
+            "city": "Tunapuna",
+            "region": "TUP",
+            "country": "TT",
+            "latitude": "10.63333",
+            "longitude": "-61.38333"
+        },
+        {
+            "city": "Paradise",
+            "region": "08",
+            "country": "TT",
+            "latitude": "10.63471",
+            "longitude": "-61.36671"
+        },
+        {
+            "city": "Tabaquite",
+            "region": "02",
+            "country": "TT",
+            "latitude": "10.38333",
+            "longitude": "-61.3"
+        },
+        {
+            "city": "Siparia",
+            "region": "SIP",
+            "country": "TT",
+            "latitude": "10.13333",
+            "longitude": "-61.5"
+        },
+        {
+            "city": "Scarborough",
+            "region": "11",
+            "country": "TT",
+            "latitude": "11.18333",
+            "longitude": "-60.73333"
+        },
+        {
+            "city": "Sangre Grande",
+            "region": "SGE",
+            "country": "TT",
+            "latitude": "10.58333",
+            "longitude": "-61.11667"
+        },
+        {
+            "city": "San Fernando",
+            "region": "10",
+            "country": "TT",
+            "latitude": "10.28333",
+            "longitude": "-61.46667"
+        },
+        {
+            "city": "Roxborough",
+            "region": "ETO",
+            "country": "TT",
+            "latitude": "11.25",
+            "longitude": "-60.58333"
+        },
+        {
+            "city": "Rio Claro",
+            "region": "03",
+            "country": "TT",
+            "latitude": "10.3",
+            "longitude": "-61.18333"
+        },
+        {
+            "city": "Princes Town",
+            "region": "PRT",
+            "country": "TT",
+            "latitude": "10.26667",
+            "longitude": "-61.38333"
+        },
+        {
+            "city": "Port-of-Spain",
+            "region": "05",
+            "country": "TT",
+            "latitude": "10.66617",
+            "longitude": "-61.51657"
+        },
+        {
+            "city": "Point Fortin",
+            "region": "PTF",
+            "country": "TT",
+            "latitude": "10.18333",
+            "longitude": "-61.68333"
+        },
+        {
+            "city": "Petit Valley",
+            "region": "DMN",
+            "country": "TT",
+            "latitude": "10.7",
+            "longitude": "-61.53333"
+        },
+        {
+            "city": "Pe\u00f1al",
+            "region": "PED",
+            "country": "TT",
+            "latitude": "10.16667",
+            "longitude": "-61.46667"
+        },
+        {
+            "city": "Mucurapo",
+            "region": "06",
+            "country": "TT",
+            "latitude": "10.66667",
+            "longitude": "-61.53333"
+        },
+        {
+            "city": "Mon Repos",
+            "region": "10",
+            "country": "TT",
+            "latitude": "10.283",
+            "longitude": "-61.44605"
+        },
+        {
+            "city": "Marabella",
+            "region": "10",
+            "country": "TT",
+            "latitude": "10.30618",
+            "longitude": "-61.44671"
+        },
+        {
+            "city": "Laventille",
+            "region": "SJL",
+            "country": "TT",
+            "latitude": "10.64917",
+            "longitude": "-61.49889"
+        },
+        {
+            "city": "D\u00e9b\u00e9",
+            "region": "12",
+            "country": "TT",
+            "latitude": "10.2",
+            "longitude": "-61.45"
+        },
+        {
+            "city": "Couva",
+            "region": "CTT",
+            "country": "TT",
+            "latitude": "10.42248",
+            "longitude": "-61.46748"
+        },
+        {
+            "city": "Chaguanas",
+            "region": "CHA",
+            "country": "TT",
+            "latitude": "10.51667",
+            "longitude": "-61.41667"
+        },
+        {
+            "city": "Arouca",
+            "region": "08",
+            "country": "TT",
+            "latitude": "10.63333",
+            "longitude": "-61.33333"
+        },
+        {
+            "city": "Arima",
+            "region": "01",
+            "country": "TT",
+            "latitude": "10.63333",
+            "longitude": "-61.28333"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "country": "Tuvalu",
+    "code": "TV",
+    "cities": [
+        {
+            "city": "Funafuti",
+            "region": "FUN",
+            "country": "TV",
+            "latitude": "-8.52425",
+            "longitude": "179.19417"
+        },
+        {
+            "city": "Alapi Village",
+            "region": "FUN",
+            "country": "TV",
+            "latitude": "-8.52074",
+            "longitude": "179.1968"
+        },
+        {
+            "city": "Fakaifou Village",
+            "region": "FUN",
+            "country": "TV",
+            "latitude": "-8.51758",
+            "longitude": "179.20094"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "country": "Mauritania",
+    "code": "MR",
+    "cities": [
+        {
+            "city": "Zou\u00e9rate",
+            "region": "11",
+            "country": "MR",
+            "latitude": "22.71873",
+            "longitude": "-12.45205"
+        },
+        {
+            "city": "Tidjikja",
+            "region": "09",
+            "country": "MR",
+            "latitude": "18.55644",
+            "longitude": "-11.42715"
+        },
+        {
+            "city": "S\u00e9libabi",
+            "region": "10",
+            "country": "MR",
+            "latitude": "15.15895",
+            "longitude": "-12.1829"
+        },
+        {
+            "city": "Rosso",
+            "region": "06",
+            "country": "MR",
+            "latitude": "16.52004",
+            "longitude": "-15.80727"
+        },
+        {
+            "city": "Nouakchott",
+            "region": "NKC",
+            "country": "MR",
+            "latitude": "18.10033",
+            "longitude": "-15.94975"
+        },
+        {
+            "city": "Nou\u00e2dhibou",
+            "region": "08",
+            "country": "MR",
+            "latitude": "20.93098",
+            "longitude": "-17.03465"
+        },
+        {
+            "city": "N\u00e9ma",
+            "region": "01",
+            "country": "MR",
+            "latitude": "16.6162",
+            "longitude": "-7.2535"
+        },
+        {
+            "city": "Kiffa",
+            "region": "03",
+            "country": "MR",
+            "latitude": "16.61659",
+            "longitude": "-11.40453"
+        },
+        {
+            "city": "Ka\u00e9di",
+            "region": "04",
+            "country": "MR",
+            "latitude": "16.14653",
+            "longitude": "-13.50474"
+        },
+        {
+            "city": "Chingue\u1e6d\u1e6di",
+            "region": "07",
+            "country": "MR",
+            "latitude": "20.44036",
+            "longitude": "-12.2622"
+        },
+        {
+            "city": "Bark\u00e9wol",
+            "region": "03",
+            "country": "MR",
+            "latitude": "16.64039",
+            "longitude": "-12.49849"
+        },
+        {
+            "city": "\u2019Ayo\u00fbn el \u2019Atro\u00fbs",
+            "region": "02",
+            "country": "MR",
+            "latitude": "16.6614",
+            "longitude": "-9.6149"
+        },
+        {
+            "city": "Atar",
+            "region": "07",
+            "country": "MR",
+            "latitude": "20.51686",
+            "longitude": "-13.04986"
+        },
+        {
+            "city": "Aleg",
+            "region": "05",
+            "country": "MR",
+            "latitude": "17.0481",
+            "longitude": "-13.9209"
+        },
+        {
+            "city": "Akjoujt",
+            "region": "12",
+            "country": "MR",
+            "latitude": "19.69694",
+            "longitude": "-14.41639"
+        }
+    ]
+}

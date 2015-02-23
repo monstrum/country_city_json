@@ -1,0 +1,34 @@
+{
+    "country": "Aruba",
+    "code": "AW",
+    "cities": [
+        {
+            "city": "Oranjestad",
+            "region": "00",
+            "country": "AW",
+            "latitude": "12.52398",
+            "longitude": "-70.02703"
+        },
+        {
+            "city": "Babijn",
+            "region": "00",
+            "country": "AW",
+            "latitude": "12.53333",
+            "longitude": "-69.98333"
+        },
+        {
+            "city": "Arasji",
+            "region": "00",
+            "country": "AW",
+            "latitude": "12.61667",
+            "longitude": "-70.06667"
+        },
+        {
+            "city": "Angochi",
+            "region": "00",
+            "country": "AW",
+            "latitude": "12.51667",
+            "longitude": "-69.95"
+        }
+    ]
+}

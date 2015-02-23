@@ -1,0 +1,13 @@
+{
+    "country": "Seychelles",
+    "code": "SC",
+    "cities": [
+        {
+            "city": "Victoria",
+            "region": "26",
+            "country": "SC",
+            "latitude": "-4.61667",
+            "longitude": "55.45"
+        }
+    ]
+}

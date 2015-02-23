@@ -1,0 +1,48 @@
+{
+    "country": "Monaco",
+    "code": "MC",
+    "cities": [
+        {
+            "city": "Monte-Carlo",
+            "region": "00",
+            "country": "MC",
+            "latitude": "43.74965",
+            "longitude": "7.43701"
+        },
+        {
+            "city": "Monaco",
+            "region": "",
+            "country": "MC",
+            "latitude": "43.73333",
+            "longitude": "7.41667"
+        },
+        {
+            "city": "La Condamine",
+            "region": "00",
+            "country": "MC",
+            "latitude": "43.7344",
+            "longitude": "7.42024"
+        },
+        {
+            "city": "Fontvieille",
+            "region": "00",
+            "country": "MC",
+            "latitude": "43.72687",
+            "longitude": "7.41766"
+        },
+        {
+            "city": "Saint-Roman",
+            "region": "",
+            "country": "MC",
+            "latitude": "43.7489",
+            "longitude": "7.43423"
+        },
+        {
+            "city": "Moneghetti",
+            "region": "00",
+            "country": "MC",
+            "latitude": "43.73679",
+            "longitude": "7.41647"
+        }
+    ]
+}

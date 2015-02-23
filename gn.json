@@ -1,0 +1,293 @@
+{
+    "country": "Guinea",
+    "code": "GN",
+    "cities": [
+        {
+            "city": "Youkounkoun",
+            "region": "18",
+            "country": "GN",
+            "latitude": "12.53333",
+            "longitude": "-13.13333"
+        },
+        {
+            "city": "Yomou",
+            "region": "29",
+            "country": "GN",
+            "latitude": "7.56028",
+            "longitude": "-9.26528"
+        },
+        {
+            "city": "Tougu\u00e9",
+            "region": "28",
+            "country": "GN",
+            "latitude": "11.45",
+            "longitude": "-11.68333"
+        },
+        {
+            "city": "Tondon",
+            "region": "31",
+            "country": "GN",
+            "latitude": "10.36667",
+            "longitude": "-13.35"
+        },
+        {
+            "city": "Tokonou",
+            "region": "32",
+            "country": "GN",
+            "latitude": "9.65",
+            "longitude": "-9.78333"
+        },
+        {
+            "city": "T\u00e9lim\u00e9l\u00e9",
+            "region": "27",
+            "country": "GN",
+            "latitude": "10.9",
+            "longitude": "-13.03333"
+        },
+        {
+            "city": "Siguiri",
+            "region": "39",
+            "country": "GN",
+            "latitude": "11.42282",
+            "longitude": "-9.16852"
+        },
+        {
+            "city": "Sangu\u00e9ya",
+            "region": "03",
+            "country": "GN",
+            "latitude": "10.7",
+            "longitude": "-14.36667"
+        },
+        {
+            "city": "Pita",
+            "region": "25",
+            "country": "GN",
+            "latitude": "11.08333",
+            "longitude": "-12.4"
+        },
+        {
+            "city": "Nz\u00e9r\u00e9kor\u00e9",
+            "region": "38",
+            "country": "GN",
+            "latitude": "7.75624",
+            "longitude": "-8.8179"
+        },
+        {
+            "city": "Mandiana",
+            "region": "37",
+            "country": "GN",
+            "latitude": "10.63333",
+            "longitude": "-8.68333"
+        },
+        {
+            "city": "Mamou",
+            "region": "23",
+            "country": "GN",
+            "latitude": "10.37546",
+            "longitude": "-12.09148"
+        },
+        {
+            "city": "Mali",
+            "region": "22",
+            "country": "GN",
+            "latitude": "12.079",
+            "longitude": "-12.2982"
+        },
+        {
+            "city": "Macenta",
+            "region": "21",
+            "country": "GN",
+            "latitude": "8.54351",
+            "longitude": "-9.47099"
+        },
+        {
+            "city": "Lola",
+            "region": "36",
+            "country": "GN",
+            "latitude": "7.8",
+            "longitude": "-8.53333"
+        },
+        {
+            "city": "Lab\u00e9",
+            "region": "34",
+            "country": "GN",
+            "latitude": "11.31823",
+            "longitude": "-12.28332"
+        },
+        {
+            "city": "Kouroussa",
+            "region": "19",
+            "country": "GN",
+            "latitude": "10.65",
+            "longitude": "-9.88333"
+        },
+        {
+            "city": "Koundara",
+            "region": "18",
+            "country": "GN",
+            "latitude": "12.48333",
+            "longitude": "-13.3"
+        },
+        {
+            "city": "Koubia",
+            "region": "33",
+            "country": "GN",
+            "latitude": "11.58333",
+            "longitude": "-11.9"
+        },
+        {
+            "city": "Kissidougou",
+            "region": "17",
+            "country": "GN",
+            "latitude": "9.1848",
+            "longitude": "-10.09987"
+        },
+        {
+            "city": "Kindia",
+            "region": "16",
+            "country": "GN",
+            "latitude": "10.05692",
+            "longitude": "-12.86576"
+        },
+        {
+            "city": "Kimbo",
+            "region": "11",
+            "country": "GN",
+            "latitude": "10.4",
+            "longitude": "-13.55"
+        },
+        {
+            "city": "K\u00e9rouan\u00e9",
+            "region": "15",
+            "country": "GN",
+            "latitude": "9.26667",
+            "longitude": "-9.01667"
+        },
+        {
+            "city": "Kankan",
+            "region": "32",
+            "country": "GN",
+            "latitude": "10.38542",
+            "longitude": "-9.30568"
+        },
+        {
+            "city": "Kamsar",
+            "region": "03",
+            "country": "GN",
+            "latitude": "10.66667",
+            "longitude": "-14.6"
+        },
+        {
+            "city": "Gu\u00e9ck\u00e9dou",
+            "region": "13",
+            "country": "GN",
+            "latitude": "8.5625",
+            "longitude": "-10.1325"
+        },
+        {
+            "city": "Gaoual",
+            "region": "12",
+            "country": "GN",
+            "latitude": "11.75",
+            "longitude": "-13.2"
+        },
+        {
+            "city": "Fria",
+            "region": "11",
+            "country": "GN",
+            "latitude": "10.45",
+            "longitude": "-13.53333"
+        },
+        {
+            "city": "For\u00e9cariah",
+            "region": "10",
+            "country": "GN",
+            "latitude": "9.43056",
+            "longitude": "-13.08806"
+        },
+        {
+            "city": "Faranah",
+            "region": "09",
+            "country": "GN",
+            "latitude": "10.04036",
+            "longitude": "-10.74343"
+        },
+        {
+            "city": "Dubr\u00e9ka",
+            "region": "31",
+            "country": "GN",
+            "latitude": "9.79111",
+            "longitude": "-13.52333"
+        },
+        {
+            "city": "Dinguiraye",
+            "region": "07",
+            "country": "GN",
+            "latitude": "11.3",
+            "longitude": "-10.71667"
+        },
+        {
+            "city": "Dalaba",
+            "region": "06",
+            "country": "GN",
+            "latitude": "10.7",
+            "longitude": "-12.25"
+        },
+        {
+            "city": "Dabola",
+            "region": "05",
+            "country": "GN",
+            "latitude": "10.75",
+            "longitude": "-11.11667"
+        },
+        {
+            "city": "Coyah",
+            "region": "30",
+            "country": "GN",
+            "latitude": "9.70556",
+            "longitude": "-13.37694"
+        },
+        {
+            "city": "Conakry",
+            "region": "04",
+            "country": "GN",
+            "latitude": "9.53795",
+            "longitude": "-13.67729"
+        },
+        {
+            "city": "Camayenne",
+            "region": "04",
+            "country": "GN",
+            "latitude": "9.535",
+            "longitude": "-13.68778"
+        },
+        {
+            "city": "Bok\u00e9",
+            "region": "03",
+            "country": "GN",
+            "latitude": "10.94094",
+            "longitude": "-14.29665"
+        },
+        {
+            "city": "Boffa",
+            "region": "02",
+            "country": "GN",
+            "latitude": "10.16667",
+            "longitude": "-14.03333"
+        },
+        {
+            "city": "Beyla",
+            "region": "01",
+            "country": "GN",
+            "latitude": "8.68333",
+            "longitude": "-8.63333"
+        },
+        {
+            "city": "L\u00e9louma",
+            "region": "35",
+            "country": "GN",
+            "latitude": "11.18333",
+            "longitude": "-12.93333"
+        }
+    ]
+}

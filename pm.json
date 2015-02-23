@@ -1,0 +1,20 @@
+{
+    "country": "Saint Pierre and Miquelon",
+    "code": "PM",
+    "cities": [
+        {
+            "city": "Saint-Pierre",
+            "region": "97502",
+            "country": "PM",
+            "latitude": "46.76544",
+            "longitude": "-56.16949"
+        },
+        {
+            "city": "Miquelon",
+            "region": "97501",
+            "country": "PM",
+            "latitude": "47.0975",
+            "longitude": "-56.38139"
+        }
+    ]
+}

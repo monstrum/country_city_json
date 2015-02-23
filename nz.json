@@ -1,0 +1,902 @@
+{
+    "country": "New Zealand",
+    "code": "NZ",
+    "cities": [
+        {
+            "city": "Woodend",
+            "region": "E9",
+            "country": "NZ",
+            "latitude": "-43.31667",
+            "longitude": "172.66667"
+        },
+        {
+            "city": "Whitianga",
+            "region": "G1",
+            "country": "NZ",
+            "latitude": "-36.83333",
+            "longitude": "175.7"
+        },
+        {
+            "city": "Whangamata",
+            "region": "G1",
+            "country": "NZ",
+            "latitude": "-37.2",
+            "longitude": "175.86667"
+        },
+        {
+            "city": "Wellsford",
+            "region": "E7",
+            "country": "NZ",
+            "latitude": "-36.28333",
+            "longitude": "174.51667"
+        },
+        {
+            "city": "Wellington",
+            "region": "G2",
+            "country": "NZ",
+            "latitude": "-41.28664",
+            "longitude": "174.77557"
+        },
+        {
+            "city": "Warkworth",
+            "region": "E7",
+            "country": "NZ",
+            "latitude": "-36.4",
+            "longitude": "174.66667"
+        },
+        {
+            "city": "Wanganui",
+            "region": "F3",
+            "country": "NZ",
+            "latitude": "-39.93333",
+            "longitude": "175.05"
+        },
+        {
+            "city": "Wakefield",
+            "region": "TAS",
+            "country": "NZ",
+            "latitude": "-41.4",
+            "longitude": "173.05"
+        },
+        {
+            "city": "Waiuku",
+            "region": "G1",
+            "country": "NZ",
+            "latitude": "-37.25",
+            "longitude": "174.75"
+        },
+        {
+            "city": "Waiouru",
+            "region": "F3",
+            "country": "NZ",
+            "latitude": "-39.48333",
+            "longitude": "175.66667"
+        },
+        {
+            "city": "Waimate North",
+            "region": "F6",
+            "country": "NZ",
+            "latitude": "-35.31667",
+            "longitude": "173.88333"
+        },
+        {
+            "city": "Waihi Beach",
+            "region": "E8",
+            "country": "NZ",
+            "latitude": "-37.4",
+            "longitude": "175.93333"
+        },
+        {
+            "city": "Turangi",
+            "region": "00",
+            "country": "NZ",
+            "latitude": "-39",
+            "longitude": "175.93333"
+        },
+        {
+            "city": "Tokoroa",
+            "region": "G1",
+            "country": "NZ",
+            "latitude": "-38.23333",
+            "longitude": "175.86667"
+        },
+        {
+            "city": "Timaru",
+            "region": "E9",
+            "country": "NZ",
+            "latitude": "-44.4",
+            "longitude": "171.25"
+        },
+        {
+            "city": "Te Kauwhata",
+            "region": "G1",
+            "country": "NZ",
+            "latitude": "-37.4",
+            "longitude": "175.15"
+        },
+        {
+            "city": "Te Anau",
+            "region": "F8",
+            "country": "NZ",
+            "latitude": "-45.41667",
+            "longitude": "167.71667"
+        },
+        {
+            "city": "Taupo",
+            "region": "G1",
+            "country": "NZ",
+            "latitude": "-38.68333",
+            "longitude": "176.08333"
+        },
+        {
+            "city": "Takaka",
+            "region": "TAS",
+            "country": "NZ",
+            "latitude": "-40.85",
+            "longitude": "172.8"
+        },
+        {
+            "city": "Tairua",
+            "region": "G1",
+            "country": "NZ",
+            "latitude": "-37.01667",
+            "longitude": "175.85"
+        },
+        {
+            "city": "Taipa",
+            "region": "00",
+            "country": "NZ",
+            "latitude": "-34.98333",
+            "longitude": "173.46667"
+        },
+        {
+            "city": "Rolleston",
+            "region": "E9",
+            "country": "NZ",
+            "latitude": "-43.58333",
+            "longitude": "172.38333"
+        },
+        {
+            "city": "Richmond",
+            "region": "TAS",
+            "country": "NZ",
+            "latitude": "-41.33333",
+            "longitude": "173.18333"
+        },
+        {
+            "city": "Rakaia",
+            "region": "E9",
+            "country": "NZ",
+            "latitude": "-43.75",
+            "longitude": "172.01667"
+        },
+        {
+            "city": "Raglan",
+            "region": "G1",
+            "country": "NZ",
+            "latitude": "-37.8",
+            "longitude": "174.88333"
+        },
+        {
+            "city": "Pukekohe East",
+            "region": "E7",
+            "country": "NZ",
+            "latitude": "-37.2",
+            "longitude": "174.95"
+        },
+        {
+            "city": "Motueka",
+            "region": "TAS",
+            "country": "NZ",
+            "latitude": "-41.13333",
+            "longitude": "173.01667"
+        },
+        {
+            "city": "Porirua",
+            "region": "G2",
+            "country": "NZ",
+            "latitude": "-41.13333",
+            "longitude": "174.85"
+        },
+        {
+            "city": "Pleasant Point",
+            "region": "E9",
+            "country": "NZ",
+            "latitude": "-44.26667",
+            "longitude": "171.13333"
+        },
+        {
+            "city": "Wanaka",
+            "region": "F7",
+            "country": "NZ",
+            "latitude": "-44.7",
+            "longitude": "169.15"
+        },
+        {
+            "city": "Paraparaumu",
+            "region": "G2",
+            "country": "NZ",
+            "latitude": "-40.91667",
+            "longitude": "175.01667"
+        },
+        {
+            "city": "Parakai",
+            "region": "E7",
+            "country": "NZ",
+            "latitude": "-36.65",
+            "longitude": "174.43333"
+        },
+        {
+            "city": "Palmerston North",
+            "region": "F3",
+            "country": "NZ",
+            "latitude": "-40.35",
+            "longitude": "175.61667"
+        },
+        {
+            "city": "Paihia",
+            "region": "F6",
+            "country": "NZ",
+            "latitude": "-35.2822",
+            "longitude": "174.09116"
+        },
+        {
+            "city": "Oxford",
+            "region": "E9",
+            "country": "NZ",
+            "latitude": "-43.3",
+            "longitude": "172.18333"
+        },
+        {
+            "city": "Otorohanga",
+            "region": "G1",
+            "country": "NZ",
+            "latitude": "-38.18333",
+            "longitude": "175.2"
+        },
+        {
+            "city": "North Shore",
+            "region": "E7",
+            "country": "NZ",
+            "latitude": "-36.8",
+            "longitude": "174.75"
+        },
+        {
+            "city": "Ngunguru",
+            "region": "F6",
+            "country": "NZ",
+            "latitude": "-35.61667",
+            "longitude": "174.5"
+        },
+        {
+            "city": "Ngatea",
+            "region": "G1",
+            "country": "NZ",
+            "latitude": "-37.28333",
+            "longitude": "175.5"
+        },
+        {
+            "city": "New Plymouth",
+            "region": "F9",
+            "country": "NZ",
+            "latitude": "-39.06667",
+            "longitude": "174.08333"
+        },
+        {
+            "city": "Nelson",
+            "region": "F5",
+            "country": "NZ",
+            "latitude": "-41.28333",
+            "longitude": "173.28333"
+        },
+        {
+            "city": "Napier",
+            "region": "F2",
+            "country": "NZ",
+            "latitude": "-39.48333",
+            "longitude": "176.91667"
+        },
+        {
+            "city": "Murupara",
+            "region": "E8",
+            "country": "NZ",
+            "latitude": "-38.46667",
+            "longitude": "176.7"
+        },
+        {
+            "city": "Muriwai Beach",
+            "region": "E7",
+            "country": "NZ",
+            "latitude": "-36.81667",
+            "longitude": "174.45"
+        },
+        {
+            "city": "Moerewa",
+            "region": "F6",
+            "country": "NZ",
+            "latitude": "-35.38333",
+            "longitude": "174.03333"
+        },
+        {
+            "city": "Methven",
+            "region": "E9",
+            "country": "NZ",
+            "latitude": "-43.63333",
+            "longitude": "171.65"
+        },
+        {
+            "city": "Maungatapere",
+            "region": "F6",
+            "country": "NZ",
+            "latitude": "-35.75",
+            "longitude": "174.2"
+        },
+        {
+            "city": "Mapua",
+            "region": "TAS",
+            "country": "NZ",
+            "latitude": "-41.25",
+            "longitude": "173.1"
+        },
+        {
+            "city": "Manukau City",
+            "region": "E7",
+            "country": "NZ",
+            "latitude": "-36.99282",
+            "longitude": "174.87986"
+        },
+        {
+            "city": "Mangere",
+            "region": "E7",
+            "country": "NZ",
+            "latitude": "-36.96807",
+            "longitude": "174.79875"
+        },
+        {
+            "city": "Maketu",
+            "region": "E8",
+            "country": "NZ",
+            "latitude": "-37.76667",
+            "longitude": "176.45"
+        },
+        {
+            "city": "Lower Hutt",
+            "region": "G2",
+            "country": "NZ",
+            "latitude": "-41.21667",
+            "longitude": "174.91667"
+        },
+        {
+            "city": "Lincoln",
+            "region": "E9",
+            "country": "NZ",
+            "latitude": "-43.65",
+            "longitude": "172.48333"
+        },
+        {
+            "city": "Leeston",
+            "region": "E9",
+            "country": "NZ",
+            "latitude": "-43.76667",
+            "longitude": "172.3"
+        },
+        {
+            "city": "Kerikeri",
+            "region": "F6",
+            "country": "NZ",
+            "latitude": "-35.22676",
+            "longitude": "173.94739"
+        },
+        {
+            "city": "Kelburn",
+            "region": "G2",
+            "country": "NZ",
+            "latitude": "-41.28333",
+            "longitude": "174.76667"
+        },
+        {
+            "city": "Kawerau",
+            "region": "E8",
+            "country": "NZ",
+            "latitude": "-38.1",
+            "longitude": "176.7"
+        },
+        {
+            "city": "Kawakawa",
+            "region": "F6",
+            "country": "NZ",
+            "latitude": "-35.38333",
+            "longitude": "174.06667"
+        },
+        {
+            "city": "Katikati",
+            "region": "E8",
+            "country": "NZ",
+            "latitude": "-37.55",
+            "longitude": "175.91667"
+        },
+        {
+            "city": "Invercargill",
+            "region": "F8",
+            "country": "NZ",
+            "latitude": "-46.4",
+            "longitude": "168.35"
+        },
+        {
+            "city": "Hastings",
+            "region": "F2",
+            "country": "NZ",
+            "latitude": "-39.6381",
+            "longitude": "176.84918"
+        },
+        {
+            "city": "Hamilton",
+            "region": "G1",
+            "country": "NZ",
+            "latitude": "-37.78333",
+            "longitude": "175.28333"
+        },
+        {
+            "city": "Edgecumbe",
+            "region": "E8",
+            "country": "NZ",
+            "latitude": "-37.98333",
+            "longitude": "176.83333"
+        },
+        {
+            "city": "Dunedin",
+            "region": "F7",
+            "country": "NZ",
+            "latitude": "-45.87416",
+            "longitude": "170.50361"
+        },
+        {
+            "city": "Dargaville",
+            "region": "F6",
+            "country": "NZ",
+            "latitude": "-35.93333",
+            "longitude": "173.88333"
+        },
+        {
+            "city": "Darfield",
+            "region": "E9",
+            "country": "NZ",
+            "latitude": "-43.48333",
+            "longitude": "172.11667"
+        },
+        {
+            "city": "Coromandel",
+            "region": "G1",
+            "country": "NZ",
+            "latitude": "-36.76667",
+            "longitude": "175.5"
+        },
+        {
+            "city": "Christchurch",
+            "region": "E9",
+            "country": "NZ",
+            "latitude": "-43.53333",
+            "longitude": "172.63333"
+        },
+        {
+            "city": "Castlepoint",
+            "region": "G2",
+            "country": "NZ",
+            "latitude": "-40.9",
+            "longitude": "176.21667"
+        },
+        {
+            "city": "Burnham",
+            "region": "E9",
+            "country": "NZ",
+            "latitude": "-43.61667",
+            "longitude": "172.31667"
+        },
+        {
+            "city": "Bulls",
+            "region": "00",
+            "country": "NZ",
+            "latitude": "-40.16667",
+            "longitude": "175.38333"
+        },
+        {
+            "city": "Brooklyn",
+            "region": "G2",
+            "country": "NZ",
+            "latitude": "-41.31667",
+            "longitude": "174.75"
+        },
+        {
+            "city": "Brightwater",
+            "region": "TAS",
+            "country": "NZ",
+            "latitude": "-41.38333",
+            "longitude": "173.11667"
+        },
+        {
+            "city": "Auckland",
+            "region": "E7",
+            "country": "NZ",
+            "latitude": "-36.86667",
+            "longitude": "174.76667"
+        },
+        {
+            "city": "Amberley",
+            "region": "E9",
+            "country": "NZ",
+            "latitude": "-43.16667",
+            "longitude": "172.73333"
+        },
+        {
+            "city": "Ahipara",
+            "region": "F6",
+            "country": "NZ",
+            "latitude": "-35.16667",
+            "longitude": "173.16667"
+        },
+        {
+            "city": "Opunake",
+            "region": "F9",
+            "country": "NZ",
+            "latitude": "-39.45556",
+            "longitude": "173.85833"
+        },
+        {
+            "city": "Eltham",
+            "region": "F9",
+            "country": "NZ",
+            "latitude": "-39.42917",
+            "longitude": "174.3"
+        },
+        {
+            "city": "Hawera",
+            "region": "F9",
+            "country": "NZ",
+            "latitude": "-39.59167",
+            "longitude": "174.28333"
+        },
+        {
+            "city": "Patea",
+            "region": "F9",
+            "country": "NZ",
+            "latitude": "-39.75833",
+            "longitude": "174.48333"
+        },
+        {
+            "city": "Foxton",
+            "region": "F3",
+            "country": "NZ",
+            "latitude": "-40.46667",
+            "longitude": "175.3"
+        },
+        {
+            "city": "Levin",
+            "region": "F3",
+            "country": "NZ",
+            "latitude": "-40.63333",
+            "longitude": "175.275"
+        },
+        {
+            "city": "Otaki",
+            "region": "G2",
+            "country": "NZ",
+            "latitude": "-40.75833",
+            "longitude": "175.15"
+        },
+        {
+            "city": "Wairoa",
+            "region": "F2",
+            "country": "NZ",
+            "latitude": "-39.03333",
+            "longitude": "177.36667"
+        },
+        {
+            "city": "Gisborne",
+            "region": "F1",
+            "country": "NZ",
+            "latitude": "-38.65333",
+            "longitude": "178.00417"
+        },
+        {
+            "city": "Waipawa",
+            "region": "G2",
+            "country": "NZ",
+            "latitude": "-41.41222",
+            "longitude": "175.51528"
+        },
+        {
+            "city": "Masterton",
+            "region": "G2",
+            "country": "NZ",
+            "latitude": "-40.95972",
+            "longitude": "175.6575"
+        },
+        {
+            "city": "Hokitika",
+            "region": "G3",
+            "country": "NZ",
+            "latitude": "-42.71667",
+            "longitude": "170.96667"
+        },
+        {
+            "city": "Greymouth",
+            "region": "G3",
+            "country": "NZ",
+            "latitude": "-42.46667",
+            "longitude": "171.2"
+        },
+        {
+            "city": "Westport",
+            "region": "G3",
+            "country": "NZ",
+            "latitude": "-41.75262",
+            "longitude": "171.6037"
+        },
+        {
+            "city": "Bluff",
+            "region": "F8",
+            "country": "NZ",
+            "latitude": "-46.6",
+            "longitude": "168.33333"
+        },
+        {
+            "city": "Riverton",
+            "region": "F8",
+            "country": "NZ",
+            "latitude": "-46.35",
+            "longitude": "168.01667"
+        },
+        {
+            "city": "Winton",
+            "region": "F8",
+            "country": "NZ",
+            "latitude": "-46.15",
+            "longitude": "168.33333"
+        },
+        {
+            "city": "Tauranga",
+            "region": "E8",
+            "country": "NZ",
+            "latitude": "-37.68611",
+            "longitude": "176.16667"
+        },
+        {
+            "city": "Waitara",
+            "region": "00",
+            "country": "NZ",
+            "latitude": "-38.925",
+            "longitude": "174.25"
+        },
+        {
+            "city": "Milton",
+            "region": "F7",
+            "country": "NZ",
+            "latitude": "-46.12083",
+            "longitude": "169.96944"
+        },
+        {
+            "city": "Balclutha",
+            "region": "F7",
+            "country": "NZ",
+            "latitude": "-46.23389",
+            "longitude": "169.75"
+        },
+        {
+            "city": "Paeroa",
+            "region": "G1",
+            "country": "NZ",
+            "latitude": "-37.36667",
+            "longitude": "175.66667"
+        },
+        {
+            "city": "Waihi",
+            "region": "G1",
+            "country": "NZ",
+            "latitude": "-37.38333",
+            "longitude": "175.83333"
+        },
+        {
+            "city": "Papakura",
+            "region": "E7",
+            "country": "NZ",
+            "latitude": "-37.06572",
+            "longitude": "174.94393"
+        },
+        {
+            "city": "Whakatane",
+            "region": "E8",
+            "country": "NZ",
+            "latitude": "-37.95855",
+            "longitude": "176.98545"
+        },
+        {
+            "city": "Opotiki",
+            "region": "E8",
+            "country": "NZ",
+            "latitude": "-38.08333",
+            "longitude": "177.28333"
+        },
+        {
+            "city": "Thames",
+            "region": "G1",
+            "country": "NZ",
+            "latitude": "-37.13333",
+            "longitude": "175.53333"
+        },
+        {
+            "city": "Waitangi",
+            "region": "10",
+            "country": "NZ",
+            "latitude": "-43.95",
+            "longitude": "-176.53333"
+        },
+        {
+            "city": "Gore",
+            "region": "F8",
+            "country": "NZ",
+            "latitude": "-46.10282",
+            "longitude": "168.94357"
+        },
+        {
+            "city": "Queenstown",
+            "region": "F7",
+            "country": "NZ",
+            "latitude": "-45.03023",
+            "longitude": "168.66271"
+        },
+        {
+            "city": "Arrowtown",
+            "region": "F7",
+            "country": "NZ",
+            "latitude": "-44.93837",
+            "longitude": "168.81007"
+        },
+        {
+            "city": "Oamaru",
+            "region": "F7",
+            "country": "NZ",
+            "latitude": "-45.07836",
+            "longitude": "170.98009"
+        },
+        {
+            "city": "Kaiapoi",
+            "region": "E9",
+            "country": "NZ",
+            "latitude": "-43.37832",
+            "longitude": "172.64013"
+        },
+        {
+            "city": "Whangarei",
+            "region": "F6",
+            "country": "NZ",
+            "latitude": "-35.73167",
+            "longitude": "174.32391"
+        },
+        {
+            "city": "Takanini",
+            "region": "E7",
+            "country": "NZ",
+            "latitude": "-37.0482",
+            "longitude": "174.90019"
+        },
+        {
+            "city": "Red Hill",
+            "region": "E7",
+            "country": "NZ",
+            "latitude": "-37.0582",
+            "longitude": "174.97019"
+        },
+        {
+            "city": "Wiri",
+            "region": "E7",
+            "country": "NZ",
+            "latitude": "-36.9982",
+            "longitude": "174.86019"
+        },
+        {
+            "city": "Pakuranga",
+            "region": "E7",
+            "country": "NZ",
+            "latitude": "-36.88333",
+            "longitude": "174.91667"
+        },
+        {
+            "city": "Tamaki",
+            "region": "E7",
+            "country": "NZ",
+            "latitude": "-36.8882",
+            "longitude": "174.86019"
+        },
+        {
+            "city": "Titirangi",
+            "region": "E7",
+            "country": "NZ",
+            "latitude": "-36.93754",
+            "longitude": "174.65584"
+        },
+        {
+            "city": "Matamata",
+            "region": "E7",
+            "country": "NZ",
+            "latitude": "-37.8106",
+            "longitude": "175.76237"
+        },
+        {
+            "city": "Cambridge",
+            "region": "G1",
+            "country": "NZ",
+            "latitude": "-37.87822",
+            "longitude": "175.4402"
+        },
+        {
+            "city": "Rotorua",
+            "region": "E8",
+            "country": "NZ",
+            "latitude": "-38.13874",
+            "longitude": "176.24516"
+        },
+        {
+            "city": "Picton",
+            "region": "F4",
+            "country": "NZ",
+            "latitude": "-41.28827",
+            "longitude": "174.01018"
+        },
+        {
+            "city": "Blenheim",
+            "region": "F4",
+            "country": "NZ",
+            "latitude": "-41.51603",
+            "longitude": "173.9528"
+        },
+        {
+            "city": "Karori",
+            "region": "G2",
+            "country": "NZ",
+            "latitude": "-41.28486",
+            "longitude": "174.7368"
+        },
+        {
+            "city": "Petone",
+            "region": "G2",
+            "country": "NZ",
+            "latitude": "-41.22827",
+            "longitude": "174.87019"
+        },
+        {
+            "city": "Upper Hutt",
+            "region": "G2",
+            "country": "NZ",
+            "latitude": "-41.13827",
+            "longitude": "175.0502"
+        },
+        {
+            "city": "Taradale",
+            "region": "F2",
+            "country": "NZ",
+            "latitude": "-39.53333",
+            "longitude": "176.85"
+        },
+        {
+            "city": "Ngaruawahia",
+            "region": "E7",
+            "country": "NZ",
+            "latitude": "-37.66738",
+            "longitude": "175.15554"
+        },
+        {
+            "city": "Waitakere",
+            "region": "E7",
+            "country": "NZ",
+            "latitude": "-36.91754",
+            "longitude": "174.65773"
+        },
+        {
+            "city": "Kaikoura",
+            "region": "E9",
+            "country": "NZ",
+            "latitude": "-42.40749",
+            "longitude": "173.68132"
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "country": "Swaziland",
+    "code": "SZ",
+    "cities": [
+        {
+            "city": "Tshaneni",
+            "region": "00",
+            "country": "SZ",
+            "latitude": "-25.98333",
+            "longitude": "31.71667"
+        },
+        {
+            "city": "Siteki",
+            "region": "02",
+            "country": "SZ",
+            "latitude": "-26.45",
+            "longitude": "31.95"
+        },
+        {
+            "city": "Sidvokodvo",
+            "region": "00",
+            "country": "SZ",
+            "latitude": "-26.6282",
+            "longitude": "31.42021"
+        },
+        {
+            "city": "Piggs Peak",
+            "region": "01",
+            "country": "SZ",
+            "latitude": "-25.96667",
+            "longitude": "31.25"
+        },
+        {
+            "city": "Nsoko",
+            "region": "00",
+            "country": "SZ",
+            "latitude": "-27.03333",
+            "longitude": "31.95"
+        },
+        {
+            "city": "Mhlume",
+            "region": "00",
+            "country": "SZ",
+            "latitude": "-26.03333",
+            "longitude": "31.85"
+        },
+        {
+            "city": "Mhlambanyatsi",
+            "region": "03",
+            "country": "SZ",
+            "latitude": "-26.45",
+            "longitude": "31.01667"
+        },
+        {
+            "city": "Mbabane",
+            "region": "01",
+            "country": "SZ",
+            "latitude": "-26.31667",
+            "longitude": "31.13333"
+        },
+        {
+            "city": "Manzini",
+            "region": "03",
+            "country": "SZ",
+            "latitude": "-26.48333",
+            "longitude": "31.36667"
+        },
+        {
+            "city": "Malkerns",
+            "region": "00",
+            "country": "SZ",
+            "latitude": "-26.56667",
+            "longitude": "31.18333"
+        },
+        {
+            "city": "Lobamba",
+            "region": "01",
+            "country": "SZ",
+            "latitude": "-26.46667",
+            "longitude": "31.2"
+        },
+        {
+            "city": "Lavumisa",
+            "region": "00",
+            "country": "SZ",
+            "latitude": "-27.31005",
+            "longitude": "31.89198"
+        },
+        {
+            "city": "Kwaluseni",
+            "region": "00",
+            "country": "SZ",
+            "latitude": "-26.48333",
+            "longitude": "31.33333"
+        },
+        {
+            "city": "Kubuta",
+            "region": "00",
+            "country": "SZ",
+            "latitude": "-26.88333",
+            "longitude": "31.48333"
+        },
+        {
+            "city": "Hluti",
+            "region": "00",
+            "country": "SZ",
+            "latitude": "-27.21667",
+            "longitude": "31.61667"
+        },
+        {
+            "city": "Hlatikulu",
+            "region": "04",
+            "country": "SZ",
+            "latitude": "-26.96667",
+            "longitude": "31.31667"
+        },
+        {
+            "city": "Darkton",
+            "region": "00",
+            "country": "SZ",
+            "latitude": "-26.23333",
+            "longitude": "31.03333"
+        },
+        {
+            "city": "Bulembu",
+            "region": "00",
+            "country": "SZ",
+            "latitude": "-25.96667",
+            "longitude": "31.13333"
+        },
+        {
+            "city": "Big Bend",
+            "region": "00",
+            "country": "SZ",
+            "latitude": "-26.81667",
+            "longitude": "31.93333"
+        },
+        {
+            "city": "Bhunya",
+            "region": "00",
+            "country": "SZ",
+            "latitude": "-26.55",
+            "longitude": "31.01667"
+        }
+    ]
+}

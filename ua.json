@@ -1,0 +1,7307 @@
+{
+    "country": "Ukraine",
+    "code": "UA",
+    "cities": [
+        {
+            "city": "Olenevka",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.38333",
+            "longitude": "32.53333"
+        },
+        {
+            "city": "Urzuf",
+            "region": "05",
+            "country": "UA",
+            "latitude": "46.91562",
+            "longitude": "37.09961"
+        },
+        {
+            "city": "Lebedyn",
+            "region": "21",
+            "country": "UA",
+            "latitude": "50.58518",
+            "longitude": "34.4849"
+        },
+        {
+            "city": "Staryy Dobrotvor",
+            "region": "15",
+            "country": "UA",
+            "latitude": "50.23154",
+            "longitude": "24.377"
+        },
+        {
+            "city": "Druzhkovka",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.63013",
+            "longitude": "37.55259"
+        },
+        {
+            "city": "Vasylivka",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.43694",
+            "longitude": "35.27417"
+        },
+        {
+            "city": "Zvenyhorodka",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.07866",
+            "longitude": "30.96754"
+        },
+        {
+            "city": "Zuya",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.0531",
+            "longitude": "34.31542"
+        },
+        {
+            "city": "Zuhres",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.0114",
+            "longitude": "38.26444"
+        },
+        {
+            "city": "Zolotyy Potik",
+            "region": "22",
+            "country": "UA",
+            "latitude": "48.9095",
+            "longitude": "25.33926"
+        },
+        {
+            "city": "Zolotonosha",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.66886",
+            "longitude": "32.03773"
+        },
+        {
+            "city": "Zolochiv",
+            "region": "07",
+            "country": "UA",
+            "latitude": "50.27985",
+            "longitude": "35.98178"
+        },
+        {
+            "city": "Zolochiv",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.80597",
+            "longitude": "24.89436"
+        },
+        {
+            "city": "Znomenka",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.71278",
+            "longitude": "32.66472"
+        },
+        {
+            "city": "Zmiyev",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.69664",
+            "longitude": "36.36109"
+        },
+        {
+            "city": "Zlynka",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.48522",
+            "longitude": "31.53906"
+        },
+        {
+            "city": "Zhytomyr",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.26487",
+            "longitude": "28.67669"
+        },
+        {
+            "city": "Zhvanets",
+            "region": "09",
+            "country": "UA",
+            "latitude": "48.54968",
+            "longitude": "26.48744"
+        },
+        {
+            "city": "Zhuravka",
+            "region": "02",
+            "country": "UA",
+            "latitude": "50.48108",
+            "longitude": "32.5949"
+        },
+        {
+            "city": "Zhovtneve",
+            "region": "24",
+            "country": "UA",
+            "latitude": "50.66365",
+            "longitude": "24.24918"
+        },
+        {
+            "city": "Zhovkva",
+            "region": "15",
+            "country": "UA",
+            "latitude": "50.05825",
+            "longitude": "23.9726"
+        },
+        {
+            "city": "Zhmerynka",
+            "region": "23",
+            "country": "UA",
+            "latitude": "49.03705",
+            "longitude": "28.11201"
+        },
+        {
+            "city": "Zhelyabovka",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.39877",
+            "longitude": "34.75776"
+        },
+        {
+            "city": "Zhovti Vody",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.34731",
+            "longitude": "33.50034"
+        },
+        {
+            "city": "Zhashkiv",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.24545",
+            "longitude": "30.1102"
+        },
+        {
+            "city": "Zhurivka",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.50276",
+            "longitude": "31.78492"
+        },
+        {
+            "city": "Zin\u2019kiv",
+            "region": "18",
+            "country": "UA",
+            "latitude": "50.20806",
+            "longitude": "34.36376"
+        },
+        {
+            "city": "Zdolbuniv",
+            "region": "19",
+            "country": "UA",
+            "latitude": "50.5206",
+            "longitude": "26.24251"
+        },
+        {
+            "city": "Zdolbitsa",
+            "region": "19",
+            "country": "UA",
+            "latitude": "50.49607",
+            "longitude": "26.24111"
+        },
+        {
+            "city": "Zboriv",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.66484",
+            "longitude": "25.14096"
+        },
+        {
+            "city": "Zbarazh",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.66357",
+            "longitude": "25.77616"
+        },
+        {
+            "city": "Zavallya",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.21354",
+            "longitude": "30.01558"
+        },
+        {
+            "city": "Karolino-Buhaz",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.14492",
+            "longitude": "30.52609"
+        },
+        {
+            "city": "Zatoka",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.07251",
+            "longitude": "30.46538"
+        },
+        {
+            "city": "Zatyshshya",
+            "region": "17",
+            "country": "UA",
+            "latitude": "47.33351",
+            "longitude": "29.87327"
+        },
+        {
+            "city": "Zastavna",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.52307",
+            "longitude": "25.84369"
+        },
+        {
+            "city": "Zarya",
+            "region": "17",
+            "country": "UA",
+            "latitude": "45.9908",
+            "longitude": "29.69672"
+        },
+        {
+            "city": "Zarichchya",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.52144",
+            "longitude": "24.64857"
+        },
+        {
+            "city": "Zarichne",
+            "region": "19",
+            "country": "UA",
+            "latitude": "51.8126",
+            "longitude": "26.12902"
+        },
+        {
+            "city": "Zaporizhzhya",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.82289",
+            "longitude": "35.19031"
+        },
+        {
+            "city": "Zaozerne",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.15816",
+            "longitude": "33.27866"
+        },
+        {
+            "city": "Zaliztsi",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.79188",
+            "longitude": "25.37297"
+        },
+        {
+            "city": "\u0416\u0435\u043b\u0435\u0437\u043d\u044b\u0439 \u043f\u043e\u0440\u0442",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.11667",
+            "longitude": "32.28333"
+        },
+        {
+            "city": "Zaliznychne",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.65238",
+            "longitude": "36.16524"
+        },
+        {
+            "city": "Zaliznychne",
+            "region": "17",
+            "country": "UA",
+            "latitude": "45.7489",
+            "longitude": "28.61466"
+        },
+        {
+            "city": "Zalesnoye",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.03104",
+            "longitude": "38.80934"
+        },
+        {
+            "city": "Zalishchyky",
+            "region": "22",
+            "country": "UA",
+            "latitude": "48.64331",
+            "longitude": "25.73794"
+        },
+        {
+            "city": "Zakupne",
+            "region": "09",
+            "country": "UA",
+            "latitude": "49.11944",
+            "longitude": "26.33756"
+        },
+        {
+            "city": "Zahvizdya",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.91836",
+            "longitude": "24.65275"
+        },
+        {
+            "city": "Zagnitkiv",
+            "region": "17",
+            "country": "UA",
+            "latitude": "48.04878",
+            "longitude": "28.89234"
+        },
+        {
+            "city": "Zachepylivka",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.19385",
+            "longitude": "35.23943"
+        },
+        {
+            "city": "Zabolotiv",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.47054",
+            "longitude": "25.28571"
+        },
+        {
+            "city": "Yuzhne",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.62211",
+            "longitude": "31.10131"
+        },
+        {
+            "city": "Yurkivka",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.01256",
+            "longitude": "31.10125"
+        },
+        {
+            "city": "Yevpatoriya",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.20091",
+            "longitude": "33.36655"
+        },
+        {
+            "city": "Yerky",
+            "region": "01",
+            "country": "UA",
+            "latitude": "48.99062",
+            "longitude": "30.98818"
+        },
+        {
+            "city": "Yenakiyeve",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.23331",
+            "longitude": "38.21137"
+        },
+        {
+            "city": "Yelyzavethradka",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.80381",
+            "longitude": "32.4046"
+        },
+        {
+            "city": "Yavoriv",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.93864",
+            "longitude": "23.38254"
+        },
+        {
+            "city": "Yasinya",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.27937",
+            "longitude": "24.36042"
+        },
+        {
+            "city": "Yasinovataya",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.1298",
+            "longitude": "37.8594"
+        },
+        {
+            "city": "Yarmolyntsi",
+            "region": "09",
+            "country": "UA",
+            "latitude": "49.19236",
+            "longitude": "26.83725"
+        },
+        {
+            "city": "Yaremcha",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.45157",
+            "longitude": "24.55436"
+        },
+        {
+            "city": "Yampil\u2019",
+            "region": "21",
+            "country": "UA",
+            "latitude": "51.94765",
+            "longitude": "33.78759"
+        },
+        {
+            "city": "Yamnytsya",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.98972",
+            "longitude": "24.7075"
+        },
+        {
+            "city": "Yalta",
+            "region": "05",
+            "country": "UA",
+            "latitude": "46.96279",
+            "longitude": "37.27365"
+        },
+        {
+            "city": "Yalta",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.50013",
+            "longitude": "34.16148"
+        },
+        {
+            "city": "Yahotyn",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.27975",
+            "longitude": "31.76246"
+        },
+        {
+            "city": "Yahil\u2019nytsya",
+            "region": "22",
+            "country": "UA",
+            "latitude": "48.94248",
+            "longitude": "25.74374"
+        },
+        {
+            "city": "Yabluniv",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.40418",
+            "longitude": "24.93874"
+        },
+        {
+            "city": "Yablunytsya",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.31742",
+            "longitude": "24.48448"
+        },
+        {
+            "city": "Vyshchetarasivka",
+            "region": "04",
+            "country": "UA",
+            "latitude": "47.5685",
+            "longitude": "34.88096"
+        },
+        {
+            "city": "Vysokopillya",
+            "region": "08",
+            "country": "UA",
+            "latitude": "47.49187",
+            "longitude": "33.53061"
+        },
+        {
+            "city": "Vysokyy",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.8892",
+            "longitude": "36.1321"
+        },
+        {
+            "city": "Vyshkove",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.04911",
+            "longitude": "23.42113"
+        },
+        {
+            "city": "Vyshhorod",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.58476",
+            "longitude": "30.4898"
+        },
+        {
+            "city": "Vynohradiv",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.15",
+            "longitude": "22.76667"
+        },
+        {
+            "city": "Vylok",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.10915",
+            "longitude": "22.83865"
+        },
+        {
+            "city": "Vylkove",
+            "region": "17",
+            "country": "UA",
+            "latitude": "45.40214",
+            "longitude": "29.58595"
+        },
+        {
+            "city": "Vvedenka",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.82441",
+            "longitude": "36.50747"
+        },
+        {
+            "city": "Vradiyivka",
+            "region": "16",
+            "country": "UA",
+            "latitude": "47.86195",
+            "longitude": "30.59195"
+        },
+        {
+            "city": "Voznesensk",
+            "region": "16",
+            "country": "UA",
+            "latitude": "47.56494",
+            "longitude": "31.33078"
+        },
+        {
+            "city": "Voznesenka",
+            "region": "26",
+            "country": "UA",
+            "latitude": "46.87165",
+            "longitude": "35.46458"
+        },
+        {
+            "city": "Voykove",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.38261",
+            "longitude": "36.43724"
+        },
+        {
+            "city": "Voskhod",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.3392",
+            "longitude": "36.4141"
+        },
+        {
+            "city": "Vorzel\u2019",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.5444",
+            "longitude": "30.15305"
+        },
+        {
+            "city": "Vorozhba",
+            "region": "21",
+            "country": "UA",
+            "latitude": "51.17334",
+            "longitude": "34.21917"
+        },
+        {
+            "city": "Voronovytsya",
+            "region": "23",
+            "country": "UA",
+            "latitude": "49.10954",
+            "longitude": "28.68078"
+        },
+        {
+            "city": "Vorokhta",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.28459",
+            "longitude": "24.56536"
+        },
+        {
+            "city": "Volovets",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.7109",
+            "longitude": "23.1851"
+        },
+        {
+            "city": "Voloka",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.19225",
+            "longitude": "25.93074"
+        },
+        {
+            "city": "Volodarka",
+            "region": "13",
+            "country": "UA",
+            "latitude": "49.52484",
+            "longitude": "29.91222"
+        },
+        {
+            "city": "Vol\u2019noye",
+            "region": "04",
+            "country": "UA",
+            "latitude": "47.63646",
+            "longitude": "34.81387"
+        },
+        {
+            "city": "Volnovakha",
+            "region": "05",
+            "country": "UA",
+            "latitude": "47.60103",
+            "longitude": "37.49674"
+        },
+        {
+            "city": "Vovchans\u2019k",
+            "region": "07",
+            "country": "UA",
+            "latitude": "50.29078",
+            "longitude": "36.94108"
+        },
+        {
+            "city": "Voyinka",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.8699",
+            "longitude": "33.99138"
+        },
+        {
+            "city": "Vodyane",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.48746",
+            "longitude": "34.49235"
+        },
+        {
+            "city": "Volodymyr-Volyns\u2019kyy",
+            "region": "24",
+            "country": "UA",
+            "latitude": "50.85253",
+            "longitude": "24.32364"
+        },
+        {
+            "city": "Volodymerets\u2019",
+            "region": "19",
+            "country": "UA",
+            "latitude": "51.4213",
+            "longitude": "26.14469"
+        },
+        {
+            "city": "Vyzhnytsya",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.24801",
+            "longitude": "25.19452"
+        },
+        {
+            "city": "Vyshneve",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.38913",
+            "longitude": "30.3705"
+        },
+        {
+            "city": "Vyshneve",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.43661",
+            "longitude": "33.91618"
+        },
+        {
+            "city": "Vynohradove",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.36957",
+            "longitude": "32.9398"
+        },
+        {
+            "city": "Vynohradivka",
+            "region": "17",
+            "country": "UA",
+            "latitude": "45.68119",
+            "longitude": "28.57138"
+        },
+        {
+            "city": "Vinnytsya",
+            "region": "23",
+            "country": "UA",
+            "latitude": "49.23278",
+            "longitude": "28.48097"
+        },
+        {
+            "city": "Viline",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.8456",
+            "longitude": "33.67161"
+        },
+        {
+            "city": "Veselynove",
+            "region": "16",
+            "country": "UA",
+            "latitude": "47.35666",
+            "longitude": "31.23488"
+        },
+        {
+            "city": "Vesele",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.01479",
+            "longitude": "34.91504"
+        },
+        {
+            "city": "Verkhovyna",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.15571",
+            "longitude": "24.79112"
+        },
+        {
+            "city": "Verkhnyaya Syrovatka",
+            "region": "21",
+            "country": "UA",
+            "latitude": "50.82902",
+            "longitude": "34.95861"
+        },
+        {
+            "city": "Verkhnyaya Rozhanka",
+            "region": "15",
+            "country": "UA",
+            "latitude": "48.79185",
+            "longitude": "23.51569"
+        },
+        {
+            "city": "Verkhnyachka",
+            "region": "01",
+            "country": "UA",
+            "latitude": "48.82849",
+            "longitude": "30.03957"
+        },
+        {
+            "city": "Verkhniy Yasenov",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.16156",
+            "longitude": "24.94532"
+        },
+        {
+            "city": "Verkhniy Rohachyk",
+            "region": "08",
+            "country": "UA",
+            "latitude": "47.25054",
+            "longitude": "34.33797"
+        },
+        {
+            "city": "Verkhneye Sinevidnoye",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.10307",
+            "longitude": "23.59099"
+        },
+        {
+            "city": "Verenchanka",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.54653",
+            "longitude": "25.74533"
+        },
+        {
+            "city": "Verbivka",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.41667",
+            "longitude": "35.53333"
+        },
+        {
+            "city": "Vendychany",
+            "region": "23",
+            "country": "UA",
+            "latitude": "48.61176",
+            "longitude": "27.79324"
+        },
+        {
+            "city": "Velykoploske",
+            "region": "17",
+            "country": "UA",
+            "latitude": "47.01254",
+            "longitude": "29.67171"
+        },
+        {
+            "city": "Velyka Mykhaylivka",
+            "region": "17",
+            "country": "UA",
+            "latitude": "47.07944",
+            "longitude": "29.85139"
+        },
+        {
+            "city": "Velykyy Klyuchiv",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.47092",
+            "longitude": "24.94678"
+        },
+        {
+            "city": "Velikiye Sorochintsy",
+            "region": "18",
+            "country": "UA",
+            "latitude": "50.02314",
+            "longitude": "33.94144"
+        },
+        {
+            "city": "Velyki Kopany",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.48684",
+            "longitude": "32.97498"
+        },
+        {
+            "city": "Velikiye Borki",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.52364",
+            "longitude": "25.75753"
+        },
+        {
+            "city": "Velikiy Burluk",
+            "region": "07",
+            "country": "UA",
+            "latitude": "50.03787",
+            "longitude": "37.39871"
+        },
+        {
+            "city": "Velyka Pysarivka",
+            "region": "21",
+            "country": "UA",
+            "latitude": "50.42587",
+            "longitude": "35.48502"
+        },
+        {
+            "city": "Velyka Lepetykha",
+            "region": "08",
+            "country": "UA",
+            "latitude": "47.17572",
+            "longitude": "33.94362"
+        },
+        {
+            "city": "Velyka Bilozerka",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.27756",
+            "longitude": "34.70616"
+        },
+        {
+            "city": "Velyka Bahachka",
+            "region": "18",
+            "country": "UA",
+            "latitude": "49.79116",
+            "longitude": "33.72258"
+        },
+        {
+            "city": "Velyka Oleksandrivka",
+            "region": "08",
+            "country": "UA",
+            "latitude": "47.31969",
+            "longitude": "33.30373"
+        },
+        {
+            "city": "Vatutine",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.01502",
+            "longitude": "31.06211"
+        },
+        {
+            "city": "Vasyshcheve",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.82852",
+            "longitude": "36.32691"
+        },
+        {
+            "city": "Vasyl\u2019kiv",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.18692",
+            "longitude": "30.31346"
+        },
+        {
+            "city": "Vashkivtsi",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.38492",
+            "longitude": "25.51023"
+        },
+        {
+            "city": "Vary",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.12207",
+            "longitude": "22.71281"
+        },
+        {
+            "city": "Varva",
+            "region": "02",
+            "country": "UA",
+            "latitude": "50.49503",
+            "longitude": "32.71968"
+        },
+        {
+            "city": "Vapnyarka",
+            "region": "23",
+            "country": "UA",
+            "latitude": "48.53479",
+            "longitude": "28.74358"
+        },
+        {
+            "city": "Valky",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.83868",
+            "longitude": "35.62072"
+        },
+        {
+            "city": "Uzyn",
+            "region": "13",
+            "country": "UA",
+            "latitude": "49.82619",
+            "longitude": "30.41487"
+        },
+        {
+            "city": "Uzhhorod",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.61667",
+            "longitude": "22.3"
+        },
+        {
+            "city": "Uyutne",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.19769",
+            "longitude": "33.29796"
+        },
+        {
+            "city": "Utkivka",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.78583",
+            "longitude": "36.07528"
+        },
+        {
+            "city": "Ustynivka",
+            "region": "10",
+            "country": "UA",
+            "latitude": "47.95507",
+            "longitude": "32.53674"
+        },
+        {
+            "city": "Uspenka",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.39028",
+            "longitude": "39.16194"
+        },
+        {
+            "city": "Usatove",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.53296",
+            "longitude": "30.6596"
+        },
+        {
+            "city": "Uralo-Kavkaz",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.29576",
+            "longitude": "39.82537"
+        },
+        {
+            "city": "Nyzhni Petrivtsi",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.02847",
+            "longitude": "25.72327"
+        },
+        {
+            "city": "Uman\u2019",
+            "region": "01",
+            "country": "UA",
+            "latitude": "48.74838",
+            "longitude": "30.22184"
+        },
+        {
+            "city": "Ulichnoye",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.23385",
+            "longitude": "23.65111"
+        },
+        {
+            "city": "Ulanov",
+            "region": "23",
+            "country": "UA",
+            "latitude": "49.69512",
+            "longitude": "28.13298"
+        },
+        {
+            "city": "Ukrainka",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.14317",
+            "longitude": "30.74612"
+        },
+        {
+            "city": "Uhryniv",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.9552",
+            "longitude": "24.69292"
+        },
+        {
+            "city": "Ugnev",
+            "region": "15",
+            "country": "UA",
+            "latitude": "50.36811",
+            "longitude": "23.74895"
+        },
+        {
+            "city": "Uhlove",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.82146",
+            "longitude": "33.60452"
+        },
+        {
+            "city": "Uglegorsk",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.31474",
+            "longitude": "38.27423"
+        },
+        {
+            "city": "Tysmenytsya",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.90219",
+            "longitude": "24.84482"
+        },
+        {
+            "city": "Tysmenychany",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.77168",
+            "longitude": "24.66626"
+        },
+        {
+            "city": "Tynnoye",
+            "region": "19",
+            "country": "UA",
+            "latitude": "50.60145",
+            "longitude": "26.18486"
+        },
+        {
+            "city": "Tyachiv",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.0118",
+            "longitude": "23.57061"
+        },
+        {
+            "city": "Turka",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.15411",
+            "longitude": "23.02967"
+        },
+        {
+            "city": "Turbiv",
+            "region": "23",
+            "country": "UA",
+            "latitude": "49.34788",
+            "longitude": "28.72117"
+        },
+        {
+            "city": "Tul\u2019chyn",
+            "region": "23",
+            "country": "UA",
+            "latitude": "48.67448",
+            "longitude": "28.84641"
+        },
+        {
+            "city": "Tukhlya",
+            "region": "15",
+            "country": "UA",
+            "latitude": "48.91218",
+            "longitude": "23.47303"
+        },
+        {
+            "city": "Tsyurupyns\u2019k",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.61842",
+            "longitude": "32.7189"
+        },
+        {
+            "city": "Tsybulevka",
+            "region": "23",
+            "country": "UA",
+            "latitude": "48.38719",
+            "longitude": "29.10288"
+        },
+        {
+            "city": "Tsybli",
+            "region": "13",
+            "country": "UA",
+            "latitude": "49.99484",
+            "longitude": "31.56281"
+        },
+        {
+            "city": "Tsibulev",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.07907",
+            "longitude": "29.84726"
+        },
+        {
+            "city": "Tsarychanka",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.93697",
+            "longitude": "34.4786"
+        },
+        {
+            "city": "Truskavets",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.27837",
+            "longitude": "23.50618"
+        },
+        {
+            "city": "Trostyanets\u2019",
+            "region": "21",
+            "country": "UA",
+            "latitude": "50.47843",
+            "longitude": "34.96298"
+        },
+        {
+            "city": "Tripol\u2019ye",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.11802",
+            "longitude": "30.78141"
+        },
+        {
+            "city": "Trebukhiv",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.48432",
+            "longitude": "30.90304"
+        },
+        {
+            "city": "Toshkovka",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.77914",
+            "longitude": "38.57903"
+        },
+        {
+            "city": "Torez",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.03876",
+            "longitude": "38.59685"
+        },
+        {
+            "city": "Tomakivka",
+            "region": "04",
+            "country": "UA",
+            "latitude": "47.81569",
+            "longitude": "34.74137"
+        },
+        {
+            "city": "Tovste",
+            "region": "22",
+            "country": "UA",
+            "latitude": "48.84662",
+            "longitude": "25.72621"
+        },
+        {
+            "city": "Tokmak",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.25522",
+            "longitude": "35.71238"
+        },
+        {
+            "city": "Tyshkivka",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.49665",
+            "longitude": "30.94229"
+        },
+        {
+            "city": "Tymoshivka",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.18418",
+            "longitude": "35.10881"
+        },
+        {
+            "city": "Tetiyiv",
+            "region": "13",
+            "country": "UA",
+            "latitude": "49.3767",
+            "longitude": "29.66474"
+        },
+        {
+            "city": "Terpinnya",
+            "region": "26",
+            "country": "UA",
+            "latitude": "46.96971",
+            "longitude": "35.41972"
+        },
+        {
+            "city": "T\u00ebrny",
+            "region": "21",
+            "country": "UA",
+            "latitude": "50.98916",
+            "longitude": "33.9707"
+        },
+        {
+            "city": "Ternuvate",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.83049",
+            "longitude": "36.12761"
+        },
+        {
+            "city": "Ternopil\u2019",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.55589",
+            "longitude": "25.60556"
+        },
+        {
+            "city": "Terebovlya",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.30187",
+            "longitude": "25.70997"
+        },
+        {
+            "city": "Teplyk",
+            "region": "23",
+            "country": "UA",
+            "latitude": "48.66566",
+            "longitude": "29.74504"
+        },
+        {
+            "city": "Tatarbunary",
+            "region": "17",
+            "country": "UA",
+            "latitude": "45.83731",
+            "longitude": "29.61424"
+        },
+        {
+            "city": "Tarutyne",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.18583",
+            "longitude": "29.15056"
+        },
+        {
+            "city": "Tarashcha",
+            "region": "13",
+            "country": "UA",
+            "latitude": "49.55832",
+            "longitude": "30.49259"
+        },
+        {
+            "city": "Talalayivka",
+            "region": "02",
+            "country": "UA",
+            "latitude": "50.95783",
+            "longitude": "31.92085"
+        },
+        {
+            "city": "Syeverodonets\u2019k",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.94832",
+            "longitude": "38.49166"
+        },
+        {
+            "city": "Svyatogorsk",
+            "region": "05",
+            "country": "UA",
+            "latitude": "49.03333",
+            "longitude": "37.56667"
+        },
+        {
+            "city": "Svityaz\u2019",
+            "region": "24",
+            "country": "UA",
+            "latitude": "51.48211",
+            "longitude": "23.85904"
+        },
+        {
+            "city": "Svitlovods\u2019k",
+            "region": "10",
+            "country": "UA",
+            "latitude": "49.04894",
+            "longitude": "33.24106"
+        },
+        {
+            "city": "Sverdlovs\u2019k",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.08964",
+            "longitude": "39.65243"
+        },
+        {
+            "city": "Svatove",
+            "region": "14",
+            "country": "UA",
+            "latitude": "49.41029",
+            "longitude": "38.15035"
+        },
+        {
+            "city": "Svarychiv",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.9622",
+            "longitude": "24.19658"
+        },
+        {
+            "city": "Svalyava",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.54853",
+            "longitude": "22.99578"
+        },
+        {
+            "city": "Sutysky",
+            "region": "23",
+            "country": "UA",
+            "latitude": "49.04245",
+            "longitude": "28.41732"
+        },
+        {
+            "city": "Sursko-Mikhaylovka",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.27202",
+            "longitude": "34.72759"
+        },
+        {
+            "city": "Sumy",
+            "region": "21",
+            "country": "UA",
+            "latitude": "50.9216",
+            "longitude": "34.80029"
+        },
+        {
+            "city": "Sukhovolya",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.82426",
+            "longitude": "23.8377"
+        },
+        {
+            "city": "Sudovaya Vishnya",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.78892",
+            "longitude": "23.37218"
+        },
+        {
+            "city": "Sudak",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.84924",
+            "longitude": "34.97471"
+        },
+        {
+            "city": "Subottsi",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.65545",
+            "longitude": "32.52093"
+        },
+        {
+            "city": "Studenok",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.09107",
+            "longitude": "37.48697"
+        },
+        {
+            "city": "Stryy",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.26223",
+            "longitude": "23.85609"
+        },
+        {
+            "city": "Strohonivka",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.94309",
+            "longitude": "34.19727"
+        },
+        {
+            "city": "Strabychovo",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.39247",
+            "longitude": "22.54308"
+        },
+        {
+            "city": "Stozhkovskoye",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.11333",
+            "longitude": "38.4925"
+        },
+        {
+            "city": "Stetseva",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.52767",
+            "longitude": "25.57572"
+        },
+        {
+            "city": "Stepanivka",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.79489",
+            "longitude": "29.98684"
+        },
+        {
+            "city": "Stebnik",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.29416",
+            "longitude": "23.56357"
+        },
+        {
+            "city": "Stebl\u00ebv",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.40186",
+            "longitude": "31.09764"
+        },
+        {
+            "city": "Stavyshche",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.40051",
+            "longitude": "29.52796"
+        },
+        {
+            "city": "Staryy Saltov",
+            "region": "07",
+            "country": "UA",
+            "latitude": "50.08268",
+            "longitude": "36.79393"
+        },
+        {
+            "city": "Staryy Merchyk",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.98147",
+            "longitude": "35.75904"
+        },
+        {
+            "city": "Staryy Krym",
+            "region": "05",
+            "country": "UA",
+            "latitude": "47.16146",
+            "longitude": "37.48934"
+        },
+        {
+            "city": "Staryy Krym",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.02887",
+            "longitude": "35.09174"
+        },
+        {
+            "city": "Stari Kuty",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.27093",
+            "longitude": "25.17293"
+        },
+        {
+            "city": "Stari Bohorodchany",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.83361",
+            "longitude": "24.5243"
+        },
+        {
+            "city": "Starokostyantyniv",
+            "region": "09",
+            "country": "UA",
+            "latitude": "49.75764",
+            "longitude": "27.20342"
+        },
+        {
+            "city": "Starokozache",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.33722",
+            "longitude": "29.98528"
+        },
+        {
+            "city": "Starobesheve",
+            "region": "05",
+            "country": "UA",
+            "latitude": "47.75038",
+            "longitude": "38.03051"
+        },
+        {
+            "city": "Starobil\u2019s\u2019k",
+            "region": "14",
+            "country": "UA",
+            "latitude": "49.27832",
+            "longitude": "38.91069"
+        },
+        {
+            "city": "Starychi",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.98001",
+            "longitude": "23.55848"
+        },
+        {
+            "city": "Stara Vyzhivka",
+            "region": "24",
+            "country": "UA",
+            "latitude": "51.43762",
+            "longitude": "24.43997"
+        },
+        {
+            "city": "Stara Synyava",
+            "region": "09",
+            "country": "UA",
+            "latitude": "49.60318",
+            "longitude": "27.61909"
+        },
+        {
+            "city": "Stanislav",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.56909",
+            "longitude": "32.14777"
+        },
+        {
+            "city": "Stakhanov",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.56818",
+            "longitude": "38.64352"
+        },
+        {
+            "city": "Sredneye Vodyanoye",
+            "region": "25",
+            "country": "UA",
+            "latitude": "47.98159",
+            "longitude": "23.91041"
+        },
+        {
+            "city": "Sredneye",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.54043",
+            "longitude": "22.50696"
+        },
+        {
+            "city": "Sribne",
+            "region": "02",
+            "country": "UA",
+            "latitude": "50.66384",
+            "longitude": "32.91867"
+        },
+        {
+            "city": "Spasskoye",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.65983",
+            "longitude": "35.05242"
+        },
+        {
+            "city": "Spas",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.88992",
+            "longitude": "24.06293"
+        },
+        {
+            "city": "Sosnytsya",
+            "region": "02",
+            "country": "UA",
+            "latitude": "51.52387",
+            "longitude": "32.49985"
+        },
+        {
+            "city": "Solotvyno",
+            "region": "25",
+            "country": "UA",
+            "latitude": "47.94604",
+            "longitude": "23.87035"
+        },
+        {
+            "city": "Solotvyn",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.70212",
+            "longitude": "24.42212"
+        },
+        {
+            "city": "Solonka",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.75621",
+            "longitude": "24.01028"
+        },
+        {
+            "city": "Solonytsivka",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.99682",
+            "longitude": "36.03464"
+        },
+        {
+            "city": "Solone",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.20805",
+            "longitude": "34.87208"
+        },
+        {
+            "city": "Sokyryany",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.44747",
+            "longitude": "27.41678"
+        },
+        {
+            "city": "Sokal\u2019",
+            "region": "15",
+            "country": "UA",
+            "latitude": "50.47438",
+            "longitude": "24.28288"
+        },
+        {
+            "city": "Sofiyivka",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.04927",
+            "longitude": "33.87462"
+        },
+        {
+            "city": "Sobolivka",
+            "region": "23",
+            "country": "UA",
+            "latitude": "49.33604",
+            "longitude": "28.65096"
+        },
+        {
+            "city": "Snyatyn",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.44692",
+            "longitude": "25.56937"
+        },
+        {
+            "city": "Snihurivka",
+            "region": "16",
+            "country": "UA",
+            "latitude": "47.07579",
+            "longitude": "32.80516"
+        },
+        {
+            "city": "Snizhne",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.02612",
+            "longitude": "38.77225"
+        },
+        {
+            "city": "Smila",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.22242",
+            "longitude": "31.88714"
+        },
+        {
+            "city": "Sloviansk",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.86667",
+            "longitude": "37.61667"
+        },
+        {
+            "city": "Slobidka",
+            "region": "17",
+            "country": "UA",
+            "latitude": "47.88694",
+            "longitude": "29.34611"
+        },
+        {
+            "city": "Sloboda",
+            "region": "21",
+            "country": "UA",
+            "latitude": "51.19806",
+            "longitude": "33.60695"
+        },
+        {
+            "city": "Slavuta",
+            "region": "09",
+            "country": "UA",
+            "latitude": "50.30155",
+            "longitude": "26.86506"
+        },
+        {
+            "city": "Slavskoye",
+            "region": "15",
+            "country": "UA",
+            "latitude": "48.84734",
+            "longitude": "23.44587"
+        },
+        {
+            "city": "Slatino",
+            "region": "07",
+            "country": "UA",
+            "latitude": "50.21041",
+            "longitude": "36.15376"
+        },
+        {
+            "city": "Skvyra",
+            "region": "13",
+            "country": "UA",
+            "latitude": "49.73177",
+            "longitude": "29.66569"
+        },
+        {
+            "city": "Skole",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.03717",
+            "longitude": "23.51346"
+        },
+        {
+            "city": "Skhodnitsa",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.20128",
+            "longitude": "23.36169"
+        },
+        {
+            "city": "Skalat",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.42732",
+            "longitude": "25.97869"
+        },
+        {
+            "city": "Skadovsk",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.1161",
+            "longitude": "32.91124"
+        },
+        {
+            "city": "Synevyrs'ka Polyana",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.58484",
+            "longitude": "23.6891"
+        },
+        {
+            "city": "Synevyr",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.48745",
+            "longitude": "23.62575"
+        },
+        {
+            "city": "Synel\u2019nykove",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.32044",
+            "longitude": "35.51792"
+        },
+        {
+            "city": "Simferopol\u2019",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.95719",
+            "longitude": "34.11079"
+        },
+        {
+            "city": "Simeiz",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.40646",
+            "longitude": "34.00704"
+        },
+        {
+            "city": "Shpola",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.00687",
+            "longitude": "31.39471"
+        },
+        {
+            "city": "Shostka",
+            "region": "21",
+            "country": "UA",
+            "latitude": "51.86667",
+            "longitude": "33.48333"
+        },
+        {
+            "city": "Sholokhove",
+            "region": "04",
+            "country": "UA",
+            "latitude": "47.69453",
+            "longitude": "34.03119"
+        },
+        {
+            "city": "Shklo",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.95675",
+            "longitude": "23.54408"
+        },
+        {
+            "city": "Shyshaky",
+            "region": "18",
+            "country": "UA",
+            "latitude": "49.88175",
+            "longitude": "34.01118"
+        },
+        {
+            "city": "Shyryayeve",
+            "region": "17",
+            "country": "UA",
+            "latitude": "47.38052",
+            "longitude": "30.19638"
+        },
+        {
+            "city": "Shyroke",
+            "region": "05",
+            "country": "UA",
+            "latitude": "47.95711",
+            "longitude": "38.2316"
+        },
+        {
+            "city": "Shyroke",
+            "region": "04",
+            "country": "UA",
+            "latitude": "47.69173",
+            "longitude": "33.25714"
+        },
+        {
+            "city": "Shypyntsi",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.37677",
+            "longitude": "25.74664"
+        },
+        {
+            "city": "Shevchenkove",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.69585",
+            "longitude": "37.17348"
+        },
+        {
+            "city": "Shevchenkove",
+            "region": "16",
+            "country": "UA",
+            "latitude": "46.86289",
+            "longitude": "32.20387"
+        },
+        {
+            "city": "Shevchenkove",
+            "region": "17",
+            "country": "UA",
+            "latitude": "45.55604",
+            "longitude": "29.33357"
+        },
+        {
+            "city": "Sheshory",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.33197",
+            "longitude": "24.98329"
+        },
+        {
+            "city": "Shepetivka",
+            "region": "09",
+            "country": "UA",
+            "latitude": "50.18545",
+            "longitude": "27.06365"
+        },
+        {
+            "city": "Shchors",
+            "region": "02",
+            "country": "UA",
+            "latitude": "51.81865",
+            "longitude": "31.94504"
+        },
+        {
+            "city": "Shcherbinovka",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.39489",
+            "longitude": "37.79102"
+        },
+        {
+            "city": "Shchebetovka",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.93821",
+            "longitude": "35.158"
+        },
+        {
+            "city": "Shatsk",
+            "region": "24",
+            "country": "UA",
+            "latitude": "51.50208",
+            "longitude": "23.93806"
+        },
+        {
+            "city": "Sharhorod",
+            "region": "23",
+            "country": "UA",
+            "latitude": "48.73835",
+            "longitude": "28.08497"
+        },
+        {
+            "city": "Shalyhyne",
+            "region": "21",
+            "country": "UA",
+            "latitude": "51.57111",
+            "longitude": "34.07167"
+        },
+        {
+            "city": "Shakht\u00ebrsk",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.06252",
+            "longitude": "38.51665"
+        },
+        {
+            "city": "Shabo",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.13262",
+            "longitude": "30.38595"
+        },
+        {
+            "city": "Seversk",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.86699",
+            "longitude": "38.10007"
+        },
+        {
+            "city": "Sevastopol\u2019",
+            "region": "20",
+            "country": "UA",
+            "latitude": "44.58883",
+            "longitude": "33.5224"
+        },
+        {
+            "city": "Serpneve",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.30094",
+            "longitude": "29.01958"
+        },
+        {
+            "city": "Sergeyevka",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.0272",
+            "longitude": "30.37682"
+        },
+        {
+            "city": "Seredyna-Buda",
+            "region": "21",
+            "country": "UA",
+            "latitude": "52.1875",
+            "longitude": "34.02917"
+        },
+        {
+            "city": "Serebriya",
+            "region": "23",
+            "country": "UA",
+            "latitude": "48.45593",
+            "longitude": "27.71923"
+        },
+        {
+            "city": "Sencha",
+            "region": "18",
+            "country": "UA",
+            "latitude": "50.25482",
+            "longitude": "33.34602"
+        },
+        {
+            "city": "Semypolky",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.72627",
+            "longitude": "30.93441"
+        },
+        {
+            "city": "Semeykino",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.32643",
+            "longitude": "39.53366"
+        },
+        {
+            "city": "Semenivka",
+            "region": "02",
+            "country": "UA",
+            "latitude": "52.1775",
+            "longitude": "32.58111"
+        },
+        {
+            "city": "Semenivka",
+            "region": "18",
+            "country": "UA",
+            "latitude": "49.59031",
+            "longitude": "33.18049"
+        },
+        {
+            "city": "Selets",
+            "region": "15",
+            "country": "UA",
+            "latitude": "50.29712",
+            "longitude": "24.20462"
+        },
+        {
+            "city": "Syedove",
+            "region": "05",
+            "country": "UA",
+            "latitude": "47.07678",
+            "longitude": "38.15602"
+        },
+        {
+            "city": "Sedn\u00ebv",
+            "region": "02",
+            "country": "UA",
+            "latitude": "51.64472",
+            "longitude": "31.56496"
+        },
+        {
+            "city": "Schast\u2019ye",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.73963",
+            "longitude": "39.2323"
+        },
+        {
+            "city": "Savran\u2019",
+            "region": "17",
+            "country": "UA",
+            "latitude": "48.13219",
+            "longitude": "30.08247"
+        },
+        {
+            "city": "Savyntsi",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.40257",
+            "longitude": "37.06266"
+        },
+        {
+            "city": "Sarny",
+            "region": "19",
+            "country": "UA",
+            "latitude": "51.33795",
+            "longitude": "26.60191"
+        },
+        {
+            "city": "Sarata",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.01966",
+            "longitude": "29.66567"
+        },
+        {
+            "city": "Sambir",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.5183",
+            "longitude": "23.19752"
+        },
+        {
+            "city": "Saky",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.13424",
+            "longitude": "33.59996"
+        },
+        {
+            "city": "Sakhnovshchyna",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.15166",
+            "longitude": "35.87198"
+        },
+        {
+            "city": "Sadzhavka",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.56603",
+            "longitude": "24.7882"
+        },
+        {
+            "city": "Rzhyshchiv",
+            "region": "13",
+            "country": "UA",
+            "latitude": "49.96886",
+            "longitude": "31.04628"
+        },
+        {
+            "city": "Rykhtichi",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.38511",
+            "longitude": "23.55662"
+        },
+        {
+            "city": "Rybakivka",
+            "region": "16",
+            "country": "UA",
+            "latitude": "46.61712",
+            "longitude": "31.34995"
+        },
+        {
+            "city": "Rybache",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.7718",
+            "longitude": "34.59516"
+        },
+        {
+            "city": "Ruzhyn",
+            "region": "27",
+            "country": "UA",
+            "latitude": "49.7228",
+            "longitude": "29.20455"
+        },
+        {
+            "city": "Russkaya Polyana",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.417",
+            "longitude": "31.92009"
+        },
+        {
+            "city": "Rudne",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.83333",
+            "longitude": "23.9"
+        },
+        {
+            "city": "Rudki",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.65306",
+            "longitude": "23.48702"
+        },
+        {
+            "city": "Rubizhne",
+            "region": "14",
+            "country": "UA",
+            "latitude": "49.01229",
+            "longitude": "38.37967"
+        },
+        {
+            "city": "Rozvadov",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.5",
+            "longitude": "23.61667"
+        },
+        {
+            "city": "Rozivka",
+            "region": "26",
+            "country": "UA",
+            "latitude": "46.93846",
+            "longitude": "35.77239"
+        },
+        {
+            "city": "Rozhnyativ",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.93576",
+            "longitude": "24.16379"
+        },
+        {
+            "city": "Rozhniv",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.36597",
+            "longitude": "25.2258"
+        },
+        {
+            "city": "Rozhishche",
+            "region": "24",
+            "country": "UA",
+            "latitude": "50.91542",
+            "longitude": "25.26906"
+        },
+        {
+            "city": "Rozdo",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.46144",
+            "longitude": "24.0623"
+        },
+        {
+            "city": "Rozdil\u2019na",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.84334",
+            "longitude": "30.07919"
+        },
+        {
+            "city": "Rivne",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.24742",
+            "longitude": "31.75432"
+        },
+        {
+            "city": "Roven\u2019ki",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.08332",
+            "longitude": "39.37764"
+        },
+        {
+            "city": "Roskoshnyy",
+            "region": "13",
+            "country": "UA",
+            "latitude": "49.37087",
+            "longitude": "30.18471"
+        },
+        {
+            "city": "Roskoshnoye",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.50743",
+            "longitude": "39.30036"
+        },
+        {
+            "city": "Ropcha",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.11988",
+            "longitude": "25.77421"
+        },
+        {
+            "city": "Romodan",
+            "region": "18",
+            "country": "UA",
+            "latitude": "49.98976",
+            "longitude": "33.33178"
+        },
+        {
+            "city": "Romny",
+            "region": "21",
+            "country": "UA",
+            "latitude": "50.75104",
+            "longitude": "33.47471"
+        },
+        {
+            "city": "Rokosovo",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.21018",
+            "longitude": "23.17624"
+        },
+        {
+            "city": "Rokytne",
+            "region": "19",
+            "country": "UA",
+            "latitude": "51.2796",
+            "longitude": "27.214"
+        },
+        {
+            "city": "Rogatin",
+            "region": "06",
+            "country": "UA",
+            "latitude": "49.409",
+            "longitude": "24.60926"
+        },
+        {
+            "city": "Rodnykove",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.04296",
+            "longitude": "33.95407"
+        },
+        {
+            "city": "Rodinskoye",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.35199",
+            "longitude": "37.20602"
+        },
+        {
+            "city": "Rivne",
+            "region": "19",
+            "country": "UA",
+            "latitude": "50.62308",
+            "longitude": "26.22743"
+        },
+        {
+            "city": "Reshetylivka",
+            "region": "18",
+            "country": "UA",
+            "latitude": "49.56501",
+            "longitude": "34.07815"
+        },
+        {
+            "city": "Ripky",
+            "region": "02",
+            "country": "UA",
+            "latitude": "51.80105",
+            "longitude": "31.08383"
+        },
+        {
+            "city": "Reni",
+            "region": "17",
+            "country": "UA",
+            "latitude": "45.45727",
+            "longitude": "28.29317"
+        },
+        {
+            "city": "Rechka",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.28034",
+            "longitude": "24.9333"
+        },
+        {
+            "city": "Rozdol\u2019ne",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.77083",
+            "longitude": "33.48777"
+        },
+        {
+            "city": "Ratno",
+            "region": "24",
+            "country": "UA",
+            "latitude": "51.6683",
+            "longitude": "24.5303"
+        },
+        {
+            "city": "Rassypnoye",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.14966",
+            "longitude": "38.57618"
+        },
+        {
+            "city": "Ralevka",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.50053",
+            "longitude": "23.24058"
+        },
+        {
+            "city": "Rakov Les",
+            "region": "24",
+            "country": "UA",
+            "latitude": "51.62174",
+            "longitude": "24.92427"
+        },
+        {
+            "city": "Rakoshyno",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.46713",
+            "longitude": "22.59687"
+        },
+        {
+            "city": "Rakhiv",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.0526",
+            "longitude": "24.20089"
+        },
+        {
+            "city": "Radomyshl\u2019",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.49613",
+            "longitude": "29.22911"
+        },
+        {
+            "city": "Radcha",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.85023",
+            "longitude": "24.65502"
+        },
+        {
+            "city": "Piatykhatky",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.41333",
+            "longitude": "33.71056"
+        },
+        {
+            "city": "Putyvl\u2019",
+            "region": "21",
+            "country": "UA",
+            "latitude": "51.33333",
+            "longitude": "33.86667"
+        },
+        {
+            "city": "Pustomyty",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.71532",
+            "longitude": "23.91295"
+        },
+        {
+            "city": "Pryluky",
+            "region": "02",
+            "country": "UA",
+            "latitude": "50.59324",
+            "longitude": "32.38761"
+        },
+        {
+            "city": "Prudyanka",
+            "region": "07",
+            "country": "UA",
+            "latitude": "50.23606",
+            "longitude": "36.16835"
+        },
+        {
+            "city": "Pryyutivka",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.72094",
+            "longitude": "33.07078"
+        },
+        {
+            "city": "Pryvillya",
+            "region": "14",
+            "country": "UA",
+            "latitude": "49.01501",
+            "longitude": "38.30458"
+        },
+        {
+            "city": "Pryshyb",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.25927",
+            "longitude": "35.31953"
+        },
+        {
+            "city": "Pryozerne",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.26976",
+            "longitude": "36.33025"
+        },
+        {
+            "city": "Primorskoye",
+            "region": "05",
+            "country": "UA",
+            "latitude": "47.17436",
+            "longitude": "37.69266"
+        },
+        {
+            "city": "Prymors\u2019k",
+            "region": "26",
+            "country": "UA",
+            "latitude": "46.73479",
+            "longitude": "36.34425"
+        },
+        {
+            "city": "Prikolotnoye",
+            "region": "07",
+            "country": "UA",
+            "latitude": "50.16042",
+            "longitude": "37.34744"
+        },
+        {
+            "city": "Preobrazhenka",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.57194",
+            "longitude": "35.81667"
+        },
+        {
+            "city": "Poroshkovo",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.66832",
+            "longitude": "22.75328"
+        },
+        {
+            "city": "Porohy",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.68755",
+            "longitude": "24.26322"
+        },
+        {
+            "city": "Popil'nya",
+            "region": "27",
+            "country": "UA",
+            "latitude": "49.96652",
+            "longitude": "29.44353"
+        },
+        {
+            "city": "Popasnaya",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.63328",
+            "longitude": "38.37804"
+        },
+        {
+            "city": "Poninka",
+            "region": "09",
+            "country": "UA",
+            "latitude": "50.18492",
+            "longitude": "27.53629"
+        },
+        {
+            "city": "Pomichna",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.24222",
+            "longitude": "31.41583"
+        },
+        {
+            "city": "Pomoryany",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.64092",
+            "longitude": "24.9307"
+        },
+        {
+            "city": "Polyanka",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.25836",
+            "longitude": "27.68809"
+        },
+        {
+            "city": "Poltava",
+            "region": "18",
+            "country": "UA",
+            "latitude": "49.59373",
+            "longitude": "34.54073"
+        },
+        {
+            "city": "Polonne",
+            "region": "09",
+            "country": "UA",
+            "latitude": "50.12424",
+            "longitude": "27.51087"
+        },
+        {
+            "city": "Polohy",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.48444",
+            "longitude": "36.25361"
+        },
+        {
+            "city": "Pokotylivka",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.91343",
+            "longitude": "36.17511"
+        },
+        {
+            "city": "Pohrebyshche",
+            "region": "23",
+            "country": "UA",
+            "latitude": "49.48639",
+            "longitude": "29.26361"
+        },
+        {
+            "city": "Podvinogradov",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.13947",
+            "longitude": "22.97194"
+        },
+        {
+            "city": "Podgortsy",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.94612",
+            "longitude": "24.9795"
+        },
+        {
+            "city": "Pidhorodne",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.57528",
+            "longitude": "35.1068"
+        },
+        {
+            "city": "Pidhorodna",
+            "region": "16",
+            "country": "UA",
+            "latitude": "48.10704",
+            "longitude": "30.88953"
+        },
+        {
+            "city": "Pidhaytsi",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.26854",
+            "longitude": "25.13341"
+        },
+        {
+            "city": "Podbuzh",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.33483",
+            "longitude": "23.24887"
+        },
+        {
+            "city": "Pochayiv",
+            "region": "22",
+            "country": "UA",
+            "latitude": "50.00508",
+            "longitude": "25.51183"
+        },
+        {
+            "city": "Pobugskoye",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.16579",
+            "longitude": "30.59274"
+        },
+        {
+            "city": "Pniv",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.61783",
+            "longitude": "24.52872"
+        },
+        {
+            "city": "Koktebel\u2019",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.96154",
+            "longitude": "35.2466"
+        },
+        {
+            "city": "Plakhtiyivka",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.1006",
+            "longitude": "29.72169"
+        },
+        {
+            "city": "Pivdenne",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.88551",
+            "longitude": "36.06675"
+        },
+        {
+            "city": "Pyryatyn",
+            "region": "18",
+            "country": "UA",
+            "latitude": "50.2445",
+            "longitude": "32.51073"
+        },
+        {
+            "city": "Petrove",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.32467",
+            "longitude": "33.25617"
+        },
+        {
+            "city": "Petropavlivka",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.45643",
+            "longitude": "36.4367"
+        },
+        {
+            "city": "Petrivka",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.96951",
+            "longitude": "30.95914"
+        },
+        {
+            "city": "Petrykivka",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.72978",
+            "longitude": "34.63513"
+        },
+        {
+            "city": "Petrikov",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.53122",
+            "longitude": "25.57901"
+        },
+        {
+            "city": "Petranka",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.90246",
+            "longitude": "24.30347"
+        },
+        {
+            "city": "Piskivka",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.69378",
+            "longitude": "29.61934"
+        },
+        {
+            "city": "Peschana",
+            "region": "17",
+            "country": "UA",
+            "latitude": "48.12918",
+            "longitude": "29.73086"
+        },
+        {
+            "city": "Pervomays\u2019ke",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.71744",
+            "longitude": "33.85596"
+        },
+        {
+            "city": "Pervomaysk",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.62988",
+            "longitude": "38.54806"
+        },
+        {
+            "city": "Pervomays\u2019k",
+            "region": "16",
+            "country": "UA",
+            "latitude": "48.04433",
+            "longitude": "30.85073"
+        },
+        {
+            "city": "Pershotravneve",
+            "region": "27",
+            "country": "UA",
+            "latitude": "51.39287",
+            "longitude": "28.86837"
+        },
+        {
+            "city": "Manhush",
+            "region": "05",
+            "country": "UA",
+            "latitude": "47.05582",
+            "longitude": "37.31068"
+        },
+        {
+            "city": "Pereyaslav-Khmel\u2019nyts\u2019kyy",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.08768",
+            "longitude": "31.4795"
+        },
+        {
+            "city": "Pereval\u2019sk",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.43779",
+            "longitude": "38.84384"
+        },
+        {
+            "city": "Pereval'noe",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.83333",
+            "longitude": "34.33333"
+        },
+        {
+            "city": "Peresichna",
+            "region": "07",
+            "country": "UA",
+            "latitude": "50.02413",
+            "longitude": "35.98259"
+        },
+        {
+            "city": "Peremyshlyany",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.66523",
+            "longitude": "24.55846"
+        },
+        {
+            "city": "Perehonivka",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.53552",
+            "longitude": "30.51923"
+        },
+        {
+            "city": "Perechyn",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.73333",
+            "longitude": "22.46667"
+        },
+        {
+            "city": "Pechenizhyn",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.51551",
+            "longitude": "24.89423"
+        },
+        {
+            "city": "Pavlysh",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.91762",
+            "longitude": "33.35691"
+        },
+        {
+            "city": "Pavlivka",
+            "region": "14",
+            "country": "UA",
+            "latitude": "49.60864",
+            "longitude": "38.70917"
+        },
+        {
+            "city": "Pavlovka",
+            "region": "23",
+            "country": "UA",
+            "latitude": "49.44143",
+            "longitude": "28.45956"
+        },
+        {
+            "city": "Pavlohrad",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.53341",
+            "longitude": "35.8705"
+        },
+        {
+            "city": "Pasichna",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.57152",
+            "longitude": "24.43003"
+        },
+        {
+            "city": "Parutyne",
+            "region": "16",
+            "country": "UA",
+            "latitude": "46.70538",
+            "longitude": "31.89709"
+        },
+        {
+            "city": "Partyzany",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.33383",
+            "longitude": "34.75314"
+        },
+        {
+            "city": "Panyutyne",
+            "region": "07",
+            "country": "UA",
+            "latitude": "48.93692",
+            "longitude": "36.27563"
+        },
+        {
+            "city": "Pantayivka",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.674",
+            "longitude": "32.8841"
+        },
+        {
+            "city": "Ozerne",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.17816",
+            "longitude": "28.73384"
+        },
+        {
+            "city": "Ozerne",
+            "region": "17",
+            "country": "UA",
+            "latitude": "45.403",
+            "longitude": "28.67546"
+        },
+        {
+            "city": "Ozerna",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.62891",
+            "longitude": "25.32895"
+        },
+        {
+            "city": "Ovruch",
+            "region": "27",
+            "country": "UA",
+            "latitude": "51.3246",
+            "longitude": "28.80351"
+        },
+        {
+            "city": "Ovidiopol\u2019",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.24998",
+            "longitude": "30.44127"
+        },
+        {
+            "city": "Otyniya",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.73767",
+            "longitude": "24.86111"
+        },
+        {
+            "city": "Ostroh",
+            "region": "19",
+            "country": "UA",
+            "latitude": "50.32942",
+            "longitude": "26.51425"
+        },
+        {
+            "city": "Ost\u00ebr",
+            "region": "02",
+            "country": "UA",
+            "latitude": "50.9506",
+            "longitude": "30.88229"
+        },
+        {
+            "city": "Osypenko",
+            "region": "26",
+            "country": "UA",
+            "latitude": "46.9136",
+            "longitude": "36.8253"
+        },
+        {
+            "city": "Orzhytsya",
+            "region": "18",
+            "country": "UA",
+            "latitude": "49.79182",
+            "longitude": "32.70122"
+        },
+        {
+            "city": "Orikhiv",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.56731",
+            "longitude": "35.78575"
+        },
+        {
+            "city": "Ordzhonikidze",
+            "region": "00",
+            "country": "UA",
+            "latitude": "44.96545",
+            "longitude": "35.36583"
+        },
+        {
+            "city": "Orativ",
+            "region": "23",
+            "country": "UA",
+            "latitude": "49.18889",
+            "longitude": "29.52697"
+        },
+        {
+            "city": "Oposhnya",
+            "region": "18",
+            "country": "UA",
+            "latitude": "49.95652",
+            "longitude": "34.61226"
+        },
+        {
+            "city": "Onufriyivka",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.90716",
+            "longitude": "33.44869"
+        },
+        {
+            "city": "Olyka",
+            "region": "24",
+            "country": "UA",
+            "latitude": "50.71855",
+            "longitude": "25.81251"
+        },
+        {
+            "city": "Ol'shanskoye",
+            "region": "16",
+            "country": "UA",
+            "latitude": "47.18411",
+            "longitude": "31.79375"
+        },
+        {
+            "city": "Olish\u00ebvka",
+            "region": "02",
+            "country": "UA",
+            "latitude": "51.22266",
+            "longitude": "31.33314"
+        },
+        {
+            "city": "Olesko",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.96233",
+            "longitude": "24.89336"
+        },
+        {
+            "city": "Oleksandriya",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.66961",
+            "longitude": "33.11593"
+        },
+        {
+            "city": "Oleksandrivka",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.96336",
+            "longitude": "32.23492"
+        },
+        {
+            "city": "Odessa",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.47747",
+            "longitude": "30.73262"
+        },
+        {
+            "city": "Ochakiv",
+            "region": "16",
+            "country": "UA",
+            "latitude": "46.61283",
+            "longitude": "31.54982"
+        },
+        {
+            "city": "Obukhiv",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.10997",
+            "longitude": "30.62272"
+        },
+        {
+            "city": "Obroshyne",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.78333",
+            "longitude": "23.86667"
+        },
+        {
+            "city": "Obodivka",
+            "region": "23",
+            "country": "UA",
+            "latitude": "48.40514",
+            "longitude": "29.24775"
+        },
+        {
+            "city": "Obertyn",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.70032",
+            "longitude": "25.17012"
+        },
+        {
+            "city": "Nuyno",
+            "region": "24",
+            "country": "UA",
+            "latitude": "51.54628",
+            "longitude": "24.91018"
+        },
+        {
+            "city": "Novyy Yarychiv",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.90444",
+            "longitude": "24.30523"
+        },
+        {
+            "city": "Novyy Svit",
+            "region": "05",
+            "country": "UA",
+            "latitude": "47.80591",
+            "longitude": "38.02112"
+        },
+        {
+            "city": "Novyy Svit",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.47754",
+            "longitude": "36.29737"
+        },
+        {
+            "city": "Novyy Svit",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.83087",
+            "longitude": "34.9137"
+        },
+        {
+            "city": "Novyy Starodub",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.5158",
+            "longitude": "33.17329"
+        },
+        {
+            "city": "Novi Troyany",
+            "region": "17",
+            "country": "UA",
+            "latitude": "45.94275",
+            "longitude": "28.85628"
+        },
+        {
+            "city": "Novi Sanzhary",
+            "region": "18",
+            "country": "UA",
+            "latitude": "49.34395",
+            "longitude": "34.31084"
+        },
+        {
+            "city": "Novi Bilokorovychi",
+            "region": "27",
+            "country": "UA",
+            "latitude": "51.11548",
+            "longitude": "28.05463"
+        },
+        {
+            "city": "Novyy Buh",
+            "region": "16",
+            "country": "UA",
+            "latitude": "47.69308",
+            "longitude": "32.5216"
+        },
+        {
+            "city": "Nove Davydkovo",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.44133",
+            "longitude": "22.62164"
+        },
+        {
+            "city": "Novovorontsovka",
+            "region": "08",
+            "country": "UA",
+            "latitude": "47.50035",
+            "longitude": "33.91748"
+        },
+        {
+            "city": "Novovolyns\u2019k",
+            "region": "24",
+            "country": "UA",
+            "latitude": "50.72576",
+            "longitude": "24.16265"
+        },
+        {
+            "city": "Novovasylivka",
+            "region": "26",
+            "country": "UA",
+            "latitude": "46.8315",
+            "longitude": "35.75362"
+        },
+        {
+            "city": "Novoukrayinka",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.32635",
+            "longitude": "31.52852"
+        },
+        {
+            "city": "Novotroyits\u2019ke",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.3556",
+            "longitude": "34.33272"
+        },
+        {
+            "city": "Novoselitsa",
+            "region": "09",
+            "country": "UA",
+            "latitude": "50.0703",
+            "longitude": "27.51955"
+        },
+        {
+            "city": "Novoselytsya",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.21931",
+            "longitude": "26.26531"
+        },
+        {
+            "city": "Novopskov",
+            "region": "14",
+            "country": "UA",
+            "latitude": "49.5464",
+            "longitude": "39.08987"
+        },
+        {
+            "city": "Novopokrovka",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.84252",
+            "longitude": "36.54773"
+        },
+        {
+            "city": "Novopokrovka",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.05918",
+            "longitude": "34.60619"
+        },
+        {
+            "city": "Novonikolayevka",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.55625",
+            "longitude": "34.37399"
+        },
+        {
+            "city": "Novomykolayivka",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.9781",
+            "longitude": "35.9102"
+        },
+        {
+            "city": "Novomoskovs\u2019k",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.63798",
+            "longitude": "35.24548"
+        },
+        {
+            "city": "Novomyrhorod",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.78105",
+            "longitude": "31.64204"
+        },
+        {
+            "city": "Novohrad-Volyns\u2019kyy",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.59412",
+            "longitude": "27.6165"
+        },
+        {
+            "city": "Novofedorovka",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.17128",
+            "longitude": "32.31781"
+        },
+        {
+            "city": "Novobohdanivka",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.08524",
+            "longitude": "35.32945"
+        },
+        {
+            "city": "Novoazovs'k",
+            "region": "05",
+            "country": "UA",
+            "latitude": "47.11389",
+            "longitude": "38.08599"
+        },
+        {
+            "city": "Novoarkhanhel\u2019s\u2019k",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.65803",
+            "longitude": "30.81821"
+        },
+        {
+            "city": "Novooleksiyivka",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.22472",
+            "longitude": "34.64031"
+        },
+        {
+            "city": "Novytsya",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.96345",
+            "longitude": "24.33542"
+        },
+        {
+            "city": "Novhorod-Sivers\u2019kyy",
+            "region": "02",
+            "country": "UA",
+            "latitude": "52",
+            "longitude": "33.26667"
+        },
+        {
+            "city": "Novhorodka",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.36506",
+            "longitude": "32.65785"
+        },
+        {
+            "city": "Nove-Misto",
+            "region": "01",
+            "country": "UA",
+            "latitude": "48.98113",
+            "longitude": "29.82813"
+        },
+        {
+            "city": "Nova Vodolaha",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.7185",
+            "longitude": "35.87078"
+        },
+        {
+            "city": "Nova Praha",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.56821",
+            "longitude": "32.90273"
+        },
+        {
+            "city": "Nova Odesa",
+            "region": "16",
+            "country": "UA",
+            "latitude": "47.30778",
+            "longitude": "31.78506"
+        },
+        {
+            "city": "Nova Mayachka",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.59996",
+            "longitude": "33.22707"
+        },
+        {
+            "city": "Nova Kakhovka",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.75451",
+            "longitude": "33.34864"
+        },
+        {
+            "city": "Nova Borova",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.69296",
+            "longitude": "28.63446"
+        },
+        {
+            "city": "Nova Ushytsya",
+            "region": "09",
+            "country": "UA",
+            "latitude": "48.83716",
+            "longitude": "27.27434"
+        },
+        {
+            "city": "Nosivka",
+            "region": "02",
+            "country": "UA",
+            "latitude": "50.93152",
+            "longitude": "31.58282"
+        },
+        {
+            "city": "Nyzy",
+            "region": "21",
+            "country": "UA",
+            "latitude": "50.78281",
+            "longitude": "34.78441"
+        },
+        {
+            "city": "Nizhyn",
+            "region": "02",
+            "country": "UA",
+            "latitude": "51.04801",
+            "longitude": "31.88688"
+        },
+        {
+            "city": "Nizhnyaya Krynka",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.1135",
+            "longitude": "38.16064"
+        },
+        {
+            "city": "Nyzhnya Duvanka",
+            "region": "14",
+            "country": "UA",
+            "latitude": "49.58464",
+            "longitude": "38.17429"
+        },
+        {
+            "city": "Nyzhni Sirohozy",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.84842",
+            "longitude": "34.38044"
+        },
+        {
+            "city": "Nyzhn\u2019ohirs\u2019kyy",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.44789",
+            "longitude": "34.73839"
+        },
+        {
+            "city": "Nikopol\u2019",
+            "region": "04",
+            "country": "UA",
+            "latitude": "47.57119",
+            "longitude": "34.39637"
+        },
+        {
+            "city": "Mykolayivka",
+            "region": "17",
+            "country": "UA",
+            "latitude": "47.54135",
+            "longitude": "30.75615"
+        },
+        {
+            "city": "Mykolayivka",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.96714",
+            "longitude": "33.61443"
+        },
+        {
+            "city": "Netishyn",
+            "region": "09",
+            "country": "UA",
+            "latitude": "50.34004",
+            "longitude": "26.64171"
+        },
+        {
+            "city": "Neresnytsya",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.11814",
+            "longitude": "23.76588"
+        },
+        {
+            "city": "Nemyriv",
+            "region": "23",
+            "country": "UA",
+            "latitude": "48.97076",
+            "longitude": "28.83779"
+        },
+        {
+            "city": "Nelipyno",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.56101",
+            "longitude": "23.03146"
+        },
+        {
+            "city": "Nedryhayliv",
+            "region": "21",
+            "country": "UA",
+            "latitude": "50.83398",
+            "longitude": "33.87626"
+        },
+        {
+            "city": "Nebyliv",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.81526",
+            "longitude": "24.21657"
+        },
+        {
+            "city": "Navariya",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.74952",
+            "longitude": "23.92746"
+        },
+        {
+            "city": "Narodychi",
+            "region": "27",
+            "country": "UA",
+            "latitude": "51.20286",
+            "longitude": "29.08228"
+        },
+        {
+            "city": "Nadvirna",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.6348",
+            "longitude": "24.56936"
+        },
+        {
+            "city": "Mysove",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.44863",
+            "longitude": "35.83655"
+        },
+        {
+            "city": "Mykolayiv",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.52372",
+            "longitude": "23.98522"
+        },
+        {
+            "city": "Mykolayiv",
+            "region": "16",
+            "country": "UA",
+            "latitude": "46.96591",
+            "longitude": "31.9974"
+        },
+        {
+            "city": "Murovani Kurylivtsi",
+            "region": "23",
+            "country": "UA",
+            "latitude": "48.72348",
+            "longitude": "27.51892"
+        },
+        {
+            "city": "Murovanoye",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.52143",
+            "longitude": "22.9367"
+        },
+        {
+            "city": "Mukacheve",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.43919",
+            "longitude": "22.71779"
+        },
+        {
+            "city": "Mospyne",
+            "region": "05",
+            "country": "UA",
+            "latitude": "47.89081",
+            "longitude": "38.06395"
+        },
+        {
+            "city": "Moshny",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.51473",
+            "longitude": "31.74757"
+        },
+        {
+            "city": "Morskoye",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.82593",
+            "longitude": "34.80314"
+        },
+        {
+            "city": "Morshin",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.15652",
+            "longitude": "23.87232"
+        },
+        {
+            "city": "Monastyryshche",
+            "region": "01",
+            "country": "UA",
+            "latitude": "48.9909",
+            "longitude": "29.8047"
+        },
+        {
+            "city": "Molodogvardeysk",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.34578",
+            "longitude": "39.65824"
+        },
+        {
+            "city": "Molodiya",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.22326",
+            "longitude": "26.02139"
+        },
+        {
+            "city": "Molodizhne",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.17732",
+            "longitude": "32.66015"
+        },
+        {
+            "city": "Mohyliv-Podil\u2019s\u2019kyy",
+            "region": "23",
+            "country": "UA",
+            "latitude": "48.44598",
+            "longitude": "27.7982"
+        },
+        {
+            "city": "Mlyniv",
+            "region": "19",
+            "country": "UA",
+            "latitude": "50.509",
+            "longitude": "25.61675"
+        },
+        {
+            "city": "Mleyev",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.34434",
+            "longitude": "31.5339"
+        },
+        {
+            "city": "Mizoch",
+            "region": "19",
+            "country": "UA",
+            "latitude": "50.4",
+            "longitude": "26.15"
+        },
+        {
+            "city": "Miusinsk",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.0775",
+            "longitude": "38.90364"
+        },
+        {
+            "city": "Miskhor",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.43333",
+            "longitude": "34.08333"
+        },
+        {
+            "city": "Myronivka",
+            "region": "13",
+            "country": "UA",
+            "latitude": "49.66007",
+            "longitude": "30.98225"
+        },
+        {
+            "city": "Myrnyy",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.30788",
+            "longitude": "33.03501"
+        },
+        {
+            "city": "Myrhorod",
+            "region": "18",
+            "country": "UA",
+            "latitude": "49.96854",
+            "longitude": "33.60886"
+        },
+        {
+            "city": "Minay",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.5888",
+            "longitude": "22.27502"
+        },
+        {
+            "city": "Milove",
+            "region": "14",
+            "country": "UA",
+            "latitude": "49.37872",
+            "longitude": "40.13016"
+        },
+        {
+            "city": "Mikulintsy",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.396",
+            "longitude": "25.60518"
+        },
+        {
+            "city": "Mykhaylivka",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.27235",
+            "longitude": "35.22235"
+        },
+        {
+            "city": "Myhove",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.15749",
+            "longitude": "25.37904"
+        },
+        {
+            "city": "Myhiya",
+            "region": "16",
+            "country": "UA",
+            "latitude": "48.03719",
+            "longitude": "30.95153"
+        },
+        {
+            "city": "Mizhvodne",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.58751",
+            "longitude": "32.84501"
+        },
+        {
+            "city": "Chudey",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.05247",
+            "longitude": "25.62208"
+        },
+        {
+            "city": "Volovo",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.52458",
+            "longitude": "23.50563"
+        },
+        {
+            "city": "Mezhova",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.25318",
+            "longitude": "36.73468"
+        },
+        {
+            "city": "Merefa",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.82302",
+            "longitude": "36.05069"
+        },
+        {
+            "city": "Mena",
+            "region": "02",
+            "country": "UA",
+            "latitude": "51.5217",
+            "longitude": "32.21568"
+        },
+        {
+            "city": "Melitopol\u2019",
+            "region": "26",
+            "country": "UA",
+            "latitude": "46.84891",
+            "longitude": "35.36533"
+        },
+        {
+            "city": "Meliorativnoye",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.61995",
+            "longitude": "35.40187"
+        },
+        {
+            "city": "Melekyne",
+            "region": "05",
+            "country": "UA",
+            "latitude": "46.95957",
+            "longitude": "37.39981"
+        },
+        {
+            "city": "Medzhibozh",
+            "region": "09",
+            "country": "UA",
+            "latitude": "49.43748",
+            "longitude": "27.40487"
+        },
+        {
+            "city": "Medenychi",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.43055",
+            "longitude": "23.75073"
+        },
+        {
+            "city": "Mayaky",
+            "region": "17",
+            "country": "UA",
+            "latitude": "47.44083",
+            "longitude": "29.55986"
+        },
+        {
+            "city": "Matviyivka",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.07472",
+            "longitude": "35.14444"
+        },
+        {
+            "city": "Massandra",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.51892",
+            "longitude": "34.18593"
+        },
+        {
+            "city": "Mashivka",
+            "region": "18",
+            "country": "UA",
+            "latitude": "49.44308",
+            "longitude": "34.86688"
+        },
+        {
+            "city": "Marshintsy",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.21751",
+            "longitude": "26.29133"
+        },
+        {
+            "city": "Markivka",
+            "region": "14",
+            "country": "UA",
+            "latitude": "49.5229",
+            "longitude": "39.57055"
+        },
+        {
+            "city": "Markova",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.67576",
+            "longitude": "24.41382"
+        },
+        {
+            "city": "Mariupol'",
+            "region": "05",
+            "country": "UA",
+            "latitude": "47.06667",
+            "longitude": "37.5"
+        },
+        {
+            "city": "Marhanets\u2019",
+            "region": "04",
+            "country": "UA",
+            "latitude": "47.63543",
+            "longitude": "34.62769"
+        },
+        {
+            "city": "Manyava",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.65541",
+            "longitude": "24.37537"
+        },
+        {
+            "city": "Manchenky",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.97982",
+            "longitude": "35.85835"
+        },
+        {
+            "city": "Malorichens\u2019ke",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.75888",
+            "longitude": "34.55789"
+        },
+        {
+            "city": "Malokaterynivka",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.6555",
+            "longitude": "35.25649"
+        },
+        {
+            "city": "Malokakhovka",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.78142",
+            "longitude": "33.4479"
+        },
+        {
+            "city": "Malyn",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.77233",
+            "longitude": "29.23833"
+        },
+        {
+            "city": "Mala Vyska",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.64308",
+            "longitude": "31.63657"
+        },
+        {
+            "city": "Mala Tokmachka",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.53563",
+            "longitude": "35.89293"
+        },
+        {
+            "city": "Mala Danylivka",
+            "region": "07",
+            "country": "UA",
+            "latitude": "50.06354",
+            "longitude": "36.16564"
+        },
+        {
+            "city": "Mala Bilozerka",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.24737",
+            "longitude": "34.93457"
+        },
+        {
+            "city": "Makiyivka",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.04782",
+            "longitude": "37.92576"
+        },
+        {
+            "city": "Makariv",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.46408",
+            "longitude": "29.81128"
+        },
+        {
+            "city": "Mahdalynivka",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.92102",
+            "longitude": "34.91558"
+        },
+        {
+            "city": "Lyubotyn",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.94691",
+            "longitude": "35.92907"
+        },
+        {
+            "city": "Lyuboml\u2019",
+            "region": "24",
+            "country": "UA",
+            "latitude": "51.22601",
+            "longitude": "24.03727"
+        },
+        {
+            "city": "Lyubymivka",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.81063",
+            "longitude": "33.56862"
+        },
+        {
+            "city": "Lyubech",
+            "region": "02",
+            "country": "UA",
+            "latitude": "51.7026",
+            "longitude": "30.65692"
+        },
+        {
+            "city": "Lyubar",
+            "region": "27",
+            "country": "UA",
+            "latitude": "49.92045",
+            "longitude": "27.75918"
+        },
+        {
+            "city": "Lysyanka",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.25229",
+            "longitude": "30.82946"
+        },
+        {
+            "city": "Lysa Hora",
+            "region": "16",
+            "country": "UA",
+            "latitude": "48.17059",
+            "longitude": "31.10994"
+        },
+        {
+            "city": "L'viv",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.83826",
+            "longitude": "24.02324"
+        },
+        {
+            "city": "Luzhany",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.36492",
+            "longitude": "25.77173"
+        },
+        {
+            "city": "Lutugino",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.40507",
+            "longitude": "39.22675"
+        },
+        {
+            "city": "Luts\u2019k",
+            "region": "24",
+            "country": "UA",
+            "latitude": "50.75932",
+            "longitude": "25.34244"
+        },
+        {
+            "city": "Lukov",
+            "region": "24",
+            "country": "UA",
+            "latitude": "51.0521",
+            "longitude": "25.40059"
+        },
+        {
+            "city": "Luhans\u2019k",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.56705",
+            "longitude": "39.31706"
+        },
+        {
+            "city": "Luhyny",
+            "region": "27",
+            "country": "UA",
+            "latitude": "51.08202",
+            "longitude": "28.40057"
+        },
+        {
+            "city": "Lubny",
+            "region": "18",
+            "country": "UA",
+            "latitude": "50.01625",
+            "longitude": "32.99694"
+        },
+        {
+            "city": "Lozova",
+            "region": "07",
+            "country": "UA",
+            "latitude": "48.88937",
+            "longitude": "36.31755"
+        },
+        {
+            "city": "Lozuvatka",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.0571",
+            "longitude": "33.28581"
+        },
+        {
+            "city": "Lozno-Oleksandrivka",
+            "region": "14",
+            "country": "UA",
+            "latitude": "49.83741",
+            "longitude": "38.73808"
+        },
+        {
+            "city": "Lopukhiv",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.36526",
+            "longitude": "23.96382"
+        },
+        {
+            "city": "Lopatin",
+            "region": "15",
+            "country": "UA",
+            "latitude": "50.22022",
+            "longitude": "24.84831"
+        },
+        {
+            "city": "Lokhvytsya",
+            "region": "18",
+            "country": "UA",
+            "latitude": "50.36776",
+            "longitude": "33.26024"
+        },
+        {
+            "city": "Lokachi",
+            "region": "24",
+            "country": "UA",
+            "latitude": "50.737",
+            "longitude": "24.64944"
+        },
+        {
+            "city": "Lyubashivka",
+            "region": "17",
+            "country": "UA",
+            "latitude": "47.83716",
+            "longitude": "30.25976"
+        },
+        {
+            "city": "Livadiya",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.47481",
+            "longitude": "34.14437"
+        },
+        {
+            "city": "Lityn",
+            "region": "23",
+            "country": "UA",
+            "latitude": "49.32509",
+            "longitude": "28.08094"
+        },
+        {
+            "city": "Lysychovo",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.49677",
+            "longitude": "23.28992"
+        },
+        {
+            "city": "Lisichansk",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.90485",
+            "longitude": "38.44207"
+        },
+        {
+            "city": "Lypova Dolyna",
+            "region": "21",
+            "country": "UA",
+            "latitude": "50.56428",
+            "longitude": "33.79793"
+        },
+        {
+            "city": "Lypnyazhka",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.44694",
+            "longitude": "31.07611"
+        },
+        {
+            "city": "Lypcha",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.26108",
+            "longitude": "23.38336"
+        },
+        {
+            "city": "Lymans\u2019ke",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.6557",
+            "longitude": "29.96722"
+        },
+        {
+            "city": "Lyman",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.5948",
+            "longitude": "36.46711"
+        },
+        {
+            "city": "Lykhivka",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.68735",
+            "longitude": "33.92279"
+        },
+        {
+            "city": "Letychiv",
+            "region": "09",
+            "country": "UA",
+            "latitude": "49.38263",
+            "longitude": "27.63051"
+        },
+        {
+            "city": "Lesovy",
+            "region": "02",
+            "country": "UA",
+            "latitude": "50.6892",
+            "longitude": "32.32919"
+        },
+        {
+            "city": "Lenine",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.29857",
+            "longitude": "35.77708"
+        },
+        {
+            "city": "Lenina",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.42944",
+            "longitude": "39.14556"
+        },
+        {
+            "city": "Lebedyn",
+            "region": "01",
+            "country": "UA",
+            "latitude": "48.96242",
+            "longitude": "31.52696"
+        },
+        {
+            "city": "Lazurne",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.084",
+            "longitude": "32.52955"
+        },
+        {
+            "city": "Lazi",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.06667",
+            "longitude": "24.23333"
+        },
+        {
+            "city": "Lazeshchyna",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.26852",
+            "longitude": "24.4201"
+        },
+        {
+            "city": "Lanivtsi",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.86328",
+            "longitude": "26.09082"
+        },
+        {
+            "city": "Lanchyn",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.55781",
+            "longitude": "24.75622"
+        },
+        {
+            "city": "Ladyzhyn",
+            "region": "23",
+            "country": "UA",
+            "latitude": "48.68496",
+            "longitude": "29.23678"
+        },
+        {
+            "city": "Ladan",
+            "region": "02",
+            "country": "UA",
+            "latitude": "50.51959",
+            "longitude": "32.58178"
+        },
+        {
+            "city": "Kiev",
+            "region": "12",
+            "country": "UA",
+            "latitude": "50.45466",
+            "longitude": "30.5238"
+        },
+        {
+            "city": "Kvasy",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.14973",
+            "longitude": "24.27994"
+        },
+        {
+            "city": "Kuznetsovs\u2019k",
+            "region": "19",
+            "country": "UA",
+            "latitude": "51.68333",
+            "longitude": "25.86667"
+        },
+        {
+            "city": "Kuybysheve",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.358",
+            "longitude": "36.64908"
+        },
+        {
+            "city": "Kuty",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.25868",
+            "longitude": "25.17946"
+        },
+        {
+            "city": "Kuteynykove",
+            "region": "05",
+            "country": "UA",
+            "latitude": "47.81227",
+            "longitude": "38.28822"
+        },
+        {
+            "city": "Kushuhum",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.71278",
+            "longitude": "35.20917"
+        },
+        {
+            "city": "Kushnytsya",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.43988",
+            "longitude": "23.25816"
+        },
+        {
+            "city": "Kurakhovo",
+            "region": "05",
+            "country": "UA",
+            "latitude": "47.98522",
+            "longitude": "37.2821"
+        },
+        {
+            "city": "Kulynychi",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.98227",
+            "longitude": "36.38418"
+        },
+        {
+            "city": "Kulykivka",
+            "region": "02",
+            "country": "UA",
+            "latitude": "51.37345",
+            "longitude": "31.64661"
+        },
+        {
+            "city": "Kulikov",
+            "region": "15",
+            "country": "UA",
+            "latitude": "50.31424",
+            "longitude": "24.81757"
+        },
+        {
+            "city": "Kryzhanivka",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.56167",
+            "longitude": "30.79487"
+        },
+        {
+            "city": "Kryvyy Rih",
+            "region": "04",
+            "country": "UA",
+            "latitude": "47.90966",
+            "longitude": "33.38044"
+        },
+        {
+            "city": "Kruty",
+            "region": "02",
+            "country": "UA",
+            "latitude": "51.05974",
+            "longitude": "32.10634"
+        },
+        {
+            "city": "Krolevets",
+            "region": "21",
+            "country": "UA",
+            "latitude": "51.55",
+            "longitude": "33.38333"
+        },
+        {
+            "city": "Kryve Ozero",
+            "region": "16",
+            "country": "UA",
+            "latitude": "47.95242",
+            "longitude": "30.34928"
+        },
+        {
+            "city": "Krivaya Gora",
+            "region": "13",
+            "country": "UA",
+            "latitude": "51.38494",
+            "longitude": "30.19978"
+        },
+        {
+            "city": "Kriva",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.17234",
+            "longitude": "23.23647"
+        },
+        {
+            "city": "Krinichnaya",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.12899",
+            "longitude": "38.02597"
+        },
+        {
+            "city": "Krynychky",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.37551",
+            "longitude": "34.46701"
+        },
+        {
+            "city": "Krepenskiy",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.0771",
+            "longitude": "39.058"
+        },
+        {
+            "city": "Kremintsi",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.34558",
+            "longitude": "24.57836"
+        },
+        {
+            "city": "Kreminna",
+            "region": "14",
+            "country": "UA",
+            "latitude": "49.0495",
+            "longitude": "38.21792"
+        },
+        {
+            "city": "Kremenets\u2019",
+            "region": "22",
+            "country": "UA",
+            "latitude": "50.09693",
+            "longitude": "25.72459"
+        },
+        {
+            "city": "Kremenchuk",
+            "region": "18",
+            "country": "UA",
+            "latitude": "49.09725",
+            "longitude": "33.41972"
+        },
+        {
+            "city": "Krasnyy Luch",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.13954",
+            "longitude": "38.93715"
+        },
+        {
+            "city": "Krasnyy Liman",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.98836",
+            "longitude": "37.80225"
+        },
+        {
+            "city": "Krasnyy Kut",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.20138",
+            "longitude": "38.79765"
+        },
+        {
+            "city": "Krasnoye",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.91447",
+            "longitude": "24.6134"
+        },
+        {
+            "city": "Krasne",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.13088",
+            "longitude": "32.7691"
+        },
+        {
+            "city": "Krasnotorka",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.68204",
+            "longitude": "37.53266"
+        },
+        {
+            "city": "Krasnosilka",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.62258",
+            "longitude": "30.77421"
+        },
+        {
+            "city": "Krasnopillya",
+            "region": "21",
+            "country": "UA",
+            "latitude": "50.77458",
+            "longitude": "35.25965"
+        },
+        {
+            "city": "Krasnoperekops\u2019k",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.95716",
+            "longitude": "33.7965"
+        },
+        {
+            "city": "Krasnopavlivka",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.13643",
+            "longitude": "36.31911"
+        },
+        {
+            "city": "Krasnokutsk",
+            "region": "07",
+            "country": "UA",
+            "latitude": "50.06602",
+            "longitude": "35.16275"
+        },
+        {
+            "city": "Krasnohrad",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.3814",
+            "longitude": "35.44021"
+        },
+        {
+            "city": "Krasnodon",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.30856",
+            "longitude": "39.57374"
+        },
+        {
+            "city": "Krasnodon",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.29229",
+            "longitude": "39.73729"
+        },
+        {
+            "city": "Krasnoarmiys\u2019k",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.28198",
+            "longitude": "37.17585"
+        },
+        {
+            "city": "Krasna",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.57571",
+            "longitude": "24.70027"
+        },
+        {
+            "city": "Krasyliv",
+            "region": "09",
+            "country": "UA",
+            "latitude": "49.65186",
+            "longitude": "26.97252"
+        },
+        {
+            "city": "Kramators\u2019k",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.72305",
+            "longitude": "37.55629"
+        },
+        {
+            "city": "Kozova",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.43544",
+            "longitude": "25.15086"
+        },
+        {
+            "city": "Kozhanka",
+            "region": "13",
+            "country": "UA",
+            "latitude": "49.97933",
+            "longitude": "29.73806"
+        },
+        {
+            "city": "Kozelets",
+            "region": "02",
+            "country": "UA",
+            "latitude": "50.91334",
+            "longitude": "31.1214"
+        },
+        {
+            "city": "Kivsharivka",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.62125",
+            "longitude": "37.70357"
+        },
+        {
+            "city": "Kovel\u2019",
+            "region": "24",
+            "country": "UA",
+            "latitude": "51.21526",
+            "longitude": "24.70867"
+        },
+        {
+            "city": "Kotsyubinskoye",
+            "region": "12",
+            "country": "UA",
+            "latitude": "50.48836",
+            "longitude": "30.32957"
+        },
+        {
+            "city": "Kotovs\u2019k",
+            "region": "17",
+            "country": "UA",
+            "latitude": "47.75305",
+            "longitude": "29.53205"
+        },
+        {
+            "city": "Kostyantynivka",
+            "region": "16",
+            "country": "UA",
+            "latitude": "47.8266",
+            "longitude": "31.13551"
+        },
+        {
+            "city": "Kostryzhivka",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.65455",
+            "longitude": "25.71316"
+        },
+        {
+            "city": "Kosiv",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.31071",
+            "longitude": "25.09575"
+        },
+        {
+            "city": "Kosmach",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.75089",
+            "longitude": "24.36731"
+        },
+        {
+            "city": "Kosmach",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.32991",
+            "longitude": "24.82052"
+        },
+        {
+            "city": "Koryukivka",
+            "region": "02",
+            "country": "UA",
+            "latitude": "51.76877",
+            "longitude": "32.24813"
+        },
+        {
+            "city": "Korsun\u2019-Shevchenkivs\u2019kyy",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.41894",
+            "longitude": "31.25865"
+        },
+        {
+            "city": "Korotych",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.94552",
+            "longitude": "36.04057"
+        },
+        {
+            "city": "Korostyshiv",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.31723",
+            "longitude": "29.0563"
+        },
+        {
+            "city": "Korosten\u2019",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.95937",
+            "longitude": "28.63855"
+        },
+        {
+            "city": "Korop",
+            "region": "02",
+            "country": "UA",
+            "latitude": "51.56667",
+            "longitude": "32.96667"
+        },
+        {
+            "city": "Korolevo",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.15247",
+            "longitude": "23.13659"
+        },
+        {
+            "city": "Kornyn",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.0953",
+            "longitude": "29.53581"
+        },
+        {
+            "city": "Korets",
+            "region": "19",
+            "country": "UA",
+            "latitude": "50.61654",
+            "longitude": "27.16055"
+        },
+        {
+            "city": "Koreiz",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.43374",
+            "longitude": "34.08516"
+        },
+        {
+            "city": "Kopychyntsi",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.10441",
+            "longitude": "25.91026"
+        },
+        {
+            "city": "Kopayhorod",
+            "region": "23",
+            "country": "UA",
+            "latitude": "48.85917",
+            "longitude": "27.7969"
+        },
+        {
+            "city": "Kostyantynivka",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.5277",
+            "longitude": "37.7069"
+        },
+        {
+            "city": "Kostyantynivka",
+            "region": "26",
+            "country": "UA",
+            "latitude": "46.81673",
+            "longitude": "35.42287"
+        },
+        {
+            "city": "Konotop",
+            "region": "21",
+            "country": "UA",
+            "latitude": "51.24032",
+            "longitude": "33.20263"
+        },
+        {
+            "city": "Komsomol\u2019s\u2019ke",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.59701",
+            "longitude": "36.52618"
+        },
+        {
+            "city": "Kompaniyivka",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.25115",
+            "longitude": "32.20795"
+        },
+        {
+            "city": "Komarno",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.62739",
+            "longitude": "23.69952"
+        },
+        {
+            "city": "Koloniya Zastav\u2019ye",
+            "region": "19",
+            "country": "UA",
+            "latitude": "50.81667",
+            "longitude": "27.03333"
+        },
+        {
+            "city": "Kolomyya",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.53115",
+            "longitude": "25.03649"
+        },
+        {
+            "city": "Kolomak",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.83986",
+            "longitude": "35.30442"
+        },
+        {
+            "city": "Kolodenka",
+            "region": "19",
+            "country": "UA",
+            "latitude": "50.58561",
+            "longitude": "26.31601"
+        },
+        {
+            "city": "Kolochava",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.42851",
+            "longitude": "23.6959"
+        },
+        {
+            "city": "Kulevcha",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.03034",
+            "longitude": "29.93614"
+        },
+        {
+            "city": "Kodyma",
+            "region": "17",
+            "country": "UA",
+            "latitude": "48.09875",
+            "longitude": "29.12463"
+        },
+        {
+            "city": "Kodra",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.59488",
+            "longitude": "29.55874"
+        },
+        {
+            "city": "Kochetok",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.88005",
+            "longitude": "36.73723"
+        },
+        {
+            "city": "Kobyzhcha",
+            "region": "02",
+            "country": "UA",
+            "latitude": "50.82854",
+            "longitude": "31.50439"
+        },
+        {
+            "city": "Kobleve",
+            "region": "",
+            "country": "UA",
+            "latitude": "46.66499",
+            "longitude": "31.20804"
+        },
+        {
+            "city": "Kobelyaky",
+            "region": "18",
+            "country": "UA",
+            "latitude": "49.14892",
+            "longitude": "34.19653"
+        },
+        {
+            "city": "Knyazhichi",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.46275",
+            "longitude": "30.78369"
+        },
+        {
+            "city": "Klishkivtsi",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.43161",
+            "longitude": "26.26231"
+        },
+        {
+            "city": "Klenovyy",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.11934",
+            "longitude": "39.4588"
+        },
+        {
+            "city": "Klembivka",
+            "region": "23",
+            "country": "UA",
+            "latitude": "48.39037",
+            "longitude": "28.41092"
+        },
+        {
+            "city": "Klavdiyevo-Tarasove",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.58416",
+            "longitude": "30.01134"
+        },
+        {
+            "city": "Kivertsy",
+            "region": "24",
+            "country": "UA",
+            "latitude": "50.83425",
+            "longitude": "25.45821"
+        },
+        {
+            "city": "Kirovsk",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.63751",
+            "longitude": "38.6428"
+        },
+        {
+            "city": "Kirovohrad",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.5132",
+            "longitude": "32.2597"
+        },
+        {
+            "city": "Kyrylivka",
+            "region": "26",
+            "country": "UA",
+            "latitude": "46.37592",
+            "longitude": "35.36753"
+        },
+        {
+            "city": "Kirikovka",
+            "region": "21",
+            "country": "UA",
+            "latitude": "50.36408",
+            "longitude": "35.1149"
+        },
+        {
+            "city": "Kiliya",
+            "region": "17",
+            "country": "UA",
+            "latitude": "45.45518",
+            "longitude": "29.26367"
+        },
+        {
+            "city": "Khyriv",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.53332",
+            "longitude": "22.85236"
+        },
+        {
+            "city": "Khust",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.1793",
+            "longitude": "23.29909"
+        },
+        {
+            "city": "Khrystynivka",
+            "region": "01",
+            "country": "UA",
+            "latitude": "48.82488",
+            "longitude": "29.96806"
+        },
+        {
+            "city": "Khotov",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.33068",
+            "longitude": "30.46836"
+        },
+        {
+            "city": "Khotyn",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.50693",
+            "longitude": "26.49121"
+        },
+        {
+            "city": "Khorostkiv",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.21114",
+            "longitude": "25.92165"
+        },
+        {
+            "city": "Khorosheve",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.85279",
+            "longitude": "36.21948"
+        },
+        {
+            "city": "Khorol",
+            "region": "18",
+            "country": "UA",
+            "latitude": "49.78367",
+            "longitude": "33.27833"
+        },
+        {
+            "city": "Kholmy",
+            "region": "02",
+            "country": "UA",
+            "latitude": "51.86667",
+            "longitude": "32.6"
+        },
+        {
+            "city": "Khodorov",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.40663",
+            "longitude": "24.3136"
+        },
+        {
+            "city": "Khmel\u2019nyts\u2019kyy",
+            "region": "09",
+            "country": "UA",
+            "latitude": "49.42161",
+            "longitude": "26.99653"
+        },
+        {
+            "city": "Khmil\u2019nyk",
+            "region": "23",
+            "country": "UA",
+            "latitude": "49.55979",
+            "longitude": "27.95754"
+        },
+        {
+            "city": "Khymchyn",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.38639",
+            "longitude": "25.14803"
+        },
+        {
+            "city": "Kherson",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.65581",
+            "longitude": "32.6178"
+        },
+        {
+            "city": "Khartsyzsk",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.04243",
+            "longitude": "38.14728"
+        },
+        {
+            "city": "Kharkiv",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.98081",
+            "longitude": "36.25272"
+        },
+        {
+            "city": "Kerch",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.3607",
+            "longitude": "36.4706"
+        },
+        {
+            "city": "Kehychivka",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.28656",
+            "longitude": "35.76153"
+        },
+        {
+            "city": "Kozyatyn",
+            "region": "23",
+            "country": "UA",
+            "latitude": "49.71431",
+            "longitude": "28.83385"
+        },
+        {
+            "city": "Kazanka",
+            "region": "16",
+            "country": "UA",
+            "latitude": "47.84625",
+            "longitude": "32.82177"
+        },
+        {
+            "city": "Kozachi Laheri",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.70372",
+            "longitude": "32.9776"
+        },
+        {
+            "city": "Kaydaki",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.37678",
+            "longitude": "35.12398"
+        },
+        {
+            "city": "Katyuzhanka",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.80595",
+            "longitude": "30.13764"
+        },
+        {
+            "city": "Karlivka",
+            "region": "18",
+            "country": "UA",
+            "latitude": "49.45668",
+            "longitude": "35.12947"
+        },
+        {
+            "city": "Soledar",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.67935",
+            "longitude": "38.08902"
+        },
+        {
+            "city": "Karapyshi",
+            "region": "13",
+            "country": "UA",
+            "latitude": "49.64237",
+            "longitude": "30.79002"
+        },
+        {
+            "city": "Kapitanivka",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.91719",
+            "longitude": "31.71671"
+        },
+        {
+            "city": "Kaniv",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.75182",
+            "longitude": "31.46004"
+        },
+        {
+            "city": "Kamysh-Zarya",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.32755",
+            "longitude": "36.69298"
+        },
+        {
+            "city": "Kamyshnya",
+            "region": "18",
+            "country": "UA",
+            "latitude": "50.18587",
+            "longitude": "33.68401"
+        },
+        {
+            "city": "Kamyshevka Vtoraya",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.23333",
+            "longitude": "29.83333"
+        },
+        {
+            "city": "Komyshuvakha",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.71758",
+            "longitude": "35.52882"
+        },
+        {
+            "city": "Komyshany",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.63716",
+            "longitude": "32.50719"
+        },
+        {
+            "city": "Kamieniec Podolski",
+            "region": "09",
+            "country": "UA",
+            "latitude": "48.6845",
+            "longitude": "26.58559"
+        },
+        {
+            "city": "Kamennyye Potoki",
+            "region": "18",
+            "country": "UA",
+            "latitude": "48.97974",
+            "longitude": "33.52638"
+        },
+        {
+            "city": "Kamennoye",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.16928",
+            "longitude": "39.16565"
+        },
+        {
+            "city": "Kamen\u2019-Kashirskiy",
+            "region": "24",
+            "country": "UA",
+            "latitude": "51.62412",
+            "longitude": "24.95864"
+        },
+        {
+            "city": "Kamianka",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.0318",
+            "longitude": "32.10396"
+        },
+        {
+            "city": "Kalush",
+            "region": "06",
+            "country": "UA",
+            "latitude": "49.01187",
+            "longitude": "24.37308"
+        },
+        {
+            "city": "Kalyny",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.14078",
+            "longitude": "23.8738"
+        },
+        {
+            "city": "Kalynivka",
+            "region": "23",
+            "country": "UA",
+            "latitude": "49.45389",
+            "longitude": "28.52608"
+        },
+        {
+            "city": "Kalchevaya",
+            "region": "17",
+            "country": "UA",
+            "latitude": "45.73737",
+            "longitude": "28.81405"
+        },
+        {
+            "city": "Kalanchak",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.25623",
+            "longitude": "33.2907"
+        },
+        {
+            "city": "Kakhovka",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.81371",
+            "longitude": "33.48698"
+        },
+        {
+            "city": "Kayiry",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.94537",
+            "longitude": "33.70592"
+        },
+        {
+            "city": "Kaharlyk",
+            "region": "13",
+            "country": "UA",
+            "latitude": "49.86233",
+            "longitude": "30.82815"
+        },
+        {
+            "city": "Kadubivtsi",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.58337",
+            "longitude": "25.76871"
+        },
+        {
+            "city": "Kacha",
+            "region": "20",
+            "country": "UA",
+            "latitude": "44.77635",
+            "longitude": "33.54387"
+        },
+        {
+            "city": "Izyum",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.20875",
+            "longitude": "37.24848"
+        },
+        {
+            "city": "Izyaslav",
+            "region": "09",
+            "country": "UA",
+            "latitude": "50.11947",
+            "longitude": "26.82125"
+        },
+        {
+            "city": "Izmayil",
+            "region": "17",
+            "country": "UA",
+            "latitude": "45.34929",
+            "longitude": "28.84079"
+        },
+        {
+            "city": "Yizhivtsi",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.03962",
+            "longitude": "25.66232"
+        },
+        {
+            "city": "Iza",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.21525",
+            "longitude": "23.32866"
+        },
+        {
+            "city": "Ivanivka",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.97569",
+            "longitude": "30.46998"
+        },
+        {
+            "city": "Ivanivka",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.72082",
+            "longitude": "34.55298"
+        },
+        {
+            "city": "Ivano-Frankivs\u2019k",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.9215",
+            "longitude": "24.70972"
+        },
+        {
+            "city": "Ivankiv",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.93864",
+            "longitude": "29.89426"
+        },
+        {
+            "city": "Ispas",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.29734",
+            "longitude": "25.27406"
+        },
+        {
+            "city": "Irshava",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.31667",
+            "longitude": "23.03846"
+        },
+        {
+            "city": "Irpin\u2019",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.52175",
+            "longitude": "30.25055"
+        },
+        {
+            "city": "Ilovays\u2019k",
+            "region": "05",
+            "country": "UA",
+            "latitude": "47.92498",
+            "longitude": "38.20236"
+        },
+        {
+            "city": "Illichivs\u2019k",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.30495",
+            "longitude": "30.65478"
+        },
+        {
+            "city": "Illintsi",
+            "region": "23",
+            "country": "UA",
+            "latitude": "49.10479",
+            "longitude": "29.21773"
+        },
+        {
+            "city": "Ichnya",
+            "region": "02",
+            "country": "UA",
+            "latitude": "50.86258",
+            "longitude": "32.39425"
+        },
+        {
+            "city": "Horodok",
+            "region": "09",
+            "country": "UA",
+            "latitude": "49.16374",
+            "longitude": "26.58394"
+        },
+        {
+            "city": "Horlivka",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.34698",
+            "longitude": "38.05419"
+        },
+        {
+            "city": "Hlyboka",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.08971",
+            "longitude": "25.92933"
+        },
+        {
+            "city": "Hlukhiv",
+            "region": "21",
+            "country": "UA",
+            "latitude": "51.68333",
+            "longitude": "33.91667"
+        },
+        {
+            "city": "Hvizd",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.68517",
+            "longitude": "24.55055"
+        },
+        {
+            "city": "Huty",
+            "region": "07",
+            "country": "UA",
+            "latitude": "50.13322",
+            "longitude": "35.34394"
+        },
+        {
+            "city": "Husyatyn",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.07263",
+            "longitude": "26.2141"
+        },
+        {
+            "city": "Hurzuf",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.54624",
+            "longitude": "34.27841"
+        },
+        {
+            "city": "Hulyaypole",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.66389",
+            "longitude": "36.25633"
+        },
+        {
+            "city": "Gubinikha",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.81083",
+            "longitude": "35.25472"
+        },
+        {
+            "city": "Hryshkivtsi",
+            "region": "27",
+            "country": "UA",
+            "latitude": "49.93528",
+            "longitude": "28.60383"
+        },
+        {
+            "city": "Hrymayliv",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.33208",
+            "longitude": "26.01112"
+        },
+        {
+            "city": "Hrebinka",
+            "region": "18",
+            "country": "UA",
+            "latitude": "50.11712",
+            "longitude": "32.4361"
+        },
+        {
+            "city": "Gradizhsk",
+            "region": "18",
+            "country": "UA",
+            "latitude": "49.23458",
+            "longitude": "33.13613"
+        },
+        {
+            "city": "Hostomel\u2019",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.56841",
+            "longitude": "30.2651"
+        },
+        {
+            "city": "Hoshcha",
+            "region": "19",
+            "country": "UA",
+            "latitude": "50.6003",
+            "longitude": "26.67435"
+        },
+        {
+            "city": "Gorskoye",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.73468",
+            "longitude": "38.49541"
+        },
+        {
+            "city": "Gorodok",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.78465",
+            "longitude": "23.64806"
+        },
+        {
+            "city": "Horodnya",
+            "region": "02",
+            "country": "UA",
+            "latitude": "51.89085",
+            "longitude": "31.59741"
+        },
+        {
+            "city": "Horodnytsya",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.80697",
+            "longitude": "27.31676"
+        },
+        {
+            "city": "Horodne",
+            "region": "17",
+            "country": "UA",
+            "latitude": "45.89083",
+            "longitude": "28.84833"
+        },
+        {
+            "city": "Horodyshche",
+            "region": "19",
+            "country": "UA",
+            "latitude": "50.63965",
+            "longitude": "26.36573"
+        },
+        {
+            "city": "Horodyshche",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.28489",
+            "longitude": "31.44513"
+        },
+        {
+            "city": "Horodenka",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.67274",
+            "longitude": "25.50163"
+        },
+        {
+            "city": "Hornostayivka",
+            "region": "08",
+            "country": "UA",
+            "latitude": "47.00777",
+            "longitude": "33.72899"
+        },
+        {
+            "city": "Horinchovo",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.27076",
+            "longitude": "23.43475"
+        },
+        {
+            "city": "Holovyne",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.47118",
+            "longitude": "28.8253"
+        },
+        {
+            "city": "Goloby",
+            "region": "24",
+            "country": "UA",
+            "latitude": "51.08651",
+            "longitude": "25.00767"
+        },
+        {
+            "city": "Hola Prystan\u2019",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.5272",
+            "longitude": "32.52417"
+        },
+        {
+            "city": "Gnedin",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.329",
+            "longitude": "30.71059"
+        },
+        {
+            "city": "Hlobyne",
+            "region": "18",
+            "country": "UA",
+            "latitude": "49.38784",
+            "longitude": "33.25959"
+        },
+        {
+            "city": "Glevakha",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.27423",
+            "longitude": "30.32706"
+        },
+        {
+            "city": "Heniches\u2019k",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.17592",
+            "longitude": "34.8034"
+        },
+        {
+            "city": "Hayvoron",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.33958",
+            "longitude": "29.86791"
+        },
+        {
+            "city": "Haysyn",
+            "region": "23",
+            "country": "UA",
+            "latitude": "48.81143",
+            "longitude": "29.38977"
+        },
+        {
+            "city": "Gaspra",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.43364",
+            "longitude": "34.10297"
+        },
+        {
+            "city": "Hadyach",
+            "region": "18",
+            "country": "UA",
+            "latitude": "50.37112",
+            "longitude": "33.99099"
+        },
+        {
+            "city": "Frunzivka",
+            "region": "17",
+            "country": "UA",
+            "latitude": "47.33333",
+            "longitude": "29.75"
+        },
+        {
+            "city": "Frunzevka",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.26667",
+            "longitude": "33.08333"
+        },
+        {
+            "city": "Partenit",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.578",
+            "longitude": "34.34464"
+        },
+        {
+            "city": "Frunze",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.66863",
+            "longitude": "38.75444"
+        },
+        {
+            "city": "Frunze",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.02688",
+            "longitude": "33.62956"
+        },
+        {
+            "city": "Foros",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.39214",
+            "longitude": "33.78798"
+        },
+        {
+            "city": "Fontanka",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.56255",
+            "longitude": "30.86071"
+        },
+        {
+            "city": "Feodosiya",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.03677",
+            "longitude": "35.37789"
+        },
+        {
+            "city": "Fastiv",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.0767",
+            "longitude": "29.9177"
+        },
+        {
+            "city": "Eskhar",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.79866",
+            "longitude": "36.58831"
+        },
+        {
+            "city": "Energodar",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.49865",
+            "longitude": "34.6574"
+        },
+        {
+            "city": "Dzvinogrud",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.73333",
+            "longitude": "24.25"
+        },
+        {
+            "city": "Dzhankoy",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.71168",
+            "longitude": "34.39274"
+        },
+        {
+            "city": "Dzerzhyns\u2019k",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.39869",
+            "longitude": "37.84787"
+        },
+        {
+            "city": "Dymer",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.78647",
+            "longitude": "30.3026"
+        },
+        {
+            "city": "Dvorichna",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.84963",
+            "longitude": "37.68568"
+        },
+        {
+            "city": "Dunaivtsi",
+            "region": "09",
+            "country": "UA",
+            "latitude": "48.88909",
+            "longitude": "26.85636"
+        },
+        {
+            "city": "Duliby",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.23134",
+            "longitude": "23.81532"
+        },
+        {
+            "city": "Dudchany",
+            "region": "08",
+            "country": "UA",
+            "latitude": "47.18557",
+            "longitude": "33.7639"
+        },
+        {
+            "city": "Dubrovytsya",
+            "region": "19",
+            "country": "UA",
+            "latitude": "51.57438",
+            "longitude": "26.56503"
+        },
+        {
+            "city": "Dubove",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.17205",
+            "longitude": "23.88954"
+        },
+        {
+            "city": "Dubno",
+            "region": "19",
+            "country": "UA",
+            "latitude": "50.41694",
+            "longitude": "25.73432"
+        },
+        {
+            "city": "Dublyany",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.90411",
+            "longitude": "24.08637"
+        },
+        {
+            "city": "Dublyany",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.49832",
+            "longitude": "23.38718"
+        },
+        {
+            "city": "Druzhba",
+            "region": "21",
+            "country": "UA",
+            "latitude": "52.04278",
+            "longitude": "33.94528"
+        },
+        {
+            "city": "Druzhba",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.04251",
+            "longitude": "25.45055"
+        },
+        {
+            "city": "Drogobych",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.34991",
+            "longitude": "23.50561"
+        },
+        {
+            "city": "Drahovo",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.23573",
+            "longitude": "23.54914"
+        },
+        {
+            "city": "Drabiv",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.96302",
+            "longitude": "32.15291"
+        },
+        {
+            "city": "Dovbysh",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.37332",
+            "longitude": "27.98742"
+        },
+        {
+            "city": "Donets\u2019k",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.023",
+            "longitude": "37.80224"
+        },
+        {
+            "city": "Domanivka",
+            "region": "16",
+            "country": "UA",
+            "latitude": "47.63192",
+            "longitude": "30.98852"
+        },
+        {
+            "city": "Dolyna",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.9733",
+            "longitude": "24.00944"
+        },
+        {
+            "city": "Dolyns'ka",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.11041",
+            "longitude": "32.76449"
+        },
+        {
+            "city": "Dovhe",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.36527",
+            "longitude": "23.27904"
+        },
+        {
+            "city": "Dokuchayevsk",
+            "region": "05",
+            "country": "UA",
+            "latitude": "47.74773",
+            "longitude": "37.67384"
+        },
+        {
+            "city": "Dobryanka",
+            "region": "02",
+            "country": "UA",
+            "latitude": "52.06314",
+            "longitude": "31.18567"
+        },
+        {
+            "city": "Dobre",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.86632",
+            "longitude": "34.22661"
+        },
+        {
+            "city": "Dobropol\u2019ye",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.46147",
+            "longitude": "37.08524"
+        },
+        {
+            "city": "Dnipropetrovsk",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.45",
+            "longitude": "34.98333"
+        },
+        {
+            "city": "Dniprodzerzhyns\u2019k",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.51134",
+            "longitude": "34.6021"
+        },
+        {
+            "city": "Dnipryany",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.74631",
+            "longitude": "33.27288"
+        },
+        {
+            "city": "Dniprovka",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.42945",
+            "longitude": "34.61805"
+        },
+        {
+            "city": "Dniprorudne",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.38169",
+            "longitude": "34.97652"
+        },
+        {
+            "city": "Dmytrivka",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.7969",
+            "longitude": "32.71645"
+        },
+        {
+            "city": "Dmytrivka",
+            "region": "05",
+            "country": "UA",
+            "latitude": "47.93611",
+            "longitude": "38.93661"
+        },
+        {
+            "city": "Dymytrove",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.60767",
+            "longitude": "32.98347"
+        },
+        {
+            "city": "Dmytrivka",
+            "region": "17",
+            "country": "UA",
+            "latitude": "45.97167",
+            "longitude": "28.98639"
+        },
+        {
+            "city": "Dykan\u2019ka",
+            "region": "18",
+            "country": "UA",
+            "latitude": "49.82501",
+            "longitude": "34.52787"
+        },
+        {
+            "city": "Desna",
+            "region": "02",
+            "country": "UA",
+            "latitude": "50.92731",
+            "longitude": "30.76048"
+        },
+        {
+            "city": "Derhachy",
+            "region": "07",
+            "country": "UA",
+            "latitude": "50.10659",
+            "longitude": "36.12112"
+        },
+        {
+            "city": "Derazhnya",
+            "region": "09",
+            "country": "UA",
+            "latitude": "49.2692",
+            "longitude": "27.43382"
+        },
+        {
+            "city": "Dilyatyn",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.52354",
+            "longitude": "24.62466"
+        },
+        {
+            "city": "Degtyari",
+            "region": "02",
+            "country": "UA",
+            "latitude": "50.58264",
+            "longitude": "32.77012"
+        },
+        {
+            "city": "Debal\u2019tsevo",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.34072",
+            "longitude": "38.4049"
+        },
+        {
+            "city": "Davydivka",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.12099",
+            "longitude": "25.56461"
+        },
+        {
+            "city": "Dashev",
+            "region": "23",
+            "country": "UA",
+            "latitude": "49.00449",
+            "longitude": "29.42559"
+        },
+        {
+            "city": "Chutove",
+            "region": "18",
+            "country": "UA",
+            "latitude": "49.71042",
+            "longitude": "35.16026"
+        },
+        {
+            "city": "Chulakivka",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.35763",
+            "longitude": "32.3514"
+        },
+        {
+            "city": "Chuhuyiv",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.83588",
+            "longitude": "36.68803"
+        },
+        {
+            "city": "Chudniv",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.05204",
+            "longitude": "28.11745"
+        },
+        {
+            "city": "Chortkiv",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.01709",
+            "longitude": "25.79804"
+        },
+        {
+            "city": "Chopovychi",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.83325",
+            "longitude": "28.95334"
+        },
+        {
+            "city": "Chop",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.43198",
+            "longitude": "22.20555"
+        },
+        {
+            "city": "Chynadiyovo",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.48179",
+            "longitude": "22.8217"
+        },
+        {
+            "city": "Chyhyryn",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.08376",
+            "longitude": "32.65549"
+        },
+        {
+            "city": "Chervone",
+            "region": "21",
+            "country": "UA",
+            "latitude": "51.77083",
+            "longitude": "34.06"
+        },
+        {
+            "city": "Chervone",
+            "region": "27",
+            "country": "UA",
+            "latitude": "49.95643",
+            "longitude": "28.86453"
+        },
+        {
+            "city": "Chervonohryhorivka",
+            "region": "04",
+            "country": "UA",
+            "latitude": "47.62298",
+            "longitude": "34.53887"
+        },
+        {
+            "city": "Chervonograd",
+            "region": "15",
+            "country": "UA",
+            "latitude": "50.39105",
+            "longitude": "24.23514"
+        },
+        {
+            "city": "Radyvyliv",
+            "region": "19",
+            "country": "UA",
+            "latitude": "50.12994",
+            "longitude": "25.25576"
+        },
+        {
+            "city": "Chervonaya Sloboda",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.3789",
+            "longitude": "32.14643"
+        },
+        {
+            "city": "Chortomlyk",
+            "region": "04",
+            "country": "UA",
+            "latitude": "47.62315",
+            "longitude": "34.14198"
+        },
+        {
+            "city": "Chernyatyn",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.66034",
+            "longitude": "25.44832"
+        },
+        {
+            "city": "Chornyanka",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.65222",
+            "longitude": "33.35904"
+        },
+        {
+            "city": "Chernyakhiv",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.45652",
+            "longitude": "28.67018"
+        },
+        {
+            "city": "Chornukhy",
+            "region": "18",
+            "country": "UA",
+            "latitude": "50.26732",
+            "longitude": "32.94196"
+        },
+        {
+            "city": "Chornopillya",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.04399",
+            "longitude": "34.63916"
+        },
+        {
+            "city": "Chornomors\u2019ke",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.50657",
+            "longitude": "32.69776"
+        },
+        {
+            "city": "Chornoliztsi",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.83034",
+            "longitude": "24.89576"
+        },
+        {
+            "city": "Chornobayivka",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.69412",
+            "longitude": "32.55371"
+        },
+        {
+            "city": "Chornobay",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.67079",
+            "longitude": "32.32387"
+        },
+        {
+            "city": "Cherniyiv",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.85658",
+            "longitude": "24.71388"
+        },
+        {
+            "city": "Chernivtsi",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.29149",
+            "longitude": "25.94034"
+        },
+        {
+            "city": "Chernihiv",
+            "region": "02",
+            "country": "UA",
+            "latitude": "51.50551",
+            "longitude": "31.28488"
+        },
+        {
+            "city": "Chernivtsi",
+            "region": "23",
+            "country": "UA",
+            "latitude": "48.54226",
+            "longitude": "28.11473"
+        },
+        {
+            "city": "Chernelytsya",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.81207",
+            "longitude": "25.42477"
+        },
+        {
+            "city": "Cherkasy",
+            "region": "01",
+            "country": "UA",
+            "latitude": "49.42854",
+            "longitude": "32.06207"
+        },
+        {
+            "city": "Chaplynka",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.36507",
+            "longitude": "33.54027"
+        },
+        {
+            "city": "Chapayeve",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.36625",
+            "longitude": "35.87486"
+        },
+        {
+            "city": "Chapayevka",
+            "region": "13",
+            "country": "UA",
+            "latitude": "49.38179",
+            "longitude": "30.45137"
+        },
+        {
+            "city": "Viytivka",
+            "region": "23",
+            "country": "UA",
+            "latitude": "48.42603",
+            "longitude": "29.54291"
+        },
+        {
+            "city": "Chapayevka",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.47114",
+            "longitude": "36.34507"
+        },
+        {
+            "city": "Bytkiv",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.62968",
+            "longitude": "24.47398"
+        },
+        {
+            "city": "Bystrytsya",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.45931",
+            "longitude": "24.24545"
+        },
+        {
+            "city": "Bykivka",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.29285",
+            "longitude": "27.98314"
+        },
+        {
+            "city": "Bushtyno",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.05121",
+            "longitude": "23.48579"
+        },
+        {
+            "city": "Buryn\u2019",
+            "region": "21",
+            "country": "UA",
+            "latitude": "51.19912",
+            "longitude": "33.83523"
+        },
+        {
+            "city": "Burshtyn",
+            "region": "06",
+            "country": "UA",
+            "latitude": "49.25866",
+            "longitude": "24.62776"
+        },
+        {
+            "city": "Budy",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.89337",
+            "longitude": "36.02243"
+        },
+        {
+            "city": "Buchach",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.06254",
+            "longitude": "25.38798"
+        },
+        {
+            "city": "Bucha",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.54345",
+            "longitude": "30.21201"
+        },
+        {
+            "city": "Bryukhovychi",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.90467",
+            "longitude": "23.9597"
+        },
+        {
+            "city": "Bryanka",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.511",
+            "longitude": "38.67222"
+        },
+        {
+            "city": "Brusyliv",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.28449",
+            "longitude": "29.52626"
+        },
+        {
+            "city": "Brovary",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.51809",
+            "longitude": "30.80671"
+        },
+        {
+            "city": "Broska",
+            "region": "17",
+            "country": "UA",
+            "latitude": "45.37328",
+            "longitude": "28.783"
+        },
+        {
+            "city": "Broshniv-Osada",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.9962",
+            "longitude": "24.19748"
+        },
+        {
+            "city": "Brody",
+            "region": "15",
+            "country": "UA",
+            "latitude": "50.08791",
+            "longitude": "25.15027"
+        },
+        {
+            "city": "Brylivka",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.42476",
+            "longitude": "33.14721"
+        },
+        {
+            "city": "Bratslav",
+            "region": "23",
+            "country": "UA",
+            "latitude": "48.82257",
+            "longitude": "28.9407"
+        },
+        {
+            "city": "Brailiv",
+            "region": "23",
+            "country": "UA",
+            "latitude": "49.10986",
+            "longitude": "28.17459"
+        },
+        {
+            "city": "Boyarka",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.3191",
+            "longitude": "30.29728"
+        },
+        {
+            "city": "Boyany",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.27077",
+            "longitude": "26.12624"
+        },
+        {
+            "city": "Nikita",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.51564",
+            "longitude": "34.2384"
+        },
+        {
+            "city": "Borzna",
+            "region": "02",
+            "country": "UA",
+            "latitude": "51.25464",
+            "longitude": "32.4269"
+        },
+        {
+            "city": "Borshchiv",
+            "region": "22",
+            "country": "UA",
+            "latitude": "48.80332",
+            "longitude": "26.04347"
+        },
+        {
+            "city": "Borova",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.17625",
+            "longitude": "30.10429"
+        },
+        {
+            "city": "Borova",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.3777",
+            "longitude": "37.62136"
+        },
+        {
+            "city": "Boromlya",
+            "region": "21",
+            "country": "UA",
+            "latitude": "50.61838",
+            "longitude": "34.97042"
+        },
+        {
+            "city": "Borodyanka",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.64484",
+            "longitude": "29.9201"
+        },
+        {
+            "city": "Borodino",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.3025",
+            "longitude": "29.24167"
+        },
+        {
+            "city": "Boryspil\u2019",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.35269",
+            "longitude": "30.95501"
+        },
+        {
+            "city": "Boryslav",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.28672",
+            "longitude": "23.43238"
+        },
+        {
+            "city": "Bilshivtsi",
+            "region": "06",
+            "country": "UA",
+            "latitude": "49.18333",
+            "longitude": "24.75"
+        },
+        {
+            "city": "Bolhrad",
+            "region": "17",
+            "country": "UA",
+            "latitude": "45.68262",
+            "longitude": "28.61487"
+        },
+        {
+            "city": "Bolekhiv",
+            "region": "06",
+            "country": "UA",
+            "latitude": "49.06607",
+            "longitude": "23.86435"
+        },
+        {
+            "city": "Bohuslav",
+            "region": "13",
+            "country": "UA",
+            "latitude": "49.54939",
+            "longitude": "30.8744"
+        },
+        {
+            "city": "Bohorodchany",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.807",
+            "longitude": "24.53834"
+        },
+        {
+            "city": "Bohodukhiv",
+            "region": "07",
+            "country": "UA",
+            "latitude": "50.16466",
+            "longitude": "35.52765"
+        },
+        {
+            "city": "Bohdan",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.04122",
+            "longitude": "24.35222"
+        },
+        {
+            "city": "Bobrovytsya",
+            "region": "02",
+            "country": "UA",
+            "latitude": "50.74693",
+            "longitude": "31.3948"
+        },
+        {
+            "city": "Bobrka",
+            "region": "15",
+            "country": "UA",
+            "latitude": "49.64093",
+            "longitude": "24.28874"
+        },
+        {
+            "city": "Bobovo",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.07166",
+            "longitude": "22.89585"
+        },
+        {
+            "city": "Blyznyuky",
+            "region": "07",
+            "country": "UA",
+            "latitude": "48.85775",
+            "longitude": "36.55505"
+        },
+        {
+            "city": "Blahodatne",
+            "region": "05",
+            "country": "UA",
+            "latitude": "47.87928",
+            "longitude": "38.48492"
+        },
+        {
+            "city": "Blagodatnoye",
+            "region": "05",
+            "country": "UA",
+            "latitude": "47.70013",
+            "longitude": "37.41898"
+        },
+        {
+            "city": "Biryukove",
+            "region": "14",
+            "country": "UA",
+            "latitude": "47.95631",
+            "longitude": "39.73843"
+        },
+        {
+            "city": "Bilhorod-Dnistrovs\u2019kyy",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.1952",
+            "longitude": "30.34938"
+        },
+        {
+            "city": "Bila Tserkva",
+            "region": "13",
+            "country": "UA",
+            "latitude": "49.80939",
+            "longitude": "30.11209"
+        },
+        {
+            "city": "Bezimenne",
+            "region": "05",
+            "country": "UA",
+            "latitude": "47.10716",
+            "longitude": "37.93815"
+        },
+        {
+            "city": "Bezlyudivka",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.87185",
+            "longitude": "36.29516"
+        },
+        {
+            "city": "Beryslav",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.84152",
+            "longitude": "33.42838"
+        },
+        {
+            "city": "Berezovo",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.30943",
+            "longitude": "23.474"
+        },
+        {
+            "city": "Berezivka",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.44107",
+            "longitude": "35.71167"
+        },
+        {
+            "city": "Berezivka",
+            "region": "17",
+            "country": "UA",
+            "latitude": "47.20429",
+            "longitude": "30.9078"
+        },
+        {
+            "city": "Bereznyky",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.51406",
+            "longitude": "23.21982"
+        },
+        {
+            "city": "Bereznehuvate",
+            "region": "16",
+            "country": "UA",
+            "latitude": "47.30783",
+            "longitude": "32.84993"
+        },
+        {
+            "city": "Berezna",
+            "region": "02",
+            "country": "UA",
+            "latitude": "51.5716",
+            "longitude": "31.78456"
+        },
+        {
+            "city": "Berezyne",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.22944",
+            "longitude": "29.20222"
+        },
+        {
+            "city": "\u0411\u0435\u0440\u0435\u0436\u0430\u043d\u0438",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.45",
+            "longitude": "24.93333"
+        },
+        {
+            "city": "Berezanka",
+            "region": "16",
+            "country": "UA",
+            "latitude": "46.85262",
+            "longitude": "31.38802"
+        },
+        {
+            "city": "Berestechko",
+            "region": "24",
+            "country": "UA",
+            "latitude": "50.36047",
+            "longitude": "25.11071"
+        },
+        {
+            "city": "Berehove",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.20555",
+            "longitude": "22.64418"
+        },
+        {
+            "city": "Berehove",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.0947",
+            "longitude": "35.43385"
+        },
+        {
+            "city": "Berehomet",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.17882",
+            "longitude": "25.34855"
+        },
+        {
+            "city": "Berdychiv",
+            "region": "27",
+            "country": "UA",
+            "latitude": "49.89928",
+            "longitude": "28.60235"
+        },
+        {
+            "city": "Berdyans\u2019k",
+            "region": "26",
+            "country": "UA",
+            "latitude": "46.7663",
+            "longitude": "36.79882"
+        },
+        {
+            "city": "Belz",
+            "region": "15",
+            "country": "UA",
+            "latitude": "50.38226",
+            "longitude": "24.00642"
+        },
+        {
+            "city": "Bili Oslavy",
+            "region": "06",
+            "country": "UA",
+            "latitude": "48.48722",
+            "longitude": "24.70078"
+        },
+        {
+            "city": "Bilyayivka",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.48319",
+            "longitude": "30.21678"
+        },
+        {
+            "city": "Bilozerka",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.6248",
+            "longitude": "32.44251"
+        },
+        {
+            "city": "Beloye",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.49523",
+            "longitude": "39.05051"
+        },
+        {
+            "city": "Bilovods'k",
+            "region": "14",
+            "country": "UA",
+            "latitude": "49.20846",
+            "longitude": "39.58975"
+        },
+        {
+            "city": "Bilopillya",
+            "region": "21",
+            "country": "UA",
+            "latitude": "51.15016",
+            "longitude": "34.31287"
+        },
+        {
+            "city": "Bilokurakyne",
+            "region": "14",
+            "country": "UA",
+            "latitude": "49.5341",
+            "longitude": "38.73067"
+        },
+        {
+            "city": "Inkerman",
+            "region": "20",
+            "country": "UA",
+            "latitude": "44.6139",
+            "longitude": "33.6098"
+        },
+        {
+            "city": "Bilohirs\u2019k",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.05462",
+            "longitude": "34.60185"
+        },
+        {
+            "city": "Belogorovka",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.92503",
+            "longitude": "38.24822"
+        },
+        {
+            "city": "Belki",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.31503",
+            "longitude": "23.13248"
+        },
+        {
+            "city": "Belitskoye",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.40642",
+            "longitude": "37.18111"
+        },
+        {
+            "city": "Bila Krynytsya",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.63982",
+            "longitude": "29.47041"
+        },
+        {
+            "city": "Belaya",
+            "region": "22",
+            "country": "UA",
+            "latitude": "49.029",
+            "longitude": "25.77059"
+        },
+        {
+            "city": "Bekhtery",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.25099",
+            "longitude": "32.29267"
+        },
+        {
+            "city": "Bazaliya",
+            "region": "09",
+            "country": "UA",
+            "latitude": "49.71267",
+            "longitude": "26.47331"
+        },
+        {
+            "city": "Baturyn",
+            "region": "02",
+            "country": "UA",
+            "latitude": "51.35",
+            "longitude": "32.88333"
+        },
+        {
+            "city": "Bashtanka",
+            "region": "16",
+            "country": "UA",
+            "latitude": "47.40719",
+            "longitude": "32.43868"
+        },
+        {
+            "city": "Baryshivka",
+            "region": "13",
+            "country": "UA",
+            "latitude": "50.36098",
+            "longitude": "31.32173"
+        },
+        {
+            "city": "Barvinkove",
+            "region": "07",
+            "country": "UA",
+            "latitude": "48.9097",
+            "longitude": "37.02051"
+        },
+        {
+            "city": "Baranovka",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.29691",
+            "longitude": "27.6622"
+        },
+        {
+            "city": "Bar",
+            "region": "23",
+            "country": "UA",
+            "latitude": "49.07717",
+            "longitude": "27.68256"
+        },
+        {
+            "city": "Banyliv",
+            "region": "03",
+            "country": "UA",
+            "latitude": "48.36612",
+            "longitude": "25.34549"
+        },
+        {
+            "city": "Balta",
+            "region": "17",
+            "country": "UA",
+            "latitude": "47.93548",
+            "longitude": "29.61982"
+        },
+        {
+            "city": "Balky",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.38336",
+            "longitude": "34.94396"
+        },
+        {
+            "city": "Balakliya",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.4627",
+            "longitude": "36.85951"
+        },
+        {
+            "city": "Balaklava",
+            "region": "20",
+            "country": "UA",
+            "latitude": "44.51428",
+            "longitude": "33.60013"
+        },
+        {
+            "city": "Bakhmach",
+            "region": "02",
+            "country": "UA",
+            "latitude": "51.18076",
+            "longitude": "32.75694"
+        },
+        {
+            "city": "Bakhchysaray",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.75525",
+            "longitude": "33.85782"
+        },
+        {
+            "city": "Baherove",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.37417",
+            "longitude": "36.29705"
+        },
+        {
+            "city": "Babanka",
+            "region": "01",
+            "country": "UA",
+            "latitude": "48.70971",
+            "longitude": "30.44827"
+        },
+        {
+            "city": "Avdeyevka",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.13989",
+            "longitude": "37.74255"
+        },
+        {
+            "city": "Auly",
+            "region": "04",
+            "country": "UA",
+            "latitude": "48.52708",
+            "longitude": "34.49493"
+        },
+        {
+            "city": "Askaniya Nova",
+            "region": "08",
+            "country": "UA",
+            "latitude": "46.45135",
+            "longitude": "33.86889"
+        },
+        {
+            "city": "Artsyz",
+            "region": "17",
+            "country": "UA",
+            "latitude": "45.99194",
+            "longitude": "29.41824"
+        },
+        {
+            "city": "Artemivs\u2019k",
+            "region": "05",
+            "country": "UA",
+            "latitude": "48.59559",
+            "longitude": "37.99987"
+        },
+        {
+            "city": "Armyans\u2019k",
+            "region": "11",
+            "country": "UA",
+            "latitude": "46.10919",
+            "longitude": "33.69206"
+        },
+        {
+            "city": "Arbuzynka",
+            "region": "16",
+            "country": "UA",
+            "latitude": "47.90972",
+            "longitude": "31.31963"
+        },
+        {
+            "city": "Apostolove",
+            "region": "04",
+            "country": "UA",
+            "latitude": "47.66003",
+            "longitude": "33.71369"
+        },
+        {
+            "city": "Antratsit",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.11503",
+            "longitude": "39.09128"
+        },
+        {
+            "city": "Antoniny",
+            "region": "09",
+            "country": "UA",
+            "latitude": "49.80974",
+            "longitude": "26.87714"
+        },
+        {
+            "city": "Andrushivka",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.02288",
+            "longitude": "29.02023"
+        },
+        {
+            "city": "Amvrosiyivka",
+            "region": "05",
+            "country": "UA",
+            "latitude": "47.79348",
+            "longitude": "38.47768"
+        },
+        {
+            "city": "Alushta",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.67631",
+            "longitude": "34.40778"
+        },
+        {
+            "city": "Alupka",
+            "region": "11",
+            "country": "UA",
+            "latitude": "44.41886",
+            "longitude": "34.0448"
+        },
+        {
+            "city": "Aleksandrovka",
+            "region": "16",
+            "country": "UA",
+            "latitude": "46.83826",
+            "longitude": "32.76116"
+        },
+        {
+            "city": "Oleksandrivka",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.32893",
+            "longitude": "30.63481"
+        },
+        {
+            "city": "Alchevs\u2019k",
+            "region": "14",
+            "country": "UA",
+            "latitude": "48.46893",
+            "longitude": "38.81669"
+        },
+        {
+            "city": "Yakymivka",
+            "region": "26",
+            "country": "UA",
+            "latitude": "46.69972",
+            "longitude": "35.15916"
+        },
+        {
+            "city": "Okhtyrka",
+            "region": "21",
+            "country": "UA",
+            "latitude": "50.31036",
+            "longitude": "34.89879"
+        },
+        {
+            "city": "Adzhamka",
+            "region": "10",
+            "country": "UA",
+            "latitude": "48.54244",
+            "longitude": "32.53542"
+        },
+        {
+            "city": "Malynivka",
+            "region": "07",
+            "country": "UA",
+            "latitude": "49.81667",
+            "longitude": "36.73333"
+        },
+        {
+            "city": "Mykhaylivka",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.28669",
+            "longitude": "36.2627"
+        },
+        {
+            "city": "Kopashnovo",
+            "region": "25",
+            "country": "UA",
+            "latitude": "48.2197",
+            "longitude": "23.48457"
+        },
+        {
+            "city": "Narkevychi",
+            "region": "09",
+            "country": "UA",
+            "latitude": "49.51717",
+            "longitude": "26.64178"
+        },
+        {
+            "city": "Kirove",
+            "region": "26",
+            "country": "UA",
+            "latitude": "47.65311",
+            "longitude": "35.69512"
+        },
+        {
+            "city": "Orikhove",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.12944",
+            "longitude": "33.6318"
+        },
+        {
+            "city": "Krasni Okny",
+            "region": "17",
+            "country": "UA",
+            "latitude": "47.54044",
+            "longitude": "29.46001"
+        },
+        {
+            "city": "Kuchurhan",
+            "region": "17",
+            "country": "UA",
+            "latitude": "47.16302",
+            "longitude": "29.78938"
+        },
+        {
+            "city": "Smyga",
+            "region": "09",
+            "country": "UA",
+            "latitude": "50.2391",
+            "longitude": "25.76575"
+        },
+        {
+            "city": "Tayirove",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.36313",
+            "longitude": "30.64891"
+        },
+        {
+            "city": "Teplodar",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.50585",
+            "longitude": "30.3252"
+        },
+        {
+            "city": "Komsomolsk",
+            "region": "18",
+            "country": "UA",
+            "latitude": "49.00973",
+            "longitude": "33.64546"
+        },
+        {
+            "city": "\u0421\u043b\u0430\u0432\u0443\u0442\u0438\u0447",
+            "region": "13",
+            "country": "UA",
+            "latitude": "51.51964",
+            "longitude": "30.73434"
+        },
+        {
+            "city": "Orzhiv",
+            "region": "19",
+            "country": "UA",
+            "latitude": "50.8",
+            "longitude": "26.12"
+        },
+        {
+            "city": "Shkil\u2019ne",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.05758",
+            "longitude": "33.89737"
+        },
+        {
+            "city": "Denyshi",
+            "region": "27",
+            "country": "UA",
+            "latitude": "50.21415",
+            "longitude": "28.40395"
+        },
+        {
+            "city": "Stepove",
+            "region": "17",
+            "country": "UA",
+            "latitude": "46.70385",
+            "longitude": "30.07919"
+        },
+        {
+            "city": "Scholkine",
+            "region": "11",
+            "country": "UA",
+            "latitude": "45.42761",
+            "longitude": "35.8247"
+        },
+        {
+            "city": "Yuzhnoukrains'k",
+            "region": "16",
+            "country": "UA",
+            "latitude": "47.81777",
+            "longitude": "31.18263"
+        }
+    ]
+}

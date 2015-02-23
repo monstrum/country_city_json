@@ -1,0 +1,2932 @@
+{
+    "country": "Honduras",
+    "code": "HN",
+    "cities": [
+        {
+            "city": "Puerto Cortez",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.83333",
+            "longitude": "-87.95"
+        },
+        {
+            "city": "Zopilotepe",
+            "region": "15",
+            "country": "HN",
+            "latitude": "14.6",
+            "longitude": "-86.26667"
+        },
+        {
+            "city": "Zamora",
+            "region": "03",
+            "country": "HN",
+            "latitude": "15.63333",
+            "longitude": "-86.06667"
+        },
+        {
+            "city": "Zambrano",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.26667",
+            "longitude": "-87.4"
+        },
+        {
+            "city": "Yuscar\u00e1n",
+            "region": "07",
+            "country": "HN",
+            "latitude": "13.93333",
+            "longitude": "-86.85"
+        },
+        {
+            "city": "Yoro",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.13333",
+            "longitude": "-87.13333"
+        },
+        {
+            "city": "Yorito",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.06667",
+            "longitude": "-87.28333"
+        },
+        {
+            "city": "Yarumela",
+            "region": "12",
+            "country": "HN",
+            "latitude": "14.33333",
+            "longitude": "-87.63333"
+        },
+        {
+            "city": "Yaruchel",
+            "region": "14",
+            "country": "HN",
+            "latitude": "14.53333",
+            "longitude": "-88.81667"
+        },
+        {
+            "city": "Yamaranguila",
+            "region": "10",
+            "country": "HN",
+            "latitude": "14.28333",
+            "longitude": "-88.25"
+        },
+        {
+            "city": "Yaguacire",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.01667",
+            "longitude": "-87.21667"
+        },
+        {
+            "city": "Wawina",
+            "region": "09",
+            "country": "HN",
+            "latitude": "15.41667",
+            "longitude": "-84.43333"
+        },
+        {
+            "city": "Villanueva",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.31667",
+            "longitude": "-88"
+        },
+        {
+            "city": "Villa Nueva",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.03333",
+            "longitude": "-87.13333"
+        },
+        {
+            "city": "Villa de San Francisco",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.16667",
+            "longitude": "-86.96667"
+        },
+        {
+            "city": "Villa de San Antonio",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.31667",
+            "longitude": "-87.61667"
+        },
+        {
+            "city": "Victoria",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.48333",
+            "longitude": "-87.81667"
+        },
+        {
+            "city": "Veracruz",
+            "region": "05",
+            "country": "HN",
+            "latitude": "14.91667",
+            "longitude": "-88.78333"
+        },
+        {
+            "city": "Valle de \u00c1ngeles",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.5",
+            "longitude": "-87.63333"
+        },
+        {
+            "city": "Valle de \u00c1ngeles",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.15",
+            "longitude": "-87.03333"
+        },
+        {
+            "city": "Vallecillo",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.51667",
+            "longitude": "-87.4"
+        },
+        {
+            "city": "Trujillo",
+            "region": "03",
+            "country": "HN",
+            "latitude": "15.91667",
+            "longitude": "-86"
+        },
+        {
+            "city": "Trojas",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.35",
+            "longitude": "-86.7"
+        },
+        {
+            "city": "Trinidad de Cop\u00e1n",
+            "region": "05",
+            "country": "HN",
+            "latitude": "14.95",
+            "longitude": "-88.75"
+        },
+        {
+            "city": "Trinidad",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.13333",
+            "longitude": "-88.23333"
+        },
+        {
+            "city": "Traves\u00eda",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.86667",
+            "longitude": "-87.9"
+        },
+        {
+            "city": "Tras Cerros",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.3",
+            "longitude": "-88.66667"
+        },
+        {
+            "city": "Toy\u00f3s",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.55",
+            "longitude": "-87.65"
+        },
+        {
+            "city": "Tornab\u00e9",
+            "region": "01",
+            "country": "HN",
+            "latitude": "15.75",
+            "longitude": "-87.55"
+        },
+        {
+            "city": "Tocoa",
+            "region": "03",
+            "country": "HN",
+            "latitude": "15.68333",
+            "longitude": "-86"
+        },
+        {
+            "city": "Teupasenti",
+            "region": "07",
+            "country": "HN",
+            "latitude": "14.21667",
+            "longitude": "-86.7"
+        },
+        {
+            "city": "Tepusteca",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.41667",
+            "longitude": "-86.31667"
+        },
+        {
+            "city": "Tepanguare",
+            "region": "12",
+            "country": "HN",
+            "latitude": "14.33333",
+            "longitude": "-87.75"
+        },
+        {
+            "city": "Tela",
+            "region": "01",
+            "country": "HN",
+            "latitude": "15.78333",
+            "longitude": "-87.45"
+        },
+        {
+            "city": "Tegucigalpa",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.0818",
+            "longitude": "-87.20681"
+        },
+        {
+            "city": "Teguajinal",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.36667",
+            "longitude": "-86.6"
+        },
+        {
+            "city": "Taulab\u00e9",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.7",
+            "longitude": "-87.96667"
+        },
+        {
+            "city": "Taujica",
+            "region": "03",
+            "country": "HN",
+            "latitude": "15.7",
+            "longitude": "-85.91667"
+        },
+        {
+            "city": "Taragual",
+            "region": "13",
+            "country": "HN",
+            "latitude": "14.75",
+            "longitude": "-88.48333"
+        },
+        {
+            "city": "T\u00e1mara",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.15",
+            "longitude": "-87.33333"
+        },
+        {
+            "city": "Talanga",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.4",
+            "longitude": "-87.08333"
+        },
+        {
+            "city": "Sulaco",
+            "region": "18",
+            "country": "HN",
+            "latitude": "14.91667",
+            "longitude": "-87.26667"
+        },
+        {
+            "city": "Sula",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.25",
+            "longitude": "-88.56667"
+        },
+        {
+            "city": "Subirana",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.2",
+            "longitude": "-87.45"
+        },
+        {
+            "city": "Sinuapa",
+            "region": "14",
+            "country": "HN",
+            "latitude": "14.45",
+            "longitude": "-89.18333"
+        },
+        {
+            "city": "Silca",
+            "region": "15",
+            "country": "HN",
+            "latitude": "14.83333",
+            "longitude": "-86.53333"
+        },
+        {
+            "city": "Siguatepeque",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.6",
+            "longitude": "-87.83333"
+        },
+        {
+            "city": "Sensenti",
+            "region": "14",
+            "country": "HN",
+            "latitude": "14.48333",
+            "longitude": "-88.93333"
+        },
+        {
+            "city": "Savannah Bight",
+            "region": "11",
+            "country": "HN",
+            "latitude": "16.45",
+            "longitude": "-85.85"
+        },
+        {
+            "city": "Sab\u00e1",
+            "region": "03",
+            "country": "HN",
+            "latitude": "15.46667",
+            "longitude": "-86.25"
+        },
+        {
+            "city": "San Vicente Centenario",
+            "region": "16",
+            "country": "HN",
+            "latitude": "14.88333",
+            "longitude": "-88.28333"
+        },
+        {
+            "city": "Santiago Puringla",
+            "region": "12",
+            "country": "HN",
+            "latitude": "14.35",
+            "longitude": "-87.9"
+        },
+        {
+            "city": "Santa Rosa de Cop\u00e1n",
+            "region": "05",
+            "country": "HN",
+            "latitude": "14.76667",
+            "longitude": "-88.78333"
+        },
+        {
+            "city": "Santa Rosa de Agu\u00e1n",
+            "region": "03",
+            "country": "HN",
+            "latitude": "15.95",
+            "longitude": "-85.71667"
+        },
+        {
+            "city": "Santa Rita",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.16667",
+            "longitude": "-87.28333"
+        },
+        {
+            "city": "Santa Rita",
+            "region": "16",
+            "country": "HN",
+            "latitude": "14.91667",
+            "longitude": "-88.21667"
+        },
+        {
+            "city": "Santa Rita",
+            "region": "05",
+            "country": "HN",
+            "latitude": "14.86667",
+            "longitude": "-89.1"
+        },
+        {
+            "city": "Santa Mar\u00eda del Real",
+            "region": "15",
+            "country": "HN",
+            "latitude": "14.76667",
+            "longitude": "-85.95"
+        },
+        {
+            "city": "Santa Luc\u00eda",
+            "region": "14",
+            "country": "HN",
+            "latitude": "14.41667",
+            "longitude": "-89.2"
+        },
+        {
+            "city": "Santa Luc\u00eda",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.1",
+            "longitude": "-87.11667"
+        },
+        {
+            "city": "Santa Elena",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.38333",
+            "longitude": "-88.13333"
+        },
+        {
+            "city": "Santa Cruz de Yojoa",
+            "region": "06",
+            "country": "HN",
+            "latitude": "14.98333",
+            "longitude": "-87.9"
+        },
+        {
+            "city": "Santa Cruz",
+            "region": "07",
+            "country": "HN",
+            "latitude": "13.86667",
+            "longitude": "-86.63333"
+        },
+        {
+            "city": "Santa Cruz",
+            "region": "02",
+            "country": "HN",
+            "latitude": "13.25806",
+            "longitude": "-87.34833"
+        },
+        {
+            "city": "Santa B\u00e1rbara",
+            "region": "16",
+            "country": "HN",
+            "latitude": "14.91667",
+            "longitude": "-88.23333"
+        },
+        {
+            "city": "Santa Ana de Yusguare",
+            "region": "02",
+            "country": "HN",
+            "latitude": "13.30056",
+            "longitude": "-87.11389"
+        },
+        {
+            "city": "Santa Ana",
+            "region": "01",
+            "country": "HN",
+            "latitude": "15.65",
+            "longitude": "-87.06667"
+        },
+        {
+            "city": "Santa Ana",
+            "region": "08",
+            "country": "HN",
+            "latitude": "13.93167",
+            "longitude": "-87.27139"
+        },
+        {
+            "city": "San Sebasti\u00e1n",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.25",
+            "longitude": "-87.63333"
+        },
+        {
+            "city": "San Pedro Zacapa",
+            "region": "16",
+            "country": "HN",
+            "latitude": "14.75",
+            "longitude": "-88.11667"
+        },
+        {
+            "city": "San Pedro Sula",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.5",
+            "longitude": "-88.03333"
+        },
+        {
+            "city": "San Pedro de Tutule",
+            "region": "12",
+            "country": "HN",
+            "latitude": "14.25",
+            "longitude": "-87.85"
+        },
+        {
+            "city": "San Nicol\u00e1s",
+            "region": "05",
+            "country": "HN",
+            "latitude": "15",
+            "longitude": "-88.75"
+        },
+        {
+            "city": "San Nicol\u00e1s",
+            "region": "16",
+            "country": "HN",
+            "latitude": "14.93333",
+            "longitude": "-88.31667"
+        },
+        {
+            "city": "San Nicol\u00e1s",
+            "region": "15",
+            "country": "HN",
+            "latitude": "14.55",
+            "longitude": "-86.25"
+        },
+        {
+            "city": "San Mat\u00edas",
+            "region": "07",
+            "country": "HN",
+            "latitude": "13.98333",
+            "longitude": "-86.63333"
+        },
+        {
+            "city": "San Marcos de Col\u00f3n",
+            "region": "02",
+            "country": "HN",
+            "latitude": "13.43333",
+            "longitude": "-86.8"
+        },
+        {
+            "city": "San Marcos",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.3",
+            "longitude": "-88.41667"
+        },
+        {
+            "city": "San Marcos",
+            "region": "14",
+            "country": "HN",
+            "latitude": "14.4",
+            "longitude": "-88.95"
+        },
+        {
+            "city": "San Manuel",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.33333",
+            "longitude": "-87.91667"
+        },
+        {
+            "city": "San Luis de Planes",
+            "region": "16",
+            "country": "HN",
+            "latitude": "14.98333",
+            "longitude": "-88.13333"
+        },
+        {
+            "city": "San Luis",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.08333",
+            "longitude": "-88.38333"
+        },
+        {
+            "city": "San Luis",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.75",
+            "longitude": "-87.41667"
+        },
+        {
+            "city": "San Lucas",
+            "region": "07",
+            "country": "HN",
+            "latitude": "13.73333",
+            "longitude": "-86.95"
+        },
+        {
+            "city": "San Lorenzo",
+            "region": "17",
+            "country": "HN",
+            "latitude": "13.42417",
+            "longitude": "-87.44722"
+        },
+        {
+            "city": "San Juan Pueblo",
+            "region": "01",
+            "country": "HN",
+            "latitude": "15.58333",
+            "longitude": "-87.23333"
+        },
+        {
+            "city": "San Juan de Planes",
+            "region": "05",
+            "country": "HN",
+            "latitude": "14.93333",
+            "longitude": "-88.78333"
+        },
+        {
+            "city": "San Juan de Opoa",
+            "region": "05",
+            "country": "HN",
+            "latitude": "14.78333",
+            "longitude": "-88.7"
+        },
+        {
+            "city": "San Juan de Flores",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.26667",
+            "longitude": "-87.03333"
+        },
+        {
+            "city": "San Jos\u00e9 de Tarros",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.3",
+            "longitude": "-88.7"
+        },
+        {
+            "city": "San Jos\u00e9 de R\u00edo Tinto",
+            "region": "15",
+            "country": "HN",
+            "latitude": "14.93333",
+            "longitude": "-85.7"
+        },
+        {
+            "city": "San Jos\u00e9 del Potrero",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.83333",
+            "longitude": "-87.28333"
+        },
+        {
+            "city": "San Jos\u00e9 del Boquer\u00f3n",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.48333",
+            "longitude": "-87.86667"
+        },
+        {
+            "city": "San Jos\u00e9 de Cop\u00e1n",
+            "region": "05",
+            "country": "HN",
+            "latitude": "14.9",
+            "longitude": "-88.71667"
+        },
+        {
+            "city": "San Jos\u00e9 de Comayagua",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.73333",
+            "longitude": "-88.03333"
+        },
+        {
+            "city": "San Jos\u00e9 de Colinas",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.03333",
+            "longitude": "-88.3"
+        },
+        {
+            "city": "San Jos\u00e9",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.31667",
+            "longitude": "-87.16667"
+        },
+        {
+            "city": "San Jos\u00e9",
+            "region": "12",
+            "country": "HN",
+            "latitude": "14.25",
+            "longitude": "-87.95"
+        },
+        {
+            "city": "San Joaqu\u00edn",
+            "region": "05",
+            "country": "HN",
+            "latitude": "15.05",
+            "longitude": "-88.9"
+        },
+        {
+            "city": "San Jer\u00f3nimo",
+            "region": "05",
+            "country": "HN",
+            "latitude": "14.96667",
+            "longitude": "-88.86667"
+        },
+        {
+            "city": "San Jer\u00f3nimo",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.63333",
+            "longitude": "-87.6"
+        },
+        {
+            "city": "San Jer\u00f3nimo",
+            "region": "02",
+            "country": "HN",
+            "latitude": "13.17667",
+            "longitude": "-87.13639"
+        },
+        {
+            "city": "San Ignacio",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.65",
+            "longitude": "-87.03333"
+        },
+        {
+            "city": "San Francisco de Yojoa",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.01667",
+            "longitude": "-87.96667"
+        },
+        {
+            "city": "San Francisco del Valle",
+            "region": "14",
+            "country": "HN",
+            "latitude": "14.43333",
+            "longitude": "-88.95"
+        },
+        {
+            "city": "San Francisco de la Paz",
+            "region": "15",
+            "country": "HN",
+            "latitude": "14.9",
+            "longitude": "-86.2"
+        },
+        {
+            "city": "San Francisco de Coray",
+            "region": "17",
+            "country": "HN",
+            "latitude": "13.66139",
+            "longitude": "-87.53278"
+        },
+        {
+            "city": "San Francisco de Cones",
+            "region": "14",
+            "country": "HN",
+            "latitude": "14.51667",
+            "longitude": "-88.9"
+        },
+        {
+            "city": "San Francisco de Becerra",
+            "region": "15",
+            "country": "HN",
+            "latitude": "14.63333",
+            "longitude": "-86.1"
+        },
+        {
+            "city": "San Francisco",
+            "region": "01",
+            "country": "HN",
+            "latitude": "15.65",
+            "longitude": "-87.05"
+        },
+        {
+            "city": "San Fernando",
+            "region": "14",
+            "country": "HN",
+            "latitude": "14.68333",
+            "longitude": "-89.11667"
+        },
+        {
+            "city": "San Esteban",
+            "region": "15",
+            "country": "HN",
+            "latitude": "15.2",
+            "longitude": "-85.75"
+        },
+        {
+            "city": "Sandy Bay",
+            "region": "11",
+            "country": "HN",
+            "latitude": "16.31667",
+            "longitude": "-86.56667"
+        },
+        {
+            "city": "San Diego",
+            "region": "07",
+            "country": "HN",
+            "latitude": "14.05",
+            "longitude": "-86.46667"
+        },
+        {
+            "city": "San Buenaventura",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.01667",
+            "longitude": "-88"
+        },
+        {
+            "city": "San Antonio del Norte",
+            "region": "12",
+            "country": "HN",
+            "latitude": "13.88444",
+            "longitude": "-87.70306"
+        },
+        {
+            "city": "San Antonio de la Cuesta",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.63333",
+            "longitude": "-87.6"
+        },
+        {
+            "city": "San Antonio de Cort\u00e9s",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.11667",
+            "longitude": "-88.03333"
+        },
+        {
+            "city": "San Antonio",
+            "region": "01",
+            "country": "HN",
+            "latitude": "15.6",
+            "longitude": "-87.15"
+        },
+        {
+            "city": "San Antonio",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.33333",
+            "longitude": "-87.15"
+        },
+        {
+            "city": "San Agust\u00edn",
+            "region": "05",
+            "country": "HN",
+            "latitude": "14.81667",
+            "longitude": "-88.93333"
+        },
+        {
+            "city": "Sambo Creek",
+            "region": "01",
+            "country": "HN",
+            "latitude": "15.81667",
+            "longitude": "-86.68333"
+        },
+        {
+            "city": "Salam\u00e1",
+            "region": "03",
+            "country": "HN",
+            "latitude": "15.75",
+            "longitude": "-85.96667"
+        },
+        {
+            "city": "Salam\u00e1",
+            "region": "15",
+            "country": "HN",
+            "latitude": "14.83333",
+            "longitude": "-86.58333"
+        },
+        {
+            "city": "Sabanagrande",
+            "region": "08",
+            "country": "HN",
+            "latitude": "13.80778",
+            "longitude": "-87.25917"
+        },
+        {
+            "city": "Roat\u00e1n",
+            "region": "11",
+            "country": "HN",
+            "latitude": "16.32437",
+            "longitude": "-86.53656"
+        },
+        {
+            "city": "R\u00edo Lindo",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.03333",
+            "longitude": "-87.98333"
+        },
+        {
+            "city": "R\u00edo Esteban",
+            "region": "03",
+            "country": "HN",
+            "latitude": "15.83333",
+            "longitude": "-86.3"
+        },
+        {
+            "city": "R\u00edo Chiquito",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.63333",
+            "longitude": "-88.25"
+        },
+        {
+            "city": "R\u00edo Bonito",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.76667",
+            "longitude": "-87.88333"
+        },
+        {
+            "city": "R\u00edo Blanquito",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.73333",
+            "longitude": "-87.9"
+        },
+        {
+            "city": "R\u00edo Abajo",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.16667",
+            "longitude": "-87.21667"
+        },
+        {
+            "city": "Reitoca",
+            "region": "08",
+            "country": "HN",
+            "latitude": "13.82583",
+            "longitude": "-87.46528"
+        },
+        {
+            "city": "Quimist\u00e1n",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.35",
+            "longitude": "-88.4"
+        },
+        {
+            "city": "Quezailica",
+            "region": "05",
+            "country": "HN",
+            "latitude": "14.88333",
+            "longitude": "-88.73333"
+        },
+        {
+            "city": "Quebrada Seca",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.66667",
+            "longitude": "-87.95"
+        },
+        {
+            "city": "Quebradas",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.5",
+            "longitude": "-87.35"
+        },
+        {
+            "city": "Quebrada Larga",
+            "region": "07",
+            "country": "HN",
+            "latitude": "14.1",
+            "longitude": "-86.36667"
+        },
+        {
+            "city": "Quebrada de Arena",
+            "region": "03",
+            "country": "HN",
+            "latitude": "15.76667",
+            "longitude": "-85.91667"
+        },
+        {
+            "city": "Punuare",
+            "region": "15",
+            "country": "HN",
+            "latitude": "14.73333",
+            "longitude": "-85.96667"
+        },
+        {
+            "city": "Punta Piedra",
+            "region": "03",
+            "country": "HN",
+            "latitude": "15.9",
+            "longitude": "-85.28333"
+        },
+        {
+            "city": "Punta Ocote",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.2",
+            "longitude": "-87.28333"
+        },
+        {
+            "city": "Puerto Lempira",
+            "region": "09",
+            "country": "HN",
+            "latitude": "15.26667",
+            "longitude": "-83.76667"
+        },
+        {
+            "city": "Puerto Castilla",
+            "region": "03",
+            "country": "HN",
+            "latitude": "16.01667",
+            "longitude": "-85.96667"
+        },
+        {
+            "city": "Puerto Alto",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.7",
+            "longitude": "-87.86667"
+        },
+        {
+            "city": "Pueblo Nuevo",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.28333",
+            "longitude": "-88.01667"
+        },
+        {
+            "city": "Pueblo Nuevo",
+            "region": "05",
+            "country": "HN",
+            "latitude": "15",
+            "longitude": "-88.75"
+        },
+        {
+            "city": "Protecci\u00f3n",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.03333",
+            "longitude": "-88.65"
+        },
+        {
+            "city": "Prieta",
+            "region": "03",
+            "country": "HN",
+            "latitude": "15.58333",
+            "longitude": "-86.18333"
+        },
+        {
+            "city": "Potrerillos",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.63333",
+            "longitude": "-88.3"
+        },
+        {
+            "city": "Potrerillos",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.23333",
+            "longitude": "-87.96667"
+        },
+        {
+            "city": "Potrerillos",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.55",
+            "longitude": "-87.86667"
+        },
+        {
+            "city": "Pinalejo",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.38333",
+            "longitude": "-88.4"
+        },
+        {
+            "city": "Pimienta Vieja",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.23333",
+            "longitude": "-87.96667"
+        },
+        {
+            "city": "Petoa",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.26667",
+            "longitude": "-88.28333"
+        },
+        {
+            "city": "Pespire",
+            "region": "02",
+            "country": "HN",
+            "latitude": "13.59222",
+            "longitude": "-87.36167"
+        },
+        {
+            "city": "Pe\u00f1a Blanca",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.53333",
+            "longitude": "-88.05"
+        },
+        {
+            "city": "Paujiles",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.1",
+            "longitude": "-87.35"
+        },
+        {
+            "city": "Paptalaya",
+            "region": "09",
+            "country": "HN",
+            "latitude": "15.5",
+            "longitude": "-84.31667"
+        },
+        {
+            "city": "Oropol\u00ed",
+            "region": "07",
+            "country": "HN",
+            "latitude": "13.81667",
+            "longitude": "-86.81667"
+        },
+        {
+            "city": "Orop\u00e9ndolas",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.01667",
+            "longitude": "-87.93333"
+        },
+        {
+            "city": "Orocuina",
+            "region": "02",
+            "country": "HN",
+            "latitude": "13.48167",
+            "longitude": "-87.105"
+        },
+        {
+            "city": "Orica",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.7",
+            "longitude": "-86.95"
+        },
+        {
+            "city": "Omoa",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.76667",
+            "longitude": "-88.03333"
+        },
+        {
+            "city": "Olanchito",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.5",
+            "longitude": "-86.56667"
+        },
+        {
+            "city": "Ojos de Agua",
+            "region": "05",
+            "country": "HN",
+            "latitude": "14.7",
+            "longitude": "-88.81667"
+        },
+        {
+            "city": "Ojos de Agua",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.6",
+            "longitude": "-87.93333"
+        },
+        {
+            "city": "Ojojona",
+            "region": "08",
+            "country": "HN",
+            "latitude": "13.93389",
+            "longitude": "-87.29583"
+        },
+        {
+            "city": "Ojo de Agua",
+            "region": "07",
+            "country": "HN",
+            "latitude": "14.01667",
+            "longitude": "-86.35"
+        },
+        {
+            "city": "Ocote Paulino",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.41667",
+            "longitude": "-87.6"
+        },
+        {
+            "city": "Nuevo Chamelec\u00f3n",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.38333",
+            "longitude": "-88.01667"
+        },
+        {
+            "city": "Nueva Ocotepeque",
+            "region": "14",
+            "country": "HN",
+            "latitude": "14.43333",
+            "longitude": "-89.18333"
+        },
+        {
+            "city": "Nueva Jalapa",
+            "region": "16",
+            "country": "HN",
+            "latitude": "14.91667",
+            "longitude": "-88.33333"
+        },
+        {
+            "city": "Nueva Esperanza",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.26667",
+            "longitude": "-87.6"
+        },
+        {
+            "city": "Nueva Armenia",
+            "region": "01",
+            "country": "HN",
+            "latitude": "15.79556",
+            "longitude": "-86.49845"
+        },
+        {
+            "city": "Nombre de Jes\u00fas",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.35",
+            "longitude": "-86.68333"
+        },
+        {
+            "city": "Naranjito",
+            "region": "16",
+            "country": "HN",
+            "latitude": "14.95",
+            "longitude": "-88.68333"
+        },
+        {
+            "city": "Namasig\u00fce",
+            "region": "02",
+            "country": "HN",
+            "latitude": "13.20472",
+            "longitude": "-87.13889"
+        },
+        {
+            "city": "Naco",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.38333",
+            "longitude": "-88.18333"
+        },
+        {
+            "city": "Nacaome",
+            "region": "17",
+            "country": "HN",
+            "latitude": "13.53611",
+            "longitude": "-87.4875"
+        },
+        {
+            "city": "Morocel\u00ed",
+            "region": "07",
+            "country": "HN",
+            "latitude": "14.11667",
+            "longitude": "-86.86667"
+        },
+        {
+            "city": "Moraz\u00e1n",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.31667",
+            "longitude": "-87.6"
+        },
+        {
+            "city": "Monterrey",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.58333",
+            "longitude": "-87.88333"
+        },
+        {
+            "city": "Monjar\u00e1s",
+            "region": "02",
+            "country": "HN",
+            "latitude": "13.20056",
+            "longitude": "-87.37417"
+        },
+        {
+            "city": "Mojim\u00e1n",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.26667",
+            "longitude": "-87.6"
+        },
+        {
+            "city": "Minas de Oro",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.8",
+            "longitude": "-87.35"
+        },
+        {
+            "city": "Mezapa",
+            "region": "01",
+            "country": "HN",
+            "latitude": "15.58333",
+            "longitude": "-87.65"
+        },
+        {
+            "city": "Mateo",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.08333",
+            "longitude": "-87.31667"
+        },
+        {
+            "city": "Mata de Pl\u00e1tano",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.6",
+            "longitude": "-87.28333"
+        },
+        {
+            "city": "Marcovia",
+            "region": "02",
+            "country": "HN",
+            "latitude": "13.28806",
+            "longitude": "-87.30972"
+        },
+        {
+            "city": "Marcala",
+            "region": "12",
+            "country": "HN",
+            "latitude": "14.15",
+            "longitude": "-88.03333"
+        },
+        {
+            "city": "Marale",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.88333",
+            "longitude": "-87.15"
+        },
+        {
+            "city": "Manto",
+            "region": "15",
+            "country": "HN",
+            "latitude": "14.91667",
+            "longitude": "-86.38333"
+        },
+        {
+            "city": "Mangulile",
+            "region": "15",
+            "country": "HN",
+            "latitude": "15.06667",
+            "longitude": "-86.8"
+        },
+        {
+            "city": "Lucerna",
+            "region": "14",
+            "country": "HN",
+            "latitude": "14.55",
+            "longitude": "-88.93333"
+        },
+        {
+            "city": "Los Tangos",
+            "region": "05",
+            "country": "HN",
+            "latitude": "15.15",
+            "longitude": "-88.68333"
+        },
+        {
+            "city": "Los Planes",
+            "region": "12",
+            "country": "HN",
+            "latitude": "14.05",
+            "longitude": "-88.01667"
+        },
+        {
+            "city": "Los Naranjos",
+            "region": "06",
+            "country": "HN",
+            "latitude": "14.9",
+            "longitude": "-88.05"
+        },
+        {
+            "city": "Los Llanitos",
+            "region": "02",
+            "country": "HN",
+            "latitude": "13.28694",
+            "longitude": "-87.33444"
+        },
+        {
+            "city": "Los Caminos",
+            "region": "06",
+            "country": "HN",
+            "latitude": "14.95",
+            "longitude": "-87.96667"
+        },
+        {
+            "city": "Lomitas",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.1",
+            "longitude": "-87.21667"
+        },
+        {
+            "city": "Loma Alta",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.39667",
+            "longitude": "-88.55972"
+        },
+        {
+            "city": "Liure",
+            "region": "07",
+            "country": "HN",
+            "latitude": "13.53583",
+            "longitude": "-87.09194"
+        },
+        {
+            "city": "Lepaterique",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.06667",
+            "longitude": "-87.46667"
+        },
+        {
+            "city": "Lepaera",
+            "region": "13",
+            "country": "HN",
+            "latitude": "14.78333",
+            "longitude": "-88.58333"
+        },
+        {
+            "city": "Lejaman\u00ed",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.36667",
+            "longitude": "-87.7"
+        },
+        {
+            "city": "La Zumbadora",
+            "region": "05",
+            "country": "HN",
+            "latitude": "15.01667",
+            "longitude": "-88.9"
+        },
+        {
+            "city": "La Virtud",
+            "region": "13",
+            "country": "HN",
+            "latitude": "14.05",
+            "longitude": "-88.7"
+        },
+        {
+            "city": "La Uni\u00f3n",
+            "region": "01",
+            "country": "HN",
+            "latitude": "15.71667",
+            "longitude": "-87"
+        },
+        {
+            "city": "La Uni\u00f3n",
+            "region": "13",
+            "country": "HN",
+            "latitude": "14.81667",
+            "longitude": "-88.4"
+        },
+        {
+            "city": "La Trinidad",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.1",
+            "longitude": "-87.2"
+        },
+        {
+            "city": "Las Vegas",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.01667",
+            "longitude": "-87.45"
+        },
+        {
+            "city": "Las Vegas",
+            "region": "16",
+            "country": "HN",
+            "latitude": "14.86667",
+            "longitude": "-88.06667"
+        },
+        {
+            "city": "Las Trojes",
+            "region": "07",
+            "country": "HN",
+            "latitude": "14.06667",
+            "longitude": "-85.98333"
+        },
+        {
+            "city": "Las Tejeras",
+            "region": "13",
+            "country": "HN",
+            "latitude": "14.8",
+            "longitude": "-88.6"
+        },
+        {
+            "city": "Las Lajas",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.78333",
+            "longitude": "-87.75"
+        },
+        {
+            "city": "San Jos\u00e9 de Las Conchas",
+            "region": "02",
+            "country": "HN",
+            "latitude": "13.32528",
+            "longitude": "-87.39556"
+        },
+        {
+            "city": "La Sarrosa",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.23333",
+            "longitude": "-87.83333"
+        },
+        {
+            "city": "Las \u00c1nimas",
+            "region": "07",
+            "country": "HN",
+            "latitude": "14.25",
+            "longitude": "-86.56667"
+        },
+        {
+            "city": "La Sabana",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.36667",
+            "longitude": "-87.93333"
+        },
+        {
+            "city": "La Rosa",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.35",
+            "longitude": "-87.06667"
+        },
+        {
+            "city": "La Playona",
+            "region": "05",
+            "country": "HN",
+            "latitude": "15.11667",
+            "longitude": "-88.98333"
+        },
+        {
+            "city": "La Paz",
+            "region": "12",
+            "country": "HN",
+            "latitude": "14.31667",
+            "longitude": "-87.68333"
+        },
+        {
+            "city": "Langue",
+            "region": "17",
+            "country": "HN",
+            "latitude": "13.62083",
+            "longitude": "-87.6525"
+        },
+        {
+            "city": "La Mina",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.31667",
+            "longitude": "-87.83333"
+        },
+        {
+            "city": "La Masica",
+            "region": "01",
+            "country": "HN",
+            "latitude": "15.61667",
+            "longitude": "-87.11667"
+        },
+        {
+            "city": "Laman\u00ed",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.2",
+            "longitude": "-87.61667"
+        },
+        {
+            "city": "La Lima",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.43333",
+            "longitude": "-87.91667"
+        },
+        {
+            "city": "La Libertad",
+            "region": "13",
+            "country": "HN",
+            "latitude": "14.8",
+            "longitude": "-88.58333"
+        },
+        {
+            "city": "La Libertad",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.75",
+            "longitude": "-87.61667"
+        },
+        {
+            "city": "La Labor",
+            "region": "14",
+            "country": "HN",
+            "latitude": "14.48333",
+            "longitude": "-89"
+        },
+        {
+            "city": "La Jutosa",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.63333",
+            "longitude": "-88"
+        },
+        {
+            "city": "La Huesa",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.58333",
+            "longitude": "-87.88333"
+        },
+        {
+            "city": "Laguna Verde",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.2",
+            "longitude": "-88.16667"
+        },
+        {
+            "city": "Laguna Seca",
+            "region": "15",
+            "country": "HN",
+            "latitude": "14.7",
+            "longitude": "-86.1"
+        },
+        {
+            "city": "La Guata",
+            "region": "15",
+            "country": "HN",
+            "latitude": "15.08333",
+            "longitude": "-86.38333"
+        },
+        {
+            "city": "La Guama",
+            "region": "06",
+            "country": "HN",
+            "latitude": "14.88333",
+            "longitude": "-87.93333"
+        },
+        {
+            "city": "La Guacamaya",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.25",
+            "longitude": "-87.8"
+        },
+        {
+            "city": "La Flecha",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.28333",
+            "longitude": "-88.48333"
+        },
+        {
+            "city": "La Estancia",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.28333",
+            "longitude": "-87.55"
+        },
+        {
+            "city": "La Estancia",
+            "region": "15",
+            "country": "HN",
+            "latitude": "15.05",
+            "longitude": "-86.35"
+        },
+        {
+            "city": "La Esperanza",
+            "region": "03",
+            "country": "HN",
+            "latitude": "15.63333",
+            "longitude": "-85.76667"
+        },
+        {
+            "city": "La Esperanza",
+            "region": "10",
+            "country": "HN",
+            "latitude": "14.3",
+            "longitude": "-88.18333"
+        },
+        {
+            "city": "La Ermita",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.46667",
+            "longitude": "-87.06667"
+        },
+        {
+            "city": "La Entrada",
+            "region": "05",
+            "country": "HN",
+            "latitude": "15.05",
+            "longitude": "-88.73333"
+        },
+        {
+            "city": "La Encarnaci\u00f3n",
+            "region": "14",
+            "country": "HN",
+            "latitude": "14.66667",
+            "longitude": "-89.08333"
+        },
+        {
+            "city": "La Criba",
+            "region": "17",
+            "country": "HN",
+            "latitude": "13.45361",
+            "longitude": "-87.41333"
+        },
+        {
+            "city": "La Concepci\u00f3n",
+            "region": "15",
+            "country": "HN",
+            "latitude": "14.7",
+            "longitude": "-86.23333"
+        },
+        {
+            "city": "La Ceiba",
+            "region": "01",
+            "country": "HN",
+            "latitude": "15.75971",
+            "longitude": "-86.78221"
+        },
+        {
+            "city": "La Brea",
+            "region": "03",
+            "country": "HN",
+            "latitude": "15.8",
+            "longitude": "-85.96667"
+        },
+        {
+            "city": "Jutiquile",
+            "region": "15",
+            "country": "HN",
+            "latitude": "14.71667",
+            "longitude": "-86.08333"
+        },
+        {
+            "city": "Juticalpa",
+            "region": "15",
+            "country": "HN",
+            "latitude": "14.65",
+            "longitude": "-86.2"
+        },
+        {
+            "city": "Jutiapa",
+            "region": "01",
+            "country": "HN",
+            "latitude": "15.76667",
+            "longitude": "-86.51667"
+        },
+        {
+            "city": "Jutiapa",
+            "region": "07",
+            "country": "HN",
+            "latitude": "13.98333",
+            "longitude": "-86.4"
+        },
+        {
+            "city": "Joconal",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.35444",
+            "longitude": "-88.63556"
+        },
+        {
+            "city": "Joc\u00f3n",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.28333",
+            "longitude": "-86.96667"
+        },
+        {
+            "city": "Jiquinlaca",
+            "region": "10",
+            "country": "HN",
+            "latitude": "14",
+            "longitude": "-88.35"
+        },
+        {
+            "city": "J\u00edcaro Gal\u00e1n",
+            "region": "17",
+            "country": "HN",
+            "latitude": "13.53167",
+            "longitude": "-87.43889"
+        },
+        {
+            "city": "Jes\u00fas de Otoro",
+            "region": "10",
+            "country": "HN",
+            "latitude": "14.48333",
+            "longitude": "-87.98333"
+        },
+        {
+            "city": "Jeric\u00f3",
+            "region": "03",
+            "country": "HN",
+            "latitude": "15.95",
+            "longitude": "-85.96667"
+        },
+        {
+            "city": "Jamalteca",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.7",
+            "longitude": "-87.58333"
+        },
+        {
+            "city": "Jacaleapa",
+            "region": "07",
+            "country": "HN",
+            "latitude": "14.01667",
+            "longitude": "-86.66667"
+        },
+        {
+            "city": "Iralaya",
+            "region": "09",
+            "country": "HN",
+            "latitude": "15",
+            "longitude": "-83.23333"
+        },
+        {
+            "city": "Intibuc\u00e1",
+            "region": "10",
+            "country": "HN",
+            "latitude": "14.31667",
+            "longitude": "-88.16667"
+        },
+        {
+            "city": "Ilama",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.06667",
+            "longitude": "-88.21667"
+        },
+        {
+            "city": "G\u00fcinope",
+            "region": "07",
+            "country": "HN",
+            "latitude": "13.88333",
+            "longitude": "-86.93333"
+        },
+        {
+            "city": "Guayape",
+            "region": "15",
+            "country": "HN",
+            "latitude": "14.71667",
+            "longitude": "-86.83333"
+        },
+        {
+            "city": "Guarizama",
+            "region": "15",
+            "country": "HN",
+            "latitude": "14.91667",
+            "longitude": "-86.33333"
+        },
+        {
+            "city": "Guanaja",
+            "region": "11",
+            "country": "HN",
+            "latitude": "16.4",
+            "longitude": "-85.9"
+        },
+        {
+            "city": "Gualjoco",
+            "region": "16",
+            "country": "HN",
+            "latitude": "14.95",
+            "longitude": "-88.23333"
+        },
+        {
+            "city": "Gualaco",
+            "region": "15",
+            "country": "HN",
+            "latitude": "15.05",
+            "longitude": "-86.05"
+        },
+        {
+            "city": "Guaimitas",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.5",
+            "longitude": "-87.71667"
+        },
+        {
+            "city": "Guaimaca",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.53333",
+            "longitude": "-86.81667"
+        },
+        {
+            "city": "Guacamaya",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.01667",
+            "longitude": "-88.15"
+        },
+        {
+            "city": "Gracias",
+            "region": "13",
+            "country": "HN",
+            "latitude": "14.58333",
+            "longitude": "-88.58333"
+        },
+        {
+            "city": "Goascor\u00e1n",
+            "region": "17",
+            "country": "HN",
+            "latitude": "13.58333",
+            "longitude": "-87.61667"
+        },
+        {
+            "city": "French Harbor",
+            "region": "11",
+            "country": "HN",
+            "latitude": "16.35",
+            "longitude": "-86.43333"
+        },
+        {
+            "city": "Francia",
+            "region": "03",
+            "country": "HN",
+            "latitude": "15.85",
+            "longitude": "-85.58333"
+        },
+        {
+            "city": "Florida",
+            "region": "05",
+            "country": "HN",
+            "latitude": "15.03333",
+            "longitude": "-88.83333"
+        },
+        {
+            "city": "Flores",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.28333",
+            "longitude": "-87.56667"
+        },
+        {
+            "city": "Esqu\u00edas",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.73333",
+            "longitude": "-87.36667"
+        },
+        {
+            "city": "Erandique",
+            "region": "13",
+            "country": "HN",
+            "latitude": "14.23333",
+            "longitude": "-88.46667"
+        },
+        {
+            "city": "El Zapotal del Norte",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.51667",
+            "longitude": "-88.05"
+        },
+        {
+            "city": "El Tular",
+            "region": "17",
+            "country": "HN",
+            "latitude": "13.46639",
+            "longitude": "-87.51528"
+        },
+        {
+            "city": "El Triunfo de la Cruz",
+            "region": "01",
+            "country": "HN",
+            "latitude": "15.76667",
+            "longitude": "-87.43333"
+        },
+        {
+            "city": "El Triunfo",
+            "region": "02",
+            "country": "HN",
+            "latitude": "13.11667",
+            "longitude": "-87"
+        },
+        {
+            "city": "El Tr\u00e1nsito",
+            "region": "14",
+            "country": "HN",
+            "latitude": "14.38333",
+            "longitude": "-88.91667"
+        },
+        {
+            "city": "El Tigre",
+            "region": "06",
+            "country": "HN",
+            "latitude": "14.93333",
+            "longitude": "-87.98333"
+        },
+        {
+            "city": "El Terrero",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.06667",
+            "longitude": "-87.06667"
+        },
+        {
+            "city": "El Tabl\u00f3n",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.03333",
+            "longitude": "-87.16667"
+        },
+        {
+            "city": "El Suyatal",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.51667",
+            "longitude": "-87.21667"
+        },
+        {
+            "city": "El Socorro",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.63333",
+            "longitude": "-87.91667"
+        },
+        {
+            "city": "El Sauce",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.53333",
+            "longitude": "-87.66667"
+        },
+        {
+            "city": "El Rusio",
+            "region": "15",
+            "country": "HN",
+            "latitude": "14.46667",
+            "longitude": "-86.36667"
+        },
+        {
+            "city": "El Rosario",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.8",
+            "longitude": "-87.76667"
+        },
+        {
+            "city": "El Rinc\u00f3n",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.58333",
+            "longitude": "-87.93333"
+        },
+        {
+            "city": "El Rancho",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.66667",
+            "longitude": "-87.95"
+        },
+        {
+            "city": "El Rancho",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.68333",
+            "longitude": "-87.5"
+        },
+        {
+            "city": "El Puente",
+            "region": "02",
+            "country": "HN",
+            "latitude": "13.28333",
+            "longitude": "-87.11667"
+        },
+        {
+            "city": "El Progreso",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.4",
+            "longitude": "-87.8"
+        },
+        {
+            "city": "El Porvenir",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.83333",
+            "longitude": "-87.93333"
+        },
+        {
+            "city": "El Porvenir",
+            "region": "01",
+            "country": "HN",
+            "latitude": "15.75",
+            "longitude": "-86.93333"
+        },
+        {
+            "city": "El Porvenir",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.58333",
+            "longitude": "-87.88333"
+        },
+        {
+            "city": "El Porvenir",
+            "region": "08",
+            "country": "HN",
+            "latitude": "13.76167",
+            "longitude": "-87.34583"
+        },
+        {
+            "city": "El Plan",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.28333",
+            "longitude": "-87.96667"
+        },
+        {
+            "city": "El Pino",
+            "region": "01",
+            "country": "HN",
+            "latitude": "15.7",
+            "longitude": "-86.93333"
+        },
+        {
+            "city": "El Perico",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.08333",
+            "longitude": "-88.1"
+        },
+        {
+            "city": "El Pedernal",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.7",
+            "longitude": "-87.11667"
+        },
+        {
+            "city": "El Para\u00edso",
+            "region": "07",
+            "country": "HN",
+            "latitude": "13.86667",
+            "longitude": "-86.55"
+        },
+        {
+            "city": "El Olivar",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.08333",
+            "longitude": "-87.88333"
+        },
+        {
+            "city": "El Ocot\u00f3n",
+            "region": "05",
+            "country": "HN",
+            "latitude": "15.03333",
+            "longitude": "-88.88333"
+        },
+        {
+            "city": "El Ocote",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.41667",
+            "longitude": "-86.56667"
+        },
+        {
+            "city": "El Obraje",
+            "region": "07",
+            "country": "HN",
+            "latitude": "14",
+            "longitude": "-86.43333"
+        },
+        {
+            "city": "El Obraje",
+            "region": "02",
+            "country": "HN",
+            "latitude": "13.15417",
+            "longitude": "-87.13083"
+        },
+        {
+            "city": "El N\u00edspero",
+            "region": "16",
+            "country": "HN",
+            "latitude": "14.76667",
+            "longitude": "-88.33333"
+        },
+        {
+            "city": "El Negrito",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.31667",
+            "longitude": "-87.7"
+        },
+        {
+            "city": "El Mochito",
+            "region": "16",
+            "country": "HN",
+            "latitude": "14.86667",
+            "longitude": "-88.08333"
+        },
+        {
+            "city": "El Milagro",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.4",
+            "longitude": "-87.96667"
+        },
+        {
+            "city": "El Mara\u00f1\u00f3n",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.4",
+            "longitude": "-88.05"
+        },
+        {
+            "city": "El Lolo",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.11667",
+            "longitude": "-87.26667"
+        },
+        {
+            "city": "El Llano",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.15",
+            "longitude": "-87.88333"
+        },
+        {
+            "city": "El Juncal",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.45",
+            "longitude": "-86.43333"
+        },
+        {
+            "city": "El\u00edxir",
+            "region": "03",
+            "country": "HN",
+            "latitude": "15.48333",
+            "longitude": "-86.3"
+        },
+        {
+            "city": "El Guayabito",
+            "region": "15",
+            "country": "HN",
+            "latitude": "14.83333",
+            "longitude": "-86.03333"
+        },
+        {
+            "city": "El Guapinol",
+            "region": "08",
+            "country": "HN",
+            "latitude": "13.76667",
+            "longitude": "-87.46667"
+        },
+        {
+            "city": "El Guantillo",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.6",
+            "longitude": "-87.3"
+        },
+        {
+            "city": "El Guante",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.55",
+            "longitude": "-87.1"
+        },
+        {
+            "city": "El Esca\u00f1o de Tepale",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.75",
+            "longitude": "-87.06667"
+        },
+        {
+            "city": "El Escanito",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.66667",
+            "longitude": "-87.1"
+        },
+        {
+            "city": "El Cubolero",
+            "region": "17",
+            "country": "HN",
+            "latitude": "13.46667",
+            "longitude": "-87.66667"
+        },
+        {
+            "city": "El Corpus",
+            "region": "05",
+            "country": "HN",
+            "latitude": "14.7",
+            "longitude": "-88.91667"
+        },
+        {
+            "city": "Corpus",
+            "region": "02",
+            "country": "HN",
+            "latitude": "13.28889",
+            "longitude": "-87.03472"
+        },
+        {
+            "city": "El Corozal",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.06667",
+            "longitude": "-88.61667"
+        },
+        {
+            "city": "El Ciruelo",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.3",
+            "longitude": "-88.5"
+        },
+        {
+            "city": "El Chimbo",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.13333",
+            "longitude": "-87.11667"
+        },
+        {
+            "city": "El Chichicaste",
+            "region": "07",
+            "country": "HN",
+            "latitude": "14.06667",
+            "longitude": "-86.3"
+        },
+        {
+            "city": "El Benque",
+            "region": "07",
+            "country": "HN",
+            "latitude": "14.03333",
+            "longitude": "-86.46667"
+        },
+        {
+            "city": "El B\u00e1lsamo",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.06667",
+            "longitude": "-87.46667"
+        },
+        {
+            "city": "El Agua Dulcita",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.7",
+            "longitude": "-87.75"
+        },
+        {
+            "city": "El Achiotal",
+            "region": "13",
+            "country": "HN",
+            "latitude": "14.08333",
+            "longitude": "-88.75"
+        },
+        {
+            "city": "Duyure",
+            "region": "02",
+            "country": "HN",
+            "latitude": "13.63333",
+            "longitude": "-86.81667"
+        },
+        {
+            "city": "Dulce Nombre de Culm\u00ed",
+            "region": "15",
+            "country": "HN",
+            "latitude": "15.1",
+            "longitude": "-85.53333"
+        },
+        {
+            "city": "Dulce Nombre",
+            "region": "05",
+            "country": "HN",
+            "latitude": "14.85",
+            "longitude": "-88.83333"
+        },
+        {
+            "city": "Dolores",
+            "region": "05",
+            "country": "HN",
+            "latitude": "14.86667",
+            "longitude": "-88.83333"
+        },
+        {
+            "city": "Danl\u00ed",
+            "region": "07",
+            "country": "HN",
+            "latitude": "14.03333",
+            "longitude": "-86.58333"
+        },
+        {
+            "city": "Cuyamel",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.66667",
+            "longitude": "-88.2"
+        },
+        {
+            "city": "Cuyal\u00ed",
+            "region": "07",
+            "country": "HN",
+            "latitude": "13.88333",
+            "longitude": "-86.55"
+        },
+        {
+            "city": "Cusuna",
+            "region": "03",
+            "country": "HN",
+            "latitude": "15.85",
+            "longitude": "-85.23333"
+        },
+        {
+            "city": "Cucuyagua",
+            "region": "05",
+            "country": "HN",
+            "latitude": "14.65",
+            "longitude": "-88.86667"
+        },
+        {
+            "city": "Coyoles Central",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.4",
+            "longitude": "-86.66667"
+        },
+        {
+            "city": "Correderos",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.41667",
+            "longitude": "-88.45"
+        },
+        {
+            "city": "Corqu\u00edn",
+            "region": "05",
+            "country": "HN",
+            "latitude": "14.56667",
+            "longitude": "-88.86667"
+        },
+        {
+            "city": "Corozal",
+            "region": "01",
+            "country": "HN",
+            "latitude": "15.8",
+            "longitude": "-86.71667"
+        },
+        {
+            "city": "Corocito",
+            "region": "03",
+            "country": "HN",
+            "latitude": "15.75",
+            "longitude": "-85.78333"
+        },
+        {
+            "city": "Cop\u00e1n",
+            "region": "05",
+            "country": "HN",
+            "latitude": "14.83333",
+            "longitude": "-89.15"
+        },
+        {
+            "city": "Concordia",
+            "region": "15",
+            "country": "HN",
+            "latitude": "14.61667",
+            "longitude": "-86.65"
+        },
+        {
+            "city": "Concepci\u00f3n del Sur",
+            "region": "16",
+            "country": "HN",
+            "latitude": "14.8",
+            "longitude": "-88.16667"
+        },
+        {
+            "city": "Concepci\u00f3n de la Barranca",
+            "region": "05",
+            "country": "HN",
+            "latitude": "15.16667",
+            "longitude": "-88.71667"
+        },
+        {
+            "city": "Concepci\u00f3n de Guasistagua",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.6",
+            "longitude": "-87.65"
+        },
+        {
+            "city": "Comayagua",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.45",
+            "longitude": "-87.63333"
+        },
+        {
+            "city": "Cololaca",
+            "region": "13",
+            "country": "HN",
+            "latitude": "14.3",
+            "longitude": "-88.88333"
+        },
+        {
+            "city": "Cofrad\u00eda",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.4",
+            "longitude": "-88.15"
+        },
+        {
+            "city": "Cofrad\u00eda",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.21667",
+            "longitude": "-87.18333"
+        },
+        {
+            "city": "Chotepe",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.41667",
+            "longitude": "-87.98333"
+        },
+        {
+            "city": "Ciudad Choluteca",
+            "region": "02",
+            "country": "HN",
+            "latitude": "13.30028",
+            "longitude": "-87.19083"
+        },
+        {
+            "city": "Choloma",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.61444",
+            "longitude": "-87.95302"
+        },
+        {
+            "city": "Chivana",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.75",
+            "longitude": "-87.98333"
+        },
+        {
+            "city": "Chalmeca",
+            "region": "05",
+            "country": "HN",
+            "latitude": "15.1",
+            "longitude": "-88.68333"
+        },
+        {
+            "city": "Cerro Grande",
+            "region": "08",
+            "country": "HN",
+            "latitude": "13.81667",
+            "longitude": "-87.25"
+        },
+        {
+            "city": "Cerro Blanco",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.66667",
+            "longitude": "-87.78333"
+        },
+        {
+            "city": "Ceguaca",
+            "region": "16",
+            "country": "HN",
+            "latitude": "14.8",
+            "longitude": "-88.2"
+        },
+        {
+            "city": "Cedros",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.6",
+            "longitude": "-87.11667"
+        },
+        {
+            "city": "Casa Quemada",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.26667",
+            "longitude": "-88.55"
+        },
+        {
+            "city": "Casa Quemada",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.11667",
+            "longitude": "-88.08333"
+        },
+        {
+            "city": "Carbajales",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.51667",
+            "longitude": "-86.35"
+        },
+        {
+            "city": "Cane",
+            "region": "12",
+            "country": "HN",
+            "latitude": "14.28333",
+            "longitude": "-87.66667"
+        },
+        {
+            "city": "Ca\u00f1averal",
+            "region": "06",
+            "country": "HN",
+            "latitude": "14.98333",
+            "longitude": "-88.01667"
+        },
+        {
+            "city": "Campamento",
+            "region": "15",
+            "country": "HN",
+            "latitude": "14.55",
+            "longitude": "-86.65"
+        },
+        {
+            "city": "Camasca",
+            "region": "10",
+            "country": "HN",
+            "latitude": "14",
+            "longitude": "-88.38333"
+        },
+        {
+            "city": "Camalote",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.33333",
+            "longitude": "-88.33333"
+        },
+        {
+            "city": "Callejones",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.16667",
+            "longitude": "-88.65"
+        },
+        {
+            "city": "Buenos Aires",
+            "region": "05",
+            "country": "HN",
+            "latitude": "15.03333",
+            "longitude": "-88.96667"
+        },
+        {
+            "city": "Brus Laguna",
+            "region": "09",
+            "country": "HN",
+            "latitude": "15.75",
+            "longitude": "-84.48333"
+        },
+        {
+            "city": "Bonito Oriental",
+            "region": "03",
+            "country": "HN",
+            "latitude": "15.73333",
+            "longitude": "-85.73333"
+        },
+        {
+            "city": "Berl\u00edn",
+            "region": "16",
+            "country": "HN",
+            "latitude": "14.83333",
+            "longitude": "-88.5"
+        },
+        {
+            "city": "Bel\u00e9n Gualcho",
+            "region": "14",
+            "country": "HN",
+            "latitude": "14.48333",
+            "longitude": "-88.8"
+        },
+        {
+            "city": "Bejuco",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.13333",
+            "longitude": "-87.93333"
+        },
+        {
+            "city": "Barra Patuca",
+            "region": "09",
+            "country": "HN",
+            "latitude": "15.8",
+            "longitude": "-84.28333"
+        },
+        {
+            "city": "Baracoa",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.76667",
+            "longitude": "-87.85"
+        },
+        {
+            "city": "B\u00e1lsamo Oriental",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.48333",
+            "longitude": "-86.33333"
+        },
+        {
+            "city": "Baja Mar",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.88333",
+            "longitude": "-87.85"
+        },
+        {
+            "city": "Azacualpa",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.34333",
+            "longitude": "-88.55139"
+        },
+        {
+            "city": "Azacualpa",
+            "region": "16",
+            "country": "HN",
+            "latitude": "14.71667",
+            "longitude": "-88.1"
+        },
+        {
+            "city": "Ayapa",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.1",
+            "longitude": "-87.15"
+        },
+        {
+            "city": "Auka",
+            "region": "09",
+            "country": "HN",
+            "latitude": "14.93333",
+            "longitude": "-83.83333"
+        },
+        {
+            "city": "Auas",
+            "region": "09",
+            "country": "HN",
+            "latitude": "15.48333",
+            "longitude": "-84.33333"
+        },
+        {
+            "city": "Atima",
+            "region": "16",
+            "country": "HN",
+            "latitude": "14.93333",
+            "longitude": "-88.48333"
+        },
+        {
+            "city": "Atenas de San Crist\u00f3bal",
+            "region": "01",
+            "country": "HN",
+            "latitude": "15.68333",
+            "longitude": "-87.31667"
+        },
+        {
+            "city": "Armenta",
+            "region": "06",
+            "country": "HN",
+            "latitude": "15.5",
+            "longitude": "-88.05"
+        },
+        {
+            "city": "Armenia",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.46667",
+            "longitude": "-86.36667"
+        },
+        {
+            "city": "Arizona",
+            "region": "01",
+            "country": "HN",
+            "latitude": "15.63333",
+            "longitude": "-87.31667"
+        },
+        {
+            "city": "Arim\u00eds",
+            "region": "15",
+            "country": "HN",
+            "latitude": "14.78333",
+            "longitude": "-86"
+        },
+        {
+            "city": "Arenal",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.35",
+            "longitude": "-86.83333"
+        },
+        {
+            "city": "Araul\u00ed",
+            "region": "07",
+            "country": "HN",
+            "latitude": "13.95",
+            "longitude": "-86.55"
+        },
+        {
+            "city": "Aramecina",
+            "region": "17",
+            "country": "HN",
+            "latitude": "13.74222",
+            "longitude": "-87.71028"
+        },
+        {
+            "city": "Arada",
+            "region": "16",
+            "country": "HN",
+            "latitude": "14.85",
+            "longitude": "-88.3"
+        },
+        {
+            "city": "Antigua Ocotepeque",
+            "region": "14",
+            "country": "HN",
+            "latitude": "14.4",
+            "longitude": "-89.2"
+        },
+        {
+            "city": "Amapala",
+            "region": "17",
+            "country": "HN",
+            "latitude": "13.29222",
+            "longitude": "-87.65389"
+        },
+        {
+            "city": "Ajuterique",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.38333",
+            "longitude": "-87.7"
+        },
+        {
+            "city": "Aguas del Padre",
+            "region": "04",
+            "country": "HN",
+            "latitude": "14.56667",
+            "longitude": "-87.88333"
+        },
+        {
+            "city": "Agualote",
+            "region": "16",
+            "country": "HN",
+            "latitude": "15.33528",
+            "longitude": "-88.55306"
+        },
+        {
+            "city": "Agua Fr\u00eda",
+            "region": "17",
+            "country": "HN",
+            "latitude": "13.46889",
+            "longitude": "-87.55111"
+        },
+        {
+            "city": "Agua Caliente",
+            "region": "05",
+            "country": "HN",
+            "latitude": "14.88333",
+            "longitude": "-88.81667"
+        },
+        {
+            "city": "Agua Blanca Sur",
+            "region": "18",
+            "country": "HN",
+            "latitude": "15.25",
+            "longitude": "-87.88333"
+        },
+        {
+            "city": "Agua Azul Rancho",
+            "region": "06",
+            "country": "HN",
+            "latitude": "14.9",
+            "longitude": "-87.95"
+        },
+        {
+            "city": "Agua Azul",
+            "region": "06",
+            "country": "HN",
+            "latitude": "14.91667",
+            "longitude": "-87.96667"
+        },
+        {
+            "city": "Agalteca",
+            "region": "08",
+            "country": "HN",
+            "latitude": "14.45",
+            "longitude": "-87.26667"
+        },
+        {
+            "city": "Tex\u00edguat",
+            "region": "07",
+            "country": "HN",
+            "latitude": "13.64972",
+            "longitude": "-87.0225"
+        }
+    ]
+}

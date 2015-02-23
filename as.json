@@ -1,0 +1,76 @@
+{
+    "country": "American Samoa",
+    "code": "AS",
+    "cities": [
+        {
+            "city": "A\u016ba",
+            "region": "010",
+            "country": "AS",
+            "latitude": "-14.27611",
+            "longitude": "-170.66389"
+        },
+        {
+            "city": "Vaitogi",
+            "region": "050",
+            "country": "AS",
+            "latitude": "-14.35889",
+            "longitude": "-170.73472"
+        },
+        {
+            "city": "Vailoatai",
+            "region": "00",
+            "country": "AS",
+            "latitude": "-14.3552",
+            "longitude": "-170.78329"
+        },
+        {
+            "city": "T\u0101funa",
+            "region": "050",
+            "country": "AS",
+            "latitude": "-14.33583",
+            "longitude": "-170.72"
+        },
+        {
+            "city": "Faleniu",
+            "region": "050",
+            "country": "AS",
+            "latitude": "-14.3325",
+            "longitude": "-170.74444"
+        },
+        {
+            "city": "Fagatogo",
+            "region": "010",
+            "country": "AS",
+            "latitude": "-14.2825",
+            "longitude": "-170.69"
+        },
+        {
+            "city": "Leone",
+            "region": "050",
+            "country": "AS",
+            "latitude": "-14.34389",
+            "longitude": "-170.785"
+        },
+        {
+            "city": "Malaeimi",
+            "region": "050",
+            "country": "AS",
+            "latitude": "-14.32278",
+            "longitude": "-170.73389"
+        },
+        {
+            "city": "Mapusagafou",
+            "region": "050",
+            "country": "AS",
+            "latitude": "-14.33056",
+            "longitude": "-170.75278"
+        },
+        {
+            "city": "Pago Pago",
+            "region": "010",
+            "country": "AS",
+            "latitude": "-14.27806",
+            "longitude": "-170.7025"
+        }
+    ]
+}

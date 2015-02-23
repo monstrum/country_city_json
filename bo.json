@@ -1,0 +1,972 @@
+{
+    "country": "Bolivia",
+    "code": "BO",
+    "cities": [
+        {
+            "city": "San Pedro",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-18.28333",
+            "longitude": "-59.81667"
+        },
+        {
+            "city": "San Mat\u00edas",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-16.36667",
+            "longitude": "-58.4"
+        },
+        {
+            "city": "Robor\u00e9",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-18.33333",
+            "longitude": "-59.75"
+        },
+        {
+            "city": "Puerto Quijarro",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-17.78333",
+            "longitude": "-57.76667"
+        },
+        {
+            "city": "Yampar\u00e1ez",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-19.18722",
+            "longitude": "-65.12583"
+        },
+        {
+            "city": "Yacuiba",
+            "region": "09",
+            "country": "BO",
+            "latitude": "-22.03333",
+            "longitude": "-63.68333"
+        },
+        {
+            "city": "Warnes",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-17.5",
+            "longitude": "-63.16667"
+        },
+        {
+            "city": "Viloco",
+            "region": "04",
+            "country": "BO",
+            "latitude": "-16.95",
+            "longitude": "-67.55"
+        },
+        {
+            "city": "Villaz\u00f3n",
+            "region": "07",
+            "country": "BO",
+            "latitude": "-22.08659",
+            "longitude": "-65.59422"
+        },
+        {
+            "city": "Villa Yapacan\u00ed",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-17.4",
+            "longitude": "-63.83333"
+        },
+        {
+            "city": "Villa Serrano",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-19.11667",
+            "longitude": "-64.33333"
+        },
+        {
+            "city": "Yotala",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-19.15861",
+            "longitude": "-65.26417"
+        },
+        {
+            "city": "Villamontes",
+            "region": "09",
+            "country": "BO",
+            "latitude": "-21.25",
+            "longitude": "-63.5"
+        },
+        {
+            "city": "Vallegrande",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-18.48972",
+            "longitude": "-64.10694"
+        },
+        {
+            "city": "Uyuni",
+            "region": "07",
+            "country": "BO",
+            "latitude": "-20.45967",
+            "longitude": "-66.82503"
+        },
+        {
+            "city": "Urubich\u00e1",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-15.38333",
+            "longitude": "-62.95"
+        },
+        {
+            "city": "Tupiza",
+            "region": "07",
+            "country": "BO",
+            "latitude": "-21.45",
+            "longitude": "-65.71667"
+        },
+        {
+            "city": "La Santisima Trinidad",
+            "region": "03",
+            "country": "BO",
+            "latitude": "-14.83333",
+            "longitude": "-64.9"
+        },
+        {
+            "city": "Totoral",
+            "region": "05",
+            "country": "BO",
+            "latitude": "-18.51667",
+            "longitude": "-66.86667"
+        },
+        {
+            "city": "Totora",
+            "region": "02",
+            "country": "BO",
+            "latitude": "-17.72662",
+            "longitude": "-65.1932"
+        },
+        {
+            "city": "Tomina",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-19.18333",
+            "longitude": "-64.53333"
+        },
+        {
+            "city": "Tom\u00e1s Barr\u00f3n",
+            "region": "04",
+            "country": "BO",
+            "latitude": "-17.58333",
+            "longitude": "-67.51667"
+        },
+        {
+            "city": "Tiahuanaco",
+            "region": "04",
+            "country": "BO",
+            "latitude": "-16.55",
+            "longitude": "-68.7"
+        },
+        {
+            "city": "Tarija",
+            "region": "09",
+            "country": "BO",
+            "latitude": "-21.53549",
+            "longitude": "-64.72956"
+        },
+        {
+            "city": "Tarata",
+            "region": "02",
+            "country": "BO",
+            "latitude": "-17.61667",
+            "longitude": "-66.01667"
+        },
+        {
+            "city": "Tarabuco",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-19.16667",
+            "longitude": "-64.91667"
+        },
+        {
+            "city": "Sucre",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-19.03332",
+            "longitude": "-65.26274"
+        },
+        {
+            "city": "Sotomayor",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-19.34",
+            "longitude": "-64.99917"
+        },
+        {
+            "city": "Sorata",
+            "region": "04",
+            "country": "BO",
+            "latitude": "-15.76667",
+            "longitude": "-68.63333"
+        },
+        {
+            "city": "Sipe Sipe",
+            "region": "02",
+            "country": "BO",
+            "latitude": "-17.45",
+            "longitude": "-66.38333"
+        },
+        {
+            "city": "Sapirangui",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-19.93333",
+            "longitude": "-63.78333"
+        },
+        {
+            "city": "Santiago del Torno",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-17.98333",
+            "longitude": "-63.38333"
+        },
+        {
+            "city": "Santa Rosa",
+            "region": "03",
+            "country": "BO",
+            "latitude": "-14.16667",
+            "longitude": "-66.88333"
+        },
+        {
+            "city": "Santa Rita",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-17.96667",
+            "longitude": "-63.35"
+        },
+        {
+            "city": "Santa Elena",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-20.55",
+            "longitude": "-64.78333"
+        },
+        {
+            "city": "Santa Cruz de la Sierra",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-17.8",
+            "longitude": "-63.16667"
+        },
+        {
+            "city": "Santa B\u00e1rbara",
+            "region": "07",
+            "country": "BO",
+            "latitude": "-20.91667",
+            "longitude": "-66.05"
+        },
+        {
+            "city": "San Ram\u00f3n",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-14.48333",
+            "longitude": "-63.15"
+        },
+        {
+            "city": "San Ram\u00f3n",
+            "region": "03",
+            "country": "BO",
+            "latitude": "-13.28333",
+            "longitude": "-64.71667"
+        },
+        {
+            "city": "San Pedro",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-19.61667",
+            "longitude": "-64.5"
+        },
+        {
+            "city": "San Pedro",
+            "region": "04",
+            "country": "BO",
+            "latitude": "-16.23333",
+            "longitude": "-68.85"
+        },
+        {
+            "city": "San Pablo",
+            "region": "04",
+            "country": "BO",
+            "latitude": "-16.21667",
+            "longitude": "-68.83333"
+        },
+        {
+            "city": "San Julian",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-17.78333",
+            "longitude": "-62.86667"
+        },
+        {
+            "city": "San Juan del Surut\u00fa",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-17.48333",
+            "longitude": "-63.7"
+        },
+        {
+            "city": "San Juan",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-21.26667",
+            "longitude": "-65.3"
+        },
+        {
+            "city": "San Ignacio de Velasco",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-16.36667",
+            "longitude": "-60.95"
+        },
+        {
+            "city": "San Francisco",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-20.71667",
+            "longitude": "-64.7"
+        },
+        {
+            "city": "San Carlos",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-17.4",
+            "longitude": "-63.75"
+        },
+        {
+            "city": "San Borja",
+            "region": "03",
+            "country": "BO",
+            "latitude": "-14.81667",
+            "longitude": "-66.85"
+        },
+        {
+            "city": "Samaipata",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-18.15",
+            "longitude": "-63.86667"
+        },
+        {
+            "city": "Salitre",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-20.88333",
+            "longitude": "-64.91667"
+        },
+        {
+            "city": "Rurrenabaque",
+            "region": "03",
+            "country": "BO",
+            "latitude": "-14.44125",
+            "longitude": "-67.52781"
+        },
+        {
+            "city": "Rosario del Ingre",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-20.58333",
+            "longitude": "-63.9"
+        },
+        {
+            "city": "Riberalta",
+            "region": "03",
+            "country": "BO",
+            "latitude": "-10.98333",
+            "longitude": "-66.1"
+        },
+        {
+            "city": "Reyes",
+            "region": "03",
+            "country": "BO",
+            "latitude": "-14.31667",
+            "longitude": "-67.38333"
+        },
+        {
+            "city": "Quime",
+            "region": "04",
+            "country": "BO",
+            "latitude": "-16.98333",
+            "longitude": "-67.21667"
+        },
+        {
+            "city": "Punata",
+            "region": "02",
+            "country": "BO",
+            "latitude": "-17.55",
+            "longitude": "-65.83333"
+        },
+        {
+            "city": "Pulqui",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-19.23333",
+            "longitude": "-65.21667"
+        },
+        {
+            "city": "Puesto de Pailas",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-17.65",
+            "longitude": "-62.8"
+        },
+        {
+            "city": "Presto",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-18.92944",
+            "longitude": "-64.93917"
+        },
+        {
+            "city": "Potos\u00ed",
+            "region": "07",
+            "country": "BO",
+            "latitude": "-19.58361",
+            "longitude": "-65.75306"
+        },
+        {
+            "city": "Potolo",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-19.00556",
+            "longitude": "-65.52861"
+        },
+        {
+            "city": "Portachuelo",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-17.35",
+            "longitude": "-63.4"
+        },
+        {
+            "city": "Poop\u00f3",
+            "region": "05",
+            "country": "BO",
+            "latitude": "-18.36667",
+            "longitude": "-66.96667"
+        },
+        {
+            "city": "Pocpo",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-18.83333",
+            "longitude": "-65.36667"
+        },
+        {
+            "city": "Piocera",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-18.75",
+            "longitude": "-65.4"
+        },
+        {
+            "city": "Pilaya",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-20.95",
+            "longitude": "-64.75"
+        },
+        {
+            "city": "Patacamaya",
+            "region": "04",
+            "country": "BO",
+            "latitude": "-17.23333",
+            "longitude": "-67.91667"
+        },
+        {
+            "city": "Pail\u00f3n",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-17.65",
+            "longitude": "-62.75"
+        },
+        {
+            "city": "Padilla",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-19.3",
+            "longitude": "-64.3"
+        },
+        {
+            "city": "Oruro",
+            "region": "05",
+            "country": "BO",
+            "latitude": "-17.98333",
+            "longitude": "-67.15"
+        },
+        {
+            "city": "Okinawa N\u00famero Uno",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-17.23333",
+            "longitude": "-62.81667"
+        },
+        {
+            "city": "Montero",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-17.33333",
+            "longitude": "-63.25"
+        },
+        {
+            "city": "Monteagudo",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-19.81667",
+            "longitude": "-63.98333"
+        },
+        {
+            "city": "Mojotoro",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-18.91667",
+            "longitude": "-65.06667"
+        },
+        {
+            "city": "Mojocoya",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-18.76333",
+            "longitude": "-64.62139"
+        },
+        {
+            "city": "Mizque",
+            "region": "02",
+            "country": "BO",
+            "latitude": "-17.94101",
+            "longitude": "-65.34016"
+        },
+        {
+            "city": "Mineros",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-17.11667",
+            "longitude": "-63.23333"
+        },
+        {
+            "city": "Maragua",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-19.04611",
+            "longitude": "-65.42861"
+        },
+        {
+            "city": "Mapiri",
+            "region": "04",
+            "country": "BO",
+            "latitude": "-15.25",
+            "longitude": "-68.16667"
+        },
+        {
+            "city": "Mairana",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-18.11667",
+            "longitude": "-63.93333"
+        },
+        {
+            "city": "Machacamarca",
+            "region": "05",
+            "country": "BO",
+            "latitude": "-18.16667",
+            "longitude": "-67.03333"
+        },
+        {
+            "city": "Los Negros",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-17.73333",
+            "longitude": "-63.43333"
+        },
+        {
+            "city": "Llallagua",
+            "region": "07",
+            "country": "BO",
+            "latitude": "-18.41667",
+            "longitude": "-66.63333"
+        },
+        {
+            "city": "Lintaca",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-20.76667",
+            "longitude": "-65.33333"
+        },
+        {
+            "city": "Limoncito",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-18.01667",
+            "longitude": "-63.4"
+        },
+        {
+            "city": "Las Carreras",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-21.25",
+            "longitude": "-65.28333"
+        },
+        {
+            "city": "Las Carreras",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-21.21667",
+            "longitude": "-65.28333"
+        },
+        {
+            "city": "La Paz",
+            "region": "04",
+            "country": "BO",
+            "latitude": "-16.5",
+            "longitude": "-68.15"
+        },
+        {
+            "city": "Lahuachaca",
+            "region": "04",
+            "country": "BO",
+            "latitude": "-17.36667",
+            "longitude": "-67.66667"
+        },
+        {
+            "city": "La Cueva",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-20.93333",
+            "longitude": "-64.9"
+        },
+        {
+            "city": "La B\u00e9lgica",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-17.55",
+            "longitude": "-63.21667"
+        },
+        {
+            "city": "Jorochito",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-18.05",
+            "longitude": "-63.43333"
+        },
+        {
+            "city": "Isla del Sol",
+            "region": "04",
+            "country": "BO",
+            "latitude": "-16.01667",
+            "longitude": "-69.15"
+        },
+        {
+            "city": "Irpa Irpa",
+            "region": "02",
+            "country": "BO",
+            "latitude": "-17.71667",
+            "longitude": "-66.26667"
+        },
+        {
+            "city": "Huayllas",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-19.16972",
+            "longitude": "-65.32611"
+        },
+        {
+            "city": "Huatajata",
+            "region": "04",
+            "country": "BO",
+            "latitude": "-16.2",
+            "longitude": "-68.68333"
+        },
+        {
+            "city": "Huata",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-19.01667",
+            "longitude": "-65.25"
+        },
+        {
+            "city": "Huanuni",
+            "region": "05",
+            "country": "BO",
+            "latitude": "-18.26667",
+            "longitude": "-66.85"
+        },
+        {
+            "city": "Huajlaya",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-20.6",
+            "longitude": "-64.55"
+        },
+        {
+            "city": "Guayaramer\u00edn",
+            "region": "03",
+            "country": "BO",
+            "latitude": "-10.83676",
+            "longitude": "-65.36136"
+        },
+        {
+            "city": "Entre R\u00edos",
+            "region": "09",
+            "country": "BO",
+            "latitude": "-21.53333",
+            "longitude": "-64.2"
+        },
+        {
+            "city": "Culpina",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-20.83333",
+            "longitude": "-64.96667"
+        },
+        {
+            "city": "Cotoca",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-17.81667",
+            "longitude": "-63.05"
+        },
+        {
+            "city": "Coroico",
+            "region": "04",
+            "country": "BO",
+            "latitude": "-16.18889",
+            "longitude": "-67.72713"
+        },
+        {
+            "city": "Coripata",
+            "region": "04",
+            "country": "BO",
+            "latitude": "-16.3",
+            "longitude": "-67.6"
+        },
+        {
+            "city": "Copacabana",
+            "region": "04",
+            "country": "BO",
+            "latitude": "-16.15",
+            "longitude": "-69.08333"
+        },
+        {
+            "city": "Concepci\u00f3n",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-16.43333",
+            "longitude": "-60.9"
+        },
+        {
+            "city": "Comarapa",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-17.9",
+            "longitude": "-64.48333"
+        },
+        {
+            "city": "Colquiri",
+            "region": "04",
+            "country": "BO",
+            "latitude": "-17.41667",
+            "longitude": "-67.13333"
+        },
+        {
+            "city": "Colquechaca",
+            "region": "07",
+            "country": "BO",
+            "latitude": "-18.66667",
+            "longitude": "-66.01667"
+        },
+        {
+            "city": "Colomi",
+            "region": "02",
+            "country": "BO",
+            "latitude": "-17.35",
+            "longitude": "-65.86667"
+        },
+        {
+            "city": "Colchani",
+            "region": "07",
+            "country": "BO",
+            "latitude": "-20.3",
+            "longitude": "-66.93333"
+        },
+        {
+            "city": "Colchani",
+            "region": "02",
+            "country": "BO",
+            "latitude": "-17.31667",
+            "longitude": "-66.71667"
+        },
+        {
+            "city": "Cochabamba",
+            "region": "02",
+            "country": "BO",
+            "latitude": "-17.3895",
+            "longitude": "-66.1568"
+        },
+        {
+            "city": "Cobija",
+            "region": "06",
+            "country": "BO",
+            "latitude": "-11.02671",
+            "longitude": "-68.76918"
+        },
+        {
+            "city": "Cliza",
+            "region": "02",
+            "country": "BO",
+            "latitude": "-17.6",
+            "longitude": "-65.93333"
+        },
+        {
+            "city": "Chuqui Chuqui",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-18.81667",
+            "longitude": "-65.06667"
+        },
+        {
+            "city": "Chulumani",
+            "region": "04",
+            "country": "BO",
+            "latitude": "-16.40962",
+            "longitude": "-67.52626"
+        },
+        {
+            "city": "Chimor\u00e9",
+            "region": "02",
+            "country": "BO",
+            "latitude": "-16.98333",
+            "longitude": "-65.13333"
+        },
+        {
+            "city": "Chaunaca",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-19.01667",
+            "longitude": "-65.46667"
+        },
+        {
+            "city": "Charagua",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-19.8",
+            "longitude": "-63.21667"
+        },
+        {
+            "city": "Challapata",
+            "region": "05",
+            "country": "BO",
+            "latitude": "-18.9",
+            "longitude": "-66.76667"
+        },
+        {
+            "city": "Carandayti",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-20.75",
+            "longitude": "-63.06667"
+        },
+        {
+            "city": "Capinota",
+            "region": "02",
+            "country": "BO",
+            "latitude": "-17.71667",
+            "longitude": "-66.23333"
+        },
+        {
+            "city": "Camiri",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-20.05",
+            "longitude": "-63.51667"
+        },
+        {
+            "city": "Camatindi",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-20.98333",
+            "longitude": "-63.43333"
+        },
+        {
+            "city": "Camargo",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-20.65",
+            "longitude": "-65.21667"
+        },
+        {
+            "city": "Buena Vista",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-17.45",
+            "longitude": "-63.66667"
+        },
+        {
+            "city": "Boyuibe",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-20.41667",
+            "longitude": "-63.28333"
+        },
+        {
+            "city": "Betanzos",
+            "region": "07",
+            "country": "BO",
+            "latitude": "-19.55056",
+            "longitude": "-65.45333"
+        },
+        {
+            "city": "Azurduy",
+            "region": "01",
+            "country": "BO",
+            "latitude": "-20.1",
+            "longitude": "-64.41667"
+        },
+        {
+            "city": "Atocha",
+            "region": "07",
+            "country": "BO",
+            "latitude": "-20.93333",
+            "longitude": "-66.23333"
+        },
+        {
+            "city": "Ascensi\u00f3n",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-15.7",
+            "longitude": "-63.08333"
+        },
+        {
+            "city": "Arani",
+            "region": "02",
+            "country": "BO",
+            "latitude": "-17.56667",
+            "longitude": "-65.76667"
+        },
+        {
+            "city": "Aiquile",
+            "region": "02",
+            "country": "BO",
+            "latitude": "-18.20408",
+            "longitude": "-65.18068"
+        },
+        {
+            "city": "Achacachi",
+            "region": "04",
+            "country": "BO",
+            "latitude": "-16.05",
+            "longitude": "-68.68333"
+        },
+        {
+            "city": "Abap\u00f3",
+            "region": "08",
+            "country": "BO",
+            "latitude": "-18.83333",
+            "longitude": "-63.46667"
+        }
+    ]
+}

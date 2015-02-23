@@ -1,0 +1,13 @@
+{
+    "country": "Falkland Islands (Malvinas)",
+    "code": "FK",
+    "cities": [
+        {
+            "city": "Stanley",
+            "region": "00",
+            "country": "FK",
+            "latitude": "-51.7",
+            "longitude": "-57.85"
+        }
+    ]
+}

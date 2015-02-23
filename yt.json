@@ -1,0 +1,111 @@
+{
+    "country": "Mayotte",
+    "code": "YT",
+    "cities": [
+        {
+            "city": "Mamoudzou",
+            "region": "97611",
+            "country": "YT",
+            "latitude": "-12.77944",
+            "longitude": "45.22722"
+        },
+        {
+            "city": "Bandraboua",
+            "region": "97602",
+            "country": "YT",
+            "latitude": "-12.70167",
+            "longitude": "45.12056"
+        },
+        {
+            "city": "Mtsamboro",
+            "region": "97612",
+            "country": "YT",
+            "latitude": "-12.69982",
+            "longitude": "45.06894"
+        },
+        {
+            "city": "Acoua",
+            "region": "97601",
+            "country": "YT",
+            "latitude": "-12.7225",
+            "longitude": "45.05639"
+        },
+        {
+            "city": "Tsingoni",
+            "region": "97617",
+            "country": "YT",
+            "latitude": "-12.78722",
+            "longitude": "45.10278"
+        },
+        {
+            "city": "Koungou",
+            "region": "97610",
+            "country": "YT",
+            "latitude": "-12.73361",
+            "longitude": "45.20417"
+        },
+        {
+            "city": "Dzaoudzi",
+            "region": "97608",
+            "country": "YT",
+            "latitude": "-12.77944",
+            "longitude": "45.25361"
+        },
+        {
+            "city": "Pamandzi",
+            "region": "97615",
+            "country": "YT",
+            "latitude": "-12.79489",
+            "longitude": "45.28255"
+        },
+        {
+            "city": "Ouangani",
+            "region": "97614",
+            "country": "YT",
+            "latitude": "-12.84639",
+            "longitude": "45.13611"
+        },
+        {
+            "city": "Chiconi",
+            "region": "97605",
+            "country": "YT",
+            "latitude": "-12.83333",
+            "longitude": "45.11056"
+        },
+        {
+            "city": "Sada",
+            "region": "97616",
+            "country": "YT",
+            "latitude": "-12.85055",
+            "longitude": "45.10205"
+        },
+        {
+            "city": "Bandr\u00e9l\u00e9",
+            "region": "97603",
+            "country": "YT",
+            "latitude": "-12.90667",
+            "longitude": "45.19139"
+        },
+        {
+            "city": "Chirongui",
+            "region": "97606",
+            "country": "YT",
+            "latitude": "-12.93194",
+            "longitude": "45.14833"
+        },
+        {
+            "city": "Bou\u00e9ni",
+            "region": "97604",
+            "country": "YT",
+            "latitude": "-12.9025",
+            "longitude": "45.07611"
+        },
+        {
+            "city": "Kani K\u00e9li",
+            "region": "97609",
+            "country": "YT",
+            "latitude": "-12.95361",
+            "longitude": "45.10333"
+        }
+    ]
+}

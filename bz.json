@@ -1,0 +1,76 @@
+{
+    "country": "Belize",
+    "code": "BZ",
+    "cities": [
+        {
+            "city": "San Pedro",
+            "region": "01",
+            "country": "BZ",
+            "latitude": "17.91598",
+            "longitude": "-87.9659"
+        },
+        {
+            "city": "San Ignacio",
+            "region": "02",
+            "country": "BZ",
+            "latitude": "17.15611",
+            "longitude": "-89.07139"
+        },
+        {
+            "city": "Punta Gorda",
+            "region": "06",
+            "country": "BZ",
+            "latitude": "16.09835",
+            "longitude": "-88.8097"
+        },
+        {
+            "city": "Orange Walk",
+            "region": "04",
+            "country": "BZ",
+            "latitude": "18.08124",
+            "longitude": "-88.56328"
+        },
+        {
+            "city": "Dangriga",
+            "region": "05",
+            "country": "BZ",
+            "latitude": "16.96921",
+            "longitude": "-88.23206"
+        },
+        {
+            "city": "Corozal",
+            "region": "03",
+            "country": "BZ",
+            "latitude": "18.39794",
+            "longitude": "-88.39419"
+        },
+        {
+            "city": "Benque Viejo del Carmen",
+            "region": "02",
+            "country": "BZ",
+            "latitude": "17.075",
+            "longitude": "-89.13917"
+        },
+        {
+            "city": "Belmopan",
+            "region": "02",
+            "country": "BZ",
+            "latitude": "17.25",
+            "longitude": "-88.76667"
+        },
+        {
+            "city": "Belize City",
+            "region": "01",
+            "country": "BZ",
+            "latitude": "17.49952",
+            "longitude": "-88.19756"
+        },
+        {
+            "city": "Valley of Peace",
+            "region": "02",
+            "country": "BZ",
+            "latitude": "17.33472",
+            "longitude": "-88.83472"
+        }
+    ]
+}

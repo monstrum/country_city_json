@@ -1,0 +1,3114 @@
+{
+    "country": "Nigeria",
+    "code": "NG",
+    "cities": [
+        {
+            "city": "Zuru",
+            "region": "40",
+            "country": "NG",
+            "latitude": "11.42406",
+            "longitude": "5.22879"
+        },
+        {
+            "city": "Zungeru",
+            "region": "31",
+            "country": "NG",
+            "latitude": "9.81278",
+            "longitude": "6.15583"
+        },
+        {
+            "city": "Zaria",
+            "region": "23",
+            "country": "NG",
+            "latitude": "11.11128",
+            "longitude": "7.7227"
+        },
+        {
+            "city": "Zango",
+            "region": "24",
+            "country": "NG",
+            "latitude": "13.05151",
+            "longitude": "8.48765"
+        },
+        {
+            "city": "Zalanga",
+            "region": "46",
+            "country": "NG",
+            "latitude": "10.61432",
+            "longitude": "10.17647"
+        },
+        {
+            "city": "Zaki Biam",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.51667",
+            "longitude": "9.61667"
+        },
+        {
+            "city": "Zadawa",
+            "region": "46",
+            "country": "NG",
+            "latitude": "11.4496",
+            "longitude": "10.3672"
+        },
+        {
+            "city": "Yuli",
+            "region": "46",
+            "country": "NG",
+            "latitude": "9.69889",
+            "longitude": "10.27444"
+        },
+        {
+            "city": "Yola",
+            "region": "35",
+            "country": "NG",
+            "latitude": "9.2",
+            "longitude": "12.48333"
+        },
+        {
+            "city": "Yenagoa",
+            "region": "52",
+            "country": "NG",
+            "latitude": "4.92472",
+            "longitude": "6.26417"
+        },
+        {
+            "city": "Yelwa",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.83333",
+            "longitude": "9.63333"
+        },
+        {
+            "city": "Yashikera",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.76667",
+            "longitude": "3.4"
+        },
+        {
+            "city": "Yandev",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.36667",
+            "longitude": "9.05"
+        },
+        {
+            "city": "Yanda Bayo",
+            "region": "46",
+            "country": "NG",
+            "latitude": "11.5071",
+            "longitude": "10.7459"
+        },
+        {
+            "city": "Yamrat",
+            "region": "46",
+            "country": "NG",
+            "latitude": "10.11161",
+            "longitude": "9.82604"
+        },
+        {
+            "city": "Yajiwa",
+            "region": "27",
+            "country": "NG",
+            "latitude": "11.38385",
+            "longitude": "12.7236"
+        },
+        {
+            "city": "Wuyo",
+            "region": "27",
+            "country": "NG",
+            "latitude": "10.38522",
+            "longitude": "11.69678"
+        },
+        {
+            "city": "Wurno",
+            "region": "51",
+            "country": "NG",
+            "latitude": "13.28777",
+            "longitude": "5.42326"
+        },
+        {
+            "city": "Wukari",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.85",
+            "longitude": "9.78333"
+        },
+        {
+            "city": "Wudil",
+            "region": "29",
+            "country": "NG",
+            "latitude": "11.81067",
+            "longitude": "8.84505"
+        },
+        {
+            "city": "Wawa",
+            "region": "31",
+            "country": "NG",
+            "latitude": "9.90222",
+            "longitude": "4.41917"
+        },
+        {
+            "city": "Wasagu",
+            "region": "40",
+            "country": "NG",
+            "latitude": "11.3764",
+            "longitude": "5.79536"
+        },
+        {
+            "city": "Warri",
+            "region": "36",
+            "country": "NG",
+            "latitude": "5.51667",
+            "longitude": "5.75"
+        },
+        {
+            "city": "Wamba",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.93333",
+            "longitude": "8.6"
+        },
+        {
+            "city": "Wagini",
+            "region": "24",
+            "country": "NG",
+            "latitude": "12.68781",
+            "longitude": "7.19579"
+        },
+        {
+            "city": "Vom",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.73333",
+            "longitude": "8.78333"
+        },
+        {
+            "city": "Uyo",
+            "region": "21",
+            "country": "NG",
+            "latitude": "5.03333",
+            "longitude": "7.92657"
+        },
+        {
+            "city": "Uruobo-Okija",
+            "region": "25",
+            "country": "NG",
+            "latitude": "5.90016",
+            "longitude": "6.84312"
+        },
+        {
+            "city": "Uromi",
+            "region": "00",
+            "country": "NG",
+            "latitude": "6.7",
+            "longitude": "6.33333"
+        },
+        {
+            "city": "Umunede",
+            "region": "36",
+            "country": "NG",
+            "latitude": "6.26374",
+            "longitude": "6.31161"
+        },
+        {
+            "city": "Umuahia",
+            "region": "45",
+            "country": "NG",
+            "latitude": "5.52627",
+            "longitude": "7.48959"
+        },
+        {
+            "city": "Ukata",
+            "region": "31",
+            "country": "NG",
+            "latitude": "10.83122",
+            "longitude": "5.82494"
+        },
+        {
+            "city": "Ughelli",
+            "region": "36",
+            "country": "NG",
+            "latitude": "5.48986",
+            "longitude": "6.00743"
+        },
+        {
+            "city": "Ugep",
+            "region": "22",
+            "country": "NG",
+            "latitude": "5.8086",
+            "longitude": "8.0812"
+        },
+        {
+            "city": "Uga",
+            "region": "25",
+            "country": "NG",
+            "latitude": "5.93576",
+            "longitude": "7.0793"
+        },
+        {
+            "city": "Udi",
+            "region": "47",
+            "country": "NG",
+            "latitude": "6.3144",
+            "longitude": "7.4258"
+        },
+        {
+            "city": "Ubiaja",
+            "region": "37",
+            "country": "NG",
+            "latitude": "6.65504",
+            "longitude": "6.38687"
+        },
+        {
+            "city": "Uba",
+            "region": "27",
+            "country": "NG",
+            "latitude": "10.45306",
+            "longitude": "13.22139"
+        },
+        {
+            "city": "Toungo",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.11667",
+            "longitude": "12.05"
+        },
+        {
+            "city": "Tokombere",
+            "region": "27",
+            "country": "NG",
+            "latitude": "11.22713",
+            "longitude": "13.48581"
+        },
+        {
+            "city": "Tegina",
+            "region": "31",
+            "country": "NG",
+            "latitude": "10.0706",
+            "longitude": "6.1906"
+        },
+        {
+            "city": "Tambawel",
+            "region": "51",
+            "country": "NG",
+            "latitude": "12.40386",
+            "longitude": "4.64692"
+        },
+        {
+            "city": "Talata Mafara",
+            "region": "57",
+            "country": "NG",
+            "latitude": "12.57317",
+            "longitude": "6.05971"
+        },
+        {
+            "city": "Takum",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.26667",
+            "longitude": "9.98333"
+        },
+        {
+            "city": "Takai",
+            "region": "00",
+            "country": "NG",
+            "latitude": "11.58333",
+            "longitude": "9.11667"
+        },
+        {
+            "city": "Suya",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.46667",
+            "longitude": "3.18333"
+        },
+        {
+            "city": "Abuja",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.17583",
+            "longitude": "7.18083"
+        },
+        {
+            "city": "Sokoto",
+            "region": "51",
+            "country": "NG",
+            "latitude": "13.06092",
+            "longitude": "5.23902"
+        },
+        {
+            "city": "Soba",
+            "region": "23",
+            "country": "NG",
+            "latitude": "10.98134",
+            "longitude": "8.05749"
+        },
+        {
+            "city": "Siluko",
+            "region": "37",
+            "country": "NG",
+            "latitude": "6.53858",
+            "longitude": "5.1609"
+        },
+        {
+            "city": "Shinkafe",
+            "region": "57",
+            "country": "NG",
+            "latitude": "13.07534",
+            "longitude": "6.51046"
+        },
+        {
+            "city": "Shani",
+            "region": "27",
+            "country": "NG",
+            "latitude": "10.21617",
+            "longitude": "12.06198"
+        },
+        {
+            "city": "Shanga",
+            "region": "40",
+            "country": "NG",
+            "latitude": "11.21062",
+            "longitude": "4.57878"
+        },
+        {
+            "city": "Saki",
+            "region": "32",
+            "country": "NG",
+            "latitude": "8.66667",
+            "longitude": "3.38333"
+        },
+        {
+            "city": "Shagamu",
+            "region": "16",
+            "country": "NG",
+            "latitude": "6.84323",
+            "longitude": "3.64776"
+        },
+        {
+            "city": "Shaffa",
+            "region": "27",
+            "country": "NG",
+            "latitude": "10.50673",
+            "longitude": "12.33315"
+        },
+        {
+            "city": "Sauri",
+            "region": "57",
+            "country": "NG",
+            "latitude": "11.72655",
+            "longitude": "6.78374"
+        },
+        {
+            "city": "Sapele",
+            "region": "36",
+            "country": "NG",
+            "latitude": "5.89405",
+            "longitude": "5.67666"
+        },
+        {
+            "city": "Samamiya",
+            "region": "39",
+            "country": "NG",
+            "latitude": "11.34873",
+            "longitude": "9.63989"
+        },
+        {
+            "city": "Sade",
+            "region": "46",
+            "country": "NG",
+            "latitude": "11.3595",
+            "longitude": "10.6732"
+        },
+        {
+            "city": "Runka",
+            "region": "24",
+            "country": "NG",
+            "latitude": "12.44788",
+            "longitude": "7.30918"
+        },
+        {
+            "city": "Ruma",
+            "region": "24",
+            "country": "NG",
+            "latitude": "12.8626",
+            "longitude": "7.23469"
+        },
+        {
+            "city": "Riti",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.91667",
+            "longitude": "9.61667"
+        },
+        {
+            "city": "Ringim",
+            "region": "39",
+            "country": "NG",
+            "latitude": "12.15482",
+            "longitude": "9.16192"
+        },
+        {
+            "city": "Rijau",
+            "region": "31",
+            "country": "NG",
+            "latitude": "11.10298",
+            "longitude": "5.25068"
+        },
+        {
+            "city": "Rano",
+            "region": "29",
+            "country": "NG",
+            "latitude": "11.54912",
+            "longitude": "8.57464"
+        },
+        {
+            "city": "Rahama",
+            "region": "23",
+            "country": "NG",
+            "latitude": "10.41403",
+            "longitude": "8.68279"
+        },
+        {
+            "city": "Rabah",
+            "region": "51",
+            "country": "NG",
+            "latitude": "13.12133",
+            "longitude": "5.50741"
+        },
+        {
+            "city": "Potiskum",
+            "region": "44",
+            "country": "NG",
+            "latitude": "11.7091",
+            "longitude": "11.0694"
+        },
+        {
+            "city": "Port Harcourt",
+            "region": "50",
+            "country": "NG",
+            "latitude": "4.77742",
+            "longitude": "7.0134"
+        },
+        {
+            "city": "Pindiga",
+            "region": "55",
+            "country": "NG",
+            "latitude": "9.98333",
+            "longitude": "10.93333"
+        },
+        {
+            "city": "Pategi",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.73333",
+            "longitude": "5.75"
+        },
+        {
+            "city": "Patani",
+            "region": "36",
+            "country": "NG",
+            "latitude": "5.22724",
+            "longitude": "6.19238"
+        },
+        {
+            "city": "Panyam",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.41667",
+            "longitude": "9.21667"
+        },
+        {
+            "city": "Pankshin",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.33333",
+            "longitude": "9.45"
+        },
+        {
+            "city": "Ozubulu",
+            "region": "25",
+            "country": "NG",
+            "latitude": "5.95666",
+            "longitude": "6.84904"
+        },
+        {
+            "city": "Oyo",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.85",
+            "longitude": "3.93333"
+        },
+        {
+            "city": "Oyan",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.05",
+            "longitude": "4.76667"
+        },
+        {
+            "city": "Owode",
+            "region": "16",
+            "country": "NG",
+            "latitude": "6.94864",
+            "longitude": "3.50511"
+        },
+        {
+            "city": "Owo",
+            "region": "48",
+            "country": "NG",
+            "latitude": "7.1962",
+            "longitude": "5.58681"
+        },
+        {
+            "city": "Owerri",
+            "region": "28",
+            "country": "NG",
+            "latitude": "5.48333",
+            "longitude": "7.03041"
+        },
+        {
+            "city": "Otukpa",
+            "region": "26",
+            "country": "NG",
+            "latitude": "7.08921",
+            "longitude": "7.64989"
+        },
+        {
+            "city": "Osogbo",
+            "region": "42",
+            "country": "NG",
+            "latitude": "7.76667",
+            "longitude": "4.56667"
+        },
+        {
+            "city": "Orodo",
+            "region": "00",
+            "country": "NG",
+            "latitude": "5.61667",
+            "longitude": "7.03333"
+        },
+        {
+            "city": "Orlu",
+            "region": "28",
+            "country": "NG",
+            "latitude": "5.79464",
+            "longitude": "7.03495"
+        },
+        {
+            "city": "Orita Eruwa",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.55",
+            "longitude": "3.43333"
+        },
+        {
+            "city": "Orerokpe",
+            "region": "36",
+            "country": "NG",
+            "latitude": "5.63506",
+            "longitude": "5.88956"
+        },
+        {
+            "city": "Ore",
+            "region": "48",
+            "country": "NG",
+            "latitude": "6.74569",
+            "longitude": "4.87748"
+        },
+        {
+            "city": "Opi",
+            "region": "47",
+            "country": "NG",
+            "latitude": "6.7814",
+            "longitude": "7.4365"
+        },
+        {
+            "city": "Onitsha",
+            "region": "25",
+            "country": "NG",
+            "latitude": "6.14543",
+            "longitude": "6.78845"
+        },
+        {
+            "city": "Ondo",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.1",
+            "longitude": "4.83333"
+        },
+        {
+            "city": "Omuo-Ekiti",
+            "region": "54",
+            "country": "NG",
+            "latitude": "7.75833",
+            "longitude": "5.72227"
+        },
+        {
+            "city": "Omu Aran",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.13333",
+            "longitude": "5.1"
+        },
+        {
+            "city": "Omoku",
+            "region": "50",
+            "country": "NG",
+            "latitude": "5.3435",
+            "longitude": "6.65321"
+        },
+        {
+            "city": "Olupona",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.6",
+            "longitude": "4.18333"
+        },
+        {
+            "city": "Okuta",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.21667",
+            "longitude": "3.18333"
+        },
+        {
+            "city": "Okrika",
+            "region": "50",
+            "country": "NG",
+            "latitude": "4.74159",
+            "longitude": "7.08488"
+        },
+        {
+            "city": "Okigwi",
+            "region": "28",
+            "country": "NG",
+            "latitude": "5.83523",
+            "longitude": "7.35989"
+        },
+        {
+            "city": "Oke Mesi",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.81667",
+            "longitude": "4.91667"
+        },
+        {
+            "city": "Oke Iho",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.03333",
+            "longitude": "3.35"
+        },
+        {
+            "city": "Ohafia-Ifigh",
+            "region": "45",
+            "country": "NG",
+            "latitude": "5.61455",
+            "longitude": "7.81191"
+        },
+        {
+            "city": "Ogwashi-Uku",
+            "region": "36",
+            "country": "NG",
+            "latitude": "6.17818",
+            "longitude": "6.52429"
+        },
+        {
+            "city": "Oguta",
+            "region": "28",
+            "country": "NG",
+            "latitude": "5.7089",
+            "longitude": "6.81026"
+        },
+        {
+            "city": "Ogurugu",
+            "region": "47",
+            "country": "NG",
+            "latitude": "6.78558",
+            "longitude": "6.95053"
+        },
+        {
+            "city": "Ogoja",
+            "region": "22",
+            "country": "NG",
+            "latitude": "6.65471",
+            "longitude": "8.79764"
+        },
+        {
+            "city": "Ogaminan",
+            "region": "41",
+            "country": "NG",
+            "latitude": "7.59464",
+            "longitude": "6.22476"
+        },
+        {
+            "city": "Offa",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.15",
+            "longitude": "4.71667"
+        },
+        {
+            "city": "Ode",
+            "region": "48",
+            "country": "NG",
+            "latitude": "7.7899",
+            "longitude": "5.7117"
+        },
+        {
+            "city": "Ochobo",
+            "region": "26",
+            "country": "NG",
+            "latitude": "7.183",
+            "longitude": "7.9769"
+        },
+        {
+            "city": "Obudu",
+            "region": "22",
+            "country": "NG",
+            "latitude": "6.66737",
+            "longitude": "9.17157"
+        },
+        {
+            "city": "Obubra",
+            "region": "22",
+            "country": "NG",
+            "latitude": "6.07525",
+            "longitude": "8.32904"
+        },
+        {
+            "city": "Obonoma",
+            "region": "50",
+            "country": "NG",
+            "latitude": "4.70844",
+            "longitude": "6.79307"
+        },
+        {
+            "city": "Obolo-Eke (1)",
+            "region": "47",
+            "country": "NG",
+            "latitude": "6.88333",
+            "longitude": "7.63333"
+        },
+        {
+            "city": "Obiaruku Quarters",
+            "region": "36",
+            "country": "NG",
+            "latitude": "5.84671",
+            "longitude": "6.15257"
+        },
+        {
+            "city": "Numan",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.46667",
+            "longitude": "12.03333"
+        },
+        {
+            "city": "Nsukka",
+            "region": "47",
+            "country": "NG",
+            "latitude": "6.8561",
+            "longitude": "7.3927"
+        },
+        {
+            "city": "Nnewi",
+            "region": "25",
+            "country": "NG",
+            "latitude": "6.01986",
+            "longitude": "6.91478"
+        },
+        {
+            "city": "Nkwerre",
+            "region": "28",
+            "country": "NG",
+            "latitude": "5.75555",
+            "longitude": "7.10627"
+        },
+        {
+            "city": "Nkpor",
+            "region": "25",
+            "country": "NG",
+            "latitude": "6.15164",
+            "longitude": "6.84458"
+        },
+        {
+            "city": "Nguru",
+            "region": "44",
+            "country": "NG",
+            "latitude": "12.8791",
+            "longitude": "10.4526"
+        },
+        {
+            "city": "Ngurore",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.28333",
+            "longitude": "12.23333"
+        },
+        {
+            "city": "Ngala",
+            "region": "27",
+            "country": "NG",
+            "latitude": "12.33772",
+            "longitude": "14.18052"
+        },
+        {
+            "city": "New Shagunnu",
+            "region": "31",
+            "country": "NG",
+            "latitude": "10.33957",
+            "longitude": "4.4688"
+        },
+        {
+            "city": "Nassarawa",
+            "region": "56",
+            "country": "NG",
+            "latitude": "8.52944",
+            "longitude": "7.72417"
+        },
+        {
+            "city": "Nafada",
+            "region": "55",
+            "country": "NG",
+            "latitude": "11.0956",
+            "longitude": "11.3327"
+        },
+        {
+            "city": "Mutum Biyu",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.63333",
+            "longitude": "10.76667"
+        },
+        {
+            "city": "Musawa",
+            "region": "24",
+            "country": "NG",
+            "latitude": "12.12717",
+            "longitude": "7.6698"
+        },
+        {
+            "city": "Mubi",
+            "region": "35",
+            "country": "NG",
+            "latitude": "10.26761",
+            "longitude": "13.26436"
+        },
+        {
+            "city": "Moriki",
+            "region": "57",
+            "country": "NG",
+            "latitude": "12.87405",
+            "longitude": "6.48754"
+        },
+        {
+            "city": "Mongonu",
+            "region": "27",
+            "country": "NG",
+            "latitude": "12.67863",
+            "longitude": "13.60792"
+        },
+        {
+            "city": "Mokwa",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.28333",
+            "longitude": "5.05"
+        },
+        {
+            "city": "Modakeke",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.38333",
+            "longitude": "4.26667"
+        },
+        {
+            "city": "Misau",
+            "region": "46",
+            "country": "NG",
+            "latitude": "11.3163",
+            "longitude": "10.4703"
+        },
+        {
+            "city": "Miringa",
+            "region": "27",
+            "country": "NG",
+            "latitude": "10.73115",
+            "longitude": "12.14626"
+        },
+        {
+            "city": "Minna",
+            "region": "31",
+            "country": "NG",
+            "latitude": "9.61389",
+            "longitude": "6.55694"
+        },
+        {
+            "city": "Mekkaw",
+            "region": "16",
+            "country": "NG",
+            "latitude": "7.45",
+            "longitude": "2.85"
+        },
+        {
+            "city": "Mayo Belwa",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.05",
+            "longitude": "12.05"
+        },
+        {
+            "city": "Matsena",
+            "region": "44",
+            "country": "NG",
+            "latitude": "13.13639",
+            "longitude": "10.04924"
+        },
+        {
+            "city": "Mashi",
+            "region": "24",
+            "country": "NG",
+            "latitude": "12.97844",
+            "longitude": "7.95293"
+        },
+        {
+            "city": "Maru",
+            "region": "57",
+            "country": "NG",
+            "latitude": "12.33417",
+            "longitude": "6.40569"
+        },
+        {
+            "city": "Marte",
+            "region": "27",
+            "country": "NG",
+            "latitude": "12.36113",
+            "longitude": "13.8246"
+        },
+        {
+            "city": "Mando",
+            "region": "00",
+            "country": "NG",
+            "latitude": "10.71667",
+            "longitude": "6.56667"
+        },
+        {
+            "city": "Malumfashi",
+            "region": "24",
+            "country": "NG",
+            "latitude": "11.78529",
+            "longitude": "7.62175"
+        },
+        {
+            "city": "Malummaduri",
+            "region": "39",
+            "country": "NG",
+            "latitude": "12.565",
+            "longitude": "9.95729"
+        },
+        {
+            "city": "Makurdi",
+            "region": "26",
+            "country": "NG",
+            "latitude": "7.7411",
+            "longitude": "8.5121"
+        },
+        {
+            "city": "Maiyema",
+            "region": "40",
+            "country": "NG",
+            "latitude": "12.08411",
+            "longitude": "4.36766"
+        },
+        {
+            "city": "Maiduguri",
+            "region": "27",
+            "country": "NG",
+            "latitude": "11.84644",
+            "longitude": "13.16027"
+        },
+        {
+            "city": "Mahuta",
+            "region": "40",
+            "country": "NG",
+            "latitude": "11.55254",
+            "longitude": "4.98436"
+        },
+        {
+            "city": "Magumeri",
+            "region": "27",
+            "country": "NG",
+            "latitude": "12.1131",
+            "longitude": "12.8274"
+        },
+        {
+            "city": "Madara",
+            "region": "46",
+            "country": "NG",
+            "latitude": "11.7798",
+            "longitude": "10.4479"
+        },
+        {
+            "city": "Madala",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.10444",
+            "longitude": "7.21333"
+        },
+        {
+            "city": "Madagali",
+            "region": "35",
+            "country": "NG",
+            "latitude": "10.89018",
+            "longitude": "13.63121"
+        },
+        {
+            "city": "Lokoja",
+            "region": "41",
+            "country": "NG",
+            "latitude": "7.80236",
+            "longitude": "6.743"
+        },
+        {
+            "city": "Lere",
+            "region": "23",
+            "country": "NG",
+            "latitude": "10.38697",
+            "longitude": "8.57262"
+        },
+        {
+            "city": "Lere",
+            "region": "46",
+            "country": "NG",
+            "latitude": "9.70889",
+            "longitude": "9.33833"
+        },
+        {
+            "city": "Lau",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.21667",
+            "longitude": "11.28333"
+        },
+        {
+            "city": "Lapai",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.05",
+            "longitude": "6.56667"
+        },
+        {
+            "city": "Langtang",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.13333",
+            "longitude": "9.78333"
+        },
+        {
+            "city": "Lame",
+            "region": "46",
+            "country": "NG",
+            "latitude": "10.44154",
+            "longitude": "9.23955"
+        },
+        {
+            "city": "Lalupon",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.46667",
+            "longitude": "4.06667"
+        },
+        {
+            "city": "Lagos",
+            "region": "05",
+            "country": "NG",
+            "latitude": "6.45306",
+            "longitude": "3.39583"
+        },
+        {
+            "city": "Lafiagi",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.86667",
+            "longitude": "5.41667"
+        },
+        {
+            "city": "Lafia",
+            "region": "56",
+            "country": "NG",
+            "latitude": "8.48333",
+            "longitude": "8.51667"
+        },
+        {
+            "city": "Kwolla",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.93333",
+            "longitude": "9.28333"
+        },
+        {
+            "city": "Kwatarkwashi",
+            "region": "57",
+            "country": "NG",
+            "latitude": "12.14082",
+            "longitude": "6.82196"
+        },
+        {
+            "city": "Kwali",
+            "region": "11",
+            "country": "NG",
+            "latitude": "8.86722",
+            "longitude": "7.005"
+        },
+        {
+            "city": "Kwale",
+            "region": "36",
+            "country": "NG",
+            "latitude": "5.70632",
+            "longitude": "6.43741"
+        },
+        {
+            "city": "Kuta",
+            "region": "31",
+            "country": "NG",
+            "latitude": "9.86667",
+            "longitude": "6.71667"
+        },
+        {
+            "city": "Kusheriki",
+            "region": "31",
+            "country": "NG",
+            "latitude": "10.53283",
+            "longitude": "6.44222"
+        },
+        {
+            "city": "Kura",
+            "region": "29",
+            "country": "NG",
+            "latitude": "11.76969",
+            "longitude": "8.43033"
+        },
+        {
+            "city": "Kumo",
+            "region": "55",
+            "country": "NG",
+            "latitude": "10.04469",
+            "longitude": "11.21217"
+        },
+        {
+            "city": "Kumagunnam",
+            "region": "44",
+            "country": "NG",
+            "latitude": "13.15514",
+            "longitude": "10.63423"
+        },
+        {
+            "city": "Kukawa",
+            "region": "27",
+            "country": "NG",
+            "latitude": "12.92342",
+            "longitude": "13.56058"
+        },
+        {
+            "city": "Kujama",
+            "region": "23",
+            "country": "NG",
+            "latitude": "10.45418",
+            "longitude": "7.63678"
+        },
+        {
+            "city": "Koton Karifi",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.1",
+            "longitude": "6.8"
+        },
+        {
+            "city": "Kontagora",
+            "region": "31",
+            "country": "NG",
+            "latitude": "10.39989",
+            "longitude": "5.46949"
+        },
+        {
+            "city": "Konkwesso",
+            "region": "31",
+            "country": "NG",
+            "latitude": "10.84686",
+            "longitude": "4.09835"
+        },
+        {
+            "city": "Konduga",
+            "region": "27",
+            "country": "NG",
+            "latitude": "11.65583",
+            "longitude": "13.42133"
+        },
+        {
+            "city": "Kishi",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.08333",
+            "longitude": "3.85"
+        },
+        {
+            "city": "Kibiya",
+            "region": "29",
+            "country": "NG",
+            "latitude": "11.52629",
+            "longitude": "8.66227"
+        },
+        {
+            "city": "Kende",
+            "region": "40",
+            "country": "NG",
+            "latitude": "11.51966",
+            "longitude": "4.2603"
+        },
+        {
+            "city": "Keffin Hausa",
+            "region": "39",
+            "country": "NG",
+            "latitude": "12.23753",
+            "longitude": "9.90798"
+        },
+        {
+            "city": "Keffi",
+            "region": "56",
+            "country": "NG",
+            "latitude": "8.84861",
+            "longitude": "7.87361"
+        },
+        {
+            "city": "Kazaure",
+            "region": "39",
+            "country": "NG",
+            "latitude": "12.65131",
+            "longitude": "8.41615"
+        },
+        {
+            "city": "Kaura Namoda",
+            "region": "57",
+            "country": "NG",
+            "latitude": "12.58979",
+            "longitude": "6.57791"
+        },
+        {
+            "city": "Katsina Ala",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.16667",
+            "longitude": "9.28333"
+        },
+        {
+            "city": "Katsina",
+            "region": "24",
+            "country": "NG",
+            "latitude": "12.98943",
+            "longitude": "7.60063"
+        },
+        {
+            "city": "Katagum",
+            "region": "46",
+            "country": "NG",
+            "latitude": "12.2867",
+            "longitude": "10.3527"
+        },
+        {
+            "city": "Kari",
+            "region": "46",
+            "country": "NG",
+            "latitude": "11.2471",
+            "longitude": "10.561"
+        },
+        {
+            "city": "Kano",
+            "region": "29",
+            "country": "NG",
+            "latitude": "12.00012",
+            "longitude": "8.51672"
+        },
+        {
+            "city": "Kankara",
+            "region": "24",
+            "country": "NG",
+            "latitude": "11.93016",
+            "longitude": "7.41267"
+        },
+        {
+            "city": "Kamba",
+            "region": "40",
+            "country": "NG",
+            "latitude": "11.84864",
+            "longitude": "3.65761"
+        },
+        {
+            "city": "Kaltungo",
+            "region": "55",
+            "country": "NG",
+            "latitude": "9.81417",
+            "longitude": "11.30889"
+        },
+        {
+            "city": "Kajuru",
+            "region": "23",
+            "country": "NG",
+            "latitude": "10.31921",
+            "longitude": "7.68924"
+        },
+        {
+            "city": "Kaingiwa",
+            "region": "40",
+            "country": "NG",
+            "latitude": "12.55208",
+            "longitude": "3.81867"
+        },
+        {
+            "city": "Kaiama",
+            "region": "30",
+            "country": "NG",
+            "latitude": "9.6225",
+            "longitude": "3.94806"
+        },
+        {
+            "city": "Kagoro",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.6",
+            "longitude": "8.38333"
+        },
+        {
+            "city": "Kafarati",
+            "region": "55",
+            "country": "NG",
+            "latitude": "10.38304",
+            "longitude": "11.09567"
+        },
+        {
+            "city": "Kafachan",
+            "region": "23",
+            "country": "NG",
+            "latitude": "9.58333",
+            "longitude": "8.3"
+        },
+        {
+            "city": "Kaduna",
+            "region": "23",
+            "country": "NG",
+            "latitude": "10.52224",
+            "longitude": "7.43828"
+        },
+        {
+            "city": "Kachia",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.86667",
+            "longitude": "7.95"
+        },
+        {
+            "city": "Kabba",
+            "region": "41",
+            "country": "NG",
+            "latitude": "7.82873",
+            "longitude": "6.0731"
+        },
+        {
+            "city": "Jos",
+            "region": "49",
+            "country": "NG",
+            "latitude": "9.91667",
+            "longitude": "8.9"
+        },
+        {
+            "city": "Jimeta",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.28333",
+            "longitude": "12.46667"
+        },
+        {
+            "city": "Jikamshi",
+            "region": "24",
+            "country": "NG",
+            "latitude": "12.17328",
+            "longitude": "7.77424"
+        },
+        {
+            "city": "Jibiya",
+            "region": "00",
+            "country": "NG",
+            "latitude": "13.09778",
+            "longitude": "7.2225"
+        },
+        {
+            "city": "Jega",
+            "region": "40",
+            "country": "NG",
+            "latitude": "12.2175",
+            "longitude": "4.37917"
+        },
+        {
+            "city": "Jebba",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.13333",
+            "longitude": "4.83333"
+        },
+        {
+            "city": "Jalingo",
+            "region": "43",
+            "country": "NG",
+            "latitude": "8.88333",
+            "longitude": "11.36667"
+        },
+        {
+            "city": "Jajere",
+            "region": "44",
+            "country": "NG",
+            "latitude": "11.97969",
+            "longitude": "11.44426"
+        },
+        {
+            "city": "Iwo",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.63333",
+            "longitude": "4.18333"
+        },
+        {
+            "city": "Itu",
+            "region": "21",
+            "country": "NG",
+            "latitude": "5.2004",
+            "longitude": "7.98475"
+        },
+        {
+            "city": "Isieke",
+            "region": "53",
+            "country": "NG",
+            "latitude": "6.37831",
+            "longitude": "8.03524"
+        },
+        {
+            "city": "Ise-Ekiti",
+            "region": "54",
+            "country": "NG",
+            "latitude": "7.4632",
+            "longitude": "5.4281"
+        },
+        {
+            "city": "Isara",
+            "region": "16",
+            "country": "NG",
+            "latitude": "6.99281",
+            "longitude": "3.68185"
+        },
+        {
+            "city": "Isanlu Itedoijowa",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.26667",
+            "longitude": "5.83333"
+        },
+        {
+            "city": "Ipoti",
+            "region": "54",
+            "country": "NG",
+            "latitude": "7.87377",
+            "longitude": "5.07692"
+        },
+        {
+            "city": "Iperu",
+            "region": "16",
+            "country": "NG",
+            "latitude": "6.91002",
+            "longitude": "3.66557"
+        },
+        {
+            "city": "Inisa",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.85",
+            "longitude": "4.33333"
+        },
+        {
+            "city": "Ilorin",
+            "region": "30",
+            "country": "NG",
+            "latitude": "8.5",
+            "longitude": "4.55"
+        },
+        {
+            "city": "Ilobu",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.83333",
+            "longitude": "4.48333"
+        },
+        {
+            "city": "Illushi",
+            "region": "37",
+            "country": "NG",
+            "latitude": "6.6667",
+            "longitude": "6.63076"
+        },
+        {
+            "city": "Illela",
+            "region": "51",
+            "country": "NG",
+            "latitude": "13.72918",
+            "longitude": "5.29752"
+        },
+        {
+            "city": "Ilesa",
+            "region": "42",
+            "country": "NG",
+            "latitude": "7.61667",
+            "longitude": "4.73333"
+        },
+        {
+            "city": "Ilaro",
+            "region": "16",
+            "country": "NG",
+            "latitude": "6.88653",
+            "longitude": "3.0205"
+        },
+        {
+            "city": "Ilare",
+            "region": "48",
+            "country": "NG",
+            "latitude": "7.35067",
+            "longitude": "5.11333"
+        },
+        {
+            "city": "Ila Orangun",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.01667",
+            "longitude": "4.9"
+        },
+        {
+            "city": "Ikot-Ekpene",
+            "region": "21",
+            "country": "NG",
+            "latitude": "5.17938",
+            "longitude": "7.71082"
+        },
+        {
+            "city": "Ikom",
+            "region": "22",
+            "country": "NG",
+            "latitude": "5.96669",
+            "longitude": "8.70632"
+        },
+        {
+            "city": "Ikirun",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.91667",
+            "longitude": "4.66667"
+        },
+        {
+            "city": "Ikire",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.35",
+            "longitude": "4.18333"
+        },
+        {
+            "city": "Ikerre",
+            "region": "54",
+            "country": "NG",
+            "latitude": "7.49133",
+            "longitude": "5.23225"
+        },
+        {
+            "city": "Ikem",
+            "region": "47",
+            "country": "NG",
+            "latitude": "6.77903",
+            "longitude": "7.71685"
+        },
+        {
+            "city": "Ikeja",
+            "region": "05",
+            "country": "NG",
+            "latitude": "6.59422",
+            "longitude": "3.33748"
+        },
+        {
+            "city": "Ikang",
+            "region": "22",
+            "country": "NG",
+            "latitude": "4.78978",
+            "longitude": "8.5316"
+        },
+        {
+            "city": "Ijero-Ekiti",
+            "region": "54",
+            "country": "NG",
+            "latitude": "7.8139",
+            "longitude": "5.0742"
+        },
+        {
+            "city": "Ijebu-Ode",
+            "region": "16",
+            "country": "NG",
+            "latitude": "6.81609",
+            "longitude": "3.91588"
+        },
+        {
+            "city": "Ijebu Ijesha",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.68333",
+            "longitude": "4.81667"
+        },
+        {
+            "city": "Ijebu-Igbo",
+            "region": "16",
+            "country": "NG",
+            "latitude": "6.9798",
+            "longitude": "4.00329"
+        },
+        {
+            "city": "Ijebu-Ife",
+            "region": "16",
+            "country": "NG",
+            "latitude": "6.77837",
+            "longitude": "4.03386"
+        },
+        {
+            "city": "Ihuo",
+            "region": "00",
+            "country": "NG",
+            "latitude": "5.56667",
+            "longitude": "7.1"
+        },
+        {
+            "city": "Ihiala",
+            "region": "25",
+            "country": "NG",
+            "latitude": "5.85377",
+            "longitude": "6.86026"
+        },
+        {
+            "city": "Igede-Ekiti",
+            "region": "54",
+            "country": "NG",
+            "latitude": "7.66676",
+            "longitude": "5.13205"
+        },
+        {
+            "city": "Igbo-Ukwu",
+            "region": "25",
+            "country": "NG",
+            "latitude": "6.01669",
+            "longitude": "7.02654"
+        },
+        {
+            "city": "Igbor",
+            "region": "26",
+            "country": "NG",
+            "latitude": "7.4527",
+            "longitude": "8.6098"
+        },
+        {
+            "city": "Igbo Ora",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.43333",
+            "longitude": "3.28333"
+        },
+        {
+            "city": "Igboho",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.83333",
+            "longitude": "3.75"
+        },
+        {
+            "city": "Igbeti",
+            "region": "32",
+            "country": "NG",
+            "latitude": "8.75",
+            "longitude": "4.13333"
+        },
+        {
+            "city": "Igbara-Odo",
+            "region": "54",
+            "country": "NG",
+            "latitude": "7.50251",
+            "longitude": "5.06258"
+        },
+        {
+            "city": "Igarra",
+            "region": "37",
+            "country": "NG",
+            "latitude": "7.2827",
+            "longitude": "6.0878"
+        },
+        {
+            "city": "Igabi",
+            "region": "23",
+            "country": "NG",
+            "latitude": "10.78887",
+            "longitude": "7.77493"
+        },
+        {
+            "city": "Ifon",
+            "region": "48",
+            "country": "NG",
+            "latitude": "6.92412",
+            "longitude": "5.77603"
+        },
+        {
+            "city": "Ifo",
+            "region": "16",
+            "country": "NG",
+            "latitude": "6.81437",
+            "longitude": "3.19575"
+        },
+        {
+            "city": "Ifaki",
+            "region": "54",
+            "country": "NG",
+            "latitude": "7.78942",
+            "longitude": "5.24852"
+        },
+        {
+            "city": "Idi Iroko",
+            "region": "00",
+            "country": "NG",
+            "latitude": "6.63333",
+            "longitude": "2.73333"
+        },
+        {
+            "city": "Idanre",
+            "region": "48",
+            "country": "NG",
+            "latitude": "7.1127",
+            "longitude": "5.1159"
+        },
+        {
+            "city": "Idah",
+            "region": "41",
+            "country": "NG",
+            "latitude": "7.10651",
+            "longitude": "6.73415"
+        },
+        {
+            "city": "Icheu",
+            "region": "41",
+            "country": "NG",
+            "latitude": "7.7067",
+            "longitude": "6.7718"
+        },
+        {
+            "city": "Ibi",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.18333",
+            "longitude": "9.75"
+        },
+        {
+            "city": "Ibeto",
+            "region": "31",
+            "country": "NG",
+            "latitude": "10.48536",
+            "longitude": "5.14502"
+        },
+        {
+            "city": "Ibadan",
+            "region": "32",
+            "country": "NG",
+            "latitude": "7.38778",
+            "longitude": "3.89639"
+        },
+        {
+            "city": "Hunkuyi",
+            "region": "24",
+            "country": "NG",
+            "latitude": "11.26676",
+            "longitude": "7.65118"
+        },
+        {
+            "city": "Holma",
+            "region": "35",
+            "country": "NG",
+            "latitude": "9.90083",
+            "longitude": "13.05667"
+        },
+        {
+            "city": "Hinna",
+            "region": "55",
+            "country": "NG",
+            "latitude": "10.30426",
+            "longitude": "11.49905"
+        },
+        {
+            "city": "Hadejia",
+            "region": "39",
+            "country": "NG",
+            "latitude": "12.4498",
+            "longitude": "10.0444"
+        },
+        {
+            "city": "Gwoza",
+            "region": "27",
+            "country": "NG",
+            "latitude": "11.10359",
+            "longitude": "13.71298"
+        },
+        {
+            "city": "Gwio Kura",
+            "region": "44",
+            "country": "NG",
+            "latitude": "12.6753",
+            "longitude": "11.0682"
+        },
+        {
+            "city": "Gwasero",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.48333",
+            "longitude": "3.5"
+        },
+        {
+            "city": "Gwarzo",
+            "region": "29",
+            "country": "NG",
+            "latitude": "11.91521",
+            "longitude": "7.9346"
+        },
+        {
+            "city": "Gwaram",
+            "region": "39",
+            "country": "NG",
+            "latitude": "11.27639",
+            "longitude": "9.88583"
+        },
+        {
+            "city": "Gwaram",
+            "region": "46",
+            "country": "NG",
+            "latitude": "10.23295",
+            "longitude": "10.28572"
+        },
+        {
+            "city": "Gwandu",
+            "region": "40",
+            "country": "NG",
+            "latitude": "12.49382",
+            "longitude": "4.64227"
+        },
+        {
+            "city": "Gwadabawa",
+            "region": "51",
+            "country": "NG",
+            "latitude": "13.35612",
+            "longitude": "5.23664"
+        },
+        {
+            "city": "Gusau",
+            "region": "57",
+            "country": "NG",
+            "latitude": "12.16278",
+            "longitude": "6.66135"
+        },
+        {
+            "city": "Gummi",
+            "region": "57",
+            "country": "NG",
+            "latitude": "12.14358",
+            "longitude": "5.10809"
+        },
+        {
+            "city": "Gumel",
+            "region": "39",
+            "country": "NG",
+            "latitude": "12.62791",
+            "longitude": "9.39119"
+        },
+        {
+            "city": "Gulma",
+            "region": "40",
+            "country": "NG",
+            "latitude": "12.64231",
+            "longitude": "4.35545"
+        },
+        {
+            "city": "Gujba",
+            "region": "44",
+            "country": "NG",
+            "latitude": "11.5032",
+            "longitude": "11.9367"
+        },
+        {
+            "city": "Goronyo",
+            "region": "51",
+            "country": "NG",
+            "latitude": "13.44232",
+            "longitude": "5.67632"
+        },
+        {
+            "city": "Gorgoram",
+            "region": "44",
+            "country": "NG",
+            "latitude": "12.6398",
+            "longitude": "10.7039"
+        },
+        {
+            "city": "Gora",
+            "region": "24",
+            "country": "NG",
+            "latitude": "11.91294",
+            "longitude": "7.6653"
+        },
+        {
+            "city": "Goniri",
+            "region": "27",
+            "country": "NG",
+            "latitude": "11.48333",
+            "longitude": "12.31444"
+        },
+        {
+            "city": "Little Gombi",
+            "region": "35",
+            "country": "NG",
+            "latitude": "10.16138",
+            "longitude": "12.7399"
+        },
+        {
+            "city": "Gombe",
+            "region": "55",
+            "country": "NG",
+            "latitude": "10.28969",
+            "longitude": "11.16729"
+        },
+        {
+            "city": "Gembu",
+            "region": "00",
+            "country": "NG",
+            "latitude": "6.7",
+            "longitude": "11.26667"
+        },
+        {
+            "city": "Geidam",
+            "region": "44",
+            "country": "NG",
+            "latitude": "12.897",
+            "longitude": "11.9304"
+        },
+        {
+            "city": "Gbongan",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.46667",
+            "longitude": "4.35"
+        },
+        {
+            "city": "Gaya",
+            "region": "29",
+            "country": "NG",
+            "latitude": "11.86136",
+            "longitude": "8.99714"
+        },
+        {
+            "city": "Gassol",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.53333",
+            "longitude": "10.46667"
+        },
+        {
+            "city": "Gashua",
+            "region": "44",
+            "country": "NG",
+            "latitude": "12.871",
+            "longitude": "11.0482"
+        },
+        {
+            "city": "Garko",
+            "region": "55",
+            "country": "NG",
+            "latitude": "10.17506",
+            "longitude": "11.16458"
+        },
+        {
+            "city": "Ganye",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.43333",
+            "longitude": "12.06667"
+        },
+        {
+            "city": "Gandi",
+            "region": "51",
+            "country": "NG",
+            "latitude": "12.96358",
+            "longitude": "5.74337"
+        },
+        {
+            "city": "Gambaru",
+            "region": "27",
+            "country": "NG",
+            "latitude": "12.37066",
+            "longitude": "14.21731"
+        },
+        {
+            "city": "Gamawa",
+            "region": "46",
+            "country": "NG",
+            "latitude": "12.1343",
+            "longitude": "10.5396"
+        },
+        {
+            "city": "Gakem",
+            "region": "22",
+            "country": "NG",
+            "latitude": "6.76578",
+            "longitude": "8.98813"
+        },
+        {
+            "city": "Gagarawa",
+            "region": "39",
+            "country": "NG",
+            "latitude": "12.40741",
+            "longitude": "9.5277"
+        },
+        {
+            "city": "Gabarin",
+            "region": "46",
+            "country": "NG",
+            "latitude": "11.1093",
+            "longitude": "10.4441"
+        },
+        {
+            "city": "Funtua",
+            "region": "24",
+            "country": "NG",
+            "latitude": "11.52325",
+            "longitude": "7.30813"
+        },
+        {
+            "city": "Fiditi",
+            "region": "32",
+            "country": "NG",
+            "latitude": "7.71361",
+            "longitude": "3.91722"
+        },
+        {
+            "city": "Ezza Ohu",
+            "region": "53",
+            "country": "NG",
+            "latitude": "6.4373",
+            "longitude": "8.0862"
+        },
+        {
+            "city": "Etinan",
+            "region": "21",
+            "country": "NG",
+            "latitude": "4.84262",
+            "longitude": "7.85252"
+        },
+        {
+            "city": "Ete",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.05",
+            "longitude": "7.45"
+        },
+        {
+            "city": "Esuk Oron",
+            "region": "21",
+            "country": "NG",
+            "latitude": "4.80293",
+            "longitude": "8.25341"
+        },
+        {
+            "city": "Epe",
+            "region": "05",
+            "country": "NG",
+            "latitude": "6.58412",
+            "longitude": "3.98336"
+        },
+        {
+            "city": "Enugu-Ukwu",
+            "region": "25",
+            "country": "NG",
+            "latitude": "6.17851",
+            "longitude": "7.01156"
+        },
+        {
+            "city": "Enugu-Ezike",
+            "region": "47",
+            "country": "NG",
+            "latitude": "6.9825",
+            "longitude": "7.457"
+        },
+        {
+            "city": "Enugu",
+            "region": "47",
+            "country": "NG",
+            "latitude": "6.4402",
+            "longitude": "7.4943"
+        },
+        {
+            "city": "Emure-Ekiti",
+            "region": "54",
+            "country": "NG",
+            "latitude": "7.43614",
+            "longitude": "5.45932"
+        },
+        {
+            "city": "Elele",
+            "region": "50",
+            "country": "NG",
+            "latitude": "5.1009",
+            "longitude": "6.81411"
+        },
+        {
+            "city": "Ekpoma",
+            "region": "37",
+            "country": "NG",
+            "latitude": "6.74206",
+            "longitude": "6.139"
+        },
+        {
+            "city": "Eket",
+            "region": "21",
+            "country": "NG",
+            "latitude": "4.64122",
+            "longitude": "7.92092"
+        },
+        {
+            "city": "Ejirin",
+            "region": "05",
+            "country": "NG",
+            "latitude": "6.61423",
+            "longitude": "3.90019"
+        },
+        {
+            "city": "Ejigbo",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.9",
+            "longitude": "4.31667"
+        },
+        {
+            "city": "Eha Amufu",
+            "region": "47",
+            "country": "NG",
+            "latitude": "6.65915",
+            "longitude": "7.75961"
+        },
+        {
+            "city": "Egbe",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.21667",
+            "longitude": "5.51667"
+        },
+        {
+            "city": "Effon Alaiye",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.65",
+            "longitude": "4.91667"
+        },
+        {
+            "city": "Effium",
+            "region": "53",
+            "country": "NG",
+            "latitude": "6.62917",
+            "longitude": "8.05925"
+        },
+        {
+            "city": "Ebute Ikorodu",
+            "region": "05",
+            "country": "NG",
+            "latitude": "6.60086",
+            "longitude": "3.48818"
+        },
+        {
+            "city": "Dutsin Ma",
+            "region": "24",
+            "country": "NG",
+            "latitude": "12.45167",
+            "longitude": "7.49805"
+        },
+        {
+            "city": "Dutsen Wai",
+            "region": "23",
+            "country": "NG",
+            "latitude": "10.85009",
+            "longitude": "8.199"
+        },
+        {
+            "city": "Dutse",
+            "region": "39",
+            "country": "NG",
+            "latitude": "11.7594",
+            "longitude": "9.33921"
+        },
+        {
+            "city": "Duku",
+            "region": "31",
+            "country": "NG",
+            "latitude": "11.2361",
+            "longitude": "4.90727"
+        },
+        {
+            "city": "Dukku",
+            "region": "55",
+            "country": "NG",
+            "latitude": "10.82306",
+            "longitude": "10.77167"
+        },
+        {
+            "city": "Doma",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.38333",
+            "longitude": "8.35"
+        },
+        {
+            "city": "Disina",
+            "region": "46",
+            "country": "NG",
+            "latitude": "11.48135",
+            "longitude": "9.91903"
+        },
+        {
+            "city": "Dindima",
+            "region": "46",
+            "country": "NG",
+            "latitude": "10.22629",
+            "longitude": "10.15132"
+        },
+        {
+            "city": "Dikwa",
+            "region": "27",
+            "country": "NG",
+            "latitude": "12.02396",
+            "longitude": "13.91646"
+        },
+        {
+            "city": "Dengi",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.36667",
+            "longitude": "9.95"
+        },
+        {
+            "city": "Dekina",
+            "region": "41",
+            "country": "NG",
+            "latitude": "7.69475",
+            "longitude": "7.02218"
+        },
+        {
+            "city": "Deba Habe",
+            "region": "55",
+            "country": "NG",
+            "latitude": "10.20864",
+            "longitude": "11.38586"
+        },
+        {
+            "city": "Daura",
+            "region": "24",
+            "country": "NG",
+            "latitude": "13.03594",
+            "longitude": "8.31631"
+        },
+        {
+            "city": "Daura",
+            "region": "44",
+            "country": "NG",
+            "latitude": "11.5538",
+            "longitude": "11.4085"
+        },
+        {
+            "city": "Darazo",
+            "region": "46",
+            "country": "NG",
+            "latitude": "10.99375",
+            "longitude": "10.41179"
+        },
+        {
+            "city": "Dapchi",
+            "region": "44",
+            "country": "NG",
+            "latitude": "12.4904",
+            "longitude": "11.4944"
+        },
+        {
+            "city": "Dan Sadau",
+            "region": "57",
+            "country": "NG",
+            "latitude": "11.29621",
+            "longitude": "6.4952"
+        },
+        {
+            "city": "Dankama",
+            "region": "24",
+            "country": "NG",
+            "latitude": "13.29782",
+            "longitude": "7.79492"
+        },
+        {
+            "city": "Dankalwa",
+            "region": "44",
+            "country": "NG",
+            "latitude": "11.7443",
+            "longitude": "12.1867"
+        },
+        {
+            "city": "Danja",
+            "region": "24",
+            "country": "NG",
+            "latitude": "11.37643",
+            "longitude": "7.56249"
+        },
+        {
+            "city": "Dan Gora",
+            "region": "29",
+            "country": "NG",
+            "latitude": "11.53485",
+            "longitude": "8.15224"
+        },
+        {
+            "city": "Dange",
+            "region": "51",
+            "country": "NG",
+            "latitude": "12.85128",
+            "longitude": "5.34705"
+        },
+        {
+            "city": "Damboa",
+            "region": "27",
+            "country": "NG",
+            "latitude": "11.15604",
+            "longitude": "12.75758"
+        },
+        {
+            "city": "Dambarta",
+            "region": "29",
+            "country": "NG",
+            "latitude": "12.43303",
+            "longitude": "8.51541"
+        },
+        {
+            "city": "Damaturu",
+            "region": "44",
+            "country": "NG",
+            "latitude": "11.747",
+            "longitude": "11.9608"
+        },
+        {
+            "city": "Damasak",
+            "region": "27",
+            "country": "NG",
+            "latitude": "13.09771",
+            "longitude": "12.4952"
+        },
+        {
+            "city": "Dakingari",
+            "region": "40",
+            "country": "NG",
+            "latitude": "11.64511",
+            "longitude": "4.06046"
+        },
+        {
+            "city": "Dadiya",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.61667",
+            "longitude": "11.43333"
+        },
+        {
+            "city": "Dabai",
+            "region": "40",
+            "country": "NG",
+            "latitude": "11.47652",
+            "longitude": "5.20625"
+        },
+        {
+            "city": "Chafe",
+            "region": "57",
+            "country": "NG",
+            "latitude": "11.95527",
+            "longitude": "6.92232"
+        },
+        {
+            "city": "Calabar",
+            "region": "22",
+            "country": "NG",
+            "latitude": "4.9517",
+            "longitude": "8.322"
+        },
+        {
+            "city": "Burutu",
+            "region": "36",
+            "country": "NG",
+            "latitude": "5.35091",
+            "longitude": "5.50758"
+        },
+        {
+            "city": "Burumburum",
+            "region": "23",
+            "country": "NG",
+            "latitude": "11.39106",
+            "longitude": "8.72341"
+        },
+        {
+            "city": "Bunza",
+            "region": "40",
+            "country": "NG",
+            "latitude": "12.08444",
+            "longitude": "4.02111"
+        },
+        {
+            "city": "Bununu Kasa",
+            "region": "46",
+            "country": "NG",
+            "latitude": "9.86806",
+            "longitude": "9.66278"
+        },
+        {
+            "city": "Bununu Dass",
+            "region": "00",
+            "country": "NG",
+            "latitude": "10",
+            "longitude": "9.51667"
+        },
+        {
+            "city": "Bukuru",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.8",
+            "longitude": "8.86667"
+        },
+        {
+            "city": "Buguma",
+            "region": "50",
+            "country": "NG",
+            "latitude": "4.73407",
+            "longitude": "6.86345"
+        },
+        {
+            "city": "Buga",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.49056",
+            "longitude": "7.34139"
+        },
+        {
+            "city": "Brass",
+            "region": "52",
+            "country": "NG",
+            "latitude": "4.31506",
+            "longitude": "6.24176"
+        },
+        {
+            "city": "Bornu Yassu",
+            "region": "27",
+            "country": "NG",
+            "latitude": "12.2774",
+            "longitude": "12.5552"
+        },
+        {
+            "city": "Bori",
+            "region": "50",
+            "country": "NG",
+            "latitude": "4.67366",
+            "longitude": "7.36201"
+        },
+        {
+            "city": "Bopo",
+            "region": "26",
+            "country": "NG",
+            "latitude": "7.6565",
+            "longitude": "7.8664"
+        },
+        {
+            "city": "Bonny",
+            "region": "50",
+            "country": "NG",
+            "latitude": "4.4522",
+            "longitude": "7.16808"
+        },
+        {
+            "city": "Bomadi",
+            "region": "36",
+            "country": "NG",
+            "latitude": "5.15931",
+            "longitude": "5.92516"
+        },
+        {
+            "city": "Bokkos",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.3",
+            "longitude": "9"
+        },
+        {
+            "city": "Bokani",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.43333",
+            "longitude": "5.2"
+        },
+        {
+            "city": "Boju",
+            "region": "26",
+            "country": "NG",
+            "latitude": "7.37834",
+            "longitude": "7.91119"
+        },
+        {
+            "city": "Boi",
+            "region": "49",
+            "country": "NG",
+            "latitude": "9.56833",
+            "longitude": "9.49528"
+        },
+        {
+            "city": "Bode Sadu",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.93333",
+            "longitude": "4.78333"
+        },
+        {
+            "city": "Biu",
+            "region": "27",
+            "country": "NG",
+            "latitude": "10.61285",
+            "longitude": "12.19458"
+        },
+        {
+            "city": "Birniwa",
+            "region": "39",
+            "country": "NG",
+            "latitude": "12.7903",
+            "longitude": "10.2348"
+        },
+        {
+            "city": "Birnin Kudu",
+            "region": "39",
+            "country": "NG",
+            "latitude": "11.44588",
+            "longitude": "9.4984"
+        },
+        {
+            "city": "Birnin Kebbi",
+            "region": "40",
+            "country": "NG",
+            "latitude": "12.45389",
+            "longitude": "4.1975"
+        },
+        {
+            "city": "Sofo-Birnin-Gwari",
+            "region": "23",
+            "country": "NG",
+            "latitude": "11.01537",
+            "longitude": "6.78036"
+        },
+        {
+            "city": "Bin Yauri",
+            "region": "40",
+            "country": "NG",
+            "latitude": "10.7823",
+            "longitude": "4.81135"
+        },
+        {
+            "city": "Binji",
+            "region": "51",
+            "country": "NG",
+            "latitude": "13.22277",
+            "longitude": "4.90955"
+        },
+        {
+            "city": "Biliri",
+            "region": "55",
+            "country": "NG",
+            "latitude": "9.86472",
+            "longitude": "11.22528"
+        },
+        {
+            "city": "Bida",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.08333",
+            "longitude": "6.01667"
+        },
+        {
+            "city": "Benisheik",
+            "region": "27",
+            "country": "NG",
+            "latitude": "11.8072",
+            "longitude": "12.4909"
+        },
+        {
+            "city": "Benin City",
+            "region": "37",
+            "country": "NG",
+            "latitude": "6.33504",
+            "longitude": "5.62749"
+        },
+        {
+            "city": "Bende",
+            "region": "45",
+            "country": "NG",
+            "latitude": "5.55718",
+            "longitude": "7.63676"
+        },
+        {
+            "city": "Bena",
+            "region": "40",
+            "country": "NG",
+            "latitude": "11.28444",
+            "longitude": "5.93472"
+        },
+        {
+            "city": "Beli",
+            "region": "43",
+            "country": "NG",
+            "latitude": "7.85868",
+            "longitude": "10.97187"
+        },
+        {
+            "city": "Bebeji",
+            "region": "29",
+            "country": "NG",
+            "latitude": "11.66726",
+            "longitude": "8.26217"
+        },
+        {
+            "city": "Bauchi",
+            "region": "46",
+            "country": "NG",
+            "latitude": "10.31344",
+            "longitude": "9.84327"
+        },
+        {
+            "city": "Batsari",
+            "region": "24",
+            "country": "NG",
+            "latitude": "12.75147",
+            "longitude": "7.24472"
+        },
+        {
+            "city": "Baro",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.6",
+            "longitude": "6.41667"
+        },
+        {
+            "city": "Bara",
+            "region": "55",
+            "country": "NG",
+            "latitude": "10.37444",
+            "longitude": "10.72884"
+        },
+        {
+            "city": "Bama",
+            "region": "27",
+            "country": "NG",
+            "latitude": "11.5221",
+            "longitude": "13.68558"
+        },
+        {
+            "city": "Bakori",
+            "region": "24",
+            "country": "NG",
+            "latitude": "11.55445",
+            "longitude": "7.42425"
+        },
+        {
+            "city": "Baissa",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.23333",
+            "longitude": "10.63333"
+        },
+        {
+            "city": "Bagudo",
+            "region": "40",
+            "country": "NG",
+            "latitude": "11.40329",
+            "longitude": "4.22958"
+        },
+        {
+            "city": "Bugana",
+            "region": "41",
+            "country": "NG",
+            "latitude": "7.99917",
+            "longitude": "7.58361"
+        },
+        {
+            "city": "Badeggi",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.05",
+            "longitude": "6.15"
+        },
+        {
+            "city": "Badagry",
+            "region": "05",
+            "country": "NG",
+            "latitude": "6.41667",
+            "longitude": "2.88333"
+        },
+        {
+            "city": "Babura",
+            "region": "39",
+            "country": "NG",
+            "latitude": "12.77305",
+            "longitude": "9.01583"
+        },
+        {
+            "city": "Babana",
+            "region": "31",
+            "country": "NG",
+            "latitude": "10.42949",
+            "longitude": "3.81495"
+        },
+        {
+            "city": "Azare",
+            "region": "46",
+            "country": "NG",
+            "latitude": "11.6765",
+            "longitude": "10.1948"
+        },
+        {
+            "city": "Awka",
+            "region": "25",
+            "country": "NG",
+            "latitude": "6.21009",
+            "longitude": "7.07411"
+        },
+        {
+            "city": "Awgu",
+            "region": "47",
+            "country": "NG",
+            "latitude": "6.0742",
+            "longitude": "7.4786"
+        },
+        {
+            "city": "Auna",
+            "region": "31",
+            "country": "NG",
+            "latitude": "10.18805",
+            "longitude": "4.72318"
+        },
+        {
+            "city": "Auchi",
+            "region": "37",
+            "country": "NG",
+            "latitude": "7.06667",
+            "longitude": "6.26667"
+        },
+        {
+            "city": "Asaba",
+            "region": "36",
+            "country": "NG",
+            "latitude": "6.20064",
+            "longitude": "6.73384"
+        },
+        {
+            "city": "Arochukwu",
+            "region": "45",
+            "country": "NG",
+            "latitude": "5.38979",
+            "longitude": "7.91404"
+        },
+        {
+            "city": "Argungu",
+            "region": "40",
+            "country": "NG",
+            "latitude": "12.74334",
+            "longitude": "4.52687"
+        },
+        {
+            "city": "Araomoko Ekiti",
+            "region": "54",
+            "country": "NG",
+            "latitude": "7.70927",
+            "longitude": "5.04474"
+        },
+        {
+            "city": "Apomu",
+            "region": "00",
+            "country": "NG",
+            "latitude": "7.33333",
+            "longitude": "4.18333"
+        },
+        {
+            "city": "Ankpa",
+            "region": "41",
+            "country": "NG",
+            "latitude": "7.37058",
+            "longitude": "7.6253"
+        },
+        {
+            "city": "Anka",
+            "region": "57",
+            "country": "NG",
+            "latitude": "12.11381",
+            "longitude": "5.92427"
+        },
+        {
+            "city": "Anchau",
+            "region": "23",
+            "country": "NG",
+            "latitude": "10.95967",
+            "longitude": "8.39155"
+        },
+        {
+            "city": "Amper",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.35",
+            "longitude": "9.7"
+        },
+        {
+            "city": "Amassoma",
+            "region": "52",
+            "country": "NG",
+            "latitude": "4.96917",
+            "longitude": "6.10972"
+        },
+        {
+            "city": "Amaigbo",
+            "region": "45",
+            "country": "NG",
+            "latitude": "5.78917",
+            "longitude": "7.83829"
+        },
+        {
+            "city": "Amagunze",
+            "region": "47",
+            "country": "NG",
+            "latitude": "6.3267",
+            "longitude": "7.6539"
+        },
+        {
+            "city": "Aliade",
+            "region": "26",
+            "country": "NG",
+            "latitude": "7.2964",
+            "longitude": "8.487"
+        },
+        {
+            "city": "Alapa",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.61667",
+            "longitude": "4.38333"
+        },
+        {
+            "city": "Akwanga",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.91667",
+            "longitude": "8.38333"
+        },
+        {
+            "city": "Akure",
+            "region": "48",
+            "country": "NG",
+            "latitude": "7.25256",
+            "longitude": "5.19312"
+        },
+        {
+            "city": "Aku",
+            "region": "47",
+            "country": "NG",
+            "latitude": "6.7081",
+            "longitude": "7.3167"
+        },
+        {
+            "city": "Akko",
+            "region": "55",
+            "country": "NG",
+            "latitude": "10.28899",
+            "longitude": "10.9732"
+        },
+        {
+            "city": "Ake-Eze",
+            "region": "47",
+            "country": "NG",
+            "latitude": "5.91677",
+            "longitude": "7.67615"
+        },
+        {
+            "city": "Akankpa",
+            "region": "22",
+            "country": "NG",
+            "latitude": "5.1264",
+            "longitude": "8.1898"
+        },
+        {
+            "city": "Ajasse Ipo",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.23333",
+            "longitude": "4.81667"
+        },
+        {
+            "city": "Ajaokuta",
+            "region": "41",
+            "country": "NG",
+            "latitude": "7.4605",
+            "longitude": "6.6947"
+        },
+        {
+            "city": "Ahoada",
+            "region": "50",
+            "country": "NG",
+            "latitude": "5.07395",
+            "longitude": "6.65353"
+        },
+        {
+            "city": "Agulu",
+            "region": "25",
+            "country": "NG",
+            "latitude": "6.11",
+            "longitude": "7.0724"
+        },
+        {
+            "city": "Ago Are",
+            "region": "00",
+            "country": "NG",
+            "latitude": "8.5",
+            "longitude": "3.41667"
+        },
+        {
+            "city": "Agenebode",
+            "region": "37",
+            "country": "NG",
+            "latitude": "7.106",
+            "longitude": "6.6966"
+        },
+        {
+            "city": "Agbor",
+            "region": "36",
+            "country": "NG",
+            "latitude": "6.25183",
+            "longitude": "6.19337"
+        },
+        {
+            "city": "Agbabu",
+            "region": "48",
+            "country": "NG",
+            "latitude": "6.58862",
+            "longitude": "4.8343"
+        },
+        {
+            "city": "Agaie",
+            "region": "00",
+            "country": "NG",
+            "latitude": "9.01667",
+            "longitude": "6.31667"
+        },
+        {
+            "city": "Afikpo",
+            "region": "53",
+            "country": "NG",
+            "latitude": "5.89312",
+            "longitude": "7.93735"
+        },
+        {
+            "city": "Adoru",
+            "region": "41",
+            "country": "NG",
+            "latitude": "6.97661",
+            "longitude": "7.16268"
+        },
+        {
+            "city": "Ado Odo",
+            "region": "00",
+            "country": "NG",
+            "latitude": "6.6",
+            "longitude": "2.93333"
+        },
+        {
+            "city": "Ado-Ekiti",
+            "region": "54",
+            "country": "NG",
+            "latitude": "7.621",
+            "longitude": "5.2215"
+        },
+        {
+            "city": "Adani",
+            "region": "47",
+            "country": "NG",
+            "latitude": "6.73971",
+            "longitude": "7.01117"
+        },
+        {
+            "city": "Abuja",
+            "region": "11",
+            "country": "NG",
+            "latitude": "9.05735",
+            "longitude": "7.48976"
+        },
+        {
+            "city": "Abraka",
+            "region": "36",
+            "country": "NG",
+            "latitude": "5.79023",
+            "longitude": "6.10473"
+        },
+        {
+            "city": "Abocho",
+            "region": "41",
+            "country": "NG",
+            "latitude": "7.5677",
+            "longitude": "6.9863"
+        },
+        {
+            "city": "Abeokuta",
+            "region": "16",
+            "country": "NG",
+            "latitude": "7.15",
+            "longitude": "3.35"
+        },
+        {
+            "city": "Abakaliki",
+            "region": "53",
+            "country": "NG",
+            "latitude": "6.31625",
+            "longitude": "8.11691"
+        },
+        {
+            "city": "Abak",
+            "region": "21",
+            "country": "NG",
+            "latitude": "4.9797",
+            "longitude": "7.79171"
+        },
+        {
+            "city": "Aba",
+            "region": "45",
+            "country": "NG",
+            "latitude": "5.10658",
+            "longitude": "7.36667"
+        },
+        {
+            "city": "Degema Hulk",
+            "region": "50",
+            "country": "NG",
+            "latitude": "4.76254",
+            "longitude": "6.752"
+        }
+    ]
+}

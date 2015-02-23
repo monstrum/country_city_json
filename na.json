@@ -1,0 +1,258 @@
+{
+    "country": "Namibia",
+    "code": "NA",
+    "cities": [
+        {
+            "city": "Katima Mulilo",
+            "region": "28",
+            "country": "NA",
+            "latitude": "-17.5",
+            "longitude": "24.26667"
+        },
+        {
+            "city": "Windhoek",
+            "region": "21",
+            "country": "NA",
+            "latitude": "-22.55941",
+            "longitude": "17.08323"
+        },
+        {
+            "city": "Warmbad",
+            "region": "31",
+            "country": "NA",
+            "latitude": "-28.45",
+            "longitude": "18.73333"
+        },
+        {
+            "city": "Usakos",
+            "region": "29",
+            "country": "NA",
+            "latitude": "-22",
+            "longitude": "15.6"
+        },
+        {
+            "city": "Tsumeb",
+            "region": "38",
+            "country": "NA",
+            "latitude": "-19.23333",
+            "longitude": "17.71667"
+        },
+        {
+            "city": "Swakopmund",
+            "region": "29",
+            "country": "NA",
+            "latitude": "-22.68333",
+            "longitude": "14.53333"
+        },
+        {
+            "city": "Rundu",
+            "region": "34",
+            "country": "NA",
+            "latitude": "-17.93333",
+            "longitude": "19.76667"
+        },
+        {
+            "city": "Rehoboth",
+            "region": "30",
+            "country": "NA",
+            "latitude": "-23.31667",
+            "longitude": "17.08333"
+        },
+        {
+            "city": "Outjo",
+            "region": "32",
+            "country": "NA",
+            "latitude": "-20.11667",
+            "longitude": "16.15"
+        },
+        {
+            "city": "Otjiwarongo",
+            "region": "13",
+            "country": "NA",
+            "latitude": "-20.46369",
+            "longitude": "16.64772"
+        },
+        {
+            "city": "Otjimbingwe",
+            "region": "29",
+            "country": "NA",
+            "latitude": "-22.35",
+            "longitude": "16.13333"
+        },
+        {
+            "city": "Otavi",
+            "region": "39",
+            "country": "NA",
+            "latitude": "-19.65",
+            "longitude": "17.33333"
+        },
+        {
+            "city": "Oshikango",
+            "region": "33",
+            "country": "NA",
+            "latitude": "-17.4",
+            "longitude": "15.88333"
+        },
+        {
+            "city": "Oshakati",
+            "region": "37",
+            "country": "NA",
+            "latitude": "-17.78333",
+            "longitude": "15.68333"
+        },
+        {
+            "city": "Oranjemund",
+            "region": "31",
+            "country": "NA",
+            "latitude": "-28.55",
+            "longitude": "16.43333"
+        },
+        {
+            "city": "Opuwo",
+            "region": "06",
+            "country": "NA",
+            "latitude": "-18.06068",
+            "longitude": "13.83998"
+        },
+        {
+            "city": "Ongwediva",
+            "region": "37",
+            "country": "NA",
+            "latitude": "-17.78333",
+            "longitude": "15.76667"
+        },
+        {
+            "city": "Ongandjera",
+            "region": "36",
+            "country": "NA",
+            "latitude": "-17.88333",
+            "longitude": "15.06667"
+        },
+        {
+            "city": "Ondangwa",
+            "region": "37",
+            "country": "NA",
+            "latitude": "-17.91667",
+            "longitude": "15.95"
+        },
+        {
+            "city": "Omaruru",
+            "region": "29",
+            "country": "NA",
+            "latitude": "-21.43333",
+            "longitude": "15.93333"
+        },
+        {
+            "city": "Okakarara",
+            "region": "39",
+            "country": "NA",
+            "latitude": "-20.58333",
+            "longitude": "17.43333"
+        },
+        {
+            "city": "Okahandja",
+            "region": "39",
+            "country": "NA",
+            "latitude": "-21.98333",
+            "longitude": "16.91667"
+        },
+        {
+            "city": "Mariental",
+            "region": "30",
+            "country": "NA",
+            "latitude": "-24.63333",
+            "longitude": "17.96667"
+        },
+        {
+            "city": "Maltah\u00f6he",
+            "region": "30",
+            "country": "NA",
+            "latitude": "-24.83333",
+            "longitude": "16.98333"
+        },
+        {
+            "city": "L\u00fcderitz",
+            "region": "31",
+            "country": "NA",
+            "latitude": "-26.64806",
+            "longitude": "15.15944"
+        },
+        {
+            "city": "Khorixas",
+            "region": "32",
+            "country": "NA",
+            "latitude": "-20.36667",
+            "longitude": "14.96667"
+        },
+        {
+            "city": "Keetmanshoop",
+            "region": "31",
+            "country": "NA",
+            "latitude": "-26.58333",
+            "longitude": "18.13333"
+        },
+        {
+            "city": "Karibib",
+            "region": "29",
+            "country": "NA",
+            "latitude": "-21.93333",
+            "longitude": "15.83333"
+        },
+        {
+            "city": "Karasburg",
+            "region": "31",
+            "country": "NA",
+            "latitude": "-28.01667",
+            "longitude": "18.75"
+        },
+        {
+            "city": "Hentiesbaai",
+            "region": "29",
+            "country": "NA",
+            "latitude": "-22.11667",
+            "longitude": "14.28333"
+        },
+        {
+            "city": "Grootfontein",
+            "region": "39",
+            "country": "NA",
+            "latitude": "-19.56667",
+            "longitude": "18.11667"
+        },
+        {
+            "city": "Gobabis",
+            "region": "35",
+            "country": "NA",
+            "latitude": "-22.45",
+            "longitude": "18.96667"
+        },
+        {
+            "city": "Bethanie",
+            "region": "31",
+            "country": "NA",
+            "latitude": "-26.48333",
+            "longitude": "17.15"
+        },
+        {
+            "city": "Aranos",
+            "region": "30",
+            "country": "NA",
+            "latitude": "-24.13333",
+            "longitude": "19.11667"
+        },
+        {
+            "city": "Arandis",
+            "region": "29",
+            "country": "NA",
+            "latitude": "-22.41667",
+            "longitude": "14.96667"
+        },
+        {
+            "city": "Walvis Bay",
+            "region": "29",
+            "country": "NA",
+            "latitude": "-22.9575",
+            "longitude": "14.50528"
+        }
+    ]
+}

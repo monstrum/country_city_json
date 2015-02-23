@@ -1,0 +1,83 @@
+{
+    "country": "Djibouti",
+    "code": "DJ",
+    "cities": [
+        {
+            "city": "Tadjoura",
+            "region": "05",
+            "country": "DJ",
+            "latitude": "11.78528",
+            "longitude": "42.88444"
+        },
+        {
+            "city": "Obock",
+            "region": "04",
+            "country": "DJ",
+            "latitude": "11.96306",
+            "longitude": "43.29056"
+        },
+        {
+            "city": "Loyada",
+            "region": "07",
+            "country": "DJ",
+            "latitude": "11.46111",
+            "longitude": "43.25278"
+        },
+        {
+            "city": "Holhol",
+            "region": "01",
+            "country": "DJ",
+            "latitude": "11.31028",
+            "longitude": "42.92944"
+        },
+        {
+            "city": "Dorra",
+            "region": "05",
+            "country": "DJ",
+            "latitude": "12.14944",
+            "longitude": "42.4775"
+        },
+        {
+            "city": "Djibouti",
+            "region": "07",
+            "country": "DJ",
+            "latitude": "11.58767",
+            "longitude": "43.14468"
+        },
+        {
+            "city": "Dikhil",
+            "region": "06",
+            "country": "DJ",
+            "latitude": "11.10861",
+            "longitude": "42.37389"
+        },
+        {
+            "city": "\u2018Arta",
+            "region": "08",
+            "country": "DJ",
+            "latitude": "11.52222",
+            "longitude": "42.84194"
+        },
+        {
+            "city": "\u2018Ali Sabieh",
+            "region": "01",
+            "country": "DJ",
+            "latitude": "11.15583",
+            "longitude": "42.7125"
+        },
+        {
+            "city": "Ala\u00efli \u1e0ea\u1e0f\u1e0fa\u2018",
+            "region": "04",
+            "country": "DJ",
+            "latitude": "12.42167",
+            "longitude": "42.89556"
+        },
+        {
+            "city": "G\u00e2l\u00e2fi",
+            "region": "06",
+            "country": "DJ",
+            "latitude": "11.71583",
+            "longitude": "41.83611"
+        }
+    ]
+}

@@ -1,0 +1,258 @@
+{
+    "country": "Angola",
+    "code": "AO",
+    "cities": [
+        {
+            "city": "Saurimo",
+            "region": "18",
+            "country": "AO",
+            "latitude": "-9.66078",
+            "longitude": "20.39155"
+        },
+        {
+            "city": "Lucapa",
+            "region": "17",
+            "country": "AO",
+            "latitude": "-8.41915",
+            "longitude": "20.74466"
+        },
+        {
+            "city": "Lumeje",
+            "region": "14",
+            "country": "AO",
+            "latitude": "-11.55",
+            "longitude": "20.78333"
+        },
+        {
+            "city": "Luau",
+            "region": "14",
+            "country": "AO",
+            "latitude": "-10.70727",
+            "longitude": "22.22466"
+        },
+        {
+            "city": "Le\u00faa",
+            "region": "14",
+            "country": "AO",
+            "latitude": "-11.65",
+            "longitude": "20.45"
+        },
+        {
+            "city": "Cazaji",
+            "region": "18",
+            "country": "AO",
+            "latitude": "-11.06715",
+            "longitude": "20.70148"
+        },
+        {
+            "city": "U\u00edge",
+            "region": "15",
+            "country": "AO",
+            "latitude": "-7.61328",
+            "longitude": "15.05662"
+        },
+        {
+            "city": "Soio",
+            "region": "16",
+            "country": "AO",
+            "latitude": "-6.1349",
+            "longitude": "12.36894"
+        },
+        {
+            "city": "Nzeto",
+            "region": "16",
+            "country": "AO",
+            "latitude": "-7.23116",
+            "longitude": "12.8666"
+        },
+        {
+            "city": "N\u2019dalatando",
+            "region": "05",
+            "country": "AO",
+            "latitude": "-9.3",
+            "longitude": "14.91667"
+        },
+        {
+            "city": "Mbanza Congo",
+            "region": "16",
+            "country": "AO",
+            "latitude": "-6.26703",
+            "longitude": "14.2401"
+        },
+        {
+            "city": "Malanje",
+            "region": "12",
+            "country": "AO",
+            "latitude": "-9.54472",
+            "longitude": "16.34528"
+        },
+        {
+            "city": "Luanda",
+            "region": "20",
+            "country": "AO",
+            "latitude": "-8.8368",
+            "longitude": "13.23317"
+        },
+        {
+            "city": "Caxito",
+            "region": "19",
+            "country": "AO",
+            "latitude": "-8.58",
+            "longitude": "13.66417"
+        },
+        {
+            "city": "Camabatela",
+            "region": "05",
+            "country": "AO",
+            "latitude": "-8.18812",
+            "longitude": "15.37495"
+        },
+        {
+            "city": "Cabinda",
+            "region": "03",
+            "country": "AO",
+            "latitude": "-5.55",
+            "longitude": "12.2"
+        },
+        {
+            "city": "Uacu Cungo",
+            "region": "06",
+            "country": "AO",
+            "latitude": "-11.36343",
+            "longitude": "15.12078"
+        },
+        {
+            "city": "Sumbe",
+            "region": "06",
+            "country": "AO",
+            "latitude": "-11.20605",
+            "longitude": "13.84371"
+        },
+        {
+            "city": "Quibala",
+            "region": "06",
+            "country": "AO",
+            "latitude": "-10.73366",
+            "longitude": "14.97995"
+        },
+        {
+            "city": "Ondjiva",
+            "region": "07",
+            "country": "AO",
+            "latitude": "-17.06667",
+            "longitude": "15.73333"
+        },
+        {
+            "city": "Namibe",
+            "region": "13",
+            "country": "AO",
+            "latitude": "-15.19611",
+            "longitude": "12.15222"
+        },
+        {
+            "city": "Menongue",
+            "region": "04",
+            "country": "AO",
+            "latitude": "-14.6585",
+            "longitude": "17.69099"
+        },
+        {
+            "city": "Luena",
+            "region": "14",
+            "country": "AO",
+            "latitude": "-11.78333",
+            "longitude": "19.91667"
+        },
+        {
+            "city": "Lubango",
+            "region": "09",
+            "country": "AO",
+            "latitude": "-14.91667",
+            "longitude": "13.5"
+        },
+        {
+            "city": "Longonjo",
+            "region": "08",
+            "country": "AO",
+            "latitude": "-12.90667",
+            "longitude": "15.25333"
+        },
+        {
+            "city": "Lobito",
+            "region": "01",
+            "country": "AO",
+            "latitude": "-12.34806",
+            "longitude": "13.54556"
+        },
+        {
+            "city": "Kuito",
+            "region": "02",
+            "country": "AO",
+            "latitude": "-12.38333",
+            "longitude": "16.93333"
+        },
+        {
+            "city": "Huambo",
+            "region": "08",
+            "country": "AO",
+            "latitude": "-12.77611",
+            "longitude": "15.73917"
+        },
+        {
+            "city": "Chissamba",
+            "region": "02",
+            "country": "AO",
+            "latitude": "-12.16667",
+            "longitude": "17.33333"
+        },
+        {
+            "city": "Catumbela",
+            "region": "01",
+            "country": "AO",
+            "latitude": "-12.43139",
+            "longitude": "13.54722"
+        },
+        {
+            "city": "Catabola",
+            "region": "02",
+            "country": "AO",
+            "latitude": "-12.15",
+            "longitude": "17.28333"
+        },
+        {
+            "city": "Camacupa",
+            "region": "02",
+            "country": "AO",
+            "latitude": "-12.01667",
+            "longitude": "17.48333"
+        },
+        {
+            "city": "Caluquembe",
+            "region": "09",
+            "country": "AO",
+            "latitude": "-13.78333",
+            "longitude": "14.68333"
+        },
+        {
+            "city": "Caconda",
+            "region": "09",
+            "country": "AO",
+            "latitude": "-13.73333",
+            "longitude": "15.06667"
+        },
+        {
+            "city": "Ca\u00e1la",
+            "region": "08",
+            "country": "AO",
+            "latitude": "-12.8525",
+            "longitude": "15.56056"
+        },
+        {
+            "city": "Benguela",
+            "region": "01",
+            "country": "AO",
+            "latitude": "-12.57833",
+            "longitude": "13.40722"
+        }
+    ]
+}

@@ -1,0 +1,3807 @@
+{
+    "country": "Norway",
+    "code": "NO",
+    "cities": [
+        {
+            "city": "Vard\u00f8",
+            "region": "05",
+            "country": "NO",
+            "latitude": "70.37048",
+            "longitude": "31.11066"
+        },
+        {
+            "city": "Varangerbotn",
+            "region": "05",
+            "country": "NO",
+            "latitude": "70.17278",
+            "longitude": "28.55598"
+        },
+        {
+            "city": "Vads\u00f8",
+            "region": "05",
+            "country": "NO",
+            "latitude": "70.07436",
+            "longitude": "29.74872"
+        },
+        {
+            "city": "Storslett",
+            "region": "18",
+            "country": "NO",
+            "latitude": "69.76783",
+            "longitude": "21.02466"
+        },
+        {
+            "city": "Skjerv\u00f8y",
+            "region": "18",
+            "country": "NO",
+            "latitude": "70.03114",
+            "longitude": "20.97141"
+        },
+        {
+            "city": "Olderdalen",
+            "region": "18",
+            "country": "NO",
+            "latitude": "69.60407",
+            "longitude": "20.53272"
+        },
+        {
+            "city": "\u00d8ksfjord",
+            "region": "05",
+            "country": "NO",
+            "latitude": "70.23957",
+            "longitude": "22.34786"
+        },
+        {
+            "city": "Mehamn",
+            "region": "05",
+            "country": "NO",
+            "latitude": "71.0357",
+            "longitude": "27.84917"
+        },
+        {
+            "city": "Lyngseidet",
+            "region": "18",
+            "country": "NO",
+            "latitude": "69.57629",
+            "longitude": "20.21887"
+        },
+        {
+            "city": "Lakselv",
+            "region": "05",
+            "country": "NO",
+            "latitude": "70.05133",
+            "longitude": "24.97182"
+        },
+        {
+            "city": "Kvalsund",
+            "region": "05",
+            "country": "NO",
+            "latitude": "70.50271",
+            "longitude": "23.97974"
+        },
+        {
+            "city": "Kj\u00f8llefjord",
+            "region": "05",
+            "country": "NO",
+            "latitude": "70.94574",
+            "longitude": "27.3465"
+        },
+        {
+            "city": "Kirkenes",
+            "region": "05",
+            "country": "NO",
+            "latitude": "69.72706",
+            "longitude": "30.04578"
+        },
+        {
+            "city": "Kautokeino",
+            "region": "05",
+            "country": "NO",
+            "latitude": "69.01247",
+            "longitude": "23.04116"
+        },
+        {
+            "city": "Karasjok",
+            "region": "05",
+            "country": "NO",
+            "latitude": "69.47187",
+            "longitude": "25.51122"
+        },
+        {
+            "city": "Honningsv\u00e5g",
+            "region": "05",
+            "country": "NO",
+            "latitude": "70.98209",
+            "longitude": "25.97037"
+        },
+        {
+            "city": "Hav\u00f8ysund",
+            "region": "05",
+            "country": "NO",
+            "latitude": "70.99634",
+            "longitude": "24.66217"
+        },
+        {
+            "city": "Hammerfest",
+            "region": "05",
+            "country": "NO",
+            "latitude": "70.66336",
+            "longitude": "23.68209"
+        },
+        {
+            "city": "Burfjord",
+            "region": "18",
+            "country": "NO",
+            "latitude": "69.93804",
+            "longitude": "22.05205"
+        },
+        {
+            "city": "Bj\u00f8rnevatn",
+            "region": "05",
+            "country": "NO",
+            "latitude": "69.66722",
+            "longitude": "29.98472"
+        },
+        {
+            "city": "Berlev\u00e5g",
+            "region": "05",
+            "country": "NO",
+            "latitude": "70.85778",
+            "longitude": "29.08636"
+        },
+        {
+            "city": "B\u00e5tsfjord",
+            "region": "05",
+            "country": "NO",
+            "latitude": "70.63445",
+            "longitude": "29.71848"
+        },
+        {
+            "city": "Alta",
+            "region": "05",
+            "country": "NO",
+            "latitude": "69.96887",
+            "longitude": "23.27165"
+        },
+        {
+            "city": "Rypefjord",
+            "region": "05",
+            "country": "NO",
+            "latitude": "70.63333",
+            "longitude": "23.66667"
+        },
+        {
+            "city": "Ytre Strai",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.2",
+            "longitude": "7.9"
+        },
+        {
+            "city": "Ytre Sk\u00e5levik",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.08333",
+            "longitude": "8.01667"
+        },
+        {
+            "city": "Ytre Arna",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.46667",
+            "longitude": "5.43333"
+        },
+        {
+            "city": "Vossevangen",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.62296",
+            "longitude": "6.42286"
+        },
+        {
+            "city": "Volda",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.14762",
+            "longitude": "6.07408"
+        },
+        {
+            "city": "Vinstra",
+            "region": "11",
+            "country": "NO",
+            "latitude": "61.59515",
+            "longitude": "9.75232"
+        },
+        {
+            "city": "Vik\u00f8yri",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.08794",
+            "longitude": "6.5797"
+        },
+        {
+            "city": "Vikes\u00e5",
+            "region": "14",
+            "country": "NO",
+            "latitude": "58.63759",
+            "longitude": "6.09133"
+        },
+        {
+            "city": "Vikersund",
+            "region": "04",
+            "country": "NO",
+            "latitude": "59.96592",
+            "longitude": "9.99501"
+        },
+        {
+            "city": "Vik",
+            "region": "09",
+            "country": "NO",
+            "latitude": "65.31254",
+            "longitude": "12.16734"
+        },
+        {
+            "city": "Vigrestad",
+            "region": "14",
+            "country": "NO",
+            "latitude": "58.56667",
+            "longitude": "5.7"
+        },
+        {
+            "city": "Vigeland",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.08437",
+            "longitude": "7.30497"
+        },
+        {
+            "city": "Vevelstad",
+            "region": "09",
+            "country": "NO",
+            "latitude": "65.6978",
+            "longitude": "12.43706"
+        },
+        {
+            "city": "Vestbygd",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.1",
+            "longitude": "6.58333"
+        },
+        {
+            "city": "Vestby",
+            "region": "01",
+            "country": "NO",
+            "latitude": "59.60237",
+            "longitude": "10.74668"
+        },
+        {
+            "city": "Verdal",
+            "region": "10",
+            "country": "NO",
+            "latitude": "63.79332",
+            "longitude": "11.4817"
+        },
+        {
+            "city": "Vennesla",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.26936",
+            "longitude": "7.97413"
+        },
+        {
+            "city": "Vatne",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.56667",
+            "longitude": "6.65"
+        },
+        {
+            "city": "Varhaug",
+            "region": "14",
+            "country": "NO",
+            "latitude": "58.61471",
+            "longitude": "5.64571"
+        },
+        {
+            "city": "Vanse",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.11667",
+            "longitude": "6.7"
+        },
+        {
+            "city": "Vangsvika",
+            "region": "18",
+            "country": "NO",
+            "latitude": "69.17057",
+            "longitude": "17.73416"
+        },
+        {
+            "city": "Valle",
+            "region": "02",
+            "country": "NO",
+            "latitude": "59.21259",
+            "longitude": "7.53559"
+        },
+        {
+            "city": "Valldal",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.29782",
+            "longitude": "7.26374"
+        },
+        {
+            "city": "V\u00e5ler",
+            "region": "06",
+            "country": "NO",
+            "latitude": "60.67845",
+            "longitude": "11.83314"
+        },
+        {
+            "city": "V\u00e5g\u00e5mo",
+            "region": "11",
+            "country": "NO",
+            "latitude": "61.87505",
+            "longitude": "9.09671"
+        },
+        {
+            "city": "Utsira",
+            "region": "14",
+            "country": "NO",
+            "latitude": "59.3057",
+            "longitude": "4.8862"
+        },
+        {
+            "city": "Ulvik",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.57117",
+            "longitude": "6.91701"
+        },
+        {
+            "city": "Ulsteinvik",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.34317",
+            "longitude": "5.84869"
+        },
+        {
+            "city": "Ulefoss",
+            "region": "17",
+            "country": "NO",
+            "latitude": "59.28382",
+            "longitude": "9.26459"
+        },
+        {
+            "city": "Uggdal",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.00402",
+            "longitude": "5.52876"
+        },
+        {
+            "city": "Tysv\u00e6r",
+            "region": "14",
+            "country": "NO",
+            "latitude": "59.33333",
+            "longitude": "5.5"
+        },
+        {
+            "city": "Tysse",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.37404",
+            "longitude": "5.75952"
+        },
+        {
+            "city": "Tynset",
+            "region": "06",
+            "country": "NO",
+            "latitude": "62.27594",
+            "longitude": "10.78241"
+        },
+        {
+            "city": "Tveit",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.23366",
+            "longitude": "8.12199"
+        },
+        {
+            "city": "Tvedestrand",
+            "region": "02",
+            "country": "NO",
+            "latitude": "58.62203",
+            "longitude": "8.93147"
+        },
+        {
+            "city": "Innbygda",
+            "region": "06",
+            "country": "NO",
+            "latitude": "61.31484",
+            "longitude": "12.26374"
+        },
+        {
+            "city": "Trondheim",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.43049",
+            "longitude": "10.39506"
+        },
+        {
+            "city": "Troms\u00f8",
+            "region": "18",
+            "country": "NO",
+            "latitude": "69.6489",
+            "longitude": "18.95508"
+        },
+        {
+            "city": "Trofors",
+            "region": "09",
+            "country": "NO",
+            "latitude": "65.53335",
+            "longitude": "13.40631"
+        },
+        {
+            "city": "Treungen",
+            "region": "17",
+            "country": "NO",
+            "latitude": "59.02154",
+            "longitude": "8.52375"
+        },
+        {
+            "city": "Tretten",
+            "region": "11",
+            "country": "NO",
+            "latitude": "61.31423",
+            "longitude": "10.30066"
+        },
+        {
+            "city": "Tranby",
+            "region": "04",
+            "country": "NO",
+            "latitude": "59.81667",
+            "longitude": "10.25"
+        },
+        {
+            "city": "Tonstad",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.66263",
+            "longitude": "6.71694"
+        },
+        {
+            "city": "T\u00f8nsberg",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.26754",
+            "longitude": "10.40762"
+        },
+        {
+            "city": "Tomter",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.65",
+            "longitude": "11"
+        },
+        {
+            "city": "Tomra",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.58333",
+            "longitude": "6.93333"
+        },
+        {
+            "city": "Tolga",
+            "region": "06",
+            "country": "NO",
+            "latitude": "62.40898",
+            "longitude": "10.99883"
+        },
+        {
+            "city": "Tofte",
+            "region": "04",
+            "country": "NO",
+            "latitude": "59.54275",
+            "longitude": "10.56138"
+        },
+        {
+            "city": "Tj\u00f8me",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.1109",
+            "longitude": "10.3933"
+        },
+        {
+            "city": "Tjeldst\u00f8",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.59861",
+            "longitude": "4.84421"
+        },
+        {
+            "city": "Tingvatn",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.3757",
+            "longitude": "7.2197"
+        },
+        {
+            "city": "Terr\u00e5k",
+            "region": "09",
+            "country": "NO",
+            "latitude": "65.087",
+            "longitude": "12.37148"
+        },
+        {
+            "city": "Tau",
+            "region": "14",
+            "country": "NO",
+            "latitude": "59.06667",
+            "longitude": "5.9"
+        },
+        {
+            "city": "Tangvall",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.09692",
+            "longitude": "7.81455"
+        },
+        {
+            "city": "Tananger",
+            "region": "14",
+            "country": "NO",
+            "latitude": "58.93333",
+            "longitude": "5.6"
+        },
+        {
+            "city": "Syfteland",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.2375",
+            "longitude": "5.44833"
+        },
+        {
+            "city": "Svolv\u00e6r",
+            "region": "09",
+            "country": "NO",
+            "latitude": "68.23417",
+            "longitude": "14.56834"
+        },
+        {
+            "city": "Svelvik",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.6137",
+            "longitude": "10.40872"
+        },
+        {
+            "city": "Svelgen",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.76852",
+            "longitude": "5.29548"
+        },
+        {
+            "city": "Sveio",
+            "region": "07",
+            "country": "NO",
+            "latitude": "59.5419",
+            "longitude": "5.35178"
+        },
+        {
+            "city": "Sunndals\u00f8ra",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.67545",
+            "longitude": "8.55153"
+        },
+        {
+            "city": "Stryn",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.90448",
+            "longitude": "6.72264"
+        },
+        {
+            "city": "Straumen",
+            "region": "09",
+            "country": "NO",
+            "latitude": "67.34769",
+            "longitude": "15.60493"
+        },
+        {
+            "city": "Straumen",
+            "region": "10",
+            "country": "NO",
+            "latitude": "63.87086",
+            "longitude": "11.29989"
+        },
+        {
+            "city": "Straume",
+            "region": "09",
+            "country": "NO",
+            "latitude": "68.6888",
+            "longitude": "14.47205"
+        },
+        {
+            "city": "Stranda",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.30964",
+            "longitude": "6.93582"
+        },
+        {
+            "city": "Storsteinnes",
+            "region": "18",
+            "country": "NO",
+            "latitude": "69.24081",
+            "longitude": "19.23437"
+        },
+        {
+            "city": "Storeb\u00f8",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.09485",
+            "longitude": "5.22705"
+        },
+        {
+            "city": "Stokmarknes",
+            "region": "09",
+            "country": "NO",
+            "latitude": "68.56462",
+            "longitude": "14.91075"
+        },
+        {
+            "city": "Stokke",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.22358",
+            "longitude": "10.30033"
+        },
+        {
+            "city": "Stj\u00f8rdalshalsen",
+            "region": "10",
+            "country": "NO",
+            "latitude": "63.4681",
+            "longitude": "10.92618"
+        },
+        {
+            "city": "Steinshamn",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.78327",
+            "longitude": "6.46975"
+        },
+        {
+            "city": "Steinkjer",
+            "region": "10",
+            "country": "NO",
+            "latitude": "64.01487",
+            "longitude": "11.49537"
+        },
+        {
+            "city": "Stavern",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59",
+            "longitude": "10.03333"
+        },
+        {
+            "city": "Stavanger",
+            "region": "14",
+            "country": "NO",
+            "latitude": "58.97005",
+            "longitude": "5.73332"
+        },
+        {
+            "city": "Stange",
+            "region": "06",
+            "country": "NO",
+            "latitude": "60.71803",
+            "longitude": "11.19417"
+        },
+        {
+            "city": "Spydeberg",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.61709",
+            "longitude": "11.08559"
+        },
+        {
+            "city": "Spetalen",
+            "region": "06",
+            "country": "NO",
+            "latitude": "60.18333",
+            "longitude": "11.9"
+        },
+        {
+            "city": "S\u00f8rumsand",
+            "region": "01",
+            "country": "NO",
+            "latitude": "59.98509",
+            "longitude": "11.23981"
+        },
+        {
+            "city": "Sortland",
+            "region": "09",
+            "country": "NO",
+            "latitude": "68.69494",
+            "longitude": "15.41618"
+        },
+        {
+            "city": "S\u00f8rland",
+            "region": "09",
+            "country": "NO",
+            "latitude": "67.66696",
+            "longitude": "12.69343"
+        },
+        {
+            "city": "Sola",
+            "region": "14",
+            "country": "NO",
+            "latitude": "58.88854",
+            "longitude": "5.65285"
+        },
+        {
+            "city": "S\u00f8gne",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.08333",
+            "longitude": "7.81667"
+        },
+        {
+            "city": "Sogndalsfj\u00f8ra",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.22575",
+            "longitude": "7.10178"
+        },
+        {
+            "city": "Sn\u00e5sa",
+            "region": "10",
+            "country": "NO",
+            "latitude": "64.2457",
+            "longitude": "12.37779"
+        },
+        {
+            "city": "Slemmestad",
+            "region": "04",
+            "country": "NO",
+            "latitude": "59.78036",
+            "longitude": "10.49883"
+        },
+        {
+            "city": "Skui",
+            "region": "01",
+            "country": "NO",
+            "latitude": "59.92746",
+            "longitude": "10.4475"
+        },
+        {
+            "city": "Skudeneshavn",
+            "region": "14",
+            "country": "NO",
+            "latitude": "59.15",
+            "longitude": "5.28333"
+        },
+        {
+            "city": "Skreia",
+            "region": "11",
+            "country": "NO",
+            "latitude": "60.65",
+            "longitude": "10.93333"
+        },
+        {
+            "city": "Skotterud",
+            "region": "06",
+            "country": "NO",
+            "latitude": "59.98281",
+            "longitude": "12.12825"
+        },
+        {
+            "city": "Skoppum",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.38333",
+            "longitude": "10.41667"
+        },
+        {
+            "city": "Skogn",
+            "region": "10",
+            "country": "NO",
+            "latitude": "63.7",
+            "longitude": "11.2"
+        },
+        {
+            "city": "Skoger",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.66667",
+            "longitude": "10.23333"
+        },
+        {
+            "city": "Skodje",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.50206",
+            "longitude": "6.70343"
+        },
+        {
+            "city": "Skjeberg",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.23333",
+            "longitude": "11.2"
+        },
+        {
+            "city": "Skj\u00e6rhalden",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.02526",
+            "longitude": "11.03685"
+        },
+        {
+            "city": "Skien",
+            "region": "17",
+            "country": "NO",
+            "latitude": "59.20962",
+            "longitude": "9.60897"
+        },
+        {
+            "city": "Ski",
+            "region": "01",
+            "country": "NO",
+            "latitude": "59.71949",
+            "longitude": "10.83576"
+        },
+        {
+            "city": "Skaun",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.25",
+            "longitude": "10.06667"
+        },
+        {
+            "city": "Skarnes",
+            "region": "06",
+            "country": "NO",
+            "latitude": "60.25284",
+            "longitude": "11.67974"
+        },
+        {
+            "city": "Skaland",
+            "region": "18",
+            "country": "NO",
+            "latitude": "69.44456",
+            "longitude": "17.29832"
+        },
+        {
+            "city": "Sj\u00f8vegan",
+            "region": "18",
+            "country": "NO",
+            "latitude": "68.87262",
+            "longitude": "17.84744"
+        },
+        {
+            "city": "Skj\u00f8nhaug",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.64069",
+            "longitude": "11.31591"
+        },
+        {
+            "city": "Sj\u00f8holt",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.48371",
+            "longitude": "6.81062"
+        },
+        {
+            "city": "Sistranda",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.72555",
+            "longitude": "8.83402"
+        },
+        {
+            "city": "Siljan",
+            "region": "17",
+            "country": "NO",
+            "latitude": "59.28843",
+            "longitude": "9.71"
+        },
+        {
+            "city": "Setermoen",
+            "region": "18",
+            "country": "NO",
+            "latitude": "68.86099",
+            "longitude": "18.34857"
+        },
+        {
+            "city": "Sem",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.28333",
+            "longitude": "10.33333"
+        },
+        {
+            "city": "Selvik",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.56889",
+            "longitude": "10.25833"
+        },
+        {
+            "city": "Seljord",
+            "region": "17",
+            "country": "NO",
+            "latitude": "59.4894",
+            "longitude": "8.63403"
+        },
+        {
+            "city": "Selje",
+            "region": "15",
+            "country": "NO",
+            "latitude": "62.04591",
+            "longitude": "5.35096"
+        },
+        {
+            "city": "Sauda",
+            "region": "14",
+            "country": "NO",
+            "latitude": "59.65059",
+            "longitude": "6.35415"
+        },
+        {
+            "city": "Sarpsborg",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.28391",
+            "longitude": "11.10962"
+        },
+        {
+            "city": "Sandvika",
+            "region": "01",
+            "country": "NO",
+            "latitude": "59.89073",
+            "longitude": "10.52774"
+        },
+        {
+            "city": "Sandnessj\u00f8en",
+            "region": "09",
+            "country": "NO",
+            "latitude": "66.02166",
+            "longitude": "12.63158"
+        },
+        {
+            "city": "Sandnes",
+            "region": "14",
+            "country": "NO",
+            "latitude": "58.85244",
+            "longitude": "5.73521"
+        },
+        {
+            "city": "Sandefjord",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.13118",
+            "longitude": "10.21665"
+        },
+        {
+            "city": "Sande",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.32511",
+            "longitude": "5.79773"
+        },
+        {
+            "city": "Sande",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.58679",
+            "longitude": "10.20809"
+        },
+        {
+            "city": "Sandane",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.77277",
+            "longitude": "6.21496"
+        },
+        {
+            "city": "Sand",
+            "region": "06",
+            "country": "NO",
+            "latitude": "60.3922",
+            "longitude": "11.5403"
+        },
+        {
+            "city": "Sagv\u00e5g",
+            "region": "07",
+            "country": "NO",
+            "latitude": "59.77861",
+            "longitude": "5.39611"
+        },
+        {
+            "city": "S\u00e6tre",
+            "region": "04",
+            "country": "NO",
+            "latitude": "59.68167",
+            "longitude": "10.52472"
+        },
+        {
+            "city": "Rygge",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.38173",
+            "longitude": "10.75142"
+        },
+        {
+            "city": "Rubbestadneset",
+            "region": "07",
+            "country": "NO",
+            "latitude": "59.81472",
+            "longitude": "5.26806"
+        },
+        {
+            "city": "R\u00f8yrvik",
+            "region": "10",
+            "country": "NO",
+            "latitude": "64.88733",
+            "longitude": "13.56219"
+        },
+        {
+            "city": "R\u00f8yken",
+            "region": "04",
+            "country": "NO",
+            "latitude": "59.7475",
+            "longitude": "10.39361"
+        },
+        {
+            "city": "Rotnes",
+            "region": "01",
+            "country": "NO",
+            "latitude": "60.05707",
+            "longitude": "10.86135"
+        },
+        {
+            "city": "R\u00f8st",
+            "region": "09",
+            "country": "NO",
+            "latitude": "67.51754",
+            "longitude": "12.1176"
+        },
+        {
+            "city": "Rosendal",
+            "region": "07",
+            "country": "NO",
+            "latitude": "59.98669",
+            "longitude": "6.01348"
+        },
+        {
+            "city": "R\u00f8rvik",
+            "region": "10",
+            "country": "NO",
+            "latitude": "64.86208",
+            "longitude": "11.23734"
+        },
+        {
+            "city": "R\u00f8ros",
+            "region": "16",
+            "country": "NO",
+            "latitude": "62.57468",
+            "longitude": "11.3842"
+        },
+        {
+            "city": "Rollag",
+            "region": "04",
+            "country": "NO",
+            "latitude": "59.98431",
+            "longitude": "9.29644"
+        },
+        {
+            "city": "Rognan",
+            "region": "09",
+            "country": "NO",
+            "latitude": "67.09528",
+            "longitude": "15.38778"
+        },
+        {
+            "city": "Roa",
+            "region": "11",
+            "country": "NO",
+            "latitude": "60.29093",
+            "longitude": "10.61585"
+        },
+        {
+            "city": "Rjukan",
+            "region": "17",
+            "country": "NO",
+            "latitude": "59.87891",
+            "longitude": "8.59411"
+        },
+        {
+            "city": "Ris\u00f8r",
+            "region": "02",
+            "country": "NO",
+            "latitude": "58.72057",
+            "longitude": "9.23422"
+        },
+        {
+            "city": "Ringebu",
+            "region": "11",
+            "country": "NO",
+            "latitude": "61.51667",
+            "longitude": "10.16667"
+        },
+        {
+            "city": "Rindal",
+            "region": "08",
+            "country": "NO",
+            "latitude": "63.0565",
+            "longitude": "9.21239"
+        },
+        {
+            "city": "Rena",
+            "region": "06",
+            "country": "NO",
+            "latitude": "61.13484",
+            "longitude": "11.36409"
+        },
+        {
+            "city": "Reinsvoll",
+            "region": "11",
+            "country": "NO",
+            "latitude": "60.68333",
+            "longitude": "10.61667"
+        },
+        {
+            "city": "Reinsvik",
+            "region": "08",
+            "country": "NO",
+            "latitude": "63.1",
+            "longitude": "7.81667"
+        },
+        {
+            "city": "Reine",
+            "region": "09",
+            "country": "NO",
+            "latitude": "67.93249",
+            "longitude": "13.08955"
+        },
+        {
+            "city": "Raufoss",
+            "region": "11",
+            "country": "NO",
+            "latitude": "60.72638",
+            "longitude": "10.61718"
+        },
+        {
+            "city": "Ranemsletta",
+            "region": "10",
+            "country": "NO",
+            "latitude": "64.49447",
+            "longitude": "11.94912"
+        },
+        {
+            "city": "Randaberg",
+            "region": "14",
+            "country": "NO",
+            "latitude": "58.99955",
+            "longitude": "5.61871"
+        },
+        {
+            "city": "Ramberg",
+            "region": "09",
+            "country": "NO",
+            "latitude": "68.08902",
+            "longitude": "13.23177"
+        },
+        {
+            "city": "Rakkestad",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.42513",
+            "longitude": "11.34535"
+        },
+        {
+            "city": "R\u00e5holt",
+            "region": "01",
+            "country": "NO",
+            "latitude": "60.26667",
+            "longitude": "11.18333"
+        },
+        {
+            "city": "Prestfoss",
+            "region": "04",
+            "country": "NO",
+            "latitude": "60.04223",
+            "longitude": "9.63022"
+        },
+        {
+            "city": "Prestestranda",
+            "region": "17",
+            "country": "NO",
+            "latitude": "59.09773",
+            "longitude": "9.05866"
+        },
+        {
+            "city": "Porsgrunn",
+            "region": "17",
+            "country": "NO",
+            "latitude": "59.14054",
+            "longitude": "9.6561"
+        },
+        {
+            "city": "\u00d8ystese",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.38825",
+            "longitude": "6.19251"
+        },
+        {
+            "city": "\u00d8vre \u00c5rdal",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.31667",
+            "longitude": "7.8"
+        },
+        {
+            "city": "Otta",
+            "region": "11",
+            "country": "NO",
+            "latitude": "61.7712",
+            "longitude": "9.53529"
+        },
+        {
+            "city": "Os\u00f8yro",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.18385",
+            "longitude": "5.4638"
+        },
+        {
+            "city": "Oslo",
+            "region": "12",
+            "country": "NO",
+            "latitude": "59.91273",
+            "longitude": "10.74609"
+        },
+        {
+            "city": "Os",
+            "region": "06",
+            "country": "NO",
+            "latitude": "62.49647",
+            "longitude": "11.22326"
+        },
+        {
+            "city": "\u00d8rnes",
+            "region": "09",
+            "country": "NO",
+            "latitude": "66.8689",
+            "longitude": "13.7078"
+        },
+        {
+            "city": "Orkanger",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.31223",
+            "longitude": "9.85352"
+        },
+        {
+            "city": "\u00d8rje",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.48023",
+            "longitude": "11.66016"
+        },
+        {
+            "city": "Oppdal",
+            "region": "16",
+            "country": "NO",
+            "latitude": "62.59431",
+            "longitude": "9.6912"
+        },
+        {
+            "city": "\u00d8len",
+            "region": "14",
+            "country": "NO",
+            "latitude": "59.60437",
+            "longitude": "5.80799"
+        },
+        {
+            "city": "Odda",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.06912",
+            "longitude": "6.54565"
+        },
+        {
+            "city": "Notodden",
+            "region": "17",
+            "country": "NO",
+            "latitude": "59.55936",
+            "longitude": "9.25853"
+        },
+        {
+            "city": "Norheimsund",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.37089",
+            "longitude": "6.14562"
+        },
+        {
+            "city": "Noresund",
+            "region": "04",
+            "country": "NO",
+            "latitude": "60.18032",
+            "longitude": "9.62312"
+        },
+        {
+            "city": "Nordfjordeid",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.90626",
+            "longitude": "5.99154"
+        },
+        {
+            "city": "Nodeland",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.15517",
+            "longitude": "7.83576"
+        },
+        {
+            "city": "Nesna",
+            "region": "09",
+            "country": "NO",
+            "latitude": "66.19672",
+            "longitude": "13.02133"
+        },
+        {
+            "city": "Nesbyen",
+            "region": "04",
+            "country": "NO",
+            "latitude": "60.56809",
+            "longitude": "9.10274"
+        },
+        {
+            "city": "Naustdal",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.50896",
+            "longitude": "5.71675"
+        },
+        {
+            "city": "Narvik",
+            "region": "09",
+            "country": "NO",
+            "latitude": "68.43838",
+            "longitude": "17.4272"
+        },
+        {
+            "city": "Namsskogan",
+            "region": "10",
+            "country": "NO",
+            "latitude": "64.92886",
+            "longitude": "13.15954"
+        },
+        {
+            "city": "Namsos",
+            "region": "10",
+            "country": "NO",
+            "latitude": "64.46624",
+            "longitude": "11.49572"
+        },
+        {
+            "city": "N\u00e6rb\u00f8",
+            "region": "14",
+            "country": "NO",
+            "latitude": "58.66667",
+            "longitude": "5.65"
+        },
+        {
+            "city": "Mysen",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.55354",
+            "longitude": "11.32578"
+        },
+        {
+            "city": "Myre",
+            "region": "09",
+            "country": "NO",
+            "latitude": "69.10361",
+            "longitude": "15.94917"
+        },
+        {
+            "city": "Myra",
+            "region": "02",
+            "country": "NO",
+            "latitude": "58.74666",
+            "longitude": "8.86"
+        },
+        {
+            "city": "Mosterhamn",
+            "region": "07",
+            "country": "NO",
+            "latitude": "59.7",
+            "longitude": "5.38333"
+        },
+        {
+            "city": "Moss",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.43403",
+            "longitude": "10.65771"
+        },
+        {
+            "city": "Mosj\u00f8en",
+            "region": "09",
+            "country": "NO",
+            "latitude": "65.83599",
+            "longitude": "13.19076"
+        },
+        {
+            "city": "Moldjord",
+            "region": "09",
+            "country": "NO",
+            "latitude": "67.00601",
+            "longitude": "14.5743"
+        },
+        {
+            "city": "Molde",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.73752",
+            "longitude": "7.15912"
+        },
+        {
+            "city": "Moland",
+            "region": "17",
+            "country": "NO",
+            "latitude": "59.1865",
+            "longitude": "8.0895"
+        },
+        {
+            "city": "Mo i Rana",
+            "region": "09",
+            "country": "NO",
+            "latitude": "66.31278",
+            "longitude": "14.14278"
+        },
+        {
+            "city": "Moi",
+            "region": "14",
+            "country": "NO",
+            "latitude": "58.45674",
+            "longitude": "6.55184"
+        },
+        {
+            "city": "Moen",
+            "region": "18",
+            "country": "NO",
+            "latitude": "69.13043",
+            "longitude": "18.61226"
+        },
+        {
+            "city": "Moelv",
+            "region": "06",
+            "country": "NO",
+            "latitude": "60.93333",
+            "longitude": "10.7"
+        },
+        {
+            "city": "Mo",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.81625",
+            "longitude": "5.80575"
+        },
+        {
+            "city": "Mj\u00f8ndalen",
+            "region": "04",
+            "country": "NO",
+            "latitude": "59.74631",
+            "longitude": "10.01891"
+        },
+        {
+            "city": "Midsund",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.67278",
+            "longitude": "6.67498"
+        },
+        {
+            "city": "Mer\u00e5ker",
+            "region": "10",
+            "country": "NO",
+            "latitude": "63.41406",
+            "longitude": "11.74298"
+        },
+        {
+            "city": "Melsomvik",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.22389",
+            "longitude": "10.34472"
+        },
+        {
+            "city": "Melhus",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.28555",
+            "longitude": "10.27806"
+        },
+        {
+            "city": "Melbu",
+            "region": "09",
+            "country": "NO",
+            "latitude": "68.50444",
+            "longitude": "14.82972"
+        },
+        {
+            "city": "Maura",
+            "region": "01",
+            "country": "NO",
+            "latitude": "60.25",
+            "longitude": "11.01667"
+        },
+        {
+            "city": "Masfjorden",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.79887",
+            "longitude": "5.30418"
+        },
+        {
+            "city": "Manger",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.64145",
+            "longitude": "5.04136"
+        },
+        {
+            "city": "Mandal",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.0274",
+            "longitude": "7.45342"
+        },
+        {
+            "city": "Malvik",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.43333",
+            "longitude": "10.68333"
+        },
+        {
+            "city": "M\u00e5l\u00f8y",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.93535",
+            "longitude": "5.11362"
+        },
+        {
+            "city": "Malm",
+            "region": "10",
+            "country": "NO",
+            "latitude": "64.07214",
+            "longitude": "11.21716"
+        },
+        {
+            "city": "Lyngdal",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.1376",
+            "longitude": "7.07002"
+        },
+        {
+            "city": "Lunde",
+            "region": "17",
+            "country": "NO",
+            "latitude": "59.31667",
+            "longitude": "9.13333"
+        },
+        {
+            "city": "Lundamo",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.13333",
+            "longitude": "10.3"
+        },
+        {
+            "city": "L\u00f8ten",
+            "region": "06",
+            "country": "NO",
+            "latitude": "60.81712",
+            "longitude": "11.33756"
+        },
+        {
+            "city": "L\u00f8psmarka",
+            "region": "09",
+            "country": "NO",
+            "latitude": "67.31343",
+            "longitude": "14.44934"
+        },
+        {
+            "city": "Lonev\u00e5g",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.52619",
+            "longitude": "5.49365"
+        },
+        {
+            "city": "Lom",
+            "region": "11",
+            "country": "NO",
+            "latitude": "61.83333",
+            "longitude": "8.55"
+        },
+        {
+            "city": "L\u00f8dingen",
+            "region": "09",
+            "country": "NO",
+            "latitude": "68.41399",
+            "longitude": "15.99512"
+        },
+        {
+            "city": "L\u00f8ding",
+            "region": "09",
+            "country": "NO",
+            "latitude": "67.3",
+            "longitude": "14.75"
+        },
+        {
+            "city": "Lind\u00e5s",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.73806",
+            "longitude": "5.16"
+        },
+        {
+            "city": "Lillestr\u00f8m",
+            "region": "01",
+            "country": "NO",
+            "latitude": "59.95597",
+            "longitude": "11.04918"
+        },
+        {
+            "city": "Lillesand",
+            "region": "02",
+            "country": "NO",
+            "latitude": "58.24879",
+            "longitude": "8.3778"
+        },
+        {
+            "city": "Lillehammer",
+            "region": "11",
+            "country": "NO",
+            "latitude": "61.11514",
+            "longitude": "10.46628"
+        },
+        {
+            "city": "Liknes",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.31919",
+            "longitude": "6.95837"
+        },
+        {
+            "city": "Levanger",
+            "region": "10",
+            "country": "NO",
+            "latitude": "63.74644",
+            "longitude": "11.29963"
+        },
+        {
+            "city": "Lervik",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.26667",
+            "longitude": "10.75"
+        },
+        {
+            "city": "Lensvik",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.51389",
+            "longitude": "9.80611"
+        },
+        {
+            "city": "Lena",
+            "region": "11",
+            "country": "NO",
+            "latitude": "60.67467",
+            "longitude": "10.81325"
+        },
+        {
+            "city": "Leland",
+            "region": "09",
+            "country": "NO",
+            "latitude": "66.06381",
+            "longitude": "12.94584"
+        },
+        {
+            "city": "Leirvik",
+            "region": "07",
+            "country": "NO",
+            "latitude": "59.77977",
+            "longitude": "5.50051"
+        },
+        {
+            "city": "Leirsund",
+            "region": "01",
+            "country": "NO",
+            "latitude": "60",
+            "longitude": "11.1"
+        },
+        {
+            "city": "Lauvsnes",
+            "region": "10",
+            "country": "NO",
+            "latitude": "64.50061",
+            "longitude": "10.89396"
+        },
+        {
+            "city": "Larvik",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.05328",
+            "longitude": "10.03517"
+        },
+        {
+            "city": "Larsnes",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.20282",
+            "longitude": "5.57729"
+        },
+        {
+            "city": "Larkollen",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.33389",
+            "longitude": "10.66556"
+        },
+        {
+            "city": "Langev\u00e5g",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.43745",
+            "longitude": "6.18915"
+        },
+        {
+            "city": "Langesund",
+            "region": "17",
+            "country": "NO",
+            "latitude": "59.00071",
+            "longitude": "9.74876"
+        },
+        {
+            "city": "L\u00e6rdals\u00f8yri",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.09805",
+            "longitude": "7.48158"
+        },
+        {
+            "city": "Kyrks\u00e6ter\u00f8ra",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.29057",
+            "longitude": "9.08909"
+        },
+        {
+            "city": "Kviteseid",
+            "region": "17",
+            "country": "NO",
+            "latitude": "59.40223",
+            "longitude": "8.49267"
+        },
+        {
+            "city": "Krokstad\u00f8ra",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.40099",
+            "longitude": "9.50062"
+        },
+        {
+            "city": "Kristiansund",
+            "region": "08",
+            "country": "NO",
+            "latitude": "63.11045",
+            "longitude": "7.72795"
+        },
+        {
+            "city": "Kristiansand",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.14671",
+            "longitude": "7.9956"
+        },
+        {
+            "city": "Krager\u00f8",
+            "region": "17",
+            "country": "NO",
+            "latitude": "58.8693",
+            "longitude": "9.41494"
+        },
+        {
+            "city": "Korgen",
+            "region": "09",
+            "country": "NO",
+            "latitude": "66.07713",
+            "longitude": "13.81531"
+        },
+        {
+            "city": "Koppang",
+            "region": "06",
+            "country": "NO",
+            "latitude": "61.57065",
+            "longitude": "11.05548"
+        },
+        {
+            "city": "Kopervik",
+            "region": "14",
+            "country": "NO",
+            "latitude": "59.28354",
+            "longitude": "5.30669"
+        },
+        {
+            "city": "Konsmo",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.28529",
+            "longitude": "7.35598"
+        },
+        {
+            "city": "Kongsvinger",
+            "region": "06",
+            "country": "NO",
+            "latitude": "60.19049",
+            "longitude": "11.99772"
+        },
+        {
+            "city": "Kongsberg",
+            "region": "04",
+            "country": "NO",
+            "latitude": "59.66858",
+            "longitude": "9.65017"
+        },
+        {
+            "city": "Kolvereid",
+            "region": "10",
+            "country": "NO",
+            "latitude": "64.86549",
+            "longitude": "11.60465"
+        },
+        {
+            "city": "Kolbotn",
+            "region": "01",
+            "country": "NO",
+            "latitude": "59.81056",
+            "longitude": "10.80389"
+        },
+        {
+            "city": "Knarrviki",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.54222",
+            "longitude": "5.28833"
+        },
+        {
+            "city": "Knappstad",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.63333",
+            "longitude": "11.05"
+        },
+        {
+            "city": "Knappskog",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.38194",
+            "longitude": "5.05583"
+        },
+        {
+            "city": "Kl\u00f8fta",
+            "region": "01",
+            "country": "NO",
+            "latitude": "60.06667",
+            "longitude": "11.15"
+        },
+        {
+            "city": "Kleppest\u00f8",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.40844",
+            "longitude": "5.2276"
+        },
+        {
+            "city": "Kj\u00f8psvik",
+            "region": "09",
+            "country": "NO",
+            "latitude": "68.09696",
+            "longitude": "16.37416"
+        },
+        {
+            "city": "Kirken\u00e6r",
+            "region": "06",
+            "country": "NO",
+            "latitude": "60.45643",
+            "longitude": "12.05821"
+        },
+        {
+            "city": "Karlshus",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.35195",
+            "longitude": "10.87226"
+        },
+        {
+            "city": "Kabelv\u00e5g",
+            "region": "09",
+            "country": "NO",
+            "latitude": "68.21139",
+            "longitude": "14.48167"
+        },
+        {
+            "city": "Judaberg",
+            "region": "14",
+            "country": "NO",
+            "latitude": "59.16585",
+            "longitude": "5.87315"
+        },
+        {
+            "city": "J\u00f8rpeland",
+            "region": "14",
+            "country": "NO",
+            "latitude": "59.02251",
+            "longitude": "6.04078"
+        },
+        {
+            "city": "Jondal",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.27561",
+            "longitude": "6.25229"
+        },
+        {
+            "city": "Jevnaker",
+            "region": "11",
+            "country": "NO",
+            "latitude": "60.24143",
+            "longitude": "10.38503"
+        },
+        {
+            "city": "Jessheim",
+            "region": "01",
+            "country": "NO",
+            "latitude": "60.14151",
+            "longitude": "11.17515"
+        },
+        {
+            "city": "Jaren",
+            "region": "11",
+            "country": "NO",
+            "latitude": "60.39273",
+            "longitude": "10.56155"
+        },
+        {
+            "city": "Isdalsst\u00f8",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.55519",
+            "longitude": "5.26942"
+        },
+        {
+            "city": "Inndyr",
+            "region": "09",
+            "country": "NO",
+            "latitude": "67.0338",
+            "longitude": "14.02757"
+        },
+        {
+            "city": "Hyllestad",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.17109",
+            "longitude": "5.29603"
+        },
+        {
+            "city": "Hylkje",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.51028",
+            "longitude": "5.35444"
+        },
+        {
+            "city": "Hvittingfoss",
+            "region": "04",
+            "country": "NO",
+            "latitude": "59.48333",
+            "longitude": "10.01667"
+        },
+        {
+            "city": "Hundorp",
+            "region": "11",
+            "country": "NO",
+            "latitude": "61.55523",
+            "longitude": "9.94069"
+        },
+        {
+            "city": "H\u00f8yanger",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.22036",
+            "longitude": "6.07494"
+        },
+        {
+            "city": "Hovden",
+            "region": "02",
+            "country": "NO",
+            "latitude": "59.56027",
+            "longitude": "7.35676"
+        },
+        {
+            "city": "Hov",
+            "region": "11",
+            "country": "NO",
+            "latitude": "60.6987",
+            "longitude": "10.35193"
+        },
+        {
+            "city": "Horten",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.41721",
+            "longitude": "10.48343"
+        },
+        {
+            "city": "Hopen",
+            "region": "08",
+            "country": "NO",
+            "latitude": "63.46344",
+            "longitude": "8.0139"
+        },
+        {
+            "city": "H\u00f8nefoss",
+            "region": "04",
+            "country": "NO",
+            "latitude": "60.16804",
+            "longitude": "10.25647"
+        },
+        {
+            "city": "Hommelvik",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.41083",
+            "longitude": "10.79424"
+        },
+        {
+            "city": "Holmestrand",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.48761",
+            "longitude": "10.31761"
+        },
+        {
+            "city": "Hol",
+            "region": "09",
+            "country": "NO",
+            "latitude": "68.54902",
+            "longitude": "16.39218"
+        },
+        {
+            "city": "Hokksund",
+            "region": "04",
+            "country": "NO",
+            "latitude": "59.77077",
+            "longitude": "9.90987"
+        },
+        {
+            "city": "Hjelset",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.78333",
+            "longitude": "7.48333"
+        },
+        {
+            "city": "Hjelmeland",
+            "region": "14",
+            "country": "NO",
+            "latitude": "59.23333",
+            "longitude": "6.18333"
+        },
+        {
+            "city": "Herre",
+            "region": "17",
+            "country": "NO",
+            "latitude": "59.1",
+            "longitude": "9.56667"
+        },
+        {
+            "city": "Hermansverk",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.18461",
+            "longitude": "6.85016"
+        },
+        {
+            "city": "Hemsedal",
+            "region": "04",
+            "country": "NO",
+            "latitude": "60.86293",
+            "longitude": "8.55337"
+        },
+        {
+            "city": "Hemnesberget",
+            "region": "09",
+            "country": "NO",
+            "latitude": "66.23333",
+            "longitude": "13.63333"
+        },
+        {
+            "city": "Heggenes",
+            "region": "11",
+            "country": "NO",
+            "latitude": "61.14383",
+            "longitude": "9.06942"
+        },
+        {
+            "city": "Hauknes",
+            "region": "09",
+            "country": "NO",
+            "latitude": "66.28333",
+            "longitude": "14.06667"
+        },
+        {
+            "city": "Haugesund",
+            "region": "14",
+            "country": "NO",
+            "latitude": "59.41378",
+            "longitude": "5.268"
+        },
+        {
+            "city": "Hauge",
+            "region": "14",
+            "country": "NO",
+            "latitude": "58.34361",
+            "longitude": "6.28121"
+        },
+        {
+            "city": "Harstad",
+            "region": "18",
+            "country": "NO",
+            "latitude": "68.79833",
+            "longitude": "16.54165"
+        },
+        {
+            "city": "Hareid",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.37136",
+            "longitude": "6.02634"
+        },
+        {
+            "city": "Hardbakke",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.07111",
+            "longitude": "4.83716"
+        },
+        {
+            "city": "Hansnes",
+            "region": "18",
+            "country": "NO",
+            "latitude": "69.96237",
+            "longitude": "19.61862"
+        },
+        {
+            "city": "Hamnvik",
+            "region": "18",
+            "country": "NO",
+            "latitude": "68.77831",
+            "longitude": "17.17457"
+        },
+        {
+            "city": "Hamar",
+            "region": "06",
+            "country": "NO",
+            "latitude": "60.7945",
+            "longitude": "11.06798"
+        },
+        {
+            "city": "Halden",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.12478",
+            "longitude": "11.38754"
+        },
+        {
+            "city": "Hagavik",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.18333",
+            "longitude": "5.43333"
+        },
+        {
+            "city": "Gvarv",
+            "region": "17",
+            "country": "NO",
+            "latitude": "59.38746",
+            "longitude": "9.1737"
+        },
+        {
+            "city": "Gullhaug",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.5",
+            "longitude": "10.25"
+        },
+        {
+            "city": "Gryllefjord",
+            "region": "18",
+            "country": "NO",
+            "latitude": "69.36304",
+            "longitude": "17.05284"
+        },
+        {
+            "city": "Grua",
+            "region": "11",
+            "country": "NO",
+            "latitude": "60.26667",
+            "longitude": "10.66667"
+        },
+        {
+            "city": "Grong",
+            "region": "10",
+            "country": "NO",
+            "latitude": "64.46543",
+            "longitude": "12.31491"
+        },
+        {
+            "city": "Grimstad",
+            "region": "02",
+            "country": "NO",
+            "latitude": "58.3405",
+            "longitude": "8.59343"
+        },
+        {
+            "city": "Gravdal",
+            "region": "09",
+            "country": "NO",
+            "latitude": "68.12139",
+            "longitude": "13.50306"
+        },
+        {
+            "city": "Granvin",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.52408",
+            "longitude": "6.7194"
+        },
+        {
+            "city": "Gol",
+            "region": "04",
+            "country": "NO",
+            "latitude": "60.7014",
+            "longitude": "8.94572"
+        },
+        {
+            "city": "Glomfjord",
+            "region": "09",
+            "country": "NO",
+            "latitude": "66.81667",
+            "longitude": "13.96667"
+        },
+        {
+            "city": "Gladstad",
+            "region": "09",
+            "country": "NO",
+            "latitude": "65.67732",
+            "longitude": "11.96137"
+        },
+        {
+            "city": "Justvik",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.2",
+            "longitude": "8.03333"
+        },
+        {
+            "city": "Gj\u00f8vik",
+            "region": "11",
+            "country": "NO",
+            "latitude": "60.79574",
+            "longitude": "10.69155"
+        },
+        {
+            "city": "Gjerstad",
+            "region": "02",
+            "country": "NO",
+            "latitude": "58.88083",
+            "longitude": "9.01861"
+        },
+        {
+            "city": "Gjerdrum",
+            "region": "01",
+            "country": "NO",
+            "latitude": "60.08333",
+            "longitude": "11.1"
+        },
+        {
+            "city": "Geilo",
+            "region": "04",
+            "country": "NO",
+            "latitude": "60.53331",
+            "longitude": "8.20765"
+        },
+        {
+            "city": "Frogner",
+            "region": "01",
+            "country": "NO",
+            "latitude": "60.01667",
+            "longitude": "11.1"
+        },
+        {
+            "city": "Frekhaug",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.51392",
+            "longitude": "5.24351"
+        },
+        {
+            "city": "Fredrikstad",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.2181",
+            "longitude": "10.9298"
+        },
+        {
+            "city": "Fossby",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.22218",
+            "longitude": "11.69928"
+        },
+        {
+            "city": "Fosnav\u00e5g",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.34194",
+            "longitude": "5.63396"
+        },
+        {
+            "city": "F\u00f8rde",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.45217",
+            "longitude": "5.85717"
+        },
+        {
+            "city": "Folldal",
+            "region": "06",
+            "country": "NO",
+            "latitude": "62.13246",
+            "longitude": "9.9968"
+        },
+        {
+            "city": "Flor\u00f8",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.59957",
+            "longitude": "5.0328"
+        },
+        {
+            "city": "Flekkefjord",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.29705",
+            "longitude": "6.66069"
+        },
+        {
+            "city": "Flateby",
+            "region": "01",
+            "country": "NO",
+            "latitude": "59.83333",
+            "longitude": "11.16667"
+        },
+        {
+            "city": "Fl\u00e5",
+            "region": "04",
+            "country": "NO",
+            "latitude": "60.43021",
+            "longitude": "9.46197"
+        },
+        {
+            "city": "Fitjar",
+            "region": "07",
+            "country": "NO",
+            "latitude": "59.91845",
+            "longitude": "5.3192"
+        },
+        {
+            "city": "Finnsnes",
+            "region": "18",
+            "country": "NO",
+            "latitude": "69.22959",
+            "longitude": "17.98114"
+        },
+        {
+            "city": "Fillan",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.60638",
+            "longitude": "8.96961"
+        },
+        {
+            "city": "Fevik",
+            "region": "02",
+            "country": "NO",
+            "latitude": "58.37938",
+            "longitude": "8.67658"
+        },
+        {
+            "city": "Fetsund",
+            "region": "01",
+            "country": "NO",
+            "latitude": "59.92898",
+            "longitude": "11.16247"
+        },
+        {
+            "city": "Fedje",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.7789",
+            "longitude": "4.71485"
+        },
+        {
+            "city": "Fauske",
+            "region": "09",
+            "country": "NO",
+            "latitude": "67.25883",
+            "longitude": "15.39181"
+        },
+        {
+            "city": "Farsund",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.09479",
+            "longitude": "6.80468"
+        },
+        {
+            "city": "Fagerstrand",
+            "region": "01",
+            "country": "NO",
+            "latitude": "59.73472",
+            "longitude": "10.59306"
+        },
+        {
+            "city": "Fagernes",
+            "region": "11",
+            "country": "NO",
+            "latitude": "60.98584",
+            "longitude": "9.23236"
+        },
+        {
+            "city": "Evjen",
+            "region": "09",
+            "country": "NO",
+            "latitude": "68.26667",
+            "longitude": "13.73333"
+        },
+        {
+            "city": "Evje",
+            "region": "02",
+            "country": "NO",
+            "latitude": "58.58521",
+            "longitude": "7.80861"
+        },
+        {
+            "city": "Evenskjer",
+            "region": "18",
+            "country": "NO",
+            "latitude": "68.58491",
+            "longitude": "16.57546"
+        },
+        {
+            "city": "Etnesj\u00f8en",
+            "region": "07",
+            "country": "NO",
+            "latitude": "59.66477",
+            "longitude": "5.93264"
+        },
+        {
+            "city": "Espeland",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.38333",
+            "longitude": "5.46667"
+        },
+        {
+            "city": "Elverum",
+            "region": "06",
+            "country": "NO",
+            "latitude": "60.88191",
+            "longitude": "11.56231"
+        },
+        {
+            "city": "Eivinvik",
+            "region": "15",
+            "country": "NO",
+            "latitude": "60.98138",
+            "longitude": "5.07362"
+        },
+        {
+            "city": "Eikelandsosen",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.24302",
+            "longitude": "5.74602"
+        },
+        {
+            "city": "Eike",
+            "region": "14",
+            "country": "NO",
+            "latitude": "59.39833",
+            "longitude": "5.36389"
+        },
+        {
+            "city": "Eidsvoll",
+            "region": "01",
+            "country": "NO",
+            "latitude": "60.33046",
+            "longitude": "11.26161"
+        },
+        {
+            "city": "Eidsv\u00e5g",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.7767",
+            "longitude": "8.06681"
+        },
+        {
+            "city": "Eidfjord",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.4675",
+            "longitude": "7.07193"
+        },
+        {
+            "city": "Eide",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.91735",
+            "longitude": "7.44669"
+        },
+        {
+            "city": "Egersund",
+            "region": "14",
+            "country": "NO",
+            "latitude": "58.45133",
+            "longitude": "5.9997"
+        },
+        {
+            "city": "Dr\u00f8bak",
+            "region": "01",
+            "country": "NO",
+            "latitude": "59.66333",
+            "longitude": "10.62975"
+        },
+        {
+            "city": "Drammen",
+            "region": "04",
+            "country": "NO",
+            "latitude": "59.74389",
+            "longitude": "10.20449"
+        },
+        {
+            "city": "Dovre",
+            "region": "11",
+            "country": "NO",
+            "latitude": "61.98439",
+            "longitude": "9.25399"
+        },
+        {
+            "city": "Domb\u00e5s",
+            "region": "11",
+            "country": "NO",
+            "latitude": "62.06965",
+            "longitude": "9.12346"
+        },
+        {
+            "city": "Dokka",
+            "region": "11",
+            "country": "NO",
+            "latitude": "60.84001",
+            "longitude": "10.0618"
+        },
+        {
+            "city": "Dalen",
+            "region": "17",
+            "country": "NO",
+            "latitude": "59.44474",
+            "longitude": "8.01168"
+        },
+        {
+            "city": "Dale",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.36311",
+            "longitude": "5.39809"
+        },
+        {
+            "city": "Dale",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.58639",
+            "longitude": "5.81886"
+        },
+        {
+            "city": "Bygland",
+            "region": "02",
+            "country": "NO",
+            "latitude": "58.8285",
+            "longitude": "7.79616"
+        },
+        {
+            "city": "Bryne",
+            "region": "14",
+            "country": "NO",
+            "latitude": "58.73536",
+            "longitude": "5.64766"
+        },
+        {
+            "city": "Brumunddal",
+            "region": "06",
+            "country": "NO",
+            "latitude": "60.88095",
+            "longitude": "10.93948"
+        },
+        {
+            "city": "Bruflat",
+            "region": "11",
+            "country": "NO",
+            "latitude": "60.88781",
+            "longitude": "9.64143"
+        },
+        {
+            "city": "Br\u00f8nn\u00f8ysund",
+            "region": "09",
+            "country": "NO",
+            "latitude": "65.4625",
+            "longitude": "12.19973"
+        },
+        {
+            "city": "Svortland",
+            "region": "07",
+            "country": "NO",
+            "latitude": "59.79429",
+            "longitude": "5.1853"
+        },
+        {
+            "city": "Brekstad",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.68697",
+            "longitude": "9.66541"
+        },
+        {
+            "city": "Brattv\u00e5g",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.60015",
+            "longitude": "6.44339"
+        },
+        {
+            "city": "Botng\u00e5rd",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.76532",
+            "longitude": "9.81113"
+        },
+        {
+            "city": "Borkenes",
+            "region": "18",
+            "country": "NO",
+            "latitude": "68.77396",
+            "longitude": "16.17391"
+        },
+        {
+            "city": "Bogen",
+            "region": "09",
+            "country": "NO",
+            "latitude": "68.52647",
+            "longitude": "16.9928"
+        },
+        {
+            "city": "Bod\u00f8",
+            "region": "09",
+            "country": "NO",
+            "latitude": "67.28",
+            "longitude": "14.40501"
+        },
+        {
+            "city": "B\u00f8",
+            "region": "17",
+            "country": "NO",
+            "latitude": "59.41299",
+            "longitude": "9.0693"
+        },
+        {
+            "city": "Blakstad",
+            "region": "01",
+            "country": "NO",
+            "latitude": "59.8191",
+            "longitude": "10.4645"
+        },
+        {
+            "city": "Bj\u00f8rkelangen",
+            "region": "01",
+            "country": "NO",
+            "latitude": "59.88478",
+            "longitude": "11.56942"
+        },
+        {
+            "city": "Bj\u00f8rkvang",
+            "region": "09",
+            "country": "NO",
+            "latitude": "68.55972",
+            "longitude": "17.51889"
+        },
+        {
+            "city": "Birkeland",
+            "region": "02",
+            "country": "NO",
+            "latitude": "58.33091",
+            "longitude": "8.23229"
+        },
+        {
+            "city": "Berk\u00e5k",
+            "region": "16",
+            "country": "NO",
+            "latitude": "62.82496",
+            "longitude": "10.01177"
+        },
+        {
+            "city": "Berger",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.545",
+            "longitude": "10.37139"
+        },
+        {
+            "city": "Bergen",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.39299",
+            "longitude": "5.32415"
+        },
+        {
+            "city": "Batnfjords\u00f8ra",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.89271",
+            "longitude": "7.6818"
+        },
+        {
+            "city": "Bark\u00e5ker",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.31667",
+            "longitude": "10.38333"
+        },
+        {
+            "city": "Ballangen",
+            "region": "09",
+            "country": "NO",
+            "latitude": "68.34283",
+            "longitude": "16.83145"
+        },
+        {
+            "city": "Balestrand",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.20757",
+            "longitude": "6.5334"
+        },
+        {
+            "city": "Bagn",
+            "region": "11",
+            "country": "NO",
+            "latitude": "60.82249",
+            "longitude": "9.55207"
+        },
+        {
+            "city": "Austrheim",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.7774",
+            "longitude": "4.9323"
+        },
+        {
+            "city": "Aurskog",
+            "region": "01",
+            "country": "NO",
+            "latitude": "59.91667",
+            "longitude": "11.43333"
+        },
+        {
+            "city": "Aure",
+            "region": "08",
+            "country": "NO",
+            "latitude": "63.26779",
+            "longitude": "8.53133"
+        },
+        {
+            "city": "Auli",
+            "region": "01",
+            "country": "NO",
+            "latitude": "60.0345",
+            "longitude": "11.36046"
+        },
+        {
+            "city": "Askim",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.58326",
+            "longitude": "11.16286"
+        },
+        {
+            "city": "Asker",
+            "region": "01",
+            "country": "NO",
+            "latitude": "59.83333",
+            "longitude": "10.43721"
+        },
+        {
+            "city": "Ask",
+            "region": "01",
+            "country": "NO",
+            "latitude": "60.07166",
+            "longitude": "11.03452"
+        },
+        {
+            "city": "\u00c5sg\u00e5rdstrand",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.34889",
+            "longitude": "10.4675"
+        },
+        {
+            "city": "\u00c5s",
+            "region": "01",
+            "country": "NO",
+            "latitude": "59.66472",
+            "longitude": "10.79465"
+        },
+        {
+            "city": "\u00c5rstein",
+            "region": "18",
+            "country": "NO",
+            "latitude": "68.69033",
+            "longitude": "17.54224"
+        },
+        {
+            "city": "\u00c5ros",
+            "region": "04",
+            "country": "NO",
+            "latitude": "59.70306",
+            "longitude": "10.51361"
+        },
+        {
+            "city": "\u00c5rnes",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.96114",
+            "longitude": "10.22601"
+        },
+        {
+            "city": "\u00c5rnes",
+            "region": "01",
+            "country": "NO",
+            "latitude": "60.12105",
+            "longitude": "11.46634"
+        },
+        {
+            "city": "Indre Arna",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.42472",
+            "longitude": "5.47639"
+        },
+        {
+            "city": "Arendal",
+            "region": "02",
+            "country": "NO",
+            "latitude": "58.46151",
+            "longitude": "8.77253"
+        },
+        {
+            "city": "\u00c5rdalstangen",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.23711",
+            "longitude": "7.69834"
+        },
+        {
+            "city": "\u00c5neby",
+            "region": "01",
+            "country": "NO",
+            "latitude": "60.08333",
+            "longitude": "10.86667"
+        },
+        {
+            "city": "Andenes",
+            "region": "09",
+            "country": "NO",
+            "latitude": "69.31428",
+            "longitude": "16.11939"
+        },
+        {
+            "city": "\u00c5ndalsnes",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.56749",
+            "longitude": "7.68709"
+        },
+        {
+            "city": "\u00c5mot",
+            "region": "17",
+            "country": "NO",
+            "latitude": "59.57136",
+            "longitude": "7.98774"
+        },
+        {
+            "city": "\u00c5mli",
+            "region": "02",
+            "country": "NO",
+            "latitude": "58.76845",
+            "longitude": "8.48651"
+        },
+        {
+            "city": "Alvdal",
+            "region": "06",
+            "country": "NO",
+            "latitude": "62.10766",
+            "longitude": "10.63073"
+        },
+        {
+            "city": "\u00c5lg\u00e5rd",
+            "region": "14",
+            "country": "NO",
+            "latitude": "58.76417",
+            "longitude": "5.85253"
+        },
+        {
+            "city": "\u00c5lesund",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.47225",
+            "longitude": "6.15492"
+        },
+        {
+            "city": "\u00c5len",
+            "region": "16",
+            "country": "NO",
+            "latitude": "62.84185",
+            "longitude": "11.3013"
+        },
+        {
+            "city": "\u00c5l",
+            "region": "04",
+            "country": "NO",
+            "latitude": "60.62821",
+            "longitude": "8.56279"
+        },
+        {
+            "city": "\u00c5krehamn",
+            "region": "14",
+            "country": "NO",
+            "latitude": "59.26667",
+            "longitude": "5.18333"
+        },
+        {
+            "city": "\u00c5gotnes",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.40611",
+            "longitude": "5.01889"
+        },
+        {
+            "city": "As",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.96667",
+            "longitude": "10.2"
+        },
+        {
+            "city": "Vormedal",
+            "region": "14",
+            "country": "NO",
+            "latitude": "59.355",
+            "longitude": "5.31889"
+        },
+        {
+            "city": "Tingvoll",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.91318",
+            "longitude": "8.20526"
+        },
+        {
+            "city": "Hommers\u00e5k",
+            "region": "14",
+            "country": "NO",
+            "latitude": "58.93167",
+            "longitude": "5.85111"
+        },
+        {
+            "city": "Vikev\u00e5g",
+            "region": "14",
+            "country": "NO",
+            "latitude": "59.09758",
+            "longitude": "5.69694"
+        },
+        {
+            "city": "\u00c5r\u00f8ysund",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.18056",
+            "longitude": "10.455"
+        },
+        {
+            "city": "Myre",
+            "region": "09",
+            "country": "NO",
+            "latitude": "68.91521",
+            "longitude": "15.07161"
+        },
+        {
+            "city": "Nesoddtangen",
+            "region": "01",
+            "country": "NO",
+            "latitude": "59.86553",
+            "longitude": "10.6594"
+        },
+        {
+            "city": "Ask\u00f8y",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.4",
+            "longitude": "5.18333"
+        },
+        {
+            "city": "\u00d8rsta",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.2029",
+            "longitude": "6.12722"
+        },
+        {
+            "city": "Ryggebyen",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.375",
+            "longitude": "10.75"
+        },
+        {
+            "city": "Vedav\u00e5gen",
+            "region": "14",
+            "country": "NO",
+            "latitude": "59.29167",
+            "longitude": "5.23333"
+        },
+        {
+            "city": "Vestnes",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.62644",
+            "longitude": "7.08838"
+        },
+        {
+            "city": "Fjellfoten",
+            "region": "01",
+            "country": "NO",
+            "latitude": "60.08967",
+            "longitude": "11.47222"
+        },
+        {
+            "city": "Neskollen",
+            "region": "01",
+            "country": "NO",
+            "latitude": "60.12159",
+            "longitude": "11.33926"
+        },
+        {
+            "city": "Kinsarvik",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.37568",
+            "longitude": "6.72247"
+        },
+        {
+            "city": "Sj\u00f8lyststranda",
+            "region": "12",
+            "country": "NO",
+            "latitude": "59.92105",
+            "longitude": "10.68017"
+        },
+        {
+            "city": "Skei",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.57194",
+            "longitude": "6.48164"
+        },
+        {
+            "city": "Ytrebygda",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.30504",
+            "longitude": "5.28236"
+        },
+        {
+            "city": "Sandsli",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.30323",
+            "longitude": "5.28554"
+        },
+        {
+            "city": "Stj\u00f8rdal",
+            "region": "10",
+            "country": "NO",
+            "latitude": "63.46803",
+            "longitude": "10.91776"
+        },
+        {
+            "city": "Frosta",
+            "region": "10",
+            "country": "NO",
+            "latitude": "63.5891",
+            "longitude": "10.7423"
+        },
+        {
+            "city": "Vik",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.05712",
+            "longitude": "6.57806"
+        },
+        {
+            "city": "Sogndal",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.22829",
+            "longitude": "7.10026"
+        },
+        {
+            "city": "R\u00f8mskog",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.7497",
+            "longitude": "11.8112"
+        },
+        {
+            "city": "Meieribyen",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.47453",
+            "longitude": "11.16083"
+        },
+        {
+            "city": "Kirkebygda",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.49099",
+            "longitude": "10.87423"
+        },
+        {
+            "city": "Elvestad",
+            "region": "13",
+            "country": "NO",
+            "latitude": "59.62401",
+            "longitude": "10.9508"
+        },
+        {
+            "city": "Forsand",
+            "region": "14",
+            "country": "NO",
+            "latitude": "58.9033",
+            "longitude": "6.1048"
+        },
+        {
+            "city": "Fjerdingby",
+            "region": "01",
+            "country": "NO",
+            "latitude": "59.92626",
+            "longitude": "11.06527"
+        },
+        {
+            "city": "Kirkebygda",
+            "region": "01",
+            "country": "NO",
+            "latitude": "59.76452",
+            "longitude": "11.14492"
+        },
+        {
+            "city": "Kjenn",
+            "region": "01",
+            "country": "NO",
+            "latitude": "59.93098",
+            "longitude": "10.95373"
+        },
+        {
+            "city": "Teigebyen",
+            "region": "01",
+            "country": "NO",
+            "latitude": "60.22155",
+            "longitude": "11.01867"
+        },
+        {
+            "city": "Hurdal",
+            "region": "01",
+            "country": "NO",
+            "latitude": "60.43518",
+            "longitude": "11.06707"
+        },
+        {
+            "city": "Flisa",
+            "region": "06",
+            "country": "NO",
+            "latitude": "60.60922",
+            "longitude": "12.01543"
+        },
+        {
+            "city": "Bergset",
+            "region": "06",
+            "country": "NO",
+            "latitude": "61.88926",
+            "longitude": "11.07799"
+        },
+        {
+            "city": "Engerdal",
+            "region": "06",
+            "country": "NO",
+            "latitude": "61.75832",
+            "longitude": "11.95985"
+        },
+        {
+            "city": "Lesja",
+            "region": "11",
+            "country": "NO",
+            "latitude": "62.11837",
+            "longitude": "8.86424"
+        },
+        {
+            "city": "Bismo",
+            "region": "11",
+            "country": "NO",
+            "latitude": "61.88387",
+            "longitude": "8.26914"
+        },
+        {
+            "city": "Fossbergom",
+            "region": "11",
+            "country": "NO",
+            "latitude": "61.83773",
+            "longitude": "8.56842"
+        },
+        {
+            "city": "V\u00e5lebrua",
+            "region": "11",
+            "country": "NO",
+            "latitude": "61.52965",
+            "longitude": "10.13889"
+        },
+        {
+            "city": "Segalstad bru",
+            "region": "11",
+            "country": "NO",
+            "latitude": "61.22819",
+            "longitude": "10.22255"
+        },
+        {
+            "city": "Slidre",
+            "region": "11",
+            "country": "NO",
+            "latitude": "61.08802",
+            "longitude": "8.98141"
+        },
+        {
+            "city": "Vang",
+            "region": "11",
+            "country": "NO",
+            "latitude": "61.12529",
+            "longitude": "8.5729"
+        },
+        {
+            "city": "Vik",
+            "region": "04",
+            "country": "NO",
+            "latitude": "60.07734",
+            "longitude": "10.28116"
+        },
+        {
+            "city": "Tr\u00f8im",
+            "region": "04",
+            "country": "NO",
+            "latitude": "60.86114",
+            "longitude": "8.56537"
+        },
+        {
+            "city": "Hol",
+            "region": "04",
+            "country": "NO",
+            "latitude": "60.61511",
+            "longitude": "8.29398"
+        },
+        {
+            "city": "Lierbyen",
+            "region": "04",
+            "country": "NO",
+            "latitude": "59.7873",
+            "longitude": "10.24561"
+        },
+        {
+            "city": "Lampeland",
+            "region": "04",
+            "country": "NO",
+            "latitude": "59.83486",
+            "longitude": "9.57912"
+        },
+        {
+            "city": "R\u00f8dberg",
+            "region": "04",
+            "country": "NO",
+            "latitude": "60.26722",
+            "longitude": "8.94721"
+        },
+        {
+            "city": "Hof",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.53013",
+            "longitude": "10.09032"
+        },
+        {
+            "city": "Revetal",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.3724",
+            "longitude": "10.26308"
+        },
+        {
+            "city": "Andebu",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.30592",
+            "longitude": "10.17653"
+        },
+        {
+            "city": "Borgheim",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.22716",
+            "longitude": "10.40785"
+        },
+        {
+            "city": "Svarstad",
+            "region": "20",
+            "country": "NO",
+            "latitude": "59.399",
+            "longitude": "9.96985"
+        },
+        {
+            "city": "Sauland",
+            "region": "17",
+            "country": "NO",
+            "latitude": "59.6161",
+            "longitude": "8.93755"
+        },
+        {
+            "city": "Blakstad",
+            "region": "02",
+            "country": "NO",
+            "latitude": "58.5046",
+            "longitude": "8.64648"
+        },
+        {
+            "city": "Birketveit",
+            "region": "02",
+            "country": "NO",
+            "latitude": "58.45909",
+            "longitude": "7.91692"
+        },
+        {
+            "city": "Helland",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.18875",
+            "longitude": "7.52513"
+        },
+        {
+            "city": "Kyrkjebygda",
+            "region": "19",
+            "country": "NO",
+            "latitude": "58.61523",
+            "longitude": "7.41391"
+        },
+        {
+            "city": "Kleppe",
+            "region": "14",
+            "country": "NO",
+            "latitude": "58.77303",
+            "longitude": "5.63329"
+        },
+        {
+            "city": "Hjelmelandsv\u00e5gen",
+            "region": "14",
+            "country": "NO",
+            "latitude": "59.2347",
+            "longitude": "6.17752"
+        },
+        {
+            "city": "Sand",
+            "region": "14",
+            "country": "NO",
+            "latitude": "59.48532",
+            "longitude": "6.25353"
+        },
+        {
+            "city": "Ystab\u00f8hamn",
+            "region": "14",
+            "country": "NO",
+            "latitude": "59.06227",
+            "longitude": "5.40249"
+        },
+        {
+            "city": "Bokn",
+            "region": "14",
+            "country": "NO",
+            "latitude": "59.23062",
+            "longitude": "5.43524"
+        },
+        {
+            "city": "Aksdal",
+            "region": "14",
+            "country": "NO",
+            "latitude": "59.42408",
+            "longitude": "5.44553"
+        },
+        {
+            "city": "Skogsv\u00e5gen",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.25512",
+            "longitude": "5.10161"
+        },
+        {
+            "city": "Straume",
+            "region": "07",
+            "country": "NO",
+            "latitude": "60.3571",
+            "longitude": "5.12415"
+        },
+        {
+            "city": "Aurlandsvangen",
+            "region": "15",
+            "country": "NO",
+            "latitude": "60.90814",
+            "longitude": "7.18977"
+        },
+        {
+            "city": "Gaupne",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.40831",
+            "longitude": "7.28559"
+        },
+        {
+            "city": "Askvoll",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.3463",
+            "longitude": "5.0704"
+        },
+        {
+            "city": "Hornindal",
+            "region": "15",
+            "country": "NO",
+            "latitude": "61.96925",
+            "longitude": "6.52249"
+        },
+        {
+            "city": "Fisk\u00e5",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.10059",
+            "longitude": "5.55788"
+        },
+        {
+            "city": "Stordal",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.38203",
+            "longitude": "6.98629"
+        },
+        {
+            "city": "Sykkylven",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.39594",
+            "longitude": "6.5875"
+        },
+        {
+            "city": "Valder\u00f8y",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.5007",
+            "longitude": "6.13472"
+        },
+        {
+            "city": "Falkhytta",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.805",
+            "longitude": "6.88722"
+        },
+        {
+            "city": "Elnesv\u00e5gen",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.85441",
+            "longitude": "7.14064"
+        },
+        {
+            "city": "Bruhagen",
+            "region": "08",
+            "country": "NO",
+            "latitude": "63.05172",
+            "longitude": "7.63204"
+        },
+        {
+            "city": "Surnadal",
+            "region": "08",
+            "country": "NO",
+            "latitude": "62.97397",
+            "longitude": "8.72472"
+        },
+        {
+            "city": "Liab\u00f8en",
+            "region": "08",
+            "country": "NO",
+            "latitude": "63.12249",
+            "longitude": "8.31587"
+        },
+        {
+            "city": "Rissa",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.58368",
+            "longitude": "9.95989"
+        },
+        {
+            "city": "Roan",
+            "region": "16",
+            "country": "NO",
+            "latitude": "64.17269",
+            "longitude": "10.22898"
+        },
+        {
+            "city": "Steinsdalen",
+            "region": "16",
+            "country": "NO",
+            "latitude": "64.29875",
+            "longitude": "10.51284"
+        },
+        {
+            "city": "Meldal",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.04721",
+            "longitude": "9.71337"
+        },
+        {
+            "city": "St\u00f8ren",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.0391",
+            "longitude": "10.28501"
+        },
+        {
+            "city": "B\u00f8rsa",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.32672",
+            "longitude": "10.0692"
+        },
+        {
+            "city": "Kl\u00e6bu",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.29762",
+            "longitude": "10.48261"
+        },
+        {
+            "city": "Mebonden",
+            "region": "16",
+            "country": "NO",
+            "latitude": "63.22907",
+            "longitude": "11.03128"
+        },
+        {
+            "city": "Stugudalen",
+            "region": "16",
+            "country": "NO",
+            "latitude": "62.90799",
+            "longitude": "11.89281"
+        },
+        {
+            "city": "Leksvik",
+            "region": "10",
+            "country": "NO",
+            "latitude": "63.67248",
+            "longitude": "10.6266"
+        },
+        {
+            "city": "Mosvik",
+            "region": "10",
+            "country": "NO",
+            "latitude": "63.8177",
+            "longitude": "11.00581"
+        },
+        {
+            "city": "Namdalseid",
+            "region": "10",
+            "country": "NO",
+            "latitude": "64.22243",
+            "longitude": "11.22139"
+        },
+        {
+            "city": "Nordli",
+            "region": "10",
+            "country": "NO",
+            "latitude": "64.46413",
+            "longitude": "13.59249"
+        },
+        {
+            "city": "H\u00f8ylandet",
+            "region": "10",
+            "country": "NO",
+            "latitude": "64.62887",
+            "longitude": "12.30206"
+        },
+        {
+            "city": "J\u00f8a",
+            "region": "10",
+            "country": "NO",
+            "latitude": "64.6591",
+            "longitude": "11.26535"
+        },
+        {
+            "city": "Leka",
+            "region": "10",
+            "country": "NO",
+            "latitude": "65.09244",
+            "longitude": "11.70513"
+        },
+        {
+            "city": "Silvalen",
+            "region": "09",
+            "country": "NO",
+            "latitude": "65.98427",
+            "longitude": "12.28916"
+        },
+        {
+            "city": "Hattfjelldal",
+            "region": "09",
+            "country": "NO",
+            "latitude": "65.59795",
+            "longitude": "13.98422"
+        },
+        {
+            "city": "Solfjellsjyen",
+            "region": "09",
+            "country": "NO",
+            "latitude": "66.10799",
+            "longitude": "12.49046"
+        },
+        {
+            "city": "Lur\u00f8y",
+            "region": "09",
+            "country": "NO",
+            "latitude": "66.41887",
+            "longitude": "12.84248"
+        },
+        {
+            "city": "Hus\u00f8ya",
+            "region": "09",
+            "country": "NO",
+            "latitude": "66.50159",
+            "longitude": "12.09645"
+        },
+        {
+            "city": "V\u00e5gaholmen",
+            "region": "09",
+            "country": "NO",
+            "latitude": "66.71367",
+            "longitude": "13.28711"
+        },
+        {
+            "city": "Leinesfjorden",
+            "region": "09",
+            "country": "NO",
+            "latitude": "67.77548",
+            "longitude": "15.01545"
+        },
+        {
+            "city": "Oppeide",
+            "region": "09",
+            "country": "NO",
+            "latitude": "68.08524",
+            "longitude": "15.60314"
+        },
+        {
+            "city": "Leknes",
+            "region": "09",
+            "country": "NO",
+            "latitude": "68.14746",
+            "longitude": "13.61151"
+        },
+        {
+            "city": "Bjark\u00f8y",
+            "region": "18",
+            "country": "NO",
+            "latitude": "68.99994",
+            "longitude": "16.56392"
+        },
+        {
+            "city": "Tennevoll",
+            "region": "18",
+            "country": "NO",
+            "latitude": "68.7471",
+            "longitude": "17.80621"
+        },
+        {
+            "city": "S\u00f8rreisa",
+            "region": "18",
+            "country": "NO",
+            "latitude": "69.14527",
+            "longitude": "18.15292"
+        },
+        {
+            "city": "Br\u00f8stadbotn",
+            "region": "18",
+            "country": "NO",
+            "latitude": "69.08873",
+            "longitude": "17.69489"
+        },
+        {
+            "city": "Hatteng",
+            "region": "18",
+            "country": "NO",
+            "latitude": "69.27072",
+            "longitude": "19.95944"
+        },
+        {
+            "city": "Breivikbotn",
+            "region": "05",
+            "country": "NO",
+            "latitude": "70.58871",
+            "longitude": "22.28486"
+        },
+        {
+            "city": "Tana bru",
+            "region": "05",
+            "country": "NO",
+            "latitude": "70.19909",
+            "longitude": "28.19039"
+        }
+    ]
+}

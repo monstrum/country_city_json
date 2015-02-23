@@ -1,0 +1,13 @@
+{
+    "country": "Turks and Caicos Islands",
+    "code": "TC",
+    "cities": [
+        {
+            "city": "Cockburn Town",
+            "region": "00",
+            "country": "TC",
+            "latitude": "21.46122",
+            "longitude": "-71.14188"
+        }
+    ]
+}

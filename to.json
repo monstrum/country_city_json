@@ -1,0 +1,48 @@
+{
+    "country": "Tonga",
+    "code": "TO",
+    "cities": [
+        {
+            "city": "Vaini",
+            "region": "02",
+            "country": "TO",
+            "latitude": "-21.2",
+            "longitude": "-175.2"
+        },
+        {
+            "city": "Pangai",
+            "region": "01",
+            "country": "TO",
+            "latitude": "-19.8",
+            "longitude": "-174.35"
+        },
+        {
+            "city": "\u2018Ohonua",
+            "region": "02",
+            "country": "TO",
+            "latitude": "-21.33333",
+            "longitude": "-174.95"
+        },
+        {
+            "city": "Nuku\u2018alofa",
+            "region": "02",
+            "country": "TO",
+            "latitude": "-21.13333",
+            "longitude": "-175.2"
+        },
+        {
+            "city": "Neiafu",
+            "region": "03",
+            "country": "TO",
+            "latitude": "-18.65",
+            "longitude": "-173.98333"
+        },
+        {
+            "city": "Havelu",
+            "region": "02",
+            "country": "TO",
+            "latitude": "-21.15",
+            "longitude": "-175.21667"
+        }
+    ]
+}

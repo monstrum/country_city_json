@@ -1,0 +1,13 @@
+{
+    "country": "Christmas Island",
+    "code": "CX",
+    "cities": [
+        {
+            "city": "Flying Fish Cove",
+            "region": "00",
+            "country": "CX",
+            "latitude": "-10.42172",
+            "longitude": "105.67912"
+        }
+    ]
+}

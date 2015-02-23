@@ -1,0 +1,888 @@
+{
+    "country": "Chile",
+    "code": "CL",
+    "cities": [
+        {
+            "city": "Yumbel",
+            "region": "06",
+            "country": "CL",
+            "latitude": "-37.08333",
+            "longitude": "-72.56667"
+        },
+        {
+            "city": "Vi\u00f1a del Mar",
+            "region": "01",
+            "country": "CL",
+            "latitude": "-33.02457",
+            "longitude": "-71.55183"
+        },
+        {
+            "city": "Villarrica",
+            "region": "04",
+            "country": "CL",
+            "latitude": "-39.28569",
+            "longitude": "-72.2279"
+        },
+        {
+            "city": "Villa Alemana",
+            "region": "01",
+            "country": "CL",
+            "latitude": "-33.04222",
+            "longitude": "-71.37333"
+        },
+        {
+            "city": "Vilc\u00fan",
+            "region": "04",
+            "country": "CL",
+            "latitude": "-38.65",
+            "longitude": "-72.23333"
+        },
+        {
+            "city": "Vicu\u00f1a",
+            "region": "07",
+            "country": "CL",
+            "latitude": "-30.03194",
+            "longitude": "-70.70806"
+        },
+        {
+            "city": "Victoria",
+            "region": "04",
+            "country": "CL",
+            "latitude": "-38.21667",
+            "longitude": "-72.33333"
+        },
+        {
+            "city": "Valpara\u00edso",
+            "region": "01",
+            "country": "CL",
+            "latitude": "-33.03932",
+            "longitude": "-71.62725"
+        },
+        {
+            "city": "Vallenar",
+            "region": "05",
+            "country": "CL",
+            "latitude": "-28.57083",
+            "longitude": "-70.75806"
+        },
+        {
+            "city": "Valdivia",
+            "region": "17",
+            "country": "CL",
+            "latitude": "-39.81422",
+            "longitude": "-73.24589"
+        },
+        {
+            "city": "Traigu\u00e9n",
+            "region": "04",
+            "country": "CL",
+            "latitude": "-38.25",
+            "longitude": "-72.68333"
+        },
+        {
+            "city": "Tom\u00e9",
+            "region": "06",
+            "country": "CL",
+            "latitude": "-36.61667",
+            "longitude": "-72.95"
+        },
+        {
+            "city": "Tocopilla",
+            "region": "03",
+            "country": "CL",
+            "latitude": "-22.09198",
+            "longitude": "-70.19792"
+        },
+        {
+            "city": "Teno",
+            "region": "11",
+            "country": "CL",
+            "latitude": "-34.86667",
+            "longitude": "-71.18333"
+        },
+        {
+            "city": "Temuco",
+            "region": "04",
+            "country": "CL",
+            "latitude": "-38.73333",
+            "longitude": "-72.6"
+        },
+        {
+            "city": "Taltal",
+            "region": "03",
+            "country": "CL",
+            "latitude": "-25.4",
+            "longitude": "-70.48333"
+        },
+        {
+            "city": "Talcahuano",
+            "region": "06",
+            "country": "CL",
+            "latitude": "-36.71667",
+            "longitude": "-73.11667"
+        },
+        {
+            "city": "Talca",
+            "region": "11",
+            "country": "CL",
+            "latitude": "-35.43333",
+            "longitude": "-71.66667"
+        },
+        {
+            "city": "Talagante",
+            "region": "12",
+            "country": "CL",
+            "latitude": "-33.66667",
+            "longitude": "-70.93333"
+        },
+        {
+            "city": "San Vicente",
+            "region": "08",
+            "country": "CL",
+            "latitude": "-34.43333",
+            "longitude": "-71.08333"
+        },
+        {
+            "city": "Santiago",
+            "region": "12",
+            "country": "CL",
+            "latitude": "-33.42628",
+            "longitude": "-70.56656"
+        },
+        {
+            "city": "Santa Cruz",
+            "region": "08",
+            "country": "CL",
+            "latitude": "-34.63333",
+            "longitude": "-71.36667"
+        },
+        {
+            "city": "San Pedro de Atacama",
+            "region": "03",
+            "country": "CL",
+            "latitude": "-22.91667",
+            "longitude": "-68.21667"
+        },
+        {
+            "city": "San Javier",
+            "region": "11",
+            "country": "CL",
+            "latitude": "-35.6",
+            "longitude": "-71.75"
+        },
+        {
+            "city": "San Felipe",
+            "region": "01",
+            "country": "CL",
+            "latitude": "-32.75",
+            "longitude": "-70.73333"
+        },
+        {
+            "city": "San Clemente",
+            "region": "11",
+            "country": "CL",
+            "latitude": "-35.55",
+            "longitude": "-71.48333"
+        },
+        {
+            "city": "San Carlos",
+            "region": "06",
+            "country": "CL",
+            "latitude": "-36.42477",
+            "longitude": "-71.958"
+        },
+        {
+            "city": "San Bernardo",
+            "region": "12",
+            "country": "CL",
+            "latitude": "-33.6",
+            "longitude": "-70.71667"
+        },
+        {
+            "city": "San Antonio",
+            "region": "01",
+            "country": "CL",
+            "latitude": "-33.59333",
+            "longitude": "-71.62167"
+        },
+        {
+            "city": "Salamanca",
+            "region": "07",
+            "country": "CL",
+            "latitude": "-31.775",
+            "longitude": "-70.97222"
+        },
+        {
+            "city": "R\u00edo Bueno",
+            "region": "17",
+            "country": "CL",
+            "latitude": "-40.31667",
+            "longitude": "-72.96667"
+        },
+        {
+            "city": "Rengo",
+            "region": "08",
+            "country": "CL",
+            "latitude": "-34.41667",
+            "longitude": "-70.86667"
+        },
+        {
+            "city": "Rancagua",
+            "region": "08",
+            "country": "CL",
+            "latitude": "-34.17083",
+            "longitude": "-70.74444"
+        },
+        {
+            "city": "Quilpu\u00e9",
+            "region": "01",
+            "country": "CL",
+            "latitude": "-33.045",
+            "longitude": "-71.44944"
+        },
+        {
+            "city": "Quillota",
+            "region": "01",
+            "country": "CL",
+            "latitude": "-32.88333",
+            "longitude": "-71.26667"
+        },
+        {
+            "city": "Purranque",
+            "region": "14",
+            "country": "CL",
+            "latitude": "-40.91667",
+            "longitude": "-73.16667"
+        },
+        {
+            "city": "Punta Arenas",
+            "region": "10",
+            "country": "CL",
+            "latitude": "-53.15",
+            "longitude": "-70.91667"
+        },
+        {
+            "city": "Puerto Varas",
+            "region": "14",
+            "country": "CL",
+            "latitude": "-41.31667",
+            "longitude": "-72.98333"
+        },
+        {
+            "city": "Puerto Quell\u00f3n",
+            "region": "14",
+            "country": "CL",
+            "latitude": "-43.11667",
+            "longitude": "-73.61667"
+        },
+        {
+            "city": "Puerto Natales",
+            "region": "10",
+            "country": "CL",
+            "latitude": "-51.72363",
+            "longitude": "-72.48745"
+        },
+        {
+            "city": "Puerto Montt",
+            "region": "14",
+            "country": "CL",
+            "latitude": "-41.47167",
+            "longitude": "-72.93694"
+        },
+        {
+            "city": "Puerto Cisnes",
+            "region": "02",
+            "country": "CL",
+            "latitude": "-44.75",
+            "longitude": "-72.7"
+        },
+        {
+            "city": "Puerto Ais\u00e9n",
+            "region": "02",
+            "country": "CL",
+            "latitude": "-45.4",
+            "longitude": "-72.7"
+        },
+        {
+            "city": "Puente Alto",
+            "region": "12",
+            "country": "CL",
+            "latitude": "-33.61667",
+            "longitude": "-70.58333"
+        },
+        {
+            "city": "Puc\u00f3n",
+            "region": "04",
+            "country": "CL",
+            "latitude": "-39.28223",
+            "longitude": "-71.95427"
+        },
+        {
+            "city": "Pitrufqu\u00e9n",
+            "region": "04",
+            "country": "CL",
+            "latitude": "-38.98333",
+            "longitude": "-72.65"
+        },
+        {
+            "city": "Penco",
+            "region": "06",
+            "country": "CL",
+            "latitude": "-36.73333",
+            "longitude": "-72.98333"
+        },
+        {
+            "city": "Pe\u00f1aflor",
+            "region": "12",
+            "country": "CL",
+            "latitude": "-33.61667",
+            "longitude": "-70.91667"
+        },
+        {
+            "city": "Parral",
+            "region": "11",
+            "country": "CL",
+            "latitude": "-36.15",
+            "longitude": "-71.83333"
+        },
+        {
+            "city": "Panguipulli",
+            "region": "04",
+            "country": "CL",
+            "latitude": "-39.63333",
+            "longitude": "-72.33333"
+        },
+        {
+            "city": "Palena",
+            "region": "14",
+            "country": "CL",
+            "latitude": "-43.62306",
+            "longitude": "-71.80389"
+        },
+        {
+            "city": "Paine",
+            "region": "12",
+            "country": "CL",
+            "latitude": "-33.81667",
+            "longitude": "-70.75"
+        },
+        {
+            "city": "Ovalle",
+            "region": "07",
+            "country": "CL",
+            "latitude": "-30.59833",
+            "longitude": "-71.20028"
+        },
+        {
+            "city": "Osorno",
+            "region": "14",
+            "country": "CL",
+            "latitude": "-40.56667",
+            "longitude": "-73.15"
+        },
+        {
+            "city": "Nueva Imperial",
+            "region": "04",
+            "country": "CL",
+            "latitude": "-38.73333",
+            "longitude": "-72.95"
+        },
+        {
+            "city": "Nacimiento",
+            "region": "06",
+            "country": "CL",
+            "latitude": "-37.5",
+            "longitude": "-72.66667"
+        },
+        {
+            "city": "Mulch\u00e9n",
+            "region": "06",
+            "country": "CL",
+            "latitude": "-37.71667",
+            "longitude": "-72.23333"
+        },
+        {
+            "city": "Monte Patria",
+            "region": "07",
+            "country": "CL",
+            "latitude": "-30.69194",
+            "longitude": "-70.94667"
+        },
+        {
+            "city": "Molina",
+            "region": "11",
+            "country": "CL",
+            "latitude": "-35.11667",
+            "longitude": "-71.28333"
+        },
+        {
+            "city": "Melipilla",
+            "region": "12",
+            "country": "CL",
+            "latitude": "-33.7",
+            "longitude": "-71.21667"
+        },
+        {
+            "city": "Machal\u00ed",
+            "region": "08",
+            "country": "CL",
+            "latitude": "-34.18333",
+            "longitude": "-70.66667"
+        },
+        {
+            "city": "Lota",
+            "region": "06",
+            "country": "CL",
+            "latitude": "-37.08333",
+            "longitude": "-73.16667"
+        },
+        {
+            "city": "Los \u00c1ngeles",
+            "region": "06",
+            "country": "CL",
+            "latitude": "-37.46667",
+            "longitude": "-72.35"
+        },
+        {
+            "city": "Los Andes",
+            "region": "01",
+            "country": "CL",
+            "latitude": "-32.83369",
+            "longitude": "-70.59827"
+        },
+        {
+            "city": "Longav\u00ed",
+            "region": "11",
+            "country": "CL",
+            "latitude": "-35.96667",
+            "longitude": "-71.68333"
+        },
+        {
+            "city": "Loncoche",
+            "region": "04",
+            "country": "CL",
+            "latitude": "-39.36667",
+            "longitude": "-72.63333"
+        },
+        {
+            "city": "Llaillay",
+            "region": "01",
+            "country": "CL",
+            "latitude": "-32.85",
+            "longitude": "-70.96667"
+        },
+        {
+            "city": "Linares",
+            "region": "11",
+            "country": "CL",
+            "latitude": "-35.85",
+            "longitude": "-71.6"
+        },
+        {
+            "city": "Limache",
+            "region": "01",
+            "country": "CL",
+            "latitude": "-33.01667",
+            "longitude": "-71.26667"
+        },
+        {
+            "city": "Lebu",
+            "region": "06",
+            "country": "CL",
+            "latitude": "-37.61667",
+            "longitude": "-73.65"
+        },
+        {
+            "city": "Lautaro",
+            "region": "04",
+            "country": "CL",
+            "latitude": "-38.51667",
+            "longitude": "-72.45"
+        },
+        {
+            "city": "La Uni\u00f3n",
+            "region": "14",
+            "country": "CL",
+            "latitude": "-40.28333",
+            "longitude": "-73.08333"
+        },
+        {
+            "city": "La Serena",
+            "region": "07",
+            "country": "CL",
+            "latitude": "-29.90778",
+            "longitude": "-71.25417"
+        },
+        {
+            "city": "Lampa",
+            "region": "12",
+            "country": "CL",
+            "latitude": "-33.28333",
+            "longitude": "-70.9"
+        },
+        {
+            "city": "La Ligua",
+            "region": "01",
+            "country": "CL",
+            "latitude": "-32.45242",
+            "longitude": "-71.23106"
+        },
+        {
+            "city": "La Laja",
+            "region": "06",
+            "country": "CL",
+            "latitude": "-37.26667",
+            "longitude": "-72.7"
+        },
+        {
+            "city": "Iquique",
+            "region": "15",
+            "country": "CL",
+            "latitude": "-20.22083",
+            "longitude": "-70.14306"
+        },
+        {
+            "city": "Illapel",
+            "region": "07",
+            "country": "CL",
+            "latitude": "-31.63083",
+            "longitude": "-71.16528"
+        },
+        {
+            "city": "Hacienda La Calera",
+            "region": "01",
+            "country": "CL",
+            "latitude": "-32.78333",
+            "longitude": "-71.21667"
+        },
+        {
+            "city": "Graneros",
+            "region": "08",
+            "country": "CL",
+            "latitude": "-34.06667",
+            "longitude": "-70.73333"
+        },
+        {
+            "city": "Futaleuf\u00fa",
+            "region": "14",
+            "country": "CL",
+            "latitude": "-43.1675",
+            "longitude": "-71.84833"
+        },
+        {
+            "city": "Frutillar",
+            "region": "14",
+            "country": "CL",
+            "latitude": "-41.12676",
+            "longitude": "-73.04372"
+        },
+        {
+            "city": "Freire",
+            "region": "04",
+            "country": "CL",
+            "latitude": "-38.95",
+            "longitude": "-72.63333"
+        },
+        {
+            "city": "El Monte",
+            "region": "12",
+            "country": "CL",
+            "latitude": "-33.68333",
+            "longitude": "-71.01667"
+        },
+        {
+            "city": "Diego de Almagro",
+            "region": "05",
+            "country": "CL",
+            "latitude": "-26.36667",
+            "longitude": "-70.05"
+        },
+        {
+            "city": "Curic\u00f3",
+            "region": "11",
+            "country": "CL",
+            "latitude": "-34.98333",
+            "longitude": "-71.23333"
+        },
+        {
+            "city": "Curanilahue",
+            "region": "06",
+            "country": "CL",
+            "latitude": "-37.46667",
+            "longitude": "-73.35"
+        },
+        {
+            "city": "Corral",
+            "region": "14",
+            "country": "CL",
+            "latitude": "-39.88972",
+            "longitude": "-73.42747"
+        },
+        {
+            "city": "Coronel",
+            "region": "06",
+            "country": "CL",
+            "latitude": "-37.01667",
+            "longitude": "-73.13333"
+        },
+        {
+            "city": "Coquimbo",
+            "region": "07",
+            "country": "CL",
+            "latitude": "-29.95333",
+            "longitude": "-71.34361"
+        },
+        {
+            "city": "Copiap\u00f3",
+            "region": "05",
+            "country": "CL",
+            "latitude": "-27.36667",
+            "longitude": "-70.33333"
+        },
+        {
+            "city": "Constituci\u00f3n",
+            "region": "11",
+            "country": "CL",
+            "latitude": "-35.33333",
+            "longitude": "-72.41667"
+        },
+        {
+            "city": "Concepci\u00f3n",
+            "region": "06",
+            "country": "CL",
+            "latitude": "-36.82699",
+            "longitude": "-73.04977"
+        },
+        {
+            "city": "Collipulli",
+            "region": "04",
+            "country": "CL",
+            "latitude": "-37.95",
+            "longitude": "-72.43333"
+        },
+        {
+            "city": "Coihueco",
+            "region": "06",
+            "country": "CL",
+            "latitude": "-36.61667",
+            "longitude": "-71.83333"
+        },
+        {
+            "city": "Coihaique",
+            "region": "02",
+            "country": "CL",
+            "latitude": "-45.57524",
+            "longitude": "-72.06619"
+        },
+        {
+            "city": "Cochrane",
+            "region": "02",
+            "country": "CL",
+            "latitude": "-47.2557",
+            "longitude": "-72.5695"
+        },
+        {
+            "city": "Chonchi",
+            "region": "14",
+            "country": "CL",
+            "latitude": "-42.61278",
+            "longitude": "-73.80917"
+        },
+        {
+            "city": "Chimbarongo",
+            "region": "08",
+            "country": "CL",
+            "latitude": "-34.7",
+            "longitude": "-71.05"
+        },
+        {
+            "city": "Chill\u00e1n",
+            "region": "06",
+            "country": "CL",
+            "latitude": "-36.60664",
+            "longitude": "-72.10344"
+        },
+        {
+            "city": "Chile Chico",
+            "region": "02",
+            "country": "CL",
+            "latitude": "-46.55",
+            "longitude": "-71.73333"
+        },
+        {
+            "city": "Chiguayante",
+            "region": "06",
+            "country": "CL",
+            "latitude": "-36.91667",
+            "longitude": "-73.01667"
+        },
+        {
+            "city": "Chait\u00e9n",
+            "region": "14",
+            "country": "CL",
+            "latitude": "-42.91596",
+            "longitude": "-72.70632"
+        },
+        {
+            "city": "Cauquenes",
+            "region": "11",
+            "country": "CL",
+            "latitude": "-35.96667",
+            "longitude": "-72.35"
+        },
+        {
+            "city": "Castro",
+            "region": "14",
+            "country": "CL",
+            "latitude": "-42.4721",
+            "longitude": "-73.77319"
+        },
+        {
+            "city": "Carahue",
+            "region": "04",
+            "country": "CL",
+            "latitude": "-38.7",
+            "longitude": "-73.16667"
+        },
+        {
+            "city": "Ca\u00f1ete",
+            "region": "06",
+            "country": "CL",
+            "latitude": "-37.8",
+            "longitude": "-73.4"
+        },
+        {
+            "city": "Calbuco",
+            "region": "14",
+            "country": "CL",
+            "latitude": "-41.76667",
+            "longitude": "-73.13333"
+        },
+        {
+            "city": "Calama",
+            "region": "03",
+            "country": "CL",
+            "latitude": "-22.46667",
+            "longitude": "-68.93333"
+        },
+        {
+            "city": "Cabrero",
+            "region": "06",
+            "country": "CL",
+            "latitude": "-37.03333",
+            "longitude": "-72.4"
+        },
+        {
+            "city": "Bulnes",
+            "region": "06",
+            "country": "CL",
+            "latitude": "-36.74232",
+            "longitude": "-72.29854"
+        },
+        {
+            "city": "Buin",
+            "region": "12",
+            "country": "CL",
+            "latitude": "-33.73333",
+            "longitude": "-70.75"
+        },
+        {
+            "city": "Arica",
+            "region": "16",
+            "country": "CL",
+            "latitude": "-18.475",
+            "longitude": "-70.30417"
+        },
+        {
+            "city": "Arauco",
+            "region": "06",
+            "country": "CL",
+            "latitude": "-37.2463",
+            "longitude": "-73.31752"
+        },
+        {
+            "city": "Antofagasta",
+            "region": "03",
+            "country": "CL",
+            "latitude": "-23.65",
+            "longitude": "-70.4"
+        },
+        {
+            "city": "Angol",
+            "region": "04",
+            "country": "CL",
+            "latitude": "-37.8",
+            "longitude": "-72.71667"
+        },
+        {
+            "city": "Ancud",
+            "region": "14",
+            "country": "CL",
+            "latitude": "-41.86972",
+            "longitude": "-73.82028"
+        },
+        {
+            "city": "Puerto Chacabuco",
+            "region": "02",
+            "country": "CL",
+            "latitude": "-45.46667",
+            "longitude": "-72.81667"
+        },
+        {
+            "city": "La Junta",
+            "region": "02",
+            "country": "CL",
+            "latitude": "-43.96028",
+            "longitude": "-72.44028"
+        },
+        {
+            "city": "Hanga Roa",
+            "region": "01",
+            "country": "CL",
+            "latitude": "-27.15",
+            "longitude": "-109.43333"
+        },
+        {
+            "city": "Las Gaviotas",
+            "region": "14",
+            "country": "CL",
+            "latitude": "-39.86653",
+            "longitude": "-73.18834"
+        },
+        {
+            "city": "Las Animas",
+            "region": "14",
+            "country": "CL",
+            "latitude": "-39.80867",
+            "longitude": "-73.21821"
+        },
+        {
+            "city": "\u041e\u0441\u0442\u0440\u043e\u0432 \u041f\u0430\u0441\u0445\u0438",
+            "region": "",
+            "country": "CL",
+            "latitude": "-27.11124",
+            "longitude": "-109.35053"
+        },
+        {
+            "city": "La Pintana",
+            "region": "12",
+            "country": "CL",
+            "latitude": "-33.58331",
+            "longitude": "-70.63419"
+        },
+        {
+            "city": "Lo Prado",
+            "region": "12",
+            "country": "CL",
+            "latitude": "-33.4443",
+            "longitude": "-70.72552"
+        },
+        {
+            "city": "Villa Presidente Frei, \u00d1u\u00f1oa, Santiago, Chile",
+            "region": "12",
+            "country": "CL",
+            "latitude": "-33.46069",
+            "longitude": "-70.58024"
+        }
+    ]
+}

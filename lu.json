@@ -1,0 +1,580 @@
+{
+    "country": "Luxembourg",
+    "code": "LU",
+    "cities": [
+        {
+            "city": "Wiltz",
+            "region": "01",
+            "country": "LU",
+            "latitude": "49.96889",
+            "longitude": "5.93194"
+        },
+        {
+            "city": "Wasserbillig",
+            "region": "02",
+            "country": "LU",
+            "latitude": "49.71",
+            "longitude": "6.50028"
+        },
+        {
+            "city": "Warken",
+            "region": "01",
+            "country": "LU",
+            "latitude": "49.85444",
+            "longitude": "6.095"
+        },
+        {
+            "city": "Vianden",
+            "region": "01",
+            "country": "LU",
+            "latitude": "49.935",
+            "longitude": "6.20889"
+        },
+        {
+            "city": "Troisvierges",
+            "region": "01",
+            "country": "LU",
+            "latitude": "50.12111",
+            "longitude": "6.00028"
+        },
+        {
+            "city": "T\u00e9tange",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.47583",
+            "longitude": "6.04222"
+        },
+        {
+            "city": "Tandel",
+            "region": "01",
+            "country": "LU",
+            "latitude": "49.8975",
+            "longitude": "6.18333"
+        },
+        {
+            "city": "Strassen",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.62056",
+            "longitude": "6.07333"
+        },
+        {
+            "city": "Steinsel",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.67694",
+            "longitude": "6.12389"
+        },
+        {
+            "city": "Steinfort",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.66139",
+            "longitude": "5.91917"
+        },
+        {
+            "city": "Soleuvre",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.52556",
+            "longitude": "5.94056"
+        },
+        {
+            "city": "Schrassig",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.60583",
+            "longitude": "6.25889"
+        },
+        {
+            "city": "Schouweiler",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.5825",
+            "longitude": "5.95639"
+        },
+        {
+            "city": "Schifflange",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.50639",
+            "longitude": "6.01278"
+        },
+        {
+            "city": "Schieren",
+            "region": "01",
+            "country": "LU",
+            "latitude": "49.83056",
+            "longitude": "6.09861"
+        },
+        {
+            "city": "Sanem",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.54806",
+            "longitude": "5.92889"
+        },
+        {
+            "city": "Sandweiler",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.61333",
+            "longitude": "6.21889"
+        },
+        {
+            "city": "Rollingen",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.74167",
+            "longitude": "6.11444"
+        },
+        {
+            "city": "Rodange",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.54639",
+            "longitude": "5.84083"
+        },
+        {
+            "city": "Remich",
+            "region": "02",
+            "country": "LU",
+            "latitude": "49.545",
+            "longitude": "6.36694"
+        },
+        {
+            "city": "Redange-sur-Attert",
+            "region": "01",
+            "country": "LU",
+            "latitude": "49.76556",
+            "longitude": "5.89083"
+        },
+        {
+            "city": "Pontpierre",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.53639",
+            "longitude": "6.02944"
+        },
+        {
+            "city": "P\u00e9tange",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.55833",
+            "longitude": "5.88056"
+        },
+        {
+            "city": "Olm",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.65722",
+            "longitude": "6.00028"
+        },
+        {
+            "city": "Obercorn",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.51361",
+            "longitude": "5.89611"
+        },
+        {
+            "city": "Niedercorn",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.53611",
+            "longitude": "5.89306"
+        },
+        {
+            "city": "Niederanven",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.6475",
+            "longitude": "6.26"
+        },
+        {
+            "city": "M\u00fcllendorf",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.68028",
+            "longitude": "6.13"
+        },
+        {
+            "city": "Moutfort",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.58528",
+            "longitude": "6.25556"
+        },
+        {
+            "city": "Mondorf-les-Bains",
+            "region": "02",
+            "country": "LU",
+            "latitude": "49.505",
+            "longitude": "6.28111"
+        },
+        {
+            "city": "Mondercange",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.53306",
+            "longitude": "5.98833"
+        },
+        {
+            "city": "Mertzig",
+            "region": "01",
+            "country": "LU",
+            "latitude": "49.83389",
+            "longitude": "6.0075"
+        },
+        {
+            "city": "Mertert",
+            "region": "02",
+            "country": "LU",
+            "latitude": "49.69611",
+            "longitude": "6.48139"
+        },
+        {
+            "city": "Mersch",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.74889",
+            "longitude": "6.10611"
+        },
+        {
+            "city": "Mamer",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.6275",
+            "longitude": "6.02333"
+        },
+        {
+            "city": "Luxembourg",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.61167",
+            "longitude": "6.13"
+        },
+        {
+            "city": "Lintgen",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.71583",
+            "longitude": "6.13361"
+        },
+        {
+            "city": "Leudelange",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.56833",
+            "longitude": "6.06528"
+        },
+        {
+            "city": "Larochette",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.77694",
+            "longitude": "6.22111"
+        },
+        {
+            "city": "Lamadelaine",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.54639",
+            "longitude": "5.85639"
+        },
+        {
+            "city": "Koerich",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.67",
+            "longitude": "5.95"
+        },
+        {
+            "city": "Kehlen",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.66833",
+            "longitude": "6.03583"
+        },
+        {
+            "city": "Kayl",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.48917",
+            "longitude": "6.03972"
+        },
+        {
+            "city": "Junglinster",
+            "region": "02",
+            "country": "LU",
+            "latitude": "49.70722",
+            "longitude": "6.25306"
+        },
+        {
+            "city": "Itzig",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.58417",
+            "longitude": "6.17361"
+        },
+        {
+            "city": "Hobscheid",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.68861",
+            "longitude": "5.91472"
+        },
+        {
+            "city": "Hesperange",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.56806",
+            "longitude": "6.15139"
+        },
+        {
+            "city": "Helmsange",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.65278",
+            "longitude": "6.14139"
+        },
+        {
+            "city": "Heisdorf-sur-Alzette",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.66861",
+            "longitude": "6.14222"
+        },
+        {
+            "city": "Hautcharage",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.5775",
+            "longitude": "5.91083"
+        },
+        {
+            "city": "Grevenmacher",
+            "region": "02",
+            "country": "LU",
+            "latitude": "49.67472",
+            "longitude": "6.44194"
+        },
+        {
+            "city": "Gonderange",
+            "region": "02",
+            "country": "LU",
+            "latitude": "49.68889",
+            "longitude": "6.24833"
+        },
+        {
+            "city": "Frisange",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.515",
+            "longitude": "6.19167"
+        },
+        {
+            "city": "Niederfeulen",
+            "region": "01",
+            "country": "LU",
+            "latitude": "49.85556",
+            "longitude": "6.04722"
+        },
+        {
+            "city": "Fentange",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.56278",
+            "longitude": "6.15389"
+        },
+        {
+            "city": "Ettelbruck",
+            "region": "01",
+            "country": "LU",
+            "latitude": "49.8475",
+            "longitude": "6.10417"
+        },
+        {
+            "city": "Esch-sur-Alzette",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.49583",
+            "longitude": "5.98056"
+        },
+        {
+            "city": "Eischen",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.68556",
+            "longitude": "5.87861"
+        },
+        {
+            "city": "Echternach",
+            "region": "02",
+            "country": "LU",
+            "latitude": "49.80556",
+            "longitude": "6.42222"
+        },
+        {
+            "city": "Dudelange",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.48056",
+            "longitude": "6.0875"
+        },
+        {
+            "city": "Differdange",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.52417",
+            "longitude": "5.89139"
+        },
+        {
+            "city": "Diekirch",
+            "region": "01",
+            "country": "LU",
+            "latitude": "49.86778",
+            "longitude": "6.15583"
+        },
+        {
+            "city": "Dalheim",
+            "region": "02",
+            "country": "LU",
+            "latitude": "49.54083",
+            "longitude": "6.25972"
+        },
+        {
+            "city": "Crauthem",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.53556",
+            "longitude": "6.14694"
+        },
+        {
+            "city": "Contern",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.58194",
+            "longitude": "6.22667"
+        },
+        {
+            "city": "Consdorf",
+            "region": "02",
+            "country": "LU",
+            "latitude": "49.77306",
+            "longitude": "6.33833"
+        },
+        {
+            "city": "Colmar",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.81028",
+            "longitude": "6.09722"
+        },
+        {
+            "city": "Clervaux",
+            "region": "01",
+            "country": "LU",
+            "latitude": "50.05472",
+            "longitude": "6.03139"
+        },
+        {
+            "city": "Clemency",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.59667",
+            "longitude": "5.87583"
+        },
+        {
+            "city": "Capellen",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.645",
+            "longitude": "5.99083"
+        },
+        {
+            "city": "Bridel",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.65833",
+            "longitude": "6.08222"
+        },
+        {
+            "city": "Bissen",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.7875",
+            "longitude": "6.06944"
+        },
+        {
+            "city": "Bettendorf",
+            "region": "01",
+            "country": "LU",
+            "latitude": "49.87667",
+            "longitude": "6.21806"
+        },
+        {
+            "city": "Bettembourg",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.51861",
+            "longitude": "6.10278"
+        },
+        {
+            "city": "Bertrange",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.61111",
+            "longitude": "6.05"
+        },
+        {
+            "city": "Bergem",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.525",
+            "longitude": "6.04222"
+        },
+        {
+            "city": "B\u00e9reldange",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.65694",
+            "longitude": "6.1275"
+        },
+        {
+            "city": "Belvaux",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.51278",
+            "longitude": "5.92944"
+        },
+        {
+            "city": "Beaufort",
+            "region": "02",
+            "country": "LU",
+            "latitude": "49.83583",
+            "longitude": "6.29167"
+        },
+        {
+            "city": "Bascharage",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.5675",
+            "longitude": "5.91028"
+        },
+        {
+            "city": "Aspelt",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.52278",
+            "longitude": "6.22472"
+        },
+        {
+            "city": "Alzingen",
+            "region": "03",
+            "country": "LU",
+            "latitude": "49.565",
+            "longitude": "6.16361"
+        }
+    ]
+}

@@ -1,0 +1,923 @@
+{
+    "country": "Azerbaijan",
+    "code": "AZ",
+    "cities": [
+        {
+            "city": "Prishibinskoye",
+            "region": "15",
+            "country": "AZ",
+            "latitude": "39.11958",
+            "longitude": "48.59361"
+        },
+        {
+            "city": "Zangilan",
+            "region": "69",
+            "country": "AZ",
+            "latitude": "39.08834",
+            "longitude": "46.65119"
+        },
+        {
+            "city": "Yard\u0131ml\u0131",
+            "region": "66",
+            "country": "AZ",
+            "latitude": "38.92056",
+            "longitude": "48.23722"
+        },
+        {
+            "city": "Novyy Karanlug",
+            "region": "65",
+            "country": "AZ",
+            "latitude": "39.79546",
+            "longitude": "47.10989"
+        },
+        {
+            "city": "Xank\u01ddndi",
+            "region": "61",
+            "country": "AZ",
+            "latitude": "39.8177",
+            "longitude": "46.7528"
+        },
+        {
+            "city": "Tel\u2019mankend",
+            "region": "45",
+            "country": "AZ",
+            "latitude": "39.87867",
+            "longitude": "48.39902"
+        },
+        {
+            "city": "Shushi",
+            "region": "56",
+            "country": "AZ",
+            "latitude": "39.75893",
+            "longitude": "46.74919"
+        },
+        {
+            "city": "Salyan",
+            "region": "49",
+            "country": "AZ",
+            "latitude": "39.59362",
+            "longitude": "48.98055"
+        },
+        {
+            "city": "\u015eahbuz",
+            "region": "35",
+            "country": "AZ",
+            "latitude": "39.40722",
+            "longitude": "45.57389"
+        },
+        {
+            "city": "Sedarak",
+            "region": "35",
+            "country": "AZ",
+            "latitude": "39.71144",
+            "longitude": "44.88805"
+        },
+        {
+            "city": "Qubadl\u0131",
+            "region": "43",
+            "country": "AZ",
+            "latitude": "39.34396",
+            "longitude": "46.58196"
+        },
+        {
+            "city": "Qara\u00e7ala",
+            "region": "49",
+            "country": "AZ",
+            "latitude": "39.81318",
+            "longitude": "48.9523"
+        },
+        {
+            "city": "Orconikidze",
+            "region": "12",
+            "country": "AZ",
+            "latitude": "39.63222",
+            "longitude": "47.69076"
+        },
+        {
+            "city": "Ordubad",
+            "region": "35",
+            "country": "AZ",
+            "latitude": "38.90595",
+            "longitude": "46.02341"
+        },
+        {
+            "city": "Neft\u00e7ala",
+            "region": "36",
+            "country": "AZ",
+            "latitude": "39.37417",
+            "longitude": "49.24722"
+        },
+        {
+            "city": "Nakhchivan",
+            "region": "35",
+            "country": "AZ",
+            "latitude": "39.20889",
+            "longitude": "45.41222"
+        },
+        {
+            "city": "Mincivan",
+            "region": "69",
+            "country": "AZ",
+            "latitude": "39.02935",
+            "longitude": "46.71847"
+        },
+        {
+            "city": "Masally",
+            "region": "32",
+            "country": "AZ",
+            "latitude": "39.03532",
+            "longitude": "48.6654"
+        },
+        {
+            "city": "Lerik",
+            "region": "31",
+            "country": "AZ",
+            "latitude": "38.77263",
+            "longitude": "48.41279"
+        },
+        {
+            "city": "L\u01ddnk\u01ddran",
+            "region": "30",
+            "country": "AZ",
+            "latitude": "38.72262",
+            "longitude": "48.81466"
+        },
+        {
+            "city": "La\u00e7\u0131n",
+            "region": "28",
+            "country": "AZ",
+            "latitude": "39.59881",
+            "longitude": "46.55045"
+        },
+        {
+            "city": "Q\u0131rm\u0131z\u0131 Bazar",
+            "region": "65",
+            "country": "AZ",
+            "latitude": "39.67833",
+            "longitude": "46.94884"
+        },
+        {
+            "city": "Kijoba",
+            "region": "08",
+            "country": "AZ",
+            "latitude": "38.53278",
+            "longitude": "48.81667"
+        },
+        {
+            "city": "Xocal\u0131",
+            "region": "64",
+            "country": "AZ",
+            "latitude": "39.91297",
+            "longitude": "46.79028"
+        },
+        {
+            "city": "X\u0131ll\u0131",
+            "region": "36",
+            "country": "AZ",
+            "latitude": "39.43012",
+            "longitude": "49.10166"
+        },
+        {
+            "city": "Imishli",
+            "region": "24",
+            "country": "AZ",
+            "latitude": "39.87095",
+            "longitude": "48.05995"
+        },
+        {
+            "city": "Horadiz",
+            "region": "18",
+            "country": "AZ",
+            "latitude": "39.44877",
+            "longitude": "47.33531"
+        },
+        {
+            "city": "Haftoni",
+            "region": "29",
+            "country": "AZ",
+            "latitude": "38.76325",
+            "longitude": "48.76223"
+        },
+        {
+            "city": "Hadrut",
+            "region": "65",
+            "country": "AZ",
+            "latitude": "39.52002",
+            "longitude": "47.0318"
+        },
+        {
+            "city": "Jebrail",
+            "region": "14",
+            "country": "AZ",
+            "latitude": "39.39917",
+            "longitude": "47.02834"
+        },
+        {
+            "city": "Julfa",
+            "region": "35",
+            "country": "AZ",
+            "latitude": "38.9558",
+            "longitude": "45.6308"
+        },
+        {
+            "city": "Dzhalilabad",
+            "region": "15",
+            "country": "AZ",
+            "latitude": "39.20963",
+            "longitude": "48.49186"
+        },
+        {
+            "city": "Boradigah",
+            "region": "32",
+            "country": "AZ",
+            "latitude": "38.93389",
+            "longitude": "48.70375"
+        },
+        {
+            "city": "Pushkino",
+            "region": "13",
+            "country": "AZ",
+            "latitude": "39.45833",
+            "longitude": "48.545"
+        },
+        {
+            "city": "Severo-Vostotchnyi Bank",
+            "region": "36",
+            "country": "AZ",
+            "latitude": "39.41117",
+            "longitude": "49.24792"
+        },
+        {
+            "city": "Astara",
+            "region": "08",
+            "country": "AZ",
+            "latitude": "38.45598",
+            "longitude": "48.87498"
+        },
+        {
+            "city": "Askyaran",
+            "region": "64",
+            "country": "AZ",
+            "latitude": "39.93667",
+            "longitude": "46.83278"
+        },
+        {
+            "city": "Zubovka",
+            "region": "07",
+            "country": "AZ",
+            "latitude": "39.93788",
+            "longitude": "48.92855"
+        },
+        {
+            "city": "A\u011fdam",
+            "region": "03",
+            "country": "AZ",
+            "latitude": "39.99096",
+            "longitude": "46.92736"
+        },
+        {
+            "city": "Sovetabad",
+            "region": "36",
+            "country": "AZ",
+            "latitude": "39.33667",
+            "longitude": "49.21414"
+        },
+        {
+            "city": "Zyrya",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.3661",
+            "longitude": "50.2917"
+        },
+        {
+            "city": "Zardob",
+            "region": "71",
+            "country": "AZ",
+            "latitude": "40.21833",
+            "longitude": "47.70833"
+        },
+        {
+            "city": "Zaqatala",
+            "region": "70",
+            "country": "AZ",
+            "latitude": "41.63361",
+            "longitude": "46.64333"
+        },
+        {
+            "city": "Zabrat",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.4761",
+            "longitude": "49.94158"
+        },
+        {
+            "city": "Yevlakh",
+            "region": "68",
+            "country": "AZ",
+            "latitude": "40.61832",
+            "longitude": "47.15014"
+        },
+        {
+            "city": "Xudat",
+            "region": "60",
+            "country": "AZ",
+            "latitude": "41.63096",
+            "longitude": "48.681"
+        },
+        {
+            "city": "Xanlar",
+            "region": "62",
+            "country": "AZ",
+            "latitude": "40.58694",
+            "longitude": "46.31583"
+        },
+        {
+            "city": "Xa\u00e7maz",
+            "region": "60",
+            "country": "AZ",
+            "latitude": "41.46349",
+            "longitude": "48.80605"
+        },
+        {
+            "city": "Verkhniy Dashkesan",
+            "region": "16",
+            "country": "AZ",
+            "latitude": "40.49228",
+            "longitude": "46.07137"
+        },
+        {
+            "city": "Ujar",
+            "region": "59",
+            "country": "AZ",
+            "latitude": "40.51902",
+            "longitude": "47.65423"
+        },
+        {
+            "city": "T\u00fcrkan",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.36389",
+            "longitude": "50.215"
+        },
+        {
+            "city": "Tovuz",
+            "region": "58",
+            "country": "AZ",
+            "latitude": "40.99222",
+            "longitude": "45.62889"
+        },
+        {
+            "city": "Terter",
+            "region": "57",
+            "country": "AZ",
+            "latitude": "40.345",
+            "longitude": "46.92889"
+        },
+        {
+            "city": "Sumqay\u0131t",
+            "region": "54",
+            "country": "AZ",
+            "latitude": "40.58972",
+            "longitude": "49.66861"
+        },
+        {
+            "city": "\u015euraabad",
+            "region": "63",
+            "country": "AZ",
+            "latitude": "40.81924",
+            "longitude": "49.46874"
+        },
+        {
+            "city": "Qara\u00e7uxur",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.39667",
+            "longitude": "49.97361"
+        },
+        {
+            "city": "Saray",
+            "region": "01",
+            "country": "AZ",
+            "latitude": "40.53222",
+            "longitude": "49.71639"
+        },
+        {
+            "city": "Samur",
+            "region": "44",
+            "country": "AZ",
+            "latitude": "41.63254",
+            "longitude": "48.43025"
+        },
+        {
+            "city": "Shamkhor",
+            "region": "51",
+            "country": "AZ",
+            "latitude": "40.82972",
+            "longitude": "46.01889"
+        },
+        {
+            "city": "Shamakhi",
+            "region": "50",
+            "country": "AZ",
+            "latitude": "40.63141",
+            "longitude": "48.64137"
+        },
+        {
+            "city": "Sheki",
+            "region": "48",
+            "country": "AZ",
+            "latitude": "41.19194",
+            "longitude": "47.17056"
+        },
+        {
+            "city": "Sabun\u00e7u",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.4425",
+            "longitude": "49.94806"
+        },
+        {
+            "city": "Sabirabad",
+            "region": "46",
+            "country": "AZ",
+            "latitude": "40.00946",
+            "longitude": "48.47515"
+        },
+        {
+            "city": "Qusar",
+            "region": "44",
+            "country": "AZ",
+            "latitude": "41.42728",
+            "longitude": "48.42893"
+        },
+        {
+            "city": "Quba",
+            "region": "42",
+            "country": "AZ",
+            "latitude": "41.36259",
+            "longitude": "48.51519"
+        },
+        {
+            "city": "Qobustan",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.08238",
+            "longitude": "49.41205"
+        },
+        {
+            "city": "Aja Kabul",
+            "region": "23",
+            "country": "AZ",
+            "latitude": "40.04084",
+            "longitude": "48.94451"
+        },
+        {
+            "city": "Qazax",
+            "region": "40",
+            "country": "AZ",
+            "latitude": "41.09333",
+            "longitude": "45.36611"
+        },
+        {
+            "city": "Qax",
+            "region": "39",
+            "country": "AZ",
+            "latitude": "41.4225",
+            "longitude": "46.92417"
+        },
+        {
+            "city": "Qutqashen",
+            "region": "38",
+            "country": "AZ",
+            "latitude": "40.98139",
+            "longitude": "47.84583"
+        },
+        {
+            "city": "Puta",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.29667",
+            "longitude": "49.66028"
+        },
+        {
+            "city": "O\u011fuz",
+            "region": "37",
+            "country": "AZ",
+            "latitude": "41.07083",
+            "longitude": "47.45833"
+        },
+        {
+            "city": "Hac\u0131 Zeynalabdin",
+            "region": "54",
+            "country": "AZ",
+            "latitude": "40.62333",
+            "longitude": "49.55861"
+        },
+        {
+            "city": "Nardaran",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.55611",
+            "longitude": "50.00556"
+        },
+        {
+            "city": "Naftalan",
+            "region": "34",
+            "country": "AZ",
+            "latitude": "40.50667",
+            "longitude": "46.825"
+        },
+        {
+            "city": "Mingelchaur",
+            "region": "33",
+            "country": "AZ",
+            "latitude": "40.76395",
+            "longitude": "47.05953"
+        },
+        {
+            "city": "Ma\u015fta\u011fa",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.53278",
+            "longitude": "50.00389"
+        },
+        {
+            "city": "Mardakyany",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.49222",
+            "longitude": "50.13889"
+        },
+        {
+            "city": "Marazy",
+            "region": "41",
+            "country": "AZ",
+            "latitude": "40.53371",
+            "longitude": "48.92726"
+        },
+        {
+            "city": "L\u00f6kbatan",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.32372",
+            "longitude": "49.72804"
+        },
+        {
+            "city": "Q\u0131z\u0131lhac\u0131l\u0131",
+            "region": "21",
+            "country": "AZ",
+            "latitude": "40.57456",
+            "longitude": "46.84098"
+        },
+        {
+            "city": "Qobu",
+            "region": "01",
+            "country": "AZ",
+            "latitude": "40.40472",
+            "longitude": "49.71306"
+        },
+        {
+            "city": "Kilyazi",
+            "region": "63",
+            "country": "AZ",
+            "latitude": "40.87098",
+            "longitude": "49.34233"
+        },
+        {
+            "city": "Khyzy",
+            "region": "63",
+            "country": "AZ",
+            "latitude": "40.90576",
+            "longitude": "49.08127"
+        },
+        {
+            "city": "Khodzhi-Gasan",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.41348",
+            "longitude": "49.77209"
+        },
+        {
+            "city": "Korg\u00f6z",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.30306",
+            "longitude": "49.62"
+        },
+        {
+            "city": "Qarayeri",
+            "region": "52",
+            "country": "AZ",
+            "latitude": "40.78862",
+            "longitude": "46.30659"
+        },
+        {
+            "city": "Vur\u011fun",
+            "region": "05",
+            "country": "AZ",
+            "latitude": "41.09423",
+            "longitude": "45.47162"
+        },
+        {
+            "city": "Kerbakhiar",
+            "region": "26",
+            "country": "AZ",
+            "latitude": "40.10667",
+            "longitude": "46.03833"
+        },
+        {
+            "city": "Qala",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.44182",
+            "longitude": "50.16812"
+        },
+        {
+            "city": "\u0130smay\u0131ll\u0131",
+            "region": "25",
+            "country": "AZ",
+            "latitude": "40.77897",
+            "longitude": "48.16375"
+        },
+        {
+            "city": "Gyuzdek",
+            "region": "01",
+            "country": "AZ",
+            "latitude": "40.37444",
+            "longitude": "49.68194"
+        },
+        {
+            "city": "Geoktschai",
+            "region": "22",
+            "country": "AZ",
+            "latitude": "40.65306",
+            "longitude": "47.74056"
+        },
+        {
+            "city": "H\u00f6vsan",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.37444",
+            "longitude": "50.08528"
+        },
+        {
+            "city": "Goranboy",
+            "region": "21",
+            "country": "AZ",
+            "latitude": "40.61028",
+            "longitude": "46.78972"
+        },
+        {
+            "city": "Ganja",
+            "region": "20",
+            "country": "AZ",
+            "latitude": "40.68278",
+            "longitude": "46.36056"
+        },
+        {
+            "city": "Kyadabek",
+            "region": "19",
+            "country": "AZ",
+            "latitude": "40.56556",
+            "longitude": "45.81611"
+        },
+        {
+            "city": "Corat",
+            "region": "54",
+            "country": "AZ",
+            "latitude": "40.5725",
+            "longitude": "49.70639"
+        },
+        {
+            "city": "Ceyranbatan",
+            "region": "01",
+            "country": "AZ",
+            "latitude": "40.54083",
+            "longitude": "49.65972"
+        },
+        {
+            "city": "Dzagam",
+            "region": "51",
+            "country": "AZ",
+            "latitude": "40.9033",
+            "longitude": "45.88564"
+        },
+        {
+            "city": "Digah",
+            "region": "01",
+            "country": "AZ",
+            "latitude": "40.49257",
+            "longitude": "49.87478"
+        },
+        {
+            "city": "Yukhary-Dashkesan",
+            "region": "16",
+            "country": "AZ",
+            "latitude": "40.49472",
+            "longitude": "46.07722"
+        },
+        {
+            "city": "Dolyar",
+            "region": "51",
+            "country": "AZ",
+            "latitude": "40.86278",
+            "longitude": "46.03493"
+        },
+        {
+            "city": "\u00c7inarl\u0131",
+            "region": "39",
+            "country": "AZ",
+            "latitude": "41.4723",
+            "longitude": "46.9156"
+        },
+        {
+            "city": "Buzovna",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.51789",
+            "longitude": "50.1139"
+        },
+        {
+            "city": "Binagadi",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.46602",
+            "longitude": "49.82783"
+        },
+        {
+            "city": "Biny Selo",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.45193",
+            "longitude": "50.08564"
+        },
+        {
+            "city": "Bilajer",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.56806",
+            "longitude": "50.03778"
+        },
+        {
+            "city": "Basqal",
+            "region": "25",
+            "country": "AZ",
+            "latitude": "40.7552",
+            "longitude": "48.39104"
+        },
+        {
+            "city": "Ba\u015f G\u00f6yn\u00fck",
+            "region": "47",
+            "country": "AZ",
+            "latitude": "41.32278",
+            "longitude": "47.11333"
+        },
+        {
+            "city": "Barda",
+            "region": "11",
+            "country": "AZ",
+            "latitude": "40.37444",
+            "longitude": "47.12667"
+        },
+        {
+            "city": "Belokany",
+            "region": "10",
+            "country": "AZ",
+            "latitude": "41.72583",
+            "longitude": "46.40833"
+        },
+        {
+            "city": "Balakhani",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.46344",
+            "longitude": "49.91893"
+        },
+        {
+            "city": "Bilajari",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.4444",
+            "longitude": "49.80566"
+        },
+        {
+            "city": "Baku",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.37767",
+            "longitude": "49.89201"
+        },
+        {
+            "city": "Artyom",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.47226",
+            "longitude": "50.33304"
+        },
+        {
+            "city": "Amirdzhan",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.42639",
+            "longitude": "49.98361"
+        },
+        {
+            "city": "Alt\u0131a\u011fac",
+            "region": "63",
+            "country": "AZ",
+            "latitude": "40.85927",
+            "longitude": "48.93477"
+        },
+        {
+            "city": "\u018fliabad",
+            "region": "70",
+            "country": "AZ",
+            "latitude": "41.48224",
+            "longitude": "46.63528"
+        },
+        {
+            "city": "Aghsu",
+            "region": "06",
+            "country": "AZ",
+            "latitude": "40.57028",
+            "longitude": "48.40087"
+        },
+        {
+            "city": "Aghstafa",
+            "region": "05",
+            "country": "AZ",
+            "latitude": "41.11889",
+            "longitude": "45.45389"
+        },
+        {
+            "city": "A\u011fda\u015f",
+            "region": "04",
+            "country": "AZ",
+            "latitude": "40.65",
+            "longitude": "47.47611"
+        },
+        {
+            "city": "Martakert",
+            "region": "57",
+            "country": "AZ",
+            "latitude": "40.2104",
+            "longitude": "46.82097"
+        },
+        {
+            "city": "A\u011fdam",
+            "region": "03",
+            "country": "AZ",
+            "latitude": "40.90528",
+            "longitude": "45.55639"
+        },
+        {
+            "city": "Agdzhabedy",
+            "region": "02",
+            "country": "AZ",
+            "latitude": "40.05278",
+            "longitude": "47.46139"
+        },
+        {
+            "city": "Mughan",
+            "region": "23",
+            "country": "AZ",
+            "latitude": "40.09902",
+            "longitude": "48.81886"
+        },
+        {
+            "city": "Qabaq\u00e7\u00f6l",
+            "region": "10",
+            "country": "AZ",
+            "latitude": "41.72",
+            "longitude": "46.26472"
+        },
+        {
+            "city": "Bak\u0131xanov",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.42167",
+            "longitude": "49.96444"
+        },
+        {
+            "city": "Aran",
+            "region": "67",
+            "country": "AZ",
+            "latitude": "40.62528",
+            "longitude": "46.97556"
+        },
+        {
+            "city": "Ramana",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.44222",
+            "longitude": "49.98056"
+        },
+        {
+            "city": "Badamdar",
+            "region": "09",
+            "country": "AZ",
+            "latitude": "40.33944",
+            "longitude": "49.80389"
+        }
+    ]
+}

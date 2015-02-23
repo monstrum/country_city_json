@@ -1,0 +1,902 @@
+{
+    "country": "Cuba",
+    "code": "CU",
+    "cities": [
+        {
+            "city": "Zaza del Medio",
+            "region": "14",
+            "country": "CU",
+            "latitude": "21.99611",
+            "longitude": "-79.36694"
+        },
+        {
+            "city": "Yara",
+            "region": "09",
+            "country": "CU",
+            "latitude": "20.27528",
+            "longitude": "-76.95333"
+        },
+        {
+            "city": "Yaguajay",
+            "region": "14",
+            "country": "CU",
+            "latitude": "22.32722",
+            "longitude": "-79.23778"
+        },
+        {
+            "city": "Vi\u00f1ales",
+            "region": "01",
+            "country": "CU",
+            "latitude": "22.61639",
+            "longitude": "-83.70778"
+        },
+        {
+            "city": "Vertientes",
+            "region": "05",
+            "country": "CU",
+            "latitude": "21.25944",
+            "longitude": "-78.14639"
+        },
+        {
+            "city": "Venezuela",
+            "region": "07",
+            "country": "CU",
+            "latitude": "21.73528",
+            "longitude": "-78.79639"
+        },
+        {
+            "city": "Varadero",
+            "region": "03",
+            "country": "CU",
+            "latitude": "23.15361",
+            "longitude": "-81.25139"
+        },
+        {
+            "city": "Uni\u00f3n de Reyes",
+            "region": "03",
+            "country": "CU",
+            "latitude": "22.79528",
+            "longitude": "-81.5375"
+        },
+        {
+            "city": "Trinidad",
+            "region": "14",
+            "country": "CU",
+            "latitude": "21.80194",
+            "longitude": "-79.98417"
+        },
+        {
+            "city": "Sibanic\u00fa",
+            "region": "05",
+            "country": "CU",
+            "latitude": "21.235",
+            "longitude": "-77.52639"
+        },
+        {
+            "city": "Santo Domingo",
+            "region": "16",
+            "country": "CU",
+            "latitude": "22.58667",
+            "longitude": "-80.24361"
+        },
+        {
+            "city": "Santiago de las Vegas",
+            "region": "02",
+            "country": "CU",
+            "latitude": "22.97",
+            "longitude": "-82.38694"
+        },
+        {
+            "city": "Santiago de Cuba",
+            "region": "15",
+            "country": "CU",
+            "latitude": "20.02472",
+            "longitude": "-75.82194"
+        },
+        {
+            "city": "Santa Cruz del Sur",
+            "region": "05",
+            "country": "CU",
+            "latitude": "20.71472",
+            "longitude": "-77.99556"
+        },
+        {
+            "city": "Santa Cruz del Norte",
+            "region": "MA",
+            "country": "CU",
+            "latitude": "23.15389",
+            "longitude": "-81.92361"
+        },
+        {
+            "city": "Santa Clara",
+            "region": "16",
+            "country": "CU",
+            "latitude": "22.4",
+            "longitude": "-79.96667"
+        },
+        {
+            "city": "San Nicol\u00e1s",
+            "region": "MA",
+            "country": "CU",
+            "latitude": "22.78444",
+            "longitude": "-81.91333"
+        },
+        {
+            "city": "San Luis",
+            "region": "01",
+            "country": "CU",
+            "latitude": "22.27861",
+            "longitude": "-83.76111"
+        },
+        {
+            "city": "San Luis",
+            "region": "15",
+            "country": "CU",
+            "latitude": "20.1875",
+            "longitude": "-75.85083"
+        },
+        {
+            "city": "San Jos\u00e9 de las Lajas",
+            "region": "MA",
+            "country": "CU",
+            "latitude": "22.96139",
+            "longitude": "-82.15111"
+        },
+        {
+            "city": "San Diego de los Ba\u00f1os",
+            "region": "01",
+            "country": "CU",
+            "latitude": "22.64667",
+            "longitude": "-83.36972"
+        },
+        {
+            "city": "Sancti Sp\u00edritus",
+            "region": "14",
+            "country": "CU",
+            "latitude": "21.92972",
+            "longitude": "-79.4425"
+        },
+        {
+            "city": "San Crist\u00f3bal",
+            "region": "01",
+            "country": "CU",
+            "latitude": "22.71417",
+            "longitude": "-83.04806"
+        },
+        {
+            "city": "San Antonio de los Ba\u00f1os",
+            "region": "MA",
+            "country": "CU",
+            "latitude": "22.89111",
+            "longitude": "-82.49917"
+        },
+        {
+            "city": "Sagua la Grande",
+            "region": "16",
+            "country": "CU",
+            "latitude": "22.80667",
+            "longitude": "-80.07556"
+        },
+        {
+            "city": "Sagua de T\u00e1namo",
+            "region": "12",
+            "country": "CU",
+            "latitude": "20.58194",
+            "longitude": "-75.24139"
+        },
+        {
+            "city": "Rodas",
+            "region": "08",
+            "country": "CU",
+            "latitude": "22.34083",
+            "longitude": "-80.55722"
+        },
+        {
+            "city": "R\u00edo Guayabal de Yateras",
+            "region": "10",
+            "country": "CU",
+            "latitude": "20.36667",
+            "longitude": "-75.01667"
+        },
+        {
+            "city": "R\u00edo Cauto",
+            "region": "09",
+            "country": "CU",
+            "latitude": "20.56028",
+            "longitude": "-76.91611"
+        },
+        {
+            "city": "Remedios",
+            "region": "16",
+            "country": "CU",
+            "latitude": "22.49472",
+            "longitude": "-79.54583"
+        },
+        {
+            "city": "Ranchuelo",
+            "region": "16",
+            "country": "CU",
+            "latitude": "22.37722",
+            "longitude": "-80.14889"
+        },
+        {
+            "city": "Rancho Veloz",
+            "region": "16",
+            "country": "CU",
+            "latitude": "22.88056",
+            "longitude": "-80.39167"
+        },
+        {
+            "city": "Quivic\u00e1n",
+            "region": "MA",
+            "country": "CU",
+            "latitude": "22.82306",
+            "longitude": "-82.355"
+        },
+        {
+            "city": "Quemado de G\u00fcines",
+            "region": "16",
+            "country": "CU",
+            "latitude": "22.78528",
+            "longitude": "-80.25361"
+        },
+        {
+            "city": "Puerto Padre",
+            "region": "13",
+            "country": "CU",
+            "latitude": "21.195",
+            "longitude": "-76.60278"
+        },
+        {
+            "city": "Primero de Enero",
+            "region": "07",
+            "country": "CU",
+            "latitude": "21.94694",
+            "longitude": "-78.42833"
+        },
+        {
+            "city": "Placetas",
+            "region": "16",
+            "country": "CU",
+            "latitude": "22.31194",
+            "longitude": "-79.65333"
+        },
+        {
+            "city": "Pinar del R\u00edo",
+            "region": "01",
+            "country": "CU",
+            "latitude": "22.4175",
+            "longitude": "-83.69806"
+        },
+        {
+            "city": "Perico",
+            "region": "03",
+            "country": "CU",
+            "latitude": "22.76917",
+            "longitude": "-81.01889"
+        },
+        {
+            "city": "Pedro Betancourt",
+            "region": "03",
+            "country": "CU",
+            "latitude": "22.72722",
+            "longitude": "-81.29"
+        },
+        {
+            "city": "Palmira",
+            "region": "08",
+            "country": "CU",
+            "latitude": "22.24167",
+            "longitude": "-80.39028"
+        },
+        {
+            "city": "Palma Soriano",
+            "region": "15",
+            "country": "CU",
+            "latitude": "20.21722",
+            "longitude": "-75.99889"
+        },
+        {
+            "city": "Nuevitas",
+            "region": "05",
+            "country": "CU",
+            "latitude": "21.54528",
+            "longitude": "-77.26444"
+        },
+        {
+            "city": "Nueva Gerona",
+            "region": "04",
+            "country": "CU",
+            "latitude": "21.88333",
+            "longitude": "-82.8"
+        },
+        {
+            "city": "Niquero",
+            "region": "09",
+            "country": "CU",
+            "latitude": "20.04306",
+            "longitude": "-77.58278"
+        },
+        {
+            "city": "Mor\u00f3n",
+            "region": "07",
+            "country": "CU",
+            "latitude": "22.10944",
+            "longitude": "-78.6275"
+        },
+        {
+            "city": "Moa",
+            "region": "12",
+            "country": "CU",
+            "latitude": "20.65694",
+            "longitude": "-74.94028"
+        },
+        {
+            "city": "Minas",
+            "region": "05",
+            "country": "CU",
+            "latitude": "21.48333",
+            "longitude": "-77.61667"
+        },
+        {
+            "city": "Melena del Sur",
+            "region": "11",
+            "country": "CU",
+            "latitude": "22.78813",
+            "longitude": "-82.15138"
+        },
+        {
+            "city": "Media Luna",
+            "region": "09",
+            "country": "CU",
+            "latitude": "20.14194",
+            "longitude": "-77.435"
+        },
+        {
+            "city": "Matanzas",
+            "region": "03",
+            "country": "CU",
+            "latitude": "23.04111",
+            "longitude": "-81.5775"
+        },
+        {
+            "city": "Mart\u00ed",
+            "region": "03",
+            "country": "CU",
+            "latitude": "22.9475",
+            "longitude": "-80.92028"
+        },
+        {
+            "city": "Mariel",
+            "region": "MA",
+            "country": "CU",
+            "latitude": "22.9875",
+            "longitude": "-82.75361"
+        },
+        {
+            "city": "Manzanillo",
+            "region": "09",
+            "country": "CU",
+            "latitude": "20.34333",
+            "longitude": "-77.11667"
+        },
+        {
+            "city": "Mantua",
+            "region": "01",
+            "country": "CU",
+            "latitude": "22.28889",
+            "longitude": "-84.28444"
+        },
+        {
+            "city": "Manicaragua",
+            "region": "16",
+            "country": "CU",
+            "latitude": "22.14944",
+            "longitude": "-79.97361"
+        },
+        {
+            "city": "Manguito",
+            "region": "03",
+            "country": "CU",
+            "latitude": "22.58806",
+            "longitude": "-80.91444"
+        },
+        {
+            "city": "Manat\u00ed",
+            "region": "13",
+            "country": "CU",
+            "latitude": "21.3125",
+            "longitude": "-76.93778"
+        },
+        {
+            "city": "Madruga",
+            "region": "MA",
+            "country": "CU",
+            "latitude": "22.91139",
+            "longitude": "-81.85611"
+        },
+        {
+            "city": "Los Palacios",
+            "region": "01",
+            "country": "CU",
+            "latitude": "22.58722",
+            "longitude": "-83.24861"
+        },
+        {
+            "city": "Los Arabos",
+            "region": "03",
+            "country": "CU",
+            "latitude": "22.72806",
+            "longitude": "-80.72139"
+        },
+        {
+            "city": "Las Tunas",
+            "region": "13",
+            "country": "CU",
+            "latitude": "20.96167",
+            "longitude": "-76.95111"
+        },
+        {
+            "city": "La Salud",
+            "region": "MA",
+            "country": "CU",
+            "latitude": "22.87139",
+            "longitude": "-82.42389"
+        },
+        {
+            "city": "Havana",
+            "region": "02",
+            "country": "CU",
+            "latitude": "23.13302",
+            "longitude": "-82.38304"
+        },
+        {
+            "city": "Jovellanos",
+            "region": "03",
+            "country": "CU",
+            "latitude": "22.80444",
+            "longitude": "-81.19444"
+        },
+        {
+            "city": "Jobabo",
+            "region": "12",
+            "country": "CU",
+            "latitude": "20.96917",
+            "longitude": "-76.29944"
+        },
+        {
+            "city": "Jiguan\u00ed",
+            "region": "09",
+            "country": "CU",
+            "latitude": "20.36667",
+            "longitude": "-76.42722"
+        },
+        {
+            "city": "Jatibonico",
+            "region": "14",
+            "country": "CU",
+            "latitude": "21.94194",
+            "longitude": "-79.17"
+        },
+        {
+            "city": "Jaruco",
+            "region": "MA",
+            "country": "CU",
+            "latitude": "23.04306",
+            "longitude": "-82.01083"
+        },
+        {
+            "city": "Jamaica",
+            "region": "MA",
+            "country": "CU",
+            "latitude": "22.97917",
+            "longitude": "-82.17028"
+        },
+        {
+            "city": "Jag\u00fcey Grande",
+            "region": "03",
+            "country": "CU",
+            "latitude": "22.52694",
+            "longitude": "-81.12861"
+        },
+        {
+            "city": "Holgu\u00edn",
+            "region": "12",
+            "country": "CU",
+            "latitude": "20.88722",
+            "longitude": "-76.26306"
+        },
+        {
+            "city": "Guisa",
+            "region": "09",
+            "country": "CU",
+            "latitude": "20.255",
+            "longitude": "-76.53861"
+        },
+        {
+            "city": "G\u00fcira de Melena",
+            "region": "MA",
+            "country": "CU",
+            "latitude": "22.79056",
+            "longitude": "-82.50528"
+        },
+        {
+            "city": "G\u00fcines",
+            "region": "11",
+            "country": "CU",
+            "latitude": "22.83611",
+            "longitude": "-82.02806"
+        },
+        {
+            "city": "Guara",
+            "region": "11",
+            "country": "CU",
+            "latitude": "22.81",
+            "longitude": "-82.20306"
+        },
+        {
+            "city": "Guant\u00e1namo",
+            "region": "10",
+            "country": "CU",
+            "latitude": "20.14444",
+            "longitude": "-75.20917"
+        },
+        {
+            "city": "Guane",
+            "region": "01",
+            "country": "CU",
+            "latitude": "22.2025",
+            "longitude": "-84.0875"
+        },
+        {
+            "city": "Guanajay",
+            "region": "MA",
+            "country": "CU",
+            "latitude": "22.92639",
+            "longitude": "-82.6875"
+        },
+        {
+            "city": "Gu\u00e1imaro",
+            "region": "05",
+            "country": "CU",
+            "latitude": "21.05",
+            "longitude": "-77.35"
+        },
+        {
+            "city": "Ma\u00f1alich",
+            "region": "11",
+            "country": "CU",
+            "latitude": "22.81112",
+            "longitude": "-82.14748"
+        },
+        {
+            "city": "Gibara",
+            "region": "12",
+            "country": "CU",
+            "latitude": "21.10972",
+            "longitude": "-76.13167"
+        },
+        {
+            "city": "Fomento",
+            "region": "14",
+            "country": "CU",
+            "latitude": "22.10389",
+            "longitude": "-79.72167"
+        },
+        {
+            "city": "Florida",
+            "region": "05",
+            "country": "CU",
+            "latitude": "21.52472",
+            "longitude": "-78.22583"
+        },
+        {
+            "city": "Esperanza",
+            "region": "16",
+            "country": "CU",
+            "latitude": "22.45",
+            "longitude": "-80.1"
+        },
+        {
+            "city": "Esmeralda",
+            "region": "05",
+            "country": "CU",
+            "latitude": "21.8525",
+            "longitude": "-78.11694"
+        },
+        {
+            "city": "Encrucijada",
+            "region": "16",
+            "country": "CU",
+            "latitude": "22.61694",
+            "longitude": "-79.87111"
+        },
+        {
+            "city": "El Cobre",
+            "region": "15",
+            "country": "CU",
+            "latitude": "20.04889",
+            "longitude": "-75.94694"
+        },
+        {
+            "city": "El Caney",
+            "region": "05",
+            "country": "CU",
+            "latitude": "21.3",
+            "longitude": "-78.48333"
+        },
+        {
+            "city": "Cumanayagua",
+            "region": "08",
+            "country": "CU",
+            "latitude": "22.14944",
+            "longitude": "-80.20222"
+        },
+        {
+            "city": "Cueto",
+            "region": "12",
+            "country": "CU",
+            "latitude": "20.64389",
+            "longitude": "-75.93556"
+        },
+        {
+            "city": "Cruces",
+            "region": "08",
+            "country": "CU",
+            "latitude": "22.34111",
+            "longitude": "-80.26667"
+        },
+        {
+            "city": "Corralillo",
+            "region": "16",
+            "country": "CU",
+            "latitude": "22.98194",
+            "longitude": "-80.58556"
+        },
+        {
+            "city": "Contramaestre",
+            "region": "15",
+            "country": "CU",
+            "latitude": "20.29778",
+            "longitude": "-76.24139"
+        },
+        {
+            "city": "Consolaci\u00f3n del Sur",
+            "region": "01",
+            "country": "CU",
+            "latitude": "22.50472",
+            "longitude": "-83.51361"
+        },
+        {
+            "city": "Condado",
+            "region": "14",
+            "country": "CU",
+            "latitude": "21.87667",
+            "longitude": "-79.84028"
+        },
+        {
+            "city": "Col\u00f3n",
+            "region": "03",
+            "country": "CU",
+            "latitude": "22.71917",
+            "longitude": "-80.90583"
+        },
+        {
+            "city": "Colombia",
+            "region": "13",
+            "country": "CU",
+            "latitude": "20.98806",
+            "longitude": "-77.42972"
+        },
+        {
+            "city": "Cifuentes",
+            "region": "16",
+            "country": "CU",
+            "latitude": "22.645",
+            "longitude": "-80.04611"
+        },
+        {
+            "city": "Cienfuegos",
+            "region": "08",
+            "country": "CU",
+            "latitude": "22.14611",
+            "longitude": "-80.43556"
+        },
+        {
+            "city": "Ciego de \u00c1vila",
+            "region": "07",
+            "country": "CU",
+            "latitude": "21.84",
+            "longitude": "-78.76194"
+        },
+        {
+            "city": "Chambas",
+            "region": "07",
+            "country": "CU",
+            "latitude": "22.19278",
+            "longitude": "-78.91361"
+        },
+        {
+            "city": "C\u00e1rdenas",
+            "region": "03",
+            "country": "CU",
+            "latitude": "23.0375",
+            "longitude": "-81.20472"
+        },
+        {
+            "city": "Candelaria",
+            "region": "01",
+            "country": "CU",
+            "latitude": "22.74056",
+            "longitude": "-82.96111"
+        },
+        {
+            "city": "Campechuela",
+            "region": "09",
+            "country": "CU",
+            "latitude": "20.23417",
+            "longitude": "-77.27889"
+        },
+        {
+            "city": "Camajuan\u00ed",
+            "region": "16",
+            "country": "CU",
+            "latitude": "22.48333",
+            "longitude": "-79.75"
+        },
+        {
+            "city": "Camag\u00fcey",
+            "region": "05",
+            "country": "CU",
+            "latitude": "21.38083",
+            "longitude": "-77.91694"
+        },
+        {
+            "city": "Calimete",
+            "region": "03",
+            "country": "CU",
+            "latitude": "22.53333",
+            "longitude": "-80.90611"
+        },
+        {
+            "city": "Calabazar de Sagua",
+            "region": "16",
+            "country": "CU",
+            "latitude": "22.64472",
+            "longitude": "-79.89611"
+        },
+        {
+            "city": "Caibari\u00e9n",
+            "region": "16",
+            "country": "CU",
+            "latitude": "22.52056",
+            "longitude": "-79.46694"
+        },
+        {
+            "city": "Caba\u00f1as",
+            "region": "MA",
+            "country": "CU",
+            "latitude": "22.97583",
+            "longitude": "-82.92194"
+        },
+        {
+            "city": "Cabaigu\u00e1n",
+            "region": "14",
+            "country": "CU",
+            "latitude": "22.07889",
+            "longitude": "-79.49917"
+        },
+        {
+            "city": "Bolondr\u00f3n",
+            "region": "03",
+            "country": "CU",
+            "latitude": "22.76333",
+            "longitude": "-81.44694"
+        },
+        {
+            "city": "Bejucal",
+            "region": "MA",
+            "country": "CU",
+            "latitude": "22.92861",
+            "longitude": "-82.38861"
+        },
+        {
+            "city": "Bayamo",
+            "region": "09",
+            "country": "CU",
+            "latitude": "20.37917",
+            "longitude": "-76.64333"
+        },
+        {
+            "city": "Bauta",
+            "region": "MA",
+            "country": "CU",
+            "latitude": "22.98278",
+            "longitude": "-82.54639"
+        },
+        {
+            "city": "Bataban\u00f3",
+            "region": "MA",
+            "country": "CU",
+            "latitude": "22.71639",
+            "longitude": "-82.28806"
+        },
+        {
+            "city": "Baragu\u00e1",
+            "region": "07",
+            "country": "CU",
+            "latitude": "21.69667",
+            "longitude": "-78.63278"
+        },
+        {
+            "city": "Baracoa",
+            "region": "10",
+            "country": "CU",
+            "latitude": "20.34667",
+            "longitude": "-74.49583"
+        },
+        {
+            "city": "Banes",
+            "region": "12",
+            "country": "CU",
+            "latitude": "20.9625",
+            "longitude": "-75.71861"
+        },
+        {
+            "city": "Bah\u00eda Honda",
+            "region": "01",
+            "country": "CU",
+            "latitude": "22.90361",
+            "longitude": "-83.15917"
+        },
+        {
+            "city": "Artemisa",
+            "region": "AR",
+            "country": "CU",
+            "latitude": "22.81306",
+            "longitude": "-82.76194"
+        },
+        {
+            "city": "Alqu\u00edzar",
+            "region": "MA",
+            "country": "CU",
+            "latitude": "22.80583",
+            "longitude": "-82.58417"
+        },
+        {
+            "city": "Alamar",
+            "region": "02",
+            "country": "CU",
+            "latitude": "23.15833",
+            "longitude": "-82.27694"
+        },
+        {
+            "city": "Alacranes",
+            "region": "03",
+            "country": "CU",
+            "latitude": "22.7675",
+            "longitude": "-81.5675"
+        },
+        {
+            "city": "Aguada de Pasajeros",
+            "region": "08",
+            "country": "CU",
+            "latitude": "22.385",
+            "longitude": "-80.85083"
+        },
+        {
+            "city": "Abreus",
+            "region": "08",
+            "country": "CU",
+            "latitude": "22.2775",
+            "longitude": "-80.5675"
+        },
+        {
+            "city": "B\u00e1guanos",
+            "region": "12",
+            "country": "CU",
+            "latitude": "20.75167",
+            "longitude": "-76.02694"
+        }
+    ]
+}

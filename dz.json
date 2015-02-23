@@ -1,0 +1,1763 @@
+{
+    "country": "Algeria",
+    "code": "DZ",
+    "cities": [
+        {
+            "city": "Boumerdas",
+            "region": "40",
+            "country": "DZ",
+            "latitude": "36.76639",
+            "longitude": "3.47717"
+        },
+        {
+            "city": "Zeribet el Oued",
+            "region": "19",
+            "country": "DZ",
+            "latitude": "34.68284",
+            "longitude": "6.51109"
+        },
+        {
+            "city": "Zeralda",
+            "region": "55",
+            "country": "DZ",
+            "latitude": "36.71169",
+            "longitude": "2.84244"
+        },
+        {
+            "city": "Zemoura",
+            "region": "51",
+            "country": "DZ",
+            "latitude": "35.72251",
+            "longitude": "0.75509"
+        },
+        {
+            "city": "Touggourt",
+            "region": "50",
+            "country": "DZ",
+            "latitude": "33.10527",
+            "longitude": "6.05796"
+        },
+        {
+            "city": "Tolga",
+            "region": "19",
+            "country": "DZ",
+            "latitude": "34.72224",
+            "longitude": "5.37845"
+        },
+        {
+            "city": "Tlemcen",
+            "region": "15",
+            "country": "DZ",
+            "latitude": "34.87833",
+            "longitude": "-1.315"
+        },
+        {
+            "city": "Tizi Rached",
+            "region": "14",
+            "country": "DZ",
+            "latitude": "36.67176",
+            "longitude": "4.19176"
+        },
+        {
+            "city": "Tizi Ouzou",
+            "region": "14",
+            "country": "DZ",
+            "latitude": "36.71182",
+            "longitude": "4.04591"
+        },
+        {
+            "city": "Tizi-n-Tleta",
+            "region": "14",
+            "country": "DZ",
+            "latitude": "36.54569",
+            "longitude": "4.05712"
+        },
+        {
+            "city": "Tizi Gheniff",
+            "region": "40",
+            "country": "DZ",
+            "latitude": "36.58839",
+            "longitude": "3.77445"
+        },
+        {
+            "city": "Tissemsilt",
+            "region": "56",
+            "country": "DZ",
+            "latitude": "35.60722",
+            "longitude": "1.81081"
+        },
+        {
+            "city": "Tirmitine",
+            "region": "14",
+            "country": "DZ",
+            "latitude": "36.65393",
+            "longitude": "3.98143"
+        },
+        {
+            "city": "Tipasa",
+            "region": "55",
+            "country": "DZ",
+            "latitude": "36.58972",
+            "longitude": "2.4475"
+        },
+        {
+            "city": "Tindouf",
+            "region": "54",
+            "country": "DZ",
+            "latitude": "27.67111",
+            "longitude": "-8.14744"
+        },
+        {
+            "city": "Timizart",
+            "region": "14",
+            "country": "DZ",
+            "latitude": "36.8",
+            "longitude": "4.26667"
+        },
+        {
+            "city": "Timimoun",
+            "region": "34",
+            "country": "DZ",
+            "latitude": "29.26388",
+            "longitude": "0.23098"
+        },
+        {
+            "city": "el hed",
+            "region": "18",
+            "country": "DZ",
+            "latitude": "36.65",
+            "longitude": "4.77361"
+        },
+        {
+            "city": "Tiaret",
+            "region": "13",
+            "country": "DZ",
+            "latitude": "35.37103",
+            "longitude": "1.31699"
+        },
+        {
+            "city": "Theniet el Had",
+            "region": "35",
+            "country": "DZ",
+            "latitude": "35.87111",
+            "longitude": "2.02806"
+        },
+        {
+            "city": "Thenia",
+            "region": "40",
+            "country": "DZ",
+            "latitude": "36.72544",
+            "longitude": "3.55665"
+        },
+        {
+            "city": "Telerghma",
+            "region": "48",
+            "country": "DZ",
+            "latitude": "36.11653",
+            "longitude": "6.35434"
+        },
+        {
+            "city": "T\u00e9bessa",
+            "region": "33",
+            "country": "DZ",
+            "latitude": "35.40417",
+            "longitude": "8.12417"
+        },
+        {
+            "city": "Tebesbest",
+            "region": "50",
+            "country": "DZ",
+            "latitude": "33.11667",
+            "longitude": "6.08333"
+        },
+        {
+            "city": "Tazoult-Lambese",
+            "region": "03",
+            "country": "DZ",
+            "latitude": "35.48171",
+            "longitude": "6.26074"
+        },
+        {
+            "city": "Tamanrasset",
+            "region": "53",
+            "country": "DZ",
+            "latitude": "22.785",
+            "longitude": "5.52278"
+        },
+        {
+            "city": "Tamalous",
+            "region": "31",
+            "country": "DZ",
+            "latitude": "36.83763",
+            "longitude": "6.64018"
+        },
+        {
+            "city": "Tadma\u00eft",
+            "region": "40",
+            "country": "DZ",
+            "latitude": "36.74413",
+            "longitude": "3.90045"
+        },
+        {
+            "city": "Sour el Ghozlane",
+            "region": "21",
+            "country": "DZ",
+            "latitude": "36.14766",
+            "longitude": "3.69123"
+        },
+        {
+            "city": "Souma",
+            "region": "20",
+            "country": "DZ",
+            "latitude": "36.51833",
+            "longitude": "2.90528"
+        },
+        {
+            "city": "Souk Ahras",
+            "region": "52",
+            "country": "DZ",
+            "latitude": "36.28639",
+            "longitude": "7.95111"
+        },
+        {
+            "city": "Sougueur",
+            "region": "13",
+            "country": "DZ",
+            "latitude": "35.18568",
+            "longitude": "1.49612"
+        },
+        {
+            "city": "Skikda",
+            "region": "31",
+            "country": "DZ",
+            "latitude": "36.87617",
+            "longitude": "6.90921"
+        },
+        {
+            "city": "Sig",
+            "region": "26",
+            "country": "DZ",
+            "latitude": "35.52832",
+            "longitude": "-0.19369"
+        },
+        {
+            "city": "Sidi Okba",
+            "region": "19",
+            "country": "DZ",
+            "latitude": "34.74512",
+            "longitude": "5.89833"
+        },
+        {
+            "city": "Sidi Moussa",
+            "region": "20",
+            "country": "DZ",
+            "latitude": "36.60637",
+            "longitude": "3.08783"
+        },
+        {
+            "city": "Sidi M\u00e9rouane",
+            "region": "48",
+            "country": "DZ",
+            "latitude": "36.52056",
+            "longitude": "6.26111"
+        },
+        {
+            "city": "Sidi Khaled",
+            "region": "19",
+            "country": "DZ",
+            "latitude": "34.387",
+            "longitude": "4.98785"
+        },
+        {
+            "city": "Sidi ech Chahmi",
+            "region": "09",
+            "country": "DZ",
+            "latitude": "35.65903",
+            "longitude": "-0.52168"
+        },
+        {
+            "city": "Sidi Bel Abb\u00e8s",
+            "region": "30",
+            "country": "DZ",
+            "latitude": "35.18994",
+            "longitude": "-0.63085"
+        },
+        {
+            "city": "Sidi Amrane",
+            "region": "50",
+            "country": "DZ",
+            "latitude": "33.49885",
+            "longitude": "6.00803"
+        },
+        {
+            "city": "Sidi Akkacha",
+            "region": "41",
+            "country": "DZ",
+            "latitude": "36.46472",
+            "longitude": "1.30258"
+        },
+        {
+            "city": "Sidi A\u00efssa",
+            "region": "27",
+            "country": "DZ",
+            "latitude": "35.88548",
+            "longitude": "3.77236"
+        },
+        {
+            "city": "Sidi Abdelli",
+            "region": "15",
+            "country": "DZ",
+            "latitude": "35.06937",
+            "longitude": "-1.13706"
+        },
+        {
+            "city": "Sfizef",
+            "region": "30",
+            "country": "DZ",
+            "latitude": "35.23464",
+            "longitude": "-0.24435"
+        },
+        {
+            "city": "S\u00e9tif",
+            "region": "12",
+            "country": "DZ",
+            "latitude": "36.19112",
+            "longitude": "5.41373"
+        },
+        {
+            "city": "Sedrata",
+            "region": "52",
+            "country": "DZ",
+            "latitude": "36.12868",
+            "longitude": "7.53376"
+        },
+        {
+            "city": "Seddouk",
+            "region": "18",
+            "country": "DZ",
+            "latitude": "36.54722",
+            "longitude": "4.68611"
+        },
+        {
+            "city": "Sebdou",
+            "region": "15",
+            "country": "DZ",
+            "latitude": "34.63703",
+            "longitude": "-1.33143"
+        },
+        {
+            "city": "Saoula",
+            "region": "55",
+            "country": "DZ",
+            "latitude": "36.70456",
+            "longitude": "3.02462"
+        },
+        {
+            "city": "Salah Bey",
+            "region": "12",
+            "country": "DZ",
+            "latitude": "35.8545",
+            "longitude": "5.29053"
+        },
+        {
+            "city": "Sa\u00efda",
+            "region": "10",
+            "country": "DZ",
+            "latitude": "34.83034",
+            "longitude": "0.15171"
+        },
+        {
+            "city": "Rouissat",
+            "region": "50",
+            "country": "DZ",
+            "latitude": "31.92427",
+            "longitude": "5.35018"
+        },
+        {
+            "city": "Rouiba",
+            "region": "01",
+            "country": "DZ",
+            "latitude": "36.73829",
+            "longitude": "3.28079"
+        },
+        {
+            "city": "Rouached",
+            "region": "48",
+            "country": "DZ",
+            "latitude": "36.45774",
+            "longitude": "6.04267"
+        },
+        {
+            "city": "Robbah",
+            "region": "43",
+            "country": "DZ",
+            "latitude": "33.27966",
+            "longitude": "6.90984"
+        },
+        {
+            "city": "Remchi",
+            "region": "15",
+            "country": "DZ",
+            "latitude": "35.06196",
+            "longitude": "-1.43362"
+        },
+        {
+            "city": "Relizane",
+            "region": "51",
+            "country": "DZ",
+            "latitude": "35.73734",
+            "longitude": "0.55599"
+        },
+        {
+            "city": "Reguiba",
+            "region": "43",
+            "country": "DZ",
+            "latitude": "33.56391",
+            "longitude": "6.70326"
+        },
+        {
+            "city": "Regha\u00efa",
+            "region": "40",
+            "country": "DZ",
+            "latitude": "36.73587",
+            "longitude": "3.34018"
+        },
+        {
+            "city": "Reggane",
+            "region": "34",
+            "country": "DZ",
+            "latitude": "26.71576",
+            "longitude": "0.1714"
+        },
+        {
+            "city": "R\u00e2s el Oued",
+            "region": "39",
+            "country": "DZ",
+            "latitude": "35.9441",
+            "longitude": "5.03107"
+        },
+        {
+            "city": "R\u00e2s el A\u00efoun",
+            "region": "03",
+            "country": "DZ",
+            "latitude": "35.67384",
+            "longitude": "5.6453"
+        },
+        {
+            "city": "Oum el Bouaghi",
+            "region": "29",
+            "country": "DZ",
+            "latitude": "35.87541",
+            "longitude": "7.11353"
+        },
+        {
+            "city": "Oumache",
+            "region": "19",
+            "country": "DZ",
+            "latitude": "34.69292",
+            "longitude": "5.68092"
+        },
+        {
+            "city": "Ouled Moussa",
+            "region": "40",
+            "country": "DZ",
+            "latitude": "36.68394",
+            "longitude": "3.36661"
+        },
+        {
+            "city": "Ouled Mimoun",
+            "region": "15",
+            "country": "DZ",
+            "latitude": "34.90472",
+            "longitude": "-1.03394"
+        },
+        {
+            "city": "Oued Sly",
+            "region": "41",
+            "country": "DZ",
+            "latitude": "36.10124",
+            "longitude": "1.19949"
+        },
+        {
+            "city": "Oued Rhiou",
+            "region": "51",
+            "country": "DZ",
+            "latitude": "35.96124",
+            "longitude": "0.91896"
+        },
+        {
+            "city": "Oued Fodda",
+            "region": "41",
+            "country": "DZ",
+            "latitude": "36.18503",
+            "longitude": "1.53299"
+        },
+        {
+            "city": "Oued el Alleug",
+            "region": "55",
+            "country": "DZ",
+            "latitude": "36.55528",
+            "longitude": "2.79028"
+        },
+        {
+            "city": "Oued el Abtal",
+            "region": "26",
+            "country": "DZ",
+            "latitude": "35.45595",
+            "longitude": "0.68778"
+        },
+        {
+            "city": "Ouargla",
+            "region": "50",
+            "country": "DZ",
+            "latitude": "31.94932",
+            "longitude": "5.32502"
+        },
+        {
+            "city": "Oran",
+            "region": "09",
+            "country": "DZ",
+            "latitude": "35.69111",
+            "longitude": "-0.64167"
+        },
+        {
+            "city": "Nedroma",
+            "region": "15",
+            "country": "DZ",
+            "latitude": "35.01361",
+            "longitude": "-1.74799"
+        },
+        {
+            "city": "Naciria",
+            "region": "40",
+            "country": "DZ",
+            "latitude": "36.74625",
+            "longitude": "3.83163"
+        },
+        {
+            "city": "Naama",
+            "region": "49",
+            "country": "DZ",
+            "latitude": "33.26667",
+            "longitude": "-0.31667"
+        },
+        {
+            "city": "M\u2019Sila",
+            "region": "27",
+            "country": "DZ",
+            "latitude": "35.70583",
+            "longitude": "4.54194"
+        },
+        {
+            "city": "Mouza\u00efa",
+            "region": "55",
+            "country": "DZ",
+            "latitude": "36.46695",
+            "longitude": "2.68991"
+        },
+        {
+            "city": "Mostaganem",
+            "region": "07",
+            "country": "DZ",
+            "latitude": "35.93115",
+            "longitude": "0.08918"
+        },
+        {
+            "city": "Mila",
+            "region": "48",
+            "country": "DZ",
+            "latitude": "36.45028",
+            "longitude": "6.26444"
+        },
+        {
+            "city": "Metlili Chaamba",
+            "region": "45",
+            "country": "DZ",
+            "latitude": "32.26667",
+            "longitude": "3.63333"
+        },
+        {
+            "city": "Messaad",
+            "region": "22",
+            "country": "DZ",
+            "latitude": "34.15429",
+            "longitude": "3.50309"
+        },
+        {
+            "city": "Meskiana",
+            "region": "29",
+            "country": "DZ",
+            "latitude": "35.63058",
+            "longitude": "7.66606"
+        },
+        {
+            "city": "Mers el Kebir",
+            "region": "09",
+            "country": "DZ",
+            "latitude": "35.7279",
+            "longitude": "-0.7081"
+        },
+        {
+            "city": "Merouana",
+            "region": "03",
+            "country": "DZ",
+            "latitude": "35.63106",
+            "longitude": "5.91186"
+        },
+        {
+            "city": "Melouza",
+            "region": "39",
+            "country": "DZ",
+            "latitude": "35.97999",
+            "longitude": "4.18665"
+        },
+        {
+            "city": "Mekla",
+            "region": "14",
+            "country": "DZ",
+            "latitude": "36.68178",
+            "longitude": "4.26378"
+        },
+        {
+            "city": "Mehdia",
+            "region": "13",
+            "country": "DZ",
+            "latitude": "35.43058",
+            "longitude": "1.75714"
+        },
+        {
+            "city": "Megarine",
+            "region": "50",
+            "country": "DZ",
+            "latitude": "33.19195",
+            "longitude": "6.08695"
+        },
+        {
+            "city": "Meftah",
+            "region": "20",
+            "country": "DZ",
+            "latitude": "36.6204",
+            "longitude": "3.22248"
+        },
+        {
+            "city": "M\u00e9d\u00e9a",
+            "region": "06",
+            "country": "DZ",
+            "latitude": "36.26417",
+            "longitude": "2.75393"
+        },
+        {
+            "city": "Mazouna",
+            "region": "51",
+            "country": "DZ",
+            "latitude": "36.12232",
+            "longitude": "0.89865"
+        },
+        {
+            "city": "Mascara",
+            "region": "26",
+            "country": "DZ",
+            "latitude": "35.39664",
+            "longitude": "0.14027"
+        },
+        {
+            "city": "Mansourah",
+            "region": "39",
+            "country": "DZ",
+            "latitude": "36.08725",
+            "longitude": "4.45192"
+        },
+        {
+            "city": "Manso\u00fbra",
+            "region": "15",
+            "country": "DZ",
+            "latitude": "34.86158",
+            "longitude": "-1.33935"
+        },
+        {
+            "city": "Makouda",
+            "region": "40",
+            "country": "DZ",
+            "latitude": "36.78567",
+            "longitude": "4.06273"
+        },
+        {
+            "city": "L\u2019Arbaa Na\u00eft Irathen",
+            "region": "14",
+            "country": "DZ",
+            "latitude": "36.63112",
+            "longitude": "4.19864"
+        },
+        {
+            "city": "L\u2019Arba",
+            "region": "20",
+            "country": "DZ",
+            "latitude": "36.56471",
+            "longitude": "3.15434"
+        },
+        {
+            "city": "Lakhdaria",
+            "region": "21",
+            "country": "DZ",
+            "latitude": "36.56463",
+            "longitude": "3.5933"
+        },
+        {
+            "city": "Laghouat",
+            "region": "25",
+            "country": "DZ",
+            "latitude": "33.8",
+            "longitude": "2.86514"
+        },
+        {
+            "city": "Ksar el Boukhari",
+            "region": "06",
+            "country": "DZ",
+            "latitude": "35.88889",
+            "longitude": "2.74905"
+        },
+        {
+            "city": "Ksar Chellala",
+            "region": "13",
+            "country": "DZ",
+            "latitude": "35.21222",
+            "longitude": "2.31889"
+        },
+        {
+            "city": "Kolea",
+            "region": "55",
+            "country": "DZ",
+            "latitude": "36.63888",
+            "longitude": "2.76845"
+        },
+        {
+            "city": "Khenchela",
+            "region": "47",
+            "country": "DZ",
+            "latitude": "35.43583",
+            "longitude": "7.14333"
+        },
+        {
+            "city": "Khemis Miliana",
+            "region": "35",
+            "country": "DZ",
+            "latitude": "36.26104",
+            "longitude": "2.22015"
+        },
+        {
+            "city": "Khemis el Khechna",
+            "region": "40",
+            "country": "DZ",
+            "latitude": "36.64997",
+            "longitude": "3.3308"
+        },
+        {
+            "city": "Kerkera",
+            "region": "31",
+            "country": "DZ",
+            "latitude": "36.92917",
+            "longitude": "6.58556"
+        },
+        {
+            "city": "Djidiouia",
+            "region": "51",
+            "country": "DZ",
+            "latitude": "35.92989",
+            "longitude": "0.82871"
+        },
+        {
+            "city": "Isser",
+            "region": "40",
+            "country": "DZ",
+            "latitude": "36.71859",
+            "longitude": "3.66924"
+        },
+        {
+            "city": "I-n-Salah",
+            "region": "53",
+            "country": "DZ",
+            "latitude": "27.19351",
+            "longitude": "2.46069"
+        },
+        {
+            "city": "Illizi",
+            "region": "46",
+            "country": "DZ",
+            "latitude": "26.48333",
+            "longitude": "8.46667"
+        },
+        {
+            "city": "Ighram",
+            "region": "14",
+            "country": "DZ",
+            "latitude": "36.46295",
+            "longitude": "4.50532"
+        },
+        {
+            "city": "Hennaya",
+            "region": "15",
+            "country": "DZ",
+            "latitude": "34.95139",
+            "longitude": "-1.36806"
+        },
+        {
+            "city": "H\u00e9liopolis",
+            "region": "23",
+            "country": "DZ",
+            "latitude": "36.50361",
+            "longitude": "7.44278"
+        },
+        {
+            "city": "Hassi Messaoud",
+            "region": "50",
+            "country": "DZ",
+            "latitude": "31.68041",
+            "longitude": "6.07286"
+        },
+        {
+            "city": "Hammamet",
+            "region": "33",
+            "country": "DZ",
+            "latitude": "35.44862",
+            "longitude": "7.95184"
+        },
+        {
+            "city": "Hammam Bou Hadjar",
+            "region": "36",
+            "country": "DZ",
+            "latitude": "35.37889",
+            "longitude": "-0.96778"
+        },
+        {
+            "city": "Hamma Bouziane",
+            "region": "04",
+            "country": "DZ",
+            "latitude": "36.41205",
+            "longitude": "6.59603"
+        },
+        {
+            "city": "Hadjout",
+            "region": "55",
+            "country": "DZ",
+            "latitude": "36.51257",
+            "longitude": "2.41382"
+        },
+        {
+            "city": "Guelma",
+            "region": "23",
+            "country": "DZ",
+            "latitude": "36.46214",
+            "longitude": "7.42608"
+        },
+        {
+            "city": "Frenda",
+            "region": "13",
+            "country": "DZ",
+            "latitude": "35.06544",
+            "longitude": "1.04945"
+        },
+        {
+            "city": "Freha",
+            "region": "14",
+            "country": "DZ",
+            "latitude": "36.75234",
+            "longitude": "4.3155"
+        },
+        {
+            "city": "Feraoun",
+            "region": "18",
+            "country": "DZ",
+            "latitude": "36.5604",
+            "longitude": "4.85454"
+        },
+        {
+            "city": "Es Senia",
+            "region": "09",
+            "country": "DZ",
+            "latitude": "35.64779",
+            "longitude": "-0.62397"
+        },
+        {
+            "city": "El Tarf",
+            "region": "44",
+            "country": "DZ",
+            "latitude": "36.7672",
+            "longitude": "8.31377"
+        },
+        {
+            "city": "El Oued",
+            "region": "43",
+            "country": "DZ",
+            "latitude": "33.35608",
+            "longitude": "6.86319"
+        },
+        {
+            "city": "El Malah",
+            "region": "36",
+            "country": "DZ",
+            "latitude": "35.39138",
+            "longitude": "-1.09238"
+        },
+        {
+            "city": "El Kseur",
+            "region": "18",
+            "country": "DZ",
+            "latitude": "36.67942",
+            "longitude": "4.8555"
+        },
+        {
+            "city": "El Khroub",
+            "region": "04",
+            "country": "DZ",
+            "latitude": "36.26333",
+            "longitude": "6.69361"
+        },
+        {
+            "city": "El Kala",
+            "region": "44",
+            "country": "DZ",
+            "latitude": "36.89556",
+            "longitude": "8.44333"
+        },
+        {
+            "city": "El Idrissia",
+            "region": "22",
+            "country": "DZ",
+            "latitude": "34.44542",
+            "longitude": "2.52749"
+        },
+        {
+            "city": "El Hadjira",
+            "region": "50",
+            "country": "DZ",
+            "latitude": "32.61336",
+            "longitude": "5.51259"
+        },
+        {
+            "city": "El Hadjar",
+            "region": "37",
+            "country": "DZ",
+            "latitude": "36.80377",
+            "longitude": "7.73684"
+        },
+        {
+            "city": "El Eulma",
+            "region": "12",
+            "country": "DZ",
+            "latitude": "36.15281",
+            "longitude": "5.69016"
+        },
+        {
+            "city": "El Bayadh",
+            "region": "42",
+            "country": "DZ",
+            "latitude": "33.68318",
+            "longitude": "1.01927"
+        },
+        {
+            "city": "El Attaf",
+            "region": "35",
+            "country": "DZ",
+            "latitude": "36.22393",
+            "longitude": "1.67187"
+        },
+        {
+            "city": "Chlef",
+            "region": "41",
+            "country": "DZ",
+            "latitude": "36.16525",
+            "longitude": "1.33452"
+        },
+        {
+            "city": "El Aouinet",
+            "region": "29",
+            "country": "DZ",
+            "latitude": "35.86691",
+            "longitude": "7.88672"
+        },
+        {
+            "city": "El Amria",
+            "region": "36",
+            "country": "DZ",
+            "latitude": "35.52439",
+            "longitude": "-1.01577"
+        },
+        {
+            "city": "El Affroun",
+            "region": "55",
+            "country": "DZ",
+            "latitude": "36.4701",
+            "longitude": "2.62528"
+        },
+        {
+            "city": "El Achir",
+            "region": "39",
+            "country": "DZ",
+            "latitude": "36.06386",
+            "longitude": "4.62744"
+        },
+        {
+            "city": "El Abiodh Sidi Cheikh",
+            "region": "42",
+            "country": "DZ",
+            "latitude": "32.893",
+            "longitude": "0.54839"
+        },
+        {
+            "city": "El Abadia",
+            "region": "35",
+            "country": "DZ",
+            "latitude": "36.26951",
+            "longitude": "1.68609"
+        },
+        {
+            "city": "Ech Chettia",
+            "region": "41",
+            "country": "DZ",
+            "latitude": "36.19591",
+            "longitude": "1.25538"
+        },
+        {
+            "city": "Drean",
+            "region": "37",
+            "country": "DZ",
+            "latitude": "36.68482",
+            "longitude": "7.75111"
+        },
+        {
+            "city": "Draa el Mizan",
+            "region": "21",
+            "country": "DZ",
+            "latitude": "36.53628",
+            "longitude": "3.8334"
+        },
+        {
+            "city": "Draa Ben Khedda",
+            "region": "40",
+            "country": "DZ",
+            "latitude": "36.73436",
+            "longitude": "3.96223"
+        },
+        {
+            "city": "Douera",
+            "region": "55",
+            "country": "DZ",
+            "latitude": "36.67",
+            "longitude": "2.94444"
+        },
+        {
+            "city": "Djelfa",
+            "region": "22",
+            "country": "DZ",
+            "latitude": "34.67279",
+            "longitude": "3.263"
+        },
+        {
+            "city": "Djamaa",
+            "region": "50",
+            "country": "DZ",
+            "latitude": "33.53388",
+            "longitude": "5.99306"
+        },
+        {
+            "city": "Didouche Mourad",
+            "region": "04",
+            "country": "DZ",
+            "latitude": "36.4525",
+            "longitude": "6.63639"
+        },
+        {
+            "city": "Dellys",
+            "region": "40",
+            "country": "DZ",
+            "latitude": "36.91716",
+            "longitude": "3.91311"
+        },
+        {
+            "city": "Debila",
+            "region": "43",
+            "country": "DZ",
+            "latitude": "33.51667",
+            "longitude": "6.95"
+        },
+        {
+            "city": "Dar el Be\u00efda",
+            "region": "01",
+            "country": "DZ",
+            "latitude": "36.71333",
+            "longitude": "3.2125"
+        },
+        {
+            "city": "Dar Chioukh",
+            "region": "22",
+            "country": "DZ",
+            "latitude": "34.89638",
+            "longitude": "3.48543"
+        },
+        {
+            "city": "Constantine",
+            "region": "04",
+            "country": "DZ",
+            "latitude": "36.365",
+            "longitude": "6.61472"
+        },
+        {
+            "city": "Chorfa",
+            "region": "21",
+            "country": "DZ",
+            "latitude": "36.36505",
+            "longitude": "4.32636"
+        },
+        {
+            "city": "Chiffa",
+            "region": "20",
+            "country": "DZ",
+            "latitude": "36.46293",
+            "longitude": "2.73873"
+        },
+        {
+            "city": "Chetouane",
+            "region": "15",
+            "country": "DZ",
+            "latitude": "34.92129",
+            "longitude": "-1.29512"
+        },
+        {
+            "city": "Cheria",
+            "region": "33",
+            "country": "DZ",
+            "latitude": "35.27306",
+            "longitude": "7.75194"
+        },
+        {
+            "city": "Cheraga",
+            "region": "55",
+            "country": "DZ",
+            "latitude": "36.76775",
+            "longitude": "2.95924"
+        },
+        {
+            "city": "Chemini",
+            "region": "14",
+            "country": "DZ",
+            "latitude": "36.6",
+            "longitude": "4.61667"
+        },
+        {
+            "city": "Chelghoum el A\u00efd",
+            "region": "48",
+            "country": "DZ",
+            "latitude": "36.16286",
+            "longitude": "6.16651"
+        },
+        {
+            "city": "Chebli",
+            "region": "20",
+            "country": "DZ",
+            "latitude": "36.57722",
+            "longitude": "3.00917"
+        },
+        {
+            "city": "Charef",
+            "region": "22",
+            "country": "DZ",
+            "latitude": "34.62098",
+            "longitude": "2.79503"
+        },
+        {
+            "city": "Chabet el Ameur",
+            "region": "40",
+            "country": "DZ",
+            "latitude": "36.63709",
+            "longitude": "3.69474"
+        },
+        {
+            "city": "Brezina",
+            "region": "42",
+            "country": "DZ",
+            "latitude": "33.09892",
+            "longitude": "1.26082"
+        },
+        {
+            "city": "Bou Tlelis",
+            "region": "09",
+            "country": "DZ",
+            "latitude": "35.57272",
+            "longitude": "-0.8996"
+        },
+        {
+            "city": "Boumahra Ahmed",
+            "region": "23",
+            "country": "DZ",
+            "latitude": "36.45833",
+            "longitude": "7.51389"
+        },
+        {
+            "city": "Boukadir",
+            "region": "41",
+            "country": "DZ",
+            "latitude": "36.06629",
+            "longitude": "1.12602"
+        },
+        {
+            "city": "Bou Isma\u00efl",
+            "region": "55",
+            "country": "DZ",
+            "latitude": "36.64262",
+            "longitude": "2.69007"
+        },
+        {
+            "city": "Bouira",
+            "region": "21",
+            "country": "DZ",
+            "latitude": "36.37489",
+            "longitude": "3.902"
+        },
+        {
+            "city": "Bouinan",
+            "region": "20",
+            "country": "DZ",
+            "latitude": "36.53167",
+            "longitude": "2.99194"
+        },
+        {
+            "city": "Bou Hanifia el Hamamat",
+            "region": "26",
+            "country": "DZ",
+            "latitude": "35.31473",
+            "longitude": "-0.05037"
+        },
+        {
+            "city": "Bougara",
+            "region": "20",
+            "country": "DZ",
+            "latitude": "36.54178",
+            "longitude": "3.081"
+        },
+        {
+            "city": "Bougaa",
+            "region": "12",
+            "country": "DZ",
+            "latitude": "36.33293",
+            "longitude": "5.08843"
+        },
+        {
+            "city": "Boufarik",
+            "region": "20",
+            "country": "DZ",
+            "latitude": "36.57412",
+            "longitude": "2.91214"
+        },
+        {
+            "city": "Boudouaou",
+            "region": "40",
+            "country": "DZ",
+            "latitude": "36.72735",
+            "longitude": "3.40995"
+        },
+        {
+            "city": "Boudjima",
+            "region": "14",
+            "country": "DZ",
+            "latitude": "36.80218",
+            "longitude": "4.15187"
+        },
+        {
+            "city": "Bo\u00fb Arfa",
+            "region": "20",
+            "country": "DZ",
+            "latitude": "36.46298",
+            "longitude": "2.81464"
+        },
+        {
+            "city": "Bordj Zemoura",
+            "region": "39",
+            "country": "DZ",
+            "latitude": "36.27462",
+            "longitude": "4.85668"
+        },
+        {
+            "city": "Bordj Ghdir",
+            "region": "39",
+            "country": "DZ",
+            "latitude": "35.90111",
+            "longitude": "4.89806"
+        },
+        {
+            "city": "Bordj el Kiffan",
+            "region": "01",
+            "country": "DZ",
+            "latitude": "36.74871",
+            "longitude": "3.19248"
+        },
+        {
+            "city": "Bordj Bou Arreridj",
+            "region": "39",
+            "country": "DZ",
+            "latitude": "36.07322",
+            "longitude": "4.76108"
+        },
+        {
+            "city": "Boghni",
+            "region": "14",
+            "country": "DZ",
+            "latitude": "36.54222",
+            "longitude": "3.95306"
+        },
+        {
+            "city": "Blida",
+            "region": "20",
+            "country": "DZ",
+            "latitude": "36.47004",
+            "longitude": "2.8277"
+        },
+        {
+            "city": "Biskra",
+            "region": "19",
+            "country": "DZ",
+            "latitude": "34.85038",
+            "longitude": "5.72805"
+        },
+        {
+            "city": "Birkhadem",
+            "region": "01",
+            "country": "DZ",
+            "latitude": "36.71499",
+            "longitude": "3.05002"
+        },
+        {
+            "city": "Birine",
+            "region": "22",
+            "country": "DZ",
+            "latitude": "35.635",
+            "longitude": "3.225"
+        },
+        {
+            "city": "Bir el Djir",
+            "region": "09",
+            "country": "DZ",
+            "latitude": "35.72",
+            "longitude": "-0.545"
+        },
+        {
+            "city": "Bir el Ater",
+            "region": "33",
+            "country": "DZ",
+            "latitude": "34.74488",
+            "longitude": "8.06024"
+        },
+        {
+            "city": "Besbes",
+            "region": "44",
+            "country": "DZ",
+            "latitude": "36.70222",
+            "longitude": "7.84722"
+        },
+        {
+            "city": "Berrouaghia",
+            "region": "06",
+            "country": "DZ",
+            "latitude": "36.13516",
+            "longitude": "2.91085"
+        },
+        {
+            "city": "Berriane",
+            "region": "45",
+            "country": "DZ",
+            "latitude": "32.82648",
+            "longitude": "3.7669"
+        },
+        {
+            "city": "Berrahal",
+            "region": "37",
+            "country": "DZ",
+            "latitude": "36.83528",
+            "longitude": "7.45333"
+        },
+        {
+            "city": "Bensekrane",
+            "region": "15",
+            "country": "DZ",
+            "latitude": "35.07465",
+            "longitude": "-1.22431"
+        },
+        {
+            "city": "Ben Mehidi",
+            "region": "44",
+            "country": "DZ",
+            "latitude": "36.76967",
+            "longitude": "7.9064"
+        },
+        {
+            "city": "Beni Saf",
+            "region": "36",
+            "country": "DZ",
+            "latitude": "35.30099",
+            "longitude": "-1.38226"
+        },
+        {
+            "city": "Beni Mester",
+            "region": "15",
+            "country": "DZ",
+            "latitude": "34.87045",
+            "longitude": "-1.42319"
+        },
+        {
+            "city": "Beni Mered",
+            "region": "20",
+            "country": "DZ",
+            "latitude": "36.52389",
+            "longitude": "2.86131"
+        },
+        {
+            "city": "Beni Douala",
+            "region": "14",
+            "country": "DZ",
+            "latitude": "36.61954",
+            "longitude": "4.08282"
+        },
+        {
+            "city": "Beni Amrane",
+            "region": "40",
+            "country": "DZ",
+            "latitude": "36.66774",
+            "longitude": "3.59115"
+        },
+        {
+            "city": "Beja\u00efa",
+            "region": "18",
+            "country": "DZ",
+            "latitude": "36.75587",
+            "longitude": "5.08433"
+        },
+        {
+            "city": "B\u00e9char",
+            "region": "38",
+            "country": "DZ",
+            "latitude": "31.61667",
+            "longitude": "-2.21667"
+        },
+        {
+            "city": "Batna",
+            "region": "03",
+            "country": "DZ",
+            "latitude": "35.55597",
+            "longitude": "6.17414"
+        },
+        {
+            "city": "Barika",
+            "region": "03",
+            "country": "DZ",
+            "latitude": "35.38901",
+            "longitude": "5.36584"
+        },
+        {
+            "city": "Barbacha",
+            "region": "18",
+            "country": "DZ",
+            "latitude": "36.56667",
+            "longitude": "4.96667"
+        },
+        {
+            "city": "Baraki",
+            "region": "55",
+            "country": "DZ",
+            "latitude": "36.66655",
+            "longitude": "3.09606"
+        },
+        {
+            "city": "Bab Ezzouar",
+            "region": "01",
+            "country": "DZ",
+            "latitude": "36.72615",
+            "longitude": "3.18291"
+        },
+        {
+            "city": "Azzaba",
+            "region": "31",
+            "country": "DZ",
+            "latitude": "36.73944",
+            "longitude": "7.10528"
+        },
+        {
+            "city": "Azazga",
+            "region": "14",
+            "country": "DZ",
+            "latitude": "36.74472",
+            "longitude": "4.37222"
+        },
+        {
+            "city": "Arris",
+            "region": "03",
+            "country": "DZ",
+            "latitude": "35.25881",
+            "longitude": "6.34706"
+        },
+        {
+            "city": "Arhribs",
+            "region": "14",
+            "country": "DZ",
+            "latitude": "36.79361",
+            "longitude": "4.31158"
+        },
+        {
+            "city": "Arbatache",
+            "region": "40",
+            "country": "DZ",
+            "latitude": "36.63773",
+            "longitude": "3.37127"
+        },
+        {
+            "city": "Aoulef",
+            "region": "00",
+            "country": "DZ",
+            "latitude": "26.96667",
+            "longitude": "1.08333"
+        },
+        {
+            "city": "Annaba",
+            "region": "37",
+            "country": "DZ",
+            "latitude": "36.9",
+            "longitude": "7.76667"
+        },
+        {
+            "city": "Ammi Moussa",
+            "region": "51",
+            "country": "DZ",
+            "latitude": "35.86781",
+            "longitude": "1.11143"
+        },
+        {
+            "city": "Amizour",
+            "region": "18",
+            "country": "DZ",
+            "latitude": "36.64022",
+            "longitude": "4.90131"
+        },
+        {
+            "city": "Algiers",
+            "region": "01",
+            "country": "DZ",
+            "latitude": "36.7525",
+            "longitude": "3.04197"
+        },
+        {
+            "city": "Akbou",
+            "region": "18",
+            "country": "DZ",
+            "latitude": "36.4575",
+            "longitude": "4.53494"
+        },
+        {
+            "city": "A\u00efn Touta",
+            "region": "03",
+            "country": "DZ",
+            "latitude": "35.37675",
+            "longitude": "5.90001"
+        },
+        {
+            "city": "\u2019A\u00efn Temouchent",
+            "region": "36",
+            "country": "DZ",
+            "latitude": "35.29749",
+            "longitude": "-1.14037"
+        },
+        {
+            "city": "A\u00efn Taya",
+            "region": "01",
+            "country": "DZ",
+            "latitude": "36.79333",
+            "longitude": "3.28694"
+        },
+        {
+            "city": "A\u00efn Smara",
+            "region": "04",
+            "country": "DZ",
+            "latitude": "36.2674",
+            "longitude": "6.50135"
+        },
+        {
+            "city": "A\u00efn Sefra",
+            "region": "49",
+            "country": "DZ",
+            "latitude": "32.75",
+            "longitude": "-0.58333"
+        },
+        {
+            "city": "A\u00efn Oussera",
+            "region": "22",
+            "country": "DZ",
+            "latitude": "35.45139",
+            "longitude": "2.90583"
+        },
+        {
+            "city": "\u2019A\u00efn Merane",
+            "region": "51",
+            "country": "DZ",
+            "latitude": "36.16277",
+            "longitude": "0.97037"
+        },
+        {
+            "city": "A\u00efn Kercha",
+            "region": "29",
+            "country": "DZ",
+            "latitude": "35.92472",
+            "longitude": "6.69528"
+        },
+        {
+            "city": "A\u00efn Fakroun",
+            "region": "29",
+            "country": "DZ",
+            "latitude": "35.97108",
+            "longitude": "6.87374"
+        },
+        {
+            "city": "\u2019A\u00efn el Turk",
+            "region": "09",
+            "country": "DZ",
+            "latitude": "35.74381",
+            "longitude": "-0.7693"
+        },
+        {
+            "city": "\u2019A\u00efn el Melh",
+            "region": "27",
+            "country": "DZ",
+            "latitude": "34.84146",
+            "longitude": "4.16383"
+        },
+        {
+            "city": "\u2019A\u00efn el Hammam",
+            "region": "14",
+            "country": "DZ",
+            "latitude": "36.56471",
+            "longitude": "4.30619"
+        },
+        {
+            "city": "\u2018A\u00efn el Hadjel",
+            "region": "27",
+            "country": "DZ",
+            "latitude": "35.67003",
+            "longitude": "3.88153"
+        },
+        {
+            "city": "\u2019A\u00efn el Hadjar",
+            "region": "10",
+            "country": "DZ",
+            "latitude": "34.75846",
+            "longitude": "0.14528"
+        },
+        {
+            "city": "A\u00efn el Bya",
+            "region": "09",
+            "country": "DZ",
+            "latitude": "35.80389",
+            "longitude": "-0.30178"
+        },
+        {
+            "city": "\u2019A\u00efn el Berd",
+            "region": "30",
+            "country": "DZ",
+            "latitude": "35.36395",
+            "longitude": "-0.51278"
+        },
+        {
+            "city": "\u2019A\u00efn el Bell",
+            "region": "22",
+            "country": "DZ",
+            "latitude": "34.3438",
+            "longitude": "3.22475"
+        },
+        {
+            "city": "\u2019A\u00efn Deheb",
+            "region": "13",
+            "country": "DZ",
+            "latitude": "34.84218",
+            "longitude": "1.54698"
+        },
+        {
+            "city": "A\u00efn Defla",
+            "region": "35",
+            "country": "DZ",
+            "latitude": "36.26406",
+            "longitude": "1.9679"
+        },
+        {
+            "city": "\u2019A\u00efn Boucif",
+            "region": "06",
+            "country": "DZ",
+            "latitude": "35.89123",
+            "longitude": "3.1585"
+        },
+        {
+            "city": "A\u00efn Bessem",
+            "region": "21",
+            "country": "DZ",
+            "latitude": "36.29333",
+            "longitude": "3.67319"
+        },
+        {
+            "city": "\u2019A\u00efn Benian",
+            "region": "55",
+            "country": "DZ",
+            "latitude": "36.80277",
+            "longitude": "2.92185"
+        },
+        {
+            "city": "A\u00efn Be\u00efda",
+            "region": "29",
+            "country": "DZ",
+            "latitude": "35.79639",
+            "longitude": "7.39278"
+        },
+        {
+            "city": "\u2019A\u00efn Arnat",
+            "region": "12",
+            "country": "DZ",
+            "latitude": "36.18683",
+            "longitude": "5.31347"
+        },
+        {
+            "city": "\u2019A\u00efn Abid",
+            "region": "04",
+            "country": "DZ",
+            "latitude": "36.23194",
+            "longitude": "6.94333"
+        },
+        {
+            "city": "Aflou",
+            "region": "25",
+            "country": "DZ",
+            "latitude": "34.1128",
+            "longitude": "2.10228"
+        },
+        {
+            "city": "Abou el Hassan",
+            "region": "41",
+            "country": "DZ",
+            "latitude": "36.41657",
+            "longitude": "1.19616"
+        },
+        {
+            "city": "BABOR - VILLE",
+            "region": "12",
+            "country": "DZ",
+            "latitude": "36.48994",
+            "longitude": "5.5393"
+        },
+        {
+            "city": "Smala",
+            "region": "51",
+            "country": "DZ",
+            "latitude": "35.71652",
+            "longitude": "0.75437"
+        },
+        {
+            "city": "Djebilet Rosfa",
+            "region": "13",
+            "country": "DZ",
+            "latitude": "34.86375",
+            "longitude": "0.83496"
+        }
+    ]
+}

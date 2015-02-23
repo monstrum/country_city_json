@@ -1,0 +1,937 @@
+{
+    "country": "Paraguay",
+    "code": "PY",
+    "cities": [
+        {
+            "city": "Yuty",
+            "region": "05",
+            "country": "PY",
+            "latitude": "-26.6",
+            "longitude": "-56.25"
+        },
+        {
+            "city": "Ypacarai",
+            "region": "06",
+            "country": "PY",
+            "latitude": "-25.38333",
+            "longitude": "-57.26667"
+        },
+        {
+            "city": "Yh\u00fa",
+            "region": "04",
+            "country": "PY",
+            "latitude": "-25.05",
+            "longitude": "-55.91667"
+        },
+        {
+            "city": "Ygatim\u00ed",
+            "region": "19",
+            "country": "PY",
+            "latitude": "-24.08333",
+            "longitude": "-55.5"
+        },
+        {
+            "city": "Yegros",
+            "region": "05",
+            "country": "PY",
+            "latitude": "-26.45",
+            "longitude": "-56.4"
+        },
+        {
+            "city": "Ybycu\u00ed",
+            "region": "15",
+            "country": "PY",
+            "latitude": "-26.01667",
+            "longitude": "-57.05"
+        },
+        {
+            "city": "Yataity del Norte",
+            "region": "17",
+            "country": "PY",
+            "latitude": "-24.83333",
+            "longitude": "-56.35"
+        },
+        {
+            "city": "Yaguar\u00f3n",
+            "region": "15",
+            "country": "PY",
+            "latitude": "-25.6",
+            "longitude": "-57.3"
+        },
+        {
+            "city": "Villarrica",
+            "region": "10",
+            "country": "PY",
+            "latitude": "-25.75",
+            "longitude": "-56.43333"
+        },
+        {
+            "city": "Villa Florida",
+            "region": "12",
+            "country": "PY",
+            "latitude": "-26.38333",
+            "longitude": "-57.15"
+        },
+        {
+            "city": "Villa Elisa",
+            "region": "06",
+            "country": "PY",
+            "latitude": "-25.36667",
+            "longitude": "-57.61667"
+        },
+        {
+            "city": "Uni\u00f3n",
+            "region": "17",
+            "country": "PY",
+            "latitude": "-24.8",
+            "longitude": "-56.55"
+        },
+        {
+            "city": "Trinidad",
+            "region": "11",
+            "country": "PY",
+            "latitude": "-27.11667",
+            "longitude": "-55.78333"
+        },
+        {
+            "city": "Tobat\u00ed",
+            "region": "08",
+            "country": "PY",
+            "latitude": "-25.25",
+            "longitude": "-57.06667"
+        },
+        {
+            "city": "Tacuat\u00ed",
+            "region": "17",
+            "country": "PY",
+            "latitude": "-23.45",
+            "longitude": "-56.58333"
+        },
+        {
+            "city": "Sapuca\u00ed",
+            "region": "15",
+            "country": "PY",
+            "latitude": "-25.66667",
+            "longitude": "-56.91667"
+        },
+        {
+            "city": "Santiago",
+            "region": "12",
+            "country": "PY",
+            "latitude": "-27.15",
+            "longitude": "-56.78333"
+        },
+        {
+            "city": "Santa Rosa",
+            "region": "12",
+            "country": "PY",
+            "latitude": "-26.86667",
+            "longitude": "-56.85"
+        },
+        {
+            "city": "Santa Rita",
+            "region": "01",
+            "country": "PY",
+            "latitude": "-25.78333",
+            "longitude": "-55.06667"
+        },
+        {
+            "city": "Santa Mar\u00eda",
+            "region": "12",
+            "country": "PY",
+            "latitude": "-26.78333",
+            "longitude": "-56.93333"
+        },
+        {
+            "city": "Santa Elena",
+            "region": "08",
+            "country": "PY",
+            "latitude": "-25.4",
+            "longitude": "-56.8"
+        },
+        {
+            "city": "San Pedro de Ycuamandiy\u00fa",
+            "region": "17",
+            "country": "PY",
+            "latitude": "-24.1",
+            "longitude": "-57.08333"
+        },
+        {
+            "city": "San Pedro del Paran\u00e1",
+            "region": "11",
+            "country": "PY",
+            "latitude": "-26.83333",
+            "longitude": "-56.2"
+        },
+        {
+            "city": "San Patricio",
+            "region": "12",
+            "country": "PY",
+            "latitude": "-26.96667",
+            "longitude": "-56.81667"
+        },
+        {
+            "city": "San Miguel",
+            "region": "12",
+            "country": "PY",
+            "latitude": "-26.5",
+            "longitude": "-57.05"
+        },
+        {
+            "city": "San Lorenzo",
+            "region": "06",
+            "country": "PY",
+            "latitude": "-25.33333",
+            "longitude": "-57.53333"
+        },
+        {
+            "city": "San Juan Nepomuceno",
+            "region": "05",
+            "country": "PY",
+            "latitude": "-26.1",
+            "longitude": "-55.96667"
+        },
+        {
+            "city": "San Juan del Paran\u00e1",
+            "region": "11",
+            "country": "PY",
+            "latitude": "-27.3",
+            "longitude": "-55.96667"
+        },
+        {
+            "city": "San Jos\u00e9",
+            "region": "04",
+            "country": "PY",
+            "latitude": "-25.53333",
+            "longitude": "-56.73333"
+        },
+        {
+            "city": "San Joaqu\u00edn",
+            "region": "04",
+            "country": "PY",
+            "latitude": "-24.95",
+            "longitude": "-56.11667"
+        },
+        {
+            "city": "San Isidro de Curuguaty",
+            "region": "19",
+            "country": "PY",
+            "latitude": "-24.51667",
+            "longitude": "-55.7"
+        },
+        {
+            "city": "San Cosme y Dami\u00e1n",
+            "region": "11",
+            "country": "PY",
+            "latitude": "-27.31667",
+            "longitude": "-56.35"
+        },
+        {
+            "city": "San Bernardino",
+            "region": "08",
+            "country": "PY",
+            "latitude": "-25.26667",
+            "longitude": "-57.31667"
+        },
+        {
+            "city": "San Antonio",
+            "region": "06",
+            "country": "PY",
+            "latitude": "-25.38333",
+            "longitude": "-57.63333"
+        },
+        {
+            "city": "San Alberto",
+            "region": "01",
+            "country": "PY",
+            "latitude": "-24.96667",
+            "longitude": "-54.9"
+        },
+        {
+            "city": "Salto del Guair\u00e1",
+            "region": "19",
+            "country": "PY",
+            "latitude": "-24.05",
+            "longitude": "-54.35"
+        },
+        {
+            "city": "Repatriaci\u00f3n",
+            "region": "04",
+            "country": "PY",
+            "latitude": "-25.53333",
+            "longitude": "-55.95"
+        },
+        {
+            "city": "Quiindy",
+            "region": "15",
+            "country": "PY",
+            "latitude": "-25.96667",
+            "longitude": "-57.26667"
+        },
+        {
+            "city": "Puerto Rosario",
+            "region": "17",
+            "country": "PY",
+            "latitude": "-24.45",
+            "longitude": "-57.08333"
+        },
+        {
+            "city": "Puerto Mayor Ota\u00f1o",
+            "region": "11",
+            "country": "PY",
+            "latitude": "-26.4",
+            "longitude": "-54.7"
+        },
+        {
+            "city": "Presidente Franco",
+            "region": "01",
+            "country": "PY",
+            "latitude": "-25.53333",
+            "longitude": "-54.61667"
+        },
+        {
+            "city": "Piribebuy",
+            "region": "08",
+            "country": "PY",
+            "latitude": "-25.48333",
+            "longitude": "-57.05"
+        },
+        {
+            "city": "Piray\u00fa",
+            "region": "15",
+            "country": "PY",
+            "latitude": "-25.48333",
+            "longitude": "-57.23333"
+        },
+        {
+            "city": "Pirapo",
+            "region": "11",
+            "country": "PY",
+            "latitude": "-26.85",
+            "longitude": "-55.53333"
+        },
+        {
+            "city": "Pilar",
+            "region": "13",
+            "country": "PY",
+            "latitude": "-26.86879",
+            "longitude": "-58.29346"
+        },
+        {
+            "city": "Paraguar\u00ed",
+            "region": "15",
+            "country": "PY",
+            "latitude": "-25.63333",
+            "longitude": "-57.15"
+        },
+        {
+            "city": "Obligado",
+            "region": "11",
+            "country": "PY",
+            "latitude": "-27.03333",
+            "longitude": "-55.63333"
+        },
+        {
+            "city": "Nueva Italia",
+            "region": "06",
+            "country": "PY",
+            "latitude": "-25.61667",
+            "longitude": "-57.5"
+        },
+        {
+            "city": "Nueva Germania",
+            "region": "17",
+            "country": "PY",
+            "latitude": "-23.9",
+            "longitude": "-56.56667"
+        },
+        {
+            "city": "Nemby",
+            "region": "06",
+            "country": "PY",
+            "latitude": "-25.36667",
+            "longitude": "-57.6"
+        },
+        {
+            "city": "Natalio",
+            "region": "11",
+            "country": "PY",
+            "latitude": "-26.71667",
+            "longitude": "-55.08333"
+        },
+        {
+            "city": "Natalicio Talavera",
+            "region": "10",
+            "country": "PY",
+            "latitude": "-25.63333",
+            "longitude": "-56.3"
+        },
+        {
+            "city": "Naranjal",
+            "region": "01",
+            "country": "PY",
+            "latitude": "-25.96667",
+            "longitude": "-55.18333"
+        },
+        {
+            "city": "Nanawa",
+            "region": "16",
+            "country": "PY",
+            "latitude": "-25.26667",
+            "longitude": "-57.66667"
+        },
+        {
+            "city": "Mbuyapey",
+            "region": "15",
+            "country": "PY",
+            "latitude": "-26.2",
+            "longitude": "-56.75"
+        },
+        {
+            "city": "Mbutuy",
+            "region": "04",
+            "country": "PY",
+            "latitude": "-24.96667",
+            "longitude": "-56.3"
+        },
+        {
+            "city": "Mbocayaty",
+            "region": "10",
+            "country": "PY",
+            "latitude": "-25.7",
+            "longitude": "-56.4"
+        },
+        {
+            "city": "Los Cedrales",
+            "region": "01",
+            "country": "PY",
+            "latitude": "-25.65",
+            "longitude": "-54.7"
+        },
+        {
+            "city": "Limpio",
+            "region": "06",
+            "country": "PY",
+            "latitude": "-25.18333",
+            "longitude": "-57.53333"
+        },
+        {
+            "city": "Las Palomas",
+            "region": "19",
+            "country": "PY",
+            "latitude": "-24.08333",
+            "longitude": "-54.51667"
+        },
+        {
+            "city": "Lambar\u00e9",
+            "region": "06",
+            "country": "PY",
+            "latitude": "-25.35",
+            "longitude": "-57.65"
+        },
+        {
+            "city": "La Colmena",
+            "region": "15",
+            "country": "PY",
+            "latitude": "-25.88333",
+            "longitude": "-56.81667"
+        },
+        {
+            "city": "Jes\u00fas",
+            "region": "11",
+            "country": "PY",
+            "latitude": "-27.05",
+            "longitude": "-55.78333"
+        },
+        {
+            "city": "Iturbe",
+            "region": "10",
+            "country": "PY",
+            "latitude": "-26.05",
+            "longitude": "-56.48333"
+        },
+        {
+            "city": "Itaugu\u00e1",
+            "region": "06",
+            "country": "PY",
+            "latitude": "-25.38333",
+            "longitude": "-57.33333"
+        },
+        {
+            "city": "Itaquyry",
+            "region": "01",
+            "country": "PY",
+            "latitude": "-24.93333",
+            "longitude": "-55.21667"
+        },
+        {
+            "city": "Itap\u00e9",
+            "region": "10",
+            "country": "PY",
+            "latitude": "-25.85",
+            "longitude": "-56.61667"
+        },
+        {
+            "city": "Itacurub\u00ed del Rosario",
+            "region": "17",
+            "country": "PY",
+            "latitude": "-24.5",
+            "longitude": "-56.68333"
+        },
+        {
+            "city": "Itacurub\u00ed de la Cordillera",
+            "region": "08",
+            "country": "PY",
+            "latitude": "-25.45",
+            "longitude": "-56.85"
+        },
+        {
+            "city": "It\u00e1",
+            "region": "06",
+            "country": "PY",
+            "latitude": "-25.48333",
+            "longitude": "-57.35"
+        },
+        {
+            "city": "Isla Puc\u00fa",
+            "region": "08",
+            "country": "PY",
+            "latitude": "-25.3",
+            "longitude": "-56.9"
+        },
+        {
+            "city": "Independencia",
+            "region": "10",
+            "country": "PY",
+            "latitude": "-25.71667",
+            "longitude": "-56.25"
+        },
+        {
+            "city": "Hohenau",
+            "region": "11",
+            "country": "PY",
+            "latitude": "-27.08333",
+            "longitude": "-55.75"
+        },
+        {
+            "city": "Guayaybi",
+            "region": "17",
+            "country": "PY",
+            "latitude": "-24.53333",
+            "longitude": "-56.43333"
+        },
+        {
+            "city": "Guarambar\u00e9",
+            "region": "06",
+            "country": "PY",
+            "latitude": "-25.48333",
+            "longitude": "-57.46667"
+        },
+        {
+            "city": "General Jos\u00e9 Eduvigis D\u00edaz",
+            "region": "13",
+            "country": "PY",
+            "latitude": "-27.16667",
+            "longitude": "-58.41667"
+        },
+        {
+            "city": "General Higinio Mor\u00ednigo",
+            "region": "05",
+            "country": "PY",
+            "latitude": "-25.95",
+            "longitude": "-55.91667"
+        },
+        {
+            "city": "General Elizardo Aquino",
+            "region": "17",
+            "country": "PY",
+            "latitude": "-24.43333",
+            "longitude": "-56.7"
+        },
+        {
+            "city": "General Delgado",
+            "region": "11",
+            "country": "PY",
+            "latitude": "-27.16667",
+            "longitude": "-56.51667"
+        },
+        {
+            "city": "General Artigas",
+            "region": "11",
+            "country": "PY",
+            "latitude": "-26.93333",
+            "longitude": "-56.21667"
+        },
+        {
+            "city": "Fuerte Olimpo",
+            "region": "24",
+            "country": "PY",
+            "latitude": "-21.04153",
+            "longitude": "-57.87377"
+        },
+        {
+            "city": "Fram",
+            "region": "11",
+            "country": "PY",
+            "latitude": "-26.98333",
+            "longitude": "-55.88333"
+        },
+        {
+            "city": "Fernando de la Mora",
+            "region": "06",
+            "country": "PY",
+            "latitude": "-25.31667",
+            "longitude": "-57.6"
+        },
+        {
+            "city": "Eusebio Ayala",
+            "region": "08",
+            "country": "PY",
+            "latitude": "-25.4",
+            "longitude": "-56.96667"
+        },
+        {
+            "city": "Encarnaci\u00f3n",
+            "region": "11",
+            "country": "PY",
+            "latitude": "-27.33333",
+            "longitude": "-55.9"
+        },
+        {
+            "city": "Emboscada",
+            "region": "08",
+            "country": "PY",
+            "latitude": "-25.15",
+            "longitude": "-57.35"
+        },
+        {
+            "city": "Edelira",
+            "region": "11",
+            "country": "PY",
+            "latitude": "-26.75",
+            "longitude": "-55.26667"
+        },
+        {
+            "city": "Doctor Juan Manuel Frutos",
+            "region": "04",
+            "country": "PY",
+            "latitude": "-25.36667",
+            "longitude": "-55.8"
+        },
+        {
+            "city": "Doctor Juan Le\u00f3n Mallorqu\u00edn",
+            "region": "01",
+            "country": "PY",
+            "latitude": "-25.4",
+            "longitude": "-55.26667"
+        },
+        {
+            "city": "Doctor Cecilio B\u00e1ez",
+            "region": "04",
+            "country": "PY",
+            "latitude": "-25.05",
+            "longitude": "-56.31667"
+        },
+        {
+            "city": "Corpus Christi",
+            "region": "19",
+            "country": "PY",
+            "latitude": "-24.03333",
+            "longitude": "-54.83333"
+        },
+        {
+            "city": "Coronel Oviedo",
+            "region": "04",
+            "country": "PY",
+            "latitude": "-25.41667",
+            "longitude": "-56.45"
+        },
+        {
+            "city": "Coronel Mart\u00ednez",
+            "region": "10",
+            "country": "PY",
+            "latitude": "-25.75",
+            "longitude": "-56.61667"
+        },
+        {
+            "city": "Concepci\u00f3n",
+            "region": "07",
+            "country": "PY",
+            "latitude": "-23.40639",
+            "longitude": "-57.43444"
+        },
+        {
+            "city": "Colonia Yguaz\u00fa",
+            "region": "01",
+            "country": "PY",
+            "latitude": "-25.45",
+            "longitude": "-55"
+        },
+        {
+            "city": "Colonia Minga Por\u00e1",
+            "region": "01",
+            "country": "PY",
+            "latitude": "-24.86667",
+            "longitude": "-54.9"
+        },
+        {
+            "city": "Colonia Menno",
+            "region": "24",
+            "country": "PY",
+            "latitude": "-22.36667",
+            "longitude": "-59.81667"
+        },
+        {
+            "city": "Colonia Mauricio Jos\u00e9 Troche",
+            "region": "10",
+            "country": "PY",
+            "latitude": "-25.56667",
+            "longitude": "-56.28333"
+        },
+        {
+            "city": "Colonia Mariano Roque Alonso",
+            "region": "06",
+            "country": "PY",
+            "latitude": "-25.16667",
+            "longitude": "-57.55"
+        },
+        {
+            "city": "Colonia General Alfredo Stroessner",
+            "region": "04",
+            "country": "PY",
+            "latitude": "-25.36667",
+            "longitude": "-55.7"
+        },
+        {
+            "city": "Colonia Catuete",
+            "region": "19",
+            "country": "PY",
+            "latitude": "-24.13333",
+            "longitude": "-54.61667"
+        },
+        {
+            "city": "Cerrito",
+            "region": "13",
+            "country": "PY",
+            "latitude": "-27.31667",
+            "longitude": "-57.66667"
+        },
+        {
+            "city": "Carmen del Paran\u00e1",
+            "region": "11",
+            "country": "PY",
+            "latitude": "-27.23333",
+            "longitude": "-56.21667"
+        },
+        {
+            "city": "Carlos Antonio L\u00f3pez",
+            "region": "11",
+            "country": "PY",
+            "latitude": "-26.4",
+            "longitude": "-54.76667"
+        },
+        {
+            "city": "Caraya\u00f3",
+            "region": "04",
+            "country": "PY",
+            "latitude": "-25.18333",
+            "longitude": "-56.4"
+        },
+        {
+            "city": "Carapegu\u00e1",
+            "region": "15",
+            "country": "PY",
+            "latitude": "-25.8",
+            "longitude": "-57.23333"
+        },
+        {
+            "city": "Caraguatay",
+            "region": "08",
+            "country": "PY",
+            "latitude": "-25.23333",
+            "longitude": "-56.81667"
+        },
+        {
+            "city": "Capit\u00e1n Miranda",
+            "region": "11",
+            "country": "PY",
+            "latitude": "-27.2",
+            "longitude": "-55.8"
+        },
+        {
+            "city": "Capit\u00e1n Bado",
+            "region": "02",
+            "country": "PY",
+            "latitude": "-23.26667",
+            "longitude": "-55.53333"
+        },
+        {
+            "city": "Capi\u00edbary",
+            "region": "17",
+            "country": "PY",
+            "latitude": "-24.8",
+            "longitude": "-56.03333"
+        },
+        {
+            "city": "Capiat\u00e1",
+            "region": "06",
+            "country": "PY",
+            "latitude": "-25.35",
+            "longitude": "-57.41667"
+        },
+        {
+            "city": "Caapuc\u00fa",
+            "region": "15",
+            "country": "PY",
+            "latitude": "-26.21667",
+            "longitude": "-57.2"
+        },
+        {
+            "city": "Caaguaz\u00fa",
+            "region": "04",
+            "country": "PY",
+            "latitude": "-25.45",
+            "longitude": "-56.01667"
+        },
+        {
+            "city": "Caacup\u00e9",
+            "region": "08",
+            "country": "PY",
+            "latitude": "-25.38333",
+            "longitude": "-57.15"
+        },
+        {
+            "city": "Buena Vista",
+            "region": "05",
+            "country": "PY",
+            "latitude": "-26.18333",
+            "longitude": "-56.08333"
+        },
+        {
+            "city": "Benjam\u00edn Aceval",
+            "region": "16",
+            "country": "PY",
+            "latitude": "-24.96667",
+            "longitude": "-57.56667"
+        },
+        {
+            "city": "Bella Vista",
+            "region": "11",
+            "country": "PY",
+            "latitude": "-27.05",
+            "longitude": "-55.55"
+        },
+        {
+            "city": "Bella Vista",
+            "region": "02",
+            "country": "PY",
+            "latitude": "-22.13333",
+            "longitude": "-56.51667"
+        },
+        {
+            "city": "Bel\u00e9n",
+            "region": "07",
+            "country": "PY",
+            "latitude": "-23.46611",
+            "longitude": "-57.26194"
+        },
+        {
+            "city": "Ayolas",
+            "region": "12",
+            "country": "PY",
+            "latitude": "-27.4",
+            "longitude": "-56.9"
+        },
+        {
+            "city": "Atyr\u00e1",
+            "region": "08",
+            "country": "PY",
+            "latitude": "-25.25",
+            "longitude": "-57.16667"
+        },
+        {
+            "city": "Asunci\u00f3n",
+            "region": "22",
+            "country": "PY",
+            "latitude": "-25.30066",
+            "longitude": "-57.63591"
+        },
+        {
+            "city": "Arroyos y Esteros",
+            "region": "08",
+            "country": "PY",
+            "latitude": "-25.06667",
+            "longitude": "-57.1"
+        },
+        {
+            "city": "Arquitecto Tom\u00e1s Romero Pereira",
+            "region": "11",
+            "country": "PY",
+            "latitude": "-26.48333",
+            "longitude": "-55.25"
+        },
+        {
+            "city": "Aregu\u00e1",
+            "region": "06",
+            "country": "PY",
+            "latitude": "-25.3",
+            "longitude": "-57.41667"
+        },
+        {
+            "city": "Antequera",
+            "region": "17",
+            "country": "PY",
+            "latitude": "-24.13333",
+            "longitude": "-57.08333"
+        },
+        {
+            "city": "Altos",
+            "region": "08",
+            "country": "PY",
+            "latitude": "-25.23333",
+            "longitude": "-57.25"
+        },
+        {
+            "city": "Acahay",
+            "region": "15",
+            "country": "PY",
+            "latitude": "-25.91667",
+            "longitude": "-57.15"
+        },
+        {
+            "city": "Aba\u00ed",
+            "region": "05",
+            "country": "PY",
+            "latitude": "-26.03333",
+            "longitude": "-55.93333"
+        },
+        {
+            "city": "Horqueta",
+            "region": "07",
+            "country": "PY",
+            "latitude": "-23.34278",
+            "longitude": "-57.05972"
+        },
+        {
+            "city": "Filadelfia",
+            "region": "24",
+            "country": "PY",
+            "latitude": "-22.35",
+            "longitude": "-60.03333"
+        },
+        {
+            "city": "Colonia Neuland",
+            "region": "24",
+            "country": "PY",
+            "latitude": "-22.66667",
+            "longitude": "-60.11667"
+        },
+        {
+            "city": "Capit\u00e1n Pablo Lagerenza",
+            "region": "23",
+            "country": "PY",
+            "latitude": "-19.91667",
+            "longitude": "-60.78333"
+        }
+    ]
+}

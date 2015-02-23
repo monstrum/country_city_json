@@ -1,0 +1,2183 @@
+{
+    "country": "Armenia",
+    "code": "AM",
+    "cities": [
+        {
+            "city": "Zarrit\u2019ap\u2019",
+            "region": "10",
+            "country": "AM",
+            "latitude": "39.63732",
+            "longitude": "45.51162"
+        },
+        {
+            "city": "Zangakatun",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.8212",
+            "longitude": "45.04063"
+        },
+        {
+            "city": "Yenikend",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.90611",
+            "longitude": "44.73171"
+        },
+        {
+            "city": "Yeghegnavan",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.83799",
+            "longitude": "44.62531"
+        },
+        {
+            "city": "Yeghegnadzor",
+            "region": "10",
+            "country": "AM",
+            "latitude": "39.76389",
+            "longitude": "45.33239"
+        },
+        {
+            "city": "Vostan",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.96515",
+            "longitude": "44.55937"
+        },
+        {
+            "city": "Vosketap\u2019",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.88114",
+            "longitude": "44.64917"
+        },
+        {
+            "city": "Vernashen",
+            "region": "10",
+            "country": "AM",
+            "latitude": "39.79236",
+            "longitude": "45.36389"
+        },
+        {
+            "city": "Verishen",
+            "region": "08",
+            "country": "AM",
+            "latitude": "39.53557",
+            "longitude": "46.31221"
+        },
+        {
+            "city": "Vedi",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.91421",
+            "longitude": "44.72217"
+        },
+        {
+            "city": "Vayk\u2019",
+            "region": "10",
+            "country": "AM",
+            "latitude": "39.691",
+            "longitude": "45.46653"
+        },
+        {
+            "city": "Tegh",
+            "region": "08",
+            "country": "AM",
+            "latitude": "39.55792",
+            "longitude": "46.47723"
+        },
+        {
+            "city": "Surenavan",
+            "region": "10",
+            "country": "AM",
+            "latitude": "39.75",
+            "longitude": "44.8"
+        },
+        {
+            "city": "Sisavan",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.9",
+            "longitude": "44.66667"
+        },
+        {
+            "city": "Shinuhayr",
+            "region": "08",
+            "country": "AM",
+            "latitude": "39.4367",
+            "longitude": "46.31787"
+        },
+        {
+            "city": "Shahumyan",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.93845",
+            "longitude": "44.56973"
+        },
+        {
+            "city": "Shatin",
+            "region": "10",
+            "country": "AM",
+            "latitude": "39.83568",
+            "longitude": "45.30186"
+        },
+        {
+            "city": "Shaghat",
+            "region": "08",
+            "country": "AM",
+            "latitude": "39.56253",
+            "longitude": "45.91433"
+        },
+        {
+            "city": "Rrind",
+            "region": "10",
+            "country": "AM",
+            "latitude": "39.76022",
+            "longitude": "45.17907"
+        },
+        {
+            "city": "Noyakert",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.8312",
+            "longitude": "44.66899"
+        },
+        {
+            "city": "Mrgavan",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.97167",
+            "longitude": "44.53318"
+        },
+        {
+            "city": "Meghri",
+            "region": "08",
+            "country": "AM",
+            "latitude": "38.90292",
+            "longitude": "46.24458"
+        },
+        {
+            "city": "Malishka",
+            "region": "10",
+            "country": "AM",
+            "latitude": "39.73758",
+            "longitude": "45.39004"
+        },
+        {
+            "city": "Khndzoresk",
+            "region": "08",
+            "country": "AM",
+            "latitude": "39.51224",
+            "longitude": "46.43284"
+        },
+        {
+            "city": "Kapan",
+            "region": "08",
+            "country": "AM",
+            "latitude": "39.20754",
+            "longitude": "46.40576"
+        },
+        {
+            "city": "Jermuk",
+            "region": "10",
+            "country": "AM",
+            "latitude": "39.84173",
+            "longitude": "45.6723"
+        },
+        {
+            "city": "Goris",
+            "region": "08",
+            "country": "AM",
+            "latitude": "39.51288",
+            "longitude": "46.33816"
+        },
+        {
+            "city": "Gladzor",
+            "region": "10",
+            "country": "AM",
+            "latitude": "39.78123",
+            "longitude": "45.35043"
+        },
+        {
+            "city": "Getap\u2019",
+            "region": "10",
+            "country": "AM",
+            "latitude": "39.76306",
+            "longitude": "45.30664"
+        },
+        {
+            "city": "Dzorastan",
+            "region": "08",
+            "country": "AM",
+            "latitude": "39.27059",
+            "longitude": "46.3572"
+        },
+        {
+            "city": "Dalar",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.97653",
+            "longitude": "44.52649"
+        },
+        {
+            "city": "Burastan",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.98333",
+            "longitude": "44.5"
+        },
+        {
+            "city": "Brun",
+            "region": "08",
+            "country": "AM",
+            "latitude": "39.53491",
+            "longitude": "46.30732"
+        },
+        {
+            "city": "Brrnakot\u2019",
+            "region": "08",
+            "country": "AM",
+            "latitude": "39.49742",
+            "longitude": "45.97241"
+        },
+        {
+            "city": "Berkanush",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.97726",
+            "longitude": "44.51394"
+        },
+        {
+            "city": "Aygezard",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.95436",
+            "longitude": "44.6023"
+        },
+        {
+            "city": "Aygepat",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.95845",
+            "longitude": "44.59982"
+        },
+        {
+            "city": "Aygavan",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.87326",
+            "longitude": "44.66984"
+        },
+        {
+            "city": "Avshar",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.8536",
+            "longitude": "44.6793"
+        },
+        {
+            "city": "Hats\u2019avan",
+            "region": "08",
+            "country": "AM",
+            "latitude": "39.46405",
+            "longitude": "45.97047"
+        },
+        {
+            "city": "Artashat",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.96144",
+            "longitude": "44.54447"
+        },
+        {
+            "city": "Yeghegis",
+            "region": "10",
+            "country": "AM",
+            "latitude": "39.87181",
+            "longitude": "45.36002"
+        },
+        {
+            "city": "Armash",
+            "region": "10",
+            "country": "AM",
+            "latitude": "39.76532",
+            "longitude": "44.80902"
+        },
+        {
+            "city": "Areni",
+            "region": "10",
+            "country": "AM",
+            "latitude": "39.71913",
+            "longitude": "45.17991"
+        },
+        {
+            "city": "Ararat",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.83166",
+            "longitude": "44.70489"
+        },
+        {
+            "city": "Angeghakot\u2019",
+            "region": "08",
+            "country": "AM",
+            "latitude": "39.57017",
+            "longitude": "45.94123"
+        },
+        {
+            "city": "Aghavnadzor",
+            "region": "10",
+            "country": "AM",
+            "latitude": "39.78222",
+            "longitude": "45.22753"
+        },
+        {
+            "city": "Agarakadzor",
+            "region": "10",
+            "country": "AM",
+            "latitude": "39.73405",
+            "longitude": "45.35274"
+        },
+        {
+            "city": "Agarak",
+            "region": "08",
+            "country": "AM",
+            "latitude": "39.20684",
+            "longitude": "46.5446"
+        },
+        {
+            "city": "Aralek",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.90195",
+            "longitude": "44.6514"
+        },
+        {
+            "city": "Horrom",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.66012",
+            "longitude": "43.88819"
+        },
+        {
+            "city": "Margara",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.03351",
+            "longitude": "44.17709"
+        },
+        {
+            "city": "Zovuni",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.51083",
+            "longitude": "44.42889"
+        },
+        {
+            "city": "Zovaber",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.56693",
+            "longitude": "44.78827"
+        },
+        {
+            "city": "Zorak",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.09109",
+            "longitude": "44.39209"
+        },
+        {
+            "city": "Zarr",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.2595",
+            "longitude": "44.73086"
+        },
+        {
+            "city": "Yerevan",
+            "region": "11",
+            "country": "AM",
+            "latitude": "40.18111",
+            "longitude": "44.51361"
+        },
+        {
+            "city": "Yerazgavors",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.7",
+            "longitude": "43.75"
+        },
+        {
+            "city": "Yeraskhahun",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.07167",
+            "longitude": "44.21619"
+        },
+        {
+            "city": "Yeranos",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.20428",
+            "longitude": "45.19209"
+        },
+        {
+            "city": "Yeghegnut",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.90302",
+            "longitude": "44.63155"
+        },
+        {
+            "city": "Yeghegnut",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.09186",
+            "longitude": "44.16018"
+        },
+        {
+            "city": "Ejmiatsin",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.16557",
+            "longitude": "44.29462"
+        },
+        {
+            "city": "Yeghvard",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.32053",
+            "longitude": "44.48138"
+        },
+        {
+            "city": "Voskevaz",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.27678",
+            "longitude": "44.29509"
+        },
+        {
+            "city": "Voskevan",
+            "region": "09",
+            "country": "AM",
+            "latitude": "41.12022",
+            "longitude": "45.06532"
+        },
+        {
+            "city": "Voskehask",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.76426",
+            "longitude": "43.77474"
+        },
+        {
+            "city": "Verin Getashen",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.13328",
+            "longitude": "45.25068"
+        },
+        {
+            "city": "Verin Dvin",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.02434",
+            "longitude": "44.59038"
+        },
+        {
+            "city": "Verin Artashat",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.99046",
+            "longitude": "44.58546"
+        },
+        {
+            "city": "Verin Akhtala",
+            "region": "06",
+            "country": "AM",
+            "latitude": "41.16838",
+            "longitude": "44.75811"
+        },
+        {
+            "city": "Varser",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.5534",
+            "longitude": "44.9069"
+        },
+        {
+            "city": "Vardenis",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.18272",
+            "longitude": "45.7311"
+        },
+        {
+            "city": "Vardenik",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.13928",
+            "longitude": "45.43342"
+        },
+        {
+            "city": "Vahan",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.57549",
+            "longitude": "45.39769"
+        },
+        {
+            "city": "Vaghashen",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.13578",
+            "longitude": "45.32879"
+        },
+        {
+            "city": "Vahagni",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.90698",
+            "longitude": "44.60873"
+        },
+        {
+            "city": "Ushi",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.34869",
+            "longitude": "44.37252"
+        },
+        {
+            "city": "Urrut",
+            "region": "06",
+            "country": "AM",
+            "latitude": "41.06778",
+            "longitude": "44.39628"
+        },
+        {
+            "city": "Tsovinar",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.15701",
+            "longitude": "45.46132"
+        },
+        {
+            "city": "Tsovazard",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.4709",
+            "longitude": "45.05879"
+        },
+        {
+            "city": "Tsovak",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.18254",
+            "longitude": "45.63286"
+        },
+        {
+            "city": "Tsovagyugh",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.63029",
+            "longitude": "44.95738"
+        },
+        {
+            "city": "Tsaghkunk\u2019",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.18075",
+            "longitude": "44.27026"
+        },
+        {
+            "city": "Tsaghkahovit",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.63428",
+            "longitude": "44.22241"
+        },
+        {
+            "city": "Tsaghkaber",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.79849",
+            "longitude": "44.10144"
+        },
+        {
+            "city": "Tsaghkadzor",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.53259",
+            "longitude": "44.72025"
+        },
+        {
+            "city": "T\u2019azagyugh",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.1382",
+            "longitude": "45.19096"
+        },
+        {
+            "city": "Tashir",
+            "region": "06",
+            "country": "AM",
+            "latitude": "41.12072",
+            "longitude": "44.28462"
+        },
+        {
+            "city": "Tandzut",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.07015",
+            "longitude": "44.07476"
+        },
+        {
+            "city": "T\u2019alin",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.38428",
+            "longitude": "43.87387"
+        },
+        {
+            "city": "Spitak",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.8322",
+            "longitude": "44.2673"
+        },
+        {
+            "city": "Spandaryan",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.66105",
+            "longitude": "44.01551"
+        },
+        {
+            "city": "Sovetakan",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.10712",
+            "longitude": "44.05108"
+        },
+        {
+            "city": "Solak",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.46439",
+            "longitude": "44.70796"
+        },
+        {
+            "city": "Sis",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.06023",
+            "longitude": "44.38649"
+        },
+        {
+            "city": "Shnogh",
+            "region": "06",
+            "country": "AM",
+            "latitude": "41.14693",
+            "longitude": "44.84043"
+        },
+        {
+            "city": "Shirak",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.84042",
+            "longitude": "43.91582"
+        },
+        {
+            "city": "Shenavan",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.48296",
+            "longitude": "44.383"
+        },
+        {
+            "city": "Shenavan",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.05486",
+            "longitude": "43.92876"
+        },
+        {
+            "city": "Sevan",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.5484",
+            "longitude": "44.94868"
+        },
+        {
+            "city": "Sarukhan",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.29053",
+            "longitude": "45.13059"
+        },
+        {
+            "city": "Sarigyugh",
+            "region": "09",
+            "country": "AM",
+            "latitude": "41.03531",
+            "longitude": "45.14486"
+        },
+        {
+            "city": "Saratak",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.66992",
+            "longitude": "43.86915"
+        },
+        {
+            "city": "Saramech",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.77487",
+            "longitude": "44.2222"
+        },
+        {
+            "city": "Sarahart\u2019",
+            "region": "00",
+            "country": "AM",
+            "latitude": "40.87043",
+            "longitude": "44.21407"
+        },
+        {
+            "city": "Samaghar",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.18516",
+            "longitude": "44.24331"
+        },
+        {
+            "city": "Ptghni",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.25576",
+            "longitude": "44.58407"
+        },
+        {
+            "city": "Ptghunk\u2019",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.16505",
+            "longitude": "44.36328"
+        },
+        {
+            "city": "Pshatavan",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.03865",
+            "longitude": "44.06629"
+        },
+        {
+            "city": "Prroshyan",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.24853",
+            "longitude": "44.41631"
+        },
+        {
+            "city": "Pokr Mantash",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.64026",
+            "longitude": "44.04666"
+        },
+        {
+            "city": "Zoravan",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.35326",
+            "longitude": "44.52319"
+        },
+        {
+            "city": "Pemzashen",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.5851",
+            "longitude": "43.94021"
+        },
+        {
+            "city": "Parravak\u2019ar",
+            "region": "00",
+            "country": "AM",
+            "latitude": "40.98154",
+            "longitude": "45.367"
+        },
+        {
+            "city": "Oshakan",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.2646",
+            "longitude": "44.31456"
+        },
+        {
+            "city": "Hoktember",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.13206",
+            "longitude": "44.00969"
+        },
+        {
+            "city": "Odzun",
+            "region": "06",
+            "country": "AM",
+            "latitude": "41.05321",
+            "longitude": "44.61341"
+        },
+        {
+            "city": "Noyemberyan",
+            "region": "09",
+            "country": "AM",
+            "latitude": "41.17244",
+            "longitude": "44.99917"
+        },
+        {
+            "city": "Nor Gyugh",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.2673",
+            "longitude": "44.6563"
+        },
+        {
+            "city": "Nor Geghi",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.32105",
+            "longitude": "44.58027"
+        },
+        {
+            "city": "Norashen",
+            "region": "06",
+            "country": "AM",
+            "latitude": "41.18886",
+            "longitude": "44.33336"
+        },
+        {
+            "city": "Norashen",
+            "region": "02",
+            "country": "AM",
+            "latitude": "39.9996",
+            "longitude": "44.58952"
+        },
+        {
+            "city": "Nor Armavir",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.08563",
+            "longitude": "43.99242"
+        },
+        {
+            "city": "Noramarg",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.02384",
+            "longitude": "44.42403"
+        },
+        {
+            "city": "Norakert",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.19229",
+            "longitude": "44.34774"
+        },
+        {
+            "city": "Noratus",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.37547",
+            "longitude": "45.17718"
+        },
+        {
+            "city": "Nerk\u2019in Getashen",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.14046",
+            "longitude": "45.279"
+        },
+        {
+            "city": "Navur",
+            "region": "09",
+            "country": "AM",
+            "latitude": "40.86694",
+            "longitude": "45.34179"
+        },
+        {
+            "city": "Nalbandyan",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.06236",
+            "longitude": "43.9869"
+        },
+        {
+            "city": "Musayelyan",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.75767",
+            "longitude": "43.99274"
+        },
+        {
+            "city": "Hovtamej",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.18347",
+            "longitude": "44.25862"
+        },
+        {
+            "city": "Mrgashen",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.28523",
+            "longitude": "44.54107"
+        },
+        {
+            "city": "Mrgashat",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.12462",
+            "longitude": "44.06584"
+        },
+        {
+            "city": "Mrganush",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.02857",
+            "longitude": "44.55831"
+        },
+        {
+            "city": "Mosesgegh",
+            "region": "09",
+            "country": "AM",
+            "latitude": "40.90571",
+            "longitude": "45.48637"
+        },
+        {
+            "city": "Mets Parni",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.83335",
+            "longitude": "44.11042"
+        },
+        {
+            "city": "Mets Masrik",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.21825",
+            "longitude": "45.76809"
+        },
+        {
+            "city": "Mets Mant\u2019ash",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.64376",
+            "longitude": "44.05653"
+        },
+        {
+            "city": "Metsavan",
+            "region": "06",
+            "country": "AM",
+            "latitude": "41.20156",
+            "longitude": "44.22877"
+        },
+        {
+            "city": "Metsamor",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.07302",
+            "longitude": "44.28962"
+        },
+        {
+            "city": "Mertsavan",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.1814",
+            "longitude": "44.40032"
+        },
+        {
+            "city": "Meghrashen",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.67259",
+            "longitude": "43.95783"
+        },
+        {
+            "city": "Meghradzor",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.60611",
+            "longitude": "44.65147"
+        },
+        {
+            "city": "Mayakovski",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.25196",
+            "longitude": "44.63928"
+        },
+        {
+            "city": "Masis",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.06762",
+            "longitude": "44.43591"
+        },
+        {
+            "city": "Martuni",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.13768",
+            "longitude": "45.3045"
+        },
+        {
+            "city": "Marmarashen",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.05734",
+            "longitude": "44.47012"
+        },
+        {
+            "city": "Marmashen",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.83486",
+            "longitude": "43.7779"
+        },
+        {
+            "city": "Margahovit",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.73381",
+            "longitude": "44.68474"
+        },
+        {
+            "city": "Maralik",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.57453",
+            "longitude": "43.86862"
+        },
+        {
+            "city": "Mayisyan",
+            "region": "00",
+            "country": "AM",
+            "latitude": "40.84715",
+            "longitude": "43.83938"
+        },
+        {
+            "city": "Madina",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.07638",
+            "longitude": "45.25507"
+        },
+        {
+            "city": "Lukashin",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.17583",
+            "longitude": "44.01861"
+        },
+        {
+            "city": "Lorut",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.93717",
+            "longitude": "44.77142"
+        },
+        {
+            "city": "Lichk\u2019",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.15933",
+            "longitude": "45.23467"
+        },
+        {
+            "city": "Lernavan",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.7882",
+            "longitude": "44.16024"
+        },
+        {
+            "city": "Lerrnapat",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.81538",
+            "longitude": "44.39344"
+        },
+        {
+            "city": "Spitak",
+            "region": "00",
+            "country": "AM",
+            "latitude": "40.79532",
+            "longitude": "44.27435"
+        },
+        {
+            "city": "Lerrnanist",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.46676",
+            "longitude": "44.79249"
+        },
+        {
+            "city": "Lerrnakert",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.56118",
+            "longitude": "43.93851"
+        },
+        {
+            "city": "Khoronk\u2019",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.13507",
+            "longitude": "44.24541"
+        },
+        {
+            "city": "Lchashen",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.51757",
+            "longitude": "44.9319"
+        },
+        {
+            "city": "Lchap\u2019",
+            "region": "00",
+            "country": "AM",
+            "latitude": "40.45462",
+            "longitude": "45.0728"
+        },
+        {
+            "city": "Lanjaghbyur",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.27146",
+            "longitude": "45.14038"
+        },
+        {
+            "city": "Kotayk\u2019",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.27534",
+            "longitude": "44.66036"
+        },
+        {
+            "city": "Kosh",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.29999",
+            "longitude": "44.15584"
+        },
+        {
+            "city": "Vanadzor",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.80456",
+            "longitude": "44.4939"
+        },
+        {
+            "city": "Hnaberd",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.63721",
+            "longitude": "44.14058"
+        },
+        {
+            "city": "Khasht\u2019arrak",
+            "region": "09",
+            "country": "AM",
+            "latitude": "40.93668",
+            "longitude": "45.1821"
+        },
+        {
+            "city": "Kasakh",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.53697",
+            "longitude": "44.41046"
+        },
+        {
+            "city": "Karchaghbyur",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.17048",
+            "longitude": "45.57785"
+        },
+        {
+            "city": "Karbi",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.33236",
+            "longitude": "44.37665"
+        },
+        {
+            "city": "Karanlukh",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.10444",
+            "longitude": "45.28972"
+        },
+        {
+            "city": "Kaputan",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.32407",
+            "longitude": "44.69693"
+        },
+        {
+            "city": "K\u2019anak\u2019erravan",
+            "region": "11",
+            "country": "AM",
+            "latitude": "40.24739",
+            "longitude": "44.53511"
+        },
+        {
+            "city": "Kamo",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.82572",
+            "longitude": "43.95071"
+        },
+        {
+            "city": "Gavarr",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.35398",
+            "longitude": "45.12386"
+        },
+        {
+            "city": "Zhdanov",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.15701",
+            "longitude": "44.09192"
+        },
+        {
+            "city": "Shahumyan",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.77482",
+            "longitude": "44.54596"
+        },
+        {
+            "city": "Ijevan",
+            "region": "09",
+            "country": "AM",
+            "latitude": "40.87832",
+            "longitude": "45.14922"
+        },
+        {
+            "city": "Hrazdan",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.49748",
+            "longitude": "44.7662"
+        },
+        {
+            "city": "Armavir",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.15446",
+            "longitude": "44.03815"
+        },
+        {
+            "city": "Hayanist",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.12166",
+            "longitude": "44.37523"
+        },
+        {
+            "city": "Haghartsin",
+            "region": "09",
+            "country": "AM",
+            "latitude": "40.77614",
+            "longitude": "44.96847"
+        },
+        {
+            "city": "Gyumri",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.7942",
+            "longitude": "43.84528"
+        },
+        {
+            "city": "Gyulagarak",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.96715",
+            "longitude": "44.47144"
+        },
+        {
+            "city": "Ghukasavan",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.12585",
+            "longitude": "44.41594"
+        },
+        {
+            "city": "Geghamasar",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.31091",
+            "longitude": "45.67924"
+        },
+        {
+            "city": "Gugark\u2019",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.8046",
+            "longitude": "44.54025"
+        },
+        {
+            "city": "Tsiatsan",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.1869",
+            "longitude": "44.26608"
+        },
+        {
+            "city": "Goght\u2019",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.13495",
+            "longitude": "44.78093"
+        },
+        {
+            "city": "Gogaran",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.89255",
+            "longitude": "44.19915"
+        },
+        {
+            "city": "Getazat",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.03844",
+            "longitude": "44.56369"
+        },
+        {
+            "city": "Getashen",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.04405",
+            "longitude": "43.94203"
+        },
+        {
+            "city": "Geghanist",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.14493",
+            "longitude": "44.43054"
+        },
+        {
+            "city": "Geghamavan",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.5634",
+            "longitude": "44.8879"
+        },
+        {
+            "city": "Garrni",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.11931",
+            "longitude": "44.73442"
+        },
+        {
+            "city": "Gagarin",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.54031",
+            "longitude": "44.86918"
+        },
+        {
+            "city": "Fantan",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.39438",
+            "longitude": "44.68476"
+        },
+        {
+            "city": "Fioletovo",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.72241",
+            "longitude": "44.71769"
+        },
+        {
+            "city": "Dzoraghbyur",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.20412",
+            "longitude": "44.6415"
+        },
+        {
+            "city": "Dzoragyugh",
+            "region": "00",
+            "country": "AM",
+            "latitude": "40.16957",
+            "longitude": "45.18336"
+        },
+        {
+            "city": "Dzit\u2019hank\u2019ov",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.50891",
+            "longitude": "43.82107"
+        },
+        {
+            "city": "Jrashen",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.79028",
+            "longitude": "44.18664"
+        },
+        {
+            "city": "Jrashen",
+            "region": "11",
+            "country": "AM",
+            "latitude": "40.05276",
+            "longitude": "44.51259"
+        },
+        {
+            "city": "Jrahovit",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.04533",
+            "longitude": "44.47372"
+        },
+        {
+            "city": "Janfida",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.04391",
+            "longitude": "44.02334"
+        },
+        {
+            "city": "Dvin",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.01984",
+            "longitude": "44.58376"
+        },
+        {
+            "city": "Dsegh",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.9617",
+            "longitude": "44.65003"
+        },
+        {
+            "city": "Drakhtik",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.56496",
+            "longitude": "45.2367"
+        },
+        {
+            "city": "Doghs",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.22373",
+            "longitude": "44.27171"
+        },
+        {
+            "city": "Dilijan",
+            "region": "09",
+            "country": "AM",
+            "latitude": "40.74103",
+            "longitude": "44.86362"
+        },
+        {
+            "city": "Ddmashen",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.56972",
+            "longitude": "44.81851"
+        },
+        {
+            "city": "Darpas",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.83674",
+            "longitude": "44.42494"
+        },
+        {
+            "city": "Dalarik",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.22664",
+            "longitude": "43.87538"
+        },
+        {
+            "city": "Chochkan",
+            "region": "06",
+            "country": "AM",
+            "latitude": "41.18118",
+            "longitude": "44.83217"
+        },
+        {
+            "city": "Chambarak",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.59655",
+            "longitude": "45.35498"
+        },
+        {
+            "city": "Bjni",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.4559",
+            "longitude": "44.64812"
+        },
+        {
+            "city": "Byureghavan",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.31485",
+            "longitude": "44.59396"
+        },
+        {
+            "city": "Byurakan",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.338",
+            "longitude": "44.27138"
+        },
+        {
+            "city": "Buzhakan",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.45294",
+            "longitude": "44.52105"
+        },
+        {
+            "city": "Berd",
+            "region": "09",
+            "country": "AM",
+            "latitude": "40.88149",
+            "longitude": "45.38985"
+        },
+        {
+            "city": "Bazum",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.86763",
+            "longitude": "44.43978"
+        },
+        {
+            "city": "Byuravan",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.01604",
+            "longitude": "44.51889"
+        },
+        {
+            "city": "Bambakashat",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.10993",
+            "longitude": "44.01608"
+        },
+        {
+            "city": "Balahovit",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.25373",
+            "longitude": "44.60426"
+        },
+        {
+            "city": "Bagratashen",
+            "region": "09",
+            "country": "AM",
+            "latitude": "41.24358",
+            "longitude": "44.81737"
+        },
+        {
+            "city": "Azatan",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.71959",
+            "longitude": "43.82727"
+        },
+        {
+            "city": "Haykavan",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.80312",
+            "longitude": "43.75172"
+        },
+        {
+            "city": "Aygestan",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.00258",
+            "longitude": "44.55905"
+        },
+        {
+            "city": "Aygeshat",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.23571",
+            "longitude": "44.28692"
+        },
+        {
+            "city": "Aygeshat",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.07641",
+            "longitude": "44.05797"
+        },
+        {
+            "city": "Aknalich",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.14315",
+            "longitude": "44.1498"
+        },
+        {
+            "city": "Aygehovit",
+            "region": "09",
+            "country": "AM",
+            "latitude": "40.97951",
+            "longitude": "45.25033"
+        },
+        {
+            "city": "Artimet",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.1508",
+            "longitude": "44.26543"
+        },
+        {
+            "city": "Astghadzor",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.12248",
+            "longitude": "45.35698"
+        },
+        {
+            "city": "Ashtarak",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.2991",
+            "longitude": "44.36204"
+        },
+        {
+            "city": "Ashnak",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.32887",
+            "longitude": "43.91848"
+        },
+        {
+            "city": "Arzni",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.29626",
+            "longitude": "44.59664"
+        },
+        {
+            "city": "Arzakan",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.44997",
+            "longitude": "44.60648"
+        },
+        {
+            "city": "Arteni",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.29848",
+            "longitude": "43.7622"
+        },
+        {
+            "city": "Arshaluys",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.1684",
+            "longitude": "44.21375"
+        },
+        {
+            "city": "Armavir",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.08658",
+            "longitude": "44.05363"
+        },
+        {
+            "city": "Argel",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.37943",
+            "longitude": "44.59828"
+        },
+        {
+            "city": "Argavand",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.15876",
+            "longitude": "44.43916"
+        },
+        {
+            "city": "Argavand",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.06097",
+            "longitude": "44.09474"
+        },
+        {
+            "city": "Arevshat",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.65345",
+            "longitude": "44.04419"
+        },
+        {
+            "city": "Arevshat",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.03963",
+            "longitude": "44.54179"
+        },
+        {
+            "city": "Arevik",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.74226",
+            "longitude": "43.9029"
+        },
+        {
+            "city": "Arevik",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.09945",
+            "longitude": "44.09127"
+        },
+        {
+            "city": "Arevashogh",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.86039",
+            "longitude": "44.27438"
+        },
+        {
+            "city": "Arevashat",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.1425",
+            "longitude": "44.37068"
+        },
+        {
+            "city": "Archis",
+            "region": "09",
+            "country": "AM",
+            "latitude": "41.16351",
+            "longitude": "44.87632"
+        },
+        {
+            "city": "Arbat\u2019",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.13811",
+            "longitude": "44.402"
+        },
+        {
+            "city": "Arazap",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.04195",
+            "longitude": "44.14721"
+        },
+        {
+            "city": "Arrap\u2019i",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.78276",
+            "longitude": "43.80583"
+        },
+        {
+            "city": "Aramus",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.25095",
+            "longitude": "44.66351"
+        },
+        {
+            "city": "Arak\u2019s",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.0544",
+            "longitude": "44.30257"
+        },
+        {
+            "city": "Aragats",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.48887",
+            "longitude": "44.35279"
+        },
+        {
+            "city": "Aparan",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.59323",
+            "longitude": "44.3589"
+        },
+        {
+            "city": "Apaga",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.09666",
+            "longitude": "44.25157"
+        },
+        {
+            "city": "Anushavan",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.65013",
+            "longitude": "43.97756"
+        },
+        {
+            "city": "Amasia",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.95442",
+            "longitude": "43.7872"
+        },
+        {
+            "city": "Alaverdi",
+            "region": "06",
+            "country": "AM",
+            "latitude": "41.09766",
+            "longitude": "44.67316"
+        },
+        {
+            "city": "Akunk\u2019",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.26883",
+            "longitude": "44.68481"
+        },
+        {
+            "city": "Akunk\u2019",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.15886",
+            "longitude": "45.72568"
+        },
+        {
+            "city": "Akhuryan",
+            "region": "07",
+            "country": "AM",
+            "latitude": "40.78003",
+            "longitude": "43.90027"
+        },
+        {
+            "city": "Aghavnatun",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.23238",
+            "longitude": "44.24974"
+        },
+        {
+            "city": "Aghavnadzor",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.58195",
+            "longitude": "44.69581"
+        },
+        {
+            "city": "Agarak",
+            "region": "06",
+            "country": "AM",
+            "latitude": "41.01072",
+            "longitude": "44.46845"
+        },
+        {
+            "city": "Agarak",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.32932",
+            "longitude": "44.07033"
+        },
+        {
+            "city": "Abovyan",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.26741",
+            "longitude": "44.62656"
+        },
+        {
+            "city": "Abovyan",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.04851",
+            "longitude": "44.54742"
+        },
+        {
+            "city": "Vardablur",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.97083",
+            "longitude": "44.50889"
+        },
+        {
+            "city": "Bartsrashen",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.08533",
+            "longitude": "44.57958"
+        },
+        {
+            "city": "Nshavan",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.02787",
+            "longitude": "44.52565"
+        },
+        {
+            "city": "Norabats\u2019",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.10568",
+            "longitude": "44.42988"
+        },
+        {
+            "city": "Berdavan",
+            "region": "09",
+            "country": "AM",
+            "latitude": "41.20503",
+            "longitude": "44.99967"
+        },
+        {
+            "city": "Shirakamut",
+            "region": "06",
+            "country": "AM",
+            "latitude": "40.86056",
+            "longitude": "44.15278"
+        },
+        {
+            "city": "Azatamut",
+            "region": "09",
+            "country": "AM",
+            "latitude": "40.98796",
+            "longitude": "45.20794"
+        },
+        {
+            "city": "Getahovit",
+            "region": "09",
+            "country": "AM",
+            "latitude": "40.89782",
+            "longitude": "45.13924"
+        },
+        {
+            "city": "Artsvaberd",
+            "region": "09",
+            "country": "AM",
+            "latitude": "40.83361",
+            "longitude": "45.47111"
+        },
+        {
+            "city": "Nor Yerznka",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.31356",
+            "longitude": "44.40483"
+        },
+        {
+            "city": "Nor Sasunik",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.24869",
+            "longitude": "44.33957"
+        },
+        {
+            "city": "Kamaris",
+            "region": "05",
+            "country": "AM",
+            "latitude": "40.23539",
+            "longitude": "44.69459"
+        },
+        {
+            "city": "Gandzak",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.31472",
+            "longitude": "45.11139"
+        },
+        {
+            "city": "Myasnikyan",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.1775",
+            "longitude": "43.90639"
+        },
+        {
+            "city": "Lenughi",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.12562",
+            "longitude": "43.96484"
+        },
+        {
+            "city": "Metsamor",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.14481",
+            "longitude": "44.11998"
+        },
+        {
+            "city": "Gay",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.08389",
+            "longitude": "44.30556"
+        },
+        {
+            "city": "Baghramyan",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.19344",
+            "longitude": "44.36832"
+        },
+        {
+            "city": "Musalerr",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.15393",
+            "longitude": "44.37894"
+        },
+        {
+            "city": "Darakert",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.10547",
+            "longitude": "44.41334"
+        },
+        {
+            "city": "Dashtavan",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.10121",
+            "longitude": "44.39067"
+        },
+        {
+            "city": "Nizami",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.09114",
+            "longitude": "44.40453"
+        },
+        {
+            "city": "Artsvanist",
+            "region": "04",
+            "country": "AM",
+            "latitude": "40.15444",
+            "longitude": "45.50222"
+        },
+        {
+            "city": "Vardadzor",
+            "region": "11",
+            "country": "AM",
+            "latitude": "40.18701",
+            "longitude": "45.19212"
+        },
+        {
+            "city": "Taronik",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.13367",
+            "longitude": "44.19957"
+        },
+        {
+            "city": "Aknashen",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.09551",
+            "longitude": "44.28604"
+        },
+        {
+            "city": "Haykashen",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.07303",
+            "longitude": "44.30628"
+        },
+        {
+            "city": "Hovtashat",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.10328",
+            "longitude": "44.33891"
+        },
+        {
+            "city": "Sayat\u2019-Nova",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.07428",
+            "longitude": "44.39846"
+        },
+        {
+            "city": "Voskehat",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.14158",
+            "longitude": "44.32918"
+        },
+        {
+            "city": "Griboyedov",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.11307",
+            "longitude": "44.27169"
+        },
+        {
+            "city": "Amberd",
+            "region": "01",
+            "country": "AM",
+            "latitude": "40.24192",
+            "longitude": "44.27227"
+        },
+        {
+            "city": "Aygek",
+            "region": "03",
+            "country": "AM",
+            "latitude": "40.18861",
+            "longitude": "44.38333"
+        },
+        {
+            "city": "Hovtashen",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.0251",
+            "longitude": "44.45129"
+        },
+        {
+            "city": "Dimitrov",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.00752",
+            "longitude": "44.48999"
+        },
+        {
+            "city": "Mrgavet",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.02779",
+            "longitude": "44.48252"
+        },
+        {
+            "city": "Arevabuyr",
+            "region": "02",
+            "country": "AM",
+            "latitude": "40.03712",
+            "longitude": "44.46934"
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "country": "Cape Verde",
+    "code": "CV",
+    "cities": [
+        {
+            "city": "Vila Nova Sintra",
+            "region": "02",
+            "country": "CV",
+            "latitude": "14.86667",
+            "longitude": "-24.71667"
+        },
+        {
+            "city": "Vila do Maio",
+            "region": "04",
+            "country": "CV",
+            "latitude": "15.13333",
+            "longitude": "-23.21667"
+        },
+        {
+            "city": "Vila da Ribeira Brava",
+            "region": "22",
+            "country": "CV",
+            "latitude": "16.61667",
+            "longitude": "-24.3"
+        },
+        {
+            "city": "Tarrafal",
+            "region": "27",
+            "country": "CV",
+            "latitude": "16.56667",
+            "longitude": "-24.36667"
+        },
+        {
+            "city": "Tarrafal",
+            "region": "20",
+            "country": "CV",
+            "latitude": "15.28333",
+            "longitude": "-23.76667"
+        },
+        {
+            "city": "S\u00e3o Filipe",
+            "region": "18",
+            "country": "CV",
+            "latitude": "14.8961",
+            "longitude": "-24.49556"
+        },
+        {
+            "city": "S\u00e3o Domingos",
+            "region": "17",
+            "country": "CV",
+            "latitude": "15.02438",
+            "longitude": "-23.5625"
+        },
+        {
+            "city": "Santa Maria",
+            "region": "08",
+            "country": "CV",
+            "latitude": "16.6",
+            "longitude": "-22.9"
+        },
+        {
+            "city": "Santa Cruz",
+            "region": "16",
+            "country": "CV",
+            "latitude": "15.13333",
+            "longitude": "-23.56667"
+        },
+        {
+            "city": "Sal Rei",
+            "region": "01",
+            "country": "CV",
+            "latitude": "16.18333",
+            "longitude": "-22.91667"
+        },
+        {
+            "city": "Ribeira Grande",
+            "region": "07",
+            "country": "CV",
+            "latitude": "17.18561",
+            "longitude": "-25.07243"
+        },
+        {
+            "city": "Praia",
+            "region": "14",
+            "country": "CV",
+            "latitude": "14.92148",
+            "longitude": "-23.50868"
+        },
+        {
+            "city": "Porto Novo",
+            "region": "00",
+            "country": "CV",
+            "latitude": "17.01969",
+            "longitude": "-25.06471"
+        },
+        {
+            "city": "Porto dos Mosteiros",
+            "region": "13",
+            "country": "CV",
+            "latitude": "15.03333",
+            "longitude": "-24.33333"
+        },
+        {
+            "city": "Ponta do Sol",
+            "region": "07",
+            "country": "CV",
+            "latitude": "17.19942",
+            "longitude": "-25.09192"
+        },
+        {
+            "city": "Pombas",
+            "region": "05",
+            "country": "CV",
+            "latitude": "17.15026",
+            "longitude": "-25.02007"
+        },
+        {
+            "city": "Picos",
+            "region": "26",
+            "country": "CV",
+            "latitude": "15.08333",
+            "longitude": "-23.65"
+        },
+        {
+            "city": "Mindelo",
+            "region": "11",
+            "country": "CV",
+            "latitude": "16.89014",
+            "longitude": "-24.98042"
+        },
+        {
+            "city": "Cova Figueira",
+            "region": "24",
+            "country": "CV",
+            "latitude": "14.88333",
+            "longitude": "-24.3"
+        },
+        {
+            "city": "Cidade Velha",
+            "region": "23",
+            "country": "CV",
+            "latitude": "14.91667",
+            "longitude": "-23.61667"
+        },
+        {
+            "city": "Calheta",
+            "region": "19",
+            "country": "CV",
+            "latitude": "15.18333",
+            "longitude": "-23.6"
+        },
+        {
+            "city": "Assomada",
+            "region": "15",
+            "country": "CV",
+            "latitude": "15.1",
+            "longitude": "-23.68333"
+        }
+    ]
+}

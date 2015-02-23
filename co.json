@@ -1,0 +1,6523 @@
+{
+    "country": "Colombia",
+    "code": "CO",
+    "cities": [
+        {
+            "city": "Zipaquir\u00e1",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.02833",
+            "longitude": "-74.00583"
+        },
+        {
+            "city": "Zipac\u00f3n",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.75167",
+            "longitude": "-74.37917"
+        },
+        {
+            "city": "Zetaquira",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.28556",
+            "longitude": "-73.17333"
+        },
+        {
+            "city": "Zarzal",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.39833",
+            "longitude": "-76.07722"
+        },
+        {
+            "city": "Zaragoza",
+            "region": "02",
+            "country": "CO",
+            "latitude": "7.49417",
+            "longitude": "-74.87111"
+        },
+        {
+            "city": "Zapatoca",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.81917",
+            "longitude": "-73.27194"
+        },
+        {
+            "city": "Zambrano",
+            "region": "38",
+            "country": "CO",
+            "latitude": "9.74724",
+            "longitude": "-74.8153"
+        },
+        {
+            "city": "Yumbo",
+            "region": "29",
+            "country": "CO",
+            "latitude": "3.585",
+            "longitude": "-76.49583"
+        },
+        {
+            "city": "Yotoco",
+            "region": "29",
+            "country": "CO",
+            "latitude": "3.86333",
+            "longitude": "-76.38583"
+        },
+        {
+            "city": "Yopal",
+            "region": "32",
+            "country": "CO",
+            "latitude": "5.33944",
+            "longitude": "-72.39417"
+        },
+        {
+            "city": "Yond\u00f3",
+            "region": "02",
+            "country": "CO",
+            "latitude": "7.00778",
+            "longitude": "-73.91417"
+        },
+        {
+            "city": "Yolomb\u00f3",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.60194",
+            "longitude": "-75.01389"
+        },
+        {
+            "city": "Yarumal",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.96472",
+            "longitude": "-75.42028"
+        },
+        {
+            "city": "Yal\u00ed",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.68333",
+            "longitude": "-74.85"
+        },
+        {
+            "city": "Yaguar\u00e1",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.66611",
+            "longitude": "-75.51861"
+        },
+        {
+            "city": "Yacuanquer",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.11861",
+            "longitude": "-77.405"
+        },
+        {
+            "city": "Yacop\u00ed",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.46611",
+            "longitude": "-74.33889"
+        },
+        {
+            "city": "Viterbo",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.06361",
+            "longitude": "-75.87528"
+        },
+        {
+            "city": "Vista Hermosa",
+            "region": "19",
+            "country": "CO",
+            "latitude": "3.12428",
+            "longitude": "-73.75156"
+        },
+        {
+            "city": "Viot\u00e1",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.44056",
+            "longitude": "-74.525"
+        },
+        {
+            "city": "Villeta",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.01472",
+            "longitude": "-74.47472"
+        },
+        {
+            "city": "Villavieja",
+            "region": "16",
+            "country": "CO",
+            "latitude": "3.22052",
+            "longitude": "-75.21864"
+        },
+        {
+            "city": "Villavicencio",
+            "region": "19",
+            "country": "CO",
+            "latitude": "4.142",
+            "longitude": "-73.62664"
+        },
+        {
+            "city": "Villarrica",
+            "region": "28",
+            "country": "CO",
+            "latitude": "3.93778",
+            "longitude": "-74.60333"
+        },
+        {
+            "city": "Villa del Rosario",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.83389",
+            "longitude": "-72.47417"
+        },
+        {
+            "city": "Villapinz\u00f3n",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.21667",
+            "longitude": "-73.6"
+        },
+        {
+            "city": "Villanueva",
+            "region": "17",
+            "country": "CO",
+            "latitude": "10.60528",
+            "longitude": "-72.98"
+        },
+        {
+            "city": "Villanueva",
+            "region": "35",
+            "country": "CO",
+            "latitude": "10.44361",
+            "longitude": "-75.27306"
+        },
+        {
+            "city": "Villanueva",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.67417",
+            "longitude": "-73.17778"
+        },
+        {
+            "city": "Villanueva",
+            "region": "32",
+            "country": "CO",
+            "latitude": "5.28333",
+            "longitude": "-71.96667"
+        },
+        {
+            "city": "Villamar\u00eda",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.04778",
+            "longitude": "-75.51556"
+        },
+        {
+            "city": "Villahermosa",
+            "region": "28",
+            "country": "CO",
+            "latitude": "5.03389",
+            "longitude": "-75.11861"
+        },
+        {
+            "city": "Villagarz\u00f3n",
+            "region": "22",
+            "country": "CO",
+            "latitude": "1.0375",
+            "longitude": "-76.62667"
+        },
+        {
+            "city": "Villa de Leiva",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.63861",
+            "longitude": "-73.52833"
+        },
+        {
+            "city": "Vijes",
+            "region": "29",
+            "country": "CO",
+            "latitude": "3.70333",
+            "longitude": "-76.44611"
+        },
+        {
+            "city": "Vig\u00eda del Fuerte",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.59194",
+            "longitude": "-76.89861"
+        },
+        {
+            "city": "Victoria",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.31648",
+            "longitude": "-74.91101"
+        },
+        {
+            "city": "Vian\u00ed",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.88333",
+            "longitude": "-74.56667"
+        },
+        {
+            "city": "Vetas",
+            "region": "26",
+            "country": "CO",
+            "latitude": "7.33333",
+            "longitude": "-72.86667"
+        },
+        {
+            "city": "Versalles",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.5775",
+            "longitude": "-76.20306"
+        },
+        {
+            "city": "Vergara",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.12167",
+            "longitude": "-74.34861"
+        },
+        {
+            "city": "Ventaquemada",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.36917",
+            "longitude": "-73.525"
+        },
+        {
+            "city": "Venecia",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.96278",
+            "longitude": "-75.73806"
+        },
+        {
+            "city": "Venecia",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.09056",
+            "longitude": "-74.48056"
+        },
+        {
+            "city": "Venadillo",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.7193",
+            "longitude": "-74.92918"
+        },
+        {
+            "city": "V\u00e9lez",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.015",
+            "longitude": "-73.67806"
+        },
+        {
+            "city": "Valpara\u00edso",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.61806",
+            "longitude": "-75.62861"
+        },
+        {
+            "city": "Valpara\u00edso",
+            "region": "08",
+            "country": "CO",
+            "latitude": "1.19512",
+            "longitude": "-75.70705"
+        },
+        {
+            "city": "Valledupar",
+            "region": "10",
+            "country": "CO",
+            "latitude": "10.47694",
+            "longitude": "-73.25056"
+        },
+        {
+            "city": "Valle de San Juan",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.19869",
+            "longitude": "-75.11733"
+        },
+        {
+            "city": "Valle de San Jos\u00e9",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.4475",
+            "longitude": "-73.14361"
+        },
+        {
+            "city": "Valencia",
+            "region": "12",
+            "country": "CO",
+            "latitude": "8.26917",
+            "longitude": "-76.14639"
+        },
+        {
+            "city": "Valdivia",
+            "region": "02",
+            "country": "CO",
+            "latitude": "7.28889",
+            "longitude": "-75.39778"
+        },
+        {
+            "city": "Utica",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.18333",
+            "longitude": "-74.48333"
+        },
+        {
+            "city": "Usiacur\u00ed",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.75",
+            "longitude": "-74.98333"
+        },
+        {
+            "city": "Urumita",
+            "region": "17",
+            "country": "CO",
+            "latitude": "10.56667",
+            "longitude": "-73.01667"
+        },
+        {
+            "city": "Urrao",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.31972",
+            "longitude": "-76.13833"
+        },
+        {
+            "city": "Uribia",
+            "region": "17",
+            "country": "CO",
+            "latitude": "11.71667",
+            "longitude": "-72.26944"
+        },
+        {
+            "city": "Uramita",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.89944",
+            "longitude": "-76.17417"
+        },
+        {
+            "city": "Ungia",
+            "region": "11",
+            "country": "CO",
+            "latitude": "8.04335",
+            "longitude": "-77.09453"
+        },
+        {
+            "city": "Une",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.40306",
+            "longitude": "-74.02528"
+        },
+        {
+            "city": "Umbita",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.23333",
+            "longitude": "-73.45"
+        },
+        {
+            "city": "Ulloa",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.70444",
+            "longitude": "-75.74028"
+        },
+        {
+            "city": "Ubat\u00e9",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.31222",
+            "longitude": "-73.81917"
+        },
+        {
+            "city": "Ubaque",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.48668",
+            "longitude": "-73.93748"
+        },
+        {
+            "city": "Ubal\u00e1",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.74778",
+            "longitude": "-72.53694"
+        },
+        {
+            "city": "Tuta",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.69333",
+            "longitude": "-73.23083"
+        },
+        {
+            "city": "Turmequ\u00e9",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.31667",
+            "longitude": "-73.5"
+        },
+        {
+            "city": "Turbo",
+            "region": "02",
+            "country": "CO",
+            "latitude": "8.09368",
+            "longitude": "-76.72691"
+        },
+        {
+            "city": "Turban\u00e1",
+            "region": "35",
+            "country": "CO",
+            "latitude": "10.2717",
+            "longitude": "-75.44222"
+        },
+        {
+            "city": "Turbaco",
+            "region": "35",
+            "country": "CO",
+            "latitude": "10.32944",
+            "longitude": "-75.41137"
+        },
+        {
+            "city": "T\u00faquerres",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.09234",
+            "longitude": "-77.62085"
+        },
+        {
+            "city": "Tunja",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.53528",
+            "longitude": "-73.36778"
+        },
+        {
+            "city": "Tumaco",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.79861",
+            "longitude": "-78.81556"
+        },
+        {
+            "city": "Tulu\u00e1",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.08667",
+            "longitude": "-76.2"
+        },
+        {
+            "city": "Tubar\u00e1",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.87444",
+            "longitude": "-74.97889"
+        },
+        {
+            "city": "Trujillo",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.21417",
+            "longitude": "-76.3225"
+        },
+        {
+            "city": "Trinidad",
+            "region": "32",
+            "country": "CO",
+            "latitude": "5.43056",
+            "longitude": "-71.63111"
+        },
+        {
+            "city": "Totor\u00f3",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.49222",
+            "longitude": "-76.40472"
+        },
+        {
+            "city": "Toro",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.61167",
+            "longitude": "-76.08139"
+        },
+        {
+            "city": "Torib\u00edo",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.95806",
+            "longitude": "-76.27139"
+        },
+        {
+            "city": "Topaip\u00ed",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.33778",
+            "longitude": "-74.30583"
+        },
+        {
+            "city": "T\u00f3paga",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.77167",
+            "longitude": "-72.83583"
+        },
+        {
+            "city": "Toluviejo",
+            "region": "27",
+            "country": "CO",
+            "latitude": "9.45082",
+            "longitude": "-75.43864"
+        },
+        {
+            "city": "Tol\u00fa",
+            "region": "27",
+            "country": "CO",
+            "latitude": "9.52392",
+            "longitude": "-75.58139"
+        },
+        {
+            "city": "Toledo",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.31306",
+            "longitude": "-72.4875"
+        },
+        {
+            "city": "Tocancip\u00e1",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.96611",
+            "longitude": "-73.91361"
+        },
+        {
+            "city": "Tocaima",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.46306",
+            "longitude": "-74.63806"
+        },
+        {
+            "city": "Toca",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.56667",
+            "longitude": "-73.2"
+        },
+        {
+            "city": "Titirib\u00ed",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.06556",
+            "longitude": "-75.79722"
+        },
+        {
+            "city": "Tipacoque",
+            "region": "36",
+            "country": "CO",
+            "latitude": "6.42333",
+            "longitude": "-72.69528"
+        },
+        {
+            "city": "Timbiqu\u00ed",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.76389",
+            "longitude": "-77.6275"
+        },
+        {
+            "city": "Timan\u00e1",
+            "region": "16",
+            "country": "CO",
+            "latitude": "1.97265",
+            "longitude": "-75.93978"
+        },
+        {
+            "city": "Tierralta",
+            "region": "12",
+            "country": "CO",
+            "latitude": "8.17361",
+            "longitude": "-76.05917"
+        },
+        {
+            "city": "Tib\u00fa",
+            "region": "21",
+            "country": "CO",
+            "latitude": "8.64806",
+            "longitude": "-72.73944"
+        },
+        {
+            "city": "Tibasosa",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.75",
+            "longitude": "-73"
+        },
+        {
+            "city": "Tiban\u00e1",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.32056",
+            "longitude": "-73.40056"
+        },
+        {
+            "city": "Tesalia",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.48639",
+            "longitude": "-75.72861"
+        },
+        {
+            "city": "Teruel",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.74278",
+            "longitude": "-75.56972"
+        },
+        {
+            "city": "Tenza",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.08333",
+            "longitude": "-73.41667"
+        },
+        {
+            "city": "Tenjo",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.87417",
+            "longitude": "-74.14833"
+        },
+        {
+            "city": "Tello",
+            "region": "16",
+            "country": "CO",
+            "latitude": "3.06694",
+            "longitude": "-75.13778"
+        },
+        {
+            "city": "Tauramena",
+            "region": "32",
+            "country": "CO",
+            "latitude": "5.01861",
+            "longitude": "-72.75528"
+        },
+        {
+            "city": "Tasco",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.91667",
+            "longitude": "-72.78333"
+        },
+        {
+            "city": "Tarso",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.86467",
+            "longitude": "-75.82192"
+        },
+        {
+            "city": "Tarqui",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.11056",
+            "longitude": "-75.82306"
+        },
+        {
+            "city": "Tangua",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.09722",
+            "longitude": "-77.39806"
+        },
+        {
+            "city": "Taminango",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.57491",
+            "longitude": "-77.28666"
+        },
+        {
+            "city": "T\u00e1mesis",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.6675",
+            "longitude": "-75.71611"
+        },
+        {
+            "city": "Tame",
+            "region": "03",
+            "country": "CO",
+            "latitude": "6.461",
+            "longitude": "-71.73004"
+        },
+        {
+            "city": "Tamara",
+            "region": "32",
+            "country": "CO",
+            "latitude": "5.82972",
+            "longitude": "-72.16333"
+        },
+        {
+            "city": "Tamalameque",
+            "region": "10",
+            "country": "CO",
+            "latitude": "8.85221",
+            "longitude": "-73.81229"
+        },
+        {
+            "city": "Talaigua Viejo",
+            "region": "35",
+            "country": "CO",
+            "latitude": "9.31056",
+            "longitude": "-74.58"
+        },
+        {
+            "city": "Tad\u00f3",
+            "region": "11",
+            "country": "CO",
+            "latitude": "5.26598",
+            "longitude": "-76.56487"
+        },
+        {
+            "city": "Tabio",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.91667",
+            "longitude": "-74.1"
+        },
+        {
+            "city": "Sutatausa",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.25139",
+            "longitude": "-73.85611"
+        },
+        {
+            "city": "Sutamarch\u00e1n",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.6",
+            "longitude": "-73.63333"
+        },
+        {
+            "city": "Susac\u00f3n",
+            "region": "36",
+            "country": "CO",
+            "latitude": "6.23306",
+            "longitude": "-72.69333"
+        },
+        {
+            "city": "Susa",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.45",
+            "longitude": "-73.81667"
+        },
+        {
+            "city": "Sup\u00eda",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.46028",
+            "longitude": "-75.65306"
+        },
+        {
+            "city": "Supat\u00e1",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.05",
+            "longitude": "-74.25"
+        },
+        {
+            "city": "Suesca",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.10472",
+            "longitude": "-73.80222"
+        },
+        {
+            "city": "Sucre",
+            "region": "27",
+            "country": "CO",
+            "latitude": "8.81389",
+            "longitude": "-74.72528"
+        },
+        {
+            "city": "Sucre",
+            "region": "26",
+            "country": "CO",
+            "latitude": "5.92278",
+            "longitude": "-73.79528"
+        },
+        {
+            "city": "Sucre",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.03805",
+            "longitude": "-76.92446"
+        },
+        {
+            "city": "Subachoque",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.93167",
+            "longitude": "-74.17639"
+        },
+        {
+            "city": "Suaza",
+            "region": "16",
+            "country": "CO",
+            "latitude": "1.9753",
+            "longitude": "-75.79549"
+        },
+        {
+            "city": "Su\u00e1rez",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.05194",
+            "longitude": "-74.83528"
+        },
+        {
+            "city": "Su\u00e1rez",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.95889",
+            "longitude": "-76.69528"
+        },
+        {
+            "city": "Suan",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.33347",
+            "longitude": "-74.88016"
+        },
+        {
+            "city": "Suaita",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.10278",
+            "longitude": "-73.44"
+        },
+        {
+            "city": "Sotomayor",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.51469",
+            "longitude": "-77.50444"
+        },
+        {
+            "city": "Sotaquir\u00e1",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.76889",
+            "longitude": "-73.25111"
+        },
+        {
+            "city": "Sop\u00f3",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.91",
+            "longitude": "-73.93917"
+        },
+        {
+            "city": "Soplaviento",
+            "region": "35",
+            "country": "CO",
+            "latitude": "10.39306",
+            "longitude": "-75.14083"
+        },
+        {
+            "city": "Sons\u00f3n",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.71222",
+            "longitude": "-75.31389"
+        },
+        {
+            "city": "Somondoco",
+            "region": "36",
+            "country": "CO",
+            "latitude": "4.98778",
+            "longitude": "-73.43611"
+        },
+        {
+            "city": "Soledad",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.91722",
+            "longitude": "-74.76667"
+        },
+        {
+            "city": "Solano",
+            "region": "08",
+            "country": "CO",
+            "latitude": "0.69937",
+            "longitude": "-75.25353"
+        },
+        {
+            "city": "Sogamoso",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.72056",
+            "longitude": "-72.92972"
+        },
+        {
+            "city": "Socot\u00e1",
+            "region": "36",
+            "country": "CO",
+            "latitude": "6.04389",
+            "longitude": "-72.63972"
+        },
+        {
+            "city": "Socorro",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.46972",
+            "longitude": "-73.26167"
+        },
+        {
+            "city": "Socha Viejo",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.98333",
+            "longitude": "-72.71667"
+        },
+        {
+            "city": "Soat\u00e1",
+            "region": "36",
+            "country": "CO",
+            "latitude": "6.33333",
+            "longitude": "-72.7"
+        },
+        {
+            "city": "Soacha",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.58722",
+            "longitude": "-74.22139"
+        },
+        {
+            "city": "Sitionuevo",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.77833",
+            "longitude": "-74.725"
+        },
+        {
+            "city": "Sincelejo",
+            "region": "27",
+            "country": "CO",
+            "latitude": "9.30472",
+            "longitude": "-75.39778"
+        },
+        {
+            "city": "Sinc\u00e9",
+            "region": "27",
+            "country": "CO",
+            "latitude": "9.24694",
+            "longitude": "-75.15083"
+        },
+        {
+            "city": "Simit\u00ed",
+            "region": "35",
+            "country": "CO",
+            "latitude": "7.96083",
+            "longitude": "-73.94667"
+        },
+        {
+            "city": "Simijaca",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.50639",
+            "longitude": "-73.85528"
+        },
+        {
+            "city": "Simacota",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.44444",
+            "longitude": "-73.3375"
+        },
+        {
+            "city": "Silvia",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.61361",
+            "longitude": "-76.38222"
+        },
+        {
+            "city": "Silvania",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.40528",
+            "longitude": "-74.39056"
+        },
+        {
+            "city": "Silos",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.20806",
+            "longitude": "-72.76"
+        },
+        {
+            "city": "Sibundoy",
+            "region": "22",
+            "country": "CO",
+            "latitude": "1.20478",
+            "longitude": "-76.92366"
+        },
+        {
+            "city": "Sibat\u00e9",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.49139",
+            "longitude": "-74.26056"
+        },
+        {
+            "city": "Siachoque",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.5",
+            "longitude": "-73.23333"
+        },
+        {
+            "city": "Sevilla",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.26889",
+            "longitude": "-75.93611"
+        },
+        {
+            "city": "Sesquil\u00e9",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.0475",
+            "longitude": "-73.80083"
+        },
+        {
+            "city": "Segovia",
+            "region": "02",
+            "country": "CO",
+            "latitude": "7.08333",
+            "longitude": "-74.70361"
+        },
+        {
+            "city": "Sasaima",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.96611",
+            "longitude": "-74.43512"
+        },
+        {
+            "city": "Sardinata",
+            "region": "21",
+            "country": "CO",
+            "latitude": "8.08583",
+            "longitude": "-72.80472"
+        },
+        {
+            "city": "Sapuyes",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.04028",
+            "longitude": "-77.62472"
+        },
+        {
+            "city": "San Zen\u00f3n",
+            "region": "35",
+            "country": "CO",
+            "latitude": "9.245",
+            "longitude": "-74.50361"
+        },
+        {
+            "city": "San Vicente de Chucur\u00ed",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.88361",
+            "longitude": "-73.41389"
+        },
+        {
+            "city": "San Vicente",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.23278",
+            "longitude": "-75.33611"
+        },
+        {
+            "city": "Santuario",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.13833",
+            "longitude": "-75.26417"
+        },
+        {
+            "city": "Santuario",
+            "region": "24",
+            "country": "CO",
+            "latitude": "5.07528",
+            "longitude": "-75.96722"
+        },
+        {
+            "city": "Santo Tom\u00e1s",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.76111",
+            "longitude": "-74.75"
+        },
+        {
+            "city": "Santo Domingo",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.47222",
+            "longitude": "-75.16472"
+        },
+        {
+            "city": "Santiago",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.86833",
+            "longitude": "-72.71861"
+        },
+        {
+            "city": "Santiago",
+            "region": "22",
+            "country": "CO",
+            "latitude": "1.14844",
+            "longitude": "-77.0045"
+        },
+        {
+            "city": "Santa Sof\u00eda",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.71667",
+            "longitude": "-73.6"
+        },
+        {
+            "city": "Santa Rosa de Viterbo",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.87611",
+            "longitude": "-72.98583"
+        },
+        {
+            "city": "Santa Rosa de Osos",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.64889",
+            "longitude": "-75.46333"
+        },
+        {
+            "city": "Santa Rosa de Cabal",
+            "region": "24",
+            "country": "CO",
+            "latitude": "4.86806",
+            "longitude": "-75.62139"
+        },
+        {
+            "city": "Santa Rosa",
+            "region": "35",
+            "country": "CO",
+            "latitude": "10.44472",
+            "longitude": "-75.36972"
+        },
+        {
+            "city": "Santander de Quilichao",
+            "region": "09",
+            "country": "CO",
+            "latitude": "3.01306",
+            "longitude": "-76.48667"
+        },
+        {
+            "city": "Santana",
+            "region": "36",
+            "country": "CO",
+            "latitude": "6.05722",
+            "longitude": "-73.48222"
+        },
+        {
+            "city": "Santa Marta",
+            "region": "38",
+            "country": "CO",
+            "latitude": "11.24722",
+            "longitude": "-74.20167"
+        },
+        {
+            "city": "Santa Mar\u00eda",
+            "region": "36",
+            "country": "CO",
+            "latitude": "4.86048",
+            "longitude": "-73.26234"
+        },
+        {
+            "city": "Santa Mar\u00eda",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.95",
+            "longitude": "-75.65"
+        },
+        {
+            "city": "Santa Luc\u00eda",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.3242",
+            "longitude": "-74.96017"
+        },
+        {
+            "city": "Santa Catalina",
+            "region": "35",
+            "country": "CO",
+            "latitude": "10.60361",
+            "longitude": "-75.28824"
+        },
+        {
+            "city": "Santa B\u00e1rbara",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.8775",
+            "longitude": "-75.57056"
+        },
+        {
+            "city": "Santa Ana",
+            "region": "38",
+            "country": "CO",
+            "latitude": "9.32361",
+            "longitude": "-74.57583"
+        },
+        {
+            "city": "San Roque",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.48694",
+            "longitude": "-75.02222"
+        },
+        {
+            "city": "San Rafael",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.2975",
+            "longitude": "-75.03139"
+        },
+        {
+            "city": "San Pelayo",
+            "region": "12",
+            "country": "CO",
+            "latitude": "8.96028",
+            "longitude": "-75.84194"
+        },
+        {
+            "city": "San Pedro de Urab\u00e1",
+            "region": "02",
+            "country": "CO",
+            "latitude": "8.27611",
+            "longitude": "-76.37861"
+        },
+        {
+            "city": "San Pedro",
+            "region": "27",
+            "country": "CO",
+            "latitude": "9.39806",
+            "longitude": "-75.11861"
+        },
+        {
+            "city": "San Pedro",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.46221",
+            "longitude": "-75.55656"
+        },
+        {
+            "city": "San Pedro",
+            "region": "29",
+            "country": "CO",
+            "latitude": "3.99611",
+            "longitude": "-76.23167"
+        },
+        {
+            "city": "San Pablo de Borbur",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.65333",
+            "longitude": "-74.07278"
+        },
+        {
+            "city": "San Pablo",
+            "region": "35",
+            "country": "CO",
+            "latitude": "10.05154",
+            "longitude": "-75.26775"
+        },
+        {
+            "city": "San Pablo",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.6725",
+            "longitude": "-77.01389"
+        },
+        {
+            "city": "San Onofre",
+            "region": "27",
+            "country": "CO",
+            "latitude": "9.73586",
+            "longitude": "-75.52626"
+        },
+        {
+            "city": "San Miguel",
+            "region": "22",
+            "country": "CO",
+            "latitude": "0.33944",
+            "longitude": "-76.88306"
+        },
+        {
+            "city": "San Mateo",
+            "region": "36",
+            "country": "CO",
+            "latitude": "6.40528",
+            "longitude": "-72.56028"
+        },
+        {
+            "city": "San Mart\u00edn",
+            "region": "19",
+            "country": "CO",
+            "latitude": "3.69637",
+            "longitude": "-73.69958"
+        },
+        {
+            "city": "San Marcos",
+            "region": "27",
+            "country": "CO",
+            "latitude": "8.66111",
+            "longitude": "-75.13472"
+        },
+        {
+            "city": "San Luis de Palenque",
+            "region": "32",
+            "country": "CO",
+            "latitude": "5.42139",
+            "longitude": "-71.73167"
+        },
+        {
+            "city": "San Luis de Gaceno",
+            "region": "36",
+            "country": "CO",
+            "latitude": "4.82052",
+            "longitude": "-73.16851"
+        },
+        {
+            "city": "San Luis de Cubarral",
+            "region": "19",
+            "country": "CO",
+            "latitude": "3.77139",
+            "longitude": "-73.83778"
+        },
+        {
+            "city": "San Luis",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.13258",
+            "longitude": "-75.09499"
+        },
+        {
+            "city": "San Lorenzo",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.50628",
+            "longitude": "-77.21898"
+        },
+        {
+            "city": "San Juan Nepomuceno",
+            "region": "35",
+            "country": "CO",
+            "latitude": "9.95156",
+            "longitude": "-75.08198"
+        },
+        {
+            "city": "San Juan de Urab\u00e1",
+            "region": "02",
+            "country": "CO",
+            "latitude": "8.76306",
+            "longitude": "-76.53"
+        },
+        {
+            "city": "San Juan del Cesar",
+            "region": "17",
+            "country": "CO",
+            "latitude": "10.77361",
+            "longitude": "-73.00833"
+        },
+        {
+            "city": "San Juan de Betulia",
+            "region": "27",
+            "country": "CO",
+            "latitude": "9.27556",
+            "longitude": "-75.24556"
+        },
+        {
+            "city": "San Juan de Arama",
+            "region": "19",
+            "country": "CO",
+            "latitude": "3.34639",
+            "longitude": "-73.88944"
+        },
+        {
+            "city": "San Jos\u00e9 de Miranda",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.66056",
+            "longitude": "-72.73694"
+        },
+        {
+            "city": "San Jos\u00e9 del Palmar",
+            "region": "11",
+            "country": "CO",
+            "latitude": "4.97417",
+            "longitude": "-76.22833"
+        },
+        {
+            "city": "San Jos\u00e9 de La Monta\u00f1a",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.85028",
+            "longitude": "-75.68333"
+        },
+        {
+            "city": "San Jos\u00e9",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.08583",
+            "longitude": "-75.78833"
+        },
+        {
+            "city": "San Jos\u00e9",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.68889",
+            "longitude": "-78.26694"
+        },
+        {
+            "city": "San Jer\u00f3nimo",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.44344",
+            "longitude": "-75.72815"
+        },
+        {
+            "city": "San Jacinto",
+            "region": "35",
+            "country": "CO",
+            "latitude": "9.82767",
+            "longitude": "-75.1217"
+        },
+        {
+            "city": "San Gil",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.55944",
+            "longitude": "-73.13611"
+        },
+        {
+            "city": "San Francisco",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.11667",
+            "longitude": "-75.98333"
+        },
+        {
+            "city": "San Francisco",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.97722",
+            "longitude": "-74.29222"
+        },
+        {
+            "city": "San Francisco",
+            "region": "22",
+            "country": "CO",
+            "latitude": "1.17867",
+            "longitude": "-76.8785"
+        },
+        {
+            "city": "San Fernando",
+            "region": "35",
+            "country": "CO",
+            "latitude": "9.27972",
+            "longitude": "-74.53389"
+        },
+        {
+            "city": "San Estanislao",
+            "region": "35",
+            "country": "CO",
+            "latitude": "10.39833",
+            "longitude": "-75.15111"
+        },
+        {
+            "city": "Sandon\u00e1",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.29151",
+            "longitude": "-77.47409"
+        },
+        {
+            "city": "San Diego",
+            "region": "10",
+            "country": "CO",
+            "latitude": "10.33427",
+            "longitude": "-73.18004"
+        },
+        {
+            "city": "San Crist\u00f3bal",
+            "region": "35",
+            "country": "CO",
+            "latitude": "9.87809",
+            "longitude": "-75.25248"
+        },
+        {
+            "city": "San Cayetano",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.88028",
+            "longitude": "-72.62778"
+        },
+        {
+            "city": "San Carlos de Guaroa",
+            "region": "19",
+            "country": "CO",
+            "latitude": "3.71161",
+            "longitude": "-73.24344"
+        },
+        {
+            "city": "San Carlos",
+            "region": "12",
+            "country": "CO",
+            "latitude": "8.80056",
+            "longitude": "-75.70222"
+        },
+        {
+            "city": "San Carlos",
+            "region": "02",
+            "country": "CO",
+            "latitude": "7.83333",
+            "longitude": "-74.76667"
+        },
+        {
+            "city": "San Carlos",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.18972",
+            "longitude": "-74.99694"
+        },
+        {
+            "city": "San Calixto",
+            "region": "21",
+            "country": "CO",
+            "latitude": "8.40611",
+            "longitude": "-73.21139"
+        },
+        {
+            "city": "San Bernardo del Viento",
+            "region": "12",
+            "country": "CO",
+            "latitude": "9.35611",
+            "longitude": "-75.95583"
+        },
+        {
+            "city": "San Bernardo",
+            "region": "09",
+            "country": "CO",
+            "latitude": "1.52119",
+            "longitude": "-77.03091"
+        },
+        {
+            "city": "San Benito Abad",
+            "region": "27",
+            "country": "CO",
+            "latitude": "8.93167",
+            "longitude": "-75.03083"
+        },
+        {
+            "city": "San Antonio",
+            "region": "38",
+            "country": "CO",
+            "latitude": "9.93303",
+            "longitude": "-74.69346"
+        },
+        {
+            "city": "San Antonio",
+            "region": "28",
+            "country": "CO",
+            "latitude": "3.91361",
+            "longitude": "-75.48333"
+        },
+        {
+            "city": "San Antero",
+            "region": "12",
+            "country": "CO",
+            "latitude": "9.37806",
+            "longitude": "-75.75611"
+        },
+        {
+            "city": "San Andr\u00e9s",
+            "region": "25",
+            "country": "CO",
+            "latitude": "12.58472",
+            "longitude": "-81.70056"
+        },
+        {
+            "city": "San Andr\u00e9s",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.81278",
+            "longitude": "-72.85361"
+        },
+        {
+            "city": "San Alberto",
+            "region": "10",
+            "country": "CO",
+            "latitude": "7.7525",
+            "longitude": "-73.38917"
+        },
+        {
+            "city": "San Agust\u00edn",
+            "region": "16",
+            "country": "CO",
+            "latitude": "1.87863",
+            "longitude": "-76.27557"
+        },
+        {
+            "city": "Sampu\u00e9s",
+            "region": "27",
+            "country": "CO",
+            "latitude": "9.18361",
+            "longitude": "-75.38167"
+        },
+        {
+            "city": "Samaniego",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.3385",
+            "longitude": "-77.5957"
+        },
+        {
+            "city": "Samac\u00e1",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.49444",
+            "longitude": "-73.48833"
+        },
+        {
+            "city": "Salgar",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.96333",
+            "longitude": "-75.98083"
+        },
+        {
+            "city": "Salento",
+            "region": "23",
+            "country": "CO",
+            "latitude": "4.6375",
+            "longitude": "-75.57028"
+        },
+        {
+            "city": "Salda\u00f1a",
+            "region": "28",
+            "country": "CO",
+            "latitude": "3.92922",
+            "longitude": "-75.01517"
+        },
+        {
+            "city": "Salamina",
+            "region": "38",
+            "country": "CO",
+            "latitude": "10.49333",
+            "longitude": "-74.79833"
+        },
+        {
+            "city": "Salamina",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.40833",
+            "longitude": "-75.49"
+        },
+        {
+            "city": "Saladoblanco",
+            "region": "16",
+            "country": "CO",
+            "latitude": "1.99244",
+            "longitude": "-76.04335"
+        },
+        {
+            "city": "Sahag\u00fan",
+            "region": "12",
+            "country": "CO",
+            "latitude": "8.94944",
+            "longitude": "-75.44778"
+        },
+        {
+            "city": "S\u00e1chica",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.58333",
+            "longitude": "-73.55"
+        },
+        {
+            "city": "Saboy\u00e1",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.70083",
+            "longitude": "-73.76889"
+        },
+        {
+            "city": "Sabaneta",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.15",
+            "longitude": "-75.6"
+        },
+        {
+            "city": "Sabanalarga",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.62962",
+            "longitude": "-74.92063"
+        },
+        {
+            "city": "Sabanalarga",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.8525",
+            "longitude": "-75.82056"
+        },
+        {
+            "city": "Sabanagrande",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.79115",
+            "longitude": "-74.76059"
+        },
+        {
+            "city": "Sabana de Torres",
+            "region": "26",
+            "country": "CO",
+            "latitude": "7.39806",
+            "longitude": "-73.49694"
+        },
+        {
+            "city": "Rovira",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.24278",
+            "longitude": "-75.24306"
+        },
+        {
+            "city": "Rosas",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.26093",
+            "longitude": "-76.73986"
+        },
+        {
+            "city": "Roncesvalles",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.01389",
+            "longitude": "-75.60833"
+        },
+        {
+            "city": "Roldanillo",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.41472",
+            "longitude": "-76.15472"
+        },
+        {
+            "city": "Rivera",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.78528",
+            "longitude": "-75.25889"
+        },
+        {
+            "city": "Risaralda",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.16917",
+            "longitude": "-75.76944"
+        },
+        {
+            "city": "R\u00edo Viejo",
+            "region": "35",
+            "country": "CO",
+            "latitude": "8.59",
+            "longitude": "-73.84361"
+        },
+        {
+            "city": "Riosucio",
+            "region": "11",
+            "country": "CO",
+            "latitude": "7.44027",
+            "longitude": "-77.1167"
+        },
+        {
+            "city": "Riosucio",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.42444",
+            "longitude": "-75.70583"
+        },
+        {
+            "city": "Rionegro",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.15528",
+            "longitude": "-75.38889"
+        },
+        {
+            "city": "R\u00edohacha",
+            "region": "17",
+            "country": "CO",
+            "latitude": "11.54444",
+            "longitude": "-72.90722"
+        },
+        {
+            "city": "Riofr\u00edo",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.15806",
+            "longitude": "-76.29194"
+        },
+        {
+            "city": "R\u00edo de Oro",
+            "region": "10",
+            "country": "CO",
+            "latitude": "8.29444",
+            "longitude": "-73.38833"
+        },
+        {
+            "city": "Rioblanco",
+            "region": "28",
+            "country": "CO",
+            "latitude": "3.53083",
+            "longitude": "-75.68056"
+        },
+        {
+            "city": "Ricaurte",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.27972",
+            "longitude": "-74.77611"
+        },
+        {
+            "city": "Ricaurte",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.1727",
+            "longitude": "-77.9372"
+        },
+        {
+            "city": "Retiro",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.05861",
+            "longitude": "-75.50306"
+        },
+        {
+            "city": "Restrepo",
+            "region": "19",
+            "country": "CO",
+            "latitude": "4.25833",
+            "longitude": "-73.56142"
+        },
+        {
+            "city": "Restrepo",
+            "region": "29",
+            "country": "CO",
+            "latitude": "3.82556",
+            "longitude": "-76.52528"
+        },
+        {
+            "city": "Repel\u00f3n",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.49194",
+            "longitude": "-75.12917"
+        },
+        {
+            "city": "Remolino",
+            "region": "38",
+            "country": "CO",
+            "latitude": "10.70472",
+            "longitude": "-74.71972"
+        },
+        {
+            "city": "Remedios",
+            "region": "02",
+            "country": "CO",
+            "latitude": "7.03083",
+            "longitude": "-74.53333"
+        },
+        {
+            "city": "Regidor",
+            "region": "35",
+            "country": "CO",
+            "latitude": "8.66667",
+            "longitude": "-73.83333"
+        },
+        {
+            "city": "R\u00e1quira",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.54111",
+            "longitude": "-73.63583"
+        },
+        {
+            "city": "Ramiriqu\u00ed",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.40361",
+            "longitude": "-73.33861"
+        },
+        {
+            "city": "Ragonvalia",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.58083",
+            "longitude": "-72.48056"
+        },
+        {
+            "city": "Apulo",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.52167",
+            "longitude": "-74.59722"
+        },
+        {
+            "city": "Quipile",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.74806",
+            "longitude": "-74.56306"
+        },
+        {
+            "city": "Quinch\u00eda",
+            "region": "24",
+            "country": "CO",
+            "latitude": "5.34222",
+            "longitude": "-75.73222"
+        },
+        {
+            "city": "Quimbaya",
+            "region": "23",
+            "country": "CO",
+            "latitude": "4.62306",
+            "longitude": "-75.76278"
+        },
+        {
+            "city": "Quibd\u00f3",
+            "region": "11",
+            "country": "CO",
+            "latitude": "5.69472",
+            "longitude": "-76.66111"
+        },
+        {
+            "city": "Quetame",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.33306",
+            "longitude": "-73.86556"
+        },
+        {
+            "city": "Pur\u00edsima",
+            "region": "12",
+            "country": "CO",
+            "latitude": "9.23806",
+            "longitude": "-75.72583"
+        },
+        {
+            "city": "Purificaci\u00f3n",
+            "region": "28",
+            "country": "CO",
+            "latitude": "3.8587",
+            "longitude": "-74.93129"
+        },
+        {
+            "city": "Pupiales",
+            "region": "20",
+            "country": "CO",
+            "latitude": "0.8725",
+            "longitude": "-77.64278"
+        },
+        {
+            "city": "Puerto Wilches",
+            "region": "26",
+            "country": "CO",
+            "latitude": "7.34944",
+            "longitude": "-73.90611"
+        },
+        {
+            "city": "Puerto Triunfo",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.87083",
+            "longitude": "-74.64556"
+        },
+        {
+            "city": "Puerto Tejada",
+            "region": "09",
+            "country": "CO",
+            "latitude": "3.23361",
+            "longitude": "-76.41944"
+        },
+        {
+            "city": "Puerto Santander",
+            "region": "21",
+            "country": "CO",
+            "latitude": "8.36361",
+            "longitude": "-72.4075"
+        },
+        {
+            "city": "Puerto Salgar",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.46304",
+            "longitude": "-74.65436"
+        },
+        {
+            "city": "Puerto Rond\u00f3n",
+            "region": "03",
+            "country": "CO",
+            "latitude": "6.28048",
+            "longitude": "-71.1"
+        },
+        {
+            "city": "Puerto Rico",
+            "region": "19",
+            "country": "CO",
+            "latitude": "2.93833",
+            "longitude": "-73.20833"
+        },
+        {
+            "city": "Puerto Rico",
+            "region": "08",
+            "country": "CO",
+            "latitude": "1.91417",
+            "longitude": "-75.145"
+        },
+        {
+            "city": "Puerto Parra",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.65167",
+            "longitude": "-74.06083"
+        },
+        {
+            "city": "Puerto Nari\u00f1o",
+            "region": "01",
+            "country": "CO",
+            "latitude": "-3.77028",
+            "longitude": "-70.38306"
+        },
+        {
+            "city": "Puerto L\u00f3pez",
+            "region": "19",
+            "country": "CO",
+            "latitude": "4.08451",
+            "longitude": "-72.95597"
+        },
+        {
+            "city": "Puerto Lleras",
+            "region": "19",
+            "country": "CO",
+            "latitude": "3.02225",
+            "longitude": "-73.4044"
+        },
+        {
+            "city": "Puerto Legu\u00edzamo",
+            "region": "22",
+            "country": "CO",
+            "latitude": "-0.18028",
+            "longitude": "-74.77417"
+        },
+        {
+            "city": "In\u00edrida",
+            "region": "15",
+            "country": "CO",
+            "latitude": "3.86528",
+            "longitude": "-67.92389"
+        },
+        {
+            "city": "Puerto Escondido",
+            "region": "12",
+            "country": "CO",
+            "latitude": "9.02194",
+            "longitude": "-76.265"
+        },
+        {
+            "city": "Puerto Colombia",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.98778",
+            "longitude": "-74.95472"
+        },
+        {
+            "city": "Puerto Carre\u00f1o",
+            "region": "31",
+            "country": "CO",
+            "latitude": "6.18903",
+            "longitude": "-67.48588"
+        },
+        {
+            "city": "Puerto Boyac\u00e1",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.97806",
+            "longitude": "-74.58972"
+        },
+        {
+            "city": "Puerto Berr\u00edo",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.49444",
+            "longitude": "-74.40667"
+        },
+        {
+            "city": "Puerto As\u00eds",
+            "region": "22",
+            "country": "CO",
+            "latitude": "0.51328",
+            "longitude": "-76.50075"
+        },
+        {
+            "city": "Puerres",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.18333",
+            "longitude": "-77.25"
+        },
+        {
+            "city": "Puente Nacional",
+            "region": "26",
+            "country": "CO",
+            "latitude": "5.88111",
+            "longitude": "-73.6825"
+        },
+        {
+            "city": "Puebloviejo",
+            "region": "38",
+            "country": "CO",
+            "latitude": "10.99722",
+            "longitude": "-74.2875"
+        },
+        {
+            "city": "Pueblorrico",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.79176",
+            "longitude": "-75.84101"
+        },
+        {
+            "city": "Pueblo Rico",
+            "region": "24",
+            "country": "CO",
+            "latitude": "5.23833",
+            "longitude": "-76.03639"
+        },
+        {
+            "city": "Pueblo Nuevo",
+            "region": "12",
+            "country": "CO",
+            "latitude": "8.23333",
+            "longitude": "-74.96667"
+        },
+        {
+            "city": "Providencia",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.56976",
+            "longitude": "-77.464"
+        },
+        {
+            "city": "Prado",
+            "region": "28",
+            "country": "CO",
+            "latitude": "3.75024",
+            "longitude": "-74.92932"
+        },
+        {
+            "city": "Pradera",
+            "region": "29",
+            "country": "CO",
+            "latitude": "3.42111",
+            "longitude": "-76.24472"
+        },
+        {
+            "city": "Potos\u00ed",
+            "region": "20",
+            "country": "CO",
+            "latitude": "0.80917",
+            "longitude": "-77.57583"
+        },
+        {
+            "city": "Pore",
+            "region": "32",
+            "country": "CO",
+            "latitude": "5.72722",
+            "longitude": "-71.99472"
+        },
+        {
+            "city": "Popay\u00e1n",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.43823",
+            "longitude": "-76.61316"
+        },
+        {
+            "city": "Ponedera",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.64361",
+            "longitude": "-74.75444"
+        },
+        {
+            "city": "Polonuevo",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.77697",
+            "longitude": "-74.85344"
+        },
+        {
+            "city": "Policarpa",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.63231",
+            "longitude": "-77.46199"
+        },
+        {
+            "city": "Planeta Rica",
+            "region": "12",
+            "country": "CO",
+            "latitude": "8.41472",
+            "longitude": "-75.58833"
+        },
+        {
+            "city": "Planadas",
+            "region": "28",
+            "country": "CO",
+            "latitude": "3.19698",
+            "longitude": "-75.64506"
+        },
+        {
+            "city": "Pizarro",
+            "region": "11",
+            "country": "CO",
+            "latitude": "4.95334",
+            "longitude": "-77.36598"
+        },
+        {
+            "city": "Francisco Pizarro",
+            "region": "20",
+            "country": "CO",
+            "latitude": "2.10194",
+            "longitude": "-78.72167"
+        },
+        {
+            "city": "Pivijay",
+            "region": "38",
+            "country": "CO",
+            "latitude": "10.46667",
+            "longitude": "-74.62056"
+        },
+        {
+            "city": "Pitalito",
+            "region": "16",
+            "country": "CO",
+            "latitude": "1.84966",
+            "longitude": "-76.04785"
+        },
+        {
+            "city": "Pital",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.26722",
+            "longitude": "-75.80472"
+        },
+        {
+            "city": "Pioj\u00f3",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.74846",
+            "longitude": "-75.10776"
+        },
+        {
+            "city": "Pinillos",
+            "region": "35",
+            "country": "CO",
+            "latitude": "8.91722",
+            "longitude": "-74.46639"
+        },
+        {
+            "city": "Piji\u00f1o",
+            "region": "38",
+            "country": "CO",
+            "latitude": "9.33028",
+            "longitude": "-74.44972"
+        },
+        {
+            "city": "Pijao",
+            "region": "23",
+            "country": "CO",
+            "latitude": "4.33806",
+            "longitude": "-75.7075"
+        },
+        {
+            "city": "Piedras",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.53833",
+            "longitude": "-74.88175"
+        },
+        {
+            "city": "Piedrancha",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.1374",
+            "longitude": "-77.8489"
+        },
+        {
+            "city": "Pi\u00e9 de Pat\u00f3",
+            "region": "11",
+            "country": "CO",
+            "latitude": "5.51604",
+            "longitude": "-76.97449"
+        },
+        {
+            "city": "Piedecuesta",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.98944",
+            "longitude": "-73.05361"
+        },
+        {
+            "city": "Pesca",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.55",
+            "longitude": "-73.05"
+        },
+        {
+            "city": "Pereira",
+            "region": "24",
+            "country": "CO",
+            "latitude": "4.81333",
+            "longitude": "-75.69611"
+        },
+        {
+            "city": "Peque",
+            "region": "02",
+            "country": "CO",
+            "latitude": "7.02444",
+            "longitude": "-75.91306"
+        },
+        {
+            "city": "Pensilvania",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.38694",
+            "longitude": "-75.16333"
+        },
+        {
+            "city": "Pelaya",
+            "region": "10",
+            "country": "CO",
+            "latitude": "8.69167",
+            "longitude": "-73.66639"
+        },
+        {
+            "city": "Pedraza",
+            "region": "38",
+            "country": "CO",
+            "latitude": "10.18739",
+            "longitude": "-74.91504"
+        },
+        {
+            "city": "Pay\u00e1n",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.935",
+            "longitude": "-78.205"
+        },
+        {
+            "city": "Pauna",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.65861",
+            "longitude": "-73.9825"
+        },
+        {
+            "city": "Pat\u00eda",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.06895",
+            "longitude": "-77.05273"
+        },
+        {
+            "city": "Pasto",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.21361",
+            "longitude": "-77.28111"
+        },
+        {
+            "city": "Pasca",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.30722",
+            "longitude": "-74.30056"
+        },
+        {
+            "city": "Pandi",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.19111",
+            "longitude": "-74.4875"
+        },
+        {
+            "city": "Pamplona",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.37806",
+            "longitude": "-72.6525"
+        },
+        {
+            "city": "Palocabildo",
+            "region": "28",
+            "country": "CO",
+            "latitude": "5.13333",
+            "longitude": "-75.03333"
+        },
+        {
+            "city": "Palmito",
+            "region": "27",
+            "country": "CO",
+            "latitude": "9.33333",
+            "longitude": "-75.55"
+        },
+        {
+            "city": "Palmira",
+            "region": "29",
+            "country": "CO",
+            "latitude": "3.53944",
+            "longitude": "-76.30361"
+        },
+        {
+            "city": "Palmar de Varela",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.74667",
+            "longitude": "-74.75556"
+        },
+        {
+            "city": "Palestina",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.02083",
+            "longitude": "-75.6275"
+        },
+        {
+            "city": "Palestina",
+            "region": "16",
+            "country": "CO",
+            "latitude": "1.72362",
+            "longitude": "-76.13403"
+        },
+        {
+            "city": "Palermo",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.89167",
+            "longitude": "-75.4375"
+        },
+        {
+            "city": "Pajarito",
+            "region": "32",
+            "country": "CO",
+            "latitude": "5.29417",
+            "longitude": "-72.70611"
+        },
+        {
+            "city": "Paispamba",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.25667",
+            "longitude": "-76.61861"
+        },
+        {
+            "city": "Paipa",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.78444",
+            "longitude": "-73.11306"
+        },
+        {
+            "city": "Pailitas",
+            "region": "10",
+            "country": "CO",
+            "latitude": "8.95652",
+            "longitude": "-73.62548"
+        },
+        {
+            "city": "Paicol",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.44861",
+            "longitude": "-75.77472"
+        },
+        {
+            "city": "P\u00e1ez",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.10444",
+            "longitude": "-73.05556"
+        },
+        {
+            "city": "Belalcazar",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.65472",
+            "longitude": "-75.99278"
+        },
+        {
+            "city": "Padilla",
+            "region": "09",
+            "country": "CO",
+            "latitude": "3.22583",
+            "longitude": "-76.31639"
+        },
+        {
+            "city": "P\u00e1cora",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.52972",
+            "longitude": "-75.46222"
+        },
+        {
+            "city": "Pacho",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.13278",
+            "longitude": "-74.16194"
+        },
+        {
+            "city": "Ovejas",
+            "region": "27",
+            "country": "CO",
+            "latitude": "9.53248",
+            "longitude": "-75.22382"
+        },
+        {
+            "city": "Otanche",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.66111",
+            "longitude": "-74.185"
+        },
+        {
+            "city": "Ospina",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.0625",
+            "longitude": "-77.56917"
+        },
+        {
+            "city": "Ortega",
+            "region": "28",
+            "country": "CO",
+            "latitude": "3.93889",
+            "longitude": "-75.22417"
+        },
+        {
+            "city": "Orocu\u00e9",
+            "region": "32",
+            "country": "CO",
+            "latitude": "4.79417",
+            "longitude": "-71.34"
+        },
+        {
+            "city": "Oporapa",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.04361",
+            "longitude": "-75.97361"
+        },
+        {
+            "city": "Onzaga",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.34722",
+            "longitude": "-72.82056"
+        },
+        {
+            "city": "Olaya Herrera",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.25609",
+            "longitude": "-77.49665"
+        },
+        {
+            "city": "Oiba",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.26528",
+            "longitude": "-73.29917"
+        },
+        {
+            "city": "Oca\u00f1a",
+            "region": "21",
+            "country": "CO",
+            "latitude": "8.23639",
+            "longitude": "-73.35778"
+        },
+        {
+            "city": "Obando",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.57583",
+            "longitude": "-75.97389"
+        },
+        {
+            "city": "Nuqu\u00ed",
+            "region": "11",
+            "country": "CO",
+            "latitude": "5.7125",
+            "longitude": "-77.27083"
+        },
+        {
+            "city": "Nunch\u00eda",
+            "region": "32",
+            "country": "CO",
+            "latitude": "5.64056",
+            "longitude": "-72.19861"
+        },
+        {
+            "city": "Nueva Granada",
+            "region": "38",
+            "country": "CO",
+            "latitude": "9.80168",
+            "longitude": "-74.39304"
+        },
+        {
+            "city": "N\u00f3vita",
+            "region": "11",
+            "country": "CO",
+            "latitude": "4.95511",
+            "longitude": "-76.60526"
+        },
+        {
+            "city": "Norcasia",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.56667",
+            "longitude": "-74.88333"
+        },
+        {
+            "city": "Nocaima",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.06667",
+            "longitude": "-74.38333"
+        },
+        {
+            "city": "Nobsa",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.77333",
+            "longitude": "-72.94833"
+        },
+        {
+            "city": "Nilo",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.30944",
+            "longitude": "-74.60722"
+        },
+        {
+            "city": "Nemoc\u00f3n",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.05",
+            "longitude": "-73.88333"
+        },
+        {
+            "city": "Neiva",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.9273",
+            "longitude": "-75.28188"
+        },
+        {
+            "city": "Neira",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.15",
+            "longitude": "-75.53333"
+        },
+        {
+            "city": "Necocl\u00ed",
+            "region": "02",
+            "country": "CO",
+            "latitude": "8.42342",
+            "longitude": "-76.78597"
+        },
+        {
+            "city": "Nech\u00ed",
+            "region": "02",
+            "country": "CO",
+            "latitude": "8.09639",
+            "longitude": "-74.77583"
+        },
+        {
+            "city": "Natagaima",
+            "region": "28",
+            "country": "CO",
+            "latitude": "3.62057",
+            "longitude": "-75.09415"
+        },
+        {
+            "city": "N\u00e1taga",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.54861",
+            "longitude": "-75.8275"
+        },
+        {
+            "city": "Nari\u00f1o",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.61056",
+            "longitude": "-75.17861"
+        },
+        {
+            "city": "Nari\u00f1o",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.40056",
+            "longitude": "-74.83583"
+        },
+        {
+            "city": "Nari\u00f1o",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.29546",
+            "longitude": "-77.3605"
+        },
+        {
+            "city": "Muzo",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.53528",
+            "longitude": "-74.10778"
+        },
+        {
+            "city": "Mutat\u00e1",
+            "region": "02",
+            "country": "CO",
+            "latitude": "7.24407",
+            "longitude": "-76.43564"
+        },
+        {
+            "city": "Murind\u00f3",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.99056",
+            "longitude": "-76.75667"
+        },
+        {
+            "city": "Murillo",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.87694",
+            "longitude": "-75.17389"
+        },
+        {
+            "city": "Mountain",
+            "region": "25",
+            "country": "CO",
+            "latitude": "13.36667",
+            "longitude": "-81.36667"
+        },
+        {
+            "city": "Mosquera",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.70778",
+            "longitude": "-74.23278"
+        },
+        {
+            "city": "Mosquera",
+            "region": "20",
+            "country": "CO",
+            "latitude": "2.49028",
+            "longitude": "-78.49528"
+        },
+        {
+            "city": "Morroa",
+            "region": "27",
+            "country": "CO",
+            "latitude": "9.33667",
+            "longitude": "-75.30861"
+        },
+        {
+            "city": "Morelia",
+            "region": "08",
+            "country": "CO",
+            "latitude": "1.49528",
+            "longitude": "-75.75594"
+        },
+        {
+            "city": "Morales",
+            "region": "35",
+            "country": "CO",
+            "latitude": "8.31333",
+            "longitude": "-73.87194"
+        },
+        {
+            "city": "Monter\u00eda",
+            "region": "12",
+            "country": "CO",
+            "latitude": "8.7575",
+            "longitude": "-75.89"
+        },
+        {
+            "city": "Montenegro",
+            "region": "23",
+            "country": "CO",
+            "latitude": "4.56639",
+            "longitude": "-75.75111"
+        },
+        {
+            "city": "Montel\u00edbano",
+            "region": "12",
+            "country": "CO",
+            "latitude": "7.98288",
+            "longitude": "-75.42293"
+        },
+        {
+            "city": "Montecristo",
+            "region": "35",
+            "country": "CO",
+            "latitude": "8.29944",
+            "longitude": "-74.47556"
+        },
+        {
+            "city": "Montebello",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.94806",
+            "longitude": "-75.5275"
+        },
+        {
+            "city": "Mo\u00f1itos",
+            "region": "12",
+            "country": "CO",
+            "latitude": "8.25",
+            "longitude": "-76.05"
+        },
+        {
+            "city": "Moniquir\u00e1",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.88056",
+            "longitude": "-73.57472"
+        },
+        {
+            "city": "Mongu\u00ed",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.71667",
+            "longitude": "-72.83333"
+        },
+        {
+            "city": "Mongua",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.75639",
+            "longitude": "-72.80194"
+        },
+        {
+            "city": "Momp\u00f3s",
+            "region": "35",
+            "country": "CO",
+            "latitude": "9.24194",
+            "longitude": "-74.42667"
+        },
+        {
+            "city": "Momil",
+            "region": "12",
+            "country": "CO",
+            "latitude": "9.23722",
+            "longitude": "-75.67806"
+        },
+        {
+            "city": "Molagavita",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.67583",
+            "longitude": "-72.81194"
+        },
+        {
+            "city": "Mogotes",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.47861",
+            "longitude": "-72.97444"
+        },
+        {
+            "city": "Mocoa",
+            "region": "22",
+            "country": "CO",
+            "latitude": "1.14933",
+            "longitude": "-76.64661"
+        },
+        {
+            "city": "Mit\u00fa",
+            "region": "30",
+            "country": "CO",
+            "latitude": "1.19833",
+            "longitude": "-70.17333"
+        },
+        {
+            "city": "Mistrat\u00f3",
+            "region": "24",
+            "country": "CO",
+            "latitude": "5.29944",
+            "longitude": "-75.8875"
+        },
+        {
+            "city": "Miranda",
+            "region": "09",
+            "country": "CO",
+            "latitude": "3.25333",
+            "longitude": "-76.23056"
+        },
+        {
+            "city": "Miraflores",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.19806",
+            "longitude": "-73.14806"
+        },
+        {
+            "city": "Miraflores",
+            "region": "14",
+            "country": "CO",
+            "latitude": "1.33667",
+            "longitude": "-71.95111"
+        },
+        {
+            "city": "Mil\u00e1n",
+            "region": "08",
+            "country": "CO",
+            "latitude": "1.29205",
+            "longitude": "-75.51167"
+        },
+        {
+            "city": "Mercaderes",
+            "region": "09",
+            "country": "CO",
+            "latitude": "1.80306",
+            "longitude": "-77.16972"
+        },
+        {
+            "city": "Melgar",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.20722",
+            "longitude": "-74.64556"
+        },
+        {
+            "city": "Medina",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.51005",
+            "longitude": "-73.34982"
+        },
+        {
+            "city": "Medell\u00edn",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.25184",
+            "longitude": "-75.56359"
+        },
+        {
+            "city": "Matanza",
+            "region": "26",
+            "country": "CO",
+            "latitude": "7.32528",
+            "longitude": "-73.01944"
+        },
+        {
+            "city": "Marulanda",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.28694",
+            "longitude": "-75.26333"
+        },
+        {
+            "city": "Marsella",
+            "region": "24",
+            "country": "CO",
+            "latitude": "4.93722",
+            "longitude": "-75.73778"
+        },
+        {
+            "city": "Marquetalia",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.3",
+            "longitude": "-75.05694"
+        },
+        {
+            "city": "Marmato",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.47889",
+            "longitude": "-75.5975"
+        },
+        {
+            "city": "Mariquita",
+            "region": "28",
+            "country": "CO",
+            "latitude": "5.19889",
+            "longitude": "-74.89295"
+        },
+        {
+            "city": "Marip\u00ed",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.55194",
+            "longitude": "-74.00861"
+        },
+        {
+            "city": "Marinilla",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.17667",
+            "longitude": "-75.33917"
+        },
+        {
+            "city": "Mar\u00eda la Baja",
+            "region": "35",
+            "country": "CO",
+            "latitude": "9.9832",
+            "longitude": "-75.30155"
+        },
+        {
+            "city": "Margarita",
+            "region": "35",
+            "country": "CO",
+            "latitude": "9.15472",
+            "longitude": "-74.28639"
+        },
+        {
+            "city": "Manzanares",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.32472",
+            "longitude": "-75.15694"
+        },
+        {
+            "city": "Manta",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.0175",
+            "longitude": "-73.54528"
+        },
+        {
+            "city": "Manizales",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.07",
+            "longitude": "-75.52056"
+        },
+        {
+            "city": "Man\u00ed",
+            "region": "32",
+            "country": "CO",
+            "latitude": "4.81722",
+            "longitude": "-72.28861"
+        },
+        {
+            "city": "Manaure",
+            "region": "17",
+            "country": "CO",
+            "latitude": "11.77917",
+            "longitude": "-72.44944"
+        },
+        {
+            "city": "Manat\u00ed",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.44589",
+            "longitude": "-74.95869"
+        },
+        {
+            "city": "Malambo",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.85889",
+            "longitude": "-74.77306"
+        },
+        {
+            "city": "M\u00e1laga",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.70222",
+            "longitude": "-72.73611"
+        },
+        {
+            "city": "Majagual",
+            "region": "27",
+            "country": "CO",
+            "latitude": "8.54278",
+            "longitude": "-74.63111"
+        },
+        {
+            "city": "Maicao",
+            "region": "17",
+            "country": "CO",
+            "latitude": "11.38417",
+            "longitude": "-72.24417"
+        },
+        {
+            "city": "Mahates",
+            "region": "35",
+            "country": "CO",
+            "latitude": "10.23293",
+            "longitude": "-75.18985"
+        },
+        {
+            "city": "Magangu\u00e9",
+            "region": "35",
+            "country": "CO",
+            "latitude": "9.24139",
+            "longitude": "-74.75333"
+        },
+        {
+            "city": "Madrid",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.73444",
+            "longitude": "-74.26833"
+        },
+        {
+            "city": "Machet\u00e1",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.08333",
+            "longitude": "-73.61667"
+        },
+        {
+            "city": "Maceo",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.55444",
+            "longitude": "-74.79056"
+        },
+        {
+            "city": "Luruaco",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.60921",
+            "longitude": "-75.14309"
+        },
+        {
+            "city": "Lourdes",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.95",
+            "longitude": "-72.83333"
+        },
+        {
+            "city": "Los Patios",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.83833",
+            "longitude": "-72.51333"
+        },
+        {
+            "city": "Los Palmitos",
+            "region": "27",
+            "country": "CO",
+            "latitude": "9.38111",
+            "longitude": "-75.27139"
+        },
+        {
+            "city": "Los C\u00f3rdobas",
+            "region": "12",
+            "country": "CO",
+            "latitude": "8.9",
+            "longitude": "-76.35972"
+        },
+        {
+            "city": "Lorica",
+            "region": "12",
+            "country": "CO",
+            "latitude": "9.23167",
+            "longitude": "-75.81972"
+        },
+        {
+            "city": "L\u00f3pez",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.43333",
+            "longitude": "-76.8"
+        },
+        {
+            "city": "Llor\u00f3",
+            "region": "11",
+            "country": "CO",
+            "latitude": "5.49605",
+            "longitude": "-76.54945"
+        },
+        {
+            "city": "Linares",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.35783",
+            "longitude": "-77.52725"
+        },
+        {
+            "city": "Liborina",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.68444",
+            "longitude": "-75.81611"
+        },
+        {
+            "city": "L\u00edbano",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.92639",
+            "longitude": "-75.0675"
+        },
+        {
+            "city": "Leticia",
+            "region": "01",
+            "country": "CO",
+            "latitude": "-4.21528",
+            "longitude": "-69.94056"
+        },
+        {
+            "city": "L\u00e9rida",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.86242",
+            "longitude": "-74.90977"
+        },
+        {
+            "city": "Lenguazaque",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.3",
+            "longitude": "-73.71667"
+        },
+        {
+            "city": "Leiva",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.93389",
+            "longitude": "-77.30253"
+        },
+        {
+            "city": "Lebrija",
+            "region": "26",
+            "country": "CO",
+            "latitude": "7.1175",
+            "longitude": "-73.22167"
+        },
+        {
+            "city": "La Virginia",
+            "region": "24",
+            "country": "CO",
+            "latitude": "4.89972",
+            "longitude": "-75.8825"
+        },
+        {
+            "city": "La Victoria",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.52389",
+            "longitude": "-76.04111"
+        },
+        {
+            "city": "La Vega",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.00222",
+            "longitude": "-74.34278"
+        },
+        {
+            "city": "La Vega",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.00628",
+            "longitude": "-76.78028"
+        },
+        {
+            "city": "La Uvita",
+            "region": "36",
+            "country": "CO",
+            "latitude": "6.32",
+            "longitude": "-72.56444"
+        },
+        {
+            "city": "La Uni\u00f3n",
+            "region": "27",
+            "country": "CO",
+            "latitude": "8.86056",
+            "longitude": "-75.28056"
+        },
+        {
+            "city": "La Uni\u00f3n",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.97722",
+            "longitude": "-75.365"
+        },
+        {
+            "city": "La Uni\u00f3n",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.53583",
+            "longitude": "-76.10667"
+        },
+        {
+            "city": "La Uni\u00f3n",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.60639",
+            "longitude": "-77.13389"
+        },
+        {
+            "city": "La Tebaida",
+            "region": "23",
+            "country": "CO",
+            "latitude": "4.45528",
+            "longitude": "-75.79056"
+        },
+        {
+            "city": "La Sierra",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.17835",
+            "longitude": "-76.76265"
+        },
+        {
+            "city": "La Primavera",
+            "region": "31",
+            "country": "CO",
+            "latitude": "5.49056",
+            "longitude": "-70.40917"
+        },
+        {
+            "city": "La Playa",
+            "region": "21",
+            "country": "CO",
+            "latitude": "8.21639",
+            "longitude": "-73.24139"
+        },
+        {
+            "city": "La Plata",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.39167",
+            "longitude": "-75.89167"
+        },
+        {
+            "city": "La Pintada",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.75",
+            "longitude": "-75.6"
+        },
+        {
+            "city": "La Pe\u00f1a",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.2",
+            "longitude": "-74.4"
+        },
+        {
+            "city": "La Paz",
+            "region": "10",
+            "country": "CO",
+            "latitude": "10.38439",
+            "longitude": "-73.17332"
+        },
+        {
+            "city": "La Paz",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.19194",
+            "longitude": "-73.58028"
+        },
+        {
+            "city": "Land\u00e1zuri",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.22389",
+            "longitude": "-73.81278"
+        },
+        {
+            "city": "La Monta\u00f1ita",
+            "region": "08",
+            "country": "CO",
+            "latitude": "1.4879",
+            "longitude": "-75.43908"
+        },
+        {
+            "city": "La Mesa",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.26667",
+            "longitude": "-73.91667"
+        },
+        {
+            "city": "La Merced",
+            "region": "24",
+            "country": "CO",
+            "latitude": "5.40194",
+            "longitude": "-75.88472"
+        },
+        {
+            "city": "La Llanada",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.48997",
+            "longitude": "-77.58347"
+        },
+        {
+            "city": "La Jagua de Ibirico",
+            "region": "10",
+            "country": "CO",
+            "latitude": "9.56228",
+            "longitude": "-73.33405"
+        },
+        {
+            "city": "La Gloria",
+            "region": "10",
+            "country": "CO",
+            "latitude": "8.62278",
+            "longitude": "-73.80833"
+        },
+        {
+            "city": "La Florida",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.30167",
+            "longitude": "-77.41056"
+        },
+        {
+            "city": "La Estrella",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.16056",
+            "longitude": "-75.64694"
+        },
+        {
+            "city": "La Esperanza",
+            "region": "21",
+            "country": "CO",
+            "latitude": "8.16667",
+            "longitude": "-72.46667"
+        },
+        {
+            "city": "La Dorada",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.44783",
+            "longitude": "-74.66311"
+        },
+        {
+            "city": "La Cruz",
+            "region": "09",
+            "country": "CO",
+            "latitude": "1.60301",
+            "longitude": "-76.96901"
+        },
+        {
+            "city": "La Celia",
+            "region": "24",
+            "country": "CO",
+            "latitude": "5.04333",
+            "longitude": "-76.01667"
+        },
+        {
+            "city": "La Ceja",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.03361",
+            "longitude": "-75.43556"
+        },
+        {
+            "city": "La Capilla",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.7",
+            "longitude": "-73.48333"
+        },
+        {
+            "city": "La Calera",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.72278",
+            "longitude": "-73.97167"
+        },
+        {
+            "city": "La Belleza",
+            "region": "26",
+            "country": "CO",
+            "latitude": "5.86139",
+            "longitude": "-73.96833"
+        },
+        {
+            "city": "Labateca",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.30222",
+            "longitude": "-72.49778"
+        },
+        {
+            "city": "Jurad\u00f3",
+            "region": "11",
+            "country": "CO",
+            "latitude": "7.09635",
+            "longitude": "-77.75106"
+        },
+        {
+            "city": "Jun\u00edn",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.79027",
+            "longitude": "-73.66011"
+        },
+        {
+            "city": "Juan de Acosta",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.82813",
+            "longitude": "-75.03341"
+        },
+        {
+            "city": "Jeric\u00f3",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.79211",
+            "longitude": "-75.78601"
+        },
+        {
+            "city": "Jenesano",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.38889",
+            "longitude": "-73.36806"
+        },
+        {
+            "city": "Jard\u00edn",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.59902",
+            "longitude": "-75.81976"
+        },
+        {
+            "city": "Jamund\u00ed",
+            "region": "29",
+            "country": "CO",
+            "latitude": "3.26074",
+            "longitude": "-76.53499"
+        },
+        {
+            "city": "Jambal\u00f3",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.78861",
+            "longitude": "-76.32861"
+        },
+        {
+            "city": "Ituango",
+            "region": "02",
+            "country": "CO",
+            "latitude": "7.17117",
+            "longitude": "-75.76404"
+        },
+        {
+            "city": "Itag\u00fc\u00ed",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.17194",
+            "longitude": "-75.61139"
+        },
+        {
+            "city": "Istmina",
+            "region": "11",
+            "country": "CO",
+            "latitude": "5.16054",
+            "longitude": "-76.68397"
+        },
+        {
+            "city": "Iscuand\u00e9",
+            "region": "20",
+            "country": "CO",
+            "latitude": "2.44444",
+            "longitude": "-77.97167"
+        },
+        {
+            "city": "\u00cdquira",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.65389",
+            "longitude": "-75.64833"
+        },
+        {
+            "city": "Ipiales",
+            "region": "20",
+            "country": "CO",
+            "latitude": "0.83028",
+            "longitude": "-77.64444"
+        },
+        {
+            "city": "Inz\u00e1",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.55667",
+            "longitude": "-76.06667"
+        },
+        {
+            "city": "Imu\u00e9s",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.06072",
+            "longitude": "-77.50044"
+        },
+        {
+            "city": "Iles",
+            "region": "20",
+            "country": "CO",
+            "latitude": "0.97491",
+            "longitude": "-77.52741"
+        },
+        {
+            "city": "Icononzo",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.18",
+            "longitude": "-74.53611"
+        },
+        {
+            "city": "Ibagu\u00e9",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.43889",
+            "longitude": "-75.23222"
+        },
+        {
+            "city": "Honda",
+            "region": "28",
+            "country": "CO",
+            "latitude": "5.20856",
+            "longitude": "-74.73584"
+        },
+        {
+            "city": "Hobo",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.58333",
+            "longitude": "-75.45"
+        },
+        {
+            "city": "Hispania",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.79925",
+            "longitude": "-75.90718"
+        },
+        {
+            "city": "Herveo",
+            "region": "28",
+            "country": "CO",
+            "latitude": "5.08333",
+            "longitude": "-75.16667"
+        },
+        {
+            "city": "Herr\u00e1n",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.50972",
+            "longitude": "-72.48667"
+        },
+        {
+            "city": "Heliconia",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.21083",
+            "longitude": "-75.73472"
+        },
+        {
+            "city": "Municipio Hato Corozal",
+            "region": "32",
+            "country": "CO",
+            "latitude": "6.15676",
+            "longitude": "-71.76372"
+        },
+        {
+            "city": "Hatillo de Loba",
+            "region": "35",
+            "country": "CO",
+            "latitude": "8.95635",
+            "longitude": "-74.0782"
+        },
+        {
+            "city": "Hacar\u00ed",
+            "region": "21",
+            "country": "CO",
+            "latitude": "8.32333",
+            "longitude": "-73.14889"
+        },
+        {
+            "city": "G\u00fcic\u00e1n",
+            "region": "36",
+            "country": "CO",
+            "latitude": "6.46528",
+            "longitude": "-72.415"
+        },
+        {
+            "city": "G\u00fcepsa",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.01667",
+            "longitude": "-73.56667"
+        },
+        {
+            "city": "Guayat\u00e1",
+            "region": "36",
+            "country": "CO",
+            "latitude": "4.96417",
+            "longitude": "-73.4875"
+        },
+        {
+            "city": "Guayabetal",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.21472",
+            "longitude": "-73.81719"
+        },
+        {
+            "city": "Guayabal de S\u00edquima",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.88139",
+            "longitude": "-74.47028"
+        },
+        {
+            "city": "Gu\u00e1tica",
+            "region": "24",
+            "country": "CO",
+            "latitude": "5.31569",
+            "longitude": "-75.79826"
+        },
+        {
+            "city": "Guateque",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.01",
+            "longitude": "-73.52167"
+        },
+        {
+            "city": "Guatavita",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.93694",
+            "longitude": "-73.8325"
+        },
+        {
+            "city": "Guataqu\u00ed",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.51889",
+            "longitude": "-74.79361"
+        },
+        {
+            "city": "Guatap\u00e9",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.23667",
+            "longitude": "-75.16361"
+        },
+        {
+            "city": "Guasca",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.86639",
+            "longitude": "-73.87611"
+        },
+        {
+            "city": "Guarne",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.28222",
+            "longitude": "-75.44694"
+        },
+        {
+            "city": "Guapi",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.55639",
+            "longitude": "-77.86389"
+        },
+        {
+            "city": "Guamo",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.03078",
+            "longitude": "-74.9701"
+        },
+        {
+            "city": "Guamal",
+            "region": "38",
+            "country": "CO",
+            "latitude": "9.14334",
+            "longitude": "-74.22384"
+        },
+        {
+            "city": "Guamal",
+            "region": "19",
+            "country": "CO",
+            "latitude": "3.88043",
+            "longitude": "-73.76566"
+        },
+        {
+            "city": "Gualmat\u00e1n",
+            "region": "20",
+            "country": "CO",
+            "latitude": "0.91917",
+            "longitude": "-77.56611"
+        },
+        {
+            "city": "Guaitarilla",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.13855",
+            "longitude": "-77.55301"
+        },
+        {
+            "city": "Guaduas",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.06692",
+            "longitude": "-74.59499"
+        },
+        {
+            "city": "Guadalupe",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.8175",
+            "longitude": "-75.24417"
+        },
+        {
+            "city": "Guadalupe",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.24722",
+            "longitude": "-73.41833"
+        },
+        {
+            "city": "Guadalupe",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.02347",
+            "longitude": "-75.7594"
+        },
+        {
+            "city": "Guachucal",
+            "region": "20",
+            "country": "CO",
+            "latitude": "0.96389",
+            "longitude": "-77.73444"
+        },
+        {
+            "city": "Guachet\u00e1",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.38639",
+            "longitude": "-73.69"
+        },
+        {
+            "city": "Guacar\u00ed",
+            "region": "29",
+            "country": "CO",
+            "latitude": "3.76944",
+            "longitude": "-76.33806"
+        },
+        {
+            "city": "Guaca",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.87889",
+            "longitude": "-72.85944"
+        },
+        {
+            "city": "Granada",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.14667",
+            "longitude": "-75.18833"
+        },
+        {
+            "city": "Granada",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.06667",
+            "longitude": "-74.56667"
+        },
+        {
+            "city": "Granada",
+            "region": "19",
+            "country": "CO",
+            "latitude": "3.53861",
+            "longitude": "-73.70056"
+        },
+        {
+            "city": "Gramalote",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.89167",
+            "longitude": "-72.80083"
+        },
+        {
+            "city": "Gonz\u00e1lez",
+            "region": "10",
+            "country": "CO",
+            "latitude": "8.39306",
+            "longitude": "-73.38444"
+        },
+        {
+            "city": "G\u00f3mez Plata",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.68361",
+            "longitude": "-75.22194"
+        },
+        {
+            "city": "Gir\u00f3n",
+            "region": "26",
+            "country": "CO",
+            "latitude": "7.07083",
+            "longitude": "-73.17306"
+        },
+        {
+            "city": "Girardot",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.30306",
+            "longitude": "-74.80083"
+        },
+        {
+            "city": "Giraldo",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.68306",
+            "longitude": "-75.98917"
+        },
+        {
+            "city": "Ginebra",
+            "region": "29",
+            "country": "CO",
+            "latitude": "3.72861",
+            "longitude": "-76.27056"
+        },
+        {
+            "city": "Gigante",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.38667",
+            "longitude": "-75.54611"
+        },
+        {
+            "city": "G\u00e9nova",
+            "region": "23",
+            "country": "CO",
+            "latitude": "4.31667",
+            "longitude": "-75.76667"
+        },
+        {
+            "city": "G\u00e9nova",
+            "region": "09",
+            "country": "CO",
+            "latitude": "1.64322",
+            "longitude": "-77.02433"
+        },
+        {
+            "city": "Garz\u00f3n",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.19917",
+            "longitude": "-75.64972"
+        },
+        {
+            "city": "Garagoa",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.08333",
+            "longitude": "-73.36611"
+        },
+        {
+            "city": "G\u00e1meza",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.80556",
+            "longitude": "-72.8075"
+        },
+        {
+            "city": "Gamarra",
+            "region": "10",
+            "country": "CO",
+            "latitude": "8.32279",
+            "longitude": "-73.74268"
+        },
+        {
+            "city": "Galeras",
+            "region": "27",
+            "country": "CO",
+            "latitude": "9.16306",
+            "longitude": "-75.0525"
+        },
+        {
+            "city": "Galapa",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.89686",
+            "longitude": "-74.886"
+        },
+        {
+            "city": "Gal\u00e1n",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.64056",
+            "longitude": "-73.29139"
+        },
+        {
+            "city": "Gachancip\u00e1",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5",
+            "longitude": "-73.88333"
+        },
+        {
+            "city": "Gachal\u00e1",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.69244",
+            "longitude": "-73.52042"
+        },
+        {
+            "city": "Fusagasuga",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.34389",
+            "longitude": "-74.36778"
+        },
+        {
+            "city": "Funza",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.71667",
+            "longitude": "-74.21667"
+        },
+        {
+            "city": "Funes",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.00266",
+            "longitude": "-77.45067"
+        },
+        {
+            "city": "Fundaci\u00f3n",
+            "region": "38",
+            "country": "CO",
+            "latitude": "10.52139",
+            "longitude": "-74.18667"
+        },
+        {
+            "city": "Fuente de Oro",
+            "region": "19",
+            "country": "CO",
+            "latitude": "3.45944",
+            "longitude": "-73.61278"
+        },
+        {
+            "city": "Frontino",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.77778",
+            "longitude": "-76.12861"
+        },
+        {
+            "city": "Fresno",
+            "region": "28",
+            "country": "CO",
+            "latitude": "5.15556",
+            "longitude": "-75.04028"
+        },
+        {
+            "city": "Fosca",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.33916",
+            "longitude": "-73.93852"
+        },
+        {
+            "city": "Municipio de Fortul",
+            "region": "03",
+            "country": "CO",
+            "latitude": "6.79277",
+            "longitude": "-71.7717"
+        },
+        {
+            "city": "Fonseca",
+            "region": "17",
+            "country": "CO",
+            "latitude": "10.89222",
+            "longitude": "-72.85389"
+        },
+        {
+            "city": "F\u00f3meque",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.48797",
+            "longitude": "-73.89749"
+        },
+        {
+            "city": "Floridablanca",
+            "region": "26",
+            "country": "CO",
+            "latitude": "7.06472",
+            "longitude": "-73.08972"
+        },
+        {
+            "city": "Florida",
+            "region": "29",
+            "country": "CO",
+            "latitude": "3.3275",
+            "longitude": "-76.23861"
+        },
+        {
+            "city": "Flori\u00e1n",
+            "region": "26",
+            "country": "CO",
+            "latitude": "5.80472",
+            "longitude": "-73.97417"
+        },
+        {
+            "city": "Floresta",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.86194",
+            "longitude": "-72.92222"
+        },
+        {
+            "city": "Florencia",
+            "region": "09",
+            "country": "CO",
+            "latitude": "1.68318",
+            "longitude": "-77.0733"
+        },
+        {
+            "city": "Florencia",
+            "region": "08",
+            "country": "CO",
+            "latitude": "1.63377",
+            "longitude": "-75.58659"
+        },
+        {
+            "city": "Flandes",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.29028",
+            "longitude": "-74.81861"
+        },
+        {
+            "city": "Firavitoba",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.65278",
+            "longitude": "-72.99639"
+        },
+        {
+            "city": "Filandia",
+            "region": "23",
+            "country": "CO",
+            "latitude": "4.67472",
+            "longitude": "-75.65833"
+        },
+        {
+            "city": "Filadelfia",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.30778",
+            "longitude": "-75.56361"
+        },
+        {
+            "city": "Falan",
+            "region": "28",
+            "country": "CO",
+            "latitude": "5.11564",
+            "longitude": "-74.94894"
+        },
+        {
+            "city": "Facatativ\u00e1",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.81667",
+            "longitude": "-74.36667"
+        },
+        {
+            "city": "Espinal",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.14924",
+            "longitude": "-74.88429"
+        },
+        {
+            "city": "Envigado",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.17306",
+            "longitude": "-75.56389"
+        },
+        {
+            "city": "Entrerr\u00edos",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.56611",
+            "longitude": "-75.5175"
+        },
+        {
+            "city": "El Zulia",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.93556",
+            "longitude": "-72.605"
+        },
+        {
+            "city": "El Tambo",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.45199",
+            "longitude": "-76.81029"
+        },
+        {
+            "city": "El Tambo",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.41814",
+            "longitude": "-77.39678"
+        },
+        {
+            "city": "El Tabl\u00f3n",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.43188",
+            "longitude": "-77.09664"
+        },
+        {
+            "city": "El Rosario",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.74173",
+            "longitude": "-77.3352"
+        },
+        {
+            "city": "El Rosal",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.85",
+            "longitude": "-74.26667"
+        },
+        {
+            "city": "El Roble",
+            "region": "27",
+            "country": "CO",
+            "latitude": "9.1",
+            "longitude": "-75.2"
+        },
+        {
+            "city": "El Ret\u00e9n",
+            "region": "38",
+            "country": "CO",
+            "latitude": "10.61667",
+            "longitude": "-74.26667"
+        },
+        {
+            "city": "El Pi\u00f1\u00f3n",
+            "region": "38",
+            "country": "CO",
+            "latitude": "10.40583",
+            "longitude": "-74.82694"
+        },
+        {
+            "city": "El Pe\u00f1\u00f3n",
+            "region": "38",
+            "country": "CO",
+            "latitude": "8.98916",
+            "longitude": "-73.94857"
+        },
+        {
+            "city": "El Pe\u00f1ol",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.45987",
+            "longitude": "-77.44544"
+        },
+        {
+            "city": "El Paujil",
+            "region": "08",
+            "country": "CO",
+            "latitude": "1.57006",
+            "longitude": "-75.32863"
+        },
+        {
+            "city": "El Paso",
+            "region": "10",
+            "country": "CO",
+            "latitude": "9.66057",
+            "longitude": "-73.74723"
+        },
+        {
+            "city": "El Molino",
+            "region": "17",
+            "country": "CO",
+            "latitude": "10.65333",
+            "longitude": "-72.92417"
+        },
+        {
+            "city": "El\u00edas",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.0117",
+            "longitude": "-75.93968"
+        },
+        {
+            "city": "El Guamo",
+            "region": "35",
+            "country": "CO",
+            "latitude": "10.03155",
+            "longitude": "-74.97612"
+        },
+        {
+            "city": "El Espino",
+            "region": "36",
+            "country": "CO",
+            "latitude": "6.48639",
+            "longitude": "-72.43278"
+        },
+        {
+            "city": "El Dovio",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.5125",
+            "longitude": "-76.24111"
+        },
+        {
+            "city": "El Doncello",
+            "region": "08",
+            "country": "CO",
+            "latitude": "1.67817",
+            "longitude": "-75.28466"
+        },
+        {
+            "city": "El Copey",
+            "region": "10",
+            "country": "CO",
+            "latitude": "10.15031",
+            "longitude": "-73.9614"
+        },
+        {
+            "city": "El Cocuy",
+            "region": "36",
+            "country": "CO",
+            "latitude": "6.41333",
+            "longitude": "-72.44972"
+        },
+        {
+            "city": "El Charco",
+            "region": "20",
+            "country": "CO",
+            "latitude": "2.47611",
+            "longitude": "-78.11694"
+        },
+        {
+            "city": "El Cerrito",
+            "region": "29",
+            "country": "CO",
+            "latitude": "3.68806",
+            "longitude": "-76.31667"
+        },
+        {
+            "city": "El Castillo",
+            "region": "19",
+            "country": "CO",
+            "latitude": "3.56806",
+            "longitude": "-73.78389"
+        },
+        {
+            "city": "El Carmen de Bol\u00edvar",
+            "region": "35",
+            "country": "CO",
+            "latitude": "9.7174",
+            "longitude": "-75.12023"
+        },
+        {
+            "city": "El Carmen",
+            "region": "21",
+            "country": "CO",
+            "latitude": "8.51278",
+            "longitude": "-73.45083"
+        },
+        {
+            "city": "El Carmen",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.69806",
+            "longitude": "-73.51111"
+        },
+        {
+            "city": "El Carmen",
+            "region": "11",
+            "country": "CO",
+            "latitude": "5.88778",
+            "longitude": "-75.16417"
+        },
+        {
+            "city": "El Cairo",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.76306",
+            "longitude": "-76.22639"
+        },
+        {
+            "city": "El Bordo",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.11696",
+            "longitude": "-76.98214"
+        },
+        {
+            "city": "El Banco",
+            "region": "38",
+            "country": "CO",
+            "latitude": "9.00114",
+            "longitude": "-73.97581"
+        },
+        {
+            "city": "El Bagre",
+            "region": "02",
+            "country": "CO",
+            "latitude": "7.59417",
+            "longitude": "-74.81194"
+        },
+        {
+            "city": "El \u00c1guila",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.90917",
+            "longitude": "-76.04306"
+        },
+        {
+            "city": "Eb\u00e9jico",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.32861",
+            "longitude": "-75.76861"
+        },
+        {
+            "city": "Durania",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.71722",
+            "longitude": "-72.66"
+        },
+        {
+            "city": "Duitama",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.82694",
+            "longitude": "-73.02028"
+        },
+        {
+            "city": "Dos Quebradas",
+            "region": "24",
+            "country": "CO",
+            "latitude": "4.83472",
+            "longitude": "-75.6725"
+        },
+        {
+            "city": "Don Mat\u00edas",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.48972",
+            "longitude": "-75.42944"
+        },
+        {
+            "city": "Distracci\u00f3n",
+            "region": "17",
+            "country": "CO",
+            "latitude": "10.89778",
+            "longitude": "-72.88694"
+        },
+        {
+            "city": "Dibulla",
+            "region": "17",
+            "country": "CO",
+            "latitude": "11.27222",
+            "longitude": "-73.30556"
+        },
+        {
+            "city": "Dagua",
+            "region": "29",
+            "country": "CO",
+            "latitude": "3.66028",
+            "longitude": "-76.69278"
+        },
+        {
+            "city": "Dabeiba",
+            "region": "02",
+            "country": "CO",
+            "latitude": "7.00361",
+            "longitude": "-76.26278"
+        },
+        {
+            "city": "Curuman\u00ed",
+            "region": "10",
+            "country": "CO",
+            "latitude": "9.19992",
+            "longitude": "-73.54274"
+        },
+        {
+            "city": "Curit\u00ed",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.61",
+            "longitude": "-73.07167"
+        },
+        {
+            "city": "Cunday",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.06333",
+            "longitude": "-74.69528"
+        },
+        {
+            "city": "Cumbitara",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.65174",
+            "longitude": "-77.58225"
+        },
+        {
+            "city": "Cumbal",
+            "region": "20",
+            "country": "CO",
+            "latitude": "0.91194",
+            "longitude": "-77.795"
+        },
+        {
+            "city": "Cumaral",
+            "region": "19",
+            "country": "CO",
+            "latitude": "4.2708",
+            "longitude": "-73.48669"
+        },
+        {
+            "city": "Cucutilla",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.54222",
+            "longitude": "-72.77667"
+        },
+        {
+            "city": "C\u00facuta",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.88333",
+            "longitude": "-72.50528"
+        },
+        {
+            "city": "Cucunub\u00e1",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.25306",
+            "longitude": "-73.77139"
+        },
+        {
+            "city": "Cucaita",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.53333",
+            "longitude": "-73.46667"
+        },
+        {
+            "city": "Cubar\u00e1",
+            "region": "36",
+            "country": "CO",
+            "latitude": "7.04111",
+            "longitude": "-72.06083"
+        },
+        {
+            "city": "Cruces de Anor\u00ed",
+            "region": "02",
+            "country": "CO",
+            "latitude": "7.18333",
+            "longitude": "-75.06667"
+        },
+        {
+            "city": "Cravo Norte",
+            "region": "03",
+            "country": "CO",
+            "latitude": "6.30306",
+            "longitude": "-70.20167"
+        },
+        {
+            "city": "Coyaima",
+            "region": "28",
+            "country": "CO",
+            "latitude": "3.79936",
+            "longitude": "-75.19467"
+        },
+        {
+            "city": "Cotorra",
+            "region": "12",
+            "country": "CO",
+            "latitude": "9.05",
+            "longitude": "-75.8"
+        },
+        {
+            "city": "Cota",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.81667",
+            "longitude": "-74.1"
+        },
+        {
+            "city": "Corrales",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.83333",
+            "longitude": "-72.85"
+        },
+        {
+            "city": "Corozal",
+            "region": "27",
+            "country": "CO",
+            "latitude": "9.31778",
+            "longitude": "-75.29583"
+        },
+        {
+            "city": "Coromoro",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.29472",
+            "longitude": "-73.04111"
+        },
+        {
+            "city": "Corinto",
+            "region": "09",
+            "country": "CO",
+            "latitude": "3.17778",
+            "longitude": "-76.26222"
+        },
+        {
+            "city": "C\u00f3rdoba",
+            "region": "35",
+            "country": "CO",
+            "latitude": "9.58612",
+            "longitude": "-74.82705"
+        },
+        {
+            "city": "C\u00f3rdoba",
+            "region": "23",
+            "country": "CO",
+            "latitude": "4.39056",
+            "longitude": "-75.68889"
+        },
+        {
+            "city": "C\u00f3rdoba",
+            "region": "20",
+            "country": "CO",
+            "latitude": "0.85905",
+            "longitude": "-77.5195"
+        },
+        {
+            "city": "Copacabana",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.34633",
+            "longitude": "-75.50888"
+        },
+        {
+            "city": "Contrataci\u00f3n",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.29",
+            "longitude": "-73.47528"
+        },
+        {
+            "city": "Contadero",
+            "region": "20",
+            "country": "CO",
+            "latitude": "0.91",
+            "longitude": "-77.55056"
+        },
+        {
+            "city": "Consac\u00e1",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.21544",
+            "longitude": "-77.46955"
+        },
+        {
+            "city": "Condoto",
+            "region": "11",
+            "country": "CO",
+            "latitude": "5.09351",
+            "longitude": "-76.64973"
+        },
+        {
+            "city": "Concordia",
+            "region": "38",
+            "country": "CO",
+            "latitude": "9.83545",
+            "longitude": "-74.45548"
+        },
+        {
+            "city": "Concordia",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.04944",
+            "longitude": "-75.90944"
+        },
+        {
+            "city": "Concepci\u00f3n",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.77083",
+            "longitude": "-72.69833"
+        },
+        {
+            "city": "Concepci\u00f3n",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.39722",
+            "longitude": "-75.25778"
+        },
+        {
+            "city": "Combita",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.63333",
+            "longitude": "-73.31667"
+        },
+        {
+            "city": "Colos\u00f3",
+            "region": "27",
+            "country": "CO",
+            "latitude": "9.4915",
+            "longitude": "-75.36145"
+        },
+        {
+            "city": "Col\u00f3n",
+            "region": "22",
+            "country": "CO",
+            "latitude": "1.19117",
+            "longitude": "-76.9685"
+        },
+        {
+            "city": "Colombia",
+            "region": "16",
+            "country": "CO",
+            "latitude": "3.37778",
+            "longitude": "-74.80778"
+        },
+        {
+            "city": "Cogua",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.06667",
+            "longitude": "-73.98333"
+        },
+        {
+            "city": "Cocorn\u00e1",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.06083",
+            "longitude": "-75.18917"
+        },
+        {
+            "city": "Clemencia",
+            "region": "35",
+            "country": "CO",
+            "latitude": "10.56646",
+            "longitude": "-75.32499"
+        },
+        {
+            "city": "Cisneros",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.53833",
+            "longitude": "-75.08861"
+        },
+        {
+            "city": "Circasia",
+            "region": "23",
+            "country": "CO",
+            "latitude": "4.61889",
+            "longitude": "-75.63583"
+        },
+        {
+            "city": "Cimitarra",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.31611",
+            "longitude": "-73.95056"
+        },
+        {
+            "city": "Ci\u00e9nega",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.4",
+            "longitude": "-73.3"
+        },
+        {
+            "city": "Ci\u00e9naga de Oro",
+            "region": "12",
+            "country": "CO",
+            "latitude": "8.87806",
+            "longitude": "-75.62417"
+        },
+        {
+            "city": "Ci\u00e9naga",
+            "region": "38",
+            "country": "CO",
+            "latitude": "11.00944",
+            "longitude": "-74.25417"
+        },
+        {
+            "city": "Cicuco",
+            "region": "35",
+            "country": "CO",
+            "latitude": "9.26306",
+            "longitude": "-74.65694"
+        },
+        {
+            "city": "Chocont\u00e1",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.15",
+            "longitude": "-73.68333"
+        },
+        {
+            "city": "Choach\u00ed",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.53111",
+            "longitude": "-73.92583"
+        },
+        {
+            "city": "Chivolo",
+            "region": "38",
+            "country": "CO",
+            "latitude": "10.02502",
+            "longitude": "-74.62279"
+        },
+        {
+            "city": "Chitag\u00e1",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.14056",
+            "longitude": "-72.6675"
+        },
+        {
+            "city": "Chita",
+            "region": "36",
+            "country": "CO",
+            "latitude": "6.18944",
+            "longitude": "-72.47667"
+        },
+        {
+            "city": "Chiscas",
+            "region": "36",
+            "country": "CO",
+            "latitude": "6.53944",
+            "longitude": "-72.50333"
+        },
+        {
+            "city": "Chiriguan\u00e1",
+            "region": "10",
+            "country": "CO",
+            "latitude": "9.36238",
+            "longitude": "-73.60314"
+        },
+        {
+            "city": "Chiquinquir\u00e1",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.61889",
+            "longitude": "-73.82"
+        },
+        {
+            "city": "Chipaque",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.4425",
+            "longitude": "-74.04417"
+        },
+        {
+            "city": "Chin\u00fa",
+            "region": "12",
+            "country": "CO",
+            "latitude": "9.10861",
+            "longitude": "-75.39972"
+        },
+        {
+            "city": "Chinchin\u00e1",
+            "region": "37",
+            "country": "CO",
+            "latitude": "4.9825",
+            "longitude": "-75.60361"
+        },
+        {
+            "city": "Chinavita",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.17",
+            "longitude": "-73.37222"
+        },
+        {
+            "city": "Chin\u00e1cota",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.60972",
+            "longitude": "-72.60389"
+        },
+        {
+            "city": "Chimichagua",
+            "region": "10",
+            "country": "CO",
+            "latitude": "9.25778",
+            "longitude": "-73.81228"
+        },
+        {
+            "city": "Chim\u00e1",
+            "region": "12",
+            "country": "CO",
+            "latitude": "9.15194",
+            "longitude": "-75.63333"
+        },
+        {
+            "city": "Chigorod\u00f3",
+            "region": "02",
+            "country": "CO",
+            "latitude": "7.66638",
+            "longitude": "-76.68106"
+        },
+        {
+            "city": "Ch\u00eda",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.86667",
+            "longitude": "-74.06667"
+        },
+        {
+            "city": "Chaparral",
+            "region": "28",
+            "country": "CO",
+            "latitude": "3.72315",
+            "longitude": "-75.48316"
+        },
+        {
+            "city": "Chal\u00e1n",
+            "region": "27",
+            "country": "CO",
+            "latitude": "9.54765",
+            "longitude": "-75.31128"
+        },
+        {
+            "city": "Chaguan\u00ed",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.95306",
+            "longitude": "-74.5975"
+        },
+        {
+            "city": "Chachag\u00fc\u00ed",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.35943",
+            "longitude": "-77.28367"
+        },
+        {
+            "city": "C\u00e9rtegui",
+            "region": "11",
+            "country": "CO",
+            "latitude": "5.37073",
+            "longitude": "-76.6044"
+        },
+        {
+            "city": "Cerro de San Antonio",
+            "region": "38",
+            "country": "CO",
+            "latitude": "10.32585",
+            "longitude": "-74.86933"
+        },
+        {
+            "city": "Cerrito",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.84528",
+            "longitude": "-72.69778"
+        },
+        {
+            "city": "Cerinza",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.95",
+            "longitude": "-72.95"
+        },
+        {
+            "city": "Ceret\u00e9",
+            "region": "12",
+            "country": "CO",
+            "latitude": "8.88556",
+            "longitude": "-75.79667"
+        },
+        {
+            "city": "Caucasia",
+            "region": "02",
+            "country": "CO",
+            "latitude": "7.98694",
+            "longitude": "-75.19722"
+        },
+        {
+            "city": "Castilla La Nueva",
+            "region": "19",
+            "country": "CO",
+            "latitude": "3.82845",
+            "longitude": "-73.67987"
+        },
+        {
+            "city": "Casabianca",
+            "region": "28",
+            "country": "CO",
+            "latitude": "5.08222",
+            "longitude": "-75.12278"
+        },
+        {
+            "city": "Cartago",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.74639",
+            "longitude": "-75.91167"
+        },
+        {
+            "city": "Cartago",
+            "region": "09",
+            "country": "CO",
+            "latitude": "1.56305",
+            "longitude": "-77.1176"
+        },
+        {
+            "city": "Cartagena",
+            "region": "35",
+            "country": "CO",
+            "latitude": "10.39972",
+            "longitude": "-75.51444"
+        },
+        {
+            "city": "Carolina",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.72583",
+            "longitude": "-75.28417"
+        },
+        {
+            "city": "Carmen de Viboral",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.085",
+            "longitude": "-75.33861"
+        },
+        {
+            "city": "Carmen de Carupa",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.35028",
+            "longitude": "-73.90528"
+        },
+        {
+            "city": "Carmen de Apical\u00e1",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.15",
+            "longitude": "-74.73333"
+        },
+        {
+            "city": "Carlosama",
+            "region": "20",
+            "country": "CO",
+            "latitude": "0.86583",
+            "longitude": "-77.72944"
+        },
+        {
+            "city": "Caramanta",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.54139",
+            "longitude": "-75.64722"
+        },
+        {
+            "city": "Caracol\u00ed",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.41194",
+            "longitude": "-74.76056"
+        },
+        {
+            "city": "C\u00e1queza",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.40569",
+            "longitude": "-73.94683"
+        },
+        {
+            "city": "Capitanejo",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.53139",
+            "longitude": "-72.70028"
+        },
+        {
+            "city": "Caparrap\u00ed",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.34694",
+            "longitude": "-74.49583"
+        },
+        {
+            "city": "Cantagallo",
+            "region": "35",
+            "country": "CO",
+            "latitude": "7.37917",
+            "longitude": "-73.91806"
+        },
+        {
+            "city": "Candelaria",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.45912",
+            "longitude": "-74.8797"
+        },
+        {
+            "city": "Candelaria",
+            "region": "29",
+            "country": "CO",
+            "latitude": "3.41306",
+            "longitude": "-76.35111"
+        },
+        {
+            "city": "Ca\u00f1asgordas",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.74861",
+            "longitude": "-76.02639"
+        },
+        {
+            "city": "Campo de la Cruz",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.37808",
+            "longitude": "-74.88356"
+        },
+        {
+            "city": "Campoalegre",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.68778",
+            "longitude": "-75.32806"
+        },
+        {
+            "city": "Campamento",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.98194",
+            "longitude": "-75.29972"
+        },
+        {
+            "city": "Caloto",
+            "region": "09",
+            "country": "CO",
+            "latitude": "3.03694",
+            "longitude": "-76.41167"
+        },
+        {
+            "city": "Cali",
+            "region": "29",
+            "country": "CO",
+            "latitude": "3.43722",
+            "longitude": "-76.5225"
+        },
+        {
+            "city": "Caldono",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.79972",
+            "longitude": "-76.54028"
+        },
+        {
+            "city": "Caldas",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.09",
+            "longitude": "-75.6375"
+        },
+        {
+            "city": "Calarc\u00e1",
+            "region": "23",
+            "country": "CO",
+            "latitude": "4.5325",
+            "longitude": "-75.64361"
+        },
+        {
+            "city": "Calamar",
+            "region": "38",
+            "country": "CO",
+            "latitude": "10.2511",
+            "longitude": "-74.91462"
+        },
+        {
+            "city": "Calamar",
+            "region": "14",
+            "country": "CO",
+            "latitude": "1.95972",
+            "longitude": "-72.65389"
+        },
+        {
+            "city": "Cajic\u00e1",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.91667",
+            "longitude": "-74.03333"
+        },
+        {
+            "city": "Cajib\u00edo",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.6225",
+            "longitude": "-76.57"
+        },
+        {
+            "city": "Cajamarca",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.44389",
+            "longitude": "-75.42972"
+        },
+        {
+            "city": "Caimito",
+            "region": "27",
+            "country": "CO",
+            "latitude": "8.79306",
+            "longitude": "-75.39278"
+        },
+        {
+            "city": "Caicedonia",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.3375",
+            "longitude": "-75.83222"
+        },
+        {
+            "city": "Caicedo",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.40944",
+            "longitude": "-75.98583"
+        },
+        {
+            "city": "C\u00e1cota",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.26667",
+            "longitude": "-72.65"
+        },
+        {
+            "city": "C\u00e1chira",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.74639",
+            "longitude": "-73.05111"
+        },
+        {
+            "city": "Cachipay",
+            "region": "33",
+            "country": "CO",
+            "latitude": "5.26667",
+            "longitude": "-74.56667"
+        },
+        {
+            "city": "C\u00e1ceres",
+            "region": "02",
+            "country": "CO",
+            "latitude": "7.58078",
+            "longitude": "-75.34842"
+        },
+        {
+            "city": "Cabuyaro",
+            "region": "19",
+            "country": "CO",
+            "latitude": "4.2817",
+            "longitude": "-72.79399"
+        },
+        {
+            "city": "Cabrera",
+            "region": "33",
+            "country": "CO",
+            "latitude": "3.97806",
+            "longitude": "-74.48583"
+        },
+        {
+            "city": "Bugalagrande",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.20944",
+            "longitude": "-76.16028"
+        },
+        {
+            "city": "Buga",
+            "region": "29",
+            "country": "CO",
+            "latitude": "3.90222",
+            "longitude": "-76.30278"
+        },
+        {
+            "city": "Buesaco",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.39017",
+            "longitude": "-77.15982"
+        },
+        {
+            "city": "Buenos Aires",
+            "region": "09",
+            "country": "CO",
+            "latitude": "3.01503",
+            "longitude": "-76.64275"
+        },
+        {
+            "city": "Buenavista",
+            "region": "38",
+            "country": "CO",
+            "latitude": "9.21389",
+            "longitude": "-74.30667"
+        },
+        {
+            "city": "Buenavista",
+            "region": "12",
+            "country": "CO",
+            "latitude": "9.05",
+            "longitude": "-76"
+        },
+        {
+            "city": "Buenavista",
+            "region": "23",
+            "country": "CO",
+            "latitude": "4.36222",
+            "longitude": "-75.73944"
+        },
+        {
+            "city": "Buenaventura",
+            "region": "29",
+            "country": "CO",
+            "latitude": "3.89333",
+            "longitude": "-77.06972"
+        },
+        {
+            "city": "Buenaventura",
+            "region": "29",
+            "country": "CO",
+            "latitude": "3.58333",
+            "longitude": "-77"
+        },
+        {
+            "city": "Bucaramanga",
+            "region": "26",
+            "country": "CO",
+            "latitude": "7.12972",
+            "longitude": "-73.12583"
+        },
+        {
+            "city": "Brice\u00f1o",
+            "region": "02",
+            "country": "CO",
+            "latitude": "7.11222",
+            "longitude": "-75.55417"
+        },
+        {
+            "city": "Bol\u00edvar",
+            "region": "26",
+            "country": "CO",
+            "latitude": "5.99139",
+            "longitude": "-73.77361"
+        },
+        {
+            "city": "Bol\u00edvar",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.34056",
+            "longitude": "-76.18806"
+        },
+        {
+            "city": "Bojac\u00e1",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.73333",
+            "longitude": "-74.35"
+        },
+        {
+            "city": "Bogot\u00e1",
+            "region": "34",
+            "country": "CO",
+            "latitude": "4.60971",
+            "longitude": "-74.08175"
+        },
+        {
+            "city": "Bochalema",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.61417",
+            "longitude": "-72.65028"
+        },
+        {
+            "city": "Boavita",
+            "region": "36",
+            "country": "CO",
+            "latitude": "6.33333",
+            "longitude": "-72.58972"
+        },
+        {
+            "city": "Betulia",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.90222",
+            "longitude": "-73.28639"
+        },
+        {
+            "city": "Betulia",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.11694",
+            "longitude": "-75.98778"
+        },
+        {
+            "city": "Betania",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.746",
+            "longitude": "-75.97765"
+        },
+        {
+            "city": "Arboleda",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.50858",
+            "longitude": "-77.12444"
+        },
+        {
+            "city": "Belmira",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.60806",
+            "longitude": "-75.67083"
+        },
+        {
+            "city": "Bello",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.33732",
+            "longitude": "-75.55795"
+        },
+        {
+            "city": "Bel\u00e9n de Umbr\u00eda",
+            "region": "24",
+            "country": "CO",
+            "latitude": "5.20361",
+            "longitude": "-75.87056"
+        },
+        {
+            "city": "Bel\u00e9n de los Andaqu\u00edes",
+            "region": "08",
+            "country": "CO",
+            "latitude": "1.41828",
+            "longitude": "-75.87754"
+        },
+        {
+            "city": "Bel\u00e9n",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.99194",
+            "longitude": "-72.91667"
+        },
+        {
+            "city": "Bel\u00e9n",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.59787",
+            "longitude": "-77.01399"
+        },
+        {
+            "city": "Belalc\u00e1zar",
+            "region": "37",
+            "country": "CO",
+            "latitude": "4.99528",
+            "longitude": "-75.81278"
+        },
+        {
+            "city": "Becerril",
+            "region": "10",
+            "country": "CO",
+            "latitude": "9.70413",
+            "longitude": "-73.2793"
+        },
+        {
+            "city": "Barranquilla",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.96389",
+            "longitude": "-74.79639"
+        },
+        {
+            "city": "Barranco de Loba",
+            "region": "35",
+            "country": "CO",
+            "latitude": "8.94597",
+            "longitude": "-74.10647"
+        },
+        {
+            "city": "Barrancas",
+            "region": "17",
+            "country": "CO",
+            "latitude": "10.95889",
+            "longitude": "-72.79083"
+        },
+        {
+            "city": "Barranca de Up\u00eda",
+            "region": "19",
+            "country": "CO",
+            "latitude": "4.56963",
+            "longitude": "-72.96676"
+        },
+        {
+            "city": "Barrancabermeja",
+            "region": "26",
+            "country": "CO",
+            "latitude": "7.06528",
+            "longitude": "-73.85472"
+        },
+        {
+            "city": "Barichara",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.63861",
+            "longitude": "-73.22722"
+        },
+        {
+            "city": "Barbosa",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.43861",
+            "longitude": "-75.33306"
+        },
+        {
+            "city": "Barbosa",
+            "region": "26",
+            "country": "CO",
+            "latitude": "5.9325",
+            "longitude": "-73.62111"
+        },
+        {
+            "city": "Barbacoas",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.65583",
+            "longitude": "-78.16528"
+        },
+        {
+            "city": "Baraya",
+            "region": "16",
+            "country": "CO",
+            "latitude": "3.15333",
+            "longitude": "-75.05306"
+        },
+        {
+            "city": "Baranoa",
+            "region": "04",
+            "country": "CO",
+            "latitude": "10.79408",
+            "longitude": "-74.9164"
+        },
+        {
+            "city": "Balboa",
+            "region": "24",
+            "country": "CO",
+            "latitude": "4.95167",
+            "longitude": "-75.95722"
+        },
+        {
+            "city": "Balboa",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.03956",
+            "longitude": "-77.21684"
+        },
+        {
+            "city": "Mutis",
+            "region": "11",
+            "country": "CO",
+            "latitude": "6.21917",
+            "longitude": "-77.40778"
+        },
+        {
+            "city": "Bagad\u00f3",
+            "region": "11",
+            "country": "CO",
+            "latitude": "5.41164",
+            "longitude": "-76.4152"
+        },
+        {
+            "city": "Ayapel",
+            "region": "12",
+            "country": "CO",
+            "latitude": "8.31583",
+            "longitude": "-75.14556"
+        },
+        {
+            "city": "Ataco",
+            "region": "28",
+            "country": "CO",
+            "latitude": "3.59147",
+            "longitude": "-75.38178"
+        },
+        {
+            "city": "Astrea",
+            "region": "10",
+            "country": "CO",
+            "latitude": "9.49828",
+            "longitude": "-73.97591"
+        },
+        {
+            "city": "Arroyohondo",
+            "region": "35",
+            "country": "CO",
+            "latitude": "10.2522",
+            "longitude": "-75.0198"
+        },
+        {
+            "city": "Guayabal",
+            "region": "28",
+            "country": "CO",
+            "latitude": "5.03103",
+            "longitude": "-74.88682"
+        },
+        {
+            "city": "Armenia",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.15639",
+            "longitude": "-75.78722"
+        },
+        {
+            "city": "Armenia",
+            "region": "23",
+            "country": "CO",
+            "latitude": "4.53389",
+            "longitude": "-75.68111"
+        },
+        {
+            "city": "Arjona",
+            "region": "35",
+            "country": "CO",
+            "latitude": "10.25444",
+            "longitude": "-75.34389"
+        },
+        {
+            "city": "Ariguan\u00ed",
+            "region": "10",
+            "country": "CO",
+            "latitude": "10.25",
+            "longitude": "-74"
+        },
+        {
+            "city": "Argelia",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.73417",
+            "longitude": "-75.14639"
+        },
+        {
+            "city": "Argelia",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.72833",
+            "longitude": "-76.12417"
+        },
+        {
+            "city": "Argelia",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.25563",
+            "longitude": "-77.24876"
+        },
+        {
+            "city": "Arenal",
+            "region": "35",
+            "country": "CO",
+            "latitude": "8.45928",
+            "longitude": "-73.94331"
+        },
+        {
+            "city": "Arcabuco",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.75",
+            "longitude": "-73.43333"
+        },
+        {
+            "city": "Arboletes",
+            "region": "02",
+            "country": "CO",
+            "latitude": "8.86556",
+            "longitude": "-76.43361"
+        },
+        {
+            "city": "Arboledas",
+            "region": "21",
+            "country": "CO",
+            "latitude": "7.64528",
+            "longitude": "-72.80306"
+        },
+        {
+            "city": "Arbel\u00e1ez",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.27222",
+            "longitude": "-74.41556"
+        },
+        {
+            "city": "Arauquita",
+            "region": "03",
+            "country": "CO",
+            "latitude": "7.02917",
+            "longitude": "-71.42806"
+        },
+        {
+            "city": "Arauca",
+            "region": "03",
+            "country": "CO",
+            "latitude": "7.08471",
+            "longitude": "-70.75908"
+        },
+        {
+            "city": "Aratoca",
+            "region": "26",
+            "country": "CO",
+            "latitude": "6.69833",
+            "longitude": "-73.02167"
+        },
+        {
+            "city": "Aranzazu",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.27361",
+            "longitude": "-75.49361"
+        },
+        {
+            "city": "Aracataca",
+            "region": "38",
+            "country": "CO",
+            "latitude": "10.59278",
+            "longitude": "-74.19056"
+        },
+        {
+            "city": "Aquitania",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.51972",
+            "longitude": "-72.8875"
+        },
+        {
+            "city": "Ap\u00eda",
+            "region": "24",
+            "country": "CO",
+            "latitude": "5.10806",
+            "longitude": "-75.94639"
+        },
+        {
+            "city": "Apartad\u00f3",
+            "region": "02",
+            "country": "CO",
+            "latitude": "7.88299",
+            "longitude": "-76.62587"
+        },
+        {
+            "city": "Anzo\u00e1tegui",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.62996",
+            "longitude": "-75.09539"
+        },
+        {
+            "city": "Antioquia",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.55972",
+            "longitude": "-75.82806"
+        },
+        {
+            "city": "Ansermanuevo",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.79722",
+            "longitude": "-75.995"
+        },
+        {
+            "city": "Anserma",
+            "region": "24",
+            "country": "CO",
+            "latitude": "5.33278",
+            "longitude": "-75.79111"
+        },
+        {
+            "city": "Anolaima",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.83362",
+            "longitude": "-74.4995"
+        },
+        {
+            "city": "Angostura",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.88861",
+            "longitude": "-75.33833"
+        },
+        {
+            "city": "Angel\u00f3polis",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.11361",
+            "longitude": "-75.71278"
+        },
+        {
+            "city": "Los Andes",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.6561",
+            "longitude": "-75.87877"
+        },
+        {
+            "city": "Andaluc\u00eda",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.17417",
+            "longitude": "-76.17028"
+        },
+        {
+            "city": "Ancuya",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.2703",
+            "longitude": "-77.51575"
+        },
+        {
+            "city": "Anapoima",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.52028",
+            "longitude": "-74.53944"
+        },
+        {
+            "city": "Ambalema",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.78611",
+            "longitude": "-74.76667"
+        },
+        {
+            "city": "Amalfi",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.91056",
+            "longitude": "-75.08"
+        },
+        {
+            "city": "Amag\u00e1",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.04389",
+            "longitude": "-75.70806"
+        },
+        {
+            "city": "Alvarado",
+            "region": "28",
+            "country": "CO",
+            "latitude": "4.56612",
+            "longitude": "-74.96229"
+        },
+        {
+            "city": "Altamira",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.06278",
+            "longitude": "-75.78722"
+        },
+        {
+            "city": "Almaguer",
+            "region": "09",
+            "country": "CO",
+            "latitude": "1.917",
+            "longitude": "-76.85233"
+        },
+        {
+            "city": "Algeciras",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.52639",
+            "longitude": "-75.32056"
+        },
+        {
+            "city": "Algarrobo",
+            "region": "38",
+            "country": "CO",
+            "latitude": "10.18694",
+            "longitude": "-74.57528"
+        },
+        {
+            "city": "Aldana",
+            "region": "20",
+            "country": "CO",
+            "latitude": "0.88611",
+            "longitude": "-77.70333"
+        },
+        {
+            "city": "Alcal\u00e1",
+            "region": "29",
+            "country": "CO",
+            "latitude": "4.67472",
+            "longitude": "-75.7825"
+        },
+        {
+            "city": "Albania",
+            "region": "17",
+            "country": "CO",
+            "latitude": "11.15972",
+            "longitude": "-72.58556"
+        },
+        {
+            "city": "Albania",
+            "region": "08",
+            "country": "CO",
+            "latitude": "1.32866",
+            "longitude": "-75.87824"
+        },
+        {
+            "city": "Alb\u00e1n",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.86667",
+            "longitude": "-74.45"
+        },
+        {
+            "city": "Aipe",
+            "region": "16",
+            "country": "CO",
+            "latitude": "3.22222",
+            "longitude": "-75.23667"
+        },
+        {
+            "city": "Aguazul",
+            "region": "32",
+            "country": "CO",
+            "latitude": "5.17306",
+            "longitude": "-72.55472"
+        },
+        {
+            "city": "Agua de Dios",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.38333",
+            "longitude": "-74.66667"
+        },
+        {
+            "city": "Aguadas",
+            "region": "37",
+            "country": "CO",
+            "latitude": "5.61472",
+            "longitude": "-75.45972"
+        },
+        {
+            "city": "Aguachica",
+            "region": "10",
+            "country": "CO",
+            "latitude": "8.30844",
+            "longitude": "-73.6166"
+        },
+        {
+            "city": "Agrado",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.25833",
+            "longitude": "-75.7725"
+        },
+        {
+            "city": "Ach\u00ed",
+            "region": "35",
+            "country": "CO",
+            "latitude": "8.57083",
+            "longitude": "-74.55778"
+        },
+        {
+            "city": "Acevedo",
+            "region": "16",
+            "country": "CO",
+            "latitude": "1.80462",
+            "longitude": "-75.89434"
+        },
+        {
+            "city": "Acand\u00ed",
+            "region": "11",
+            "country": "CO",
+            "latitude": "8.50633",
+            "longitude": "-77.27784"
+        },
+        {
+            "city": "Acac\u00edas",
+            "region": "19",
+            "country": "CO",
+            "latitude": "3.98695",
+            "longitude": "-73.75797"
+        },
+        {
+            "city": "Abriaqu\u00ed",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.63361",
+            "longitude": "-76.06472"
+        },
+        {
+            "city": "\u00c1brego",
+            "region": "21",
+            "country": "CO",
+            "latitude": "8.08306",
+            "longitude": "-73.22389"
+        },
+        {
+            "city": "Abejorral",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.79333",
+            "longitude": "-75.43083"
+        },
+        {
+            "city": "Los Santos",
+            "region": "26",
+            "country": "CO",
+            "latitude": "7.17",
+            "longitude": "-73.09306"
+        },
+        {
+            "city": "Lejan\u00edas",
+            "region": "19",
+            "country": "CO",
+            "latitude": "3.51361",
+            "longitude": "-74.05167"
+        },
+        {
+            "city": "El Dorado",
+            "region": "19",
+            "country": "CO",
+            "latitude": "2.77411",
+            "longitude": "-72.86834"
+        },
+        {
+            "city": "Curillo",
+            "region": "08",
+            "country": "CO",
+            "latitude": "1.03327",
+            "longitude": "-75.91906"
+        },
+        {
+            "city": "Santacruz",
+            "region": "20",
+            "country": "CO",
+            "latitude": "1.5209",
+            "longitude": "-77.26206"
+        },
+        {
+            "city": "El Tarra",
+            "region": "21",
+            "country": "CO",
+            "latitude": "8.58472",
+            "longitude": "-73.08833"
+        },
+        {
+            "city": "Mesetas",
+            "region": "19",
+            "country": "CO",
+            "latitude": "3.38464",
+            "longitude": "-74.04424"
+        },
+        {
+            "city": "Bellavista",
+            "region": "11",
+            "country": "CO",
+            "latitude": "6.52361",
+            "longitude": "-76.97444"
+        },
+        {
+            "city": "Chivor",
+            "region": "36",
+            "country": "CO",
+            "latitude": "4.88556",
+            "longitude": "-73.36889"
+        },
+        {
+            "city": "Monterrey",
+            "region": "32",
+            "country": "CO",
+            "latitude": "4.87833",
+            "longitude": "-72.89722"
+        },
+        {
+            "city": "Paratebueno",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.37575",
+            "longitude": "-73.21547"
+        },
+        {
+            "city": "Puerto Gait\u00e1n",
+            "region": "19",
+            "country": "CO",
+            "latitude": "4.31328",
+            "longitude": "-72.08157"
+        },
+        {
+            "city": "Sabanalarga",
+            "region": "32",
+            "country": "CO",
+            "latitude": "4.8543",
+            "longitude": "-73.04003"
+        },
+        {
+            "city": "San Luis",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.04167",
+            "longitude": "-74.99278"
+        },
+        {
+            "city": "Morales",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.75362",
+            "longitude": "-76.6271"
+        },
+        {
+            "city": "Villa Rica",
+            "region": "09",
+            "country": "CO",
+            "latitude": "2.51361",
+            "longitude": "-76.84778"
+        },
+        {
+            "city": "Qu\u00edpama",
+            "region": "36",
+            "country": "CO",
+            "latitude": "5.52222",
+            "longitude": "-74.18083"
+        },
+        {
+            "city": "La Cumbre",
+            "region": "29",
+            "country": "CO",
+            "latitude": "3.7225",
+            "longitude": "-76.02083"
+        },
+        {
+            "city": "Canalete",
+            "region": "12",
+            "country": "CO",
+            "latitude": "8.67611",
+            "longitude": "-76.20417"
+        },
+        {
+            "city": "Fredonia",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.92583",
+            "longitude": "-75.67056"
+        },
+        {
+            "city": "Gachet\u00e1",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.81854",
+            "longitude": "-73.63659"
+        },
+        {
+            "city": "San Carlos",
+            "region": "12",
+            "country": "CO",
+            "latitude": "8.74417",
+            "longitude": "-75.71278"
+        },
+        {
+            "city": "San Andr\u00e9s",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.90333",
+            "longitude": "-75.6825"
+        },
+        {
+            "city": "Buritic\u00e1",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.72111",
+            "longitude": "-75.91139"
+        },
+        {
+            "city": "Carepa",
+            "region": "02",
+            "country": "CO",
+            "latitude": "7.75849",
+            "longitude": "-76.65254"
+        },
+        {
+            "city": "Ciudad Bol\u00edvar",
+            "region": "02",
+            "country": "CO",
+            "latitude": "5.85389",
+            "longitude": "-76.02528"
+        },
+        {
+            "city": "Vegach\u00ed",
+            "region": "02",
+            "country": "CO",
+            "latitude": "6.77306",
+            "longitude": "-74.80167"
+        },
+        {
+            "city": "Altos del Rosario",
+            "region": "35",
+            "country": "CO",
+            "latitude": "8.79444",
+            "longitude": "-74.16583"
+        },
+        {
+            "city": "Santa Rosa del Sur",
+            "region": "35",
+            "country": "CO",
+            "latitude": "7.96444",
+            "longitude": "-74.05444"
+        },
+        {
+            "city": "Tiquisio",
+            "region": "35",
+            "country": "CO",
+            "latitude": "8.55972",
+            "longitude": "-74.26694"
+        },
+        {
+            "city": "Cartagena del Chair\u00e1",
+            "region": "08",
+            "country": "CO",
+            "latitude": "1.35",
+            "longitude": "-74.84"
+        },
+        {
+            "city": "Agust\u00edn Codazzi",
+            "region": "10",
+            "country": "CO",
+            "latitude": "10.03409",
+            "longitude": "-73.23611"
+        },
+        {
+            "city": "Manaure Balc\u00f3n del Cesar",
+            "region": "10",
+            "country": "CO",
+            "latitude": "10.39278",
+            "longitude": "-73.0325"
+        },
+        {
+            "city": "San Mart\u00edn",
+            "region": "10",
+            "country": "CO",
+            "latitude": "8.00472",
+            "longitude": "-73.51528"
+        },
+        {
+            "city": "El Cant\u00f3n de San Pablo",
+            "region": "11",
+            "country": "CO",
+            "latitude": "5.33889",
+            "longitude": "-76.73139"
+        },
+        {
+            "city": "El Retorno",
+            "region": "14",
+            "country": "CO",
+            "latitude": "2.33022",
+            "longitude": "-72.62765"
+        },
+        {
+            "city": "Isnos",
+            "region": "16",
+            "country": "CO",
+            "latitude": "1.93556",
+            "longitude": "-76.24056"
+        },
+        {
+            "city": "Plato",
+            "region": "38",
+            "country": "CO",
+            "latitude": "9.79029",
+            "longitude": "-74.78244"
+        },
+        {
+            "city": "Mapirip\u00e1n",
+            "region": "19",
+            "country": "CO",
+            "latitude": "2.88916",
+            "longitude": "-72.12559"
+        },
+        {
+            "city": "Puerto Concordia",
+            "region": "19",
+            "country": "CO",
+            "latitude": "2.62206",
+            "longitude": "-72.75724"
+        },
+        {
+            "city": "La Tola",
+            "region": "20",
+            "country": "CO",
+            "latitude": "2.41083",
+            "longitude": "-78.24278"
+        },
+        {
+            "city": "Puerto Guzm\u00e1n",
+            "region": "22",
+            "country": "CO",
+            "latitude": "0.97028",
+            "longitude": "-76.58583"
+        },
+        {
+            "city": "El Play\u00f3n",
+            "region": "26",
+            "country": "CO",
+            "latitude": "7.47667",
+            "longitude": "-73.20806"
+        },
+        {
+            "city": "San Antonio del Tequendama",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.61889",
+            "longitude": "-74.35389"
+        },
+        {
+            "city": "Tibacuy",
+            "region": "33",
+            "country": "CO",
+            "latitude": "4.35111",
+            "longitude": "-72.45639"
+        },
+        {
+            "city": "Santa Genoveva de Docorod\u00f3",
+            "region": "11",
+            "country": "CO",
+            "latitude": "4.25875",
+            "longitude": "-77.36516"
+        },
+        {
+            "city": "La Argentina",
+            "region": "16",
+            "country": "CO",
+            "latitude": "2.19611",
+            "longitude": "-75.98"
+        },
+        {
+            "city": "La Macarena",
+            "region": "19",
+            "country": "CO",
+            "latitude": "2.18042",
+            "longitude": "-73.78004"
+        },
+        {
+            "city": "Valle del Guamuez",
+            "region": "22",
+            "country": "CO",
+            "latitude": "0.4525",
+            "longitude": "-76.91917"
+        },
+        {
+            "city": "San Jos\u00e9 del Guaviare",
+            "region": "14",
+            "country": "CO",
+            "latitude": "2.57286",
+            "longitude": "-72.64591"
+        },
+        {
+            "city": "Orito",
+            "region": "22",
+            "country": "CO",
+            "latitude": "0.69667",
+            "longitude": "-76.87472"
+        },
+        {
+            "city": "Cubar\u00e1",
+            "region": "36",
+            "country": "CO",
+            "latitude": "6.99889",
+            "longitude": "-72.10917"
+        }
+    ]
+}

@@ -1,0 +1,608 @@
+{
+    "country": "Botswana",
+    "code": "BW",
+    "cities": [
+        {
+            "city": "Werda",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-25.26667",
+            "longitude": "23.28333"
+        },
+        {
+            "city": "Tshabong",
+            "region": "04",
+            "country": "BW",
+            "latitude": "-26.05",
+            "longitude": "22.45"
+        },
+        {
+            "city": "Tsau",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-20.15",
+            "longitude": "22.45"
+        },
+        {
+            "city": "Tonota",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-21.48333",
+            "longitude": "27.48333"
+        },
+        {
+            "city": "Tobane",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-21.95",
+            "longitude": "27.9"
+        },
+        {
+            "city": "Thamaga",
+            "region": "06",
+            "country": "BW",
+            "latitude": "-24.67014",
+            "longitude": "25.53975"
+        },
+        {
+            "city": "Tamasane",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-22.4184",
+            "longitude": "27.40127"
+        },
+        {
+            "city": "Sua",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-20.05",
+            "longitude": "26.2"
+        },
+        {
+            "city": "Shakawe",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-18.36667",
+            "longitude": "21.85"
+        },
+        {
+            "city": "Serowe",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-22.38333",
+            "longitude": "26.71667"
+        },
+        {
+            "city": "Selebi-Phikwe",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-21.97903",
+            "longitude": "27.84983"
+        },
+        {
+            "city": "Sekoma",
+            "region": "10",
+            "country": "BW",
+            "latitude": "-24.4",
+            "longitude": "23.88333"
+        },
+        {
+            "city": "Sehithwa",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-20.46667",
+            "longitude": "22.71667"
+        },
+        {
+            "city": "Sefophe",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-22.18333",
+            "longitude": "27.96667"
+        },
+        {
+            "city": "Sebina",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-20.86667",
+            "longitude": "27.25"
+        },
+        {
+            "city": "Ratholo",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-22.72454",
+            "longitude": "27.57199"
+        },
+        {
+            "city": "Ramotswa",
+            "region": "09",
+            "country": "BW",
+            "latitude": "-24.87158",
+            "longitude": "25.86989"
+        },
+        {
+            "city": "Ramokgonami",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-22.8645",
+            "longitude": "27.42391"
+        },
+        {
+            "city": "Rakops",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-21.01667",
+            "longitude": "24.33333"
+        },
+        {
+            "city": "Pilikwe",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-22.79904",
+            "longitude": "27.19376"
+        },
+        {
+            "city": "Pilane",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-24.45",
+            "longitude": "26.13333"
+        },
+        {
+            "city": "Pandamatenga",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-18.26667",
+            "longitude": "25.65"
+        },
+        {
+            "city": "Palapye",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-22.54605",
+            "longitude": "27.12507"
+        },
+        {
+            "city": "Otse",
+            "region": "09",
+            "country": "BW",
+            "latitude": "-25.01667",
+            "longitude": "25.73333"
+        },
+        {
+            "city": "Orapa",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-21.28333",
+            "longitude": "25.36667"
+        },
+        {
+            "city": "Nokaneng",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-19.66667",
+            "longitude": "22.26667"
+        },
+        {
+            "city": "Nata",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-20.21667",
+            "longitude": "26.18333"
+        },
+        {
+            "city": "Mosopa",
+            "region": "10",
+            "country": "BW",
+            "latitude": "-24.7718",
+            "longitude": "25.42156"
+        },
+        {
+            "city": "Mosetse",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-20.75",
+            "longitude": "26.65"
+        },
+        {
+            "city": "Mopipi",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-21.18333",
+            "longitude": "24.88333"
+        },
+        {
+            "city": "Mookane",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-23.68805",
+            "longitude": "26.65948"
+        },
+        {
+            "city": "Maunatlala",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-22.59701",
+            "longitude": "27.63006"
+        },
+        {
+            "city": "Molepolole",
+            "region": "06",
+            "country": "BW",
+            "latitude": "-24.40659",
+            "longitude": "25.49508"
+        },
+        {
+            "city": "Makobeng",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-22.99637",
+            "longitude": "27.66766"
+        },
+        {
+            "city": "Moijabana",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-22.43333",
+            "longitude": "26.41667"
+        },
+        {
+            "city": "Mogoditshane",
+            "region": "06",
+            "country": "BW",
+            "latitude": "-24.62694",
+            "longitude": "25.86556"
+        },
+        {
+            "city": "Mogapinyana",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-22.36667",
+            "longitude": "27.6"
+        },
+        {
+            "city": "Mogapi",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-22.32301",
+            "longitude": "27.83492"
+        },
+        {
+            "city": "Mochudi",
+            "region": "05",
+            "country": "BW",
+            "latitude": "-24.41667",
+            "longitude": "26.15"
+        },
+        {
+            "city": "Mmathubudukwane",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-24.6",
+            "longitude": "26.43333"
+        },
+        {
+            "city": "Maun",
+            "region": "11",
+            "country": "BW",
+            "latitude": "-19.98333",
+            "longitude": "23.41667"
+        },
+        {
+            "city": "Mathakola",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-22.72125",
+            "longitude": "27.31057"
+        },
+        {
+            "city": "Mathathane",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-22.26875",
+            "longitude": "28.74946"
+        },
+        {
+            "city": "Mathambgwane",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-20.99075",
+            "longitude": "27.33158"
+        },
+        {
+            "city": "Masunga",
+            "region": "08",
+            "country": "BW",
+            "latitude": "-20.62455",
+            "longitude": "27.44875"
+        },
+        {
+            "city": "Manyana",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-23.4",
+            "longitude": "21.71667"
+        },
+        {
+            "city": "Makwata",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-23.28333",
+            "longitude": "27.3"
+        },
+        {
+            "city": "Makoba",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-23.48333",
+            "longitude": "27.11667"
+        },
+        {
+            "city": "Makaleng",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-20.9",
+            "longitude": "27.28333"
+        },
+        {
+            "city": "Mahalapye",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-23.10407",
+            "longitude": "26.81421"
+        },
+        {
+            "city": "Magothla",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-23.56667",
+            "longitude": "27"
+        },
+        {
+            "city": "Machaneng",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-23.18621",
+            "longitude": "27.48856"
+        },
+        {
+            "city": "Mabuli",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-25.78333",
+            "longitude": "24.6"
+        },
+        {
+            "city": "Maapi",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-22.75785",
+            "longitude": "27.35001"
+        },
+        {
+            "city": "Lokwabe",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-24.16667",
+            "longitude": "21.83333"
+        },
+        {
+            "city": "Lobatse",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-25.21667",
+            "longitude": "25.66667"
+        },
+        {
+            "city": "Letlhakeng",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-24.06667",
+            "longitude": "25.03333"
+        },
+        {
+            "city": "Letlhakane",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-21.41667",
+            "longitude": "25.58333"
+        },
+        {
+            "city": "Lenchwe Le Tau",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-24.38333",
+            "longitude": "25.85"
+        },
+        {
+            "city": "Lehututu",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-23.96667",
+            "longitude": "21.86667"
+        },
+        {
+            "city": "Letsheng",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-22.66384",
+            "longitude": "27.2239"
+        },
+        {
+            "city": "Kurametsi",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-23.4",
+            "longitude": "27.06667"
+        },
+        {
+            "city": "Kopong",
+            "region": "09",
+            "country": "BW",
+            "latitude": "-24.48333",
+            "longitude": "25.88333"
+        },
+        {
+            "city": "Khudumelapye",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-23.88333",
+            "longitude": "24.75"
+        },
+        {
+            "city": "Khakhea",
+            "region": "10",
+            "country": "BW",
+            "latitude": "-24.68954",
+            "longitude": "23.49403"
+        },
+        {
+            "city": "Kasane",
+            "region": "11",
+            "country": "BW",
+            "latitude": "-17.81667",
+            "longitude": "25.15"
+        },
+        {
+            "city": "Kanye",
+            "region": "10",
+            "country": "BW",
+            "latitude": "-24.96675",
+            "longitude": "25.33274"
+        },
+        {
+            "city": "Kang",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-23.75",
+            "longitude": "22.83333"
+        },
+        {
+            "city": "Kalamare",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-22.93369",
+            "longitude": "26.57032"
+        },
+        {
+            "city": "Janeng",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-25.41667",
+            "longitude": "25.55"
+        },
+        {
+            "city": "Hukuntsi",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-24",
+            "longitude": "21.75"
+        },
+        {
+            "city": "Gweta",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-20.18333",
+            "longitude": "25.23333"
+        },
+        {
+            "city": "Gobojango",
+            "region": "01",
+            "country": "BW",
+            "latitude": "-21.8327",
+            "longitude": "28.72882"
+        },
+        {
+            "city": "Ghanzi",
+            "region": "03",
+            "country": "BW",
+            "latitude": "-21.56667",
+            "longitude": "21.78333"
+        },
+        {
+            "city": "Gaborone",
+            "region": "09",
+            "country": "BW",
+            "latitude": "-24.65451",
+            "longitude": "25.90859"
+        },
+        {
+            "city": "Gabane",
+            "region": "06",
+            "country": "BW",
+            "latitude": "-24.66667",
+            "longitude": "25.78222"
+        },
+        {
+            "city": "Francistown",
+            "region": "08",
+            "country": "BW",
+            "latitude": "-21.16995",
+            "longitude": "27.50788"
+        },
+        {
+            "city": "Dutlwe",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-23.98333",
+            "longitude": "23.9"
+        },
+        {
+            "city": "Dukwe",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-20.58333",
+            "longitude": "26.41667"
+        },
+        {
+            "city": "Dekar",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-21.53333",
+            "longitude": "21.93333"
+        },
+        {
+            "city": "Botlhapatlou",
+            "region": "06",
+            "country": "BW",
+            "latitude": "-24.02591",
+            "longitude": "25.48976"
+        },
+        {
+            "city": "Bokaa",
+            "region": "00",
+            "country": "BW",
+            "latitude": "-24.45",
+            "longitude": "26.01667"
+        },
+        {
+            "city": "Gaphatshwe",
+            "region": "06",
+            "country": "BW",
+            "latitude": "-24.57389",
+            "longitude": "25.83417"
+        },
+        {
+            "city": "Metsemotlhaba",
+            "region": "06",
+            "country": "BW",
+            "latitude": "-24.55139",
+            "longitude": "25.80306"
+        },
+        {
+            "city": "Mmopone",
+            "region": "06",
+            "country": "BW",
+            "latitude": "-24.56694",
+            "longitude": "25.87417"
+        },
+        {
+            "city": "Nkoyaphiri",
+            "region": "06",
+            "country": "BW",
+            "latitude": "-24.63222",
+            "longitude": "25.83139"
+        }
+    ]
+}

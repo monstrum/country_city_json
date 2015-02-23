@@ -1,0 +1,125 @@
+{
+    "country": "Burundi",
+    "code": "BI",
+    "cities": [
+        {
+            "city": "Makamba",
+            "region": "17",
+            "country": "BI",
+            "latitude": "-4.1348",
+            "longitude": "29.804"
+        },
+        {
+            "city": "Bururi",
+            "region": "10",
+            "country": "BI",
+            "latitude": "-3.94877",
+            "longitude": "29.62438"
+        },
+        {
+            "city": "Rumonge",
+            "region": "10",
+            "country": "BI",
+            "latitude": "-3.9736",
+            "longitude": "29.4386"
+        },
+        {
+            "city": "Mwaro",
+            "region": "23",
+            "country": "BI",
+            "latitude": "-3.5272",
+            "longitude": "29.7034"
+        },
+        {
+            "city": "Bujumbura",
+            "region": "24",
+            "country": "BI",
+            "latitude": "-3.3822",
+            "longitude": "29.3644"
+        },
+        {
+            "city": "Muramvya",
+            "region": "22",
+            "country": "BI",
+            "latitude": "-3.2682",
+            "longitude": "29.6079"
+        },
+        {
+            "city": "Gitega",
+            "region": "13",
+            "country": "BI",
+            "latitude": "-3.4264",
+            "longitude": "29.9308"
+        },
+        {
+            "city": "Ruyigi",
+            "region": "21",
+            "country": "BI",
+            "latitude": "-3.47639",
+            "longitude": "30.24861"
+        },
+        {
+            "city": "Cankuzo",
+            "region": "11",
+            "country": "BI",
+            "latitude": "-3.2186",
+            "longitude": "30.5528"
+        },
+        {
+            "city": "Karuzi",
+            "region": "14",
+            "country": "BI",
+            "latitude": "-3.10608",
+            "longitude": "30.17351"
+        },
+        {
+            "city": "Bubanza",
+            "region": "09",
+            "country": "BI",
+            "latitude": "-3.0804",
+            "longitude": "29.391"
+        },
+        {
+            "city": "Cibitoke",
+            "region": "12",
+            "country": "BI",
+            "latitude": "-2.8869",
+            "longitude": "29.1248"
+        },
+        {
+            "city": "Ngozi",
+            "region": "19",
+            "country": "BI",
+            "latitude": "-2.9075",
+            "longitude": "29.8306"
+        },
+        {
+            "city": "Kayanza",
+            "region": "15",
+            "country": "BI",
+            "latitude": "-2.9221",
+            "longitude": "29.6293"
+        },
+        {
+            "city": "Muyinga",
+            "region": "18",
+            "country": "BI",
+            "latitude": "-2.8451",
+            "longitude": "30.3414"
+        },
+        {
+            "city": "Kirundo",
+            "region": "16",
+            "country": "BI",
+            "latitude": "-2.5845",
+            "longitude": "30.0959"
+        },
+        {
+            "city": "Rutana",
+            "region": "20",
+            "country": "BI",
+            "latitude": "-3.9279",
+            "longitude": "29.992"
+        }
+    ]
+}

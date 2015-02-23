@@ -1,0 +1,13 @@
+{
+    "country": "Jersey",
+    "code": "JE",
+    "cities": [
+        {
+            "city": "Saint Helier",
+            "region": "00",
+            "country": "JE",
+            "latitude": "49.18333",
+            "longitude": "-2.1"
+        }
+    ]
+}

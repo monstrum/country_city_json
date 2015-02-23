@@ -1,0 +1,97 @@
+{
+    "country": "Greenland",
+    "code": "GL",
+    "cities": [
+        {
+            "city": "Upernavik",
+            "region": "05",
+            "country": "GL",
+            "latitude": "72.78684",
+            "longitude": "-56.15485"
+        },
+        {
+            "city": "Sisimiut",
+            "region": "06",
+            "country": "GL",
+            "latitude": "66.93946",
+            "longitude": "-53.6735"
+        },
+        {
+            "city": "Qasigiannguit",
+            "region": "05",
+            "country": "GL",
+            "latitude": "68.81926",
+            "longitude": "-51.19221"
+        },
+        {
+            "city": "Qaqortoq",
+            "region": "04",
+            "country": "GL",
+            "latitude": "60.71667",
+            "longitude": "-46.03333"
+        },
+        {
+            "city": "Paamiut",
+            "region": "07",
+            "country": "GL",
+            "latitude": "61.99402",
+            "longitude": "-49.66776"
+        },
+        {
+            "city": "Nuuk",
+            "region": "07",
+            "country": "GL",
+            "latitude": "64.18347",
+            "longitude": "-51.72157"
+        },
+        {
+            "city": "Narsaq",
+            "region": "04",
+            "country": "GL",
+            "latitude": "60.91667",
+            "longitude": "-46.05"
+        },
+        {
+            "city": "Nanortalik",
+            "region": "04",
+            "country": "GL",
+            "latitude": "60.14317",
+            "longitude": "-45.23715"
+        },
+        {
+            "city": "Maniitsoq",
+            "region": "06",
+            "country": "GL",
+            "latitude": "65.41667",
+            "longitude": "-52.9"
+        },
+        {
+            "city": "Ilulissat",
+            "region": "05",
+            "country": "GL",
+            "latitude": "69.21667",
+            "longitude": "-51.1"
+        },
+        {
+            "city": "Tasiilaq",
+            "region": "07",
+            "country": "GL",
+            "latitude": "65.61451",
+            "longitude": "-37.63676"
+        },
+        {
+            "city": "Aasiaat",
+            "region": "03",
+            "country": "GL",
+            "latitude": "68.70981",
+            "longitude": "-52.86988"
+        },
+        {
+            "city": "Uummannaq",
+            "region": "05",
+            "country": "GL",
+            "latitude": "70.67472",
+            "longitude": "-52.12639"
+        }
+    ]
+}

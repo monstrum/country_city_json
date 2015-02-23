@@ -1,0 +1,69 @@
+{
+    "country": "Saint Lucia",
+    "code": "LC",
+    "cities": [
+        {
+            "city": "Vieux Fort",
+            "region": "10",
+            "country": "LC",
+            "latitude": "13.71667",
+            "longitude": "-60.95"
+        },
+        {
+            "city": "Soufri\u00e8re",
+            "region": "09",
+            "country": "LC",
+            "latitude": "13.85616",
+            "longitude": "-61.0566"
+        },
+        {
+            "city": "Micoud",
+            "region": "08",
+            "country": "LC",
+            "latitude": "13.81667",
+            "longitude": "-60.9"
+        },
+        {
+            "city": "Laborie",
+            "region": "07",
+            "country": "LC",
+            "latitude": "13.75",
+            "longitude": "-60.98333"
+        },
+        {
+            "city": "Gros Islet",
+            "region": "06",
+            "country": "LC",
+            "latitude": "14.06667",
+            "longitude": "-60.95"
+        },
+        {
+            "city": "Dennery",
+            "region": "05",
+            "country": "LC",
+            "latitude": "13.89958",
+            "longitude": "-60.88786"
+        },
+        {
+            "city": "Castries",
+            "region": "03",
+            "country": "LC",
+            "latitude": "13.9957",
+            "longitude": "-61.00614"
+        },
+        {
+            "city": "Bis\u00e9e",
+            "region": "03",
+            "country": "LC",
+            "latitude": "14.01667",
+            "longitude": "-60.96667"
+        },
+        {
+            "city": "Anse La Raye",
+            "region": "01",
+            "country": "LC",
+            "latitude": "13.93333",
+            "longitude": "-61.03333"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "country": "Kiribati",
+    "code": "KI",
+    "cities": [
+        {
+            "city": "Teaoraereke Village",
+            "region": "01",
+            "country": "KI",
+            "latitude": "1.33309",
+            "longitude": "173.01162"
+        },
+        {
+            "city": "Rawannawi Village",
+            "region": "01",
+            "country": "KI",
+            "latitude": "2.05379",
+            "longitude": "173.26354"
+        },
+        {
+            "city": "Butaritari Villages",
+            "region": "01",
+            "country": "KI",
+            "latitude": "3.07071",
+            "longitude": "172.79022"
+        },
+        {
+            "city": "Buota Village",
+            "region": "01",
+            "country": "KI",
+            "latitude": "1.39078",
+            "longitude": "173.13082"
+        },
+        {
+            "city": "Betio Village",
+            "region": "01",
+            "country": "KI",
+            "latitude": "1.35797",
+            "longitude": "172.92105"
+        },
+        {
+            "city": "Banraeaba Village",
+            "region": "01",
+            "country": "KI",
+            "latitude": "1.3454",
+            "longitude": "173.03464"
+        },
+        {
+            "city": "Tarawa",
+            "region": "01",
+            "country": "KI",
+            "latitude": "1.3278",
+            "longitude": "172.97696"
+        },
+        {
+            "city": "London Village",
+            "region": "02",
+            "country": "KI",
+            "latitude": "1.98487",
+            "longitude": "-157.47502"
+        },
+        {
+            "city": "Tabwakea Village",
+            "region": "02",
+            "country": "KI",
+            "latitude": "2.01643",
+            "longitude": "-157.48773"
+        },
+        {
+            "city": "Banana Village",
+            "region": "02",
+            "country": "KI",
+            "latitude": "1.98329",
+            "longitude": "-157.36526"
+        },
+        {
+            "city": "Makin Village",
+            "region": "01",
+            "country": "KI",
+            "latitude": "3.3644",
+            "longitude": "172.98352"
+        },
+        {
+            "city": "Bairiki Village",
+            "region": "01",
+            "country": "KI",
+            "latitude": "1.32924",
+            "longitude": "172.97522"
+        },
+        {
+            "city": "Ambo Village",
+            "region": "01",
+            "country": "KI",
+            "latitude": "1.35317",
+            "longitude": "173.04259"
+        },
+        {
+            "city": "Bonriki Village",
+            "region": "01",
+            "country": "KI",
+            "latitude": "1.38081",
+            "longitude": "173.13887"
+        },
+        {
+            "city": "Temaiku Village",
+            "region": "01",
+            "country": "KI",
+            "latitude": "1.36292",
+            "longitude": "173.16226"
+        },
+        {
+            "city": "Nawerewere Village",
+            "region": "01",
+            "country": "KI",
+            "latitude": "1.36362",
+            "longitude": "173.13935"
+        },
+        {
+            "city": "Bikenibeu Village",
+            "region": "01",
+            "country": "KI",
+            "latitude": "1.3673",
+            "longitude": "173.12415"
+        },
+        {
+            "city": "Eita Village",
+            "region": "01",
+            "country": "KI",
+            "latitude": "1.36154",
+            "longitude": "173.08113"
+        }
+    ]
+}

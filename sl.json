@@ -1,0 +1,552 @@
+{
+    "country": "Sierra Leone",
+    "code": "SL",
+    "cities": [
+        {
+            "city": "Zimmi",
+            "region": "03",
+            "country": "SL",
+            "latitude": "7.31528",
+            "longitude": "-11.30611"
+        },
+        {
+            "city": "Yonibana",
+            "region": "02",
+            "country": "SL",
+            "latitude": "8.44472",
+            "longitude": "-12.245"
+        },
+        {
+            "city": "Yengema",
+            "region": "01",
+            "country": "SL",
+            "latitude": "8.71667",
+            "longitude": "-11.16667"
+        },
+        {
+            "city": "Wima",
+            "region": "01",
+            "country": "SL",
+            "latitude": "8.3",
+            "longitude": "-11.21667"
+        },
+        {
+            "city": "Waterloo",
+            "region": "04",
+            "country": "SL",
+            "latitude": "8.33833",
+            "longitude": "-13.07194"
+        },
+        {
+            "city": "Tongole",
+            "region": "03",
+            "country": "SL",
+            "latitude": "7.45",
+            "longitude": "-11.9"
+        },
+        {
+            "city": "Tombu",
+            "region": "01",
+            "country": "SL",
+            "latitude": "8.53333",
+            "longitude": "-10.73333"
+        },
+        {
+            "city": "Tombodu",
+            "region": "01",
+            "country": "SL",
+            "latitude": "8.13333",
+            "longitude": "-10.61667"
+        },
+        {
+            "city": "Tintafor",
+            "region": "02",
+            "country": "SL",
+            "latitude": "8.62667",
+            "longitude": "-13.215"
+        },
+        {
+            "city": "Tefea",
+            "region": "01",
+            "country": "SL",
+            "latitude": "8.7",
+            "longitude": "-11.21667"
+        },
+        {
+            "city": "Sumbuya",
+            "region": "03",
+            "country": "SL",
+            "latitude": "7.64667",
+            "longitude": "-11.96111"
+        },
+        {
+            "city": "Simbakoro",
+            "region": "01",
+            "country": "SL",
+            "latitude": "8.6",
+            "longitude": "-11.01667"
+        },
+        {
+            "city": "Serabu",
+            "region": "03",
+            "country": "SL",
+            "latitude": "7.79583",
+            "longitude": "-12.05361"
+        },
+        {
+            "city": "Seidu",
+            "region": "02",
+            "country": "SL",
+            "latitude": "9.01667",
+            "longitude": "-10.6"
+        },
+        {
+            "city": "Sawkta",
+            "region": "02",
+            "country": "SL",
+            "latitude": "8.63194",
+            "longitude": "-13.20194"
+        },
+        {
+            "city": "Rotifunk",
+            "region": "03",
+            "country": "SL",
+            "latitude": "8.23333",
+            "longitude": "-12.68333"
+        },
+        {
+            "city": "Rokupr",
+            "region": "02",
+            "country": "SL",
+            "latitude": "8.67167",
+            "longitude": "-12.395"
+        },
+        {
+            "city": "Potoru",
+            "region": "03",
+            "country": "SL",
+            "latitude": "7.50722",
+            "longitude": "-11.47861"
+        },
+        {
+            "city": "Port Loko",
+            "region": "02",
+            "country": "SL",
+            "latitude": "8.76667",
+            "longitude": "-12.78333"
+        },
+        {
+            "city": "Peyima",
+            "region": "01",
+            "country": "SL",
+            "latitude": "8.7",
+            "longitude": "-11.03333"
+        },
+        {
+            "city": "Pepel",
+            "region": "02",
+            "country": "SL",
+            "latitude": "8.58167",
+            "longitude": "-13.06278"
+        },
+        {
+            "city": "Pendembu",
+            "region": "01",
+            "country": "SL",
+            "latitude": "8.1",
+            "longitude": "-10.7"
+        },
+        {
+            "city": "Panguma",
+            "region": "01",
+            "country": "SL",
+            "latitude": "8.18333",
+            "longitude": "-11.13333"
+        },
+        {
+            "city": "Ngiehun",
+            "region": "01",
+            "country": "SL",
+            "latitude": "8.55",
+            "longitude": "-11.05"
+        },
+        {
+            "city": "Moyamba",
+            "region": "03",
+            "country": "SL",
+            "latitude": "8.16667",
+            "longitude": "-12.43333"
+        },
+        {
+            "city": "Motema",
+            "region": "01",
+            "country": "SL",
+            "latitude": "8.6",
+            "longitude": "-11.03333"
+        },
+        {
+            "city": "Mogbwemo",
+            "region": "03",
+            "country": "SL",
+            "latitude": "7.76944",
+            "longitude": "-12.31056"
+        },
+        {
+            "city": "Mobai",
+            "region": "01",
+            "country": "SL",
+            "latitude": "7.99444",
+            "longitude": "-10.75111"
+        },
+        {
+            "city": "Masoyila",
+            "region": "02",
+            "country": "SL",
+            "latitude": "8.60972",
+            "longitude": "-13.19"
+        },
+        {
+            "city": "Masingbi",
+            "region": "02",
+            "country": "SL",
+            "latitude": "8.78333",
+            "longitude": "-11.95"
+        },
+        {
+            "city": "Masaka",
+            "region": "02",
+            "country": "SL",
+            "latitude": "8.66667",
+            "longitude": "-11.8"
+        },
+        {
+            "city": "Manowa",
+            "region": "01",
+            "country": "SL",
+            "latitude": "8.16667",
+            "longitude": "-10.75"
+        },
+        {
+            "city": "Mange",
+            "region": "02",
+            "country": "SL",
+            "latitude": "8.91667",
+            "longitude": "-12.85"
+        },
+        {
+            "city": "Mamboma",
+            "region": "03",
+            "country": "SL",
+            "latitude": "8.08333",
+            "longitude": "-11.68333"
+        },
+        {
+            "city": "Mambolo",
+            "region": "02",
+            "country": "SL",
+            "latitude": "8.92306",
+            "longitude": "-13.04444"
+        },
+        {
+            "city": "Makeni",
+            "region": "02",
+            "country": "SL",
+            "latitude": "8.88333",
+            "longitude": "-12.05"
+        },
+        {
+            "city": "Makali",
+            "region": "02",
+            "country": "SL",
+            "latitude": "8.63333",
+            "longitude": "-11.66667"
+        },
+        {
+            "city": "Magburaka",
+            "region": "02",
+            "country": "SL",
+            "latitude": "8.71667",
+            "longitude": "-11.95"
+        },
+        {
+            "city": "Lunsar",
+            "region": "02",
+            "country": "SL",
+            "latitude": "8.68333",
+            "longitude": "-12.53333"
+        },
+        {
+            "city": "Loma",
+            "region": "02",
+            "country": "SL",
+            "latitude": "9.75",
+            "longitude": "-12.03333"
+        },
+        {
+            "city": "Lago",
+            "region": "03",
+            "country": "SL",
+            "latitude": "8.26667",
+            "longitude": "-12.15"
+        },
+        {
+            "city": "Kukuna",
+            "region": "02",
+            "country": "SL",
+            "latitude": "9.4",
+            "longitude": "-12.66667"
+        },
+        {
+            "city": "Koribundu",
+            "region": "03",
+            "country": "SL",
+            "latitude": "7.71139",
+            "longitude": "-11.69222"
+        },
+        {
+            "city": "Koidu",
+            "region": "01",
+            "country": "SL",
+            "latitude": "8.41667",
+            "longitude": "-10.83333"
+        },
+        {
+            "city": "Kenema",
+            "region": "01",
+            "country": "SL",
+            "latitude": "7.87667",
+            "longitude": "-11.1875"
+        },
+        {
+            "city": "Kayima",
+            "region": "01",
+            "country": "SL",
+            "latitude": "8.88333",
+            "longitude": "-11.16667"
+        },
+        {
+            "city": "Kassiri",
+            "region": "02",
+            "country": "SL",
+            "latitude": "8.93722",
+            "longitude": "-13.12444"
+        },
+        {
+            "city": "Kambia",
+            "region": "02",
+            "country": "SL",
+            "latitude": "9.11667",
+            "longitude": "-12.91667"
+        },
+        {
+            "city": "Kamakwie",
+            "region": "02",
+            "country": "SL",
+            "latitude": "9.5",
+            "longitude": "-12.23333"
+        },
+        {
+            "city": "Kailahun",
+            "region": "01",
+            "country": "SL",
+            "latitude": "8.28333",
+            "longitude": "-10.56667"
+        },
+        {
+            "city": "Kabala",
+            "region": "02",
+            "country": "SL",
+            "latitude": "9.58333",
+            "longitude": "-11.55"
+        },
+        {
+            "city": "Jojoima",
+            "region": "01",
+            "country": "SL",
+            "latitude": "7.87917",
+            "longitude": "-10.78778"
+        },
+        {
+            "city": "Hastings",
+            "region": "04",
+            "country": "SL",
+            "latitude": "8.37972",
+            "longitude": "-13.13861"
+        },
+        {
+            "city": "Hangha",
+            "region": "01",
+            "country": "SL",
+            "latitude": "7.94111",
+            "longitude": "-11.14"
+        },
+        {
+            "city": "Gorahun",
+            "region": "01",
+            "country": "SL",
+            "latitude": "7.46611",
+            "longitude": "-11.2375"
+        },
+        {
+            "city": "Freetown",
+            "region": "04",
+            "country": "SL",
+            "latitude": "8.43194",
+            "longitude": "-13.28972"
+        },
+        {
+            "city": "Giehun",
+            "region": "01",
+            "country": "SL",
+            "latitude": "7.88333",
+            "longitude": "-11.05"
+        },
+        {
+            "city": "Gberia Fotombu",
+            "region": "02",
+            "country": "SL",
+            "latitude": "9.88333",
+            "longitude": "-11.16667"
+        },
+        {
+            "city": "Gandorhun",
+            "region": "03",
+            "country": "SL",
+            "latitude": "7.5",
+            "longitude": "-11.83333"
+        },
+        {
+            "city": "Freetown",
+            "region": "04",
+            "country": "SL",
+            "latitude": "8.484",
+            "longitude": "-13.22994"
+        },
+        {
+            "city": "Foindu",
+            "region": "03",
+            "country": "SL",
+            "latitude": "7.41083",
+            "longitude": "-11.54222"
+        },
+        {
+            "city": "Daru",
+            "region": "01",
+            "country": "SL",
+            "latitude": "7.99194",
+            "longitude": "-10.84056"
+        },
+        {
+            "city": "Bwedu",
+            "region": "01",
+            "country": "SL",
+            "latitude": "8.28028",
+            "longitude": "-10.37194"
+        },
+        {
+            "city": "Bunumbu",
+            "region": "01",
+            "country": "SL",
+            "latitude": "8.16667",
+            "longitude": "-10.86667"
+        },
+        {
+            "city": "Bumpe",
+            "region": "03",
+            "country": "SL",
+            "latitude": "7.89194",
+            "longitude": "-11.9025"
+        },
+        {
+            "city": "Bumbuna",
+            "region": "02",
+            "country": "SL",
+            "latitude": "9.05",
+            "longitude": "-11.73333"
+        },
+        {
+            "city": "Bonthe",
+            "region": "03",
+            "country": "SL",
+            "latitude": "7.52639",
+            "longitude": "-12.505"
+        },
+        {
+            "city": "Bomi",
+            "region": "03",
+            "country": "SL",
+            "latitude": "7.24611",
+            "longitude": "-11.52583"
+        },
+        {
+            "city": "Boajibu",
+            "region": "01",
+            "country": "SL",
+            "latitude": "8.18333",
+            "longitude": "-11.33333"
+        },
+        {
+            "city": "Bo",
+            "region": "03",
+            "country": "SL",
+            "latitude": "7.96472",
+            "longitude": "-11.73833"
+        },
+        {
+            "city": "Blama",
+            "region": "01",
+            "country": "SL",
+            "latitude": "7.87361",
+            "longitude": "-11.34333"
+        },
+        {
+            "city": "Bindi",
+            "region": "02",
+            "country": "SL",
+            "latitude": "9.91667",
+            "longitude": "-11.45"
+        },
+        {
+            "city": "Barma",
+            "region": "01",
+            "country": "SL",
+            "latitude": "8.35",
+            "longitude": "-11.33333"
+        },
+        {
+            "city": "Baiima",
+            "region": "03",
+            "country": "SL",
+            "latitude": "8.1",
+            "longitude": "-11.85"
+        },
+        {
+            "city": "Alikalia",
+            "region": "02",
+            "country": "SL",
+            "latitude": "9.16667",
+            "longitude": "-11.4"
+        },
+        {
+            "city": "Konakridee",
+            "region": "02",
+            "country": "SL",
+            "latitude": "8.69778",
+            "longitude": "-13.23917"
+        },
+        {
+            "city": "Gbewebu",
+            "region": "03",
+            "country": "SL",
+            "latitude": "7.55222",
+            "longitude": "-11.60639"
+        },
+        {
+            "city": "Pujehun",
+            "region": "03",
+            "country": "SL",
+            "latitude": "7.35806",
+            "longitude": "-11.72083"
+        }
+    ]
+}

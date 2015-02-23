@@ -1,0 +1,363 @@
+{
+    "country": "Libyan Arab Jamahiriya",
+    "code": "LY",
+    "cities": [
+        {
+            "city": "Bard\u012byah",
+            "region": "42",
+            "country": "LY",
+            "latitude": "31.75615",
+            "longitude": "25.08653"
+        },
+        {
+            "city": "Tobruk",
+            "region": "79",
+            "country": "LY",
+            "latitude": "32.08361",
+            "longitude": "23.97639"
+        },
+        {
+            "city": "Sul\u016bq",
+            "region": "54",
+            "country": "LY",
+            "latitude": "31.66818",
+            "longitude": "20.25205"
+        },
+        {
+            "city": "Gialo",
+            "region": "25",
+            "country": "LY",
+            "latitude": "29.03333",
+            "longitude": "21.55"
+        },
+        {
+            "city": "Darnah",
+            "region": "70",
+            "country": "LY",
+            "latitude": "32.76704",
+            "longitude": "22.63669"
+        },
+        {
+            "city": "Benghazi",
+            "region": "69",
+            "country": "LY",
+            "latitude": "32.11667",
+            "longitude": "20.06667"
+        },
+        {
+            "city": "Az Zuwayt\u012bnah",
+            "region": "47",
+            "country": "LY",
+            "latitude": "30.9522",
+            "longitude": "20.12022"
+        },
+        {
+            "city": "Awjilah",
+            "region": "47",
+            "country": "LY",
+            "latitude": "29.10806",
+            "longitude": "21.28694"
+        },
+        {
+            "city": "At T\u0101j",
+            "region": "08",
+            "country": "LY",
+            "latitude": "24.20487",
+            "longitude": "23.2857"
+        },
+        {
+            "city": "Al \u2018\u0100q\u016br\u012byah",
+            "region": "43",
+            "country": "LY",
+            "latitude": "32.53414",
+            "longitude": "20.57911"
+        },
+        {
+            "city": "Al Qubbah",
+            "region": "11",
+            "country": "LY",
+            "latitude": "32.76162",
+            "longitude": "22.24237"
+        },
+        {
+            "city": "Al Marj",
+            "region": "66",
+            "country": "LY",
+            "latitude": "32.48798",
+            "longitude": "20.83174"
+        },
+        {
+            "city": "Al Kufrah",
+            "region": "65",
+            "country": "LY",
+            "latitude": "24.16667",
+            "longitude": "23.26962"
+        },
+        {
+            "city": "Al Jawf",
+            "region": "08",
+            "country": "LY",
+            "latitude": "24.1989",
+            "longitude": "23.29093"
+        },
+        {
+            "city": "Al Jaghb\u016bb",
+            "region": "42",
+            "country": "LY",
+            "latitude": "29.74262",
+            "longitude": "24.51676"
+        },
+        {
+            "city": "Al Bay\u1e11\u0101\u2019",
+            "region": "63",
+            "country": "LY",
+            "latitude": "32.76272",
+            "longitude": "21.75506"
+        },
+        {
+            "city": "Al Aby\u0101r",
+            "region": "02",
+            "country": "LY",
+            "latitude": "32.19",
+            "longitude": "20.59653"
+        },
+        {
+            "city": "Ajd\u0101biy\u0101",
+            "region": "83",
+            "country": "LY",
+            "latitude": "30.75545",
+            "longitude": "20.22626"
+        },
+        {
+            "city": "Zuw\u0101rah",
+            "region": "67",
+            "country": "LY",
+            "latitude": "32.9312",
+            "longitude": "12.08199"
+        },
+        {
+            "city": "Zl\u012b\u0163an",
+            "region": "45",
+            "country": "LY",
+            "latitude": "32.46738",
+            "longitude": "14.56874"
+        },
+        {
+            "city": "Zal\u0163an",
+            "region": "06",
+            "country": "LY",
+            "latitude": "32.94701",
+            "longitude": "11.86647"
+        },
+        {
+            "city": "Yafran",
+            "region": "62",
+            "country": "LY",
+            "latitude": "32.06329",
+            "longitude": "12.52859"
+        },
+        {
+            "city": "Wadd\u0101n",
+            "region": "05",
+            "country": "LY",
+            "latitude": "29.1614",
+            "longitude": "16.13904"
+        },
+        {
+            "city": "Tarh\u016bnah",
+            "region": "41",
+            "country": "LY",
+            "latitude": "32.43502",
+            "longitude": "13.6332"
+        },
+        {
+            "city": "Tripoli",
+            "region": "77",
+            "country": "LY",
+            "latitude": "32.87519",
+            "longitude": "13.18746"
+        },
+        {
+            "city": "Tagiura",
+            "region": "61",
+            "country": "LY",
+            "latitude": "32.88167",
+            "longitude": "13.35056"
+        },
+        {
+            "city": "Surt",
+            "region": "76",
+            "country": "LY",
+            "latitude": "31.20892",
+            "longitude": "16.58866"
+        },
+        {
+            "city": "\u015eurm\u0101n",
+            "region": "53",
+            "country": "LY",
+            "latitude": "32.75668",
+            "longitude": "12.57159"
+        },
+        {
+            "city": "\u015eabr\u0101tah",
+            "region": "68",
+            "country": "LY",
+            "latitude": "32.79335",
+            "longitude": "12.48845"
+        },
+        {
+            "city": "Sabh\u0101",
+            "region": "75",
+            "country": "LY",
+            "latitude": "27.03766",
+            "longitude": "14.42832"
+        },
+        {
+            "city": "N\u0101l\u016bt",
+            "region": "74",
+            "country": "LY",
+            "latitude": "31.86848",
+            "longitude": "10.9812"
+        },
+        {
+            "city": "Murzuq",
+            "region": "73",
+            "country": "LY",
+            "latitude": "25.91552",
+            "longitude": "13.91839"
+        },
+        {
+            "city": "Mizdah",
+            "region": "29",
+            "country": "LY",
+            "latitude": "31.44514",
+            "longitude": "12.98013"
+        },
+        {
+            "city": "Mi\u015fr\u0101tah",
+            "region": "72",
+            "country": "LY",
+            "latitude": "32.37535",
+            "longitude": "15.09254"
+        },
+        {
+            "city": "Masall\u0101tah",
+            "region": "27",
+            "country": "LY",
+            "latitude": "32.61667",
+            "longitude": "14"
+        },
+        {
+            "city": "Al Burayqah",
+            "region": "47",
+            "country": "LY",
+            "latitude": "30.40624",
+            "longitude": "19.57386"
+        },
+        {
+            "city": "Giado",
+            "region": "24",
+            "country": "LY",
+            "latitude": "31.95815",
+            "longitude": "12.02034"
+        },
+        {
+            "city": "H\u016bn",
+            "region": "64",
+            "country": "LY",
+            "latitude": "29.12684",
+            "longitude": "15.94772"
+        },
+        {
+            "city": "\u1e28\u0101rat az Z\u0101wiyah",
+            "region": "53",
+            "country": "LY",
+            "latitude": "32.76306",
+            "longitude": "12.715"
+        },
+        {
+            "city": "Gh\u0101t",
+            "region": "71",
+            "country": "LY",
+            "latitude": "24.96472",
+            "longitude": "10.17278"
+        },
+        {
+            "city": "Ghary\u0101n",
+            "region": "80",
+            "country": "LY",
+            "latitude": "32.17222",
+            "longitude": "13.02028"
+        },
+        {
+            "city": "Ghad\u0101mis",
+            "region": "74",
+            "country": "LY",
+            "latitude": "30.13366",
+            "longitude": "9.50072"
+        },
+        {
+            "city": "Bir\u0101k",
+            "region": "13",
+            "country": "LY",
+            "latitude": "27.54956",
+            "longitude": "14.27138"
+        },
+        {
+            "city": "Ban\u012b Wal\u012bd",
+            "region": "18",
+            "country": "LY",
+            "latitude": "31.75662",
+            "longitude": "13.99422"
+        },
+        {
+            "city": "Az Zint\u0101n",
+            "region": "62",
+            "country": "LY",
+            "latitude": "31.92231",
+            "longitude": "12.25195"
+        },
+        {
+            "city": "Az Z\u0101w\u012byah",
+            "region": "68",
+            "country": "LY",
+            "latitude": "32.7571",
+            "longitude": "12.72764"
+        },
+        {
+            "city": "Awb\u0101r\u012b",
+            "region": "84",
+            "country": "LY",
+            "latitude": "26.59206",
+            "longitude": "12.78049"
+        },
+        {
+            "city": "Al Khums",
+            "region": "82",
+            "country": "LY",
+            "latitude": "32.64861",
+            "longitude": "14.26191"
+        },
+        {
+            "city": "Al Jad\u012bd",
+            "region": "34",
+            "country": "LY",
+            "latitude": "27.05",
+            "longitude": "14.4"
+        },
+        {
+            "city": "Al \u2018Az\u012bz\u012byah",
+            "region": "81",
+            "country": "LY",
+            "latitude": "32.53194",
+            "longitude": "13.0175"
+        },
+        {
+            "city": "Idr\u012b",
+            "region": "78",
+            "country": "LY",
+            "latitude": "27.5",
+            "longitude": "13.26667"
+        }
+    ]
+}

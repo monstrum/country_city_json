@@ -1,0 +1,468 @@
+{
+    "country": "Zambia",
+    "code": "ZM",
+    "cities": [
+        {
+            "city": "Nchelenge",
+            "region": "04",
+            "country": "ZM",
+            "latitude": "-9.34506",
+            "longitude": "28.73396"
+        },
+        {
+            "city": "Nakonde",
+            "region": "05",
+            "country": "ZM",
+            "latitude": "-9.34213",
+            "longitude": "32.745"
+        },
+        {
+            "city": "Mpulungu",
+            "region": "05",
+            "country": "ZM",
+            "latitude": "-8.76271",
+            "longitude": "31.10773"
+        },
+        {
+            "city": "Mporokoso",
+            "region": "05",
+            "country": "ZM",
+            "latitude": "-9.37272",
+            "longitude": "30.12501"
+        },
+        {
+            "city": "Mbala",
+            "region": "05",
+            "country": "ZM",
+            "latitude": "-8.84024",
+            "longitude": "31.36587"
+        },
+        {
+            "city": "Kawambwa",
+            "region": "04",
+            "country": "ZM",
+            "latitude": "-9.7915",
+            "longitude": "29.07913"
+        },
+        {
+            "city": "Kaputa",
+            "region": "05",
+            "country": "ZM",
+            "latitude": "-8.46887",
+            "longitude": "29.66192"
+        },
+        {
+            "city": "Zambezi",
+            "region": "06",
+            "country": "ZM",
+            "latitude": "-13.54323",
+            "longitude": "23.10466"
+        },
+        {
+            "city": "Solwezi",
+            "region": "06",
+            "country": "ZM",
+            "latitude": "-12.1688",
+            "longitude": "26.38938"
+        },
+        {
+            "city": "Sinazongwe",
+            "region": "07",
+            "country": "ZM",
+            "latitude": "-17.2614",
+            "longitude": "27.46179"
+        },
+        {
+            "city": "Siavonga",
+            "region": "07",
+            "country": "ZM",
+            "latitude": "-16.53818",
+            "longitude": "28.70876"
+        },
+        {
+            "city": "Sesheke",
+            "region": "01",
+            "country": "ZM",
+            "latitude": "-17.47593",
+            "longitude": "24.29684"
+        },
+        {
+            "city": "Serenje",
+            "region": "02",
+            "country": "ZM",
+            "latitude": "-13.23251",
+            "longitude": "30.23522"
+        },
+        {
+            "city": "Senanga",
+            "region": "01",
+            "country": "ZM",
+            "latitude": "-16.11667",
+            "longitude": "23.26667"
+        },
+        {
+            "city": "Samfya",
+            "region": "04",
+            "country": "ZM",
+            "latitude": "-11.36491",
+            "longitude": "29.55652"
+        },
+        {
+            "city": "Petauke",
+            "region": "03",
+            "country": "ZM",
+            "latitude": "-14.24264",
+            "longitude": "31.3253"
+        },
+        {
+            "city": "Nyimba",
+            "region": "03",
+            "country": "ZM",
+            "latitude": "-14.55656",
+            "longitude": "30.8149"
+        },
+        {
+            "city": "Ndola",
+            "region": "08",
+            "country": "ZM",
+            "latitude": "-12.95867",
+            "longitude": "28.63659"
+        },
+        {
+            "city": "Namwala",
+            "region": "07",
+            "country": "ZM",
+            "latitude": "-15.75042",
+            "longitude": "26.43839"
+        },
+        {
+            "city": "Nakambala",
+            "region": "07",
+            "country": "ZM",
+            "latitude": "-15.83244",
+            "longitude": "27.77994"
+        },
+        {
+            "city": "Mwinilunga",
+            "region": "06",
+            "country": "ZM",
+            "latitude": "-11.73584",
+            "longitude": "24.42926"
+        },
+        {
+            "city": "Mwense",
+            "region": "04",
+            "country": "ZM",
+            "latitude": "-10.38446",
+            "longitude": "28.698"
+        },
+        {
+            "city": "Mungwi",
+            "region": "05",
+            "country": "ZM",
+            "latitude": "-10.1732",
+            "longitude": "31.36942"
+        },
+        {
+            "city": "Mumbwa",
+            "region": "02",
+            "country": "ZM",
+            "latitude": "-14.97832",
+            "longitude": "27.06188"
+        },
+        {
+            "city": "Mufumbwe",
+            "region": "06",
+            "country": "ZM",
+            "latitude": "-13.68333",
+            "longitude": "24.8"
+        },
+        {
+            "city": "Mufulira",
+            "region": "08",
+            "country": "ZM",
+            "latitude": "-12.54982",
+            "longitude": "28.24071"
+        },
+        {
+            "city": "Mpongwe",
+            "region": "08",
+            "country": "ZM",
+            "latitude": "-13.50914",
+            "longitude": "28.15504"
+        },
+        {
+            "city": "Mpika",
+            "region": "05",
+            "country": "ZM",
+            "latitude": "-11.83431",
+            "longitude": "31.45287"
+        },
+        {
+            "city": "Monze",
+            "region": "07",
+            "country": "ZM",
+            "latitude": "-16.28333",
+            "longitude": "27.48333"
+        },
+        {
+            "city": "Mongu",
+            "region": "01",
+            "country": "ZM",
+            "latitude": "-15.24835",
+            "longitude": "23.12741"
+        },
+        {
+            "city": "Mkushi",
+            "region": "02",
+            "country": "ZM",
+            "latitude": "-13.62015",
+            "longitude": "29.3939"
+        },
+        {
+            "city": "Mazabuka",
+            "region": "07",
+            "country": "ZM",
+            "latitude": "-15.85601",
+            "longitude": "27.748"
+        },
+        {
+            "city": "Mansa",
+            "region": "04",
+            "country": "ZM",
+            "latitude": "-11.19976",
+            "longitude": "28.89431"
+        },
+        {
+            "city": "Maamba",
+            "region": "07",
+            "country": "ZM",
+            "latitude": "-17.36667",
+            "longitude": "27.15"
+        },
+        {
+            "city": "Luwingu",
+            "region": "05",
+            "country": "ZM",
+            "latitude": "-10.2621",
+            "longitude": "29.92712"
+        },
+        {
+            "city": "Lusaka",
+            "region": "09",
+            "country": "ZM",
+            "latitude": "-15.40809",
+            "longitude": "28.28636"
+        },
+        {
+            "city": "Lundazi",
+            "region": "03",
+            "country": "ZM",
+            "latitude": "-12.29292",
+            "longitude": "33.1782"
+        },
+        {
+            "city": "Lukulu",
+            "region": "01",
+            "country": "ZM",
+            "latitude": "-14.37067",
+            "longitude": "23.24196"
+        },
+        {
+            "city": "Luanshya",
+            "region": "08",
+            "country": "ZM",
+            "latitude": "-13.13667",
+            "longitude": "28.41661"
+        },
+        {
+            "city": "Luangwa",
+            "region": "09",
+            "country": "ZM",
+            "latitude": "-15.61667",
+            "longitude": "30.41667"
+        },
+        {
+            "city": "Livingstone",
+            "region": "07",
+            "country": "ZM",
+            "latitude": "-17.84194",
+            "longitude": "25.85425"
+        },
+        {
+            "city": "Limulunga",
+            "region": "01",
+            "country": "ZM",
+            "latitude": "-15.09691",
+            "longitude": "23.13758"
+        },
+        {
+            "city": "Kitwe",
+            "region": "08",
+            "country": "ZM",
+            "latitude": "-12.79614",
+            "longitude": "28.24767"
+        },
+        {
+            "city": "Kasempa",
+            "region": "06",
+            "country": "ZM",
+            "latitude": "-13.45836",
+            "longitude": "25.8338"
+        },
+        {
+            "city": "Kasama",
+            "region": "05",
+            "country": "ZM",
+            "latitude": "-10.21289",
+            "longitude": "31.18084"
+        },
+        {
+            "city": "Kapiri Mposhi",
+            "region": "02",
+            "country": "ZM",
+            "latitude": "-13.96518",
+            "longitude": "28.68086"
+        },
+        {
+            "city": "Kaoma",
+            "region": "01",
+            "country": "ZM",
+            "latitude": "-14.78333",
+            "longitude": "24.8"
+        },
+        {
+            "city": "Kansanshi",
+            "region": "06",
+            "country": "ZM",
+            "latitude": "-12.1",
+            "longitude": "26.43333"
+        },
+        {
+            "city": "Kalulushi",
+            "region": "08",
+            "country": "ZM",
+            "latitude": "-12.83778",
+            "longitude": "28.09192"
+        },
+        {
+            "city": "Kalengwa",
+            "region": "06",
+            "country": "ZM",
+            "latitude": "-13.46586",
+            "longitude": "25.00271"
+        },
+        {
+            "city": "Kalabo",
+            "region": "01",
+            "country": "ZM",
+            "latitude": "-14.97004",
+            "longitude": "22.68138"
+        },
+        {
+            "city": "Kafue",
+            "region": "09",
+            "country": "ZM",
+            "latitude": "-15.76911",
+            "longitude": "28.18136"
+        },
+        {
+            "city": "Kabwe",
+            "region": "02",
+            "country": "ZM",
+            "latitude": "-14.44322",
+            "longitude": "28.45174"
+        },
+        {
+            "city": "Kabompo",
+            "region": "06",
+            "country": "ZM",
+            "latitude": "-13.59268",
+            "longitude": "24.20081"
+        },
+        {
+            "city": "Isoka",
+            "region": "05",
+            "country": "ZM",
+            "latitude": "-10.16062",
+            "longitude": "32.63353"
+        },
+        {
+            "city": "Gwembe",
+            "region": "07",
+            "country": "ZM",
+            "latitude": "-16.49755",
+            "longitude": "27.60691"
+        },
+        {
+            "city": "Chongwe",
+            "region": "09",
+            "country": "ZM",
+            "latitude": "-15.32916",
+            "longitude": "28.68204"
+        },
+        {
+            "city": "Choma",
+            "region": "07",
+            "country": "ZM",
+            "latitude": "-16.80648",
+            "longitude": "26.95306"
+        },
+        {
+            "city": "Chipata",
+            "region": "03",
+            "country": "ZM",
+            "latitude": "-13.63333",
+            "longitude": "32.65"
+        },
+        {
+            "city": "Chinsali",
+            "region": "05",
+            "country": "ZM",
+            "latitude": "-10.54142",
+            "longitude": "32.08162"
+        },
+        {
+            "city": "Chingola",
+            "region": "08",
+            "country": "ZM",
+            "latitude": "-12.52897",
+            "longitude": "27.88382"
+        },
+        {
+            "city": "Chililabombwe",
+            "region": "08",
+            "country": "ZM",
+            "latitude": "-12.36475",
+            "longitude": "27.82286"
+        },
+        {
+            "city": "Chibombo",
+            "region": "02",
+            "country": "ZM",
+            "latitude": "-14.65685",
+            "longitude": "28.07057"
+        },
+        {
+            "city": "Chambishi",
+            "region": "08",
+            "country": "ZM",
+            "latitude": "-12.63646",
+            "longitude": "28.06503"
+        },
+        {
+            "city": "Chama",
+            "region": "03",
+            "country": "ZM",
+            "latitude": "-11.21304",
+            "longitude": "33.1521"
+        },
+        {
+            "city": "Chadiza",
+            "region": "03",
+            "country": "ZM",
+            "latitude": "-14.06779",
+            "longitude": "32.43917"
+        }
+    ]
+}

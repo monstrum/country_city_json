@@ -1,0 +1,307 @@
+{
+    "country": "Chad",
+    "code": "TD",
+    "cities": [
+        {
+            "city": "Iriba",
+            "region": "02",
+            "country": "TD",
+            "latitude": "15.11667",
+            "longitude": "22.25"
+        },
+        {
+            "city": "Goz B\u00e9\u00efda",
+            "region": "12",
+            "country": "TD",
+            "latitude": "13.95",
+            "longitude": "20.55"
+        },
+        {
+            "city": "Biltine",
+            "region": "02",
+            "country": "TD",
+            "latitude": "14.53333",
+            "longitude": "20.91667"
+        },
+        {
+            "city": "Am Timan",
+            "region": "13",
+            "country": "TD",
+            "latitude": "11.0297",
+            "longitude": "20.2827"
+        },
+        {
+            "city": "Adr\u00e9",
+            "region": "12",
+            "country": "TD",
+            "latitude": "13.46667",
+            "longitude": "22.2"
+        },
+        {
+            "city": "Ab\u00e9ch\u00e9",
+            "region": "12",
+            "country": "TD",
+            "latitude": "13.82916",
+            "longitude": "20.8324"
+        },
+        {
+            "city": "Sagh",
+            "region": "17",
+            "country": "TD",
+            "latitude": "9.1429",
+            "longitude": "18.3923"
+        },
+        {
+            "city": "Pala",
+            "region": "20",
+            "country": "TD",
+            "latitude": "9.3642",
+            "longitude": "14.9046"
+        },
+        {
+            "city": "Oum Hadjer",
+            "region": "01",
+            "country": "TD",
+            "latitude": "13.2954",
+            "longitude": "19.6966"
+        },
+        {
+            "city": "Ngama",
+            "region": "15",
+            "country": "TD",
+            "latitude": "11.78333",
+            "longitude": "17.16667"
+        },
+        {
+            "city": "N'Djamena",
+            "region": "15",
+            "country": "TD",
+            "latitude": "12.11058",
+            "longitude": "15.03479"
+        },
+        {
+            "city": "Moussoro",
+            "region": "22",
+            "country": "TD",
+            "latitude": "13.64084",
+            "longitude": "16.49007"
+        },
+        {
+            "city": "Moundou",
+            "region": "08",
+            "country": "TD",
+            "latitude": "8.56667",
+            "longitude": "16.08333"
+        },
+        {
+            "city": "Mongo",
+            "region": "05",
+            "country": "TD",
+            "latitude": "12.18441",
+            "longitude": "18.69303"
+        },
+        {
+            "city": "Mo\u00efssala",
+            "region": "19",
+            "country": "TD",
+            "latitude": "8.3404",
+            "longitude": "17.7663"
+        },
+        {
+            "city": "Melfi",
+            "region": "05",
+            "country": "TD",
+            "latitude": "11.0598",
+            "longitude": "17.9355"
+        },
+        {
+            "city": "Mboursou L\u00e9r\u00e9",
+            "region": "20",
+            "country": "TD",
+            "latitude": "9.7639",
+            "longitude": "14.1539"
+        },
+        {
+            "city": "Massenya",
+            "region": "15",
+            "country": "TD",
+            "latitude": "11.4039",
+            "longitude": "16.1705"
+        },
+        {
+            "city": "Massakory",
+            "region": "18",
+            "country": "TD",
+            "latitude": "12.996",
+            "longitude": "15.72927"
+        },
+        {
+            "city": "Massaguet",
+            "region": "18",
+            "country": "TD",
+            "latitude": "12.47554",
+            "longitude": "15.43647"
+        },
+        {
+            "city": "Mao",
+            "region": "06",
+            "country": "TD",
+            "latitude": "14.12116",
+            "longitude": "15.3103"
+        },
+        {
+            "city": "La\u00ef",
+            "region": "14",
+            "country": "TD",
+            "latitude": "9.3952",
+            "longitude": "16.2989"
+        },
+        {
+            "city": "Kyab\u00e9",
+            "region": "17",
+            "country": "TD",
+            "latitude": "9.45149",
+            "longitude": "18.94493"
+        },
+        {
+            "city": "Koumra",
+            "region": "19",
+            "country": "TD",
+            "latitude": "8.91256",
+            "longitude": "17.55392"
+        },
+        {
+            "city": "Kelo",
+            "region": "14",
+            "country": "TD",
+            "latitude": "9.30859",
+            "longitude": "15.80658"
+        },
+        {
+            "city": "Guelendeng",
+            "region": "16",
+            "country": "TD",
+            "latitude": "10.91762",
+            "longitude": "15.5501"
+        },
+        {
+            "city": "Gounou Gaya",
+            "region": "16",
+            "country": "TD",
+            "latitude": "9.6294",
+            "longitude": "15.5132"
+        },
+        {
+            "city": "Goundi",
+            "region": "19",
+            "country": "TD",
+            "latitude": "9.36267",
+            "longitude": "17.36597"
+        },
+        {
+            "city": "Largeau",
+            "region": "23",
+            "country": "TD",
+            "latitude": "17.9257",
+            "longitude": "19.10428"
+        },
+        {
+            "city": "Dourbali",
+            "region": "15",
+            "country": "TD",
+            "latitude": "11.80909",
+            "longitude": "15.86323"
+        },
+        {
+            "city": "Doba",
+            "region": "09",
+            "country": "TD",
+            "latitude": "8.65",
+            "longitude": "16.85"
+        },
+        {
+            "city": "Bousso",
+            "region": "15",
+            "country": "TD",
+            "latitude": "10.4795",
+            "longitude": "16.7117"
+        },
+        {
+            "city": "Bongor",
+            "region": "16",
+            "country": "TD",
+            "latitude": "10.28056",
+            "longitude": "15.37222"
+        },
+        {
+            "city": "Bol",
+            "region": "07",
+            "country": "TD",
+            "latitude": "13.45861",
+            "longitude": "14.71472"
+        },
+        {
+            "city": "Bokoro",
+            "region": "18",
+            "country": "TD",
+            "latitude": "12.3807",
+            "longitude": "17.0568"
+        },
+        {
+            "city": "Bitkine",
+            "region": "05",
+            "country": "TD",
+            "latitude": "11.9801",
+            "longitude": "18.2138"
+        },
+        {
+            "city": "B\u00e9r\u00e9",
+            "region": "14",
+            "country": "TD",
+            "latitude": "9.3202",
+            "longitude": "16.1552"
+        },
+        {
+            "city": "Benoy",
+            "region": "08",
+            "country": "TD",
+            "latitude": "8.98327",
+            "longitude": "16.31991"
+        },
+        {
+            "city": "Be\u00efnamar",
+            "region": "08",
+            "country": "TD",
+            "latitude": "8.6698",
+            "longitude": "15.3813"
+        },
+        {
+            "city": "B\u00e9boto",
+            "region": "09",
+            "country": "TD",
+            "latitude": "8.26682",
+            "longitude": "16.93898"
+        },
+        {
+            "city": "B\u00e9b\u00e9dja",
+            "region": "09",
+            "country": "TD",
+            "latitude": "8.6761",
+            "longitude": "16.566"
+        },
+        {
+            "city": "Ati",
+            "region": "01",
+            "country": "TD",
+            "latitude": "13.2154",
+            "longitude": "18.3353"
+        },
+        {
+            "city": "Aozou",
+            "region": "26",
+            "country": "TD",
+            "latitude": "21.8375",
+            "longitude": "17.4275"
+        }
+    ]
+}

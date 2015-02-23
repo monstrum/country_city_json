@@ -1,0 +1,489 @@
+{
+    "country": "Congo, The Democratic Republic of the",
+    "code": "CD",
+    "cities": [
+        {
+            "city": "Yangambi",
+            "region": "00",
+            "country": "CD",
+            "latitude": "0.81021",
+            "longitude": "24.43359"
+        },
+        {
+            "city": "Watsa",
+            "region": "09",
+            "country": "CD",
+            "latitude": "3.03716",
+            "longitude": "29.53551"
+        },
+        {
+            "city": "Wamba",
+            "region": "00",
+            "country": "CD",
+            "latitude": "2.15",
+            "longitude": "28"
+        },
+        {
+            "city": "Uvira",
+            "region": "12",
+            "country": "CD",
+            "latitude": "-3.40667",
+            "longitude": "29.14583"
+        },
+        {
+            "city": "Tshikapa",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-6.41667",
+            "longitude": "20.8"
+        },
+        {
+            "city": "Sake",
+            "region": "11",
+            "country": "CD",
+            "latitude": "-1.57361",
+            "longitude": "29.045"
+        },
+        {
+            "city": "Mwene-Ditu",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-7",
+            "longitude": "23.45"
+        },
+        {
+            "city": "Mweka",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-4.85",
+            "longitude": "21.56667"
+        },
+        {
+            "city": "Mbuji-Mayi",
+            "region": "04",
+            "country": "CD",
+            "latitude": "-6.15",
+            "longitude": "23.6"
+        },
+        {
+            "city": "Lusambo",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-4.96667",
+            "longitude": "23.45"
+        },
+        {
+            "city": "Luebo",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-5.35",
+            "longitude": "21.41667"
+        },
+        {
+            "city": "Lubao",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-5.36667",
+            "longitude": "25.75"
+        },
+        {
+            "city": "Lodja",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-3.48333",
+            "longitude": "23.43333"
+        },
+        {
+            "city": "Lisala",
+            "region": "00",
+            "country": "CD",
+            "latitude": "2.15",
+            "longitude": "21.51667"
+        },
+        {
+            "city": "Kongolo",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-5.38333",
+            "longitude": "27"
+        },
+        {
+            "city": "Kisangani",
+            "region": "09",
+            "country": "CD",
+            "latitude": "0.51667",
+            "longitude": "25.2"
+        },
+        {
+            "city": "Kindu",
+            "region": "10",
+            "country": "CD",
+            "latitude": "-2.95",
+            "longitude": "25.95"
+        },
+        {
+            "city": "Kasongo",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-4.45",
+            "longitude": "26.66667"
+        },
+        {
+            "city": "Kaniama",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-7.56667",
+            "longitude": "24.18333"
+        },
+        {
+            "city": "Kananga",
+            "region": "03",
+            "country": "CD",
+            "latitude": "-5.89583",
+            "longitude": "22.41778"
+        },
+        {
+            "city": "Kampene",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-3.6",
+            "longitude": "26.66667"
+        },
+        {
+            "city": "Kamina",
+            "region": "05",
+            "country": "CD",
+            "latitude": "-8.73861",
+            "longitude": "24.99056"
+        },
+        {
+            "city": "Kalemie",
+            "region": "05",
+            "country": "CD",
+            "latitude": "-5.94749",
+            "longitude": "29.19471"
+        },
+        {
+            "city": "Kabinda",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-6.13333",
+            "longitude": "24.48333"
+        },
+        {
+            "city": "Kabare",
+            "region": "12",
+            "country": "CD",
+            "latitude": "-2.46833",
+            "longitude": "28.82417"
+        },
+        {
+            "city": "Kabalo",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-6.05",
+            "longitude": "26.91667"
+        },
+        {
+            "city": "Isiro",
+            "region": "00",
+            "country": "CD",
+            "latitude": "2.76667",
+            "longitude": "27.61667"
+        },
+        {
+            "city": "Ilebo",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-4.31667",
+            "longitude": "20.58333"
+        },
+        {
+            "city": "Goma",
+            "region": "11",
+            "country": "CD",
+            "latitude": "-1.67917",
+            "longitude": "29.22278"
+        },
+        {
+            "city": "Gbadolite",
+            "region": "00",
+            "country": "CD",
+            "latitude": "4.28333",
+            "longitude": "21.01667"
+        },
+        {
+            "city": "Gandajika",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-6.75",
+            "longitude": "23.95"
+        },
+        {
+            "city": "Demba",
+            "region": "03",
+            "country": "CD",
+            "latitude": "-5.51",
+            "longitude": "22.26667"
+        },
+        {
+            "city": "Butembo",
+            "region": "00",
+            "country": "CD",
+            "latitude": "0.15",
+            "longitude": "29.28333"
+        },
+        {
+            "city": "Buta",
+            "region": "00",
+            "country": "CD",
+            "latitude": "2.8",
+            "longitude": "24.73333"
+        },
+        {
+            "city": "Businga",
+            "region": "00",
+            "country": "CD",
+            "latitude": "3.33333",
+            "longitude": "20.88333"
+        },
+        {
+            "city": "Bunia",
+            "region": "00",
+            "country": "CD",
+            "latitude": "1.56667",
+            "longitude": "30.25"
+        },
+        {
+            "city": "Bumba",
+            "region": "00",
+            "country": "CD",
+            "latitude": "2.18333",
+            "longitude": "22.46667"
+        },
+        {
+            "city": "Bukavu",
+            "region": "12",
+            "country": "CD",
+            "latitude": "-2.50833",
+            "longitude": "28.86083"
+        },
+        {
+            "city": "Bukama",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-9.2",
+            "longitude": "25.85"
+        },
+        {
+            "city": "Bongandanga",
+            "region": "00",
+            "country": "CD",
+            "latitude": "1.5",
+            "longitude": "21.05"
+        },
+        {
+            "city": "Bondo",
+            "region": "00",
+            "country": "CD",
+            "latitude": "3.81667",
+            "longitude": "23.66667"
+        },
+        {
+            "city": "Boende",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-0.21667",
+            "longitude": "20.86667"
+        },
+        {
+            "city": "Beni",
+            "region": "00",
+            "country": "CD",
+            "latitude": "0.5",
+            "longitude": "29.46667"
+        },
+        {
+            "city": "Basoko",
+            "region": "00",
+            "country": "CD",
+            "latitude": "1.23333",
+            "longitude": "23.6"
+        },
+        {
+            "city": "Aketi",
+            "region": "00",
+            "country": "CD",
+            "latitude": "2.73333",
+            "longitude": "23.76667"
+        },
+        {
+            "city": "Lubumbashi",
+            "region": "05",
+            "country": "CD",
+            "latitude": "-11.66667",
+            "longitude": "27.46667"
+        },
+        {
+            "city": "Likasi",
+            "region": "05",
+            "country": "CD",
+            "latitude": "-10.98139",
+            "longitude": "26.73333"
+        },
+        {
+            "city": "Kolwezi",
+            "region": "05",
+            "country": "CD",
+            "latitude": "-10.71667",
+            "longitude": "25.4725"
+        },
+        {
+            "city": "Kipushi",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-11.76667",
+            "longitude": "27.23333"
+        },
+        {
+            "city": "Kambove",
+            "region": "05",
+            "country": "CD",
+            "latitude": "-10.87639",
+            "longitude": "26.59694"
+        },
+        {
+            "city": "Tshela",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-4.98333",
+            "longitude": "12.93333"
+        },
+        {
+            "city": "Nioki",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-2.71667",
+            "longitude": "17.68333"
+        },
+        {
+            "city": "Mushie",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-3.01667",
+            "longitude": "16.9"
+        },
+        {
+            "city": "Mbanza-Ngungu",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-5.25",
+            "longitude": "14.86667"
+        },
+        {
+            "city": "Mbandaka",
+            "region": "02",
+            "country": "CD",
+            "latitude": "0.06667",
+            "longitude": "18.26667"
+        },
+        {
+            "city": "Matadi",
+            "region": "08",
+            "country": "CD",
+            "latitude": "-5.81667",
+            "longitude": "13.45"
+        },
+        {
+            "city": "Mangai",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-4.05",
+            "longitude": "19.53333"
+        },
+        {
+            "city": "Libenge",
+            "region": "00",
+            "country": "CD",
+            "latitude": "3.65",
+            "longitude": "18.63333"
+        },
+        {
+            "city": "Kinshasa",
+            "region": "06",
+            "country": "CD",
+            "latitude": "-4.32459",
+            "longitude": "15.32146"
+        },
+        {
+            "city": "Kikwit",
+            "region": "01",
+            "country": "CD",
+            "latitude": "-5.04098",
+            "longitude": "18.81619"
+        },
+        {
+            "city": "Kasongo-Lunda",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-6.46667",
+            "longitude": "16.81667"
+        },
+        {
+            "city": "Kasangulu",
+            "region": "08",
+            "country": "CD",
+            "latitude": "-4.59111",
+            "longitude": "15.17083"
+        },
+        {
+            "city": "Inongo",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-1.95",
+            "longitude": "18.26667"
+        },
+        {
+            "city": "Gemena",
+            "region": "00",
+            "country": "CD",
+            "latitude": "3.25",
+            "longitude": "19.76667"
+        },
+        {
+            "city": "Bulungu",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-4.55",
+            "longitude": "18.6"
+        },
+        {
+            "city": "Bosobolo",
+            "region": "00",
+            "country": "CD",
+            "latitude": "4.18333",
+            "longitude": "19.9"
+        },
+        {
+            "city": "Bolobo",
+            "region": "00",
+            "country": "CD",
+            "latitude": "-2.16667",
+            "longitude": "16.23333"
+        },
+        {
+            "city": "Bandundu",
+            "region": "01",
+            "country": "CD",
+            "latitude": "-3.31667",
+            "longitude": "17.36667"
+        },
+        {
+            "city": "Masina",
+            "region": "06",
+            "country": "CD",
+            "latitude": "-4.38361",
+            "longitude": "15.39139"
+        }
+    ]
+}

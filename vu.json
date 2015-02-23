@@ -1,0 +1,48 @@
+{
+    "country": "Vanuatu",
+    "code": "VU",
+    "cities": [
+        {
+            "city": "Sola",
+            "region": "07",
+            "country": "VU",
+            "latitude": "-13.88333",
+            "longitude": "167.55"
+        },
+        {
+            "city": "Port-Vila",
+            "region": "18",
+            "country": "VU",
+            "latitude": "-17.73381",
+            "longitude": "168.32188"
+        },
+        {
+            "city": "Port-Olry",
+            "region": "13",
+            "country": "VU",
+            "latitude": "-15.05",
+            "longitude": "167.05"
+        },
+        {
+            "city": "Norsup",
+            "region": "16",
+            "country": "VU",
+            "latitude": "-16.06667",
+            "longitude": "167.38333"
+        },
+        {
+            "city": "Luganville",
+            "region": "13",
+            "country": "VU",
+            "latitude": "-15.53333",
+            "longitude": "167.16667"
+        },
+        {
+            "city": "Isangel",
+            "region": "15",
+            "country": "VU",
+            "latitude": "-19.55",
+            "longitude": "169.26667"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "country": "Tokelau",
+    "code": "TK",
+    "cities": [
+        {
+            "city": "Fale old settlement",
+            "region": "F",
+            "country": "TK",
+            "latitude": "-9.38516",
+            "longitude": "-171.24675"
+        },
+        {
+            "city": "Atafu Village",
+            "region": "A",
+            "country": "TK",
+            "latitude": "-8.54212",
+            "longitude": "-172.51591"
+        }
+    ]
+}

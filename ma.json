@@ -1,0 +1,1651 @@
+{
+    "country": "Morocco",
+    "code": "MA",
+    "cities": [
+        {
+            "city": "Zoumi",
+            "region": "57",
+            "country": "MA",
+            "latitude": "34.80321",
+            "longitude": "-5.34458"
+        },
+        {
+            "city": "Zinat",
+            "region": "57",
+            "country": "MA",
+            "latitude": "35.43",
+            "longitude": "-5.4"
+        },
+        {
+            "city": "Saddina",
+            "region": "57",
+            "country": "MA",
+            "latitude": "35.6141",
+            "longitude": "-5.45191"
+        },
+        {
+            "city": "Za\u00efo",
+            "region": "54",
+            "country": "MA",
+            "latitude": "34.94282",
+            "longitude": "-2.7329"
+        },
+        {
+            "city": "Zagora",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.33241",
+            "longitude": "-5.8384"
+        },
+        {
+            "city": "Youssoufia",
+            "region": "51",
+            "country": "MA",
+            "latitude": "32.24634",
+            "longitude": "-8.52941"
+        },
+        {
+            "city": "Touama",
+            "region": "47",
+            "country": "MA",
+            "latitude": "31.53501",
+            "longitude": "-7.49291"
+        },
+        {
+            "city": "Tiztoutine",
+            "region": "54",
+            "country": "MA",
+            "latitude": "34.97159",
+            "longitude": "-3.15273"
+        },
+        {
+            "city": "Tiznit",
+            "region": "55",
+            "country": "MA",
+            "latitude": "29.69742",
+            "longitude": "-9.73162"
+        },
+        {
+            "city": "Tizguine",
+            "region": "47",
+            "country": "MA",
+            "latitude": "31.22836",
+            "longitude": "-8.31611"
+        },
+        {
+            "city": "Tit Mellil",
+            "region": "45",
+            "country": "MA",
+            "latitude": "33.55808",
+            "longitude": "-7.48647"
+        },
+        {
+            "city": "Tissa",
+            "region": "58",
+            "country": "MA",
+            "latitude": "34.28791",
+            "longitude": "-4.66372"
+        },
+        {
+            "city": "Tirhanim\u00eene",
+            "region": "58",
+            "country": "MA",
+            "latitude": "35.23619",
+            "longitude": "-3.95453"
+        },
+        {
+            "city": "Tiout",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.3887",
+            "longitude": "-8.69572"
+        },
+        {
+            "city": "Tiouli",
+            "region": "54",
+            "country": "MA",
+            "latitude": "34.36679",
+            "longitude": "-1.83705"
+        },
+        {
+            "city": "Tineghir",
+            "region": "55",
+            "country": "MA",
+            "latitude": "31.51571",
+            "longitude": "-5.53428"
+        },
+        {
+            "city": "Timoulilt",
+            "region": "56",
+            "country": "MA",
+            "latitude": "32.20368",
+            "longitude": "-6.4666"
+        },
+        {
+            "city": "Timezgana",
+            "region": "58",
+            "country": "MA",
+            "latitude": "34.58",
+            "longitude": "-4.73"
+        },
+        {
+            "city": "Timezgadiouine",
+            "region": "47",
+            "country": "MA",
+            "latitude": "30.88366",
+            "longitude": "-9.04548"
+        },
+        {
+            "city": "Tilmi",
+            "region": "55",
+            "country": "MA",
+            "latitude": "31.81794",
+            "longitude": "-5.76812"
+        },
+        {
+            "city": "Tifni",
+            "region": "56",
+            "country": "MA",
+            "latitude": "31.62777",
+            "longitude": "-6.94093"
+        },
+        {
+            "city": "Tiflet",
+            "region": "49",
+            "country": "MA",
+            "latitude": "33.89469",
+            "longitude": "-6.3065"
+        },
+        {
+            "city": "T\u00e9touan",
+            "region": "57",
+            "country": "MA",
+            "latitude": "35.57109",
+            "longitude": "-5.37242"
+        },
+        {
+            "city": "Temara",
+            "region": "49",
+            "country": "MA",
+            "latitude": "33.92866",
+            "longitude": "-6.90656"
+        },
+        {
+            "city": "Telouet",
+            "region": "55",
+            "country": "MA",
+            "latitude": "31.28924",
+            "longitude": "-7.23789"
+        },
+        {
+            "city": "Tazouta",
+            "region": "46",
+            "country": "MA",
+            "latitude": "33.66991",
+            "longitude": "-4.63392"
+        },
+        {
+            "city": "Taznakht",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.57836",
+            "longitude": "-7.20341"
+        },
+        {
+            "city": "Tazemmourt",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.40854",
+            "longitude": "-8.829"
+        },
+        {
+            "city": "Tazarine",
+            "region": "58",
+            "country": "MA",
+            "latitude": "33.88306",
+            "longitude": "-4.1862"
+        },
+        {
+            "city": "Taza",
+            "region": "58",
+            "country": "MA",
+            "latitude": "34.21",
+            "longitude": "-4.01"
+        },
+        {
+            "city": "Tata",
+            "region": "53",
+            "country": "MA",
+            "latitude": "29.74409",
+            "longitude": "-7.973"
+        },
+        {
+            "city": "Tarsouat",
+            "region": "55",
+            "country": "MA",
+            "latitude": "29.58153",
+            "longitude": "-9.02664"
+        },
+        {
+            "city": "Taroudant",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.47028",
+            "longitude": "-8.87695"
+        },
+        {
+            "city": "Teroual",
+            "region": "52",
+            "country": "MA",
+            "latitude": "34.67452",
+            "longitude": "-5.27331"
+        },
+        {
+            "city": "Targuist",
+            "region": "58",
+            "country": "MA",
+            "latitude": "34.93769",
+            "longitude": "-4.31856"
+        },
+        {
+            "city": "Taourirt",
+            "region": "54",
+            "country": "MA",
+            "latitude": "34.4073",
+            "longitude": "-2.89732"
+        },
+        {
+            "city": "Taounza",
+            "region": "56",
+            "country": "MA",
+            "latitude": "32.09368",
+            "longitude": "-6.60607"
+        },
+        {
+            "city": "Taounate",
+            "region": "58",
+            "country": "MA",
+            "latitude": "34.53822",
+            "longitude": "-4.64143"
+        },
+        {
+            "city": "Taouloukoult",
+            "region": "47",
+            "country": "MA",
+            "latitude": "31.22218",
+            "longitude": "-9.07943"
+        },
+        {
+            "city": "Taouima",
+            "region": "54",
+            "country": "MA",
+            "latitude": "35.1299",
+            "longitude": "-2.9279"
+        },
+        {
+            "city": "Tan-Tan",
+            "region": "53",
+            "country": "MA",
+            "latitude": "28.43799",
+            "longitude": "-11.10321"
+        },
+        {
+            "city": "Tangier",
+            "region": "57",
+            "country": "MA",
+            "latitude": "35.78058",
+            "longitude": "-5.81365"
+        },
+        {
+            "city": "Tanalt",
+            "region": "55",
+            "country": "MA",
+            "latitude": "29.77548",
+            "longitude": "-9.16796"
+        },
+        {
+            "city": "Tamorot",
+            "region": "57",
+            "country": "MA",
+            "latitude": "34.93632",
+            "longitude": "-4.7794"
+        },
+        {
+            "city": "Tamanar",
+            "region": "47",
+            "country": "MA",
+            "latitude": "31.00087",
+            "longitude": "-9.67802"
+        },
+        {
+            "city": "Talzemt",
+            "region": "46",
+            "country": "MA",
+            "latitude": "33.59",
+            "longitude": "-4.19"
+        },
+        {
+            "city": "Talmest",
+            "region": "47",
+            "country": "MA",
+            "latitude": "31.81",
+            "longitude": "-9.33"
+        },
+        {
+            "city": "Taliouine",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.52917",
+            "longitude": "-7.91262"
+        },
+        {
+            "city": "Tahala",
+            "region": "58",
+            "country": "MA",
+            "latitude": "34.04845",
+            "longitude": "-4.42795"
+        },
+        {
+            "city": "Tafraout",
+            "region": "55",
+            "country": "MA",
+            "latitude": "29.72449",
+            "longitude": "-8.9747"
+        },
+        {
+            "city": "Tadrart",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.77477",
+            "longitude": "-9.45951"
+        },
+        {
+            "city": "Tabouda",
+            "region": "58",
+            "country": "MA",
+            "latitude": "34.71923",
+            "longitude": "-5.1403"
+        },
+        {
+            "city": "Tabia",
+            "region": "56",
+            "country": "MA",
+            "latitude": "32.03009",
+            "longitude": "-6.79985"
+        },
+        {
+            "city": "Tabia",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.03462",
+            "longitude": "-8.87688"
+        },
+        {
+            "city": "Tabant",
+            "region": "56",
+            "country": "MA",
+            "latitude": "31.65255",
+            "longitude": "-6.41049"
+        },
+        {
+            "city": "Souq Larb\u2019a al Gharb",
+            "region": "52",
+            "country": "MA",
+            "latitude": "34.68664",
+            "longitude": "-6.00272"
+        },
+        {
+            "city": "Senada",
+            "region": "58",
+            "country": "MA",
+            "latitude": "35.07452",
+            "longitude": "-4.21583"
+        },
+        {
+            "city": "Skoura",
+            "region": "55",
+            "country": "MA",
+            "latitude": "31.06262",
+            "longitude": "-6.5525"
+        },
+        {
+            "city": "Sidi Yahya Ou Saad",
+            "region": "48",
+            "country": "MA",
+            "latitude": "32.68011",
+            "longitude": "-5.57738"
+        },
+        {
+            "city": "Sidi Yahia el Gharb",
+            "region": "52",
+            "country": "MA",
+            "latitude": "34.30652",
+            "longitude": "-6.30618"
+        },
+        {
+            "city": "Sidi Sma\u00efl",
+            "region": "51",
+            "country": "MA",
+            "latitude": "32.82268",
+            "longitude": "-8.5081"
+        },
+        {
+            "city": "Sidi Slimane",
+            "region": "52",
+            "country": "MA",
+            "latitude": "34.26478",
+            "longitude": "-5.92598"
+        },
+        {
+            "city": "Sidi Redouane",
+            "region": "52",
+            "country": "MA",
+            "latitude": "34.68692",
+            "longitude": "-5.44538"
+        },
+        {
+            "city": "Sidi Rahhal",
+            "region": "47",
+            "country": "MA",
+            "latitude": "31.65031",
+            "longitude": "-7.47288"
+        },
+        {
+            "city": "Sidi Qacem",
+            "region": "52",
+            "country": "MA",
+            "latitude": "34.22149",
+            "longitude": "-5.70775"
+        },
+        {
+            "city": "Sidi Moussa",
+            "region": "47",
+            "country": "MA",
+            "latitude": "32.27209",
+            "longitude": "-7.20095"
+        },
+        {
+            "city": "Sidi Lamine",
+            "region": "48",
+            "country": "MA",
+            "latitude": "32.90783",
+            "longitude": "-6.05069"
+        },
+        {
+            "city": "Sidi Jaber",
+            "region": "56",
+            "country": "MA",
+            "latitude": "32.38952",
+            "longitude": "-6.42095"
+        },
+        {
+            "city": "Sidi Ifni",
+            "region": "55",
+            "country": "MA",
+            "latitude": "29.37975",
+            "longitude": "-10.17299"
+        },
+        {
+            "city": "Sidi Harazem",
+            "region": "46",
+            "country": "MA",
+            "latitude": "34.02733",
+            "longitude": "-4.88343"
+        },
+        {
+            "city": "Sidi Bousber",
+            "region": "52",
+            "country": "MA",
+            "latitude": "34.56284",
+            "longitude": "-5.36208"
+        },
+        {
+            "city": "Sidi Bou Othmane",
+            "region": "47",
+            "country": "MA",
+            "latitude": "31.90226",
+            "longitude": "-7.94169"
+        },
+        {
+            "city": "Sidi Bennour",
+            "region": "51",
+            "country": "MA",
+            "latitude": "32.65236",
+            "longitude": "-8.42769"
+        },
+        {
+            "city": "Sidi Amar",
+            "region": "48",
+            "country": "MA",
+            "latitude": "32.94987",
+            "longitude": "-5.83225"
+        },
+        {
+            "city": "Sidi Abdallah",
+            "region": "47",
+            "country": "MA",
+            "latitude": "32.53544",
+            "longitude": "-7.83243"
+        },
+        {
+            "city": "Settat",
+            "region": "50",
+            "country": "MA",
+            "latitude": "33.0007",
+            "longitude": "-7.62035"
+        },
+        {
+            "city": "Selouane",
+            "region": "54",
+            "country": "MA",
+            "latitude": "35.07313",
+            "longitude": "-2.9423"
+        },
+        {
+            "city": "Sefrou",
+            "region": "46",
+            "country": "MA",
+            "latitude": "33.83186",
+            "longitude": "-4.828"
+        },
+        {
+            "city": "Sal\u00e9",
+            "region": "49",
+            "country": "MA",
+            "latitude": "34.03892",
+            "longitude": "-6.8166"
+        },
+        {
+            "city": "Safi",
+            "region": "51",
+            "country": "MA",
+            "latitude": "32.29939",
+            "longitude": "-9.23718"
+        },
+        {
+            "city": "Rouadi",
+            "region": "58",
+            "country": "MA",
+            "latitude": "35.14119",
+            "longitude": "-4.13631"
+        },
+        {
+            "city": "Rislane",
+            "region": "54",
+            "country": "MA",
+            "latitude": "34.76987",
+            "longitude": "-2.46034"
+        },
+        {
+            "city": "Ghouazi",
+            "region": "58",
+            "country": "MA",
+            "latitude": "34.47737",
+            "longitude": "-5.30235"
+        },
+        {
+            "city": "Reggada",
+            "region": "55",
+            "country": "MA",
+            "latitude": "29.58016",
+            "longitude": "-9.70086"
+        },
+        {
+            "city": "Ratba",
+            "region": "58",
+            "country": "MA",
+            "latitude": "34.77772",
+            "longitude": "-4.9399"
+        },
+        {
+            "city": "Rabat",
+            "region": "49",
+            "country": "MA",
+            "latitude": "34.01325",
+            "longitude": "-6.83255"
+        },
+        {
+            "city": "Ourtzagh",
+            "region": "58",
+            "country": "MA",
+            "latitude": "34.53477",
+            "longitude": "-4.96878"
+        },
+        {
+            "city": "Oulmes",
+            "region": "49",
+            "country": "MA",
+            "latitude": "33.42585",
+            "longitude": "-6.00137"
+        },
+        {
+            "city": "Oulad Te\u00efma",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.39467",
+            "longitude": "-9.20897"
+        },
+        {
+            "city": "Oulad Tayeb",
+            "region": "46",
+            "country": "MA",
+            "latitude": "33.94633",
+            "longitude": "-4.99509"
+        },
+        {
+            "city": "Oulad Daoud",
+            "region": "58",
+            "country": "MA",
+            "latitude": "34.40438",
+            "longitude": "-4.69342"
+        },
+        {
+            "city": "Oulad Ayad",
+            "region": "56",
+            "country": "MA",
+            "latitude": "32.2",
+            "longitude": "-6.8"
+        },
+        {
+            "city": "Oujda",
+            "region": "54",
+            "country": "MA",
+            "latitude": "34.68052",
+            "longitude": "-1.90764"
+        },
+        {
+            "city": "Ouirgane",
+            "region": "47",
+            "country": "MA",
+            "latitude": "31.17766",
+            "longitude": "-8.07329"
+        },
+        {
+            "city": "Ouijjane",
+            "region": "55",
+            "country": "MA",
+            "latitude": "29.62778",
+            "longitude": "-9.53959"
+        },
+        {
+            "city": "Oued Zem",
+            "region": "50",
+            "country": "MA",
+            "latitude": "32.8627",
+            "longitude": "-6.57359"
+        },
+        {
+            "city": "Oued Laou",
+            "region": "57",
+            "country": "MA",
+            "latitude": "35.4484",
+            "longitude": "-5.09627"
+        },
+        {
+            "city": "Oued Amlil",
+            "region": "58",
+            "country": "MA",
+            "latitude": "34.2",
+            "longitude": "-4.28"
+        },
+        {
+            "city": "Ouazzane",
+            "region": "52",
+            "country": "MA",
+            "latitude": "34.79711",
+            "longitude": "-5.58224"
+        },
+        {
+            "city": "Ouarzazat",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.91894",
+            "longitude": "-6.89341"
+        },
+        {
+            "city": "Nouaseur",
+            "region": "50",
+            "country": "MA",
+            "latitude": "33.3802",
+            "longitude": "-7.62105"
+        },
+        {
+            "city": "Nador",
+            "region": "54",
+            "country": "MA",
+            "latitude": "35.17404",
+            "longitude": "-2.92866"
+        },
+        {
+            "city": "Moulay Yacoub",
+            "region": "46",
+            "country": "MA",
+            "latitude": "34.08793",
+            "longitude": "-5.18171"
+        },
+        {
+            "city": "Moulay Brahim",
+            "region": "47",
+            "country": "MA",
+            "latitude": "31.28785",
+            "longitude": "-7.9683"
+        },
+        {
+            "city": "Moulay Bouchta",
+            "region": "58",
+            "country": "MA",
+            "latitude": "34.48922",
+            "longitude": "-5.13023"
+        },
+        {
+            "city": "Moulay Abdallah",
+            "region": "51",
+            "country": "MA",
+            "latitude": "33.19664",
+            "longitude": "-8.58811"
+        },
+        {
+            "city": "Mohammedia",
+            "region": "45",
+            "country": "MA",
+            "latitude": "33.70659",
+            "longitude": "-7.39442"
+        },
+        {
+            "city": "Missour",
+            "region": "46",
+            "country": "MA",
+            "latitude": "33.04893",
+            "longitude": "-3.98946"
+        },
+        {
+            "city": "Midelt",
+            "region": "48",
+            "country": "MA",
+            "latitude": "32.6852",
+            "longitude": "-4.74512"
+        },
+        {
+            "city": "Midar",
+            "region": "54",
+            "country": "MA",
+            "latitude": "34.94025",
+            "longitude": "-3.53311"
+        },
+        {
+            "city": "Mekn\u00e8s",
+            "region": "48",
+            "country": "MA",
+            "latitude": "33.89352",
+            "longitude": "-5.54727"
+        },
+        {
+            "city": "Mediouna",
+            "region": "45",
+            "country": "MA",
+            "latitude": "33.45161",
+            "longitude": "-7.51995"
+        },
+        {
+            "city": "Mechr\u00e1 Belqsiri",
+            "region": "52",
+            "country": "MA",
+            "latitude": "34.57396",
+            "longitude": "-5.95372"
+        },
+        {
+            "city": "Matmata",
+            "region": "58",
+            "country": "MA",
+            "latitude": "34.09914",
+            "longitude": "-4.55219"
+        },
+        {
+            "city": "Martil",
+            "region": "57",
+            "country": "MA",
+            "latitude": "35.61662",
+            "longitude": "-5.27522"
+        },
+        {
+            "city": "Marrakech",
+            "region": "47",
+            "country": "MA",
+            "latitude": "31.63148",
+            "longitude": "-8.00828"
+        },
+        {
+            "city": "Madagh",
+            "region": "54",
+            "country": "MA",
+            "latitude": "35.01032",
+            "longitude": "-2.33701"
+        },
+        {
+            "city": "Ifrane",
+            "region": "56",
+            "country": "MA",
+            "latitude": "31.70217",
+            "longitude": "-6.3494"
+        },
+        {
+            "city": "Larache",
+            "region": "57",
+            "country": "MA",
+            "latitude": "35.19321",
+            "longitude": "-6.15572"
+        },
+        {
+            "city": "Lalla Mimouna",
+            "region": "52",
+            "country": "MA",
+            "latitude": "34.84606",
+            "longitude": "-6.06645"
+        },
+        {
+            "city": "Ksar el Kebir",
+            "region": "57",
+            "country": "MA",
+            "latitude": "35.00174",
+            "longitude": "-5.90534"
+        },
+        {
+            "city": "Khouribga",
+            "region": "50",
+            "country": "MA",
+            "latitude": "32.88108",
+            "longitude": "-6.9063"
+        },
+        {
+            "city": "Khenifra",
+            "region": "48",
+            "country": "MA",
+            "latitude": "32.9391",
+            "longitude": "-5.6686"
+        },
+        {
+            "city": "Kerrouchen",
+            "region": "48",
+            "country": "MA",
+            "latitude": "32.79639",
+            "longitude": "-5.3188"
+        },
+        {
+            "city": "Kenitra",
+            "region": "52",
+            "country": "MA",
+            "latitude": "34.26101",
+            "longitude": "-6.5802"
+        },
+        {
+            "city": "Kasba Tadla",
+            "region": "56",
+            "country": "MA",
+            "latitude": "32.5977",
+            "longitude": "-6.26844"
+        },
+        {
+            "city": "Kariat Arkmane",
+            "region": "54",
+            "country": "MA",
+            "latitude": "35.1071",
+            "longitude": "-2.74693"
+        },
+        {
+            "city": "Karia Ba Mohamed",
+            "region": "58",
+            "country": "MA",
+            "latitude": "34.37094",
+            "longitude": "-5.2138"
+        },
+        {
+            "city": "Jorf",
+            "region": "48",
+            "country": "MA",
+            "latitude": "31.49442",
+            "longitude": "-4.40598"
+        },
+        {
+            "city": "Jerada",
+            "region": "54",
+            "country": "MA",
+            "latitude": "34.31",
+            "longitude": "-2.16"
+        },
+        {
+            "city": "Itzer",
+            "region": "48",
+            "country": "MA",
+            "latitude": "32.8783",
+            "longitude": "-5.0515"
+        },
+        {
+            "city": "Isseksi",
+            "region": "56",
+            "country": "MA",
+            "latitude": "32.22981",
+            "longitude": "-6.27661"
+        },
+        {
+            "city": "Inezgane",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.35535",
+            "longitude": "-9.53639"
+        },
+        {
+            "city": "Imzo\u00fbrene",
+            "region": "58",
+            "country": "MA",
+            "latitude": "35.15",
+            "longitude": "-3.86"
+        },
+        {
+            "city": "Imider",
+            "region": "55",
+            "country": "MA",
+            "latitude": "31.37324",
+            "longitude": "-5.79384"
+        },
+        {
+            "city": "Imilchil",
+            "region": "48",
+            "country": "MA",
+            "latitude": "32.15309",
+            "longitude": "-5.62453"
+        },
+        {
+            "city": "Iguidi",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.83826",
+            "longitude": "-7.90294"
+        },
+        {
+            "city": "Ifrane",
+            "region": "48",
+            "country": "MA",
+            "latitude": "33.52666",
+            "longitude": "-5.11019"
+        },
+        {
+            "city": "Hassi Berkane",
+            "region": "54",
+            "country": "MA",
+            "latitude": "34.83898",
+            "longitude": "-2.86699"
+        },
+        {
+            "city": "Zerkten",
+            "region": "47",
+            "country": "MA",
+            "latitude": "31.4447",
+            "longitude": "-7.39224"
+        },
+        {
+            "city": "Had Kourt",
+            "region": "52",
+            "country": "MA",
+            "latitude": "34.61588",
+            "longitude": "-5.7404"
+        },
+        {
+            "city": "Oulad Frej",
+            "region": "51",
+            "country": "MA",
+            "latitude": "32.95956",
+            "longitude": "-8.2274"
+        },
+        {
+            "city": "Guisser",
+            "region": "50",
+            "country": "MA",
+            "latitude": "32.76645",
+            "longitude": "-7.49818"
+        },
+        {
+            "city": "Guercif",
+            "region": "58",
+            "country": "MA",
+            "latitude": "34.22568",
+            "longitude": "-3.35361"
+        },
+        {
+            "city": "Guenfouda",
+            "region": "54",
+            "country": "MA",
+            "latitude": "34.48361",
+            "longitude": "-2.04562"
+        },
+        {
+            "city": "Guelmim",
+            "region": "53",
+            "country": "MA",
+            "latitude": "28.98696",
+            "longitude": "-10.05738"
+        },
+        {
+            "city": "Goulmima",
+            "region": "48",
+            "country": "MA",
+            "latitude": "31.69227",
+            "longitude": "-4.95256"
+        },
+        {
+            "city": "Galaz",
+            "region": "58",
+            "country": "MA",
+            "latitude": "34.54424",
+            "longitude": "-4.80355"
+        },
+        {
+            "city": "Fkih Ben Salah",
+            "region": "56",
+            "country": "MA",
+            "latitude": "32.50093",
+            "longitude": "-6.69062"
+        },
+        {
+            "city": "Figuig (Centre)",
+            "region": "54",
+            "country": "MA",
+            "latitude": "32.10891",
+            "longitude": "-1.22855"
+        },
+        {
+            "city": "Fifi",
+            "region": "57",
+            "country": "MA",
+            "latitude": "34.94873",
+            "longitude": "-5.24798"
+        },
+        {
+            "city": "Fezna",
+            "region": "48",
+            "country": "MA",
+            "latitude": "31.52921",
+            "longitude": "-4.45562"
+        },
+        {
+            "city": "F\u00e8s",
+            "region": "46",
+            "country": "MA",
+            "latitude": "34.03715",
+            "longitude": "-4.9998"
+        },
+        {
+            "city": "Ezzhiliga",
+            "region": "49",
+            "country": "MA",
+            "latitude": "33.3",
+            "longitude": "-6.53"
+        },
+        {
+            "city": "Essaouira",
+            "region": "47",
+            "country": "MA",
+            "latitude": "31.5125",
+            "longitude": "-9.77"
+        },
+        {
+            "city": "El Ksiba",
+            "region": "56",
+            "country": "MA",
+            "latitude": "32.57286",
+            "longitude": "-6.01947"
+        },
+        {
+            "city": "El Jadida",
+            "region": "51",
+            "country": "MA",
+            "latitude": "33.25492",
+            "longitude": "-8.50602"
+        },
+        {
+            "city": "El Hajeb",
+            "region": "48",
+            "country": "MA",
+            "latitude": "33.68786",
+            "longitude": "-5.371"
+        },
+        {
+            "city": "Ouaoula",
+            "region": "56",
+            "country": "MA",
+            "latitude": "31.87",
+            "longitude": "-6.75"
+        },
+        {
+            "city": "El A\u00efoun",
+            "region": "54",
+            "country": "MA",
+            "latitude": "34.58319",
+            "longitude": "-2.50612"
+        },
+        {
+            "city": "Derdara",
+            "region": "57",
+            "country": "MA",
+            "latitude": "35.11041",
+            "longitude": "-5.29015"
+        },
+        {
+            "city": "Demnate",
+            "region": "56",
+            "country": "MA",
+            "latitude": "31.73443",
+            "longitude": "-7.00505"
+        },
+        {
+            "city": "Debdou",
+            "region": "54",
+            "country": "MA",
+            "latitude": "33.98228",
+            "longitude": "-3.04263"
+        },
+        {
+            "city": "Riah",
+            "region": "50",
+            "country": "MA",
+            "latitude": "33.15122",
+            "longitude": "-7.37504"
+        },
+        {
+            "city": "Dar Ould Zidouh",
+            "region": "56",
+            "country": "MA",
+            "latitude": "32.31247",
+            "longitude": "-6.90494"
+        },
+        {
+            "city": "Dar Bouazza",
+            "region": "45",
+            "country": "MA",
+            "latitude": "33.51535",
+            "longitude": "-7.81677"
+        },
+        {
+            "city": "Dar Chaoui",
+            "region": "57",
+            "country": "MA",
+            "latitude": "35.5377",
+            "longitude": "-5.71742"
+        },
+        {
+            "city": "Chichaoua",
+            "region": "47",
+            "country": "MA",
+            "latitude": "31.54351",
+            "longitude": "-8.76274"
+        },
+        {
+            "city": "Chefchaouene",
+            "region": "57",
+            "country": "MA",
+            "latitude": "35.16878",
+            "longitude": "-5.2636"
+        },
+        {
+            "city": "Casablanca",
+            "region": "45",
+            "country": "MA",
+            "latitude": "33.59278",
+            "longitude": "-7.61916"
+        },
+        {
+            "city": "Bzou",
+            "region": "56",
+            "country": "MA",
+            "latitude": "32.09171",
+            "longitude": "-7.04786"
+        },
+        {
+            "city": "Brikcha",
+            "region": "57",
+            "country": "MA",
+            "latitude": "34.96732",
+            "longitude": "-5.57295"
+        },
+        {
+            "city": "Bouznika",
+            "region": "50",
+            "country": "MA",
+            "latitude": "33.78942",
+            "longitude": "-7.15968"
+        },
+        {
+            "city": "Bouskoura",
+            "region": "45",
+            "country": "MA",
+            "latitude": "33.44976",
+            "longitude": "-7.65239"
+        },
+        {
+            "city": "Boumia",
+            "region": "48",
+            "country": "MA",
+            "latitude": "32.7236",
+            "longitude": "-5.1025"
+        },
+        {
+            "city": "Boulemane",
+            "region": "46",
+            "country": "MA",
+            "latitude": "33.36376",
+            "longitude": "-4.72896"
+        },
+        {
+            "city": "Boulaouane",
+            "region": "51",
+            "country": "MA",
+            "latitude": "32.85995",
+            "longitude": "-8.05555"
+        },
+        {
+            "city": "Boudinar",
+            "region": "54",
+            "country": "MA",
+            "latitude": "35.15601",
+            "longitude": "-3.62358"
+        },
+        {
+            "city": "Bouarfa",
+            "region": "54",
+            "country": "MA",
+            "latitude": "32.53",
+            "longitude": "-1.95"
+        },
+        {
+            "city": "Bouabout",
+            "region": "47",
+            "country": "MA",
+            "latitude": "31.26554",
+            "longitude": "-9.17865"
+        },
+        {
+            "city": "Bigoudine",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.72376",
+            "longitude": "-9.21097"
+        },
+        {
+            "city": "Bhalil",
+            "region": "46",
+            "country": "MA",
+            "latitude": "33.85194",
+            "longitude": "-4.87228"
+        },
+        {
+            "city": "Berkane",
+            "region": "54",
+            "country": "MA",
+            "latitude": "34.92",
+            "longitude": "-2.32"
+        },
+        {
+            "city": "Beni Mellal",
+            "region": "56",
+            "country": "MA",
+            "latitude": "32.33725",
+            "longitude": "-6.34984"
+        },
+        {
+            "city": "Berrechid",
+            "region": "50",
+            "country": "MA",
+            "latitude": "33.26553",
+            "longitude": "-7.58754"
+        },
+        {
+            "city": "Bab Taza",
+            "region": "57",
+            "country": "MA",
+            "latitude": "35.06166",
+            "longitude": "-5.19828"
+        },
+        {
+            "city": "Azrou",
+            "region": "48",
+            "country": "MA",
+            "latitude": "33.43443",
+            "longitude": "-5.22126"
+        },
+        {
+            "city": "Azilal",
+            "region": "56",
+            "country": "MA",
+            "latitude": "31.96156",
+            "longitude": "-6.57109"
+        },
+        {
+            "city": "Azgour",
+            "region": "47",
+            "country": "MA",
+            "latitude": "31.13753",
+            "longitude": "-8.31488"
+        },
+        {
+            "city": "Azemmour",
+            "region": "51",
+            "country": "MA",
+            "latitude": "33.28952",
+            "longitude": "-8.3425"
+        },
+        {
+            "city": "Assoul",
+            "region": "48",
+            "country": "MA",
+            "latitude": "31.95286",
+            "longitude": "-5.20812"
+        },
+        {
+            "city": "Assads",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.23",
+            "longitude": "-8.86"
+        },
+        {
+            "city": "Asilah",
+            "region": "57",
+            "country": "MA",
+            "latitude": "35.46502",
+            "longitude": "-6.0348"
+        },
+        {
+            "city": "Argana",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.7825",
+            "longitude": "-9.11968"
+        },
+        {
+            "city": "Arbaoua",
+            "region": "52",
+            "country": "MA",
+            "latitude": "34.90239",
+            "longitude": "-5.94871"
+        },
+        {
+            "city": "Arazane",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.50346",
+            "longitude": "-8.60637"
+        },
+        {
+            "city": "Aourir",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.49238",
+            "longitude": "-9.6355"
+        },
+        {
+            "city": "Aoulouz",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.67307",
+            "longitude": "-8.18087"
+        },
+        {
+            "city": "Aoufous",
+            "region": "48",
+            "country": "MA",
+            "latitude": "31.68",
+            "longitude": "-4.17"
+        },
+        {
+            "city": "Amouguer",
+            "region": "48",
+            "country": "MA",
+            "latitude": "32.27491",
+            "longitude": "-4.93535"
+        },
+        {
+            "city": "Amizmiz",
+            "region": "47",
+            "country": "MA",
+            "latitude": "31.21673",
+            "longitude": "-8.23184"
+        },
+        {
+            "city": "Amerzgane",
+            "region": "55",
+            "country": "MA",
+            "latitude": "31.0437",
+            "longitude": "-7.21037"
+        },
+        {
+            "city": "Amersid",
+            "region": "48",
+            "country": "MA",
+            "latitude": "32.74983",
+            "longitude": "-4.47063"
+        },
+        {
+            "city": "Amalou",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.19153",
+            "longitude": "-8.74873"
+        },
+        {
+            "city": "Alnif",
+            "region": "48",
+            "country": "MA",
+            "latitude": "31.11411",
+            "longitude": "-5.17154"
+        },
+        {
+            "city": "Almis Marmoucha",
+            "region": "46",
+            "country": "MA",
+            "latitude": "33.32",
+            "longitude": "-4.18"
+        },
+        {
+            "city": "Khemisset",
+            "region": "49",
+            "country": "MA",
+            "latitude": "33.82404",
+            "longitude": "-6.06627"
+        },
+        {
+            "city": "Al Hoce\u00efma",
+            "region": "58",
+            "country": "MA",
+            "latitude": "35.24333",
+            "longitude": "-3.93092"
+        },
+        {
+            "city": "Aknoul",
+            "region": "58",
+            "country": "MA",
+            "latitude": "34.65371",
+            "longitude": "-3.86754"
+        },
+        {
+            "city": "Ajdir",
+            "region": "58",
+            "country": "MA",
+            "latitude": "34.74347",
+            "longitude": "-3.97582"
+        },
+        {
+            "city": "Anergui",
+            "region": "56",
+            "country": "MA",
+            "latitude": "32.06914",
+            "longitude": "-5.93961"
+        },
+        {
+            "city": "Ahfir",
+            "region": "54",
+            "country": "MA",
+            "latitude": "34.95368",
+            "longitude": "-2.10027"
+        },
+        {
+            "city": "Aguelmous",
+            "region": "48",
+            "country": "MA",
+            "latitude": "33.16139",
+            "longitude": "-5.84626"
+        },
+        {
+            "city": "Aguelmous",
+            "region": "48",
+            "country": "MA",
+            "latitude": "33.15",
+            "longitude": "-5.83"
+        },
+        {
+            "city": "Agdz",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.69356",
+            "longitude": "-6.44628"
+        },
+        {
+            "city": "Agadir Melloul",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.22492",
+            "longitude": "-7.79601"
+        },
+        {
+            "city": "Agadir",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.42018",
+            "longitude": "-9.59815"
+        },
+        {
+            "city": "Adassil",
+            "region": "47",
+            "country": "MA",
+            "latitude": "31.10783",
+            "longitude": "-8.49083"
+        },
+        {
+            "city": "Adar",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.14111",
+            "longitude": "-8.37221"
+        },
+        {
+            "city": "Skhirat",
+            "region": "49",
+            "country": "MA",
+            "latitude": "33.84984",
+            "longitude": "-7.04037"
+        },
+        {
+            "city": "Abadou",
+            "region": "47",
+            "country": "MA",
+            "latitude": "31.57917",
+            "longitude": "-7.31308"
+        },
+        {
+            "city": "Mellila",
+            "region": "50",
+            "country": "MA",
+            "latitude": "33.38",
+            "longitude": "-7.14"
+        },
+        {
+            "city": "Tidili Mesfioua",
+            "region": "47",
+            "country": "MA",
+            "latitude": "31.46586",
+            "longitude": "-7.61199"
+        },
+        {
+            "city": "Mhamid",
+            "region": "55",
+            "country": "MA",
+            "latitude": "29.82",
+            "longitude": "-5.72"
+        },
+        {
+            "city": "Mediouna",
+            "region": "45",
+            "country": "MA",
+            "latitude": "33.47",
+            "longitude": "-7.53"
+        },
+        {
+            "city": "Taghazout",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.54259",
+            "longitude": "-9.71115"
+        },
+        {
+            "city": "Tamri",
+            "region": "55",
+            "country": "MA",
+            "latitude": "30.69602",
+            "longitude": "-9.82972"
+        },
+        {
+            "city": "Smimou",
+            "region": "47",
+            "country": "MA",
+            "latitude": "31.21014",
+            "longitude": "-9.70864"
+        },
+        {
+            "city": "Tizgane",
+            "region": "57",
+            "country": "MA",
+            "latitude": "35.41211",
+            "longitude": "-5.06836"
+        },
+        {
+            "city": "Bouarouss",
+            "region": "58",
+            "country": "MA",
+            "latitude": "34.36",
+            "longitude": "-4.81"
+        },
+        {
+            "city": "Azla",
+            "region": "57",
+            "country": "MA",
+            "latitude": "35.55303",
+            "longitude": "-5.24472"
+        },
+        {
+            "city": "Boukhalef",
+            "region": "57",
+            "country": "MA",
+            "latitude": "35.7328",
+            "longitude": "-5.89954"
+        },
+        {
+            "city": "Jebel Tiskaouine",
+            "region": "48",
+            "country": "MA",
+            "latitude": "31.02722",
+            "longitude": "-5.11643"
+        },
+        {
+            "city": "Boujniba",
+            "region": "50",
+            "country": "MA",
+            "latitude": "32.90046",
+            "longitude": "-6.77464"
+        },
+        {
+            "city": "Errachidia",
+            "region": "48",
+            "country": "MA",
+            "latitude": "31.92754",
+            "longitude": "-4.42852"
+        }
+    ]
+}

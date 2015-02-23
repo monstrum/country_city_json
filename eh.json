@@ -1,0 +1,27 @@
+{
+    "country": "Western Sahara",
+    "code": "EH",
+    "cities": [
+        {
+            "city": "Smara",
+            "region": "00",
+            "country": "EH",
+            "latitude": "26.73841",
+            "longitude": "-11.67194"
+        },
+        {
+            "city": "La\u00e2youne \/ El Aai\u00fan",
+            "region": "00",
+            "country": "EH",
+            "latitude": "27.16224",
+            "longitude": "-13.20315"
+        },
+        {
+            "city": "Ad Dakhla",
+            "region": "CE",
+            "country": "EH",
+            "latitude": "23.68477",
+            "longitude": "-15.95798"
+        }
+    ]
+}

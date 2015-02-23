@@ -1,0 +1,6131 @@
+{
+    "country": "Hungary",
+    "code": "HU",
+    "cities": [
+        {
+            "city": "Z\u00e1hony",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.40906",
+            "longitude": "22.17614"
+        },
+        {
+            "city": "Zagyvar\u00e9kas",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.26667",
+            "longitude": "20.13333"
+        },
+        {
+            "city": "V\u00e9szt\u0151",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.91667",
+            "longitude": "21.26667"
+        },
+        {
+            "city": "Verpel\u00e9t",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.85",
+            "longitude": "20.23333"
+        },
+        {
+            "city": "V\u00e1s\u00e1rosnam\u00e9ny",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.13333",
+            "longitude": "22.31667"
+        },
+        {
+            "city": "V\u00e1mosp\u00e9rcs",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.53333",
+            "longitude": "21.9"
+        },
+        {
+            "city": "Vaja",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.00574",
+            "longitude": "22.16761"
+        },
+        {
+            "city": "\u00dajsz\u00e1sz",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.3",
+            "longitude": "20.08333"
+        },
+        {
+            "city": "\u00dajk\u00edgy\u00f3s",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.58333",
+            "longitude": "21.03333"
+        },
+        {
+            "city": "\u00dajfeh\u00e9rt\u00f3",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.8",
+            "longitude": "21.68333"
+        },
+        {
+            "city": "Tyukod",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.85378",
+            "longitude": "22.5633"
+        },
+        {
+            "city": "Tuzs\u00e9r",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.34407",
+            "longitude": "22.11762"
+        },
+        {
+            "city": "T\u00farkeve",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.1",
+            "longitude": "20.75"
+        },
+        {
+            "city": "Tunyogmatolcs",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.96667",
+            "longitude": "22.46667"
+        },
+        {
+            "city": "T\u00f3tkoml\u00f3s",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.41667",
+            "longitude": "20.73333"
+        },
+        {
+            "city": "T\u00f3szeg",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.1",
+            "longitude": "20.15"
+        },
+        {
+            "city": "T\u00f6r\u00f6kszentmikl\u00f3s",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.18333",
+            "longitude": "20.41667"
+        },
+        {
+            "city": "Tornyosp\u00e1lca",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.26667",
+            "longitude": "22.18333"
+        },
+        {
+            "city": "T\u00f6m\u00f6rk\u00e9ny",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.61716",
+            "longitude": "20.04357"
+        },
+        {
+            "city": "Tolcsva",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.28333",
+            "longitude": "21.45"
+        },
+        {
+            "city": "Tokaj",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.11667",
+            "longitude": "21.41667"
+        },
+        {
+            "city": "Tiszavasv\u00e1ri",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.96667",
+            "longitude": "21.35"
+        },
+        {
+            "city": "Tisza\u00fajv\u00e1ros",
+            "region": "04",
+            "country": "HU",
+            "latitude": "47.93333",
+            "longitude": "21.08333"
+        },
+        {
+            "city": "Tiszaszentimre",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.48333",
+            "longitude": "20.73333"
+        },
+        {
+            "city": "Tiszas\u00fcly",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.38333",
+            "longitude": "20.4"
+        },
+        {
+            "city": "Tiszaroff",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.4",
+            "longitude": "20.45"
+        },
+        {
+            "city": "Tiszap\u00fcsp\u00f6ki",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.21667",
+            "longitude": "20.31667"
+        },
+        {
+            "city": "Tiszan\u00e1na",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.56667",
+            "longitude": "20.53333"
+        },
+        {
+            "city": "Tiszanagyfalu",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.1",
+            "longitude": "21.48333"
+        },
+        {
+            "city": "Tiszal\u00fac",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.03333",
+            "longitude": "21.08333"
+        },
+        {
+            "city": "Tiszal\u00f6k",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.01667",
+            "longitude": "21.38333"
+        },
+        {
+            "city": "Tiszakeszi",
+            "region": "04",
+            "country": "HU",
+            "latitude": "47.78333",
+            "longitude": "21"
+        },
+        {
+            "city": "Tiszak\u00e9cske",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.93262",
+            "longitude": "20.10349"
+        },
+        {
+            "city": "Tiszakar\u00e1d",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.2",
+            "longitude": "21.71667"
+        },
+        {
+            "city": "Tiszaf\u00fcred",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.61667",
+            "longitude": "20.76667"
+        },
+        {
+            "city": "Tiszaf\u00f6ldv\u00e1r",
+            "region": "20",
+            "country": "HU",
+            "latitude": "46.98333",
+            "longitude": "20.25"
+        },
+        {
+            "city": "Tiszaeszl\u00e1r",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.05",
+            "longitude": "21.46667"
+        },
+        {
+            "city": "Tiszadob",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.01667",
+            "longitude": "21.16667"
+        },
+        {
+            "city": "Tiszadada",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.03333",
+            "longitude": "21.25"
+        },
+        {
+            "city": "Tiszacsege",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.7",
+            "longitude": "21"
+        },
+        {
+            "city": "Tiszabura",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.45",
+            "longitude": "20.46667"
+        },
+        {
+            "city": "Tiszab\u0151",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.3",
+            "longitude": "20.48333"
+        },
+        {
+            "city": "Tiszabezd\u00e9d",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.36667",
+            "longitude": "22.15"
+        },
+        {
+            "city": "Tiszabercel",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.15",
+            "longitude": "21.65"
+        },
+        {
+            "city": "T\u00e9gl\u00e1s",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.71667",
+            "longitude": "21.68333"
+        },
+        {
+            "city": "Tarpa",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.1048",
+            "longitude": "22.53744"
+        },
+        {
+            "city": "Tarna\u00f6rs",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.59499",
+            "longitude": "20.05254"
+        },
+        {
+            "city": "Tarnalelesz",
+            "region": "11",
+            "country": "HU",
+            "latitude": "48.05",
+            "longitude": "20.18333"
+        },
+        {
+            "city": "Tarcal",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.13333",
+            "longitude": "21.35"
+        },
+        {
+            "city": "T\u00e1llya",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.23333",
+            "longitude": "21.23333"
+        },
+        {
+            "city": "Taktaszada",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.11667",
+            "longitude": "21.18333"
+        },
+        {
+            "city": "Taktahark\u00e1ny",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.08333",
+            "longitude": "21.13333"
+        },
+        {
+            "city": "Szolnok",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.18333",
+            "longitude": "20.2"
+        },
+        {
+            "city": "Szirmabeseny\u0151",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.15",
+            "longitude": "20.8"
+        },
+        {
+            "city": "Szilv\u00e1sv\u00e1rad",
+            "region": "11",
+            "country": "HU",
+            "latitude": "48.1",
+            "longitude": "20.4"
+        },
+        {
+            "city": "Sziksz\u00f3",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.2",
+            "longitude": "20.93333"
+        },
+        {
+            "city": "Szihalom",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.76667",
+            "longitude": "20.48333"
+        },
+        {
+            "city": "Szerencs",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.16667",
+            "longitude": "21.2"
+        },
+        {
+            "city": "Szentistv\u00e1n",
+            "region": "04",
+            "country": "HU",
+            "latitude": "47.76667",
+            "longitude": "20.66667"
+        },
+        {
+            "city": "Szentes",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.65",
+            "longitude": "20.26667"
+        },
+        {
+            "city": "Szendr\u0151",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.4",
+            "longitude": "20.73333"
+        },
+        {
+            "city": "Sz\u00e9kkutas",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.5",
+            "longitude": "20.53333"
+        },
+        {
+            "city": "Szegv\u00e1r",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.5874",
+            "longitude": "20.22408"
+        },
+        {
+            "city": "Szeghalom",
+            "region": "03",
+            "country": "HU",
+            "latitude": "47.03333",
+            "longitude": "21.16667"
+        },
+        {
+            "city": "Szeged",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.253",
+            "longitude": "20.14824"
+        },
+        {
+            "city": "Szatymaz",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.34306",
+            "longitude": "20.0402"
+        },
+        {
+            "city": "Szarvas",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.86667",
+            "longitude": "20.55"
+        },
+        {
+            "city": "Szamosszeg",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.04561",
+            "longitude": "22.36582"
+        },
+        {
+            "city": "Szakoly",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.76667",
+            "longitude": "21.91667"
+        },
+        {
+            "city": "Szajol",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.18333",
+            "longitude": "20.3"
+        },
+        {
+            "city": "Szabadk\u00edgy\u00f3s",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.61667",
+            "longitude": "21.1"
+        },
+        {
+            "city": "Sirok",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.93333",
+            "longitude": "20.2"
+        },
+        {
+            "city": "S\u00e1toralja\u00fajhely",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.4",
+            "longitude": "21.66667"
+        },
+        {
+            "city": "S\u00e1rr\u00e9tudvari",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.23333",
+            "longitude": "21.2"
+        },
+        {
+            "city": "S\u00e1rospatak",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.31667",
+            "longitude": "21.58333"
+        },
+        {
+            "city": "Sarkad",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.75",
+            "longitude": "21.38333"
+        },
+        {
+            "city": "S\u00e1r\u00e1nd",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.4",
+            "longitude": "21.63333"
+        },
+        {
+            "city": "S\u00e1ndorfalva",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.36087",
+            "longitude": "20.09889"
+        },
+        {
+            "city": "S\u00e1ly",
+            "region": "04",
+            "country": "HU",
+            "latitude": "47.95",
+            "longitude": "20.66667"
+        },
+        {
+            "city": "Saj\u00f3v\u00e1mos",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.18333",
+            "longitude": "20.85"
+        },
+        {
+            "city": "Saj\u00f3sz\u00f6ged",
+            "region": "04",
+            "country": "HU",
+            "latitude": "47.95",
+            "longitude": "21"
+        },
+        {
+            "city": "Saj\u00f3szentp\u00e9ter",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.21667",
+            "longitude": "20.71667"
+        },
+        {
+            "city": "Saj\u00f3\u00f6r\u00f6s",
+            "region": "04",
+            "country": "HU",
+            "latitude": "47.95",
+            "longitude": "21.03333"
+        },
+        {
+            "city": "Saj\u00f3l\u00e1d",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.05",
+            "longitude": "20.9"
+        },
+        {
+            "city": "Saj\u00f3kaza",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.28333",
+            "longitude": "20.58333"
+        },
+        {
+            "city": "Saj\u00f3b\u00e1bony",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.16667",
+            "longitude": "20.73333"
+        },
+        {
+            "city": "Rudab\u00e1nya",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.38333",
+            "longitude": "20.63333"
+        },
+        {
+            "city": "R\u00f6szke",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.18796",
+            "longitude": "20.03372"
+        },
+        {
+            "city": "Ricse",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.32564",
+            "longitude": "21.97069"
+        },
+        {
+            "city": "Recsk",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.93333",
+            "longitude": "20.11667"
+        },
+        {
+            "city": "R\u00e1k\u00f3czi\u00fajfalu",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.06667",
+            "longitude": "20.26667"
+        },
+        {
+            "city": "R\u00e1k\u00f3czifalva",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.08333",
+            "longitude": "20.23333"
+        },
+        {
+            "city": "Rakamaz",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.13333",
+            "longitude": "21.46667"
+        },
+        {
+            "city": "Putnok",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.3",
+            "longitude": "20.43333"
+        },
+        {
+            "city": "Pusztaf\u00f6ldv\u00e1r",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.53333",
+            "longitude": "20.8"
+        },
+        {
+            "city": "P\u00fcsp\u00f6klad\u00e1ny",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.31667",
+            "longitude": "21.11667"
+        },
+        {
+            "city": "Pr\u00fcgy",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.08333",
+            "longitude": "21.25"
+        },
+        {
+            "city": "Poroszl\u00f3",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.65",
+            "longitude": "20.66667"
+        },
+        {
+            "city": "Porcsalma",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.88333",
+            "longitude": "22.56667"
+        },
+        {
+            "city": "Polg\u00e1r",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.86667",
+            "longitude": "21.11667"
+        },
+        {
+            "city": "Pocsaj",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.28333",
+            "longitude": "21.81667"
+        },
+        {
+            "city": "Petneh\u00e1za",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.06084",
+            "longitude": "22.07485"
+        },
+        {
+            "city": "P\u00e9terv\u00e1s\u00e1ra",
+            "region": "11",
+            "country": "HU",
+            "latitude": "48.01667",
+            "longitude": "20.1"
+        },
+        {
+            "city": "P\u00e1troha",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.16667",
+            "longitude": "22"
+        },
+        {
+            "city": "Par\u00e1d",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.92324",
+            "longitude": "20.02972"
+        },
+        {
+            "city": "\u00d3zd",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.21667",
+            "longitude": "20.3"
+        },
+        {
+            "city": "Ostoros",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.86667",
+            "longitude": "20.43333"
+        },
+        {
+            "city": "Orosh\u00e1za",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.56667",
+            "longitude": "20.66667"
+        },
+        {
+            "city": "\u00d3pusztaszer",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.48592",
+            "longitude": "20.08722"
+        },
+        {
+            "city": "\u00d3p\u00e1lyi",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.99771",
+            "longitude": "22.32617"
+        },
+        {
+            "city": "\u00d3nod",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48",
+            "longitude": "20.91667"
+        },
+        {
+            "city": "Onga",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.11667",
+            "longitude": "20.91667"
+        },
+        {
+            "city": "Olaszliszka",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.25",
+            "longitude": "21.43333"
+        },
+        {
+            "city": "\u00d6k\u00f6rit\u00f3f\u00fclp\u00f6s",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.91862",
+            "longitude": "22.5081"
+        },
+        {
+            "city": "Ok\u00e1ny",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.9",
+            "longitude": "21.35"
+        },
+        {
+            "city": "\u00d3feh\u00e9rt\u00f3",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.93333",
+            "longitude": "22.05"
+        },
+        {
+            "city": "\u00d6cs\u00f6d",
+            "region": "20",
+            "country": "HU",
+            "latitude": "46.9",
+            "longitude": "20.4"
+        },
+        {
+            "city": "Ny\u00edrvasv\u00e1ri",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.81667",
+            "longitude": "22.18683"
+        },
+        {
+            "city": "Ny\u00edrtelek",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.01667",
+            "longitude": "21.63333"
+        },
+        {
+            "city": "Ny\u00edrtass",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.11667",
+            "longitude": "22.03333"
+        },
+        {
+            "city": "Ny\u00edrpazony",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.98333",
+            "longitude": "21.8"
+        },
+        {
+            "city": "Ny\u00edrmih\u00e1lydi",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.73976",
+            "longitude": "21.96445"
+        },
+        {
+            "city": "Ny\u00edrmeggyes",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.91667",
+            "longitude": "22.26667"
+        },
+        {
+            "city": "Ny\u00edrm\u00e1rtonfalva",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.58333",
+            "longitude": "21.9"
+        },
+        {
+            "city": "Ny\u00edrmada",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.06667",
+            "longitude": "22.2"
+        },
+        {
+            "city": "Ny\u00edrlugos",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.69315",
+            "longitude": "22.04476"
+        },
+        {
+            "city": "Ny\u00edrkar\u00e1sz",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.10167",
+            "longitude": "22.09794"
+        },
+        {
+            "city": "Ny\u00edrgyulaj",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.88622",
+            "longitude": "22.09781"
+        },
+        {
+            "city": "Ny\u00edregyh\u00e1za",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.95539",
+            "longitude": "21.71671"
+        },
+        {
+            "city": "Ny\u00edrcsaholy",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.90383",
+            "longitude": "22.3363"
+        },
+        {
+            "city": "Ny\u00edrbogd\u00e1ny",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.05723",
+            "longitude": "21.88242"
+        },
+        {
+            "city": "Ny\u00edrbog\u00e1t",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.8034",
+            "longitude": "22.06561"
+        },
+        {
+            "city": "Ny\u00edrb\u00e9ltek",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.7",
+            "longitude": "22.13333"
+        },
+        {
+            "city": "Ny\u00edrb\u00e1tor",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.83333",
+            "longitude": "22.13333"
+        },
+        {
+            "city": "Ny\u00edradony",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.69746",
+            "longitude": "21.91878"
+        },
+        {
+            "city": "Ny\u00edracs\u00e1d",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.6033",
+            "longitude": "21.97208"
+        },
+        {
+            "city": "Ny\u00edr\u00e1br\u00e1ny",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.55311",
+            "longitude": "22.02401"
+        },
+        {
+            "city": "Ny\u00e9kl\u00e1dh\u00e1za",
+            "region": "04",
+            "country": "HU",
+            "latitude": "47.98333",
+            "longitude": "20.83333"
+        },
+        {
+            "city": "Napkor",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.93797",
+            "longitude": "21.86763"
+        },
+        {
+            "city": "Nagysz\u00e9n\u00e1s",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.68333",
+            "longitude": "20.66667"
+        },
+        {
+            "city": "Nagyr\u00e1b\u00e9",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.2",
+            "longitude": "21.33333"
+        },
+        {
+            "city": "Nagyk\u00e1ll\u00f3",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.87491",
+            "longitude": "21.84082"
+        },
+        {
+            "city": "Nagyhal\u00e1sz",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.13333",
+            "longitude": "21.76667"
+        },
+        {
+            "city": "Nagyecsed",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.86547",
+            "longitude": "22.3916"
+        },
+        {
+            "city": "Nagydobos",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.05759",
+            "longitude": "22.30424"
+        },
+        {
+            "city": "Nagycserkesz",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.96667",
+            "longitude": "21.53333"
+        },
+        {
+            "city": "N\u00e1dudvar",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.41667",
+            "longitude": "21.16667"
+        },
+        {
+            "city": "M\u00facsony",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.26667",
+            "longitude": "20.68333"
+        },
+        {
+            "city": "Monostorp\u00e1lyi",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.4",
+            "longitude": "21.78333"
+        },
+        {
+            "city": "Monok",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.21667",
+            "longitude": "21.15"
+        },
+        {
+            "city": "Miskolc",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.1",
+            "longitude": "20.78333"
+        },
+        {
+            "city": "Mindszent",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.52362",
+            "longitude": "20.19038"
+        },
+        {
+            "city": "Mikep\u00e9rcs",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.45",
+            "longitude": "21.63333"
+        },
+        {
+            "city": "Mez\u0151zombor",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.15",
+            "longitude": "21.26667"
+        },
+        {
+            "city": "Mez\u0151t\u00far",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47",
+            "longitude": "20.63333"
+        },
+        {
+            "city": "Mez\u0151k\u00f6vesd",
+            "region": "04",
+            "country": "HU",
+            "latitude": "47.81667",
+            "longitude": "20.58333"
+        },
+        {
+            "city": "Mez\u0151kov\u00e1csh\u00e1za",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.4",
+            "longitude": "20.91667"
+        },
+        {
+            "city": "Mez\u0151keresztes",
+            "region": "04",
+            "country": "HU",
+            "latitude": "47.83333",
+            "longitude": "20.7"
+        },
+        {
+            "city": "Mez\u0151hegyes",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.31667",
+            "longitude": "20.81667"
+        },
+        {
+            "city": "Mez\u0151cs\u00e1t",
+            "region": "04",
+            "country": "HU",
+            "latitude": "47.81667",
+            "longitude": "20.91667"
+        },
+        {
+            "city": "Mez\u0151ber\u00e9ny",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.81667",
+            "longitude": "21.03333"
+        },
+        {
+            "city": "M\u00e9rk",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.78824",
+            "longitude": "22.38038"
+        },
+        {
+            "city": "M\u00e9hker\u00e9k",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.78333",
+            "longitude": "21.45"
+        },
+        {
+            "city": "Megyasz\u00f3",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.18333",
+            "longitude": "21.05"
+        },
+        {
+            "city": "Medgyesegyh\u00e1za",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.5",
+            "longitude": "21.03333"
+        },
+        {
+            "city": "M\u00e1traderecske",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.95",
+            "longitude": "20.08333"
+        },
+        {
+            "city": "M\u00e1t\u00e9szalka",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.95528",
+            "longitude": "22.32348"
+        },
+        {
+            "city": "Maroslele",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.26667",
+            "longitude": "20.35"
+        },
+        {
+            "city": "M\u00e1riap\u00f3cs",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.88302",
+            "longitude": "22.02502"
+        },
+        {
+            "city": "M\u00e1ndok",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.32149",
+            "longitude": "22.19107"
+        },
+        {
+            "city": "M\u00e1lyi",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.01667",
+            "longitude": "20.83333"
+        },
+        {
+            "city": "Mak\u00f3",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.21667",
+            "longitude": "20.48333"
+        },
+        {
+            "city": "Makl\u00e1r",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.8",
+            "longitude": "20.41667"
+        },
+        {
+            "city": "Magyarb\u00e1nhegyes",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.45",
+            "longitude": "20.96667"
+        },
+        {
+            "city": "M\u00e1d",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.2",
+            "longitude": "21.28333"
+        },
+        {
+            "city": "L\u0151k\u00f6sh\u00e1za",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.43333",
+            "longitude": "21.23333"
+        },
+        {
+            "city": "Levelek",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.96282",
+            "longitude": "21.98537"
+        },
+        {
+            "city": "L\u00e9tav\u00e9rtes",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.38333",
+            "longitude": "21.9"
+        },
+        {
+            "city": "Kunszentm\u00e1rton",
+            "region": "20",
+            "country": "HU",
+            "latitude": "46.83916",
+            "longitude": "20.28879"
+        },
+        {
+            "city": "Kunmadaras",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.43333",
+            "longitude": "20.8"
+        },
+        {
+            "city": "Kunhegyes",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.36667",
+            "longitude": "20.63333"
+        },
+        {
+            "city": "Kun\u00e1gota",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.43333",
+            "longitude": "21.05"
+        },
+        {
+            "city": "K\u00f3taj",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.05",
+            "longitude": "21.71667"
+        },
+        {
+            "city": "K\u00f6r\u00f6starcsa",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.88333",
+            "longitude": "21.03333"
+        },
+        {
+            "city": "K\u00f6r\u00f6slad\u00e1ny",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.96667",
+            "longitude": "21.08333"
+        },
+        {
+            "city": "Kony\u00e1r",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.31667",
+            "longitude": "21.66667"
+        },
+        {
+            "city": "Kondoros",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.76667",
+            "longitude": "20.8"
+        },
+        {
+            "city": "Kompolt",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.73333",
+            "longitude": "20.25"
+        },
+        {
+            "city": "Kom\u00e1di",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47",
+            "longitude": "21.5"
+        },
+        {
+            "city": "Kocsord",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.93912",
+            "longitude": "22.38333"
+        },
+        {
+            "city": "Kiszombor",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.18333",
+            "longitude": "20.43333"
+        },
+        {
+            "city": "Kisv\u00e1rda",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.21667",
+            "longitude": "22.08333"
+        },
+        {
+            "city": "Kis\u00fajsz\u00e1ll\u00e1s",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.21667",
+            "longitude": "20.76667"
+        },
+        {
+            "city": "Kisl\u00e9ta",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.84244",
+            "longitude": "22.00393"
+        },
+        {
+            "city": "Kisk\u00f6re",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.5",
+            "longitude": "20.5"
+        },
+        {
+            "city": "Kevermes",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.41667",
+            "longitude": "21.18333"
+        },
+        {
+            "city": "K\u00e9tegyh\u00e1za",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.53333",
+            "longitude": "21.18333"
+        },
+        {
+            "city": "Kerecsend",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.8",
+            "longitude": "20.35"
+        },
+        {
+            "city": "Kengyel",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.08333",
+            "longitude": "20.33333"
+        },
+        {
+            "city": "Kenderes",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.25",
+            "longitude": "20.68333"
+        },
+        {
+            "city": "Kemecse",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.07532",
+            "longitude": "21.80625"
+        },
+        {
+            "city": "K\u00e9k",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.11667",
+            "longitude": "21.88333"
+        },
+        {
+            "city": "Kazincbarcika",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.25",
+            "longitude": "20.63333"
+        },
+        {
+            "city": "Kaszaper",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.46667",
+            "longitude": "20.83333"
+        },
+        {
+            "city": "Karcsa",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.3113",
+            "longitude": "21.80537"
+        },
+        {
+            "city": "Karcag",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.31667",
+            "longitude": "20.93333"
+        },
+        {
+            "city": "Kar\u00e1csond",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.72962",
+            "longitude": "20.03076"
+        },
+        {
+            "city": "K\u00e1ntorj\u00e1nosi",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.93333",
+            "longitude": "22.15"
+        },
+        {
+            "city": "K\u00e1lm\u00e1nh\u00e1za",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.88333",
+            "longitude": "21.58333"
+        },
+        {
+            "city": "K\u00e1ll\u00f3semj\u00e9n",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.86081",
+            "longitude": "21.93928"
+        },
+        {
+            "city": "K\u00e1l",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.73333",
+            "longitude": "20.26667"
+        },
+        {
+            "city": "Kaba",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.35",
+            "longitude": "21.28333"
+        },
+        {
+            "city": "J\u00e1szszentandr\u00e1s",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.58333",
+            "longitude": "20.18333"
+        },
+        {
+            "city": "J\u00e1szlad\u00e1ny",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.36667",
+            "longitude": "20.16667"
+        },
+        {
+            "city": "J\u00e1szkis\u00e9r",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.45",
+            "longitude": "20.21667"
+        },
+        {
+            "city": "J\u00e1szkarajen\u0151",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.05",
+            "longitude": "20.06667"
+        },
+        {
+            "city": "J\u00e1szj\u00e1k\u00f3halma",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.52038",
+            "longitude": "19.99086"
+        },
+        {
+            "city": "J\u00e1szd\u00f3zsa",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.5661",
+            "longitude": "20.01534"
+        },
+        {
+            "city": "J\u00e1szap\u00e1ti",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.51667",
+            "longitude": "20.15"
+        },
+        {
+            "city": "J\u00e1szals\u00f3szentgy\u00f6rgy",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.36667",
+            "longitude": "20.1"
+        },
+        {
+            "city": "J\u00e1rd\u00e1nh\u00e1za",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.15",
+            "longitude": "20.25"
+        },
+        {
+            "city": "J\u00e1noshida",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.38333",
+            "longitude": "20.06667"
+        },
+        {
+            "city": "Izs\u00f3falva",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.3",
+            "longitude": "20.66667"
+        },
+        {
+            "city": "Ibr\u00e1ny",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.13333",
+            "longitude": "21.71667"
+        },
+        {
+            "city": "Hossz\u00fap\u00e1lyi",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.39303",
+            "longitude": "21.7328"
+        },
+        {
+            "city": "Hortob\u00e1gy",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.58278",
+            "longitude": "21.15108"
+        },
+        {
+            "city": "H\u00f3dmez\u0151v\u00e1s\u00e1rhely",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.41667",
+            "longitude": "20.33333"
+        },
+        {
+            "city": "Hod\u00e1sz",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.91834",
+            "longitude": "22.20153"
+        },
+        {
+            "city": "Heves",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.6",
+            "longitude": "20.28333"
+        },
+        {
+            "city": "Hern\u00e1dn\u00e9meti",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.06667",
+            "longitude": "20.98333"
+        },
+        {
+            "city": "Hej\u0151b\u00e1ba",
+            "region": "04",
+            "country": "HU",
+            "latitude": "47.9",
+            "longitude": "20.95"
+        },
+        {
+            "city": "Hegyeshalom",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.5081",
+            "longitude": "20.03293"
+        },
+        {
+            "city": "Hars\u00e1ny",
+            "region": "04",
+            "country": "HU",
+            "latitude": "47.96667",
+            "longitude": "20.75"
+        },
+        {
+            "city": "Halmaj",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.25",
+            "longitude": "21"
+        },
+        {
+            "city": "Hajd\u00faszov\u00e1t",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.38333",
+            "longitude": "21.48333"
+        },
+        {
+            "city": "Hajd\u00faszoboszl\u00f3",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.45",
+            "longitude": "21.4"
+        },
+        {
+            "city": "Hajd\u00fas\u00e1mson",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.6",
+            "longitude": "21.76667"
+        },
+        {
+            "city": "Hajd\u00fan\u00e1n\u00e1s",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.85",
+            "longitude": "21.43333"
+        },
+        {
+            "city": "Hajd\u00fahadh\u00e1z",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.68333",
+            "longitude": "21.66667"
+        },
+        {
+            "city": "Hajd\u00fadorog",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.81667",
+            "longitude": "21.5"
+        },
+        {
+            "city": "Hajd\u00fab\u00f6sz\u00f6rm\u00e9ny",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.66667",
+            "longitude": "21.51667"
+        },
+        {
+            "city": "Hajd\u00fabagos",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.39295",
+            "longitude": "21.66551"
+        },
+        {
+            "city": "Gyulah\u00e1za",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.13333",
+            "longitude": "22.11667"
+        },
+        {
+            "city": "Gyula",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.65",
+            "longitude": "21.28333"
+        },
+        {
+            "city": "Gyomaendr\u0151d",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.93333",
+            "longitude": "20.83333"
+        },
+        {
+            "city": "G\u00f6rbeh\u00e1za",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.83333",
+            "longitude": "21.23333"
+        },
+        {
+            "city": "G\u00f6nc",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.46667",
+            "longitude": "21.28333"
+        },
+        {
+            "city": "Gesztely",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.1",
+            "longitude": "20.96667"
+        },
+        {
+            "city": "G\u00e9g\u00e9ny",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.15",
+            "longitude": "21.95"
+        },
+        {
+            "city": "G\u00e1doros",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.66667",
+            "longitude": "20.6"
+        },
+        {
+            "city": "F\u00fczesgyarmat",
+            "region": "03",
+            "country": "HU",
+            "latitude": "47.1",
+            "longitude": "21.21667"
+        },
+        {
+            "city": "F\u00fczesabony",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.75",
+            "longitude": "20.41667"
+        },
+        {
+            "city": "F\u00f6ldes",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.3",
+            "longitude": "21.36667"
+        },
+        {
+            "city": "F\u00f6lde\u00e1k",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.31667",
+            "longitude": "20.5"
+        },
+        {
+            "city": "F\u00e9nyeslitke",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.27133",
+            "longitude": "22.10009"
+        },
+        {
+            "city": "Fels\u0151zsolca",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.1",
+            "longitude": "20.86667"
+        },
+        {
+            "city": "Fels\u0151t\u00e1rk\u00e1ny",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.96667",
+            "longitude": "20.41667"
+        },
+        {
+            "city": "Feh\u00e9rgyarmat",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.98333",
+            "longitude": "22.51667"
+        },
+        {
+            "city": "Fegyvernek",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.26667",
+            "longitude": "20.53333"
+        },
+        {
+            "city": "Farkaslyuk",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.18333",
+            "longitude": "20.31667"
+        },
+        {
+            "city": "F\u00e1bi\u00e1nsebesty\u00e9n",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.68333",
+            "longitude": "20.46667"
+        },
+        {
+            "city": "Erd\u0151telek",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.68333",
+            "longitude": "20.31667"
+        },
+        {
+            "city": "Encsencs",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.73333",
+            "longitude": "22.11667"
+        },
+        {
+            "city": "Encs",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.33333",
+            "longitude": "21.13333"
+        },
+        {
+            "city": "Em\u0151d",
+            "region": "04",
+            "country": "HU",
+            "latitude": "47.93333",
+            "longitude": "20.81667"
+        },
+        {
+            "city": "Elek",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.53333",
+            "longitude": "21.25"
+        },
+        {
+            "city": "Egyek",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.63333",
+            "longitude": "20.9"
+        },
+        {
+            "city": "Egerszal\u00f3k",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.86667",
+            "longitude": "20.33333"
+        },
+        {
+            "city": "Eger",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.90265",
+            "longitude": "20.37329"
+        },
+        {
+            "city": "Edel\u00e9ny",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.3",
+            "longitude": "20.73333"
+        },
+        {
+            "city": "Ebes",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.46667",
+            "longitude": "21.5"
+        },
+        {
+            "city": "Domoszl\u00f3",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.83333",
+            "longitude": "20.11667"
+        },
+        {
+            "city": "Dombr\u00e1d",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.23333",
+            "longitude": "21.93333"
+        },
+        {
+            "city": "Dombegyh\u00e1z",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.33333",
+            "longitude": "21.13333"
+        },
+        {
+            "city": "Domasz\u00e9k",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.24917",
+            "longitude": "20.01111"
+        },
+        {
+            "city": "D\u00f6ge",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.26246",
+            "longitude": "22.06339"
+        },
+        {
+            "city": "Doboz",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.73333",
+            "longitude": "21.25"
+        },
+        {
+            "city": "D\u00e9vav\u00e1nya",
+            "region": "03",
+            "country": "HU",
+            "latitude": "47.03333",
+            "longitude": "20.96667"
+        },
+        {
+            "city": "Deszk",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.21802",
+            "longitude": "20.24322"
+        },
+        {
+            "city": "Derecske",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.35",
+            "longitude": "21.56667"
+        },
+        {
+            "city": "Demecser",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.11108",
+            "longitude": "21.91749"
+        },
+        {
+            "city": "Debrecen",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.53333",
+            "longitude": "21.63333"
+        },
+        {
+            "city": "Csorv\u00e1s",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.63333",
+            "longitude": "20.83333"
+        },
+        {
+            "city": "Csongr\u00e1d",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.71332",
+            "longitude": "20.14242"
+        },
+        {
+            "city": "Cs\u00f6km\u0151",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.03333",
+            "longitude": "21.3"
+        },
+        {
+            "city": "Cserkesz\u0151l\u0151",
+            "region": "20",
+            "country": "HU",
+            "latitude": "46.8632",
+            "longitude": "20.18701"
+        },
+        {
+            "city": "Csenger",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.83582",
+            "longitude": "22.68096"
+        },
+        {
+            "city": "Csanytelek",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.595",
+            "longitude": "20.12342"
+        },
+        {
+            "city": "Csan\u00e1dpalota",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.25",
+            "longitude": "20.73333"
+        },
+        {
+            "city": "Csan\u00e1dap\u00e1ca",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.55",
+            "longitude": "20.88333"
+        },
+        {
+            "city": "Cig\u00e1nd",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.25561",
+            "longitude": "21.89195"
+        },
+        {
+            "city": "Cibakh\u00e1za",
+            "region": "20",
+            "country": "HU",
+            "latitude": "46.95976",
+            "longitude": "20.19753"
+        },
+        {
+            "city": "Buj",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.1",
+            "longitude": "21.65"
+        },
+        {
+            "city": "Bucsa",
+            "region": "03",
+            "country": "HU",
+            "latitude": "47.2",
+            "longitude": "21"
+        },
+        {
+            "city": "Borsodn\u00e1dasd",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.11667",
+            "longitude": "20.25"
+        },
+        {
+            "city": "Boldva",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.21667",
+            "longitude": "20.8"
+        },
+        {
+            "city": "B\u00f6k\u00f6ny",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.73333",
+            "longitude": "21.75"
+        },
+        {
+            "city": "Bog\u00e1cs",
+            "region": "04",
+            "country": "HU",
+            "latitude": "47.9",
+            "longitude": "20.53333"
+        },
+        {
+            "city": "B\u0151cs",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.05",
+            "longitude": "20.96667"
+        },
+        {
+            "city": "Biharnagybajom",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.21667",
+            "longitude": "21.23333"
+        },
+        {
+            "city": "Biharkeresztes",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.13333",
+            "longitude": "21.71667"
+        },
+        {
+            "city": "Besenysz\u00f6g",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.3",
+            "longitude": "20.26667"
+        },
+        {
+            "city": "Beseny\u0151telek",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.7",
+            "longitude": "20.43333"
+        },
+        {
+            "city": "Beretty\u00f3\u00fajfalu",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.21667",
+            "longitude": "21.55"
+        },
+        {
+            "city": "B\u00e9lap\u00e1tfalva",
+            "region": "11",
+            "country": "HU",
+            "latitude": "48.05",
+            "longitude": "20.36667"
+        },
+        {
+            "city": "B\u00e9k\u00e9sszentandr\u00e1s",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.86667",
+            "longitude": "20.48333"
+        },
+        {
+            "city": "B\u00e9k\u00e9ss\u00e1mson",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.41667",
+            "longitude": "20.63333"
+        },
+        {
+            "city": "B\u00e9k\u00e9scsaba",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.68333",
+            "longitude": "21.1"
+        },
+        {
+            "city": "B\u00e9k\u00e9s",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.76667",
+            "longitude": "21.13333"
+        },
+        {
+            "city": "Bekecs",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.15",
+            "longitude": "21.18333"
+        },
+        {
+            "city": "Battonya",
+            "region": "03",
+            "country": "HU",
+            "latitude": "46.28333",
+            "longitude": "21.01667"
+        },
+        {
+            "city": "B\u00e1r\u00e1nd",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.3",
+            "longitude": "21.23333"
+        },
+        {
+            "city": "Balmaz\u00fajv\u00e1ros",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.61667",
+            "longitude": "21.35"
+        },
+        {
+            "city": "Balk\u00e1ny",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.77066",
+            "longitude": "21.86314"
+        },
+        {
+            "city": "Bal\u00e1stya",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.42277",
+            "longitude": "20.00816"
+        },
+        {
+            "city": "Baktal\u00f3r\u00e1nth\u00e1za",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48",
+            "longitude": "22.08333"
+        },
+        {
+            "city": "Baks",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.54297",
+            "longitude": "20.10213"
+        },
+        {
+            "city": "Bagam\u00e9r",
+            "region": "10",
+            "country": "HU",
+            "latitude": "47.44882",
+            "longitude": "21.989"
+        },
+        {
+            "city": "Aszal\u00f3",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.21667",
+            "longitude": "20.96667"
+        },
+        {
+            "city": "Arn\u00f3t",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.13058",
+            "longitude": "20.85832"
+        },
+        {
+            "city": "Arl\u00f3",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.18333",
+            "longitude": "20.26667"
+        },
+        {
+            "city": "Aranyosap\u00e1ti",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.20595",
+            "longitude": "22.25916"
+        },
+        {
+            "city": "Ap\u00e1tfalva",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.16667",
+            "longitude": "20.58333"
+        },
+        {
+            "city": "Apagy",
+            "region": "18",
+            "country": "HU",
+            "latitude": "47.9643",
+            "longitude": "21.93539"
+        },
+        {
+            "city": "Andornakt\u00e1lya",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.85",
+            "longitude": "20.41667"
+        },
+        {
+            "city": "Anarcs",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.17642",
+            "longitude": "22.11167"
+        },
+        {
+            "city": "Als\u00f3zsolca",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.06982",
+            "longitude": "20.88046"
+        },
+        {
+            "city": "Alatty\u00e1n",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.42705",
+            "longitude": "20.0422"
+        },
+        {
+            "city": "Ajak",
+            "region": "18",
+            "country": "HU",
+            "latitude": "48.17664",
+            "longitude": "22.06273"
+        },
+        {
+            "city": "Abony",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.1899",
+            "longitude": "20.00476"
+        },
+        {
+            "city": "Aba\u00fajsz\u00e1nt\u00f3",
+            "region": "04",
+            "country": "HU",
+            "latitude": "48.28333",
+            "longitude": "21.2"
+        },
+        {
+            "city": "Abas\u00e1r",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.79705",
+            "longitude": "20.00324"
+        },
+        {
+            "city": "Ab\u00e1dszal\u00f3k",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.46667",
+            "longitude": "20.6"
+        },
+        {
+            "city": "Zsomb\u00f3",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.32566",
+            "longitude": "19.97464"
+        },
+        {
+            "city": "Zs\u00e1mbok",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.54381",
+            "longitude": "19.61048"
+        },
+        {
+            "city": "Zs\u00e1mb\u00e9k",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.54814",
+            "longitude": "18.72011"
+        },
+        {
+            "city": "Zomba",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.41084",
+            "longitude": "18.56577"
+        },
+        {
+            "city": "Zirc",
+            "region": "23",
+            "country": "HU",
+            "latitude": "47.26362",
+            "longitude": "17.87373"
+        },
+        {
+            "city": "Z\u00e1nka",
+            "region": "23",
+            "country": "HU",
+            "latitude": "46.88061",
+            "longitude": "17.67426"
+        },
+        {
+            "city": "Z\u00e1moly",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.31667",
+            "longitude": "18.4081"
+        },
+        {
+            "city": "Zam\u00e1rdi",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.88488",
+            "longitude": "17.95366"
+        },
+        {
+            "city": "Zalaszentgr\u00f3t",
+            "region": "24",
+            "country": "HU",
+            "latitude": "46.94474",
+            "longitude": "17.07925"
+        },
+        {
+            "city": "Zalal\u00f6v\u0151",
+            "region": "24",
+            "country": "HU",
+            "latitude": "46.84802",
+            "longitude": "16.5875"
+        },
+        {
+            "city": "Zalakom\u00e1r",
+            "region": "24",
+            "country": "HU",
+            "latitude": "46.53796",
+            "longitude": "17.18094"
+        },
+        {
+            "city": "Zalaegerszeg",
+            "region": "24",
+            "country": "HU",
+            "latitude": "46.84",
+            "longitude": "16.84389"
+        },
+        {
+            "city": "Z\u00e1k\u00e1nysz\u00e9k",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.27453",
+            "longitude": "19.88975"
+        },
+        {
+            "city": "Zagyvasz\u00e1nt\u00f3",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.77703",
+            "longitude": "19.67092"
+        },
+        {
+            "city": "Vonyarcvashegy",
+            "region": "24",
+            "country": "HU",
+            "latitude": "46.75742",
+            "longitude": "17.31172"
+        },
+        {
+            "city": "Visegr\u00e1d",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.78526",
+            "longitude": "18.9709"
+        },
+        {
+            "city": "Vill\u00e1ny",
+            "region": "02",
+            "country": "HU",
+            "latitude": "45.86889",
+            "longitude": "18.45389"
+        },
+        {
+            "city": "Veszpr\u00e9m",
+            "region": "23",
+            "country": "HU",
+            "latitude": "47.09327",
+            "longitude": "17.91149"
+        },
+        {
+            "city": "V\u00e9rtessz\u0151l\u0151s",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.62106",
+            "longitude": "18.3813"
+        },
+        {
+            "city": "Ver\u0151ce",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.82468",
+            "longitude": "19.03484"
+        },
+        {
+            "city": "Veresegyh\u00e1z",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.6459",
+            "longitude": "19.29536"
+        },
+        {
+            "city": "V\u00e9p",
+            "region": "22",
+            "country": "HU",
+            "latitude": "47.23041",
+            "longitude": "16.72248"
+        },
+        {
+            "city": "Velence",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.23855",
+            "longitude": "18.65484"
+        },
+        {
+            "city": "Vecs\u00e9s",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.40705",
+            "longitude": "19.28648"
+        },
+        {
+            "city": "Vasv\u00e1r",
+            "region": "22",
+            "country": "HU",
+            "latitude": "47.04928",
+            "longitude": "16.79954"
+        },
+        {
+            "city": "Vask\u00fat",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.10782",
+            "longitude": "18.98514"
+        },
+        {
+            "city": "V\u00e1rpalota",
+            "region": "23",
+            "country": "HU",
+            "latitude": "47.19936",
+            "longitude": "18.13954"
+        },
+        {
+            "city": "V\u00e1rosf\u00f6ld",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.81674",
+            "longitude": "19.75668"
+        },
+        {
+            "city": "V\u00e1mosgy\u00f6rk",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.68428",
+            "longitude": "19.92924"
+        },
+        {
+            "city": "Valk\u00f3",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.56391",
+            "longitude": "19.51267"
+        },
+        {
+            "city": "V\u00e1l",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.36264",
+            "longitude": "18.67931"
+        },
+        {
+            "city": "Vajszl\u00f3",
+            "region": "02",
+            "country": "HU",
+            "latitude": "45.85958",
+            "longitude": "17.98406"
+        },
+        {
+            "city": "V\u00e1cszentl\u00e1szl\u00f3",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.574",
+            "longitude": "19.53771"
+        },
+        {
+            "city": "V\u00e1c",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.77591",
+            "longitude": "19.13612"
+        },
+        {
+            "city": "\u00dcr\u00f6m",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.59674",
+            "longitude": "19.01583"
+        },
+        {
+            "city": "\u00dark\u00fat",
+            "region": "23",
+            "country": "HU",
+            "latitude": "47.08505",
+            "longitude": "17.64393"
+        },
+        {
+            "city": "\u00dari",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.41429",
+            "longitude": "19.52762"
+        },
+        {
+            "city": "\u00dcll\u0151",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.38771",
+            "longitude": "19.35533"
+        },
+        {
+            "city": "\u00dcll\u00e9s",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.33611",
+            "longitude": "19.84454"
+        },
+        {
+            "city": "\u00dajszilv\u00e1s",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.27477",
+            "longitude": "19.92477"
+        },
+        {
+            "city": "\u00dajharty\u00e1n",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.21981",
+            "longitude": "19.38638"
+        },
+        {
+            "city": "T\u00fcrje",
+            "region": "24",
+            "country": "HU",
+            "latitude": "46.98366",
+            "longitude": "17.10742"
+        },
+        {
+            "city": "Tura",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.60924",
+            "longitude": "19.60279"
+        },
+        {
+            "city": "T\u00f6rtel",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.12209",
+            "longitude": "19.93714"
+        },
+        {
+            "city": "T\u00f6r\u00f6kb\u00e1lint",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.42931",
+            "longitude": "18.91356"
+        },
+        {
+            "city": "Tompa",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.20605",
+            "longitude": "19.5391"
+        },
+        {
+            "city": "T\u00f6lt\u00e9stava",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.62609",
+            "longitude": "17.73376"
+        },
+        {
+            "city": "Tolna",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.42676",
+            "longitude": "18.78248"
+        },
+        {
+            "city": "T\u00f6k\u00f6l",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.32178",
+            "longitude": "18.96249"
+        },
+        {
+            "city": "Tokod",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.72277",
+            "longitude": "18.65889"
+        },
+        {
+            "city": "T\u00f3alm\u00e1s",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.50782",
+            "longitude": "19.66657"
+        },
+        {
+            "city": "Tihany",
+            "region": "23",
+            "country": "HU",
+            "latitude": "46.91369",
+            "longitude": "17.88918"
+        },
+        {
+            "city": "T\u00e9t",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.51922",
+            "longitude": "17.50802"
+        },
+        {
+            "city": "Tengelic",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.52878",
+            "longitude": "18.71117"
+        },
+        {
+            "city": "Telki",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.5479",
+            "longitude": "18.82816"
+        },
+        {
+            "city": "T\u00e1zl\u00e1r",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.54824",
+            "longitude": "19.51436"
+        },
+        {
+            "city": "Tatab\u00e1nya",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.58494",
+            "longitude": "18.39325"
+        },
+        {
+            "city": "Tata",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.65289",
+            "longitude": "18.31838"
+        },
+        {
+            "city": "T\u00e1t",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.74148",
+            "longitude": "18.64813"
+        },
+        {
+            "city": "Tasz\u00e1r",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.37467",
+            "longitude": "17.90594"
+        },
+        {
+            "city": "Tass",
+            "region": "01",
+            "country": "HU",
+            "latitude": "47.02095",
+            "longitude": "19.02988"
+        },
+        {
+            "city": "T\u00e1rnok",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.37327",
+            "longitude": "18.84579"
+        },
+        {
+            "city": "Tarj\u00e1n",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.61042",
+            "longitude": "18.5107"
+        },
+        {
+            "city": "Tardos",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.66192",
+            "longitude": "18.44416"
+        },
+        {
+            "city": "Tar",
+            "region": "14",
+            "country": "HU",
+            "latitude": "47.95371",
+            "longitude": "19.7461"
+        },
+        {
+            "city": "Tapolca",
+            "region": "23",
+            "country": "HU",
+            "latitude": "46.88152",
+            "longitude": "17.44117"
+        },
+        {
+            "city": "T\u00e1pl\u00e1nszentkereszt",
+            "region": "22",
+            "country": "HU",
+            "latitude": "47.19496",
+            "longitude": "16.69613"
+        },
+        {
+            "city": "T\u00e1pi\u00f3sz\u0151l\u0151s",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.30248",
+            "longitude": "19.85133"
+        },
+        {
+            "city": "T\u00e1pi\u00f3szentm\u00e1rton",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.3399",
+            "longitude": "19.74648"
+        },
+        {
+            "city": "T\u00e1pi\u00f3szele",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.33609",
+            "longitude": "19.87724"
+        },
+        {
+            "city": "T\u00e1pi\u00f3szecs\u0151",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.45",
+            "longitude": "19.60923"
+        },
+        {
+            "city": "S\u00fclys\u00e1p",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.45206",
+            "longitude": "19.53369"
+        },
+        {
+            "city": "T\u00e1pi\u00f3s\u00e1g",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.402",
+            "longitude": "19.63047"
+        },
+        {
+            "city": "T\u00e1pi\u00f3gy\u00f6rgye",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.33505",
+            "longitude": "19.95276"
+        },
+        {
+            "city": "T\u00e1pi\u00f3bicske",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.36096",
+            "longitude": "19.68609"
+        },
+        {
+            "city": "Tam\u00e1si",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.63333",
+            "longitude": "18.28333"
+        },
+        {
+            "city": "Taksony",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.32968",
+            "longitude": "19.06694"
+        },
+        {
+            "city": "Tahit\u00f3tfalu",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.75",
+            "longitude": "19.1"
+        },
+        {
+            "city": "T\u00e1borfalva",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.09942",
+            "longitude": "19.47837"
+        },
+        {
+            "city": "Tab",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.73135",
+            "longitude": "18.03201"
+        },
+        {
+            "city": "Szurdokp\u00fcsp\u00f6ki",
+            "region": "14",
+            "country": "HU",
+            "latitude": "47.85923",
+            "longitude": "19.69218"
+        },
+        {
+            "city": "Szom\u00f3d",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.68492",
+            "longitude": "18.34061"
+        },
+        {
+            "city": "Szombathely",
+            "region": "22",
+            "country": "HU",
+            "latitude": "47.23088",
+            "longitude": "16.62155"
+        },
+        {
+            "city": "Sz\u0151dliget",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.73259",
+            "longitude": "19.14749"
+        },
+        {
+            "city": "Sz\u0151d",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.72439",
+            "longitude": "19.17046"
+        },
+        {
+            "city": "Szob",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.81921",
+            "longitude": "18.8702"
+        },
+        {
+            "city": "Szigetv\u00e1r",
+            "region": "02",
+            "country": "HU",
+            "latitude": "46.04865",
+            "longitude": "17.80554"
+        },
+        {
+            "city": "Sziget\u00fajfalu",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.23417",
+            "longitude": "18.92746"
+        },
+        {
+            "city": "Szigetszentmikl\u00f3s",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.34382",
+            "longitude": "19.04335"
+        },
+        {
+            "city": "Szigethalom",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.32228",
+            "longitude": "19.00262"
+        },
+        {
+            "city": "Szigetcs\u00e9p",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.26492",
+            "longitude": "18.97048"
+        },
+        {
+            "city": "Szentm\u00e1rtonk\u00e1ta",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.45419",
+            "longitude": "19.70143"
+        },
+        {
+            "city": "Szentl\u0151rinck\u00e1ta",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.51947",
+            "longitude": "19.75286"
+        },
+        {
+            "city": "Szentl\u0151rinc",
+            "region": "02",
+            "country": "HU",
+            "latitude": "46.04016",
+            "longitude": "17.98719"
+        },
+        {
+            "city": "Szentkir\u00e1lyszabadja",
+            "region": "23",
+            "country": "HU",
+            "latitude": "47.0576",
+            "longitude": "17.97052"
+        },
+        {
+            "city": "Szentkir\u00e1ly",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.91892",
+            "longitude": "19.91846"
+        },
+        {
+            "city": "Szentgotth\u00e1rd",
+            "region": "22",
+            "country": "HU",
+            "latitude": "46.95261",
+            "longitude": "16.27358"
+        },
+        {
+            "city": "Szentg\u00e1lpuszta",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.37479",
+            "longitude": "18.62601"
+        },
+        {
+            "city": "Szentendre",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.66943",
+            "longitude": "19.07561"
+        },
+        {
+            "city": "Szeksz\u00e1rd",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.35014",
+            "longitude": "18.70905"
+        },
+        {
+            "city": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.18995",
+            "longitude": "18.41034"
+        },
+        {
+            "city": "Szedres",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.47551",
+            "longitude": "18.68305"
+        },
+        {
+            "city": "Sz\u00e9cs\u00e9ny",
+            "region": "14",
+            "country": "HU",
+            "latitude": "48.08057",
+            "longitude": "19.52019"
+        },
+        {
+            "city": "Sz\u00e1zhalombatta",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.32579",
+            "longitude": "18.92142"
+        },
+        {
+            "city": "Sz\u00e1szv\u00e1r",
+            "region": "02",
+            "country": "HU",
+            "latitude": "46.27673",
+            "longitude": "18.37566"
+        },
+        {
+            "city": "Sz\u00e1rliget",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.51581",
+            "longitude": "18.4948"
+        },
+        {
+            "city": "Szany",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.46423",
+            "longitude": "17.30402"
+        },
+        {
+            "city": "Szank",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.55713",
+            "longitude": "19.66103"
+        },
+        {
+            "city": "Szalkszentm\u00e1rton",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.97565",
+            "longitude": "19.01178"
+        },
+        {
+            "city": "Szada",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.63333",
+            "longitude": "19.31667"
+        },
+        {
+            "city": "Szabadsz\u00e1ll\u00e1s",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.87575",
+            "longitude": "19.22324"
+        },
+        {
+            "city": "Szabadbatty\u00e1n",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.11902",
+            "longitude": "18.36824"
+        },
+        {
+            "city": "S\u00fctt\u0151",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.7575",
+            "longitude": "18.44889"
+        },
+        {
+            "city": "S\u00fcmeg",
+            "region": "23",
+            "country": "HU",
+            "latitude": "46.97703",
+            "longitude": "17.28209"
+        },
+        {
+            "city": "S\u00fck\u00f6sd",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.28181",
+            "longitude": "18.99524"
+        },
+        {
+            "city": "S\u00f3sk\u00fat",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.40665",
+            "longitude": "18.82247"
+        },
+        {
+            "city": "Sopron",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.68333",
+            "longitude": "16.6"
+        },
+        {
+            "city": "Soponya",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.01485",
+            "longitude": "18.45343"
+        },
+        {
+            "city": "Somosk\u0151\u00fajfalu",
+            "region": "14",
+            "country": "HU",
+            "latitude": "48.16374",
+            "longitude": "19.82303"
+        },
+        {
+            "city": "Somogyv\u00e1r",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.5814",
+            "longitude": "17.66289"
+        },
+        {
+            "city": "Solym\u00e1r",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.59246",
+            "longitude": "18.93212"
+        },
+        {
+            "city": "Soltvadkert",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.57889",
+            "longitude": "19.39389"
+        },
+        {
+            "city": "Solt",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.80067",
+            "longitude": "18.99993"
+        },
+        {
+            "city": "Si\u00f3fok",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.90412",
+            "longitude": "18.058"
+        },
+        {
+            "city": "Simontornya",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.75462",
+            "longitude": "18.5549"
+        },
+        {
+            "city": "Sikl\u00f3s",
+            "region": "02",
+            "country": "HU",
+            "latitude": "45.85499",
+            "longitude": "18.29752"
+        },
+        {
+            "city": "Sereg\u00e9lyes",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.1105",
+            "longitude": "18.565"
+        },
+        {
+            "city": "Sellye",
+            "region": "02",
+            "country": "HU",
+            "latitude": "45.87247",
+            "longitude": "17.84711"
+        },
+        {
+            "city": "Segesd",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.34142",
+            "longitude": "17.35132"
+        },
+        {
+            "city": "S\u00e1sd",
+            "region": "02",
+            "country": "HU",
+            "latitude": "46.2552",
+            "longitude": "18.10776"
+        },
+        {
+            "city": "S\u00e1rv\u00e1r",
+            "region": "22",
+            "country": "HU",
+            "latitude": "47.25395",
+            "longitude": "16.93525"
+        },
+        {
+            "city": "S\u00e1rszentmih\u00e1ly",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.15321",
+            "longitude": "18.33879"
+        },
+        {
+            "city": "S\u00e1rosd",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.04273",
+            "longitude": "18.64357"
+        },
+        {
+            "city": "S\u00e1rmell\u00e9k",
+            "region": "24",
+            "country": "HU",
+            "latitude": "46.71221",
+            "longitude": "17.16865"
+        },
+        {
+            "city": "S\u00e1rkereszt\u00far",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.0054",
+            "longitude": "18.54391"
+        },
+        {
+            "city": "S\u00e1ris\u00e1p",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.677",
+            "longitude": "18.67933"
+        },
+        {
+            "city": "S\u00e1rbog\u00e1rd",
+            "region": "08",
+            "country": "HU",
+            "latitude": "46.88692",
+            "longitude": "18.62041"
+        },
+        {
+            "city": "Salg\u00f3tarj\u00e1n",
+            "region": "14",
+            "country": "HU",
+            "latitude": "48.09872",
+            "longitude": "19.80303"
+        },
+        {
+            "city": "Ruzsa",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.28806",
+            "longitude": "19.74714"
+        },
+        {
+            "city": "R\u00f3zsaszentm\u00e1rton",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.782",
+            "longitude": "19.7421"
+        },
+        {
+            "city": "Romh\u00e1ny",
+            "region": "14",
+            "country": "HU",
+            "latitude": "47.92618",
+            "longitude": "19.25723"
+        },
+        {
+            "city": "Rim\u00f3c",
+            "region": "14",
+            "country": "HU",
+            "latitude": "48.03695",
+            "longitude": "19.5301"
+        },
+        {
+            "city": "R\u00e9vf\u00fcl\u00f6p",
+            "region": "23",
+            "country": "HU",
+            "latitude": "46.82573",
+            "longitude": "17.61967"
+        },
+        {
+            "city": "R\u00e9ts\u00e1g",
+            "region": "14",
+            "country": "HU",
+            "latitude": "47.92816",
+            "longitude": "19.1372"
+        },
+        {
+            "city": "R\u00e9pcelak",
+            "region": "22",
+            "country": "HU",
+            "latitude": "47.42105",
+            "longitude": "17.01795"
+        },
+        {
+            "city": "Rajka",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.99643",
+            "longitude": "17.19821"
+        },
+        {
+            "city": "R\u00e1ckeve",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.16095",
+            "longitude": "18.94478"
+        },
+        {
+            "city": "R\u00e1ckereszt\u00far",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.2736",
+            "longitude": "18.83343"
+        },
+        {
+            "city": "R\u00e1calm\u00e1s",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.02263",
+            "longitude": "18.94056"
+        },
+        {
+            "city": "R\u00e1bapatona",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.63224",
+            "longitude": "17.48004"
+        },
+        {
+            "city": "Pusztav\u00e1m",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.42948",
+            "longitude": "18.22648"
+        },
+        {
+            "city": "Pusztaszer",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.55083",
+            "longitude": "19.98824"
+        },
+        {
+            "city": "Pusztaszabolcs",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.13718",
+            "longitude": "18.76704"
+        },
+        {
+            "city": "Pom\u00e1z",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.64227",
+            "longitude": "19.02784"
+        },
+        {
+            "city": "Polg\u00e1rdi",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.06099",
+            "longitude": "18.302"
+        },
+        {
+            "city": "Pincehely",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.68095",
+            "longitude": "18.43935"
+        },
+        {
+            "city": "Pilisv\u00f6r\u00f6sv\u00e1r",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.61386",
+            "longitude": "18.90893"
+        },
+        {
+            "city": "Pilisszentkereszt",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.69143",
+            "longitude": "18.90503"
+        },
+        {
+            "city": "Pilisszentiv\u00e1n",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.60964",
+            "longitude": "18.8994"
+        },
+        {
+            "city": "Pilissz\u00e1nt\u00f3",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.66909",
+            "longitude": "18.88762"
+        },
+        {
+            "city": "Pilismar\u00f3t",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.78464",
+            "longitude": "18.87539"
+        },
+        {
+            "city": "Piliscs\u00e9v",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.67924",
+            "longitude": "18.81872"
+        },
+        {
+            "city": "Piliscsaba",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.63417",
+            "longitude": "18.82886"
+        },
+        {
+            "city": "Pilisborosjen\u0151",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.60744",
+            "longitude": "18.99322"
+        },
+        {
+            "city": "Pilis",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.28904",
+            "longitude": "19.54848"
+        },
+        {
+            "city": "Pet\u0151fib\u00e1nya",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.77942",
+            "longitude": "19.7055"
+        },
+        {
+            "city": "P\u00e9tf\u00fcrd\u0151",
+            "region": "23",
+            "country": "HU",
+            "latitude": "47.16667",
+            "longitude": "18.11667"
+        },
+        {
+            "city": "P\u00e9teri",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.39104",
+            "longitude": "19.40981"
+        },
+        {
+            "city": "Perk\u00e1ta",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.04701",
+            "longitude": "18.78734"
+        },
+        {
+            "city": "Perb\u00e1l",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.58957",
+            "longitude": "18.76099"
+        },
+        {
+            "city": "P\u00e9r",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.61153",
+            "longitude": "17.80632"
+        },
+        {
+            "city": "Pell\u00e9rd",
+            "region": "02",
+            "country": "HU",
+            "latitude": "46.03438",
+            "longitude": "18.15403"
+        },
+        {
+            "city": "P\u00e9csv\u00e1rad",
+            "region": "02",
+            "country": "HU",
+            "latitude": "46.16033",
+            "longitude": "18.42321"
+        },
+        {
+            "city": "P\u00e9cs",
+            "region": "02",
+            "country": "HU",
+            "latitude": "46.08333",
+            "longitude": "18.23333"
+        },
+        {
+            "city": "P\u00e9cel",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.48962",
+            "longitude": "19.34162"
+        },
+        {
+            "city": "P\u00e1zm\u00e1nd",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.28755",
+            "longitude": "18.65356"
+        },
+        {
+            "city": "P\u00e1ty",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.51709",
+            "longitude": "18.82851"
+        },
+        {
+            "city": "P\u00e1szt\u00f3",
+            "region": "14",
+            "country": "HU",
+            "latitude": "47.92019",
+            "longitude": "19.69829"
+        },
+        {
+            "city": "Par\u00e1dsasv\u00e1r",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.9126",
+            "longitude": "19.97709"
+        },
+        {
+            "city": "P\u00e1pa",
+            "region": "23",
+            "country": "HU",
+            "latitude": "47.33004",
+            "longitude": "17.4674"
+        },
+        {
+            "city": "Pannonhalma",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.54946",
+            "longitude": "17.75535"
+        },
+        {
+            "city": "P\u00e1nd",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.35333",
+            "longitude": "19.63571"
+        },
+        {
+            "city": "Palot\u00e1s",
+            "region": "14",
+            "country": "HU",
+            "latitude": "47.79528",
+            "longitude": "19.59618"
+        },
+        {
+            "city": "P\u00e1lmonostora",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.62417",
+            "longitude": "19.95156"
+        },
+        {
+            "city": "Paks",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.62648",
+            "longitude": "18.85962"
+        },
+        {
+            "city": "P\u00e1kozd",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.21369",
+            "longitude": "18.53306"
+        },
+        {
+            "city": "Pacsa",
+            "region": "24",
+            "country": "HU",
+            "latitude": "46.71981",
+            "longitude": "17.01401"
+        },
+        {
+            "city": "Ozora",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.75133",
+            "longitude": "18.4001"
+        },
+        {
+            "city": "\u00d6ttev\u00e9ny",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.71946",
+            "longitude": "17.48474"
+        },
+        {
+            "city": "\u0150si",
+            "region": "23",
+            "country": "HU",
+            "latitude": "47.14722",
+            "longitude": "18.18833"
+        },
+        {
+            "city": "Oroszl\u00e1ny",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.48671",
+            "longitude": "18.31225"
+        },
+        {
+            "city": "\u00d6rk\u00e9ny",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.12991",
+            "longitude": "19.43324"
+        },
+        {
+            "city": "Orgov\u00e1ny",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.75087",
+            "longitude": "19.47259"
+        },
+        {
+            "city": "\u0150rbotty\u00e1n",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.68711",
+            "longitude": "19.28239"
+        },
+        {
+            "city": "\u0150cs\u00e9ny",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.3137",
+            "longitude": "18.75749"
+        },
+        {
+            "city": "\u00d3csa",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.29986",
+            "longitude": "19.23057"
+        },
+        {
+            "city": "Ny\u00fal",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.59047",
+            "longitude": "17.68904"
+        },
+        {
+            "city": "Nyerges\u00fajfalu",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.76027",
+            "longitude": "18.55694"
+        },
+        {
+            "city": "Ny\u00e1rl\u0151rinc",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.86017",
+            "longitude": "19.87836"
+        },
+        {
+            "city": "Ny\u00e1regyh\u00e1za",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.26175",
+            "longitude": "19.50146"
+        },
+        {
+            "city": "Neszm\u00e9ly",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.73585",
+            "longitude": "18.35966"
+        },
+        {
+            "city": "N\u00e9metk\u00e9r",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.71637",
+            "longitude": "18.76311"
+        },
+        {
+            "city": "Nemesv\u00e1mos",
+            "region": "23",
+            "country": "HU",
+            "latitude": "47.05514",
+            "longitude": "17.87477"
+        },
+        {
+            "city": "Nemesn\u00e1dudvar",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.3405",
+            "longitude": "19.05115"
+        },
+        {
+            "city": "Nasz\u00e1ly",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.70329",
+            "longitude": "18.25751"
+        },
+        {
+            "city": "duna\u00fajv\u00e1ros",
+            "region": "08",
+            "country": "HU",
+            "latitude": "46.96737",
+            "longitude": "18.93288"
+        },
+        {
+            "city": "Nagytarcsa",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.53128",
+            "longitude": "19.28343"
+        },
+        {
+            "city": "Nagyr\u00e9de",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.76543",
+            "longitude": "19.84819"
+        },
+        {
+            "city": "Nagyoroszi",
+            "region": "14",
+            "country": "HU",
+            "latitude": "48.00503",
+            "longitude": "19.0905"
+        },
+        {
+            "city": "Nagymaros",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.7928",
+            "longitude": "18.95984"
+        },
+        {
+            "city": "Nagym\u00e1nyok",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.27911",
+            "longitude": "18.45489"
+        },
+        {
+            "city": "Nagykov\u00e1csi",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.65",
+            "longitude": "19.01667"
+        },
+        {
+            "city": "Nagyk\u0151r\u00f6s",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.03419",
+            "longitude": "19.77857"
+        },
+        {
+            "city": "Nagyk\u00e1ta",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.41514",
+            "longitude": "19.7441"
+        },
+        {
+            "city": "Nagykanizsa",
+            "region": "24",
+            "country": "HU",
+            "latitude": "46.45347",
+            "longitude": "16.99104"
+        },
+        {
+            "city": "Nagyigm\u00e1nd",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.64094",
+            "longitude": "18.0813"
+        },
+        {
+            "city": "Nagydorog",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.62749",
+            "longitude": "18.65565"
+        },
+        {
+            "city": "Nagycenk",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.60435",
+            "longitude": "16.69732"
+        },
+        {
+            "city": "Nagybaracska",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.04248",
+            "longitude": "18.9059"
+        },
+        {
+            "city": "Nagybajom",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.39232",
+            "longitude": "17.51147"
+        },
+        {
+            "city": "Nagyat\u00e1d",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.22961",
+            "longitude": "17.35788"
+        },
+        {
+            "city": "Murakereszt\u00far",
+            "region": "24",
+            "country": "HU",
+            "latitude": "46.36422",
+            "longitude": "16.88177"
+        },
+        {
+            "city": "Mosonmagyar\u00f3v\u00e1r",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.86788",
+            "longitude": "17.26994"
+        },
+        {
+            "city": "M\u00f3rahalom",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.21806",
+            "longitude": "19.8851"
+        },
+        {
+            "city": "M\u00f3r",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.37787",
+            "longitude": "18.20353"
+        },
+        {
+            "city": "Monor",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.35133",
+            "longitude": "19.44734"
+        },
+        {
+            "city": "Moh\u00e1cs",
+            "region": "02",
+            "country": "HU",
+            "latitude": "45.99306",
+            "longitude": "18.68306"
+        },
+        {
+            "city": "Mogyor\u00f3d",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.59748",
+            "longitude": "19.2407"
+        },
+        {
+            "city": "Mocsa",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.66999",
+            "longitude": "18.18505"
+        },
+        {
+            "city": "Mih\u00e1lyi",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.51384",
+            "longitude": "17.09507"
+        },
+        {
+            "city": "Mez\u0151szilas",
+            "region": "08",
+            "country": "HU",
+            "latitude": "46.81109",
+            "longitude": "18.47789"
+        },
+        {
+            "city": "Mez\u0151falva",
+            "region": "08",
+            "country": "HU",
+            "latitude": "46.93184",
+            "longitude": "18.77177"
+        },
+        {
+            "city": "Mende",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.43132",
+            "longitude": "19.45628"
+        },
+        {
+            "city": "M\u00e9lyk\u00fat",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.21509",
+            "longitude": "19.38102"
+        },
+        {
+            "city": "Mecsekn\u00e1dasd",
+            "region": "02",
+            "country": "HU",
+            "latitude": "46.22468",
+            "longitude": "18.47076"
+        },
+        {
+            "city": "M\u00e1travereb\u00e9ly",
+            "region": "14",
+            "country": "HU",
+            "latitude": "47.97421",
+            "longitude": "19.78049"
+        },
+        {
+            "city": "M\u00e1traterenye",
+            "region": "14",
+            "country": "HU",
+            "latitude": "48.03267",
+            "longitude": "19.94762"
+        },
+        {
+            "city": "M\u00e1tranov\u00e1k",
+            "region": "14",
+            "country": "HU",
+            "latitude": "48.03809",
+            "longitude": "19.98257"
+        },
+        {
+            "city": "Martonv\u00e1s\u00e1r",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.31601",
+            "longitude": "18.79045"
+        },
+        {
+            "city": "Marcali",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.58498",
+            "longitude": "17.41196"
+        },
+        {
+            "city": "M\u00e1ny",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.53352",
+            "longitude": "18.65627"
+        },
+        {
+            "city": "M\u00e1gocs",
+            "region": "02",
+            "country": "HU",
+            "latitude": "46.34998",
+            "longitude": "18.2324"
+        },
+        {
+            "city": "Magl\u00f3d",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.44258",
+            "longitude": "19.36438"
+        },
+        {
+            "city": "Madocsa",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.6879",
+            "longitude": "18.95791"
+        },
+        {
+            "city": "Madaras",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.0587",
+            "longitude": "19.26121"
+        },
+        {
+            "city": "Lovasber\u00e9ny",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.30997",
+            "longitude": "18.55177"
+        },
+        {
+            "city": "L\u0151rinci",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.73295",
+            "longitude": "19.67867"
+        },
+        {
+            "city": "Lit\u00e9r",
+            "region": "23",
+            "country": "HU",
+            "latitude": "47.10104",
+            "longitude": "18.00454"
+        },
+        {
+            "city": "Letenye",
+            "region": "24",
+            "country": "HU",
+            "latitude": "46.43301",
+            "longitude": "16.72583"
+        },
+        {
+            "city": "Leps\u00e9ny",
+            "region": "08",
+            "country": "HU",
+            "latitude": "46.99036",
+            "longitude": "18.24358"
+        },
+        {
+            "city": "Lenti",
+            "region": "24",
+            "country": "HU",
+            "latitude": "46.62403",
+            "longitude": "16.53863"
+        },
+        {
+            "city": "Lengyelt\u00f3ti",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.67013",
+            "longitude": "17.64398"
+        },
+        {
+            "city": "L\u00e9b\u00e9ny",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.73574",
+            "longitude": "17.39076"
+        },
+        {
+            "city": "Le\u00e1nyfalu",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.71778",
+            "longitude": "19.08585"
+        },
+        {
+            "city": "L\u00e1nycs\u00f3k",
+            "region": "02",
+            "country": "HU",
+            "latitude": "46.00543",
+            "longitude": "18.62526"
+        },
+        {
+            "city": "Lakitelek",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.87601",
+            "longitude": "19.99504"
+        },
+        {
+            "city": "Lajosmizse",
+            "region": "01",
+            "country": "HU",
+            "latitude": "47.02133",
+            "longitude": "19.56171"
+        },
+        {
+            "city": "Lajoskom\u00e1rom",
+            "region": "08",
+            "country": "HU",
+            "latitude": "46.842",
+            "longitude": "18.33763"
+        },
+        {
+            "city": "L\u00e1bod",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.20535",
+            "longitude": "17.45419"
+        },
+        {
+            "city": "L\u00e1batlan",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.74735",
+            "longitude": "18.49623"
+        },
+        {
+            "city": "Kunszentmikl\u00f3s",
+            "region": "01",
+            "country": "HU",
+            "latitude": "47.027",
+            "longitude": "19.12575"
+        },
+        {
+            "city": "Kunfeh\u00e9rt\u00f3",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.36091",
+            "longitude": "19.41454"
+        },
+        {
+            "city": "Koz\u00e1rmisleny",
+            "region": "02",
+            "country": "HU",
+            "latitude": "46.02967",
+            "longitude": "18.2921"
+        },
+        {
+            "city": "K\u0151szeg",
+            "region": "22",
+            "country": "HU",
+            "latitude": "47.38922",
+            "longitude": "16.541"
+        },
+        {
+            "city": "Kosd",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.80791",
+            "longitude": "19.17821"
+        },
+        {
+            "city": "K\u00f6rnye",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.54668",
+            "longitude": "18.3208"
+        },
+        {
+            "city": "K\u00f6rmend",
+            "region": "22",
+            "country": "HU",
+            "latitude": "47.01096",
+            "longitude": "16.60596"
+        },
+        {
+            "city": "K\u00f3ny",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.63053",
+            "longitude": "17.35717"
+        },
+        {
+            "city": "Koml\u00f3",
+            "region": "02",
+            "country": "HU",
+            "latitude": "46.19278",
+            "longitude": "18.26494"
+        },
+        {
+            "city": "Kom\u00e1rom",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.74318",
+            "longitude": "18.11913"
+        },
+        {
+            "city": "K\u00f3ka",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.48552",
+            "longitude": "19.57876"
+        },
+        {
+            "city": "Kocs\u00e9r",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.00165",
+            "longitude": "19.92067"
+        },
+        {
+            "city": "Kocs",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.6075",
+            "longitude": "18.21517"
+        },
+        {
+            "city": "Kistelek",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.4725",
+            "longitude": "19.97972"
+        },
+        {
+            "city": "Kissz\u00e1ll\u00e1s",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.28009",
+            "longitude": "19.48954"
+        },
+        {
+            "city": "Kisl\u00e1ng",
+            "region": "08",
+            "country": "HU",
+            "latitude": "46.95744",
+            "longitude": "18.38813"
+        },
+        {
+            "city": "Kiskunmajsa",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.49028",
+            "longitude": "19.74"
+        },
+        {
+            "city": "Kiskunlach\u00e1za",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.18839",
+            "longitude": "19.0093"
+        },
+        {
+            "city": "Kiskunhalas",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.43402",
+            "longitude": "19.4848"
+        },
+        {
+            "city": "Kiskunf\u00e9legyh\u00e1za",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.71213",
+            "longitude": "19.84458"
+        },
+        {
+            "city": "Kisk\u0151r\u00f6s",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.62139",
+            "longitude": "19.28528"
+        },
+        {
+            "city": "Kisb\u00e9r",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.50289",
+            "longitude": "18.03665"
+        },
+        {
+            "city": "Kincsesb\u00e1nya",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.26444",
+            "longitude": "18.2779"
+        },
+        {
+            "city": "Kimle",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.81726",
+            "longitude": "17.36642"
+        },
+        {
+            "city": "K\u00e9thely",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.64605",
+            "longitude": "17.39362"
+        },
+        {
+            "city": "Keszt\u00f6lc",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.71266",
+            "longitude": "18.80177"
+        },
+        {
+            "city": "Keszthely",
+            "region": "24",
+            "country": "HU",
+            "latitude": "46.76812",
+            "longitude": "17.24317"
+        },
+        {
+            "city": "Kistarcsa",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.54757",
+            "longitude": "19.26247"
+        },
+        {
+            "city": "Kerekegyh\u00e1za",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.93722",
+            "longitude": "19.47806"
+        },
+        {
+            "city": "Kelebia",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.1968",
+            "longitude": "19.61659"
+        },
+        {
+            "city": "Kecskem\u00e9t",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.90618",
+            "longitude": "19.69128"
+        },
+        {
+            "city": "Kecsk\u00e9d",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.52298",
+            "longitude": "18.30939"
+        },
+        {
+            "city": "Kecel",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.52528",
+            "longitude": "19.25194"
+        },
+        {
+            "city": "Kaz\u00e1r",
+            "region": "14",
+            "country": "HU",
+            "latitude": "48.04952",
+            "longitude": "19.86143"
+        },
+        {
+            "city": "Katym\u00e1r",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.03398",
+            "longitude": "19.20935"
+        },
+        {
+            "city": "Kartal",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.67133",
+            "longitude": "19.542"
+        },
+        {
+            "city": "Karancslapujt\u0151",
+            "region": "14",
+            "country": "HU",
+            "latitude": "48.15",
+            "longitude": "19.73333"
+        },
+        {
+            "city": "Karancskeszi",
+            "region": "14",
+            "country": "HU",
+            "latitude": "48.16353",
+            "longitude": "19.69686"
+        },
+        {
+            "city": "Kar\u00e1d",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.69076",
+            "longitude": "17.84136"
+        },
+        {
+            "city": "Kapuv\u00e1r",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.59224",
+            "longitude": "17.02886"
+        },
+        {
+            "city": "Kaposv\u00e1r",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.36667",
+            "longitude": "17.8"
+        },
+        {
+            "city": "Kaposm\u00e9r\u0151",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.36167",
+            "longitude": "17.704"
+        },
+        {
+            "city": "K\u00e1poln\u00e1sny\u00e9k",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.24004",
+            "longitude": "18.67564"
+        },
+        {
+            "city": "K\u00e1loz",
+            "region": "08",
+            "country": "HU",
+            "latitude": "46.95464",
+            "longitude": "18.48259"
+        },
+        {
+            "city": "Kalocsa",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.52639",
+            "longitude": "18.98583"
+        },
+        {
+            "city": "Kakucs",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.242",
+            "longitude": "19.36467"
+        },
+        {
+            "city": "Kadark\u00fat",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.23623",
+            "longitude": "17.62014"
+        },
+        {
+            "city": "Jobb\u00e1gyi",
+            "region": "14",
+            "country": "HU",
+            "latitude": "47.83238",
+            "longitude": "19.67762"
+        },
+        {
+            "city": "J\u00e1szszentl\u00e1szl\u00f3",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.56685",
+            "longitude": "19.76065"
+        },
+        {
+            "city": "J\u00e1szber\u00e9ny",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.5",
+            "longitude": "19.91667"
+        },
+        {
+            "city": "J\u00e1sz\u00e1roksz\u00e1ll\u00e1s",
+            "region": "20",
+            "country": "HU",
+            "latitude": "47.64238",
+            "longitude": "19.98038"
+        },
+        {
+            "city": "J\u00e1nossomorja",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.78621",
+            "longitude": "17.13603"
+        },
+        {
+            "city": "J\u00e1nosh\u00e1za",
+            "region": "22",
+            "country": "HU",
+            "latitude": "47.11937",
+            "longitude": "17.16503"
+        },
+        {
+            "city": "J\u00e1noshalma",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.29861",
+            "longitude": "19.32583"
+        },
+        {
+            "city": "F\u00fcl\u00f6pjakab",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.74221",
+            "longitude": "19.72132"
+        },
+        {
+            "city": "J\u00e1k",
+            "region": "22",
+            "country": "HU",
+            "latitude": "47.1425",
+            "longitude": "16.58148"
+        },
+        {
+            "city": "Izs\u00e1k",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.80454",
+            "longitude": "19.35172"
+        },
+        {
+            "city": "Iv\u00e1ncsa",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.1567",
+            "longitude": "18.8203"
+        },
+        {
+            "city": "Isaszeg",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.53011",
+            "longitude": "19.40205"
+        },
+        {
+            "city": "Iregszemcse",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.69286",
+            "longitude": "18.18581"
+        },
+        {
+            "city": "In\u00e1rcs",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.262",
+            "longitude": "19.327"
+        },
+        {
+            "city": "Iklad",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.66534",
+            "longitude": "19.4361"
+        },
+        {
+            "city": "Hossz\u00fahet\u00e9ny",
+            "region": "02",
+            "country": "HU",
+            "latitude": "46.16414",
+            "longitude": "18.35077"
+        },
+        {
+            "city": "Hort",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.69081",
+            "longitude": "19.7893"
+        },
+        {
+            "city": "H\u0151gy\u00e9sz",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.49697",
+            "longitude": "18.41841"
+        },
+        {
+            "city": "Hidas",
+            "region": "02",
+            "country": "HU",
+            "latitude": "46.2568",
+            "longitude": "18.4954"
+        },
+        {
+            "city": "H\u00e9v\u00edzgy\u00f6rk",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.63333",
+            "longitude": "19.51667"
+        },
+        {
+            "city": "H\u00e9v\u00edz",
+            "region": "24",
+            "country": "HU",
+            "latitude": "46.79031",
+            "longitude": "17.18408"
+        },
+        {
+            "city": "Hern\u00e1d",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.16238",
+            "longitude": "19.43295"
+        },
+        {
+            "city": "Herend",
+            "region": "23",
+            "country": "HU",
+            "latitude": "47.13333",
+            "longitude": "17.75"
+        },
+        {
+            "city": "Her\u00e9d",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.70638",
+            "longitude": "19.63314"
+        },
+        {
+            "city": "Hercegsz\u00e1nt\u00f3",
+            "region": "01",
+            "country": "HU",
+            "latitude": "45.95",
+            "longitude": "18.93917"
+        },
+        {
+            "city": "Helv\u00e9cia",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.83661",
+            "longitude": "19.62251"
+        },
+        {
+            "city": "Hatvan",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.66667",
+            "longitude": "19.68333"
+        },
+        {
+            "city": "Harta",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.69846",
+            "longitude": "19.03053"
+        },
+        {
+            "city": "Hark\u00e1ny",
+            "region": "02",
+            "country": "HU",
+            "latitude": "45.85002",
+            "longitude": "18.23668"
+        },
+        {
+            "city": "Hal\u00e1sztelek",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.36173",
+            "longitude": "18.98119"
+        },
+        {
+            "city": "Hal\u00e1szi",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.8893",
+            "longitude": "17.32615"
+        },
+        {
+            "city": "Haj\u00f3s",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.39861",
+            "longitude": "19.12056"
+        },
+        {
+            "city": "Hajm\u00e1sk\u00e9r",
+            "region": "23",
+            "country": "HU",
+            "latitude": "47.14513",
+            "longitude": "18.01964"
+        },
+        {
+            "city": "Gy\u0151r\u00fajbar\u00e1t",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.60642",
+            "longitude": "17.64875"
+        },
+        {
+            "city": "Gy\u0151rszemere",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.55256",
+            "longitude": "17.56356"
+        },
+        {
+            "city": "Gy\u0151r",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.68333",
+            "longitude": "17.63512"
+        },
+        {
+            "city": "Gy\u00f6nk",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.55603",
+            "longitude": "18.47694"
+        },
+        {
+            "city": "Gy\u00f6ngy\u00f6starj\u00e1n",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.81369",
+            "longitude": "19.86724"
+        },
+        {
+            "city": "Gy\u00f6ngy\u00f6ssolymos",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.81724",
+            "longitude": "19.93619"
+        },
+        {
+            "city": "Gy\u00f6ngy\u00f6spata",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.81505",
+            "longitude": "19.78924"
+        },
+        {
+            "city": "Gy\u00f6ngy\u00f6shal\u00e1sz",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.74161",
+            "longitude": "19.92876"
+        },
+        {
+            "city": "Gy\u00f6ngy\u00f6s",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.78257",
+            "longitude": "19.928"
+        },
+        {
+            "city": "Gy\u00f6mr\u0151",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.42733",
+            "longitude": "19.40133"
+        },
+        {
+            "city": "Gyenesdi\u00e1s",
+            "region": "24",
+            "country": "HU",
+            "latitude": "46.77058",
+            "longitude": "17.2866"
+        },
+        {
+            "city": "Gy\u00e1l",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.38449",
+            "longitude": "19.2214"
+        },
+        {
+            "city": "Gomba",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.37095",
+            "longitude": "19.53057"
+        },
+        {
+            "city": "G\u00f6d\u00f6ll\u0151",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.59657",
+            "longitude": "19.35515"
+        },
+        {
+            "city": "G\u00f6d",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.68324",
+            "longitude": "19.13417"
+        },
+        {
+            "city": "Gencsap\u00e1ti",
+            "region": "22",
+            "country": "HU",
+            "latitude": "47.28496",
+            "longitude": "16.59575"
+        },
+        {
+            "city": "G\u00e1rdony",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.20942",
+            "longitude": "18.63607"
+        },
+        {
+            "city": "Gara",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.03194",
+            "longitude": "19.04278"
+        },
+        {
+            "city": "Galgam\u00e1csa",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.69562",
+            "longitude": "19.38724"
+        },
+        {
+            "city": "Galgah\u00e9v\u00edz",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.61667",
+            "longitude": "19.56667"
+        },
+        {
+            "city": "F\u00fcl\u00f6psz\u00e1ll\u00e1s",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.82075",
+            "longitude": "19.23748"
+        },
+        {
+            "city": "F\u00f3t",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.6177",
+            "longitude": "19.1887"
+        },
+        {
+            "city": "Forr\u00f3puszta",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.45504",
+            "longitude": "19.66"
+        },
+        {
+            "city": "Forr\u00e1sk\u00fat",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.36528",
+            "longitude": "19.90973"
+        },
+        {
+            "city": "Fony\u00f3d",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.75552",
+            "longitude": "17.57945"
+        },
+        {
+            "city": "Fert\u0151szentmikl\u00f3s",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.58348",
+            "longitude": "16.87968"
+        },
+        {
+            "city": "Fert\u0151r\u00e1kos",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.71411",
+            "longitude": "16.65521"
+        },
+        {
+            "city": "Fert\u0151d",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.61947",
+            "longitude": "16.88676"
+        },
+        {
+            "city": "Fels\u0151szentiv\u00e1n",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.19713",
+            "longitude": "19.18686"
+        },
+        {
+            "city": "Fels\u0151pakony",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.34328",
+            "longitude": "19.23698"
+        },
+        {
+            "city": "Feh\u00e9rv\u00e1rcsurg\u00f3",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.29349",
+            "longitude": "18.2646"
+        },
+        {
+            "city": "Farmos",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.36067",
+            "longitude": "19.84619"
+        },
+        {
+            "city": "Far\u00e1d",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.60633",
+            "longitude": "17.20024"
+        },
+        {
+            "city": "Fadd",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.46476",
+            "longitude": "18.81925"
+        },
+        {
+            "city": "Etyek",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.44794",
+            "longitude": "18.75328"
+        },
+        {
+            "city": "Esztergom",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.7928",
+            "longitude": "18.74148"
+        },
+        {
+            "city": "\u00c9rsekvadkert",
+            "region": "14",
+            "country": "HU",
+            "latitude": "47.99619",
+            "longitude": "19.20231"
+        },
+        {
+            "city": "\u00c9rsekcsan\u00e1d",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.25352",
+            "longitude": "18.98457"
+        },
+        {
+            "city": "Erd\u0151kertes",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.67261",
+            "longitude": "19.30786"
+        },
+        {
+            "city": "\u00c9rd",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.39489",
+            "longitude": "18.9136"
+        },
+        {
+            "city": "Ercsi",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.25194",
+            "longitude": "18.89623"
+        },
+        {
+            "city": "Enying",
+            "region": "08",
+            "country": "HU",
+            "latitude": "46.93046",
+            "longitude": "18.24202"
+        },
+        {
+            "city": "El\u0151sz\u00e1ll\u00e1s",
+            "region": "08",
+            "country": "HU",
+            "latitude": "46.83094",
+            "longitude": "18.83481"
+        },
+        {
+            "city": "Ecser",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.44389",
+            "longitude": "19.3245"
+        },
+        {
+            "city": "Ecs\u00e9d",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.73267",
+            "longitude": "19.76696"
+        },
+        {
+            "city": "Dusnok",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.39085",
+            "longitude": "18.96296"
+        },
+        {
+            "city": "Dunavecse",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.91407",
+            "longitude": "18.97433"
+        },
+        {
+            "city": "Dunavars\u00e1ny",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.27859",
+            "longitude": "19.06617"
+        },
+        {
+            "city": "Duna\u00fajv\u00e1ros",
+            "region": "08",
+            "country": "HU",
+            "latitude": "46.98333",
+            "longitude": "18.93333"
+        },
+        {
+            "city": "Dunaszentgy\u00f6rgy",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.52852",
+            "longitude": "18.81771"
+        },
+        {
+            "city": "Dunaszekcs\u0151",
+            "region": "02",
+            "country": "HU",
+            "latitude": "46.08663",
+            "longitude": "18.75865"
+        },
+        {
+            "city": "Dunapataj",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.644",
+            "longitude": "18.99632"
+        },
+        {
+            "city": "Dunakeszi",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.6364",
+            "longitude": "19.13864"
+        },
+        {
+            "city": "Dunaharaszti",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.3545",
+            "longitude": "19.09822"
+        },
+        {
+            "city": "Dunaf\u00f6ldv\u00e1r",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.808",
+            "longitude": "18.92638"
+        },
+        {
+            "city": "Dunabogd\u00e1ny",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.79052",
+            "longitude": "19.04125"
+        },
+        {
+            "city": "Dunaalm\u00e1s",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.72868",
+            "longitude": "18.32235"
+        },
+        {
+            "city": "Dorog",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.72095",
+            "longitude": "18.7364"
+        },
+        {
+            "city": "D\u00f6ms\u00f6d",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.09005",
+            "longitude": "19.01106"
+        },
+        {
+            "city": "Domony",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.65552",
+            "longitude": "19.43229"
+        },
+        {
+            "city": "Domb\u00f3v\u00e1r",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.37657",
+            "longitude": "18.13696"
+        },
+        {
+            "city": "D\u00f6br\u00f6k\u00f6z",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.42178",
+            "longitude": "18.23952"
+        },
+        {
+            "city": "Di\u00f3sjen\u0151",
+            "region": "14",
+            "country": "HU",
+            "latitude": "47.93968",
+            "longitude": "19.04317"
+        },
+        {
+            "city": "Di\u00f3sd",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.4095",
+            "longitude": "18.94898"
+        },
+        {
+            "city": "Devecser",
+            "region": "23",
+            "country": "HU",
+            "latitude": "47.10316",
+            "longitude": "17.43802"
+        },
+        {
+            "city": "D\u00e9legyh\u00e1za",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.24135",
+            "longitude": "19.09019"
+        },
+        {
+            "city": "D\u00e9g",
+            "region": "08",
+            "country": "HU",
+            "latitude": "46.86807",
+            "longitude": "18.45042"
+        },
+        {
+            "city": "Decs",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.28428",
+            "longitude": "18.76"
+        },
+        {
+            "city": "D\u00e1vod",
+            "region": "01",
+            "country": "HU",
+            "latitude": "45.995",
+            "longitude": "18.91722"
+        },
+        {
+            "city": "D\u00e1ny",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.52",
+            "longitude": "19.544"
+        },
+        {
+            "city": "D\u00e1nszentmikl\u00f3s",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.21486",
+            "longitude": "19.54695"
+        },
+        {
+            "city": "Dabas",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.18594",
+            "longitude": "19.31091"
+        },
+        {
+            "city": "Csurg\u00f3",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.25314",
+            "longitude": "17.1006"
+        },
+        {
+            "city": "Csorna",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.61155",
+            "longitude": "17.25012"
+        },
+        {
+            "city": "Csopak",
+            "region": "23",
+            "country": "HU",
+            "latitude": "46.97709",
+            "longitude": "17.91819"
+        },
+        {
+            "city": "Cs\u00f6m\u00f6r",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.55",
+            "longitude": "19.23333"
+        },
+        {
+            "city": "Csolnok",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.69116",
+            "longitude": "18.71611"
+        },
+        {
+            "city": "Csob\u00e1nka",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.64637",
+            "longitude": "18.96189"
+        },
+        {
+            "city": "Cset\u00e9ny",
+            "region": "23",
+            "country": "HU",
+            "latitude": "47.31806",
+            "longitude": "17.99208"
+        },
+        {
+            "city": "Cserszegtomaj",
+            "region": "24",
+            "country": "HU",
+            "latitude": "46.80165",
+            "longitude": "17.22096"
+        },
+        {
+            "city": "Csepreg",
+            "region": "22",
+            "country": "HU",
+            "latitude": "47.40098",
+            "longitude": "16.70881"
+        },
+        {
+            "city": "Cseng\u0151d",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.71543",
+            "longitude": "19.26802"
+        },
+        {
+            "city": "Csengele",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.54234",
+            "longitude": "19.86358"
+        },
+        {
+            "city": "Csem\u0151",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.11799",
+            "longitude": "19.69092"
+        },
+        {
+            "city": "Cs\u00e1voly",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.18917",
+            "longitude": "19.14667"
+        },
+        {
+            "city": "Cs\u00e1sz\u00e1rt\u00f6lt\u00e9s",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.42194",
+            "longitude": "19.18361"
+        },
+        {
+            "city": "Cs\u00e1sz\u00e1r",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.498",
+            "longitude": "18.14272"
+        },
+        {
+            "city": "Cs\u00e1ny",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.64829",
+            "longitude": "19.82972"
+        },
+        {
+            "city": "Cs\u00e1kv\u00e1r",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.39184",
+            "longitude": "18.46501"
+        },
+        {
+            "city": "Csabrendek",
+            "region": "23",
+            "country": "HU",
+            "latitude": "47.01356",
+            "longitude": "17.29108"
+        },
+        {
+            "city": "Celld\u00f6m\u00f6lk",
+            "region": "22",
+            "country": "HU",
+            "latitude": "47.25712",
+            "longitude": "17.15027"
+        },
+        {
+            "city": "Cegl\u00e9dbercel",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.2237",
+            "longitude": "19.66828"
+        },
+        {
+            "city": "Cegl\u00e9d",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.17266",
+            "longitude": "19.79952"
+        },
+        {
+            "city": "Cece",
+            "region": "08",
+            "country": "HU",
+            "latitude": "46.77056",
+            "longitude": "18.62826"
+        },
+        {
+            "city": "B\u00fckk\u00f6sd",
+            "region": "02",
+            "country": "HU",
+            "latitude": "46.10751",
+            "longitude": "17.9882"
+        },
+        {
+            "city": "B\u00fck",
+            "region": "22",
+            "country": "HU",
+            "latitude": "47.38486",
+            "longitude": "16.75065"
+        },
+        {
+            "city": "Buj\u00e1k",
+            "region": "14",
+            "country": "HU",
+            "latitude": "47.88352",
+            "longitude": "19.54381"
+        },
+        {
+            "city": "Bugyi",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.22748",
+            "longitude": "19.14664"
+        },
+        {
+            "city": "Bugac",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.68704",
+            "longitude": "19.68074"
+        },
+        {
+            "city": "Budapest",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.49801",
+            "longitude": "19.03991"
+        },
+        {
+            "city": "Buda\u00f6rs",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.46181",
+            "longitude": "18.95845"
+        },
+        {
+            "city": "Budakeszi",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.51083",
+            "longitude": "18.92717"
+        },
+        {
+            "city": "Budakal\u00e1sz",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.61667",
+            "longitude": "19.05"
+        },
+        {
+            "city": "Asz\u00f3d",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.65174",
+            "longitude": "19.4785"
+        },
+        {
+            "city": "B\u0151s\u00e1rk\u00e1ny",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.6882",
+            "longitude": "17.25"
+        },
+        {
+            "city": "Bord\u00e1ny",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.31843",
+            "longitude": "19.92306"
+        },
+        {
+            "city": "Bonyh\u00e1d",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.29921",
+            "longitude": "18.53024"
+        },
+        {
+            "city": "B\u0151ny",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.65",
+            "longitude": "17.86977"
+        },
+        {
+            "city": "B\u00f3ly",
+            "region": "02",
+            "country": "HU",
+            "latitude": "45.96722",
+            "longitude": "18.51833"
+        },
+        {
+            "city": "Boldog",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.60286",
+            "longitude": "19.68839"
+        },
+        {
+            "city": "B\u00f6lcske",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.74102",
+            "longitude": "18.96736"
+        },
+        {
+            "city": "Bokod",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.49186",
+            "longitude": "18.24743"
+        },
+        {
+            "city": "B\u00f6h\u00f6nye",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.41345",
+            "longitude": "17.38036"
+        },
+        {
+            "city": "Bogyiszl\u00f3",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.38638",
+            "longitude": "18.82962"
+        },
+        {
+            "city": "Bodajk",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.32352",
+            "longitude": "18.23312"
+        },
+        {
+            "city": "Bicske",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.48419",
+            "longitude": "18.64404"
+        },
+        {
+            "city": "Biatorb\u00e1gy",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.4706",
+            "longitude": "18.81892"
+        },
+        {
+            "city": "Berzence",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.20908",
+            "longitude": "17.1481"
+        },
+        {
+            "city": "Berhida",
+            "region": "23",
+            "country": "HU",
+            "latitude": "47.11131",
+            "longitude": "18.12948"
+        },
+        {
+            "city": "Beremend",
+            "region": "02",
+            "country": "HU",
+            "latitude": "45.79108",
+            "longitude": "18.43263"
+        },
+        {
+            "city": "Bercel",
+            "region": "14",
+            "country": "HU",
+            "latitude": "47.87057",
+            "longitude": "19.40715"
+        },
+        {
+            "city": "Beled",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.46594",
+            "longitude": "17.09294"
+        },
+        {
+            "city": "Becsehely",
+            "region": "24",
+            "country": "HU",
+            "latitude": "46.44755",
+            "longitude": "16.7771"
+        },
+        {
+            "city": "B\u00e1tya",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.488",
+            "longitude": "18.95419"
+        },
+        {
+            "city": "B\u00e1tonyterenye",
+            "region": "14",
+            "country": "HU",
+            "latitude": "47.96962",
+            "longitude": "19.84076"
+        },
+        {
+            "city": "B\u00e1tasz\u00e9k",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.19373",
+            "longitude": "18.72307"
+        },
+        {
+            "city": "B\u00e1ta",
+            "region": "21",
+            "country": "HU",
+            "latitude": "46.12864",
+            "longitude": "18.77027"
+        },
+        {
+            "city": "Barcs",
+            "region": "17",
+            "country": "HU",
+            "latitude": "45.96",
+            "longitude": "17.45861"
+        },
+        {
+            "city": "Baracska",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.28225",
+            "longitude": "18.75854"
+        },
+        {
+            "city": "Baracs",
+            "region": "08",
+            "country": "HU",
+            "latitude": "46.88202",
+            "longitude": "18.90658"
+        },
+        {
+            "city": "Ball\u00f3sz\u00f6g",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.86216",
+            "longitude": "19.57092"
+        },
+        {
+            "city": "Balatonsz\u00e1rsz\u00f3",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.82946",
+            "longitude": "17.82426"
+        },
+        {
+            "city": "Balatonszabadi",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.89398",
+            "longitude": "18.13738"
+        },
+        {
+            "city": "Balatonlelle",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.78318",
+            "longitude": "17.69498"
+        },
+        {
+            "city": "Balatonkenese",
+            "region": "23",
+            "country": "HU",
+            "latitude": "47.04019",
+            "longitude": "18.10671"
+        },
+        {
+            "city": "Balatonf\u00fcred",
+            "region": "23",
+            "country": "HU",
+            "latitude": "46.96188",
+            "longitude": "17.87187"
+        },
+        {
+            "city": "Balatonf\u00f6ldv\u00e1r",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.85255",
+            "longitude": "17.88123"
+        },
+        {
+            "city": "Balatonfenyves",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.71542",
+            "longitude": "17.49223"
+        },
+        {
+            "city": "Balatonbogl\u00e1r",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.77525",
+            "longitude": "17.64414"
+        },
+        {
+            "city": "Balatonber\u00e9ny",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.70702",
+            "longitude": "17.32013"
+        },
+        {
+            "city": "Balatonalm\u00e1di",
+            "region": "23",
+            "country": "HU",
+            "latitude": "47.03526",
+            "longitude": "18.02076"
+        },
+        {
+            "city": "Balassagyarmat",
+            "region": "14",
+            "country": "HU",
+            "latitude": "48.07296",
+            "longitude": "19.29614"
+        },
+        {
+            "city": "Bakonyszentl\u00e1szl\u00f3",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.38901",
+            "longitude": "17.80321"
+        },
+        {
+            "city": "Bakonycsernye",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.32395",
+            "longitude": "18.07509"
+        },
+        {
+            "city": "Bajna",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.654",
+            "longitude": "18.5972"
+        },
+        {
+            "city": "Baja",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.17496",
+            "longitude": "18.95639"
+        },
+        {
+            "city": "Baj",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.64593",
+            "longitude": "18.3641"
+        },
+        {
+            "city": "Bag",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.63333",
+            "longitude": "19.48333"
+        },
+        {
+            "city": "Badacsonytomaj",
+            "region": "23",
+            "country": "HU",
+            "latitude": "46.80711",
+            "longitude": "17.51385"
+        },
+        {
+            "city": "B\u00e1csbokod",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.125",
+            "longitude": "19.15621"
+        },
+        {
+            "city": "B\u00e1csalm\u00e1s",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.12648",
+            "longitude": "19.3326"
+        },
+        {
+            "city": "B\u00e1bolna",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.64361",
+            "longitude": "17.97798"
+        },
+        {
+            "city": "Bab\u00f3csa",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.04155",
+            "longitude": "17.34332"
+        },
+        {
+            "city": "\u00c1sv\u00e1nyr\u00e1r\u00f3",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.82733",
+            "longitude": "17.49418"
+        },
+        {
+            "city": "\u00c1sotthalom",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.19875",
+            "longitude": "19.78334"
+        },
+        {
+            "city": "Apostag",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.88208",
+            "longitude": "18.9621"
+        },
+        {
+            "city": "Apc",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.79419",
+            "longitude": "19.69429"
+        },
+        {
+            "city": "Als\u00f3n\u00e9medi",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.31524",
+            "longitude": "19.15843"
+        },
+        {
+            "city": "Alm\u00e1sf\u00fczit\u0151",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.72752",
+            "longitude": "18.26538"
+        },
+        {
+            "city": "Albertirsa",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.24315",
+            "longitude": "19.61686"
+        },
+        {
+            "city": "Alap",
+            "region": "08",
+            "country": "HU",
+            "latitude": "46.79914",
+            "longitude": "18.68938"
+        },
+        {
+            "city": "Akaszt\u00f3",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.69167",
+            "longitude": "19.20423"
+        },
+        {
+            "city": "Ajka",
+            "region": "23",
+            "country": "HU",
+            "latitude": "47.10196",
+            "longitude": "17.55892"
+        },
+        {
+            "city": "\u00c1gfalva",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.68991",
+            "longitude": "16.51658"
+        },
+        {
+            "city": "\u00c1gasegyh\u00e1za",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.84026",
+            "longitude": "19.45208"
+        },
+        {
+            "city": "Adony",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.1194",
+            "longitude": "18.86493"
+        },
+        {
+            "city": "\u00c1d\u00e1nd",
+            "region": "17",
+            "country": "HU",
+            "latitude": "46.85931",
+            "longitude": "18.16442"
+        },
+        {
+            "city": "Ad\u00e1cs",
+            "region": "11",
+            "country": "HU",
+            "latitude": "47.6921",
+            "longitude": "19.97696"
+        },
+        {
+            "city": "Acsa",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.79425",
+            "longitude": "19.38795"
+        },
+        {
+            "city": "\u00c1cs",
+            "region": "12",
+            "country": "HU",
+            "latitude": "47.71231",
+            "longitude": "18.01131"
+        },
+        {
+            "city": "Abda",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.69464",
+            "longitude": "17.54488"
+        },
+        {
+            "city": "Aba",
+            "region": "08",
+            "country": "HU",
+            "latitude": "47.02907",
+            "longitude": "18.52172"
+        },
+        {
+            "city": "Tiszaalp\u00e1r",
+            "region": "01",
+            "country": "HU",
+            "latitude": "46.81279",
+            "longitude": "19.99841"
+        },
+        {
+            "city": "Nagyv\u00e1rad",
+            "region": "",
+            "country": "HU",
+            "latitude": "47.06053",
+            "longitude": "21.92734"
+        },
+        {
+            "city": "Budapest XII. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.49192",
+            "longitude": "19.01493"
+        },
+        {
+            "city": "Budapest XI. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.47603",
+            "longitude": "19.03605"
+        },
+        {
+            "city": "Budapest IX. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.48299",
+            "longitude": "19.06591"
+        },
+        {
+            "city": "Budapest VIII. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.48919",
+            "longitude": "19.07012"
+        },
+        {
+            "city": "Budapest VII. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.50045",
+            "longitude": "19.06875"
+        },
+        {
+            "city": "Budapest VI. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.50369",
+            "longitude": "19.06583"
+        },
+        {
+            "city": "Budapest XIV. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.5183",
+            "longitude": "19.10789"
+        },
+        {
+            "city": "Budapest XIII. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.52978",
+            "longitude": "19.08068"
+        },
+        {
+            "city": "Budapest IV. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.56182",
+            "longitude": "19.08909"
+        },
+        {
+            "city": "Budapest XV. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.56263",
+            "longitude": "19.11681"
+        },
+        {
+            "city": "Budapest XVI. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.51482",
+            "longitude": "19.17028"
+        },
+        {
+            "city": "Budapest X. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.4791",
+            "longitude": "19.15835"
+        },
+        {
+            "city": "Budapest XIX. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.45293",
+            "longitude": "19.14943"
+        },
+        {
+            "city": "Budapest XVIII. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.44417",
+            "longitude": "19.17595"
+        },
+        {
+            "city": "Budapest XXIII. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.39788",
+            "longitude": "19.11492"
+        },
+        {
+            "city": "Budapest XXII. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.42698",
+            "longitude": "19.04016"
+        },
+        {
+            "city": "Budapest XXI. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.43047",
+            "longitude": "19.07098"
+        },
+        {
+            "city": "Budapest XX. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.43674",
+            "longitude": "19.10093"
+        },
+        {
+            "city": "Budapest XVII. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.47997",
+            "longitude": "19.25388"
+        },
+        {
+            "city": "Budapest III. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.54157",
+            "longitude": "19.04501"
+        },
+        {
+            "city": "Budapest II. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.51291",
+            "longitude": "19.03184"
+        },
+        {
+            "city": "Budapest I. ker\u00fclet",
+            "region": "05",
+            "country": "HU",
+            "latitude": "47.49705",
+            "longitude": "19.03961"
+        },
+        {
+            "city": "Algy\u0151",
+            "region": "06",
+            "country": "HU",
+            "latitude": "46.33472",
+            "longitude": "20.20849"
+        },
+        {
+            "city": "Szelev\u00e9ny",
+            "region": "20",
+            "country": "HU",
+            "latitude": "46.80259",
+            "longitude": "20.20283"
+        },
+        {
+            "city": "Kismaros",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.83742",
+            "longitude": "19.00463"
+        },
+        {
+            "city": "H\u00e9halom",
+            "region": "14",
+            "country": "HU",
+            "latitude": "47.78017",
+            "longitude": "19.58519"
+        },
+        {
+            "city": "Mosonszentmikl\u00f3s",
+            "region": "09",
+            "country": "HU",
+            "latitude": "47.72778",
+            "longitude": "17.42784"
+        },
+        {
+            "city": "Kerepes",
+            "region": "16",
+            "country": "HU",
+            "latitude": "47.56008",
+            "longitude": "19.28289"
+        }
+    ]
+}

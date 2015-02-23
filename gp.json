@@ -1,0 +1,181 @@
+{
+    "country": "Guadeloupe",
+    "code": "GP",
+    "cities": [
+        {
+            "city": "Vieux-Habitants",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "16.0589",
+            "longitude": "-61.76595"
+        },
+        {
+            "city": "Trois-Rivi\u00e8res",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "15.97567",
+            "longitude": "-61.64509"
+        },
+        {
+            "city": "Terre-de-Bas",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "15.85011",
+            "longitude": "-61.64417"
+        },
+        {
+            "city": "Saint-Fran\u00e7ois",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "16.25264",
+            "longitude": "-61.27414"
+        },
+        {
+            "city": "Sainte-Rose",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "16.33238",
+            "longitude": "-61.69793"
+        },
+        {
+            "city": "Sainte-Anne",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "16.22636",
+            "longitude": "-61.37919"
+        },
+        {
+            "city": "Saint-Claude",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "16.02409",
+            "longitude": "-61.70215"
+        },
+        {
+            "city": "Port-Louis",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "16.41901",
+            "longitude": "-61.53131"
+        },
+        {
+            "city": "Pointe-Noire",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "16.23086",
+            "longitude": "-61.78783"
+        },
+        {
+            "city": "Pointe-\u00e0-Pitre",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "16.2422",
+            "longitude": "-61.5343"
+        },
+        {
+            "city": "Petit-Canal",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "16.37836",
+            "longitude": "-61.48788"
+        },
+        {
+            "city": "Petit-Bourg",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "16.19135",
+            "longitude": "-61.59159"
+        },
+        {
+            "city": "Les Abymes",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "16.27095",
+            "longitude": "-61.50451"
+        },
+        {
+            "city": "Le Moule",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "16.33315",
+            "longitude": "-61.34728"
+        },
+        {
+            "city": "Le Gosier",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "16.20685",
+            "longitude": "-61.49329"
+        },
+        {
+            "city": "Lamentin",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "16.27105",
+            "longitude": "-61.63124"
+        },
+        {
+            "city": "Grande Anse",
+            "region": "00",
+            "country": "GP",
+            "latitude": "16.30351",
+            "longitude": "-61.07406"
+        },
+        {
+            "city": "Grand-Bourg",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "15.88346",
+            "longitude": "-61.31484"
+        },
+        {
+            "city": "Gourbeyre",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "15.99378",
+            "longitude": "-61.69138"
+        },
+        {
+            "city": "Capesterre-Belle-Eau",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "16.04322",
+            "longitude": "-61.56596"
+        },
+        {
+            "city": "Bouillante",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "16.13041",
+            "longitude": "-61.76919"
+        },
+        {
+            "city": "Basse-Terre",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "15.99854",
+            "longitude": "-61.72548"
+        },
+        {
+            "city": "Baillif",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "16.02018",
+            "longitude": "-61.74632"
+        },
+        {
+            "city": "Baie-Mahault",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "16.26738",
+            "longitude": "-61.58543"
+        },
+        {
+            "city": "Anse-Bertrand",
+            "region": "GP",
+            "country": "GP",
+            "latitude": "16.47206",
+            "longitude": "-61.50778"
+        }
+    ]
+}

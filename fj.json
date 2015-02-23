@@ -1,0 +1,27 @@
+{
+    "country": "Fiji",
+    "code": "FJ",
+    "cities": [
+        {
+            "city": "Suva",
+            "region": "01",
+            "country": "FJ",
+            "latitude": "-18.14161",
+            "longitude": "178.44149"
+        },
+        {
+            "city": "Nadi",
+            "region": "05",
+            "country": "FJ",
+            "latitude": "-17.8",
+            "longitude": "177.41667"
+        },
+        {
+            "city": "Lambasa",
+            "region": "03",
+            "country": "FJ",
+            "latitude": "-16.41667",
+            "longitude": "179.38333"
+        }
+    ]
+}

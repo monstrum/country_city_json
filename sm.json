@@ -1,0 +1,34 @@
+{
+    "country": "San Marino",
+    "code": "SM",
+    "cities": [
+        {
+            "city": "Serravalle",
+            "region": "09",
+            "country": "SM",
+            "latitude": "43.95",
+            "longitude": "12.5"
+        },
+        {
+            "city": "San Marino",
+            "region": "07",
+            "country": "SM",
+            "latitude": "43.93333",
+            "longitude": "12.45"
+        },
+        {
+            "city": "Poggio di Chiesanuova",
+            "region": "02",
+            "country": "SM",
+            "latitude": "43.91667",
+            "longitude": "12.41667"
+        },
+        {
+            "city": "Acquaviva",
+            "region": "01",
+            "country": "SM",
+            "latitude": "43.95",
+            "longitude": "12.41667"
+        }
+    ]
+}

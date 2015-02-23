@@ -1,0 +1,1560 @@
+{
+    "country": "Bosnia and Herzegovina",
+    "code": "BA",
+    "cities": [
+        {
+            "city": "Zvornik",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.38694",
+            "longitude": "19.10139"
+        },
+        {
+            "city": "\u017divinice",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.54722",
+            "longitude": "17.375"
+        },
+        {
+            "city": "\u017divinice",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.44944",
+            "longitude": "18.64972"
+        },
+        {
+            "city": "\u017dep\u010de",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.42667",
+            "longitude": "18.03778"
+        },
+        {
+            "city": "Zenica",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.20139",
+            "longitude": "17.90639"
+        },
+        {
+            "city": "\u017deljezno Polje",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.40833",
+            "longitude": "17.93194"
+        },
+        {
+            "city": "Zbori\u0161te",
+            "region": "01",
+            "country": "BA",
+            "latitude": "45.14583",
+            "longitude": "16.01778"
+        },
+        {
+            "city": "Zavidovi\u0107i",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.44583",
+            "longitude": "18.14972"
+        },
+        {
+            "city": "Zabri\u0161\u0107e",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.7925",
+            "longitude": "16.94222"
+        },
+        {
+            "city": "Vukovije Donje",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.46361",
+            "longitude": "18.75389"
+        },
+        {
+            "city": "Vrnogra\u010d",
+            "region": "01",
+            "country": "BA",
+            "latitude": "45.16361",
+            "longitude": "15.95361"
+        },
+        {
+            "city": "Vozu\u0107a",
+            "region": "00",
+            "country": "BA",
+            "latitude": "44.36139",
+            "longitude": "18.35778"
+        },
+        {
+            "city": "Voljevac",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.87861",
+            "longitude": "17.65917"
+        },
+        {
+            "city": "Vogo\u0161\u0107a",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.90194",
+            "longitude": "18.34806"
+        },
+        {
+            "city": "Vlasenica",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.18194",
+            "longitude": "18.94056"
+        },
+        {
+            "city": "Vitina",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.2375",
+            "longitude": "17.48389"
+        },
+        {
+            "city": "Vitez",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.15444",
+            "longitude": "17.79028"
+        },
+        {
+            "city": "Visoko",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.98889",
+            "longitude": "18.17806"
+        },
+        {
+            "city": "Vi\u0161egrad",
+            "region": "02",
+            "country": "BA",
+            "latitude": "43.78472",
+            "longitude": "19.29917"
+        },
+        {
+            "city": "Vido\u0161i",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.77139",
+            "longitude": "17.02833"
+        },
+        {
+            "city": "Velika Obarska",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.80528",
+            "longitude": "19.16417"
+        },
+        {
+            "city": "Velika Kladu\u0161a",
+            "region": "01",
+            "country": "BA",
+            "latitude": "45.18944",
+            "longitude": "15.81167"
+        },
+        {
+            "city": "Velagi\u0107i",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.55722",
+            "longitude": "16.73167"
+        },
+        {
+            "city": "Varo\u0161ka Rijeka",
+            "region": "01",
+            "country": "BA",
+            "latitude": "45.08472",
+            "longitude": "16.01417"
+        },
+        {
+            "city": "Vare\u0161",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.16444",
+            "longitude": "18.32833"
+        },
+        {
+            "city": "Ustikolina",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.58361",
+            "longitude": "18.79"
+        },
+        {
+            "city": "Ugljevik",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.66361",
+            "longitude": "19.02028"
+        },
+        {
+            "city": "Tuzla",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.54278",
+            "longitude": "18.66944"
+        },
+        {
+            "city": "Turbe",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.24361",
+            "longitude": "17.57139"
+        },
+        {
+            "city": "Tr\u017ea\u010dka Ra\u0161tela",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.97333",
+            "longitude": "15.79028"
+        },
+        {
+            "city": "Trn",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.85972",
+            "longitude": "17.23639"
+        },
+        {
+            "city": "Trebinje",
+            "region": "02",
+            "country": "BA",
+            "latitude": "42.71194",
+            "longitude": "18.34417"
+        },
+        {
+            "city": "Travnik",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.22667",
+            "longitude": "17.67056"
+        },
+        {
+            "city": "Toj\u0161i\u0107i",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.50111",
+            "longitude": "18.78556"
+        },
+        {
+            "city": "Tesli\u0107",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.60639",
+            "longitude": "17.85972"
+        },
+        {
+            "city": "Te\u0161anj",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.61167",
+            "longitude": "17.98722"
+        },
+        {
+            "city": "Svodna",
+            "region": "02",
+            "country": "BA",
+            "latitude": "45.03722",
+            "longitude": "16.53833"
+        },
+        {
+            "city": "\u0160umatac",
+            "region": "01",
+            "country": "BA",
+            "latitude": "45.09889",
+            "longitude": "15.8575"
+        },
+        {
+            "city": "\u0160turli\u0107",
+            "region": "01",
+            "country": "BA",
+            "latitude": "45.06389",
+            "longitude": "15.77806"
+        },
+        {
+            "city": "Stupari",
+            "region": "00",
+            "country": "BA",
+            "latitude": "44.31472",
+            "longitude": "18.68417"
+        },
+        {
+            "city": "Stolac",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.08444",
+            "longitude": "17.9575"
+        },
+        {
+            "city": "Stjepan-Polje",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.71722",
+            "longitude": "18.25944"
+        },
+        {
+            "city": "Stijena",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.93528",
+            "longitude": "16.01722"
+        },
+        {
+            "city": "Srebrenik",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.70778",
+            "longitude": "18.48806"
+        },
+        {
+            "city": "Srebrenica",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.10639",
+            "longitude": "19.29694"
+        },
+        {
+            "city": "Srbac",
+            "region": "02",
+            "country": "BA",
+            "latitude": "45.09778",
+            "longitude": "17.525"
+        },
+        {
+            "city": "Solina",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.56028",
+            "longitude": "18.69472"
+        },
+        {
+            "city": "Sokolac",
+            "region": "02",
+            "country": "BA",
+            "latitude": "43.93972",
+            "longitude": "18.80167"
+        },
+        {
+            "city": "Sladna",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.72944",
+            "longitude": "18.42417"
+        },
+        {
+            "city": "Skender Vakuf",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.49083",
+            "longitude": "17.3775"
+        },
+        {
+            "city": "\u0160ipovo",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.28139",
+            "longitude": "17.08389"
+        },
+        {
+            "city": "\u0160eri\u0107i",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.46528",
+            "longitude": "18.55806"
+        },
+        {
+            "city": "\u0160ekovi\u0107i",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.29861",
+            "longitude": "18.85278"
+        },
+        {
+            "city": "Sarajevo",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.84864",
+            "longitude": "18.35644"
+        },
+        {
+            "city": "Sanski Most",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.76528",
+            "longitude": "16.66556"
+        },
+        {
+            "city": "Sanica",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.61417",
+            "longitude": "16.64111"
+        },
+        {
+            "city": "Rumboci",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.83222",
+            "longitude": "17.50111"
+        },
+        {
+            "city": "Rudo",
+            "region": "02",
+            "country": "BA",
+            "latitude": "43.61778",
+            "longitude": "19.36639"
+        },
+        {
+            "city": "Rogatica",
+            "region": "02",
+            "country": "BA",
+            "latitude": "43.80083",
+            "longitude": "19.0025"
+        },
+        {
+            "city": "Rodo\u010d",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.30889",
+            "longitude": "17.80694"
+        },
+        {
+            "city": "Radi\u0161i\u0107i",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.22194",
+            "longitude": "17.54306"
+        },
+        {
+            "city": "Pura\u010di\u0107",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.54694",
+            "longitude": "18.47667"
+        },
+        {
+            "city": "Novi Travnik",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.17111",
+            "longitude": "17.6575"
+        },
+        {
+            "city": "Prozor",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.82222",
+            "longitude": "17.60917"
+        },
+        {
+            "city": "Prnjavor",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.87028",
+            "longitude": "17.66278"
+        },
+        {
+            "city": "Prijedor",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.98139",
+            "longitude": "16.71306"
+        },
+        {
+            "city": "Priboj",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.60278",
+            "longitude": "18.93139"
+        },
+        {
+            "city": "Pribini\u0107",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.61056",
+            "longitude": "17.69056"
+        },
+        {
+            "city": "Potoci",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.40861",
+            "longitude": "17.87861"
+        },
+        {
+            "city": "Popovi",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.76556",
+            "longitude": "19.2875"
+        },
+        {
+            "city": "Polje-Bijela",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.63333",
+            "longitude": "17.97222"
+        },
+        {
+            "city": "Podzvizd",
+            "region": "01",
+            "country": "BA",
+            "latitude": "45.17417",
+            "longitude": "15.87361"
+        },
+        {
+            "city": "Podhum",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.72306",
+            "longitude": "17.00111"
+        },
+        {
+            "city": "Petkovci",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.45306",
+            "longitude": "19.07611"
+        },
+        {
+            "city": "Pe\u0107igrad",
+            "region": "01",
+            "country": "BA",
+            "latitude": "45.05444",
+            "longitude": "15.89694"
+        },
+        {
+            "city": "Pe\u0107i",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.62722",
+            "longitude": "16.78611"
+        },
+        {
+            "city": "Pazari\u0107",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.78861",
+            "longitude": "18.16083"
+        },
+        {
+            "city": "Pale",
+            "region": "02",
+            "country": "BA",
+            "latitude": "43.81611",
+            "longitude": "18.56944"
+        },
+        {
+            "city": "Otoka",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.96",
+            "longitude": "16.17917"
+        },
+        {
+            "city": "Ostro\u017eac",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.90861",
+            "longitude": "15.94028"
+        },
+        {
+            "city": "O\u0161tra Luka",
+            "region": "02",
+            "country": "BA",
+            "latitude": "45",
+            "longitude": "18.58833"
+        },
+        {
+            "city": "Orguz",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.77389",
+            "longitude": "16.86389"
+        },
+        {
+            "city": "Ora\u0161je",
+            "region": "01",
+            "country": "BA",
+            "latitude": "45.03556",
+            "longitude": "18.69333"
+        },
+        {
+            "city": "Ora\u0161ac",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.62889",
+            "longitude": "16.07111"
+        },
+        {
+            "city": "Orahovica Donja",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.65306",
+            "longitude": "18.37028"
+        },
+        {
+            "city": "Omarska",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.89",
+            "longitude": "16.89917"
+        },
+        {
+            "city": "Olovo",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.13",
+            "longitude": "18.58278"
+        },
+        {
+            "city": "Od\u017eak",
+            "region": "01",
+            "country": "BA",
+            "latitude": "45.01111",
+            "longitude": "18.32667"
+        },
+        {
+            "city": "Obudovac",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.965",
+            "longitude": "18.61222"
+        },
+        {
+            "city": "Novi \u0160eher",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.51028",
+            "longitude": "18.02583"
+        },
+        {
+            "city": "Nevesinje",
+            "region": "02",
+            "country": "BA",
+            "latitude": "43.25861",
+            "longitude": "18.11333"
+        },
+        {
+            "city": "Neum",
+            "region": "01",
+            "country": "BA",
+            "latitude": "42.92333",
+            "longitude": "17.61556"
+        },
+        {
+            "city": "Mrkonji\u0107 Grad",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.41583",
+            "longitude": "17.08611"
+        },
+        {
+            "city": "Mramor",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.59167",
+            "longitude": "18.56444"
+        },
+        {
+            "city": "Mostar",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.34333",
+            "longitude": "17.80806"
+        },
+        {
+            "city": "Modri\u010da",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.95444",
+            "longitude": "18.30361"
+        },
+        {
+            "city": "Mionica",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.86722",
+            "longitude": "18.46306"
+        },
+        {
+            "city": "Mili\u0107i",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.17111",
+            "longitude": "19.09028"
+        },
+        {
+            "city": "Maslovare",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.56556",
+            "longitude": "17.53361"
+        },
+        {
+            "city": "Mari\u0107ka",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.86861",
+            "longitude": "16.84056"
+        },
+        {
+            "city": "Mala Kladu\u0161a",
+            "region": "01",
+            "country": "BA",
+            "latitude": "45.13417",
+            "longitude": "15.85861"
+        },
+        {
+            "city": "Mahala",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.01194",
+            "longitude": "18.25528"
+        },
+        {
+            "city": "Maglajani",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.94861",
+            "longitude": "17.34944"
+        },
+        {
+            "city": "Maglaj",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.54917",
+            "longitude": "18.09667"
+        },
+        {
+            "city": "Lukavica",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.76278",
+            "longitude": "18.16889"
+        },
+        {
+            "city": "Lopare",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.63778",
+            "longitude": "18.84278"
+        },
+        {
+            "city": "Lokvine",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.20472",
+            "longitude": "17.85639"
+        },
+        {
+            "city": "Ljubu\u0161ki",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.19694",
+            "longitude": "17.545"
+        },
+        {
+            "city": "Ljubinje",
+            "region": "02",
+            "country": "BA",
+            "latitude": "42.95083",
+            "longitude": "18.08861"
+        },
+        {
+            "city": "Livno",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.82694",
+            "longitude": "17.00778"
+        },
+        {
+            "city": "\u0160iroki Brijeg",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.38333",
+            "longitude": "17.59278"
+        },
+        {
+            "city": "Lakta\u0161i",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.90806",
+            "longitude": "17.30083"
+        },
+        {
+            "city": "Kotor-Varo\u0161",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.61694",
+            "longitude": "17.37167"
+        },
+        {
+            "city": "Ko\u010derin",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.38972",
+            "longitude": "17.485"
+        },
+        {
+            "city": "Kobilja Glava",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.88194",
+            "longitude": "18.38917"
+        },
+        {
+            "city": "Klju\u010d",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.535",
+            "longitude": "16.77222"
+        },
+        {
+            "city": "Kladanj",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.22639",
+            "longitude": "18.69139"
+        },
+        {
+            "city": "Kiseljak",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.48889",
+            "longitude": "18.56889"
+        },
+        {
+            "city": "Kiseljak",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.9425",
+            "longitude": "18.07667"
+        },
+        {
+            "city": "Karadaglije",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.57167",
+            "longitude": "18.01833"
+        },
+        {
+            "city": "Kalenderovci Donji",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.945",
+            "longitude": "17.83389"
+        },
+        {
+            "city": "Kakanj",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.12722",
+            "longitude": "18.11806"
+        },
+        {
+            "city": "Jezerski",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.98083",
+            "longitude": "16.08417"
+        },
+        {
+            "city": "Janja",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.66528",
+            "longitude": "19.24778"
+        },
+        {
+            "city": "Jajce",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.34222",
+            "longitude": "17.26556"
+        },
+        {
+            "city": "Iza\u010di\u0107",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.875",
+            "longitude": "15.78194"
+        },
+        {
+            "city": "Ilija\u0161",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.95083",
+            "longitude": "18.27083"
+        },
+        {
+            "city": "Han Pijesak",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.08083",
+            "longitude": "18.9525"
+        },
+        {
+            "city": "Had\u017ei\u0107i",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.82222",
+            "longitude": "18.20667"
+        },
+        {
+            "city": "Grude",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.36417",
+            "longitude": "17.42056"
+        },
+        {
+            "city": "Gromiljak",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.96667",
+            "longitude": "18.05306"
+        },
+        {
+            "city": "Grada\u010dac",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.88083",
+            "longitude": "18.42694"
+        },
+        {
+            "city": "Gra\u010danica",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.70333",
+            "longitude": "18.30972"
+        },
+        {
+            "city": "Gra\u010danica",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.73333",
+            "longitude": "18.28333"
+        },
+        {
+            "city": "Gostovi\u0107i",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.415",
+            "longitude": "18.15833"
+        },
+        {
+            "city": "Gornji Vakuf",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.93806",
+            "longitude": "17.58833"
+        },
+        {
+            "city": "Gornje \u017divinice",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.42861",
+            "longitude": "18.61694"
+        },
+        {
+            "city": "Gornje Mo\u0161tre",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.01889",
+            "longitude": "18.15333"
+        },
+        {
+            "city": "Gornja Tuzla",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.55611",
+            "longitude": "18.76139"
+        },
+        {
+            "city": "Gornja Koprivna",
+            "region": "01",
+            "country": "BA",
+            "latitude": "45.01194",
+            "longitude": "15.95722"
+        },
+        {
+            "city": "Gora\u017ede",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.66694",
+            "longitude": "18.97639"
+        },
+        {
+            "city": "Gnojnica",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.62056",
+            "longitude": "18.44667"
+        },
+        {
+            "city": "Glamo\u010d",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.04583",
+            "longitude": "16.84861"
+        },
+        {
+            "city": "Gacko",
+            "region": "02",
+            "country": "BA",
+            "latitude": "43.16722",
+            "longitude": "18.53528"
+        },
+        {
+            "city": "Fojnica",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.9625",
+            "longitude": "17.89833"
+        },
+        {
+            "city": "Fo\u010da",
+            "region": "02",
+            "country": "BA",
+            "latitude": "43.505",
+            "longitude": "18.77861"
+        },
+        {
+            "city": "Tomislavgrad",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.71806",
+            "longitude": "17.22667"
+        },
+        {
+            "city": "Dubravica",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.44194",
+            "longitude": "18.11806"
+        },
+        {
+            "city": "Dubrave Gornje",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.47139",
+            "longitude": "18.72972"
+        },
+        {
+            "city": "Dubrave Donje",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.48111",
+            "longitude": "18.69611"
+        },
+        {
+            "city": "Drinovci",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.355",
+            "longitude": "17.35389"
+        },
+        {
+            "city": "Donji Vakuf",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.14361",
+            "longitude": "17.4"
+        },
+        {
+            "city": "Donja Me\u0111i\u0111a",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.8025",
+            "longitude": "18.40333"
+        },
+        {
+            "city": "Donja Mahala",
+            "region": "01",
+            "country": "BA",
+            "latitude": "45.04694",
+            "longitude": "18.66639"
+        },
+        {
+            "city": "Donja Dubica",
+            "region": "01",
+            "country": "BA",
+            "latitude": "45.075",
+            "longitude": "18.41139"
+        },
+        {
+            "city": "Dobrljin",
+            "region": "02",
+            "country": "BA",
+            "latitude": "45.15333",
+            "longitude": "16.4775"
+        },
+        {
+            "city": "Dobrinje",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.04972",
+            "longitude": "18.11944"
+        },
+        {
+            "city": "Doboj",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.73472",
+            "longitude": "18.08778"
+        },
+        {
+            "city": "Divi\u010dani",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.36667",
+            "longitude": "17.32611"
+        },
+        {
+            "city": "Derventa",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.97722",
+            "longitude": "17.91028"
+        },
+        {
+            "city": "\u010citluk",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.22861",
+            "longitude": "17.70083"
+        },
+        {
+            "city": "Cim",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.35278",
+            "longitude": "17.77722"
+        },
+        {
+            "city": "\u010ce\u010dava",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.68667",
+            "longitude": "17.77056"
+        },
+        {
+            "city": "Cazin",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.96694",
+            "longitude": "15.94306"
+        },
+        {
+            "city": "\u010capljina",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.12139",
+            "longitude": "17.68444"
+        },
+        {
+            "city": "\u010cajni\u010de",
+            "region": "02",
+            "country": "BA",
+            "latitude": "43.5575",
+            "longitude": "19.07111"
+        },
+        {
+            "city": "Bu\u017eim",
+            "region": "01",
+            "country": "BA",
+            "latitude": "45.05472",
+            "longitude": "16.03194"
+        },
+        {
+            "city": "Busova\u010da",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.0975",
+            "longitude": "17.87889"
+        },
+        {
+            "city": "Bugojno",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.05722",
+            "longitude": "17.45083"
+        },
+        {
+            "city": "Bronzani Majdan",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.78694",
+            "longitude": "16.93111"
+        },
+        {
+            "city": "Br\u010dko",
+            "region": "BRC",
+            "country": "BA",
+            "latitude": "44.87278",
+            "longitude": "18.80833"
+        },
+        {
+            "city": "Bratunac",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.1875",
+            "longitude": "19.33944"
+        },
+        {
+            "city": "Bosansko Grahovo",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.17944",
+            "longitude": "16.36389"
+        },
+        {
+            "city": "Bosanski \u0160amac",
+            "region": "02",
+            "country": "BA",
+            "latitude": "45.05917",
+            "longitude": "18.46694"
+        },
+        {
+            "city": "Bosanski Novi",
+            "region": "02",
+            "country": "BA",
+            "latitude": "45.04583",
+            "longitude": "16.38028"
+        },
+        {
+            "city": "Bosanski Brod",
+            "region": "02",
+            "country": "BA",
+            "latitude": "45.1375",
+            "longitude": "17.98972"
+        },
+        {
+            "city": "Bosanska Krupa",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.8825",
+            "longitude": "16.15139"
+        },
+        {
+            "city": "Kostajnica",
+            "region": "02",
+            "country": "BA",
+            "latitude": "45.21972",
+            "longitude": "16.53583"
+        },
+        {
+            "city": "Bosanska Gradi\u0161ka",
+            "region": "02",
+            "country": "BA",
+            "latitude": "45.14111",
+            "longitude": "17.25"
+        },
+        {
+            "city": "Bosanska Dubica",
+            "region": "02",
+            "country": "BA",
+            "latitude": "45.17667",
+            "longitude": "16.80944"
+        },
+        {
+            "city": "Blatnica",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.48639",
+            "longitude": "17.82333"
+        },
+        {
+            "city": "Blagaj",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.2575",
+            "longitude": "17.88861"
+        },
+        {
+            "city": "Bile\u0107a",
+            "region": "02",
+            "country": "BA",
+            "latitude": "42.87194",
+            "longitude": "18.42972"
+        },
+        {
+            "city": "Bila",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.7825",
+            "longitude": "16.92528"
+        },
+        {
+            "city": "Bijeljina",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.75694",
+            "longitude": "19.21611"
+        },
+        {
+            "city": "Biha\u0107",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.81694",
+            "longitude": "15.87083"
+        },
+        {
+            "city": "Banovi\u0107i",
+            "region": "00",
+            "country": "BA",
+            "latitude": "44.40528",
+            "longitude": "18.52417"
+        },
+        {
+            "city": "Banja Luka",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.77583",
+            "longitude": "17.18556"
+        },
+        {
+            "city": "Balatun",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.86278",
+            "longitude": "19.34139"
+        },
+        {
+            "city": "Koran",
+            "region": "02",
+            "country": "BA",
+            "latitude": "43.81028",
+            "longitude": "18.56889"
+        },
+        {
+            "city": "Jelah",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.65417",
+            "longitude": "17.95806"
+        },
+        {
+            "city": "Stanari",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.74722",
+            "longitude": "17.82944"
+        },
+        {
+            "city": "Podbrdo",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.44083",
+            "longitude": "17.01389"
+        },
+        {
+            "city": "Male\u0161i\u0107i",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.73806",
+            "longitude": "18.27389"
+        },
+        {
+            "city": "Svojat",
+            "region": "00",
+            "country": "BA",
+            "latitude": "44.39472",
+            "longitude": "18.73917"
+        },
+        {
+            "city": "Dvorovi",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.80667",
+            "longitude": "19.26056"
+        },
+        {
+            "city": "Kne\u017eica",
+            "region": "02",
+            "country": "BA",
+            "latitude": "45.10278",
+            "longitude": "16.6775"
+        },
+        {
+            "city": "Pjani\u0107i",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.98361",
+            "longitude": "15.82278"
+        },
+        {
+            "city": "Polje",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.88056",
+            "longitude": "18.07444"
+        },
+        {
+            "city": "Ili\u0107i",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.34722",
+            "longitude": "17.76806"
+        },
+        {
+            "city": "Careva \u0106uprija",
+            "region": "00",
+            "country": "BA",
+            "latitude": "44.26583",
+            "longitude": "18.42917"
+        },
+        {
+            "city": "\u010celinac",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.72278",
+            "longitude": "17.32778"
+        },
+        {
+            "city": "Hiseti",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.76111",
+            "longitude": "17.17944"
+        },
+        {
+            "city": "Piskavica",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.86806",
+            "longitude": "16.97361"
+        },
+        {
+            "city": "Lamovita",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.92556",
+            "longitude": "16.90722"
+        },
+        {
+            "city": "Puti\u0161evac",
+            "region": "02",
+            "country": "BA",
+            "latitude": "44.53944",
+            "longitude": "17.06278"
+        },
+        {
+            "city": "Te\u0161anjka",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.67306",
+            "longitude": "18.01278"
+        },
+        {
+            "city": "Kova\u010di",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.44917",
+            "longitude": "18.205"
+        },
+        {
+            "city": "Lije\u0161nica",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.49417",
+            "longitude": "18.07417"
+        },
+        {
+            "city": "\u0106orali\u0107i",
+            "region": "01",
+            "country": "BA",
+            "latitude": "45.00694",
+            "longitude": "15.87194"
+        },
+        {
+            "city": "Crni\u0107i",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.12889",
+            "longitude": "17.86667"
+        },
+        {
+            "city": "Barice",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.54056",
+            "longitude": "18.48111"
+        },
+        {
+            "city": "Hotonj",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.89472",
+            "longitude": "18.37278"
+        },
+        {
+            "city": "Skokovi",
+            "region": "01",
+            "country": "BA",
+            "latitude": "45.03139",
+            "longitude": "15.91444"
+        },
+        {
+            "city": "Dre\u017enica",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.52889",
+            "longitude": "17.28194"
+        },
+        {
+            "city": "Ka\u010duni",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.065",
+            "longitude": "17.93861"
+        },
+        {
+            "city": "Paji\u0107 Polje",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.97583",
+            "longitude": "17.5275"
+        },
+        {
+            "city": "Gornja Breza",
+            "region": "01",
+            "country": "BA",
+            "latitude": "44.03694",
+            "longitude": "18.24472"
+        },
+        {
+            "city": "Todorovo",
+            "region": "01",
+            "country": "BA",
+            "latitude": "45.08833",
+            "longitude": "15.93083"
+        },
+        {
+            "city": "Konjic",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.65194",
+            "longitude": "17.96139"
+        },
+        {
+            "city": "Jablanica",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.66028",
+            "longitude": "17.76167"
+        },
+        {
+            "city": "Bijela",
+            "region": "01",
+            "country": "BA",
+            "latitude": "43.60861",
+            "longitude": "17.95194"
+        }
+    ]
+}

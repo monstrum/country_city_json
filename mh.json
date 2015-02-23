@@ -1,0 +1,181 @@
+{
+    "country": "Marshall Islands",
+    "code": "MH",
+    "cities": [
+        {
+            "city": "Likiep",
+            "region": "180",
+            "country": "MH",
+            "latitude": "9.82511",
+            "longitude": "169.31065"
+        },
+        {
+            "city": "Jabor",
+            "region": "120",
+            "country": "MH",
+            "latitude": "5.92098",
+            "longitude": "169.64335"
+        },
+        {
+            "city": "Ailuk",
+            "region": "030",
+            "country": "MH",
+            "latitude": "10.21972",
+            "longitude": "169.97967"
+        },
+        {
+            "city": "Majuro",
+            "region": "190",
+            "country": "MH",
+            "latitude": "7.08971",
+            "longitude": "171.38027"
+        },
+        {
+            "city": "Taroa",
+            "region": "300",
+            "country": "MH",
+            "latitude": "8.70576",
+            "longitude": "171.2275"
+        },
+        {
+            "city": "Ebaye",
+            "region": "150",
+            "country": "MH",
+            "latitude": "8.77479",
+            "longitude": "167.73919"
+        },
+        {
+            "city": "Enewetak",
+            "region": "090",
+            "country": "MH",
+            "latitude": "11.34735",
+            "longitude": "162.33733"
+        },
+        {
+            "city": "Ebon",
+            "region": "080",
+            "country": "MH",
+            "latitude": "4.58199",
+            "longitude": "168.69636"
+        },
+        {
+            "city": "Aur",
+            "region": "050",
+            "country": "MH",
+            "latitude": "8.1499",
+            "longitude": "171.16869"
+        },
+        {
+            "city": "Arno",
+            "region": "040",
+            "country": "MH",
+            "latitude": "7.06691",
+            "longitude": "171.55413"
+        },
+        {
+            "city": "Airuk",
+            "region": "010",
+            "country": "MH",
+            "latitude": "7.27717",
+            "longitude": "168.8203"
+        },
+        {
+            "city": "Mili",
+            "region": "320",
+            "country": "MH",
+            "latitude": "6.0815",
+            "longitude": "171.73502"
+        },
+        {
+            "city": "Lae",
+            "region": "160",
+            "country": "MH",
+            "latitude": "8.92217",
+            "longitude": "166.26344"
+        },
+        {
+            "city": "Utrik",
+            "region": "410",
+            "country": "MH",
+            "latitude": "11.22778",
+            "longitude": "169.84739"
+        },
+        {
+            "city": "Ujae",
+            "region": "390",
+            "country": "MH",
+            "latitude": "8.93218",
+            "longitude": "165.76416"
+        },
+        {
+            "city": "Rongelap",
+            "region": "350",
+            "country": "MH",
+            "latitude": "11.16351",
+            "longitude": "166.89408"
+        },
+        {
+            "city": "Loen",
+            "region": "340",
+            "country": "MH",
+            "latitude": "7.76007",
+            "longitude": "168.23072"
+        },
+        {
+            "city": "Namdrik",
+            "region": "330",
+            "country": "MH",
+            "latitude": "5.59944",
+            "longitude": "168.10282"
+        },
+        {
+            "city": "Mejit",
+            "region": "310",
+            "country": "MH",
+            "latitude": "10.27531",
+            "longitude": "170.86461"
+        },
+        {
+            "city": "Lib",
+            "region": "170",
+            "country": "MH",
+            "latitude": "8.31221",
+            "longitude": "167.37662"
+        },
+        {
+            "city": "Kili",
+            "region": "140",
+            "country": "MH",
+            "latitude": "5.64387",
+            "longitude": "169.12109"
+        },
+        {
+            "city": "Jabat",
+            "region": "110",
+            "country": "MH",
+            "latitude": "7.75003",
+            "longitude": "168.97513"
+        },
+        {
+            "city": "Wotje",
+            "region": "430",
+            "country": "MH",
+            "latitude": "9.45429",
+            "longitude": "170.23674"
+        },
+        {
+            "city": "Wotho",
+            "region": "420",
+            "country": "MH",
+            "latitude": "10.16575",
+            "longitude": "166.01022"
+        },
+        {
+            "city": "RMI Capitol",
+            "region": "190",
+            "country": "MH",
+            "latitude": "7.08931",
+            "longitude": "171.3805"
+        }
+    ]
+}

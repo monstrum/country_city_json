@@ -1,0 +1,13 @@
+{
+    "country": "Timor-Leste",
+    "code": "TL",
+    "cities": [
+        {
+            "city": "Dili",
+            "region": "DI",
+            "country": "TL",
+            "latitude": "-8.55861",
+            "longitude": "125.57361"
+        }
+    ]
+}

@@ -1,0 +1,650 @@
+{
+    "country": "Estonia",
+    "code": "EE",
+    "cities": [
+        {
+            "city": "V\u00e4ndra",
+            "region": "11",
+            "country": "EE",
+            "latitude": "58.64806",
+            "longitude": "25.03611"
+        },
+        {
+            "city": "V\u00f5ru",
+            "region": "21",
+            "country": "EE",
+            "latitude": "57.83389",
+            "longitude": "27.01944"
+        },
+        {
+            "city": "Voka",
+            "region": "03",
+            "country": "EE",
+            "latitude": "59.39972",
+            "longitude": "27.58167"
+        },
+        {
+            "city": "V\u00f5hma",
+            "region": "20",
+            "country": "EE",
+            "latitude": "58.62833",
+            "longitude": "25.54833"
+        },
+        {
+            "city": "Vinni",
+            "region": "08",
+            "country": "EE",
+            "latitude": "59.29583",
+            "longitude": "26.43222"
+        },
+        {
+            "city": "Viljandi",
+            "region": "20",
+            "country": "EE",
+            "latitude": "58.36389",
+            "longitude": "25.59"
+        },
+        {
+            "city": "Viiratsi",
+            "region": "20",
+            "country": "EE",
+            "latitude": "58.36",
+            "longitude": "25.63722"
+        },
+        {
+            "city": "Viimsi",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.49667",
+            "longitude": "24.84222"
+        },
+        {
+            "city": "Vana-Antsla",
+            "region": "21",
+            "country": "EE",
+            "latitude": "57.86611",
+            "longitude": "26.53222"
+        },
+        {
+            "city": "Valga",
+            "region": "19",
+            "country": "EE",
+            "latitude": "57.77781",
+            "longitude": "26.0473"
+        },
+        {
+            "city": "V\u00e4ike-Maarja",
+            "region": "08",
+            "country": "EE",
+            "latitude": "59.12639",
+            "longitude": "26.25"
+        },
+        {
+            "city": "Vaida",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.29056",
+            "longitude": "24.96583"
+        },
+        {
+            "city": "Uuem\u00f5isa",
+            "region": "07",
+            "country": "EE",
+            "latitude": "58.93944",
+            "longitude": "23.58944"
+        },
+        {
+            "city": "\u00dclenurme",
+            "region": "18",
+            "country": "EE",
+            "latitude": "58.3162",
+            "longitude": "26.72517"
+        },
+        {
+            "city": "Tyuri",
+            "region": "04",
+            "country": "EE",
+            "latitude": "58.80861",
+            "longitude": "25.4325"
+        },
+        {
+            "city": "Turba",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.08306",
+            "longitude": "24.225"
+        },
+        {
+            "city": "T\u00f5rva",
+            "region": "19",
+            "country": "EE",
+            "latitude": "58.00278",
+            "longitude": "25.935"
+        },
+        {
+            "city": "Tootsi",
+            "region": "11",
+            "country": "EE",
+            "latitude": "58.57806",
+            "longitude": "24.7925"
+        },
+        {
+            "city": "Toila",
+            "region": "03",
+            "country": "EE",
+            "latitude": "59.42361",
+            "longitude": "27.5025"
+        },
+        {
+            "city": "Tartu",
+            "region": "18",
+            "country": "EE",
+            "latitude": "58.38062",
+            "longitude": "26.72509"
+        },
+        {
+            "city": "Tapa",
+            "region": "08",
+            "country": "EE",
+            "latitude": "59.26056",
+            "longitude": "25.95861"
+        },
+        {
+            "city": "Tamsalu",
+            "region": "08",
+            "country": "EE",
+            "latitude": "59.15861",
+            "longitude": "26.11528"
+        },
+        {
+            "city": "Tallinn",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.43696",
+            "longitude": "24.75353"
+        },
+        {
+            "city": "Tabasalu",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.43028",
+            "longitude": "24.53306"
+        },
+        {
+            "city": "Suure-Jaani",
+            "region": "20",
+            "country": "EE",
+            "latitude": "58.53611",
+            "longitude": "25.47056"
+        },
+        {
+            "city": "Sindi",
+            "region": "11",
+            "country": "EE",
+            "latitude": "58.40056",
+            "longitude": "24.6675"
+        },
+        {
+            "city": "Sillam\u00e4e",
+            "region": "03",
+            "country": "EE",
+            "latitude": "59.39972",
+            "longitude": "27.75472"
+        },
+        {
+            "city": "Sauga",
+            "region": "11",
+            "country": "EE",
+            "latitude": "58.4272",
+            "longitude": "24.49496"
+        },
+        {
+            "city": "Saue",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.32028",
+            "longitude": "24.5525"
+        },
+        {
+            "city": "S\u00e4revere",
+            "region": "04",
+            "country": "EE",
+            "latitude": "58.79",
+            "longitude": "25.42806"
+        },
+        {
+            "city": "Saku",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.30222",
+            "longitude": "24.65778"
+        },
+        {
+            "city": "Rummu",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.53528",
+            "longitude": "24.79972"
+        },
+        {
+            "city": "Riisipere",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.11417",
+            "longitude": "24.31056"
+        },
+        {
+            "city": "Rapla",
+            "region": "13",
+            "country": "EE",
+            "latitude": "59.00722",
+            "longitude": "24.79278"
+        },
+        {
+            "city": "R\u00e4pina",
+            "region": "12",
+            "country": "EE",
+            "latitude": "58.09806",
+            "longitude": "27.46361"
+        },
+        {
+            "city": "Rakvere",
+            "region": "08",
+            "country": "EE",
+            "latitude": "59.34639",
+            "longitude": "26.35583"
+        },
+        {
+            "city": "Rakke",
+            "region": "08",
+            "country": "EE",
+            "latitude": "58.98167",
+            "longitude": "26.25444"
+        },
+        {
+            "city": "Raasiku",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.36639",
+            "longitude": "25.18306"
+        },
+        {
+            "city": "P\u00fcssi",
+            "region": "03",
+            "country": "EE",
+            "latitude": "59.36",
+            "longitude": "27.04972"
+        },
+        {
+            "city": "Puhja",
+            "region": "18",
+            "country": "EE",
+            "latitude": "58.34194",
+            "longitude": "26.31472"
+        },
+        {
+            "city": "P\u00f5lva",
+            "region": "12",
+            "country": "EE",
+            "latitude": "58.06028",
+            "longitude": "27.06944"
+        },
+        {
+            "city": "P\u00f5ltsamaa",
+            "region": "05",
+            "country": "EE",
+            "latitude": "58.6525",
+            "longitude": "25.97056"
+        },
+        {
+            "city": "P\u00e4rnu-Jaagupi",
+            "region": "11",
+            "country": "EE",
+            "latitude": "58.61052",
+            "longitude": "24.50689"
+        },
+        {
+            "city": "P\u00e4rnu",
+            "region": "11",
+            "country": "EE",
+            "latitude": "58.38588",
+            "longitude": "24.49711"
+        },
+        {
+            "city": "Paldiski",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.35667",
+            "longitude": "24.05306"
+        },
+        {
+            "city": "Paikuse",
+            "region": "11",
+            "country": "EE",
+            "latitude": "58.37917",
+            "longitude": "24.63444"
+        },
+        {
+            "city": "Paide",
+            "region": "04",
+            "country": "EE",
+            "latitude": "58.88556",
+            "longitude": "25.55722"
+        },
+        {
+            "city": "Shloss",
+            "region": "19",
+            "country": "EE",
+            "latitude": "58.05833",
+            "longitude": "26.49667"
+        },
+        {
+            "city": "Orissaare",
+            "region": "14",
+            "country": "EE",
+            "latitude": "58.55917",
+            "longitude": "23.08262"
+        },
+        {
+            "city": "Karksi-Nuia",
+            "region": "20",
+            "country": "EE",
+            "latitude": "58.10333",
+            "longitude": "25.56278"
+        },
+        {
+            "city": "N\u00f5o",
+            "region": "18",
+            "country": "EE",
+            "latitude": "58.27556",
+            "longitude": "26.5375"
+        },
+        {
+            "city": "Narva-J\u00f5esuu",
+            "region": "03",
+            "country": "EE",
+            "latitude": "59.45889",
+            "longitude": "28.04083"
+        },
+        {
+            "city": "Narva",
+            "region": "03",
+            "country": "EE",
+            "latitude": "59.37722",
+            "longitude": "28.19028"
+        },
+        {
+            "city": "Mustvee",
+            "region": "05",
+            "country": "EE",
+            "latitude": "58.84861",
+            "longitude": "26.93972"
+        },
+        {
+            "city": "M\u00f5isak\u00fcla",
+            "region": "20",
+            "country": "EE",
+            "latitude": "58.09222",
+            "longitude": "25.18639"
+        },
+        {
+            "city": "M\u00e4rjamaa",
+            "region": "13",
+            "country": "EE",
+            "latitude": "58.90389",
+            "longitude": "24.43056"
+        },
+        {
+            "city": "Maardu",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.47667",
+            "longitude": "25.025"
+        },
+        {
+            "city": "Loo",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.43639",
+            "longitude": "24.94833"
+        },
+        {
+            "city": "Loksa",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.57639",
+            "longitude": "25.72139"
+        },
+        {
+            "city": "Lihula",
+            "region": "07",
+            "country": "EE",
+            "latitude": "58.68139",
+            "longitude": "23.84528"
+        },
+        {
+            "city": "Kuusalu",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.44389",
+            "longitude": "25.44139"
+        },
+        {
+            "city": "Kuressaare",
+            "region": "14",
+            "country": "EE",
+            "latitude": "58.24806",
+            "longitude": "22.50389"
+        },
+        {
+            "city": "Kunda",
+            "region": "08",
+            "country": "EE",
+            "latitude": "59.48417",
+            "longitude": "26.56111"
+        },
+        {
+            "city": "Kose",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.45806",
+            "longitude": "24.87833"
+        },
+        {
+            "city": "Kohtla-J\u00e4rve",
+            "region": "03",
+            "country": "EE",
+            "latitude": "59.39861",
+            "longitude": "27.27306"
+        },
+        {
+            "city": "Kohtla-N\u00f5mme",
+            "region": "03",
+            "country": "EE",
+            "latitude": "59.35167",
+            "longitude": "27.175"
+        },
+        {
+            "city": "Kohila",
+            "region": "13",
+            "country": "EE",
+            "latitude": "59.16806",
+            "longitude": "24.7575"
+        },
+        {
+            "city": "Koeru",
+            "region": "04",
+            "country": "EE",
+            "latitude": "58.96306",
+            "longitude": "26.03083"
+        },
+        {
+            "city": "Kivi\u00f5li",
+            "region": "03",
+            "country": "EE",
+            "latitude": "59.35306",
+            "longitude": "26.97111"
+        },
+        {
+            "city": "Kilingi-N\u00f5mme",
+            "region": "11",
+            "country": "EE",
+            "latitude": "58.15028",
+            "longitude": "24.96417"
+        },
+        {
+            "city": "Keila",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.30361",
+            "longitude": "24.41306"
+        },
+        {
+            "city": "Kehtna",
+            "region": "13",
+            "country": "EE",
+            "latitude": "58.93028",
+            "longitude": "24.87806"
+        },
+        {
+            "city": "Kehra",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.33611",
+            "longitude": "25.32111"
+        },
+        {
+            "city": "K\u00e4rdla",
+            "region": "02",
+            "country": "EE",
+            "latitude": "58.99778",
+            "longitude": "22.74917"
+        },
+        {
+            "city": "Kallaste",
+            "region": "18",
+            "country": "EE",
+            "latitude": "58.655",
+            "longitude": "27.15917"
+        },
+        {
+            "city": "Kadrina",
+            "region": "08",
+            "country": "EE",
+            "latitude": "59.33472",
+            "longitude": "26.145"
+        },
+        {
+            "city": "Yuri",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.35417",
+            "longitude": "24.89417"
+        },
+        {
+            "city": "J\u00f5hvi",
+            "region": "03",
+            "country": "EE",
+            "latitude": "59.35917",
+            "longitude": "27.42111"
+        },
+        {
+            "city": "J\u00f5geva",
+            "region": "05",
+            "country": "EE",
+            "latitude": "58.74667",
+            "longitude": "26.39389"
+        },
+        {
+            "city": "J\u00e4rvakandi",
+            "region": "13",
+            "country": "EE",
+            "latitude": "58.77889",
+            "longitude": "24.82583"
+        },
+        {
+            "city": "J\u00e4rva-Jaani",
+            "region": "04",
+            "country": "EE",
+            "latitude": "59.03861",
+            "longitude": "25.88639"
+        },
+        {
+            "city": "Haljala",
+            "region": "08",
+            "country": "EE",
+            "latitude": "59.43361",
+            "longitude": "26.26139"
+        },
+        {
+            "city": "Haapsalu",
+            "region": "07",
+            "country": "EE",
+            "latitude": "58.94306",
+            "longitude": "23.54139"
+        },
+        {
+            "city": "Haabneeme",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.51139",
+            "longitude": "24.82111"
+        },
+        {
+            "city": "Elva",
+            "region": "18",
+            "country": "EE",
+            "latitude": "58.2225",
+            "longitude": "26.42111"
+        },
+        {
+            "city": "Audru",
+            "region": "11",
+            "country": "EE",
+            "latitude": "58.40861",
+            "longitude": "24.37389"
+        },
+        {
+            "city": "Aseri",
+            "region": "03",
+            "country": "EE",
+            "latitude": "59.45056",
+            "longitude": "26.8675"
+        },
+        {
+            "city": "Aruk\u00fcla",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.36444",
+            "longitude": "25.07722"
+        },
+        {
+            "city": "Abja-Paluoja",
+            "region": "20",
+            "country": "EE",
+            "latitude": "58.12528",
+            "longitude": "25.34972"
+        },
+        {
+            "city": "S\u00f5meru",
+            "region": "08",
+            "country": "EE",
+            "latitude": "59.36111",
+            "longitude": "26.4375"
+        },
+        {
+            "city": "Tabivere",
+            "region": "05",
+            "country": "EE",
+            "latitude": "58.55417",
+            "longitude": "26.59556"
+        },
+        {
+            "city": "Laagri",
+            "region": "01",
+            "country": "EE",
+            "latitude": "59.35083",
+            "longitude": "24.61418"
+        }
+    ]
+}

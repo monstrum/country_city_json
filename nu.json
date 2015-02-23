@@ -1,0 +1,13 @@
+{
+    "country": "Niue",
+    "code": "NU",
+    "cities": [
+        {
+            "city": "Alofi",
+            "region": "00",
+            "country": "NU",
+            "latitude": "-19.05952",
+            "longitude": "-169.91867"
+        }
+    ]
+}

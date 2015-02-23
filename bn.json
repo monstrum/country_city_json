@@ -1,0 +1,41 @@
+{
+    "country": "Brunei Darussalam",
+    "code": "BN",
+    "cities": [
+        {
+            "city": "Tutong",
+            "region": "00",
+            "country": "BN",
+            "latitude": "4.8",
+            "longitude": "114.65"
+        },
+        {
+            "city": "Seria",
+            "region": "00",
+            "country": "BN",
+            "latitude": "4.61667",
+            "longitude": "114.31667"
+        },
+        {
+            "city": "Kuala Belait",
+            "region": "00",
+            "country": "BN",
+            "latitude": "4.58333",
+            "longitude": "114.18333"
+        },
+        {
+            "city": "Bangar",
+            "region": "00",
+            "country": "BN",
+            "latitude": "4.71667",
+            "longitude": "115.06667"
+        },
+        {
+            "city": "Bandar Seri Begawan",
+            "region": "02",
+            "country": "BN",
+            "latitude": "4.94029",
+            "longitude": "114.94806"
+        }
+    ]
+}

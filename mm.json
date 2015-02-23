@@ -1,0 +1,454 @@
+{
+    "country": "Myanmar",
+    "code": "MM",
+    "cities": [
+        {
+            "city": "Yenangyaung",
+            "region": "15",
+            "country": "MM",
+            "latitude": "20.46667",
+            "longitude": "94.88333"
+        },
+        {
+            "city": "Nyaungdon",
+            "region": "03",
+            "country": "MM",
+            "latitude": "17.03333",
+            "longitude": "95.65"
+        },
+        {
+            "city": "Yamethin",
+            "region": "08",
+            "country": "MM",
+            "latitude": "20.43333",
+            "longitude": "96.15"
+        },
+        {
+            "city": "Wakema",
+            "region": "03",
+            "country": "MM",
+            "latitude": "16.6",
+            "longitude": "95.18333"
+        },
+        {
+            "city": "Twante",
+            "region": "17",
+            "country": "MM",
+            "latitude": "16.71667",
+            "longitude": "95.93333"
+        },
+        {
+            "city": "Taungoo",
+            "region": "16",
+            "country": "MM",
+            "latitude": "18.93333",
+            "longitude": "96.43333"
+        },
+        {
+            "city": "Thongwa",
+            "region": "17",
+            "country": "MM",
+            "latitude": "16.76194",
+            "longitude": "96.52778"
+        },
+        {
+            "city": "Thayetmyo",
+            "region": "15",
+            "country": "MM",
+            "latitude": "19.31667",
+            "longitude": "95.18333"
+        },
+        {
+            "city": "Thaton",
+            "region": "13",
+            "country": "MM",
+            "latitude": "16.92056",
+            "longitude": "97.37139"
+        },
+        {
+            "city": "Tharyarwady",
+            "region": "16",
+            "country": "MM",
+            "latitude": "17.65",
+            "longitude": "95.8"
+        },
+        {
+            "city": "Thanatpin",
+            "region": "16",
+            "country": "MM",
+            "latitude": "17.3",
+            "longitude": "96.58333"
+        },
+        {
+            "city": "Thanatpin",
+            "region": "16",
+            "country": "MM",
+            "latitude": "17.21194",
+            "longitude": "96.30333"
+        },
+        {
+            "city": "Dawei",
+            "region": "12",
+            "country": "MM",
+            "latitude": "14.08333",
+            "longitude": "98.2"
+        },
+        {
+            "city": "Taunggyi",
+            "region": "11",
+            "country": "MM",
+            "latitude": "20.78333",
+            "longitude": "97.03333"
+        },
+        {
+            "city": "Taungdwingyi",
+            "region": "15",
+            "country": "MM",
+            "latitude": "20.01667",
+            "longitude": "95.55"
+        },
+        {
+            "city": "Syriam",
+            "region": "17",
+            "country": "MM",
+            "latitude": "16.77222",
+            "longitude": "96.23778"
+        },
+        {
+            "city": "Akyab",
+            "region": "01",
+            "country": "MM",
+            "latitude": "20.15",
+            "longitude": "92.9"
+        },
+        {
+            "city": "Shwebo",
+            "region": "10",
+            "country": "MM",
+            "latitude": "22.56667",
+            "longitude": "95.7"
+        },
+        {
+            "city": "Sagaing",
+            "region": "10",
+            "country": "MM",
+            "latitude": "21.8787",
+            "longitude": "95.97965"
+        },
+        {
+            "city": "Rangoon",
+            "region": "17",
+            "country": "MM",
+            "latitude": "16.80528",
+            "longitude": "96.15611"
+        },
+        {
+            "city": "Pyu",
+            "region": "16",
+            "country": "MM",
+            "latitude": "18.48333",
+            "longitude": "96.43333"
+        },
+        {
+            "city": "Pyinmana",
+            "region": "08",
+            "country": "MM",
+            "latitude": "19.73333",
+            "longitude": "96.21667"
+        },
+        {
+            "city": "Prome",
+            "region": "16",
+            "country": "MM",
+            "latitude": "18.81667",
+            "longitude": "95.21667"
+        },
+        {
+            "city": "Pyapon",
+            "region": "03",
+            "country": "MM",
+            "latitude": "16.28333",
+            "longitude": "95.68333"
+        },
+        {
+            "city": "Bago",
+            "region": "16",
+            "country": "MM",
+            "latitude": "17.33667",
+            "longitude": "96.47972"
+        },
+        {
+            "city": "Paungde",
+            "region": "16",
+            "country": "MM",
+            "latitude": "18.48333",
+            "longitude": "95.5"
+        },
+        {
+            "city": "Pakokku",
+            "region": "15",
+            "country": "MM",
+            "latitude": "21.33333",
+            "longitude": "95.1"
+        },
+        {
+            "city": "Hpa-an",
+            "region": "05",
+            "country": "MM",
+            "latitude": "16.89056",
+            "longitude": "97.63333"
+        },
+        {
+            "city": "Nyaunglebin",
+            "region": "16",
+            "country": "MM",
+            "latitude": "17.95",
+            "longitude": "96.73333"
+        },
+        {
+            "city": "Myitkyin\u0101",
+            "region": "04",
+            "country": "MM",
+            "latitude": "25.38333",
+            "longitude": "97.4"
+        },
+        {
+            "city": "Myingyan",
+            "region": "08",
+            "country": "MM",
+            "latitude": "21.46667",
+            "longitude": "95.38333"
+        },
+        {
+            "city": "Myanaung",
+            "region": "03",
+            "country": "MM",
+            "latitude": "18.28333",
+            "longitude": "95.31667"
+        },
+        {
+            "city": "Mudon",
+            "region": "13",
+            "country": "MM",
+            "latitude": "16.25778",
+            "longitude": "97.71639"
+        },
+        {
+            "city": "Mawlamyinegyunn",
+            "region": "03",
+            "country": "MM",
+            "latitude": "16.38333",
+            "longitude": "95.26667"
+        },
+        {
+            "city": "Mawlamyine",
+            "region": "13",
+            "country": "MM",
+            "latitude": "16.49139",
+            "longitude": "97.62556"
+        },
+        {
+            "city": "Monywa",
+            "region": "10",
+            "country": "MM",
+            "latitude": "22.11667",
+            "longitude": "95.13333"
+        },
+        {
+            "city": "Mogok",
+            "region": "10",
+            "country": "MM",
+            "latitude": "22.91667",
+            "longitude": "96.5"
+        },
+        {
+            "city": "Minbu",
+            "region": "15",
+            "country": "MM",
+            "latitude": "20.18333",
+            "longitude": "94.88333"
+        },
+        {
+            "city": "Myeik",
+            "region": "12",
+            "country": "MM",
+            "latitude": "12.43333",
+            "longitude": "98.6"
+        },
+        {
+            "city": "Meiktila",
+            "region": "08",
+            "country": "MM",
+            "latitude": "20.86667",
+            "longitude": "95.86667"
+        },
+        {
+            "city": "Maymyo",
+            "region": "08",
+            "country": "MM",
+            "latitude": "22.03333",
+            "longitude": "96.46667"
+        },
+        {
+            "city": "Mawlaik",
+            "region": "10",
+            "country": "MM",
+            "latitude": "23.63333",
+            "longitude": "94.41667"
+        },
+        {
+            "city": "Maubin",
+            "region": "03",
+            "country": "MM",
+            "latitude": "16.73333",
+            "longitude": "95.65"
+        },
+        {
+            "city": "Martaban",
+            "region": "13",
+            "country": "MM",
+            "latitude": "16.53139",
+            "longitude": "97.61111"
+        },
+        {
+            "city": "Mandalay",
+            "region": "08",
+            "country": "MM",
+            "latitude": "21.97473",
+            "longitude": "96.08359"
+        },
+        {
+            "city": "Magway",
+            "region": "15",
+            "country": "MM",
+            "latitude": "20.15",
+            "longitude": "94.91667"
+        },
+        {
+            "city": "Loikaw",
+            "region": "06",
+            "country": "MM",
+            "latitude": "19.67417",
+            "longitude": "97.20944"
+        },
+        {
+            "city": "Letpandan",
+            "region": "16",
+            "country": "MM",
+            "latitude": "17.78333",
+            "longitude": "95.75"
+        },
+        {
+            "city": "Lashio",
+            "region": "11",
+            "country": "MM",
+            "latitude": "22.93333",
+            "longitude": "97.75"
+        },
+        {
+            "city": "Kyaukse",
+            "region": "08",
+            "country": "MM",
+            "latitude": "21.6",
+            "longitude": "96.13333"
+        },
+        {
+            "city": "Kyaikto",
+            "region": "00",
+            "country": "MM",
+            "latitude": "17.3",
+            "longitude": "97.01667"
+        },
+        {
+            "city": "Kyaiklat",
+            "region": "03",
+            "country": "MM",
+            "latitude": "16.43333",
+            "longitude": "95.73333"
+        },
+        {
+            "city": "Kyaikkami",
+            "region": "13",
+            "country": "MM",
+            "latitude": "16.08",
+            "longitude": "97.5675"
+        },
+        {
+            "city": "Kayan",
+            "region": "17",
+            "country": "MM",
+            "latitude": "16.90556",
+            "longitude": "96.56306"
+        },
+        {
+            "city": "Kanbe",
+            "region": "10",
+            "country": "MM",
+            "latitude": "16.70528",
+            "longitude": "96.00167"
+        },
+        {
+            "city": "Hinthada",
+            "region": "03",
+            "country": "MM",
+            "latitude": "17.63333",
+            "longitude": "95.46667"
+        },
+        {
+            "city": "Haka",
+            "region": "02",
+            "country": "MM",
+            "latitude": "22.65",
+            "longitude": "93.61667"
+        },
+        {
+            "city": "Falam",
+            "region": "02",
+            "country": "MM",
+            "latitude": "22.91667",
+            "longitude": "93.68333"
+        },
+        {
+            "city": "Chauk",
+            "region": "15",
+            "country": "MM",
+            "latitude": "20.88333",
+            "longitude": "94.81667"
+        },
+        {
+            "city": "Bogale",
+            "region": "03",
+            "country": "MM",
+            "latitude": "16.28333",
+            "longitude": "95.4"
+        },
+        {
+            "city": "Bhamo",
+            "region": "04",
+            "country": "MM",
+            "latitude": "24.26667",
+            "longitude": "97.23333"
+        },
+        {
+            "city": "Pathein",
+            "region": "03",
+            "country": "MM",
+            "latitude": "16.78333",
+            "longitude": "94.73333"
+        },
+        {
+            "city": "Myaydo",
+            "region": "15",
+            "country": "MM",
+            "latitude": "19.36667",
+            "longitude": "95.21667"
+        },
+        {
+            "city": "Nay Pyi Taw",
+            "region": "08",
+            "country": "MM",
+            "latitude": "19.745",
+            "longitude": "96.12972"
+        }
+    ]
+}

@@ -1,0 +1,615 @@
+{
+    "country": "Saudi Arabia",
+    "code": "SA",
+    "cities": [
+        {
+            "city": "Yanbu\u2018 al Ba\u1e29r",
+            "region": "05",
+            "country": "SA",
+            "latitude": "24.08912",
+            "longitude": "38.06374"
+        },
+        {
+            "city": "Umm Lajj",
+            "region": "19",
+            "country": "SA",
+            "latitude": "25.02126",
+            "longitude": "37.2685"
+        },
+        {
+            "city": "Umm as S\u0101hik",
+            "region": "00",
+            "country": "SA",
+            "latitude": "26.65361",
+            "longitude": "49.91639"
+        },
+        {
+            "city": "\u0162urayf",
+            "region": "00",
+            "country": "SA",
+            "latitude": "31.67252",
+            "longitude": "38.66374"
+        },
+        {
+            "city": "Turabah",
+            "region": "14",
+            "country": "SA",
+            "latitude": "21.21406",
+            "longitude": "41.6331"
+        },
+        {
+            "city": "At T\u016bb\u012b",
+            "region": "06",
+            "country": "SA",
+            "latitude": "26.55778",
+            "longitude": "49.99167"
+        },
+        {
+            "city": "T\u0101r\u016bt",
+            "region": "00",
+            "country": "SA",
+            "latitude": "26.57332",
+            "longitude": "50.03694"
+        },
+        {
+            "city": "Tan\u016bmah",
+            "region": "00",
+            "country": "SA",
+            "latitude": "27.1",
+            "longitude": "44.13333"
+        },
+        {
+            "city": "Tab\u016bk",
+            "region": "19",
+            "country": "SA",
+            "latitude": "28.38333",
+            "longitude": "36.58333"
+        },
+        {
+            "city": "\u0162ubarjal",
+            "region": "20",
+            "country": "SA",
+            "latitude": "30.49987",
+            "longitude": "38.21603"
+        },
+        {
+            "city": "Tab\u0101lah",
+            "region": "00",
+            "country": "SA",
+            "latitude": "19.95",
+            "longitude": "42.4"
+        },
+        {
+            "city": "Sul\u0163\u0101nah",
+            "region": "05",
+            "country": "SA",
+            "latitude": "24.49258",
+            "longitude": "39.58572"
+        },
+        {
+            "city": "Sayh\u0101t",
+            "region": "06",
+            "country": "SA",
+            "latitude": "26.48522",
+            "longitude": "50.04046"
+        },
+        {
+            "city": "\u015e\u0101mitah",
+            "region": "17",
+            "country": "SA",
+            "latitude": "16.59601",
+            "longitude": "42.94435"
+        },
+        {
+            "city": "Sak\u0101k\u0101",
+            "region": "20",
+            "country": "SA",
+            "latitude": "29.96974",
+            "longitude": "40.20641"
+        },
+        {
+            "city": "\u015eafw\u00e1",
+            "region": "06",
+            "country": "SA",
+            "latitude": "26.64986",
+            "longitude": "49.95223"
+        },
+        {
+            "city": "\u015eaby\u0101",
+            "region": "17",
+            "country": "SA",
+            "latitude": "17.1495",
+            "longitude": "42.62537"
+        },
+        {
+            "city": "Ra\u1e29\u012bmah",
+            "region": "06",
+            "country": "SA",
+            "latitude": "26.70791",
+            "longitude": "50.06194"
+        },
+        {
+            "city": "R\u0101bigh",
+            "region": "14",
+            "country": "SA",
+            "latitude": "22.79856",
+            "longitude": "39.03493"
+        },
+        {
+            "city": "Qal\u2018at B\u012bshah",
+            "region": "00",
+            "country": "SA",
+            "latitude": "20.00054",
+            "longitude": "42.6052"
+        },
+        {
+            "city": "Najr\u0101n",
+            "region": "00",
+            "country": "SA",
+            "latitude": "17.4924",
+            "longitude": "44.12766"
+        },
+        {
+            "city": "Mulayjah",
+            "region": "00",
+            "country": "SA",
+            "latitude": "27.27103",
+            "longitude": "48.42419"
+        },
+        {
+            "city": "Misl\u012byah",
+            "region": "17",
+            "country": "SA",
+            "latitude": "17.45988",
+            "longitude": "42.5572"
+        },
+        {
+            "city": "Mar\u0101t",
+            "region": "00",
+            "country": "SA",
+            "latitude": "25.07007",
+            "longitude": "45.46147"
+        },
+        {
+            "city": "Mecca",
+            "region": "14",
+            "country": "SA",
+            "latitude": "21.42667",
+            "longitude": "39.82611"
+        },
+        {
+            "city": "Kham\u012bs Mushayt",
+            "region": "00",
+            "country": "SA",
+            "latitude": "18.30639",
+            "longitude": "42.72917"
+        },
+        {
+            "city": "Julayjilah",
+            "region": "06",
+            "country": "SA",
+            "latitude": "25.5",
+            "longitude": "49.6"
+        },
+        {
+            "city": "J\u012bz\u0101n",
+            "region": "17",
+            "country": "SA",
+            "latitude": "16.88917",
+            "longitude": "42.55111"
+        },
+        {
+            "city": "Jeddah",
+            "region": "14",
+            "country": "SA",
+            "latitude": "21.51694",
+            "longitude": "39.21917"
+        },
+        {
+            "city": "Hayil",
+            "region": "13",
+            "country": "SA",
+            "latitude": "27.52188",
+            "longitude": "41.69073"
+        },
+        {
+            "city": "Faras\u0101n",
+            "region": "17",
+            "country": "SA",
+            "latitude": "16.70222",
+            "longitude": "42.11833"
+        },
+        {
+            "city": "Zbe",
+            "region": "19",
+            "country": "SA",
+            "latitude": "27.35134",
+            "longitude": "35.69014"
+        },
+        {
+            "city": "Buraydah",
+            "region": "00",
+            "country": "SA",
+            "latitude": "26.32599",
+            "longitude": "43.97497"
+        },
+        {
+            "city": "Abqaiq",
+            "region": "06",
+            "country": "SA",
+            "latitude": "25.9371",
+            "longitude": "49.67761"
+        },
+        {
+            "city": "Badr \u1e28unayn",
+            "region": "05",
+            "country": "SA",
+            "latitude": "23.78292",
+            "longitude": "38.79047"
+        },
+        {
+            "city": "Az Zulfi",
+            "region": "00",
+            "country": "SA",
+            "latitude": "26.29945",
+            "longitude": "44.81542"
+        },
+        {
+            "city": "Dhahran",
+            "region": "06",
+            "country": "SA",
+            "latitude": "26.30324",
+            "longitude": "50.13528"
+        },
+        {
+            "city": "A\u0163 \u0162araf",
+            "region": "06",
+            "country": "SA",
+            "latitude": "25.36276",
+            "longitude": "49.72504"
+        },
+        {
+            "city": "Tayif",
+            "region": "14",
+            "country": "SA",
+            "latitude": "21.27028",
+            "longitude": "40.41583"
+        },
+        {
+            "city": "As Sulayyil",
+            "region": "10",
+            "country": "SA",
+            "latitude": "20.46067",
+            "longitude": "45.57792"
+        },
+        {
+            "city": "S\u0101jir",
+            "region": "10",
+            "country": "SA",
+            "latitude": "25.18251",
+            "longitude": "44.59964"
+        },
+        {
+            "city": "As Saff\u0101n\u012byah",
+            "region": "06",
+            "country": "SA",
+            "latitude": "27.97083",
+            "longitude": "48.73"
+        },
+        {
+            "city": "Riyadh",
+            "region": "10",
+            "country": "SA",
+            "latitude": "24.68773",
+            "longitude": "46.72185"
+        },
+        {
+            "city": "Ar Rass",
+            "region": "08",
+            "country": "SA",
+            "latitude": "25.86944",
+            "longitude": "43.4973"
+        },
+        {
+            "city": "\u2018Ar\u2018ar",
+            "region": "15",
+            "country": "SA",
+            "latitude": "30.97531",
+            "longitude": "41.03808"
+        },
+        {
+            "city": "An Nim\u0101\u015f",
+            "region": "00",
+            "country": "SA",
+            "latitude": "19.14547",
+            "longitude": "42.1201"
+        },
+        {
+            "city": "Al Qurayy\u0101t",
+            "region": "20",
+            "country": "SA",
+            "latitude": "31.33176",
+            "longitude": "37.34282"
+        },
+        {
+            "city": "Al Wajh",
+            "region": "19",
+            "country": "SA",
+            "latitude": "26.24551",
+            "longitude": "36.45248"
+        },
+        {
+            "city": "Al Qurayn",
+            "region": "06",
+            "country": "SA",
+            "latitude": "25.48333",
+            "longitude": "49.6"
+        },
+        {
+            "city": "Al Qay\u015f\u016bmah",
+            "region": "00",
+            "country": "SA",
+            "latitude": "28.31117",
+            "longitude": "46.12729"
+        },
+        {
+            "city": "Al Qa\u0163\u012bf",
+            "region": "00",
+            "country": "SA",
+            "latitude": "26.5208",
+            "longitude": "50.02452"
+        },
+        {
+            "city": "Al Q\u0101rah",
+            "region": "06",
+            "country": "SA",
+            "latitude": "25.41667",
+            "longitude": "49.66667"
+        },
+        {
+            "city": "Al Mu\u0163ayrif\u012b",
+            "region": "06",
+            "country": "SA",
+            "latitude": "25.47879",
+            "longitude": "49.55763"
+        },
+        {
+            "city": "Al Munayzilah",
+            "region": "06",
+            "country": "SA",
+            "latitude": "25.38333",
+            "longitude": "49.66667"
+        },
+        {
+            "city": "Al Mubarraz",
+            "region": "06",
+            "country": "SA",
+            "latitude": "25.41",
+            "longitude": "49.58083"
+        },
+        {
+            "city": "Al Mindak",
+            "region": "00",
+            "country": "SA",
+            "latitude": "20.1588",
+            "longitude": "41.28337"
+        },
+        {
+            "city": "Al Markaz",
+            "region": "06",
+            "country": "SA",
+            "latitude": "25.4",
+            "longitude": "49.73333"
+        },
+        {
+            "city": "Medina",
+            "region": "05",
+            "country": "SA",
+            "latitude": "24.46861",
+            "longitude": "39.61417"
+        },
+        {
+            "city": "Al Khubar",
+            "region": "06",
+            "country": "SA",
+            "latitude": "26.27944",
+            "longitude": "50.20833"
+        },
+        {
+            "city": "Al Khafj\u012b",
+            "region": "06",
+            "country": "SA",
+            "latitude": "28.43905",
+            "longitude": "48.49132"
+        },
+        {
+            "city": "Al Jum\u016bm",
+            "region": "14",
+            "country": "SA",
+            "latitude": "21.61694",
+            "longitude": "39.69806"
+        },
+        {
+            "city": "Al Jubayl",
+            "region": "06",
+            "country": "SA",
+            "latitude": "27.01122",
+            "longitude": "49.65826"
+        },
+        {
+            "city": "Al Jubayl",
+            "region": "06",
+            "country": "SA",
+            "latitude": "25.4",
+            "longitude": "49.65"
+        },
+        {
+            "city": "Al Jar\u0101d\u012byah",
+            "region": "17",
+            "country": "SA",
+            "latitude": "16.57946",
+            "longitude": "42.9124"
+        },
+        {
+            "city": "Al Jafr",
+            "region": "06",
+            "country": "SA",
+            "latitude": "25.37694",
+            "longitude": "49.72361"
+        },
+        {
+            "city": "Al Huf\u016bf",
+            "region": "06",
+            "country": "SA",
+            "latitude": "25.36457",
+            "longitude": "49.56532"
+        },
+        {
+            "city": "Al Bukayr\u012byah",
+            "region": "00",
+            "country": "SA",
+            "latitude": "26.14422",
+            "longitude": "43.65933"
+        },
+        {
+            "city": "Al Ba\u0163\u0163\u0101l\u012byah",
+            "region": "06",
+            "country": "SA",
+            "latitude": "25.43333",
+            "longitude": "49.63333"
+        },
+        {
+            "city": "Al B\u0101\u1e29ah",
+            "region": "00",
+            "country": "SA",
+            "latitude": "20.01288",
+            "longitude": "41.46767"
+        },
+        {
+            "city": "Al Ar\u0163\u0101w\u012byah",
+            "region": "10",
+            "country": "SA",
+            "latitude": "26.50526",
+            "longitude": "45.34437"
+        },
+        {
+            "city": "Al Awj\u0101m",
+            "region": "00",
+            "country": "SA",
+            "latitude": "26.56324",
+            "longitude": "49.94331"
+        },
+        {
+            "city": "\u2018Af\u012bf",
+            "region": "10",
+            "country": "SA",
+            "latitude": "23.9065",
+            "longitude": "42.91724"
+        },
+        {
+            "city": "Ad Dilam",
+            "region": "10",
+            "country": "SA",
+            "latitude": "23.99146",
+            "longitude": "47.16266"
+        },
+        {
+            "city": "Ad Daw\u0101dim\u012b",
+            "region": "00",
+            "country": "SA",
+            "latitude": "24.50772",
+            "longitude": "44.39237"
+        },
+        {
+            "city": "Ad Darb",
+            "region": "00",
+            "country": "SA",
+            "latitude": "17.72285",
+            "longitude": "42.25261"
+        },
+        {
+            "city": "Ad Damm\u0101m",
+            "region": "06",
+            "country": "SA",
+            "latitude": "26.43442",
+            "longitude": "50.10326"
+        },
+        {
+            "city": "Ab\u016b \u2018Ar\u012bsh",
+            "region": "17",
+            "country": "SA",
+            "latitude": "16.96887",
+            "longitude": "42.83251"
+        },
+        {
+            "city": "Abh\u0101",
+            "region": "11",
+            "country": "SA",
+            "latitude": "18.21639",
+            "longitude": "42.50528"
+        },
+        {
+            "city": "\u1e28ajrat al Khinbish",
+            "region": "00",
+            "country": "SA",
+            "latitude": "27.78248",
+            "longitude": "45.03675"
+        },
+        {
+            "city": "\u015euwayr",
+            "region": "20",
+            "country": "SA",
+            "latitude": "30.11713",
+            "longitude": "40.38925"
+        },
+        {
+            "city": "Tumayr",
+            "region": "10",
+            "country": "SA",
+            "latitude": "25.70393",
+            "longitude": "45.86796"
+        },
+        {
+            "city": "Al Fuwayliq",
+            "region": "00",
+            "country": "SA",
+            "latitude": "26.44322",
+            "longitude": "43.2534"
+        },
+        {
+            "city": "Al Maj\u0101ridah",
+            "region": "00",
+            "country": "SA",
+            "latitude": "19.12361",
+            "longitude": "41.91111"
+        },
+        {
+            "city": "Al Muwayh",
+            "region": "14",
+            "country": "SA",
+            "latitude": "22.43333",
+            "longitude": "41.75829"
+        },
+        {
+            "city": "Al Had\u0101",
+            "region": "14",
+            "country": "SA",
+            "latitude": "21.36753",
+            "longitude": "40.28694"
+        },
+        {
+            "city": "Mizhirah",
+            "region": "17",
+            "country": "SA",
+            "latitude": "16.82611",
+            "longitude": "42.73333"
+        },
+        {
+            "city": "shokhaib\u064d",
+            "region": "10",
+            "country": "SA",
+            "latitude": "24.49023",
+            "longitude": "46.26871"
+        }
+    ]
+}

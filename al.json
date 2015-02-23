@@ -1,0 +1,433 @@
+{
+    "country": "Albania",
+    "code": "AL",
+    "cities": [
+        {
+            "city": "Sarand\u00eb",
+            "region": "51",
+            "country": "AL",
+            "latitude": "39.87556",
+            "longitude": "20.00528"
+        },
+        {
+            "city": "Konispol",
+            "region": "51",
+            "country": "AL",
+            "latitude": "39.65889",
+            "longitude": "20.18139"
+        },
+        {
+            "city": "Delvin\u00eb",
+            "region": "51",
+            "country": "AL",
+            "latitude": "39.95111",
+            "longitude": "20.09778"
+        },
+        {
+            "city": "Tepelen\u00eb",
+            "region": "45",
+            "country": "AL",
+            "latitude": "40.29583",
+            "longitude": "20.01917"
+        },
+        {
+            "city": "P\u00ebrrenjas-Fshat",
+            "region": "43",
+            "country": "AL",
+            "latitude": "41.06667",
+            "longitude": "20.53528"
+        },
+        {
+            "city": "Poli\u00e7an",
+            "region": "40",
+            "country": "AL",
+            "latitude": "40.61222",
+            "longitude": "20.09806"
+        },
+        {
+            "city": "Peshkopi",
+            "region": "41",
+            "country": "AL",
+            "latitude": "41.685",
+            "longitude": "20.42889"
+        },
+        {
+            "city": "P\u00ebrmet",
+            "region": "45",
+            "country": "AL",
+            "latitude": "40.23361",
+            "longitude": "20.35167"
+        },
+        {
+            "city": "Maliq",
+            "region": "46",
+            "country": "AL",
+            "latitude": "40.70583",
+            "longitude": "20.69972"
+        },
+        {
+            "city": "Libohov\u00eb",
+            "region": "45",
+            "country": "AL",
+            "latitude": "40.03111",
+            "longitude": "20.26306"
+        },
+        {
+            "city": "Leskovik",
+            "region": "46",
+            "country": "AL",
+            "latitude": "40.15139",
+            "longitude": "20.59722"
+        },
+        {
+            "city": "Kurbnesh",
+            "region": "48",
+            "country": "AL",
+            "latitude": "41.77972",
+            "longitude": "20.08361"
+        },
+        {
+            "city": "Kuk\u00ebs",
+            "region": "47",
+            "country": "AL",
+            "latitude": "42.07694",
+            "longitude": "20.42194"
+        },
+        {
+            "city": "Kor\u00e7\u00eb",
+            "region": "46",
+            "country": "AL",
+            "latitude": "40.61861",
+            "longitude": "20.78083"
+        },
+        {
+            "city": "K\u00eblcyr\u00eb",
+            "region": "45",
+            "country": "AL",
+            "latitude": "40.31306",
+            "longitude": "20.18944"
+        },
+        {
+            "city": "Gramsh",
+            "region": "43",
+            "country": "AL",
+            "latitude": "40.86972",
+            "longitude": "20.18444"
+        },
+        {
+            "city": "Gjirokast\u00ebr",
+            "region": "45",
+            "country": "AL",
+            "latitude": "40.07583",
+            "longitude": "20.13889"
+        },
+        {
+            "city": "Fush\u00eb-Arr\u00ebz",
+            "region": "49",
+            "country": "AL",
+            "latitude": "42.06222",
+            "longitude": "20.01667"
+        },
+        {
+            "city": "Ersek\u00eb",
+            "region": "46",
+            "country": "AL",
+            "latitude": "40.33778",
+            "longitude": "20.67889"
+        },
+        {
+            "city": "Elbasan",
+            "region": "43",
+            "country": "AL",
+            "latitude": "41.1125",
+            "longitude": "20.08222"
+        },
+        {
+            "city": "\u00c7orovod\u00eb",
+            "region": "40",
+            "country": "AL",
+            "latitude": "40.50417",
+            "longitude": "20.22722"
+        },
+        {
+            "city": "Burrel",
+            "region": "41",
+            "country": "AL",
+            "latitude": "41.61028",
+            "longitude": "20.00889"
+        },
+        {
+            "city": "Bulqiz\u00eb",
+            "region": "41",
+            "country": "AL",
+            "latitude": "41.49167",
+            "longitude": "20.22194"
+        },
+        {
+            "city": "Bilisht",
+            "region": "46",
+            "country": "AL",
+            "latitude": "40.6275",
+            "longitude": "20.99"
+        },
+        {
+            "city": "Librazhd-Qend\u00ebr",
+            "region": "43",
+            "country": "AL",
+            "latitude": "41.19694",
+            "longitude": "20.33556"
+        },
+        {
+            "city": "Vor\u00eb",
+            "region": "50",
+            "country": "AL",
+            "latitude": "41.39083",
+            "longitude": "19.655"
+        },
+        {
+            "city": "Vlor\u00eb",
+            "region": "51",
+            "country": "AL",
+            "latitude": "40.46667",
+            "longitude": "19.48972"
+        },
+        {
+            "city": "Ura Vajgurore",
+            "region": "40",
+            "country": "AL",
+            "latitude": "40.76889",
+            "longitude": "19.87778"
+        },
+        {
+            "city": "Tirana",
+            "region": "50",
+            "country": "AL",
+            "latitude": "41.3275",
+            "longitude": "19.81889"
+        },
+        {
+            "city": "Shkod\u00ebr",
+            "region": "49",
+            "country": "AL",
+            "latitude": "42.06828",
+            "longitude": "19.51258"
+        },
+        {
+            "city": "Shijak",
+            "region": "42",
+            "country": "AL",
+            "latitude": "41.34556",
+            "longitude": "19.56722"
+        },
+        {
+            "city": "Sh\u00ebngjin",
+            "region": "48",
+            "country": "AL",
+            "latitude": "41.81361",
+            "longitude": "19.59389"
+        },
+        {
+            "city": "Selenic\u00eb",
+            "region": "51",
+            "country": "AL",
+            "latitude": "40.53056",
+            "longitude": "19.63583"
+        },
+        {
+            "city": "Rubik",
+            "region": "48",
+            "country": "AL",
+            "latitude": "41.77444",
+            "longitude": "19.78611"
+        },
+        {
+            "city": "Rrogozhin\u00eb",
+            "region": "50",
+            "country": "AL",
+            "latitude": "41.07639",
+            "longitude": "19.66528"
+        },
+        {
+            "city": "Rr\u00ebshen",
+            "region": "48",
+            "country": "AL",
+            "latitude": "41.7675",
+            "longitude": "19.87556"
+        },
+        {
+            "city": "Roskovec",
+            "region": "44",
+            "country": "AL",
+            "latitude": "40.7375",
+            "longitude": "19.70222"
+        },
+        {
+            "city": "Puk\u00eb",
+            "region": "49",
+            "country": "AL",
+            "latitude": "42.04444",
+            "longitude": "19.89972"
+        },
+        {
+            "city": "Peqin",
+            "region": "43",
+            "country": "AL",
+            "latitude": "41.04611",
+            "longitude": "19.75111"
+        },
+        {
+            "city": "Patos Fshat",
+            "region": "44",
+            "country": "AL",
+            "latitude": "40.64278",
+            "longitude": "19.65083"
+        },
+        {
+            "city": "Orikum",
+            "region": "51",
+            "country": "AL",
+            "latitude": "40.32528",
+            "longitude": "19.47139"
+        },
+        {
+            "city": "Milot",
+            "region": "48",
+            "country": "AL",
+            "latitude": "41.68389",
+            "longitude": "19.71556"
+        },
+        {
+            "city": "Memaliaj",
+            "region": "45",
+            "country": "AL",
+            "latitude": "40.35167",
+            "longitude": "19.98028"
+        },
+        {
+            "city": "Mamurras",
+            "region": "48",
+            "country": "AL",
+            "latitude": "41.5775",
+            "longitude": "19.69222"
+        },
+        {
+            "city": "Lushnj\u00eb",
+            "region": "44",
+            "country": "AL",
+            "latitude": "40.94194",
+            "longitude": "19.705"
+        },
+        {
+            "city": "Lezh\u00eb",
+            "region": "48",
+            "country": "AL",
+            "latitude": "41.78361",
+            "longitude": "19.64361"
+        },
+        {
+            "city": "La\u00e7",
+            "region": "48",
+            "country": "AL",
+            "latitude": "41.63556",
+            "longitude": "19.71306"
+        },
+        {
+            "city": "Ku\u00e7ov\u00eb",
+            "region": "40",
+            "country": "AL",
+            "latitude": "40.80028",
+            "longitude": "19.91667"
+        },
+        {
+            "city": "Kruj\u00eb",
+            "region": "42",
+            "country": "AL",
+            "latitude": "41.50917",
+            "longitude": "19.79278"
+        },
+        {
+            "city": "Krrab\u00eb",
+            "region": "50",
+            "country": "AL",
+            "latitude": "41.21556",
+            "longitude": "19.97139"
+        },
+        {
+            "city": "Koplik",
+            "region": "49",
+            "country": "AL",
+            "latitude": "42.21361",
+            "longitude": "19.43639"
+        },
+        {
+            "city": "Kavaj\u00eb",
+            "region": "50",
+            "country": "AL",
+            "latitude": "41.18556",
+            "longitude": "19.55694"
+        },
+        {
+            "city": "Kam\u00ebz",
+            "region": "50",
+            "country": "AL",
+            "latitude": "41.38167",
+            "longitude": "19.76028"
+        },
+        {
+            "city": "Himar\u00eb",
+            "region": "51",
+            "country": "AL",
+            "latitude": "40.10167",
+            "longitude": "19.74472"
+        },
+        {
+            "city": "Fush\u00eb-Kruj\u00eb",
+            "region": "42",
+            "country": "AL",
+            "latitude": "41.47833",
+            "longitude": "19.71778"
+        },
+        {
+            "city": "Fier-\u00c7if\u00e7i",
+            "region": "44",
+            "country": "AL",
+            "latitude": "40.71667",
+            "longitude": "19.56667"
+        },
+        {
+            "city": "Fier",
+            "region": "44",
+            "country": "AL",
+            "latitude": "40.72389",
+            "longitude": "19.55611"
+        },
+        {
+            "city": "Durr\u00ebs",
+            "region": "42",
+            "country": "AL",
+            "latitude": "41.32306",
+            "longitude": "19.44139"
+        },
+        {
+            "city": "C\u00ebrrik",
+            "region": "43",
+            "country": "AL",
+            "latitude": "41.03167",
+            "longitude": "19.97583"
+        },
+        {
+            "city": "Berat",
+            "region": "40",
+            "country": "AL",
+            "latitude": "40.70583",
+            "longitude": "19.95222"
+        },
+        {
+            "city": "Ballsh",
+            "region": "44",
+            "country": "AL",
+            "latitude": "40.59889",
+            "longitude": "19.73472"
+        }
+    ]
+}

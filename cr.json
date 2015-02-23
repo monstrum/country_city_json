@@ -1,0 +1,839 @@
+{
+    "country": "Costa Rica",
+    "code": "CR",
+    "cities": [
+        {
+            "city": "Zarcero",
+            "region": "01",
+            "country": "CR",
+            "latitude": "10.18561",
+            "longitude": "-84.39076"
+        },
+        {
+            "city": "Upala",
+            "region": "01",
+            "country": "CR",
+            "latitude": "10.89792",
+            "longitude": "-85.01454"
+        },
+        {
+            "city": "Turrialba",
+            "region": "02",
+            "country": "CR",
+            "latitude": "9.90467",
+            "longitude": "-83.68352"
+        },
+        {
+            "city": "Tucurrique",
+            "region": "02",
+            "country": "CR",
+            "latitude": "9.85336",
+            "longitude": "-83.72273"
+        },
+        {
+            "city": "Tres R\u00edos",
+            "region": "02",
+            "country": "CR",
+            "latitude": "9.90644",
+            "longitude": "-83.9876"
+        },
+        {
+            "city": "Tobos\u00ed",
+            "region": "02",
+            "country": "CR",
+            "latitude": "9.83837",
+            "longitude": "-83.98391"
+        },
+        {
+            "city": "Tilar\u00e1n",
+            "region": "03",
+            "country": "CR",
+            "latitude": "10.47029",
+            "longitude": "-84.96709"
+        },
+        {
+            "city": "Tejar",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.74622",
+            "longitude": "-84.23368"
+        },
+        {
+            "city": "Sixaola",
+            "region": "06",
+            "country": "CR",
+            "latitude": "9.52766",
+            "longitude": "-82.62185"
+        },
+        {
+            "city": "Siquirres",
+            "region": "06",
+            "country": "CR",
+            "latitude": "10.09748",
+            "longitude": "-83.50659"
+        },
+        {
+            "city": "Sardinal",
+            "region": "03",
+            "country": "CR",
+            "latitude": "10.51674",
+            "longitude": "-85.64748"
+        },
+        {
+            "city": "San Vito",
+            "region": "07",
+            "country": "CR",
+            "latitude": "8.82079",
+            "longitude": "-82.97092"
+        },
+        {
+            "city": "San Vicente",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.96016",
+            "longitude": "-84.04762"
+        },
+        {
+            "city": "Santo Domingo",
+            "region": "04",
+            "country": "CR",
+            "latitude": "10.06388",
+            "longitude": "-84.15499"
+        },
+        {
+            "city": "Santiago",
+            "region": "01",
+            "country": "CR",
+            "latitude": "10.02275",
+            "longitude": "-84.4442"
+        },
+        {
+            "city": "Santiago",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.84636",
+            "longitude": "-84.31428"
+        },
+        {
+            "city": "Santa Cruz",
+            "region": "03",
+            "country": "CR",
+            "latitude": "10.26053",
+            "longitude": "-85.5851"
+        },
+        {
+            "city": "Santa Ana",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.9326",
+            "longitude": "-84.18254"
+        },
+        {
+            "city": "San Ram\u00f3n",
+            "region": "01",
+            "country": "CR",
+            "latitude": "10.08802",
+            "longitude": "-84.47022"
+        },
+        {
+            "city": "San Rafael Arriba",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.87556",
+            "longitude": "-84.07661"
+        },
+        {
+            "city": "San Rafael Abajo",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.831",
+            "longitude": "-84.29008"
+        },
+        {
+            "city": "San Rafael",
+            "region": "01",
+            "country": "CR",
+            "latitude": "10.06403",
+            "longitude": "-84.47281"
+        },
+        {
+            "city": "San Rafael",
+            "region": "04",
+            "country": "CR",
+            "latitude": "10.0132",
+            "longitude": "-84.10016"
+        },
+        {
+            "city": "San Rafael",
+            "region": "01",
+            "country": "CR",
+            "latitude": "9.97454",
+            "longitude": "-84.20974"
+        },
+        {
+            "city": "San Rafael",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.92787",
+            "longitude": "-84.13722"
+        },
+        {
+            "city": "San Pedro",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.92829",
+            "longitude": "-84.05074"
+        },
+        {
+            "city": "San Pablo",
+            "region": "04",
+            "country": "CR",
+            "latitude": "9.99559",
+            "longitude": "-84.09656"
+        },
+        {
+            "city": "San Miguel",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.87121",
+            "longitude": "-84.06084"
+        },
+        {
+            "city": "San Marcos",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.6601",
+            "longitude": "-84.02026"
+        },
+        {
+            "city": "San Juan de Dios",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.8773",
+            "longitude": "-84.0847"
+        },
+        {
+            "city": "San Juan",
+            "region": "01",
+            "country": "CR",
+            "latitude": "10.10248",
+            "longitude": "-84.31694"
+        },
+        {
+            "city": "San Juan",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.95974",
+            "longitude": "-84.08165"
+        },
+        {
+            "city": "San Josecito",
+            "region": "04",
+            "country": "CR",
+            "latitude": "10.01667",
+            "longitude": "-84.1"
+        },
+        {
+            "city": "San Jos\u00e9",
+            "region": "01",
+            "country": "CR",
+            "latitude": "10.95173",
+            "longitude": "-85.1361"
+        },
+        {
+            "city": "San Jos\u00e9",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.93333",
+            "longitude": "-84.08333"
+        },
+        {
+            "city": "San Isidro",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.3721",
+            "longitude": "-83.70399"
+        },
+        {
+            "city": "San Ignacio",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.79853",
+            "longitude": "-84.16173"
+        },
+        {
+            "city": "San Francisco",
+            "region": "04",
+            "country": "CR",
+            "latitude": "9.99299",
+            "longitude": "-84.12934"
+        },
+        {
+            "city": "San Felipe",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.90488",
+            "longitude": "-84.10551"
+        },
+        {
+            "city": "San Diego",
+            "region": "02",
+            "country": "CR",
+            "latitude": "9.89898",
+            "longitude": "-84.00287"
+        },
+        {
+            "city": "San Antonio",
+            "region": "04",
+            "country": "CR",
+            "latitude": "9.98333",
+            "longitude": "-84.18333"
+        },
+        {
+            "city": "S\u00e1mara",
+            "region": "03",
+            "country": "CR",
+            "latitude": "9.8824",
+            "longitude": "-85.52665"
+        },
+        {
+            "city": "Salitrillos",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.85259",
+            "longitude": "-84.09062"
+        },
+        {
+            "city": "Salitral",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.91163",
+            "longitude": "-84.17835"
+        },
+        {
+            "city": "Sabanilla",
+            "region": "01",
+            "country": "CR",
+            "latitude": "10.07404",
+            "longitude": "-84.21551"
+        },
+        {
+            "city": "Sabanilla",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.94522",
+            "longitude": "-84.03926"
+        },
+        {
+            "city": "Roxana",
+            "region": "06",
+            "country": "CR",
+            "latitude": "10.27528",
+            "longitude": "-83.75133"
+        },
+        {
+            "city": "R\u00edo Segundo",
+            "region": "01",
+            "country": "CR",
+            "latitude": "10.24138",
+            "longitude": "-84.27933"
+        },
+        {
+            "city": "Quesada",
+            "region": "01",
+            "country": "CR",
+            "latitude": "10.32381",
+            "longitude": "-84.42714"
+        },
+        {
+            "city": "Quepos",
+            "region": "07",
+            "country": "CR",
+            "latitude": "9.42357",
+            "longitude": "-84.16522"
+        },
+        {
+            "city": "Purral",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.95808",
+            "longitude": "-84.0305"
+        },
+        {
+            "city": "Puntarenas",
+            "region": "07",
+            "country": "CR",
+            "latitude": "9.97625",
+            "longitude": "-84.83836"
+        },
+        {
+            "city": "Puerto Lim\u00f3n",
+            "region": "06",
+            "country": "CR",
+            "latitude": "10",
+            "longitude": "-83.03333"
+        },
+        {
+            "city": "Pocosol",
+            "region": "01",
+            "country": "CR",
+            "latitude": "10.36667",
+            "longitude": "-84.61667"
+        },
+        {
+            "city": "Pocora",
+            "region": "06",
+            "country": "CR",
+            "latitude": "10.17185",
+            "longitude": "-83.60439"
+        },
+        {
+            "city": "Pital",
+            "region": "01",
+            "country": "CR",
+            "latitude": "10.45056",
+            "longitude": "-84.27406"
+        },
+        {
+            "city": "Pejibaye",
+            "region": "02",
+            "country": "CR",
+            "latitude": "9.81135",
+            "longitude": "-83.70336"
+        },
+        {
+            "city": "Patarr\u00e1",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.88071",
+            "longitude": "-84.03501"
+        },
+        {
+            "city": "Parrita",
+            "region": "07",
+            "country": "CR",
+            "latitude": "9.52012",
+            "longitude": "-84.32249"
+        },
+        {
+            "city": "Para\u00edso",
+            "region": "02",
+            "country": "CR",
+            "latitude": "9.83832",
+            "longitude": "-83.86556"
+        },
+        {
+            "city": "Paquera",
+            "region": "07",
+            "country": "CR",
+            "latitude": "9.82005",
+            "longitude": "-84.93513"
+        },
+        {
+            "city": "Palmichal",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.83778",
+            "longitude": "-84.20478"
+        },
+        {
+            "city": "Pacayas",
+            "region": "02",
+            "country": "CR",
+            "latitude": "9.80709",
+            "longitude": "-84.04764"
+        },
+        {
+            "city": "Orotina",
+            "region": "01",
+            "country": "CR",
+            "latitude": "9.91197",
+            "longitude": "-84.52337"
+        },
+        {
+            "city": "Oros\u00ed",
+            "region": "02",
+            "country": "CR",
+            "latitude": "9.79617",
+            "longitude": "-83.85383"
+        },
+        {
+            "city": "Nicoya",
+            "region": "03",
+            "country": "CR",
+            "latitude": "10.14828",
+            "longitude": "-85.45201"
+        },
+        {
+            "city": "Naranjo",
+            "region": "01",
+            "country": "CR",
+            "latitude": "10.09866",
+            "longitude": "-84.37824"
+        },
+        {
+            "city": "Nandayure",
+            "region": "03",
+            "country": "CR",
+            "latitude": "10.03333",
+            "longitude": "-85.2"
+        },
+        {
+            "city": "Miramar",
+            "region": "07",
+            "country": "CR",
+            "latitude": "10.0925",
+            "longitude": "-84.72978"
+        },
+        {
+            "city": "Mercedes",
+            "region": "04",
+            "country": "CR",
+            "latitude": "10.00696",
+            "longitude": "-84.13396"
+        },
+        {
+            "city": "Mercedes",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.2627",
+            "longitude": "-83.58202"
+        },
+        {
+            "city": "Matina",
+            "region": "06",
+            "country": "CR",
+            "latitude": "10.07609",
+            "longitude": "-83.28953"
+        },
+        {
+            "city": "Los Chiles",
+            "region": "01",
+            "country": "CR",
+            "latitude": "11.03333",
+            "longitude": "-84.71667"
+        },
+        {
+            "city": "Llorente",
+            "region": "04",
+            "country": "CR",
+            "latitude": "9.99844",
+            "longitude": "-84.15448"
+        },
+        {
+            "city": "Liberia",
+            "region": "03",
+            "country": "CR",
+            "latitude": "10.63504",
+            "longitude": "-85.43772"
+        },
+        {
+            "city": "La Suiza",
+            "region": "02",
+            "country": "CR",
+            "latitude": "9.85238",
+            "longitude": "-83.61331"
+        },
+        {
+            "city": "La Cruz",
+            "region": "03",
+            "country": "CR",
+            "latitude": "11.07377",
+            "longitude": "-85.63272"
+        },
+        {
+            "city": "La Asunci\u00f3n",
+            "region": "04",
+            "country": "CR",
+            "latitude": "9.97961",
+            "longitude": "-84.17281"
+        },
+        {
+            "city": "Juntas",
+            "region": "03",
+            "country": "CR",
+            "latitude": "10.2809",
+            "longitude": "-84.95951"
+        },
+        {
+            "city": "Jac\u00f3",
+            "region": "07",
+            "country": "CR",
+            "latitude": "9.61497",
+            "longitude": "-84.62975"
+        },
+        {
+            "city": "Ip\u00eds",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.96746",
+            "longitude": "-84.01326"
+        },
+        {
+            "city": "Hojancha",
+            "region": "03",
+            "country": "CR",
+            "latitude": "10.0579",
+            "longitude": "-85.41803"
+        },
+        {
+            "city": "Heredia",
+            "region": "04",
+            "country": "CR",
+            "latitude": "10",
+            "longitude": "-84.11667"
+        },
+        {
+            "city": "Gu\u00e1piles",
+            "region": "06",
+            "country": "CR",
+            "latitude": "10.21588",
+            "longitude": "-83.78661"
+        },
+        {
+            "city": "Guadalupe",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.94611",
+            "longitude": "-84.05279"
+        },
+        {
+            "city": "Gu\u00e1cimo",
+            "region": "06",
+            "country": "CR",
+            "latitude": "10.21044",
+            "longitude": "-83.68067"
+        },
+        {
+            "city": "Granadilla",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.93491",
+            "longitude": "-84.01688"
+        },
+        {
+            "city": "Golfito",
+            "region": "07",
+            "country": "CR",
+            "latitude": "8.63901",
+            "longitude": "-83.16603"
+        },
+        {
+            "city": "Fortuna",
+            "region": "03",
+            "country": "CR",
+            "latitude": "10.67384",
+            "longitude": "-85.19984"
+        },
+        {
+            "city": "Fortuna",
+            "region": "01",
+            "country": "CR",
+            "latitude": "10.47089",
+            "longitude": "-84.64535"
+        },
+        {
+            "city": "Esquipulas",
+            "region": "01",
+            "country": "CR",
+            "latitude": "10.05676",
+            "longitude": "-84.42337"
+        },
+        {
+            "city": "Esparza",
+            "region": "07",
+            "country": "CR",
+            "latitude": "9.99447",
+            "longitude": "-84.66466"
+        },
+        {
+            "city": "Escaz\u00fa",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.91887",
+            "longitude": "-84.1399"
+        },
+        {
+            "city": "Desamparados",
+            "region": "01",
+            "country": "CR",
+            "latitude": "9.94727",
+            "longitude": "-84.50626"
+        },
+        {
+            "city": "Daniel Flores",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.33554",
+            "longitude": "-83.6694"
+        },
+        {
+            "city": "Curridabat",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.91178",
+            "longitude": "-84.03407"
+        },
+        {
+            "city": "Cot",
+            "region": "02",
+            "country": "CR",
+            "latitude": "9.89449",
+            "longitude": "-83.87302"
+        },
+        {
+            "city": "Corredor",
+            "region": "07",
+            "country": "CR",
+            "latitude": "8.64002",
+            "longitude": "-82.946"
+        },
+        {
+            "city": "Concepci\u00f3n",
+            "region": "02",
+            "country": "CR",
+            "latitude": "9.93333",
+            "longitude": "-84"
+        },
+        {
+            "city": "Col\u00f3n",
+            "region": "04",
+            "country": "CR",
+            "latitude": "9.91491",
+            "longitude": "-84.2417"
+        },
+        {
+            "city": "Colima",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.95091",
+            "longitude": "-84.08503"
+        },
+        {
+            "city": "Ciudad Cort\u00e9s",
+            "region": "07",
+            "country": "CR",
+            "latitude": "8.95988",
+            "longitude": "-83.52381"
+        },
+        {
+            "city": "Chacarita",
+            "region": "07",
+            "country": "CR",
+            "latitude": "9.98289",
+            "longitude": "-84.77232"
+        },
+        {
+            "city": "Cartago",
+            "region": "02",
+            "country": "CR",
+            "latitude": "9.86667",
+            "longitude": "-83.91667"
+        },
+        {
+            "city": "Carrillos",
+            "region": "01",
+            "country": "CR",
+            "latitude": "10.02918",
+            "longitude": "-84.27404"
+        },
+        {
+            "city": "Canoas",
+            "region": "07",
+            "country": "CR",
+            "latitude": "8.53305",
+            "longitude": "-82.83844"
+        },
+        {
+            "city": "Ca\u00f1as",
+            "region": "03",
+            "country": "CR",
+            "latitude": "10.4294",
+            "longitude": "-85.09311"
+        },
+        {
+            "city": "Calle Blancos",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.95",
+            "longitude": "-84.06667"
+        },
+        {
+            "city": "Buenos Aires",
+            "region": "07",
+            "country": "CR",
+            "latitude": "9.17189",
+            "longitude": "-83.33417"
+        },
+        {
+            "city": "Bijagua",
+            "region": "01",
+            "country": "CR",
+            "latitude": "10.7328",
+            "longitude": "-85.05676"
+        },
+        {
+            "city": "Bel\u00e9n",
+            "region": "03",
+            "country": "CR",
+            "latitude": "10.40788",
+            "longitude": "-85.58836"
+        },
+        {
+            "city": "Bat\u00e1n",
+            "region": "06",
+            "country": "CR",
+            "latitude": "10.08444",
+            "longitude": "-83.341"
+        },
+        {
+            "city": "Bagaces",
+            "region": "03",
+            "country": "CR",
+            "latitude": "10.52709",
+            "longitude": "-85.25482"
+        },
+        {
+            "city": "Atenas",
+            "region": "01",
+            "country": "CR",
+            "latitude": "9.97806",
+            "longitude": "-84.38032"
+        },
+        {
+            "city": "Aserr\u00ed",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.85876",
+            "longitude": "-84.0923"
+        },
+        {
+            "city": "\u00c1ngeles",
+            "region": "04",
+            "country": "CR",
+            "latitude": "9.9959",
+            "longitude": "-84.05126"
+        },
+        {
+            "city": "Alajuelita",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.90163",
+            "longitude": "-84.10042"
+        },
+        {
+            "city": "Alajuela",
+            "region": "01",
+            "country": "CR",
+            "latitude": "10.01667",
+            "longitude": "-84.21667"
+        },
+        {
+            "city": "San Vicente de Moravia",
+            "region": "08",
+            "country": "CR",
+            "latitude": "9.96164",
+            "longitude": "-84.0488"
+        }
+    ]
+}

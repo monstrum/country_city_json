@@ -1,0 +1,167 @@
+{
+    "country": "Reunion",
+    "code": "RE",
+    "cities": [
+        {
+            "city": "Trois-Bassins",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-21.1",
+            "longitude": "55.3"
+        },
+        {
+            "city": "Salazie",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-21.02734",
+            "longitude": "55.539"
+        },
+        {
+            "city": "Saint-Pierre",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-21.3393",
+            "longitude": "55.47811"
+        },
+        {
+            "city": "Saint-Philippe",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-21.35852",
+            "longitude": "55.76795"
+        },
+        {
+            "city": "Saint-Paul",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-21.00963",
+            "longitude": "55.27071"
+        },
+        {
+            "city": "Saint-Louis",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-21.28585",
+            "longitude": "55.41124"
+        },
+        {
+            "city": "Saint-Leu",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-21.17059",
+            "longitude": "55.28824"
+        },
+        {
+            "city": "Saint-Joseph",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-21.37838",
+            "longitude": "55.61918"
+        },
+        {
+            "city": "Sainte-Suzanne",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-20.90614",
+            "longitude": "55.60886"
+        },
+        {
+            "city": "Sainte-Rose",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-21.12983",
+            "longitude": "55.79629"
+        },
+        {
+            "city": "Sainte-Marie",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-20.89684",
+            "longitude": "55.5496"
+        },
+        {
+            "city": "Saint-Denis",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-20.88231",
+            "longitude": "55.4504"
+        },
+        {
+            "city": "Saint-Beno\u00eet",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-21.03801",
+            "longitude": "55.71937"
+        },
+        {
+            "city": "Saint-Andr\u00e9",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-20.96333",
+            "longitude": "55.65031"
+        },
+        {
+            "city": "Petite-\u00cele",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-21.35",
+            "longitude": "55.56667"
+        },
+        {
+            "city": "Le Tampon",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-21.28309",
+            "longitude": "55.51802"
+        },
+        {
+            "city": "Les Avirons",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-21.24181",
+            "longitude": "55.33938"
+        },
+        {
+            "city": "Le Port",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-20.9373",
+            "longitude": "55.29189"
+        },
+        {
+            "city": "La Possession",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-20.92892",
+            "longitude": "55.33513"
+        },
+        {
+            "city": "L'Entre-Deux",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-21.23333",
+            "longitude": "55.46667"
+        },
+        {
+            "city": "Cilaos",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-21.13357",
+            "longitude": "55.4719"
+        },
+        {
+            "city": "Bras-Panon",
+            "region": "RE",
+            "country": "RE",
+            "latitude": "-20.99667",
+            "longitude": "55.67823"
+        },
+        {
+            "city": "Piton Saint-Leu",
+            "region": "",
+            "country": "RE",
+            "latitude": "-21.21962",
+            "longitude": "55.31513"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "country": "Wallis and Futuna",
+    "code": "WF",
+    "cities": [
+        {
+            "city": "Mat\u00e2'utu",
+            "region": "98613",
+            "country": "WF",
+            "latitude": "-13.28163",
+            "longitude": "-176.17453"
+        }
+    ]
+}

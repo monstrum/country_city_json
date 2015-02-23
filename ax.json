@@ -1,0 +1,62 @@
+{
+    "country": "\u00c5land Islands",
+    "code": "AX",
+    "cities": [
+        {
+            "city": "Sund",
+            "region": "01",
+            "country": "AX",
+            "latitude": "60.25",
+            "longitude": "20.11667"
+        },
+        {
+            "city": "Saltvik",
+            "region": "01",
+            "country": "AX",
+            "latitude": "60.28333",
+            "longitude": "20.05"
+        },
+        {
+            "city": "Lemland",
+            "region": "01",
+            "country": "AX",
+            "latitude": "60.08333",
+            "longitude": "20.1"
+        },
+        {
+            "city": "Mariehamn",
+            "region": "478",
+            "country": "AX",
+            "latitude": "60.09726",
+            "longitude": "19.93481"
+        },
+        {
+            "city": "Jomala",
+            "region": "01",
+            "country": "AX",
+            "latitude": "60.15",
+            "longitude": "19.96667"
+        },
+        {
+            "city": "Hammarland",
+            "region": "01",
+            "country": "AX",
+            "latitude": "60.21667",
+            "longitude": "19.75"
+        },
+        {
+            "city": "Finstr\u00f6m",
+            "region": "01",
+            "country": "AX",
+            "latitude": "60.26667",
+            "longitude": "19.93333"
+        },
+        {
+            "city": "Ecker\u00f6",
+            "region": "043",
+            "country": "AX",
+            "latitude": "60.21249",
+            "longitude": "19.61442"
+        }
+    ]
+}

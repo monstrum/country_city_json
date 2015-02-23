@@ -1,0 +1,398 @@
+{
+    "country": "Malta",
+    "code": "MT",
+    "cities": [
+        {
+            "city": "Marsaxlokk",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.84194",
+            "longitude": "14.54306"
+        },
+        {
+            "city": "\u017burrieq",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.83111",
+            "longitude": "14.47417"
+        },
+        {
+            "city": "\u017bejtun",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.85583",
+            "longitude": "14.53306"
+        },
+        {
+            "city": "\u017bebbu\u0121",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.87194",
+            "longitude": "14.44111"
+        },
+        {
+            "city": "\u017babbar",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.87611",
+            "longitude": "14.535"
+        },
+        {
+            "city": "Xewkija",
+            "region": "00",
+            "country": "MT",
+            "latitude": "36.03278",
+            "longitude": "14.25806"
+        },
+        {
+            "city": "Xag\u0127ra",
+            "region": "00",
+            "country": "MT",
+            "latitude": "36.05",
+            "longitude": "14.26444"
+        },
+        {
+            "city": "Valletta",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.89972",
+            "longitude": "14.51472"
+        },
+        {
+            "city": "Ta\u2019 Xbiex",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.89917",
+            "longitude": "14.49444"
+        },
+        {
+            "city": "Tarxien",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.86583",
+            "longitude": "14.515"
+        },
+        {
+            "city": "Sliema",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.9125",
+            "longitude": "14.50194"
+        },
+        {
+            "city": "Si\u0121\u0121iewi",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.85556",
+            "longitude": "14.43639"
+        },
+        {
+            "city": "Santa Vennera",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.89083",
+            "longitude": "14.47417"
+        },
+        {
+            "city": "Santa Lu\u010bija",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.86278",
+            "longitude": "14.5075"
+        },
+        {
+            "city": "San Pawl il-Ba\u0127ar",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.95064",
+            "longitude": "14.41561"
+        },
+        {
+            "city": "Sannat",
+            "region": "00",
+            "country": "MT",
+            "latitude": "36.02444",
+            "longitude": "14.24278"
+        },
+        {
+            "city": "San \u0120iljan",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.91839",
+            "longitude": "14.48977"
+        },
+        {
+            "city": "Safi",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.83306",
+            "longitude": "14.48472"
+        },
+        {
+            "city": "Paola",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.87306",
+            "longitude": "14.49889"
+        },
+        {
+            "city": "Victoria",
+            "region": "00",
+            "country": "MT",
+            "latitude": "36.04444",
+            "longitude": "14.23972"
+        },
+        {
+            "city": "Rabat",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.87417",
+            "longitude": "14.39415"
+        },
+        {
+            "city": "Qrendi",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.83472",
+            "longitude": "14.45833"
+        },
+        {
+            "city": "Qormi",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.87601",
+            "longitude": "14.472"
+        },
+        {
+            "city": "Qala",
+            "region": "00",
+            "country": "MT",
+            "latitude": "36.03611",
+            "longitude": "14.30944"
+        },
+        {
+            "city": "Naxxar",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.91361",
+            "longitude": "14.44361"
+        },
+        {
+            "city": "Nadur",
+            "region": "00",
+            "country": "MT",
+            "latitude": "36.03778",
+            "longitude": "14.29417"
+        },
+        {
+            "city": "Msida",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.8925",
+            "longitude": "14.48278"
+        },
+        {
+            "city": "Mqabba",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.84763",
+            "longitude": "14.46824"
+        },
+        {
+            "city": "Mosta",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.90917",
+            "longitude": "14.42556"
+        },
+        {
+            "city": "M\u0121arr",
+            "region": "00",
+            "country": "MT",
+            "latitude": "36.02528",
+            "longitude": "14.295"
+        },
+        {
+            "city": "M\u0121arr",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.92056",
+            "longitude": "14.36639"
+        },
+        {
+            "city": "Mellie\u0127a",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.95639",
+            "longitude": "14.36222"
+        },
+        {
+            "city": "Marsa",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.87917",
+            "longitude": "14.49528"
+        },
+        {
+            "city": "Luqa",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.85889",
+            "longitude": "14.48861"
+        },
+        {
+            "city": "Senglea",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.8875",
+            "longitude": "14.51694"
+        },
+        {
+            "city": "L-Iklin",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.90414",
+            "longitude": "14.45415"
+        },
+        {
+            "city": "Lija",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.90056",
+            "longitude": "14.44639"
+        },
+        {
+            "city": "Kirkop",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.84222",
+            "longitude": "14.48528"
+        },
+        {
+            "city": "Ker\u010bem",
+            "region": "00",
+            "country": "MT",
+            "latitude": "36.04194",
+            "longitude": "14.22667"
+        },
+        {
+            "city": "Kalkara",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.88917",
+            "longitude": "14.53278"
+        },
+        {
+            "city": "Is-Swieqi",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.9225",
+            "longitude": "14.48"
+        },
+        {
+            "city": "Il-G\u017cira",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.90583",
+            "longitude": "14.48806"
+        },
+        {
+            "city": "Il-Furjana",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.89583",
+            "longitude": "14.50833"
+        },
+        {
+            "city": "Vittoriosa",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.89222",
+            "longitude": "14.51833"
+        },
+        {
+            "city": "\u0126amrun",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.88472",
+            "longitude": "14.48444"
+        },
+        {
+            "city": "Gudja",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.84917",
+            "longitude": "14.50306"
+        },
+        {
+            "city": "G\u0127axaq",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.84889",
+            "longitude": "14.51667"
+        },
+        {
+            "city": "G\u0127arg\u0127ur",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.92417",
+            "longitude": "14.45194"
+        },
+        {
+            "city": "Fgura",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.87028",
+            "longitude": "14.51333"
+        },
+        {
+            "city": "Dingli",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.86139",
+            "longitude": "14.38222"
+        },
+        {
+            "city": "Cospicua",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.88556",
+            "longitude": "14.5275"
+        },
+        {
+            "city": "Bir\u017cebbu\u0121a",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.82583",
+            "longitude": "14.52694"
+        },
+        {
+            "city": "Birkirkara",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.89722",
+            "longitude": "14.46111"
+        },
+        {
+            "city": "Balzan",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.90028",
+            "longitude": "14.455"
+        },
+        {
+            "city": "Attard",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.88972",
+            "longitude": "14.4425"
+        },
+        {
+            "city": "San \u0120wann",
+            "region": "00",
+            "country": "MT",
+            "latitude": "35.90556",
+            "longitude": "14.47611"
+        }
+    ]
+}

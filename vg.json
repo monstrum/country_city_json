@@ -1,0 +1,13 @@
+{
+    "country": "Virgin Islands, British",
+    "code": "VG",
+    "cities": [
+        {
+            "city": "Road Town",
+            "region": "00",
+            "country": "VG",
+            "latitude": "18.41667",
+            "longitude": "-64.61667"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "country": "Kuwait",
+    "code": "KW",
+    "cities": [
+        {
+            "city": "Jan\u016bb as Surrah",
+            "region": "00",
+            "country": "KW",
+            "latitude": "29.26917",
+            "longitude": "47.97806"
+        },
+        {
+            "city": "Bay\u0101n",
+            "region": "00",
+            "country": "KW",
+            "latitude": "29.3032",
+            "longitude": "48.04881"
+        },
+        {
+            "city": "Az Zawr",
+            "region": "02",
+            "country": "KW",
+            "latitude": "29.4425",
+            "longitude": "48.27472"
+        },
+        {
+            "city": "As S\u0101lim\u012byah",
+            "region": "00",
+            "country": "KW",
+            "latitude": "29.33389",
+            "longitude": "48.07611"
+        },
+        {
+            "city": "Ash Sh\u0101m\u012byah",
+            "region": "00",
+            "country": "KW",
+            "latitude": "29.34722",
+            "longitude": "47.96167"
+        },
+        {
+            "city": "Ar Riqqah",
+            "region": "04",
+            "country": "KW",
+            "latitude": "29.14583",
+            "longitude": "48.09472"
+        },
+        {
+            "city": "Al Wafrah",
+            "region": "00",
+            "country": "KW",
+            "latitude": "28.63917",
+            "longitude": "47.93056"
+        },
+        {
+            "city": "Al Manqaf",
+            "region": "04",
+            "country": "KW",
+            "latitude": "29.09611",
+            "longitude": "48.13278"
+        },
+        {
+            "city": "Al Mahb\u016blah",
+            "region": "00",
+            "country": "KW",
+            "latitude": "29.145",
+            "longitude": "48.13028"
+        },
+        {
+            "city": "Kuwait",
+            "region": "02",
+            "country": "KW",
+            "latitude": "29.36972",
+            "longitude": "47.97833"
+        },
+        {
+            "city": "Al Jahr\u0101\u2019",
+            "region": "05",
+            "country": "KW",
+            "latitude": "29.3375",
+            "longitude": "47.65806"
+        },
+        {
+            "city": "Al Fnay\u0163\u012bs",
+            "region": "00",
+            "country": "KW",
+            "latitude": "29.22528",
+            "longitude": "48.10167"
+        },
+        {
+            "city": "Al Fa\u1e29\u0101\u1e29\u012bl",
+            "region": "00",
+            "country": "KW",
+            "latitude": "29.0825",
+            "longitude": "48.13028"
+        },
+        {
+            "city": "Al Fin\u0163\u0101s",
+            "region": "04",
+            "country": "KW",
+            "latitude": "29.17389",
+            "longitude": "48.12111"
+        },
+        {
+            "city": "Al Farw\u0101n\u012byah",
+            "region": "00",
+            "country": "KW",
+            "latitude": "29.2775",
+            "longitude": "47.95861"
+        },
+        {
+            "city": "Ad Dasmah",
+            "region": "02",
+            "country": "KW",
+            "latitude": "29.365",
+            "longitude": "48.00139"
+        },
+        {
+            "city": "Salw\u00e1",
+            "region": "00",
+            "country": "KW",
+            "latitude": "29.29583",
+            "longitude": "48.07861"
+        },
+        {
+            "city": "Ar R\u0101biyah",
+            "region": "00",
+            "country": "KW",
+            "latitude": "29.295",
+            "longitude": "47.93306"
+        },
+        {
+            "city": "\u015eab\u0101\u1e29 as S\u0101lim",
+            "region": "00",
+            "country": "KW",
+            "latitude": "29.25722",
+            "longitude": "48.05722"
+        }
+    ]
+}

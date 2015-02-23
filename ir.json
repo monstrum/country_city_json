@@ -1,0 +1,1378 @@
+{
+    "country": "Iran, Islamic Republic Of",
+    "code": "IR",
+    "cities": [
+        {
+            "city": "\u0100z\u0101dshahr",
+            "region": "09",
+            "country": "IR",
+            "latitude": "34.79088",
+            "longitude": "48.57073"
+        },
+        {
+            "city": "Kahr\u012bz",
+            "region": "13",
+            "country": "IR",
+            "latitude": "34.3838",
+            "longitude": "47.0553"
+        },
+        {
+            "city": "N\u016br\u0101b\u0101d",
+            "region": "23",
+            "country": "IR",
+            "latitude": "34.0734",
+            "longitude": "47.9725"
+        },
+        {
+            "city": "\u012astg\u0101h-e Garms\u0101r",
+            "region": "25",
+            "country": "IR",
+            "latitude": "35.23455",
+            "longitude": "52.30942"
+        },
+        {
+            "city": "Qarchak",
+            "region": "26",
+            "country": "IR",
+            "latitude": "35.43944",
+            "longitude": "51.56889"
+        },
+        {
+            "city": "Khorram Darreh",
+            "region": "36",
+            "country": "IR",
+            "latitude": "36.213",
+            "longitude": "49.196"
+        },
+        {
+            "city": "Y\u0101s\u016bj",
+            "region": "05",
+            "country": "IR",
+            "latitude": "30.66824",
+            "longitude": "51.58796"
+        },
+        {
+            "city": "Sh\u0101h Pasand",
+            "region": "37",
+            "country": "IR",
+            "latitude": "37.08701",
+            "longitude": "55.17397"
+        },
+        {
+            "city": "Zarand",
+            "region": "29",
+            "country": "IR",
+            "latitude": "30.81271",
+            "longitude": "56.56399"
+        },
+        {
+            "city": "Zanj\u0101n",
+            "region": "36",
+            "country": "IR",
+            "latitude": "36.6736",
+            "longitude": "48.4787"
+        },
+        {
+            "city": "Yazd",
+            "region": "40",
+            "country": "IR",
+            "latitude": "31.89722",
+            "longitude": "54.3675"
+        },
+        {
+            "city": "Var\u0101m\u012bn",
+            "region": "26",
+            "country": "IR",
+            "latitude": "35.3242",
+            "longitude": "51.6457"
+        },
+        {
+            "city": "Torbat-e \u1e28eydar\u012byeh",
+            "region": "42",
+            "country": "IR",
+            "latitude": "35.27401",
+            "longitude": "59.21949"
+        },
+        {
+            "city": "Tonek\u0101bon",
+            "region": "35",
+            "country": "IR",
+            "latitude": "36.81626",
+            "longitude": "50.87376"
+        },
+        {
+            "city": "Tehr\u0101n",
+            "region": "26",
+            "country": "IR",
+            "latitude": "35.69439",
+            "longitude": "51.42151"
+        },
+        {
+            "city": "Hashtpar",
+            "region": "08",
+            "country": "IR",
+            "latitude": "37.8008",
+            "longitude": "48.9037"
+        },
+        {
+            "city": "T\u0101kest\u0101n",
+            "region": "38",
+            "country": "IR",
+            "latitude": "36.0696",
+            "longitude": "49.6959"
+        },
+        {
+            "city": "Tak\u0101b",
+            "region": "01",
+            "country": "IR",
+            "latitude": "36.4009",
+            "longitude": "47.1133"
+        },
+        {
+            "city": "Taft",
+            "region": "40",
+            "country": "IR",
+            "latitude": "31.7471",
+            "longitude": "54.20882"
+        },
+        {
+            "city": "Tafresh",
+            "region": "34",
+            "country": "IR",
+            "latitude": "34.692",
+            "longitude": "50.013"
+        },
+        {
+            "city": "Tabr\u012bz",
+            "region": "33",
+            "country": "IR",
+            "latitude": "38.08",
+            "longitude": "46.2919"
+        },
+        {
+            "city": "\u0162abas",
+            "region": "40",
+            "country": "IR",
+            "latitude": "33.59586",
+            "longitude": "56.92437"
+        },
+        {
+            "city": "Sonqor",
+            "region": "13",
+            "country": "IR",
+            "latitude": "34.7837",
+            "longitude": "47.6004"
+        },
+        {
+            "city": "S\u012brj\u0101n",
+            "region": "29",
+            "country": "IR",
+            "latitude": "29.452",
+            "longitude": "55.6814"
+        },
+        {
+            "city": "Sh\u016bshtar",
+            "region": "15",
+            "country": "IR",
+            "latitude": "32.0455",
+            "longitude": "48.8567"
+        },
+        {
+            "city": "Sh\u016bsh",
+            "region": "15",
+            "country": "IR",
+            "latitude": "32.1942",
+            "longitude": "48.2436"
+        },
+        {
+            "city": "Sh\u012br\u0101z",
+            "region": "07",
+            "country": "IR",
+            "latitude": "29.6036",
+            "longitude": "52.5388"
+        },
+        {
+            "city": "Shahr-e Kord",
+            "region": "03",
+            "country": "IR",
+            "latitude": "32.32556",
+            "longitude": "50.86444"
+        },
+        {
+            "city": "Shahr-e B\u0101bak",
+            "region": "29",
+            "country": "IR",
+            "latitude": "30.1165",
+            "longitude": "55.1186"
+        },
+        {
+            "city": "Sh\u0101deg\u0101n",
+            "region": "15",
+            "country": "IR",
+            "latitude": "30.64972",
+            "longitude": "48.66472"
+        },
+        {
+            "city": "Semn\u0101n",
+            "region": "25",
+            "country": "IR",
+            "latitude": "35.57291",
+            "longitude": "53.39714"
+        },
+        {
+            "city": "Sem\u012brom",
+            "region": "28",
+            "country": "IR",
+            "latitude": "31.41667",
+            "longitude": "51.56667"
+        },
+        {
+            "city": "S\u0101veh",
+            "region": "34",
+            "country": "IR",
+            "latitude": "35.0213",
+            "longitude": "50.3566"
+        },
+        {
+            "city": "Shari-i-Tajan",
+            "region": "35",
+            "country": "IR",
+            "latitude": "36.56297",
+            "longitude": "53.05652"
+        },
+        {
+            "city": "Saqqez",
+            "region": "16",
+            "country": "IR",
+            "latitude": "36.24992",
+            "longitude": "46.2735"
+        },
+        {
+            "city": "Sanandaj",
+            "region": "16",
+            "country": "IR",
+            "latitude": "35.3144",
+            "longitude": "46.9923"
+        },
+        {
+            "city": "Salm\u0101s",
+            "region": "01",
+            "country": "IR",
+            "latitude": "38.1973",
+            "longitude": "44.7653"
+        },
+        {
+            "city": "Sh\u0101h\u012bn Dezh",
+            "region": "01",
+            "country": "IR",
+            "latitude": "36.6793",
+            "longitude": "46.5669"
+        },
+        {
+            "city": "Sabzev\u0101r",
+            "region": "42",
+            "country": "IR",
+            "latitude": "36.2126",
+            "longitude": "57.68191"
+        },
+        {
+            "city": "R\u016bdsar",
+            "region": "08",
+            "country": "IR",
+            "latitude": "37.13761",
+            "longitude": "50.288"
+        },
+        {
+            "city": "Rob\u0101\u0163 Kar\u012bm",
+            "region": "26",
+            "country": "IR",
+            "latitude": "35.4846",
+            "longitude": "51.0829"
+        },
+        {
+            "city": "R\u0101var",
+            "region": "29",
+            "country": "IR",
+            "latitude": "31.26562",
+            "longitude": "56.80545"
+        },
+        {
+            "city": "Rasht",
+            "region": "08",
+            "country": "IR",
+            "latitude": "37.28077",
+            "longitude": "49.58319"
+        },
+        {
+            "city": "R\u0101msh\u012br",
+            "region": "15",
+            "country": "IR",
+            "latitude": "30.8946",
+            "longitude": "49.4092"
+        },
+        {
+            "city": "R\u0101mhormoz",
+            "region": "15",
+            "country": "IR",
+            "latitude": "31.27997",
+            "longitude": "49.60351"
+        },
+        {
+            "city": "Rafsanj\u0101n",
+            "region": "29",
+            "country": "IR",
+            "latitude": "30.4067",
+            "longitude": "55.9939"
+        },
+        {
+            "city": "Q\u016bch\u0101n",
+            "region": "42",
+            "country": "IR",
+            "latitude": "37.106",
+            "longitude": "58.50955"
+        },
+        {
+            "city": "Qorveh",
+            "region": "16",
+            "country": "IR",
+            "latitude": "35.1664",
+            "longitude": "47.8045"
+        },
+        {
+            "city": "Qom",
+            "region": "39",
+            "country": "IR",
+            "latitude": "34.6401",
+            "longitude": "50.8764"
+        },
+        {
+            "city": "Qeshm",
+            "region": "11",
+            "country": "IR",
+            "latitude": "26.9581",
+            "longitude": "56.2719"
+        },
+        {
+            "city": "Qazv\u012bn",
+            "region": "38",
+            "country": "IR",
+            "latitude": "36.2797",
+            "longitude": "50.0049"
+        },
+        {
+            "city": "Qarah \u1e94\u012b\u0101' od D\u012bn",
+            "region": "01",
+            "country": "IR",
+            "latitude": "38.8915",
+            "longitude": "45.0255"
+        },
+        {
+            "city": "Farrokh Shahr",
+            "region": "03",
+            "country": "IR",
+            "latitude": "32.27174",
+            "longitude": "50.98008"
+        },
+        {
+            "city": "Q\u0101yen",
+            "region": "42",
+            "country": "IR",
+            "latitude": "33.72654",
+            "longitude": "59.18439"
+        },
+        {
+            "city": "Sarpol-e Z\u0304ah\u0101b",
+            "region": "13",
+            "country": "IR",
+            "latitude": "34.46109",
+            "longitude": "45.86264"
+        },
+        {
+            "city": "P\u012bshv\u0101",
+            "region": "26",
+            "country": "IR",
+            "latitude": "35.308",
+            "longitude": "51.7267"
+        },
+        {
+            "city": "P\u012br\u0101nshahr",
+            "region": "01",
+            "country": "IR",
+            "latitude": "36.701",
+            "longitude": "45.1413"
+        },
+        {
+            "city": "P\u0101veh",
+            "region": "13",
+            "country": "IR",
+            "latitude": "35.0434",
+            "longitude": "46.3565"
+        },
+        {
+            "city": "P\u0101rs\u0101b\u0101d",
+            "region": "32",
+            "country": "IR",
+            "latitude": "39.6482",
+            "longitude": "47.9174"
+        },
+        {
+            "city": "Oshnav\u012byeh",
+            "region": "01",
+            "country": "IR",
+            "latitude": "37.0397",
+            "longitude": "45.0983"
+        },
+        {
+            "city": "Or\u016bm\u012byeh",
+            "region": "01",
+            "country": "IR",
+            "latitude": "37.55274",
+            "longitude": "45.07605"
+        },
+        {
+            "city": "Om\u012bd\u012byeh",
+            "region": "15",
+            "country": "IR",
+            "latitude": "30.75972",
+            "longitude": "49.705"
+        },
+        {
+            "city": "N\u016br\u0101b\u0101d",
+            "region": "07",
+            "country": "IR",
+            "latitude": "30.11405",
+            "longitude": "51.52174"
+        },
+        {
+            "city": "Neysh\u0101b\u016br",
+            "region": "42",
+            "country": "IR",
+            "latitude": "36.21329",
+            "longitude": "58.79576"
+        },
+        {
+            "city": "Neyr\u012bz",
+            "region": "07",
+            "country": "IR",
+            "latitude": "29.1988",
+            "longitude": "54.3278"
+        },
+        {
+            "city": "Nek\u0101\u2019",
+            "region": "35",
+            "country": "IR",
+            "latitude": "36.65143",
+            "longitude": "53.29593"
+        },
+        {
+            "city": "Naz\u0327ar\u0101b\u0101d",
+            "region": "44",
+            "country": "IR",
+            "latitude": "35.9521",
+            "longitude": "50.6075"
+        },
+        {
+            "city": "Naqadeh",
+            "region": "01",
+            "country": "IR",
+            "latitude": "36.9553",
+            "longitude": "45.388"
+        },
+        {
+            "city": "Nah\u0101vand",
+            "region": "09",
+            "country": "IR",
+            "latitude": "34.1885",
+            "longitude": "48.377"
+        },
+        {
+            "city": "M\u012bn\u0101b",
+            "region": "11",
+            "country": "IR",
+            "latitude": "27.1467",
+            "longitude": "57.0801"
+        },
+        {
+            "city": "M\u012b\u0101ndow\u0101b",
+            "region": "01",
+            "country": "IR",
+            "latitude": "36.9694",
+            "longitude": "46.1027"
+        },
+        {
+            "city": "Meybod",
+            "region": "40",
+            "country": "IR",
+            "latitude": "32.25014",
+            "longitude": "54.01658"
+        },
+        {
+            "city": "Mehr\u012bz",
+            "region": "40",
+            "country": "IR",
+            "latitude": "31.59168",
+            "longitude": "54.43178"
+        },
+        {
+            "city": "Mehr\u0101n",
+            "region": "10",
+            "country": "IR",
+            "latitude": "33.1222",
+            "longitude": "46.1646"
+        },
+        {
+            "city": "Masjed Soleym\u0101n",
+            "region": "15",
+            "country": "IR",
+            "latitude": "31.9364",
+            "longitude": "49.3039"
+        },
+        {
+            "city": "Bards\u012br",
+            "region": "29",
+            "country": "IR",
+            "latitude": "29.9275",
+            "longitude": "56.5722"
+        },
+        {
+            "city": "Mashhad",
+            "region": "42",
+            "country": "IR",
+            "latitude": "36.297",
+            "longitude": "59.6062"
+        },
+        {
+            "city": "Marand",
+            "region": "33",
+            "country": "IR",
+            "latitude": "38.4329",
+            "longitude": "45.7749"
+        },
+        {
+            "city": "Mal\u0101yer",
+            "region": "09",
+            "country": "IR",
+            "latitude": "34.2969",
+            "longitude": "48.8235"
+        },
+        {
+            "city": "Mal\u0101rd",
+            "region": "26",
+            "country": "IR",
+            "latitude": "35.6659",
+            "longitude": "50.9767"
+        },
+        {
+            "city": "Mah\u0101b\u0101d",
+            "region": "01",
+            "country": "IR",
+            "latitude": "36.7631",
+            "longitude": "45.7222"
+        },
+        {
+            "city": "Langer\u016bd",
+            "region": "08",
+            "country": "IR",
+            "latitude": "37.19701",
+            "longitude": "50.15351"
+        },
+        {
+            "city": "K\u016bhdasht",
+            "region": "23",
+            "country": "IR",
+            "latitude": "33.535",
+            "longitude": "47.6061"
+        },
+        {
+            "city": "K\u012bsh",
+            "region": "11",
+            "country": "IR",
+            "latitude": "26.55778",
+            "longitude": "54.01944"
+        },
+        {
+            "city": "Khvoy",
+            "region": "01",
+            "country": "IR",
+            "latitude": "38.5503",
+            "longitude": "44.9521"
+        },
+        {
+            "city": "Khv\u0101ns\u0101r",
+            "region": "28",
+            "country": "IR",
+            "latitude": "33.22052",
+            "longitude": "50.31497"
+        },
+        {
+            "city": "Khorramshahr",
+            "region": "15",
+            "country": "IR",
+            "latitude": "30.4397",
+            "longitude": "48.1664"
+        },
+        {
+            "city": "Khorram\u0101b\u0101d",
+            "region": "23",
+            "country": "IR",
+            "latitude": "33.48778",
+            "longitude": "48.35583"
+        },
+        {
+            "city": "Khomeyn",
+            "region": "34",
+            "country": "IR",
+            "latitude": "33.64226",
+            "longitude": "50.0789"
+        },
+        {
+            "city": "Kh\u0101n\u012b Yek",
+            "region": "07",
+            "country": "IR",
+            "latitude": "29.89167",
+            "longitude": "51.68667"
+        },
+        {
+            "city": "Herow\u0101b\u0101d",
+            "region": "32",
+            "country": "IR",
+            "latitude": "37.6189",
+            "longitude": "48.5258"
+        },
+        {
+            "city": "Kerm\u0101nsh\u0101h",
+            "region": "13",
+            "country": "IR",
+            "latitude": "34.31417",
+            "longitude": "47.065"
+        },
+        {
+            "city": "Kerm\u0101n",
+            "region": "29",
+            "country": "IR",
+            "latitude": "30.28321",
+            "longitude": "57.07879"
+        },
+        {
+            "city": "K\u0101zer\u016bn",
+            "region": "07",
+            "country": "IR",
+            "latitude": "29.61949",
+            "longitude": "51.65415"
+        },
+        {
+            "city": "K\u0101shmar",
+            "region": "42",
+            "country": "IR",
+            "latitude": "35.23831",
+            "longitude": "58.46558"
+        },
+        {
+            "city": "K\u0101sh\u0101n",
+            "region": "28",
+            "country": "IR",
+            "latitude": "33.98308",
+            "longitude": "51.43644"
+        },
+        {
+            "city": "Karaj",
+            "region": "44",
+            "country": "IR",
+            "latitude": "35.8355",
+            "longitude": "51.0103"
+        },
+        {
+            "city": "Kang\u0101var",
+            "region": "13",
+            "country": "IR",
+            "latitude": "34.5043",
+            "longitude": "47.9653"
+        },
+        {
+            "city": "K\u0101my\u0101r\u0101n",
+            "region": "16",
+            "country": "IR",
+            "latitude": "34.7956",
+            "longitude": "46.9355"
+        },
+        {
+            "city": "Kal\u0101leh",
+            "region": "37",
+            "country": "IR",
+            "latitude": "37.38071",
+            "longitude": "55.49164"
+        },
+        {
+            "city": "J\u016byb\u0101r",
+            "region": "35",
+            "country": "IR",
+            "latitude": "36.64115",
+            "longitude": "52.91244"
+        },
+        {
+            "city": "Jav\u0101nr\u016bd",
+            "region": "13",
+            "country": "IR",
+            "latitude": "34.79611",
+            "longitude": "46.51722"
+        },
+        {
+            "city": "\u012al\u0101m",
+            "region": "10",
+            "country": "IR",
+            "latitude": "33.6374",
+            "longitude": "46.4227"
+        },
+        {
+            "city": "Hars\u012bn",
+            "region": "13",
+            "country": "IR",
+            "latitude": "34.2721",
+            "longitude": "47.5861"
+        },
+        {
+            "city": "Hamad\u0101n",
+            "region": "09",
+            "country": "IR",
+            "latitude": "34.79922",
+            "longitude": "48.51456"
+        },
+        {
+            "city": "Gorg\u0101n",
+            "region": "37",
+            "country": "IR",
+            "latitude": "36.83866",
+            "longitude": "54.43475"
+        },
+        {
+            "city": "Gonbad-e Q\u0101b\u016bs",
+            "region": "37",
+            "country": "IR",
+            "latitude": "37.25004",
+            "longitude": "55.16721"
+        },
+        {
+            "city": "Gon\u0101b\u0101d",
+            "region": "42",
+            "country": "IR",
+            "latitude": "34.35286",
+            "longitude": "58.68365"
+        },
+        {
+            "city": "Golp\u0101yeg\u0101n",
+            "region": "28",
+            "country": "IR",
+            "latitude": "33.4537",
+            "longitude": "50.28836"
+        },
+        {
+            "city": "Ger\u0101sh",
+            "region": "07",
+            "country": "IR",
+            "latitude": "27.6652",
+            "longitude": "54.1371"
+        },
+        {
+            "city": "Bandar-e Gan\u0101veh",
+            "region": "22",
+            "country": "IR",
+            "latitude": "29.5791",
+            "longitude": "50.517"
+        },
+        {
+            "city": "F\u012br\u016bz\u0101b\u0101d",
+            "region": "07",
+            "country": "IR",
+            "latitude": "28.8438",
+            "longitude": "52.5707"
+        },
+        {
+            "city": "Fereyd\u016bnshahr",
+            "region": "28",
+            "country": "IR",
+            "latitude": "32.94098",
+            "longitude": "50.121"
+        },
+        {
+            "city": "Fereyd\u016bn Ken\u0101r",
+            "region": "35",
+            "country": "IR",
+            "latitude": "36.68642",
+            "longitude": "52.52255"
+        },
+        {
+            "city": "Fas\u0101",
+            "region": "07",
+            "country": "IR",
+            "latitude": "28.9383",
+            "longitude": "53.6482"
+        },
+        {
+            "city": "F\u0101rs\u0101n",
+            "region": "03",
+            "country": "IR",
+            "latitude": "32.25694",
+            "longitude": "50.56096"
+        },
+        {
+            "city": "pamas",
+            "region": "09",
+            "country": "IR",
+            "latitude": "34.03792",
+            "longitude": "48.462"
+        },
+        {
+            "city": "Esfar\u0101yen",
+            "region": "43",
+            "country": "IR",
+            "latitude": "37.07645",
+            "longitude": "57.51009"
+        },
+        {
+            "city": "Sh\u0101hr\u016bd",
+            "region": "25",
+            "country": "IR",
+            "latitude": "36.41819",
+            "longitude": "54.97628"
+        },
+        {
+            "city": "Do Gonbad\u0101n",
+            "region": "05",
+            "country": "IR",
+            "latitude": "30.3586",
+            "longitude": "50.7981"
+        },
+        {
+            "city": "Del\u012bj\u0101n",
+            "region": "34",
+            "country": "IR",
+            "latitude": "33.9905",
+            "longitude": "50.6838"
+        },
+        {
+            "city": "Dehlor\u0101n",
+            "region": "10",
+            "country": "IR",
+            "latitude": "32.6941",
+            "longitude": "47.2679"
+        },
+        {
+            "city": "Dehdasht",
+            "region": "05",
+            "country": "IR",
+            "latitude": "30.7949",
+            "longitude": "50.56458"
+        },
+        {
+            "city": "S\u016bsangerd",
+            "region": "15",
+            "country": "IR",
+            "latitude": "31.5608",
+            "longitude": "48.1831"
+        },
+        {
+            "city": "D\u0101r\u0101b",
+            "region": "07",
+            "country": "IR",
+            "latitude": "28.75194",
+            "longitude": "54.54444"
+        },
+        {
+            "city": "D\u0101mgh\u0101n",
+            "region": "25",
+            "country": "IR",
+            "latitude": "36.1683",
+            "longitude": "54.348"
+        },
+        {
+            "city": "Dam\u0101vand",
+            "region": "26",
+            "country": "IR",
+            "latitude": "35.71778",
+            "longitude": "52.065"
+        },
+        {
+            "city": "Chen\u0101r\u0101n",
+            "region": "42",
+            "country": "IR",
+            "latitude": "36.64546",
+            "longitude": "59.12123"
+        },
+        {
+            "city": "Ch\u0101l\u016bs",
+            "region": "35",
+            "country": "IR",
+            "latitude": "36.655",
+            "longitude": "51.4204"
+        },
+        {
+            "city": "Bandar B\u016bshehr",
+            "region": "22",
+            "country": "IR",
+            "latitude": "28.9684",
+            "longitude": "50.8385"
+        },
+        {
+            "city": "B\u016bk\u0101n",
+            "region": "01",
+            "country": "IR",
+            "latitude": "36.521",
+            "longitude": "46.2089"
+        },
+        {
+            "city": "Bor\u016bjerd",
+            "region": "23",
+            "country": "IR",
+            "latitude": "33.8973",
+            "longitude": "48.7516"
+        },
+        {
+            "city": "Bor\u016bjen",
+            "region": "03",
+            "country": "IR",
+            "latitude": "31.96523",
+            "longitude": "51.2873"
+        },
+        {
+            "city": "Bor\u0101zj\u0101n",
+            "region": "22",
+            "country": "IR",
+            "latitude": "29.2666",
+            "longitude": "51.2159"
+        },
+        {
+            "city": "Bojn\u016brd",
+            "region": "43",
+            "country": "IR",
+            "latitude": "37.47473",
+            "longitude": "57.32903"
+        },
+        {
+            "city": "B\u012brjand",
+            "region": "41",
+            "country": "IR",
+            "latitude": "32.86628",
+            "longitude": "59.22114"
+        },
+        {
+            "city": "B\u012bj\u0101r",
+            "region": "16",
+            "country": "IR",
+            "latitude": "35.8668",
+            "longitude": "47.60506"
+        },
+        {
+            "city": "Bon\u0101b",
+            "region": "33",
+            "country": "IR",
+            "latitude": "37.3404",
+            "longitude": "46.0561"
+        },
+        {
+            "city": "Behshahr",
+            "region": "35",
+            "country": "IR",
+            "latitude": "36.69276",
+            "longitude": "53.54598"
+        },
+        {
+            "city": "Behbah\u0101n",
+            "region": "15",
+            "country": "IR",
+            "latitude": "30.5959",
+            "longitude": "50.2417"
+        },
+        {
+            "city": "B\u0101neh",
+            "region": "16",
+            "country": "IR",
+            "latitude": "35.9975",
+            "longitude": "45.8853"
+        },
+        {
+            "city": "Bandar-e Lengeh",
+            "region": "11",
+            "country": "IR",
+            "latitude": "26.55792",
+            "longitude": "54.88067"
+        },
+        {
+            "city": "Bandar Em\u0101m Khomeyn\u012b",
+            "region": "15",
+            "country": "IR",
+            "latitude": "30.42983",
+            "longitude": "49.07628"
+        },
+        {
+            "city": "Bandar-e Anzal\u012b",
+            "region": "08",
+            "country": "IR",
+            "latitude": "37.4727",
+            "longitude": "49.4622"
+        },
+        {
+            "city": "Bandar \u2018Abb\u0101s",
+            "region": "11",
+            "country": "IR",
+            "latitude": "27.1865",
+            "longitude": "56.2808"
+        },
+        {
+            "city": "Bam",
+            "region": "29",
+            "country": "IR",
+            "latitude": "29.106",
+            "longitude": "58.357"
+        },
+        {
+            "city": "Bah\u0101r",
+            "region": "09",
+            "country": "IR",
+            "latitude": "34.9072",
+            "longitude": "48.4414"
+        },
+        {
+            "city": "B\u0101fq",
+            "region": "40",
+            "country": "IR",
+            "latitude": "31.61283",
+            "longitude": "55.41067"
+        },
+        {
+            "city": "B\u0101bolsar",
+            "region": "35",
+            "country": "IR",
+            "latitude": "36.70251",
+            "longitude": "52.6576"
+        },
+        {
+            "city": "B\u0101bol",
+            "region": "35",
+            "country": "IR",
+            "latitude": "36.55132",
+            "longitude": "52.67895"
+        },
+        {
+            "city": "Azn\u0101",
+            "region": "23",
+            "country": "IR",
+            "latitude": "33.6095",
+            "longitude": "48.9307"
+        },
+        {
+            "city": "Hashtr\u016bd",
+            "region": "33",
+            "country": "IR",
+            "latitude": "37.4779",
+            "longitude": "47.0508"
+        },
+        {
+            "city": "\u0100st\u0101r\u0101",
+            "region": "08",
+            "country": "IR",
+            "latitude": "38.4291",
+            "longitude": "48.872"
+        },
+        {
+            "city": "\u0100st\u0101neh-ye Ashraf\u012byeh",
+            "region": "08",
+            "country": "IR",
+            "latitude": "37.25962",
+            "longitude": "49.94444"
+        },
+        {
+            "city": "Asad\u0101b\u0101d",
+            "region": "09",
+            "country": "IR",
+            "latitude": "34.78241",
+            "longitude": "48.11853"
+        },
+        {
+            "city": "Ardest\u0101n",
+            "region": "28",
+            "country": "IR",
+            "latitude": "33.3761",
+            "longitude": "52.3694"
+        },
+        {
+            "city": "Ardak\u0101n",
+            "region": "40",
+            "country": "IR",
+            "latitude": "32.31001",
+            "longitude": "54.01747"
+        },
+        {
+            "city": "Ardab\u012bl",
+            "region": "32",
+            "country": "IR",
+            "latitude": "38.2498",
+            "longitude": "48.2933"
+        },
+        {
+            "city": "Ar\u0101k",
+            "region": "34",
+            "country": "IR",
+            "latitude": "34.09174",
+            "longitude": "49.68916"
+        },
+        {
+            "city": "\u0100mol",
+            "region": "35",
+            "country": "IR",
+            "latitude": "36.46961",
+            "longitude": "52.35072"
+        },
+        {
+            "city": "Alvand",
+            "region": "36",
+            "country": "IR",
+            "latitude": "36.3187",
+            "longitude": "49.1678"
+        },
+        {
+            "city": "Shahr\u012b\u0101r",
+            "region": "26",
+            "country": "IR",
+            "latitude": "35.6596",
+            "longitude": "51.0593"
+        },
+        {
+            "city": "Al\u012bg\u016bdarz",
+            "region": "23",
+            "country": "IR",
+            "latitude": "33.40063",
+            "longitude": "49.6949"
+        },
+        {
+            "city": "Aleshtar",
+            "region": "23",
+            "country": "IR",
+            "latitude": "33.8633",
+            "longitude": "48.2619"
+        },
+        {
+            "city": "Akbar\u0101b\u0101d",
+            "region": "07",
+            "country": "IR",
+            "latitude": "29.2464",
+            "longitude": "52.7793"
+        },
+        {
+            "city": "\u2018Ajab Sh\u012br",
+            "region": "33",
+            "country": "IR",
+            "latitude": "37.4776",
+            "longitude": "45.8943"
+        },
+        {
+            "city": "Ahv\u0101z",
+            "region": "15",
+            "country": "IR",
+            "latitude": "31.3203",
+            "longitude": "48.6693"
+        },
+        {
+            "city": "Ahar",
+            "region": "33",
+            "country": "IR",
+            "latitude": "38.4774",
+            "longitude": "47.0699"
+        },
+        {
+            "city": "\u0100gh\u0101j\u0101r\u012b",
+            "region": "15",
+            "country": "IR",
+            "latitude": "30.7006",
+            "longitude": "49.8315"
+        },
+        {
+            "city": "\u0100byek",
+            "region": "34",
+            "country": "IR",
+            "latitude": "36.06667",
+            "longitude": "50.55"
+        },
+        {
+            "city": "Abhar",
+            "region": "36",
+            "country": "IR",
+            "latitude": "36.1468",
+            "longitude": "49.218"
+        },
+        {
+            "city": "\u0100bd\u0101n\u0101n",
+            "region": "10",
+            "country": "IR",
+            "latitude": "32.9926",
+            "longitude": "47.4198"
+        },
+        {
+            "city": "\u0100b\u0101deh",
+            "region": "07",
+            "country": "IR",
+            "latitude": "31.1608",
+            "longitude": "52.6506"
+        },
+        {
+            "city": "\u0100b\u0101d\u0101n",
+            "region": "15",
+            "country": "IR",
+            "latitude": "30.3392",
+            "longitude": "48.3043"
+        },
+        {
+            "city": "K\u016bh Sef\u012bd",
+            "region": "29",
+            "country": "IR",
+            "latitude": "29.2762",
+            "longitude": "56.8014"
+        },
+        {
+            "city": "Khav\u0101\u015f K\u016bh",
+            "region": "40",
+            "country": "IR",
+            "latitude": "32.30611",
+            "longitude": "53.67444"
+        },
+        {
+            "city": "Eqb\u0101l\u012byeh",
+            "region": "26",
+            "country": "IR",
+            "latitude": "35.3022",
+            "longitude": "51.5358"
+        },
+        {
+            "city": "Sh\u0101hre\u1e95\u0101",
+            "region": "28",
+            "country": "IR",
+            "latitude": "32.03389",
+            "longitude": "51.87944"
+        },
+        {
+            "city": "Rehn\u0101n",
+            "region": "28",
+            "country": "IR",
+            "latitude": "32.68462",
+            "longitude": "51.60129"
+        },
+        {
+            "city": "Qahder\u012bj\u0101n",
+            "region": "28",
+            "country": "IR",
+            "latitude": "32.5767",
+            "longitude": "51.455"
+        },
+        {
+            "city": "Najaf\u0101b\u0101d",
+            "region": "28",
+            "country": "IR",
+            "latitude": "32.6344",
+            "longitude": "51.3668"
+        },
+        {
+            "city": "Khomeyn\u012b Shahr",
+            "region": "28",
+            "country": "IR",
+            "latitude": "32.70018",
+            "longitude": "51.52113"
+        },
+        {
+            "city": "Kel\u012bsh\u0101d",
+            "region": "28",
+            "country": "IR",
+            "latitude": "32.55231",
+            "longitude": "51.5289"
+        },
+        {
+            "city": "Moll\u0101varj\u0101n",
+            "region": "28",
+            "country": "IR",
+            "latitude": "32.5564",
+            "longitude": "51.51"
+        },
+        {
+            "city": "E\u015ffah\u0101n",
+            "region": "28",
+            "country": "IR",
+            "latitude": "32.65722",
+            "longitude": "51.67761"
+        },
+        {
+            "city": "Dowlat\u0101b\u0101d",
+            "region": "28",
+            "country": "IR",
+            "latitude": "32.79978",
+            "longitude": "51.69553"
+        },
+        {
+            "city": "Dorcheh P\u012b\u0101z",
+            "region": "28",
+            "country": "IR",
+            "latitude": "32.61528",
+            "longitude": "51.55556"
+        },
+        {
+            "city": "Z\u0101bol",
+            "region": "04",
+            "country": "IR",
+            "latitude": "31.0287",
+            "longitude": "61.5012"
+        },
+        {
+            "city": "Z\u0101hed\u0101n",
+            "region": "04",
+            "country": "IR",
+            "latitude": "29.4963",
+            "longitude": "60.8629"
+        },
+        {
+            "city": "Torbat-e J\u0101m",
+            "region": "42",
+            "country": "IR",
+            "latitude": "35.244",
+            "longitude": "60.6225"
+        },
+        {
+            "city": "T\u0101yb\u0101d",
+            "region": "42",
+            "country": "IR",
+            "latitude": "34.74",
+            "longitude": "60.7756"
+        },
+        {
+            "city": "Sarakhs",
+            "region": "42",
+            "country": "IR",
+            "latitude": "36.5449",
+            "longitude": "61.1577"
+        },
+        {
+            "city": "Kh\u0101sh",
+            "region": "04",
+            "country": "IR",
+            "latitude": "28.22107",
+            "longitude": "61.21582"
+        },
+        {
+            "city": "\u012ar\u0101nshahr",
+            "region": "04",
+            "country": "IR",
+            "latitude": "27.20245",
+            "longitude": "60.68476"
+        },
+        {
+            "city": "Ch\u0101h Bah\u0101r",
+            "region": "04",
+            "country": "IR",
+            "latitude": "25.2919",
+            "longitude": "60.643"
+        },
+        {
+            "city": "Famast",
+            "region": "09",
+            "country": "IR",
+            "latitude": "34.03897",
+            "longitude": "48.4626"
+        }
+    ]
+}

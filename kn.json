@@ -1,0 +1,20 @@
+{
+    "country": "Saint Kitts and Nevis",
+    "code": "KN",
+    "cities": [
+        {
+            "city": "Charlestown",
+            "region": "10",
+            "country": "KN",
+            "latitude": "17.13333",
+            "longitude": "-62.61667"
+        },
+        {
+            "city": "Basseterre",
+            "region": "03",
+            "country": "KN",
+            "latitude": "17.29484",
+            "longitude": "-62.7261"
+        }
+    ]
+}

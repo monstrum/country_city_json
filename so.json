@@ -1,0 +1,335 @@
+{
+    "country": "Somalia",
+    "code": "SO",
+    "cities": [
+        {
+            "city": "Yeed",
+            "region": "01",
+            "country": "SO",
+            "latitude": "4.55",
+            "longitude": "43.03333"
+        },
+        {
+            "city": "Oddur",
+            "region": "01",
+            "country": "SO",
+            "latitude": "4.12129",
+            "longitude": "43.88945"
+        },
+        {
+            "city": "Xarardheere",
+            "region": "10",
+            "country": "SO",
+            "latitude": "4.6544",
+            "longitude": "47.8575"
+        },
+        {
+            "city": "Wanlaweyn",
+            "region": "14",
+            "country": "SO",
+            "latitude": "2.6185",
+            "longitude": "44.8938"
+        },
+        {
+            "city": "Waajid",
+            "region": "01",
+            "country": "SO",
+            "latitude": "3.80958",
+            "longitude": "43.24628"
+        },
+        {
+            "city": "Tayeeglow",
+            "region": "01",
+            "country": "SO",
+            "latitude": "4.01897",
+            "longitude": "44.51112"
+        },
+        {
+            "city": "Saacow",
+            "region": "08",
+            "country": "SO",
+            "latitude": "1.63333",
+            "longitude": "42.45"
+        },
+        {
+            "city": "Qoryooley",
+            "region": "14",
+            "country": "SO",
+            "latitude": "1.78333",
+            "longitude": "44.53333"
+        },
+        {
+            "city": "Qandala",
+            "region": "03",
+            "country": "SO",
+            "latitude": "11.47245",
+            "longitude": "49.87159"
+        },
+        {
+            "city": "Oodweyne",
+            "region": "19",
+            "country": "SO",
+            "latitude": "9.4092",
+            "longitude": "45.06397"
+        },
+        {
+            "city": "Mogadishu",
+            "region": "02",
+            "country": "SO",
+            "latitude": "2.03711",
+            "longitude": "45.34375"
+        },
+        {
+            "city": "Mahaddayweyne",
+            "region": "13",
+            "country": "SO",
+            "latitude": "2.9726",
+            "longitude": "45.5347"
+        },
+        {
+            "city": "Luuq",
+            "region": "06",
+            "country": "SO",
+            "latitude": "3.79376",
+            "longitude": "42.5445"
+        },
+        {
+            "city": "Laasqoray",
+            "region": "12",
+            "country": "SO",
+            "latitude": "11.15671",
+            "longitude": "48.19818"
+        },
+        {
+            "city": "Chisimayu",
+            "region": "09",
+            "country": "SO",
+            "latitude": "-0.35817",
+            "longitude": "42.54536"
+        },
+        {
+            "city": "Jilib",
+            "region": "08",
+            "country": "SO",
+            "latitude": "0.48829",
+            "longitude": "42.78535"
+        },
+        {
+            "city": "Giohar",
+            "region": "13",
+            "country": "SO",
+            "latitude": "2.78087",
+            "longitude": "45.50048"
+        },
+        {
+            "city": "Jamaame",
+            "region": "09",
+            "country": "SO",
+            "latitude": "0.06968",
+            "longitude": "42.74497"
+        },
+        {
+            "city": "Jalalaqsi",
+            "region": "07",
+            "country": "SO",
+            "latitude": "3.37911",
+            "longitude": "45.59892"
+        },
+        {
+            "city": "Iskushuban",
+            "region": "03",
+            "country": "SO",
+            "latitude": "10.28418",
+            "longitude": "50.23141"
+        },
+        {
+            "city": "Hobyo",
+            "region": "10",
+            "country": "SO",
+            "latitude": "5.3505",
+            "longitude": "48.5268"
+        },
+        {
+            "city": "Hargeysa",
+            "region": "20",
+            "country": "SO",
+            "latitude": "9.56",
+            "longitude": "44.065"
+        },
+        {
+            "city": "Garoowe",
+            "region": "18",
+            "country": "SO",
+            "latitude": "8.40536",
+            "longitude": "48.48446"
+        },
+        {
+            "city": "Garbahaarrey",
+            "region": "06",
+            "country": "SO",
+            "latitude": "3.32892",
+            "longitude": "42.22091"
+        },
+        {
+            "city": "Galcaio",
+            "region": "10",
+            "country": "SO",
+            "latitude": "6.76972",
+            "longitude": "47.43083"
+        },
+        {
+            "city": "Eyl",
+            "region": "18",
+            "country": "SO",
+            "latitude": "7.9803",
+            "longitude": "49.8164"
+        },
+        {
+            "city": "Dujuuma",
+            "region": "08",
+            "country": "SO",
+            "latitude": "1.25373",
+            "longitude": "42.57319"
+        },
+        {
+            "city": "Dusa Marreb",
+            "region": "05",
+            "country": "SO",
+            "latitude": "5.535",
+            "longitude": "46.38611"
+        },
+        {
+            "city": "Erigavo",
+            "region": "12",
+            "country": "SO",
+            "latitude": "10.61532",
+            "longitude": "47.36531"
+        },
+        {
+            "city": "Ceeldheer",
+            "region": "05",
+            "country": "SO",
+            "latitude": "3.84878",
+            "longitude": "47.18064"
+        },
+        {
+            "city": "Ceelbuur",
+            "region": "05",
+            "country": "SO",
+            "latitude": "4.68501",
+            "longitude": "46.6176"
+        },
+        {
+            "city": "Ceek",
+            "region": "19",
+            "country": "SO",
+            "latitude": "8.99907",
+            "longitude": "45.35824"
+        },
+        {
+            "city": "Cadale",
+            "region": "13",
+            "country": "SO",
+            "latitude": "2.7603",
+            "longitude": "46.3222"
+        },
+        {
+            "city": "Buurhakaba",
+            "region": "04",
+            "country": "SO",
+            "latitude": "2.80257",
+            "longitude": "44.07806"
+        },
+        {
+            "city": "Buur Gaabo",
+            "region": "09",
+            "country": "SO",
+            "latitude": "-1.21933",
+            "longitude": "41.83736"
+        },
+        {
+            "city": "Buulobarde",
+            "region": "07",
+            "country": "SO",
+            "latitude": "3.85375",
+            "longitude": "45.56744"
+        },
+        {
+            "city": "Burao",
+            "region": "19",
+            "country": "SO",
+            "latitude": "9.52212",
+            "longitude": "45.53363"
+        },
+        {
+            "city": "Bender Cassim",
+            "region": "03",
+            "country": "SO",
+            "latitude": "11.28421",
+            "longitude": "49.18158"
+        },
+        {
+            "city": "Bereeda",
+            "region": "03",
+            "country": "SO",
+            "latitude": "11.87037",
+            "longitude": "51.05795"
+        },
+        {
+            "city": "Berbera",
+            "region": "20",
+            "country": "SO",
+            "latitude": "10.43901",
+            "longitude": "45.01282"
+        },
+        {
+            "city": "Beledweyne",
+            "region": "07",
+            "country": "SO",
+            "latitude": "4.73583",
+            "longitude": "45.20361"
+        },
+        {
+            "city": "Baidoa",
+            "region": "04",
+            "country": "SO",
+            "latitude": "3.11383",
+            "longitude": "43.6498"
+        },
+        {
+            "city": "Bargaal",
+            "region": "03",
+            "country": "SO",
+            "latitude": "11.28636",
+            "longitude": "51.0773"
+        },
+        {
+            "city": "Bandarbeyla",
+            "region": "03",
+            "country": "SO",
+            "latitude": "9.49426",
+            "longitude": "50.81224"
+        },
+        {
+            "city": "Baardheere",
+            "region": "06",
+            "country": "SO",
+            "latitude": "2.34464",
+            "longitude": "42.27644"
+        },
+        {
+            "city": "Afgooye",
+            "region": "14",
+            "country": "SO",
+            "latitude": "2.1381",
+            "longitude": "45.1212"
+        },
+        {
+            "city": "Laascaanood",
+            "region": "22",
+            "country": "SO",
+            "latitude": "8.47556",
+            "longitude": "47.35778"
+        }
+    ]
+}

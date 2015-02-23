@@ -1,0 +1,734 @@
+{
+    "country": "Venezuela",
+    "code": "VE",
+    "cities": [
+        {
+            "city": "La Asunci\u00f3n",
+            "region": "17",
+            "country": "VE",
+            "latitude": "11.03333",
+            "longitude": "-63.86278"
+        },
+        {
+            "city": "Anaco",
+            "region": "02",
+            "country": "VE",
+            "latitude": "9.43889",
+            "longitude": "-64.47278"
+        },
+        {
+            "city": "Alto Barinas",
+            "region": "05",
+            "country": "VE",
+            "latitude": "8.5931",
+            "longitude": "-70.2261"
+        },
+        {
+            "city": "Zaraza",
+            "region": "12",
+            "country": "VE",
+            "latitude": "9.35029",
+            "longitude": "-65.32452"
+        },
+        {
+            "city": "Yaritagua",
+            "region": "22",
+            "country": "VE",
+            "latitude": "10.08",
+            "longitude": "-69.12611"
+        },
+        {
+            "city": "Villa de Cura",
+            "region": "04",
+            "country": "VE",
+            "latitude": "10.03863",
+            "longitude": "-67.48938"
+        },
+        {
+            "city": "Villa Bruzual",
+            "region": "18",
+            "country": "VE",
+            "latitude": "9.33278",
+            "longitude": "-69.12083"
+        },
+        {
+            "city": "Valle de La Pascua",
+            "region": "12",
+            "country": "VE",
+            "latitude": "9.21554",
+            "longitude": "-66.00734"
+        },
+        {
+            "city": "Valera",
+            "region": "21",
+            "country": "VE",
+            "latitude": "9.31778",
+            "longitude": "-70.60361"
+        },
+        {
+            "city": "Valencia",
+            "region": "07",
+            "country": "VE",
+            "latitude": "10.16202",
+            "longitude": "-68.00765"
+        },
+        {
+            "city": "Upata",
+            "region": "06",
+            "country": "VE",
+            "latitude": "8.00861",
+            "longitude": "-62.39889"
+        },
+        {
+            "city": "Turmero",
+            "region": "04",
+            "country": "VE",
+            "latitude": "10.22388",
+            "longitude": "-67.47288"
+        },
+        {
+            "city": "Tucupita",
+            "region": "09",
+            "country": "VE",
+            "latitude": "9.06222",
+            "longitude": "-62.05102"
+        },
+        {
+            "city": "Tucacas",
+            "region": "11",
+            "country": "VE",
+            "latitude": "10.7906",
+            "longitude": "-68.32577"
+        },
+        {
+            "city": "Trujillo",
+            "region": "21",
+            "country": "VE",
+            "latitude": "9.37084",
+            "longitude": "-70.43472"
+        },
+        {
+            "city": "Tinaquillo",
+            "region": "08",
+            "country": "VE",
+            "latitude": "9.91861",
+            "longitude": "-68.30472"
+        },
+        {
+            "city": "T\u00e1riba",
+            "region": "20",
+            "country": "VE",
+            "latitude": "7.8188",
+            "longitude": "-72.22427"
+        },
+        {
+            "city": "Santa Teresa",
+            "region": "15",
+            "country": "VE",
+            "latitude": "10.23409",
+            "longitude": "-66.66308"
+        },
+        {
+            "city": "Santa Rita",
+            "region": "23",
+            "country": "VE",
+            "latitude": "10.53806",
+            "longitude": "-71.51694"
+        },
+        {
+            "city": "San Mateo",
+            "region": "04",
+            "country": "VE",
+            "latitude": "10.21302",
+            "longitude": "-67.42365"
+        },
+        {
+            "city": "San Juan de los Morros",
+            "region": "12",
+            "country": "VE",
+            "latitude": "9.91152",
+            "longitude": "-67.35381"
+        },
+        {
+            "city": "San Juan de Col\u00f3n",
+            "region": "20",
+            "country": "VE",
+            "latitude": "8.03125",
+            "longitude": "-72.26053"
+        },
+        {
+            "city": "San Jos\u00e9 de Guanipa",
+            "region": "02",
+            "country": "VE",
+            "latitude": "8.88724",
+            "longitude": "-64.16512"
+        },
+        {
+            "city": "San Joaqu\u00edn",
+            "region": "07",
+            "country": "VE",
+            "latitude": "10.263",
+            "longitude": "-67.7858"
+        },
+        {
+            "city": "San Felipe",
+            "region": "22",
+            "country": "VE",
+            "latitude": "10.33991",
+            "longitude": "-68.74247"
+        },
+        {
+            "city": "San Crist\u00f3bal",
+            "region": "20",
+            "country": "VE",
+            "latitude": "7.76694",
+            "longitude": "-72.225"
+        },
+        {
+            "city": "San Carlos del Zulia",
+            "region": "23",
+            "country": "VE",
+            "latitude": "9.00003",
+            "longitude": "-71.91352"
+        },
+        {
+            "city": "San Carlos",
+            "region": "08",
+            "country": "VE",
+            "latitude": "9.66124",
+            "longitude": "-68.58268"
+        },
+        {
+            "city": "San Antonio del T\u00e1chira",
+            "region": "20",
+            "country": "VE",
+            "latitude": "7.81454",
+            "longitude": "-72.4431"
+        },
+        {
+            "city": "San Antonio de Los Altos",
+            "region": "15",
+            "country": "VE",
+            "latitude": "10.36667",
+            "longitude": "-66.93333"
+        },
+        {
+            "city": "Rubio",
+            "region": "20",
+            "country": "VE",
+            "latitude": "7.70131",
+            "longitude": "-72.35569"
+        },
+        {
+            "city": "Rosario",
+            "region": "23",
+            "country": "VE",
+            "latitude": "10.31667",
+            "longitude": "-72.31667"
+        },
+        {
+            "city": "Qu\u00edbor",
+            "region": "13",
+            "country": "VE",
+            "latitude": "9.92556",
+            "longitude": "-69.62028"
+        },
+        {
+            "city": "Punto Fijo",
+            "region": "11",
+            "country": "VE",
+            "latitude": "11.69972",
+            "longitude": "-70.19917"
+        },
+        {
+            "city": "Punta Card\u00f3n",
+            "region": "11",
+            "country": "VE",
+            "latitude": "11.65806",
+            "longitude": "-70.215"
+        },
+        {
+            "city": "Puerto La Cruz",
+            "region": "02",
+            "country": "VE",
+            "latitude": "10.21667",
+            "longitude": "-64.61667"
+        },
+        {
+            "city": "Puerto Cabello",
+            "region": "07",
+            "country": "VE",
+            "latitude": "10.47306",
+            "longitude": "-68.0125"
+        },
+        {
+            "city": "Puerto Ayacucho",
+            "region": "01",
+            "country": "VE",
+            "latitude": "5.66389",
+            "longitude": "-67.62361"
+        },
+        {
+            "city": "Porlamar",
+            "region": "17",
+            "country": "VE",
+            "latitude": "10.95796",
+            "longitude": "-63.84906"
+        },
+        {
+            "city": "Petare",
+            "region": "15",
+            "country": "VE",
+            "latitude": "10.48333",
+            "longitude": "-66.81667"
+        },
+        {
+            "city": "Palo Negro",
+            "region": "04",
+            "country": "VE",
+            "latitude": "10.17389",
+            "longitude": "-67.54194"
+        },
+        {
+            "city": "Ocumare del Tuy",
+            "region": "15",
+            "country": "VE",
+            "latitude": "10.12167",
+            "longitude": "-66.77167"
+        },
+        {
+            "city": "Nirgua",
+            "region": "22",
+            "country": "VE",
+            "latitude": "10.15526",
+            "longitude": "-68.5663"
+        },
+        {
+            "city": "Mucumpiz",
+            "region": "14",
+            "country": "VE",
+            "latitude": "8.41667",
+            "longitude": "-71.13333"
+        },
+        {
+            "city": "Mor\u00f3n",
+            "region": "07",
+            "country": "VE",
+            "latitude": "10.48889",
+            "longitude": "-68.20028"
+        },
+        {
+            "city": "M\u00e9rida",
+            "region": "14",
+            "country": "VE",
+            "latitude": "8.59833",
+            "longitude": "-71.145"
+        },
+        {
+            "city": "Mariara",
+            "region": "07",
+            "country": "VE",
+            "latitude": "10.29644",
+            "longitude": "-67.71813"
+        },
+        {
+            "city": "Maracay",
+            "region": "04",
+            "country": "VE",
+            "latitude": "10.24694",
+            "longitude": "-67.59583"
+        },
+        {
+            "city": "Maracaibo",
+            "region": "23",
+            "country": "VE",
+            "latitude": "10.63167",
+            "longitude": "-71.64056"
+        },
+        {
+            "city": "Maiquet\u00eda",
+            "region": "26",
+            "country": "VE",
+            "latitude": "10.6",
+            "longitude": "-66.95"
+        },
+        {
+            "city": "Machiques",
+            "region": "23",
+            "country": "VE",
+            "latitude": "10.06444",
+            "longitude": "-72.545"
+        },
+        {
+            "city": "Los Rastrojos",
+            "region": "13",
+            "country": "VE",
+            "latitude": "10.02588",
+            "longitude": "-69.24166"
+        },
+        {
+            "city": "Los Dos Caminos",
+            "region": "15",
+            "country": "VE",
+            "latitude": "10.51667",
+            "longitude": "-66.83333"
+        },
+        {
+            "city": "La Victoria",
+            "region": "04",
+            "country": "VE",
+            "latitude": "10.23333",
+            "longitude": "-67.33333"
+        },
+        {
+            "city": "Las Tejer\u00edas",
+            "region": "04",
+            "country": "VE",
+            "latitude": "10.25",
+            "longitude": "-67.16667"
+        },
+        {
+            "city": "Lagunillas",
+            "region": "23",
+            "country": "VE",
+            "latitude": "10.14083",
+            "longitude": "-71.26139"
+        },
+        {
+            "city": "La Guaira",
+            "region": "26",
+            "country": "VE",
+            "latitude": "10.59901",
+            "longitude": "-66.9346"
+        },
+        {
+            "city": "Juan Griego",
+            "region": "17",
+            "country": "VE",
+            "latitude": "11.08333",
+            "longitude": "-63.95"
+        },
+        {
+            "city": "G\u00fcig\u00fce",
+            "region": "07",
+            "country": "VE",
+            "latitude": "10.08528",
+            "longitude": "-67.77917"
+        },
+        {
+            "city": "Guatire",
+            "region": "15",
+            "country": "VE",
+            "latitude": "10.4762",
+            "longitude": "-66.54266"
+        },
+        {
+            "city": "Guarenas",
+            "region": "15",
+            "country": "VE",
+            "latitude": "10.46736",
+            "longitude": "-66.60663"
+        },
+        {
+            "city": "Guanare",
+            "region": "18",
+            "country": "VE",
+            "latitude": "9.05",
+            "longitude": "-69.75"
+        },
+        {
+            "city": "Guacara",
+            "region": "07",
+            "country": "VE",
+            "latitude": "10.22609",
+            "longitude": "-67.877"
+        },
+        {
+            "city": "El Vig\u00eda",
+            "region": "14",
+            "country": "VE",
+            "latitude": "8.61366",
+            "longitude": "-71.65284"
+        },
+        {
+            "city": "El Tocuyo",
+            "region": "13",
+            "country": "VE",
+            "latitude": "9.78734",
+            "longitude": "-69.7937"
+        },
+        {
+            "city": "El Tigre",
+            "region": "02",
+            "country": "VE",
+            "latitude": "8.88752",
+            "longitude": "-64.24544"
+        },
+        {
+            "city": "El Lim\u00f3n",
+            "region": "04",
+            "country": "VE",
+            "latitude": "10.30589",
+            "longitude": "-67.63212"
+        },
+        {
+            "city": "El Hatillo",
+            "region": "15",
+            "country": "VE",
+            "latitude": "10.43333",
+            "longitude": "-66.81667"
+        },
+        {
+            "city": "Ejido",
+            "region": "14",
+            "country": "VE",
+            "latitude": "8.55139",
+            "longitude": "-71.2375"
+        },
+        {
+            "city": "Cuman\u00e1",
+            "region": "19",
+            "country": "VE",
+            "latitude": "10.46667",
+            "longitude": "-64.16667"
+        },
+        {
+            "city": "C\u00faa",
+            "region": "15",
+            "country": "VE",
+            "latitude": "10.16222",
+            "longitude": "-66.88528"
+        },
+        {
+            "city": "Coro",
+            "region": "11",
+            "country": "VE",
+            "latitude": "11.4045",
+            "longitude": "-69.67344"
+        },
+        {
+            "city": "Ciudad Guayana",
+            "region": "06",
+            "country": "VE",
+            "latitude": "8.35122",
+            "longitude": "-62.64102"
+        },
+        {
+            "city": "Ciudad Bol\u00edvar",
+            "region": "06",
+            "country": "VE",
+            "latitude": "8.12923",
+            "longitude": "-63.54086"
+        },
+        {
+            "city": "Chivacoa",
+            "region": "22",
+            "country": "VE",
+            "latitude": "10.16028",
+            "longitude": "-68.895"
+        },
+        {
+            "city": "Chichiriviche",
+            "region": "11",
+            "country": "VE",
+            "latitude": "10.9333",
+            "longitude": "-68.27716"
+        },
+        {
+            "city": "Charallave",
+            "region": "15",
+            "country": "VE",
+            "latitude": "10.24833",
+            "longitude": "-66.85667"
+        },
+        {
+            "city": "Chacao",
+            "region": "15",
+            "country": "VE",
+            "latitude": "10.5",
+            "longitude": "-66.85"
+        },
+        {
+            "city": "Tacarigua",
+            "region": "07",
+            "country": "VE",
+            "latitude": "10.08621",
+            "longitude": "-67.91982"
+        },
+        {
+            "city": "Caucag\u00fcito",
+            "region": "15",
+            "country": "VE",
+            "latitude": "10.48333",
+            "longitude": "-66.73333"
+        },
+        {
+            "city": "Catia La Mar",
+            "region": "26",
+            "country": "VE",
+            "latitude": "10.6",
+            "longitude": "-67.03333"
+        },
+        {
+            "city": "Car\u00fapano",
+            "region": "19",
+            "country": "VE",
+            "latitude": "10.66781",
+            "longitude": "-63.25849"
+        },
+        {
+            "city": "Carrizal",
+            "region": "15",
+            "country": "VE",
+            "latitude": "10.35",
+            "longitude": "-66.98333"
+        },
+        {
+            "city": "Carora",
+            "region": "13",
+            "country": "VE",
+            "latitude": "10.17554",
+            "longitude": "-70.08274"
+        },
+        {
+            "city": "Caracas",
+            "region": "25",
+            "country": "VE",
+            "latitude": "10.5",
+            "longitude": "-66.91667"
+        },
+        {
+            "city": "Caraballeda",
+            "region": "26",
+            "country": "VE",
+            "latitude": "10.61667",
+            "longitude": "-66.83333"
+        },
+        {
+            "city": "Cantaura",
+            "region": "02",
+            "country": "VE",
+            "latitude": "9.30571",
+            "longitude": "-64.35841"
+        },
+        {
+            "city": "Calabozo",
+            "region": "12",
+            "country": "VE",
+            "latitude": "8.92416",
+            "longitude": "-67.42929"
+        },
+        {
+            "city": "Cagua",
+            "region": "04",
+            "country": "VE",
+            "latitude": "10.18634",
+            "longitude": "-67.45935"
+        },
+        {
+            "city": "Cabimas",
+            "region": "23",
+            "country": "VE",
+            "latitude": "10.40194",
+            "longitude": "-71.44611"
+        },
+        {
+            "city": "Baruta",
+            "region": "15",
+            "country": "VE",
+            "latitude": "10.43333",
+            "longitude": "-66.88333"
+        },
+        {
+            "city": "Barquisimeto",
+            "region": "13",
+            "country": "VE",
+            "latitude": "10.07389",
+            "longitude": "-69.32278"
+        },
+        {
+            "city": "Barinitas",
+            "region": "05",
+            "country": "VE",
+            "latitude": "8.76222",
+            "longitude": "-70.41111"
+        },
+        {
+            "city": "Barcelona",
+            "region": "02",
+            "country": "VE",
+            "latitude": "10.13333",
+            "longitude": "-64.7"
+        },
+        {
+            "city": "Araure",
+            "region": "18",
+            "country": "VE",
+            "latitude": "9.56667",
+            "longitude": "-69.21667"
+        },
+        {
+            "city": "Altagracia de Orituco",
+            "region": "12",
+            "country": "VE",
+            "latitude": "9.86005",
+            "longitude": "-66.38139"
+        },
+        {
+            "city": "Acarigua",
+            "region": "18",
+            "country": "VE",
+            "latitude": "9.55972",
+            "longitude": "-69.20194"
+        },
+        {
+            "city": "Matur\u00edn",
+            "region": "16",
+            "country": "VE",
+            "latitude": "9.75",
+            "longitude": "-63.17667"
+        },
+        {
+            "city": "La Fr\u00eda",
+            "region": "20",
+            "country": "VE",
+            "latitude": "8.22027",
+            "longitude": "-72.2439"
+        },
+        {
+            "city": "El Cafetal",
+            "region": "15",
+            "country": "VE",
+            "latitude": "10.46667",
+            "longitude": "-66.82778"
+        },
+        {
+            "city": "Caucaguita",
+            "region": "15",
+            "country": "VE",
+            "latitude": "10.36111",
+            "longitude": "-66.80833"
+        },
+        {
+            "city": "La Dolorita",
+            "region": "15",
+            "country": "VE",
+            "latitude": "10.49056",
+            "longitude": "-66.78333"
+        },
+        {
+            "city": "Guasdalito",
+            "region": "03",
+            "country": "VE",
+            "latitude": "7.24241",
+            "longitude": "-70.73236"
+        },
+        {
+            "city": "San Fernando Apure",
+            "region": "03",
+            "country": "VE",
+            "latitude": "7.89667",
+            "longitude": "-67.46722"
+        }
+    ]
+}

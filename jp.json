@@ -1,0 +1,5361 @@
+{
+    "country": "Japan",
+    "code": "JP",
+    "cities": [
+        {
+            "city": "Shing\u016b",
+            "region": "43",
+            "country": "JP",
+            "latitude": "33.73333",
+            "longitude": "135.98333"
+        },
+        {
+            "city": "Atsugi",
+            "region": "19",
+            "country": "JP",
+            "latitude": "35.43889",
+            "longitude": "139.35972"
+        },
+        {
+            "city": "Akashi",
+            "region": "13",
+            "country": "JP",
+            "latitude": "34.63333",
+            "longitude": "134.98333"
+        },
+        {
+            "city": "Zushi",
+            "region": "19",
+            "country": "JP",
+            "latitude": "35.29167",
+            "longitude": "139.58556"
+        },
+        {
+            "city": "Zama",
+            "region": "19",
+            "country": "JP",
+            "latitude": "35.48889",
+            "longitude": "139.38861"
+        },
+        {
+            "city": "Yuza",
+            "region": "44",
+            "country": "JP",
+            "latitude": "39",
+            "longitude": "139.91667"
+        },
+        {
+            "city": "Yukuhashi",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.73333",
+            "longitude": "130.98333"
+        },
+        {
+            "city": "Y\u016bki",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.3",
+            "longitude": "139.88333"
+        },
+        {
+            "city": "Yugawara",
+            "region": "19",
+            "country": "JP",
+            "latitude": "35.15",
+            "longitude": "139.06667"
+        },
+        {
+            "city": "Yoshino-ch\u014d",
+            "region": "28",
+            "country": "JP",
+            "latitude": "34.39611",
+            "longitude": "135.85768"
+        },
+        {
+            "city": "Yoshikawa",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.88528",
+            "longitude": "139.83944"
+        },
+        {
+            "city": "Yoshii",
+            "region": "10",
+            "country": "JP",
+            "latitude": "36.25",
+            "longitude": "138.98333"
+        },
+        {
+            "city": "Yoshida",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.68333",
+            "longitude": "138.88333"
+        },
+        {
+            "city": "Yorii",
+            "region": "34",
+            "country": "JP",
+            "latitude": "36.11667",
+            "longitude": "139.2"
+        },
+        {
+            "city": "Yono",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.88333",
+            "longitude": "139.63333"
+        },
+        {
+            "city": "Yonakuni",
+            "region": "47",
+            "country": "JP",
+            "latitude": "24.46667",
+            "longitude": "123"
+        },
+        {
+            "city": "Yonago",
+            "region": "41",
+            "country": "JP",
+            "latitude": "35.43333",
+            "longitude": "133.33333"
+        },
+        {
+            "city": "Yokosuka",
+            "region": "19",
+            "country": "JP",
+            "latitude": "35.28361",
+            "longitude": "139.66722"
+        },
+        {
+            "city": "Yokohama-shi",
+            "region": "19",
+            "country": "JP",
+            "latitude": "35.44778",
+            "longitude": "139.6425"
+        },
+        {
+            "city": "Yokkaichi",
+            "region": "23",
+            "country": "JP",
+            "latitude": "34.96667",
+            "longitude": "136.61667"
+        },
+        {
+            "city": "Youkaichi",
+            "region": "35",
+            "country": "JP",
+            "latitude": "35.11626",
+            "longitude": "136.19768"
+        },
+        {
+            "city": "Yawata",
+            "region": "22",
+            "country": "JP",
+            "latitude": "34.87009",
+            "longitude": "135.7027"
+        },
+        {
+            "city": "Yatsushiro",
+            "region": "21",
+            "country": "JP",
+            "latitude": "32.5",
+            "longitude": "130.6"
+        },
+        {
+            "city": "Yatsuo",
+            "region": "42",
+            "country": "JP",
+            "latitude": "36.56667",
+            "longitude": "137.13333"
+        },
+        {
+            "city": "Yasugi",
+            "region": "36",
+            "country": "JP",
+            "latitude": "35.43333",
+            "longitude": "133.25"
+        },
+        {
+            "city": "Yasu",
+            "region": "35",
+            "country": "JP",
+            "latitude": "35.06801",
+            "longitude": "136.02327"
+        },
+        {
+            "city": "Yashiro",
+            "region": "13",
+            "country": "JP",
+            "latitude": "34.91667",
+            "longitude": "134.96667"
+        },
+        {
+            "city": "Yashio-shi",
+            "region": "00",
+            "country": "JP",
+            "latitude": "35.82255",
+            "longitude": "139.83905"
+        },
+        {
+            "city": "Yao",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.61667",
+            "longitude": "135.6"
+        },
+        {
+            "city": "Yanai",
+            "region": "45",
+            "country": "JP",
+            "latitude": "33.96667",
+            "longitude": "132.11667"
+        },
+        {
+            "city": "Yanagawa",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.16667",
+            "longitude": "130.4"
+        },
+        {
+            "city": "Yamasaki",
+            "region": "13",
+            "country": "JP",
+            "latitude": "35",
+            "longitude": "134.55"
+        },
+        {
+            "city": "Yamaguchi-shi",
+            "region": "45",
+            "country": "JP",
+            "latitude": "34.18583",
+            "longitude": "131.47139"
+        },
+        {
+            "city": "Yamaga",
+            "region": "21",
+            "country": "JP",
+            "latitude": "33.01667",
+            "longitude": "130.68333"
+        },
+        {
+            "city": "Yaizu",
+            "region": "37",
+            "country": "JP",
+            "latitude": "34.86667",
+            "longitude": "138.33333"
+        },
+        {
+            "city": "Yaita",
+            "region": "38",
+            "country": "JP",
+            "latitude": "36.8",
+            "longitude": "139.93333"
+        },
+        {
+            "city": "Warabi",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.82639",
+            "longitude": "139.70444"
+        },
+        {
+            "city": "Waki",
+            "region": "39",
+            "country": "JP",
+            "latitude": "34.06667",
+            "longitude": "134.15"
+        },
+        {
+            "city": "Utsunomiya-shi",
+            "region": "38",
+            "country": "JP",
+            "latitude": "36.56583",
+            "longitude": "139.88361"
+        },
+        {
+            "city": "Uto",
+            "region": "21",
+            "country": "JP",
+            "latitude": "32.68333",
+            "longitude": "130.66667"
+        },
+        {
+            "city": "Usuki",
+            "region": "30",
+            "country": "JP",
+            "latitude": "33.10806",
+            "longitude": "131.78778"
+        },
+        {
+            "city": "Ushibuka",
+            "region": "21",
+            "country": "JP",
+            "latitude": "32.19056",
+            "longitude": "130.02278"
+        },
+        {
+            "city": "Ureshino",
+            "region": "33",
+            "country": "JP",
+            "latitude": "33.1",
+            "longitude": "129.98333"
+        },
+        {
+            "city": "Urayasu",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.67056",
+            "longitude": "139.88861"
+        },
+        {
+            "city": "Uozu",
+            "region": "42",
+            "country": "JP",
+            "latitude": "36.8",
+            "longitude": "137.4"
+        },
+        {
+            "city": "Umi",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.56667",
+            "longitude": "130.5"
+        },
+        {
+            "city": "Ujiie",
+            "region": "38",
+            "country": "JP",
+            "latitude": "36.68333",
+            "longitude": "139.96667"
+        },
+        {
+            "city": "Uji",
+            "region": "22",
+            "country": "JP",
+            "latitude": "34.88333",
+            "longitude": "135.8"
+        },
+        {
+            "city": "Uenohara",
+            "region": "46",
+            "country": "JP",
+            "latitude": "35.61667",
+            "longitude": "139.11667"
+        },
+        {
+            "city": "Ueno",
+            "region": "23",
+            "country": "JP",
+            "latitude": "34.75",
+            "longitude": "136.13333"
+        },
+        {
+            "city": "Ueki",
+            "region": "21",
+            "country": "JP",
+            "latitude": "32.9",
+            "longitude": "130.68333"
+        },
+        {
+            "city": "Ueda",
+            "region": "26",
+            "country": "JP",
+            "latitude": "36.4",
+            "longitude": "138.26667"
+        },
+        {
+            "city": "Ube",
+            "region": "45",
+            "country": "JP",
+            "latitude": "33.94306",
+            "longitude": "131.25111"
+        },
+        {
+            "city": "Tsuyama",
+            "region": "31",
+            "country": "JP",
+            "latitude": "35.05",
+            "longitude": "134"
+        },
+        {
+            "city": "Tsushima",
+            "region": "01",
+            "country": "JP",
+            "latitude": "35.16667",
+            "longitude": "136.71667"
+        },
+        {
+            "city": "Tsuruoka",
+            "region": "44",
+            "country": "JP",
+            "latitude": "38.72167",
+            "longitude": "139.82167"
+        },
+        {
+            "city": "Tsurugi",
+            "region": "15",
+            "country": "JP",
+            "latitude": "36.45",
+            "longitude": "136.63333"
+        },
+        {
+            "city": "Tsuruga",
+            "region": "06",
+            "country": "JP",
+            "latitude": "35.64547",
+            "longitude": "136.0558"
+        },
+        {
+            "city": "Tsuma",
+            "region": "25",
+            "country": "JP",
+            "latitude": "32.1",
+            "longitude": "131.4"
+        },
+        {
+            "city": "Tsukumi",
+            "region": "30",
+            "country": "JP",
+            "latitude": "33.07056",
+            "longitude": "131.85722"
+        },
+        {
+            "city": "Tsukawaki",
+            "region": "30",
+            "country": "JP",
+            "latitude": "33.26667",
+            "longitude": "131.15"
+        },
+        {
+            "city": "Tsubata",
+            "region": "15",
+            "country": "JP",
+            "latitude": "36.66667",
+            "longitude": "136.73333"
+        },
+        {
+            "city": "Tsubame",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.65",
+            "longitude": "138.93333"
+        },
+        {
+            "city": "Tsu-shi",
+            "region": "23",
+            "country": "JP",
+            "latitude": "34.73028",
+            "longitude": "136.50861"
+        },
+        {
+            "city": "Toyota",
+            "region": "01",
+            "country": "JP",
+            "latitude": "35.08333",
+            "longitude": "137.15"
+        },
+        {
+            "city": "Toyoshina",
+            "region": "26",
+            "country": "JP",
+            "latitude": "36.29991",
+            "longitude": "137.90108"
+        },
+        {
+            "city": "Toyooka",
+            "region": "13",
+            "country": "JP",
+            "latitude": "35.53333",
+            "longitude": "134.83333"
+        },
+        {
+            "city": "Toyonaka",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.78244",
+            "longitude": "135.46932"
+        },
+        {
+            "city": "Toyokawa",
+            "region": "01",
+            "country": "JP",
+            "latitude": "34.81667",
+            "longitude": "137.4"
+        },
+        {
+            "city": "Toyohashi",
+            "region": "01",
+            "country": "JP",
+            "latitude": "34.76667",
+            "longitude": "137.38333"
+        },
+        {
+            "city": "Toyohama",
+            "region": "01",
+            "country": "JP",
+            "latitude": "34.7",
+            "longitude": "136.93333"
+        },
+        {
+            "city": "Toyama-shi",
+            "region": "42",
+            "country": "JP",
+            "latitude": "36.69528",
+            "longitude": "137.21139"
+        },
+        {
+            "city": "Tottori",
+            "region": "41",
+            "country": "JP",
+            "latitude": "35.5",
+            "longitude": "134.23333"
+        },
+        {
+            "city": "Tosu",
+            "region": "33",
+            "country": "JP",
+            "latitude": "33.36667",
+            "longitude": "130.51667"
+        },
+        {
+            "city": "Tonosh\u014d",
+            "region": "17",
+            "country": "JP",
+            "latitude": "34.48333",
+            "longitude": "134.18333"
+        },
+        {
+            "city": "Tondabayashi",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.5",
+            "longitude": "135.6"
+        },
+        {
+            "city": "Tomioka",
+            "region": "10",
+            "country": "JP",
+            "latitude": "36.25",
+            "longitude": "138.9"
+        },
+        {
+            "city": "Tomigusuku",
+            "region": "47",
+            "country": "JP",
+            "latitude": "26.185",
+            "longitude": "127.675"
+        },
+        {
+            "city": "Tokyo",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.61488",
+            "longitude": "139.5813"
+        },
+        {
+            "city": "Tokuyama",
+            "region": "45",
+            "country": "JP",
+            "latitude": "34.05",
+            "longitude": "131.81667"
+        },
+        {
+            "city": "Tokushima-shi",
+            "region": "39",
+            "country": "JP",
+            "latitude": "34.06583",
+            "longitude": "134.55944"
+        },
+        {
+            "city": "Tokorozawa",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.79916",
+            "longitude": "139.46903"
+        },
+        {
+            "city": "Tokoname",
+            "region": "01",
+            "country": "JP",
+            "latitude": "34.88333",
+            "longitude": "136.85"
+        },
+        {
+            "city": "Toki",
+            "region": "09",
+            "country": "JP",
+            "latitude": "35.35",
+            "longitude": "137.18333"
+        },
+        {
+            "city": "T\u014dkamachi",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.13333",
+            "longitude": "138.76667"
+        },
+        {
+            "city": "Togitsu",
+            "region": "27",
+            "country": "JP",
+            "latitude": "32.83333",
+            "longitude": "129.85"
+        },
+        {
+            "city": "Tochio",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.46667",
+            "longitude": "139"
+        },
+        {
+            "city": "Tochigi",
+            "region": "38",
+            "country": "JP",
+            "latitude": "36.38333",
+            "longitude": "139.73333"
+        },
+        {
+            "city": "Toba",
+            "region": "23",
+            "country": "JP",
+            "latitude": "34.48333",
+            "longitude": "136.85"
+        },
+        {
+            "city": "Tenri",
+            "region": "28",
+            "country": "JP",
+            "latitude": "34.58333",
+            "longitude": "135.83333"
+        },
+        {
+            "city": "Tenn\u014d",
+            "region": "02",
+            "country": "JP",
+            "latitude": "39.9",
+            "longitude": "139.96667"
+        },
+        {
+            "city": "Tawaramoto",
+            "region": "28",
+            "country": "JP",
+            "latitude": "34.55",
+            "longitude": "135.8"
+        },
+        {
+            "city": "Tatsuno",
+            "region": "26",
+            "country": "JP",
+            "latitude": "35.98426",
+            "longitude": "137.99721"
+        },
+        {
+            "city": "Tatsuno",
+            "region": "13",
+            "country": "JP",
+            "latitude": "34.86667",
+            "longitude": "134.55"
+        },
+        {
+            "city": "Tateyama",
+            "region": "04",
+            "country": "JP",
+            "latitude": "34.98333",
+            "longitude": "139.86667"
+        },
+        {
+            "city": "Tatebayashi",
+            "region": "10",
+            "country": "JP",
+            "latitude": "36.25",
+            "longitude": "139.53333"
+        },
+        {
+            "city": "Tarumizu",
+            "region": "18",
+            "country": "JP",
+            "latitude": "31.48333",
+            "longitude": "130.7"
+        },
+        {
+            "city": "Tarui",
+            "region": "09",
+            "country": "JP",
+            "latitude": "35.36667",
+            "longitude": "136.53333"
+        },
+        {
+            "city": "Tanushimaru",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.35",
+            "longitude": "130.68333"
+        },
+        {
+            "city": "Tanuma",
+            "region": "38",
+            "country": "JP",
+            "latitude": "36.36667",
+            "longitude": "139.58333"
+        },
+        {
+            "city": "Nishi-Tokyo-shi",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.72526",
+            "longitude": "139.5383"
+        },
+        {
+            "city": "Tanashi",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.72389",
+            "longitude": "139.52222"
+        },
+        {
+            "city": "Tanabe",
+            "region": "22",
+            "country": "JP",
+            "latitude": "34.81667",
+            "longitude": "135.76667"
+        },
+        {
+            "city": "Tanabe",
+            "region": "43",
+            "country": "JP",
+            "latitude": "33.73333",
+            "longitude": "135.36667"
+        },
+        {
+            "city": "Tamano",
+            "region": "31",
+            "country": "JP",
+            "latitude": "34.48333",
+            "longitude": "133.95"
+        },
+        {
+            "city": "Tamana",
+            "region": "21",
+            "country": "JP",
+            "latitude": "32.91667",
+            "longitude": "130.56667"
+        },
+        {
+            "city": "Tamamura",
+            "region": "10",
+            "country": "JP",
+            "latitude": "36.3",
+            "longitude": "139.11667"
+        },
+        {
+            "city": "Taketoyo",
+            "region": "01",
+            "country": "JP",
+            "latitude": "34.85",
+            "longitude": "136.91667"
+        },
+        {
+            "city": "Takeo",
+            "region": "33",
+            "country": "JP",
+            "latitude": "33.2",
+            "longitude": "130.01667"
+        },
+        {
+            "city": "Takehara",
+            "region": "11",
+            "country": "JP",
+            "latitude": "34.33833",
+            "longitude": "132.91667"
+        },
+        {
+            "city": "Takefu",
+            "region": "06",
+            "country": "JP",
+            "latitude": "35.90393",
+            "longitude": "136.16687"
+        },
+        {
+            "city": "Takedamachi",
+            "region": "30",
+            "country": "JP",
+            "latitude": "32.96667",
+            "longitude": "131.4"
+        },
+        {
+            "city": "Takayama",
+            "region": "09",
+            "country": "JP",
+            "latitude": "36.13333",
+            "longitude": "137.25"
+        },
+        {
+            "city": "Takatsuki",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.84833",
+            "longitude": "135.61678"
+        },
+        {
+            "city": "Takasaki",
+            "region": "10",
+            "country": "JP",
+            "latitude": "36.33333",
+            "longitude": "139.01667"
+        },
+        {
+            "city": "Takarazuka",
+            "region": "13",
+            "country": "JP",
+            "latitude": "34.79936",
+            "longitude": "135.35697"
+        },
+        {
+            "city": "Takaoka",
+            "region": "42",
+            "country": "JP",
+            "latitude": "36.75",
+            "longitude": "137.01667"
+        },
+        {
+            "city": "Takanabe",
+            "region": "25",
+            "country": "JP",
+            "latitude": "32.13333",
+            "longitude": "131.5"
+        },
+        {
+            "city": "Takamatsu-shi",
+            "region": "17",
+            "country": "JP",
+            "latitude": "34.34028",
+            "longitude": "134.04333"
+        },
+        {
+            "city": "Takaishi",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.51667",
+            "longitude": "135.43333"
+        },
+        {
+            "city": "Takahashi",
+            "region": "31",
+            "country": "JP",
+            "latitude": "34.78333",
+            "longitude": "133.61667"
+        },
+        {
+            "city": "Takahama",
+            "region": "01",
+            "country": "JP",
+            "latitude": "34.91667",
+            "longitude": "136.98333"
+        },
+        {
+            "city": "Bungo-Takada-shi",
+            "region": "30",
+            "country": "JP",
+            "latitude": "33.5567",
+            "longitude": "131.44506"
+        },
+        {
+            "city": "Tajimi",
+            "region": "09",
+            "country": "JP",
+            "latitude": "35.31667",
+            "longitude": "137.13333"
+        },
+        {
+            "city": "Tahara",
+            "region": "01",
+            "country": "JP",
+            "latitude": "34.66667",
+            "longitude": "137.26667"
+        },
+        {
+            "city": "Tagawa",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.63333",
+            "longitude": "130.8"
+        },
+        {
+            "city": "Tadotsu",
+            "region": "17",
+            "country": "JP",
+            "latitude": "34.275",
+            "longitude": "133.75"
+        },
+        {
+            "city": "Tachikawa",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.69278",
+            "longitude": "139.41806"
+        },
+        {
+            "city": "Suzuka",
+            "region": "23",
+            "country": "JP",
+            "latitude": "34.88333",
+            "longitude": "136.58333"
+        },
+        {
+            "city": "Suzaka",
+            "region": "26",
+            "country": "JP",
+            "latitude": "36.65",
+            "longitude": "138.31667"
+        },
+        {
+            "city": "Suwa",
+            "region": "26",
+            "country": "JP",
+            "latitude": "36.03799",
+            "longitude": "138.11308"
+        },
+        {
+            "city": "Susaki",
+            "region": "20",
+            "country": "JP",
+            "latitude": "33.36667",
+            "longitude": "133.28333"
+        },
+        {
+            "city": "Sumoto",
+            "region": "13",
+            "country": "JP",
+            "latitude": "34.35",
+            "longitude": "134.9"
+        },
+        {
+            "city": "Sukumo",
+            "region": "20",
+            "country": "JP",
+            "latitude": "32.93333",
+            "longitude": "132.73333"
+        },
+        {
+            "city": "Suita",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.76143",
+            "longitude": "135.51567"
+        },
+        {
+            "city": "Suibara",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.83333",
+            "longitude": "139.23333"
+        },
+        {
+            "city": "Sugito",
+            "region": "34",
+            "country": "JP",
+            "latitude": "36.03333",
+            "longitude": "139.73333"
+        },
+        {
+            "city": "Sueyoshi",
+            "region": "18",
+            "country": "JP",
+            "latitude": "31.65",
+            "longitude": "131.01667"
+        },
+        {
+            "city": "S\u014dka",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.82028",
+            "longitude": "139.80444"
+        },
+        {
+            "city": "S\u014dja",
+            "region": "31",
+            "country": "JP",
+            "latitude": "34.66667",
+            "longitude": "133.75"
+        },
+        {
+            "city": "Sobue",
+            "region": "01",
+            "country": "JP",
+            "latitude": "35.25",
+            "longitude": "136.71667"
+        },
+        {
+            "city": "Sh\u014dbu",
+            "region": "34",
+            "country": "JP",
+            "latitude": "36.06667",
+            "longitude": "139.6"
+        },
+        {
+            "city": "Sh\u014dbara",
+            "region": "11",
+            "country": "JP",
+            "latitude": "34.85",
+            "longitude": "133.01667"
+        },
+        {
+            "city": "Shizuoka-shi",
+            "region": "37",
+            "country": "JP",
+            "latitude": "34.97694",
+            "longitude": "138.38306"
+        },
+        {
+            "city": "Shirone",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.76667",
+            "longitude": "139.01667"
+        },
+        {
+            "city": "Shiraoka",
+            "region": "34",
+            "country": "JP",
+            "latitude": "36.01667",
+            "longitude": "139.66667"
+        },
+        {
+            "city": "Shirahama",
+            "region": "13",
+            "country": "JP",
+            "latitude": "34.78333",
+            "longitude": "134.71667"
+        },
+        {
+            "city": "Shiozawa",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.03333",
+            "longitude": "138.85"
+        },
+        {
+            "city": "Shiojiri",
+            "region": "26",
+            "country": "JP",
+            "latitude": "36.1",
+            "longitude": "137.96667"
+        },
+        {
+            "city": "Shinshiro",
+            "region": "01",
+            "country": "JP",
+            "latitude": "34.9",
+            "longitude": "137.5"
+        },
+        {
+            "city": "Shinichi",
+            "region": "11",
+            "country": "JP",
+            "latitude": "34.55",
+            "longitude": "133.26667"
+        },
+        {
+            "city": "Shing\u016b",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.71667",
+            "longitude": "130.43333"
+        },
+        {
+            "city": "Shinagawa-ku",
+            "region": "00",
+            "country": "JP",
+            "latitude": "35.60902",
+            "longitude": "139.73017"
+        },
+        {
+            "city": "Shimonoseki",
+            "region": "45",
+            "country": "JP",
+            "latitude": "33.95",
+            "longitude": "130.95"
+        },
+        {
+            "city": "Shimodate",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.3",
+            "longitude": "139.98333"
+        },
+        {
+            "city": "Shimoda",
+            "region": "37",
+            "country": "JP",
+            "latitude": "34.66667",
+            "longitude": "138.95"
+        },
+        {
+            "city": "Shimminatoch\u014d",
+            "region": "43",
+            "country": "JP",
+            "latitude": "34.18333",
+            "longitude": "135.2"
+        },
+        {
+            "city": "Shimminato",
+            "region": "42",
+            "country": "JP",
+            "latitude": "36.78333",
+            "longitude": "137.06667"
+        },
+        {
+            "city": "Shimada",
+            "region": "37",
+            "country": "JP",
+            "latitude": "34.81667",
+            "longitude": "138.18333"
+        },
+        {
+            "city": "Shimabara",
+            "region": "27",
+            "country": "JP",
+            "latitude": "32.78333",
+            "longitude": "130.36667"
+        },
+        {
+            "city": "Shiki",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.83333",
+            "longitude": "139.58333"
+        },
+        {
+            "city": "Shido",
+            "region": "17",
+            "country": "JP",
+            "latitude": "34.32333",
+            "longitude": "134.17333"
+        },
+        {
+            "city": "Shibushi",
+            "region": "18",
+            "country": "JP",
+            "latitude": "31.46667",
+            "longitude": "131.105"
+        },
+        {
+            "city": "Shibukawa",
+            "region": "10",
+            "country": "JP",
+            "latitude": "36.48333",
+            "longitude": "139"
+        },
+        {
+            "city": "Shibata",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.95",
+            "longitude": "139.33333"
+        },
+        {
+            "city": "Seto",
+            "region": "01",
+            "country": "JP",
+            "latitude": "35.23333",
+            "longitude": "137.1"
+        },
+        {
+            "city": "Setaka",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.15",
+            "longitude": "130.46667"
+        },
+        {
+            "city": "Sendai",
+            "region": "18",
+            "country": "JP",
+            "latitude": "31.81667",
+            "longitude": "130.3"
+        },
+        {
+            "city": "Satte",
+            "region": "34",
+            "country": "JP",
+            "latitude": "36.06667",
+            "longitude": "139.71667"
+        },
+        {
+            "city": "Sasebo",
+            "region": "27",
+            "country": "JP",
+            "latitude": "33.15917",
+            "longitude": "129.72278"
+        },
+        {
+            "city": "Sasayama",
+            "region": "13",
+            "country": "JP",
+            "latitude": "35.06667",
+            "longitude": "135.21667"
+        },
+        {
+            "city": "Sasaguri",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.61667",
+            "longitude": "130.53333"
+        },
+        {
+            "city": "Sano",
+            "region": "38",
+            "country": "JP",
+            "latitude": "36.31667",
+            "longitude": "139.58333"
+        },
+        {
+            "city": "Sanj\u014d",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.61667",
+            "longitude": "138.95"
+        },
+        {
+            "city": "Sanda",
+            "region": "13",
+            "country": "JP",
+            "latitude": "34.88333",
+            "longitude": "135.23333"
+        },
+        {
+            "city": "Sakurai",
+            "region": "28",
+            "country": "JP",
+            "latitude": "34.5",
+            "longitude": "135.85"
+        },
+        {
+            "city": "Saku",
+            "region": "26",
+            "country": "JP",
+            "latitude": "36.21667",
+            "longitude": "138.48333"
+        },
+        {
+            "city": "Sakata",
+            "region": "44",
+            "country": "JP",
+            "latitude": "38.91667",
+            "longitude": "139.855"
+        },
+        {
+            "city": "Sakaiminato",
+            "region": "41",
+            "country": "JP",
+            "latitude": "35.55",
+            "longitude": "133.23333"
+        },
+        {
+            "city": "Sakaide",
+            "region": "17",
+            "country": "JP",
+            "latitude": "34.31667",
+            "longitude": "133.85"
+        },
+        {
+            "city": "Sakai",
+            "region": "10",
+            "country": "JP",
+            "latitude": "36.26667",
+            "longitude": "139.25"
+        },
+        {
+            "city": "Sakai",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.1",
+            "longitude": "139.8"
+        },
+        {
+            "city": "Sakai",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.58333",
+            "longitude": "135.46667"
+        },
+        {
+            "city": "Sakado",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.95694",
+            "longitude": "139.38889"
+        },
+        {
+            "city": "Saiki",
+            "region": "30",
+            "country": "JP",
+            "latitude": "32.95",
+            "longitude": "131.9"
+        },
+        {
+            "city": "Sagara",
+            "region": "37",
+            "country": "JP",
+            "latitude": "34.68333",
+            "longitude": "138.2"
+        },
+        {
+            "city": "Sagamihara",
+            "region": "19",
+            "country": "JP",
+            "latitude": "35.55306",
+            "longitude": "139.35444"
+        },
+        {
+            "city": "Saga-shi",
+            "region": "33",
+            "country": "JP",
+            "latitude": "33.24932",
+            "longitude": "130.2988"
+        },
+        {
+            "city": "Sabae",
+            "region": "06",
+            "country": "JP",
+            "latitude": "35.94647",
+            "longitude": "136.18498"
+        },
+        {
+            "city": "Ry\u016b\u014d",
+            "region": "46",
+            "country": "JP",
+            "latitude": "35.65",
+            "longitude": "138.5"
+        },
+        {
+            "city": "Ry\u014dtsu",
+            "region": "29",
+            "country": "JP",
+            "latitude": "38.08333",
+            "longitude": "138.43333"
+        },
+        {
+            "city": "\u014czu",
+            "region": "21",
+            "country": "JP",
+            "latitude": "32.86667",
+            "longitude": "130.86667"
+        },
+        {
+            "city": "Oyama",
+            "region": "38",
+            "country": "JP",
+            "latitude": "36.3",
+            "longitude": "139.8"
+        },
+        {
+            "city": "\u014cyama",
+            "region": "37",
+            "country": "JP",
+            "latitude": "34.6",
+            "longitude": "138.21667"
+        },
+        {
+            "city": "Owase",
+            "region": "23",
+            "country": "JP",
+            "latitude": "34.06667",
+            "longitude": "136.2"
+        },
+        {
+            "city": "\u014ctsuki",
+            "region": "46",
+            "country": "JP",
+            "latitude": "35.6",
+            "longitude": "138.93333"
+        },
+        {
+            "city": "\u014ctsu-shi",
+            "region": "35",
+            "country": "JP",
+            "latitude": "35.00444",
+            "longitude": "135.86833"
+        },
+        {
+            "city": "\u014ctake",
+            "region": "45",
+            "country": "JP",
+            "latitude": "34.2",
+            "longitude": "132.21667"
+        },
+        {
+            "city": "\u014cta",
+            "region": "10",
+            "country": "JP",
+            "latitude": "36.3",
+            "longitude": "139.36667"
+        },
+        {
+            "city": "\u014csaka-shi",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.69374",
+            "longitude": "135.50218"
+        },
+        {
+            "city": "Onomichi",
+            "region": "11",
+            "country": "JP",
+            "latitude": "34.41667",
+            "longitude": "133.2"
+        },
+        {
+            "city": "Onoda",
+            "region": "45",
+            "country": "JP",
+            "latitude": "34.00139",
+            "longitude": "131.18361"
+        },
+        {
+            "city": "Ono",
+            "region": "06",
+            "country": "JP",
+            "latitude": "35.98106",
+            "longitude": "136.48727"
+        },
+        {
+            "city": "Ono",
+            "region": "13",
+            "country": "JP",
+            "latitude": "34.85",
+            "longitude": "134.93333"
+        },
+        {
+            "city": "\u014cno",
+            "region": "11",
+            "country": "JP",
+            "latitude": "34.28333",
+            "longitude": "132.26667"
+        },
+        {
+            "city": "\u014cmuta",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.03333",
+            "longitude": "130.45"
+        },
+        {
+            "city": "\u014cmura",
+            "region": "27",
+            "country": "JP",
+            "latitude": "32.92139",
+            "longitude": "129.95389"
+        },
+        {
+            "city": "\u014cme",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.78389",
+            "longitude": "139.24306"
+        },
+        {
+            "city": "\u014cmama",
+            "region": "10",
+            "country": "JP",
+            "latitude": "36.43333",
+            "longitude": "139.28333"
+        },
+        {
+            "city": "\u014cmachi",
+            "region": "26",
+            "country": "JP",
+            "latitude": "36.5",
+            "longitude": "137.86667"
+        },
+        {
+            "city": "\u014ckuchi",
+            "region": "18",
+            "country": "JP",
+            "latitude": "32.06667",
+            "longitude": "130.61667"
+        },
+        {
+            "city": "Okegawa",
+            "region": "34",
+            "country": "JP",
+            "latitude": "36",
+            "longitude": "139.55722"
+        },
+        {
+            "city": "Okazaki",
+            "region": "01",
+            "country": "JP",
+            "latitude": "34.95",
+            "longitude": "137.16667"
+        },
+        {
+            "city": "Okayama-shi",
+            "region": "31",
+            "country": "JP",
+            "latitude": "34.66167",
+            "longitude": "133.935"
+        },
+        {
+            "city": "Okaya",
+            "region": "26",
+            "country": "JP",
+            "latitude": "36.05659",
+            "longitude": "138.0451"
+        },
+        {
+            "city": "\u014ckawa",
+            "region": "33",
+            "country": "JP",
+            "latitude": "33.2",
+            "longitude": "130.35"
+        },
+        {
+            "city": "Ojiya",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.3",
+            "longitude": "138.8"
+        },
+        {
+            "city": "\u014cita-shi",
+            "region": "30",
+            "country": "JP",
+            "latitude": "33.23806",
+            "longitude": "131.6125"
+        },
+        {
+            "city": "\u014ciso",
+            "region": "19",
+            "country": "JP",
+            "latitude": "35.30306",
+            "longitude": "139.30278"
+        },
+        {
+            "city": "\u014ci",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.85111",
+            "longitude": "139.51667"
+        },
+        {
+            "city": "Og\u014dri",
+            "region": "45",
+            "country": "JP",
+            "latitude": "34.1",
+            "longitude": "131.4"
+        },
+        {
+            "city": "Ogawa",
+            "region": "34",
+            "country": "JP",
+            "latitude": "36.05",
+            "longitude": "139.26667"
+        },
+        {
+            "city": "\u014cgaki",
+            "region": "09",
+            "country": "JP",
+            "latitude": "35.35",
+            "longitude": "136.61667"
+        },
+        {
+            "city": "Odawara",
+            "region": "19",
+            "country": "JP",
+            "latitude": "35.25556",
+            "longitude": "139.15972"
+        },
+        {
+            "city": "\u014cda",
+            "region": "36",
+            "country": "JP",
+            "latitude": "35.18333",
+            "longitude": "132.5"
+        },
+        {
+            "city": "\u014cbu",
+            "region": "01",
+            "country": "JP",
+            "latitude": "35",
+            "longitude": "136.96667"
+        },
+        {
+            "city": "Obita",
+            "region": "27",
+            "country": "JP",
+            "latitude": "32.81667",
+            "longitude": "129.88333"
+        },
+        {
+            "city": "Obama",
+            "region": "06",
+            "country": "JP",
+            "latitude": "35.49576",
+            "longitude": "135.74604"
+        },
+        {
+            "city": "Ny\u016bzen",
+            "region": "42",
+            "country": "JP",
+            "latitude": "36.93333",
+            "longitude": "137.5"
+        },
+        {
+            "city": "Numazu",
+            "region": "37",
+            "country": "JP",
+            "latitude": "35.1",
+            "longitude": "138.86667"
+        },
+        {
+            "city": "Numata",
+            "region": "10",
+            "country": "JP",
+            "latitude": "36.63333",
+            "longitude": "139.05"
+        },
+        {
+            "city": "Nonoichi",
+            "region": "15",
+            "country": "JP",
+            "latitude": "36.53333",
+            "longitude": "136.61667"
+        },
+        {
+            "city": "N\u014dgata",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.73333",
+            "longitude": "130.73333"
+        },
+        {
+            "city": "Noda",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.94111",
+            "longitude": "139.85806"
+        },
+        {
+            "city": "Nobeoka",
+            "region": "25",
+            "country": "JP",
+            "latitude": "32.58333",
+            "longitude": "131.66667"
+        },
+        {
+            "city": "Nishiwaki",
+            "region": "13",
+            "country": "JP",
+            "latitude": "34.98333",
+            "longitude": "134.96667"
+        },
+        {
+            "city": "Nishio",
+            "region": "01",
+            "country": "JP",
+            "latitude": "34.86667",
+            "longitude": "137.05"
+        },
+        {
+            "city": "Nishinoomote",
+            "region": "18",
+            "country": "JP",
+            "latitude": "30.73333",
+            "longitude": "131"
+        },
+        {
+            "city": "Nishinomiya",
+            "region": "13",
+            "country": "JP",
+            "latitude": "34.71667",
+            "longitude": "135.33333"
+        },
+        {
+            "city": "Nirasaki",
+            "region": "46",
+            "country": "JP",
+            "latitude": "35.7",
+            "longitude": "138.45"
+        },
+        {
+            "city": "Ninomiya",
+            "region": "19",
+            "country": "JP",
+            "latitude": "35.30333",
+            "longitude": "139.25333"
+        },
+        {
+            "city": "Nikk\u014d",
+            "region": "38",
+            "country": "JP",
+            "latitude": "36.75",
+            "longitude": "139.61667"
+        },
+        {
+            "city": "Niitsu",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.8",
+            "longitude": "139.11667"
+        },
+        {
+            "city": "Niimi",
+            "region": "31",
+            "country": "JP",
+            "latitude": "34.98333",
+            "longitude": "133.46667"
+        },
+        {
+            "city": "Niihama",
+            "region": "05",
+            "country": "JP",
+            "latitude": "33.95933",
+            "longitude": "133.31672"
+        },
+        {
+            "city": "Niigata-shi",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.90222",
+            "longitude": "139.02361"
+        },
+        {
+            "city": "Nichinan",
+            "region": "25",
+            "country": "JP",
+            "latitude": "31.6",
+            "longitude": "131.36667"
+        },
+        {
+            "city": "Nerima",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.73333",
+            "longitude": "139.65"
+        },
+        {
+            "city": "Naze",
+            "region": "18",
+            "country": "JP",
+            "latitude": "28.36667",
+            "longitude": "129.48333"
+        },
+        {
+            "city": "Naruto",
+            "region": "39",
+            "country": "JP",
+            "latitude": "34.18333",
+            "longitude": "134.61667"
+        },
+        {
+            "city": "Nara-shi",
+            "region": "28",
+            "country": "JP",
+            "latitude": "34.68505",
+            "longitude": "135.80485"
+        },
+        {
+            "city": "Nanao",
+            "region": "15",
+            "country": "JP",
+            "latitude": "37.05",
+            "longitude": "136.96667"
+        },
+        {
+            "city": "Namerikawa",
+            "region": "42",
+            "country": "JP",
+            "latitude": "36.76667",
+            "longitude": "137.33333"
+        },
+        {
+            "city": "Nakatsugawa",
+            "region": "09",
+            "country": "JP",
+            "latitude": "35.48333",
+            "longitude": "137.5"
+        },
+        {
+            "city": "Nakatsu",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.60139",
+            "longitude": "131.18417"
+        },
+        {
+            "city": "Nakanoj\u014d",
+            "region": "10",
+            "country": "JP",
+            "latitude": "36.58333",
+            "longitude": "138.85"
+        },
+        {
+            "city": "Nakano",
+            "region": "26",
+            "country": "JP",
+            "latitude": "36.75",
+            "longitude": "138.36667"
+        },
+        {
+            "city": "Nakamura",
+            "region": "20",
+            "country": "JP",
+            "latitude": "32.98333",
+            "longitude": "132.93333"
+        },
+        {
+            "city": "Nakama",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.81667",
+            "longitude": "130.7"
+        },
+        {
+            "city": "Naha-shi",
+            "region": "47",
+            "country": "JP",
+            "latitude": "26.2125",
+            "longitude": "127.68111"
+        },
+        {
+            "city": "Nagoya-shi",
+            "region": "01",
+            "country": "JP",
+            "latitude": "35.18147",
+            "longitude": "136.90641"
+        },
+        {
+            "city": "Nago",
+            "region": "47",
+            "country": "JP",
+            "latitude": "26.58806",
+            "longitude": "127.97611"
+        },
+        {
+            "city": "Nagasaki-shi",
+            "region": "27",
+            "country": "JP",
+            "latitude": "32.74472",
+            "longitude": "129.87361"
+        },
+        {
+            "city": "Nagareyama",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.8563",
+            "longitude": "139.90266"
+        },
+        {
+            "city": "Nagaoka",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.45",
+            "longitude": "138.85"
+        },
+        {
+            "city": "Nagano-shi",
+            "region": "26",
+            "country": "JP",
+            "latitude": "36.65139",
+            "longitude": "138.18111"
+        },
+        {
+            "city": "Nagahama",
+            "region": "35",
+            "country": "JP",
+            "latitude": "35.38333",
+            "longitude": "136.26667"
+        },
+        {
+            "city": "Nabari",
+            "region": "23",
+            "country": "JP",
+            "latitude": "34.61667",
+            "longitude": "136.08333"
+        },
+        {
+            "city": "Musashino",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.70611",
+            "longitude": "139.55944"
+        },
+        {
+            "city": "Muroto",
+            "region": "20",
+            "country": "JP",
+            "latitude": "33.28333",
+            "longitude": "134.15"
+        },
+        {
+            "city": "Muramatsu",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.68333",
+            "longitude": "139.18333"
+        },
+        {
+            "city": "Murakami",
+            "region": "29",
+            "country": "JP",
+            "latitude": "38.23333",
+            "longitude": "139.48333"
+        },
+        {
+            "city": "Muk\u014d",
+            "region": "22",
+            "country": "JP",
+            "latitude": "34.96545",
+            "longitude": "135.70415"
+        },
+        {
+            "city": "Muikamachi",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.06667",
+            "longitude": "138.88333"
+        },
+        {
+            "city": "Morohong\u014d",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.93556",
+            "longitude": "139.30444"
+        },
+        {
+            "city": "Moriyama",
+            "region": "35",
+            "country": "JP",
+            "latitude": "35.06667",
+            "longitude": "135.98333"
+        },
+        {
+            "city": "Moriguchi",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.73333",
+            "longitude": "135.56667"
+        },
+        {
+            "city": "Mori",
+            "region": "37",
+            "country": "JP",
+            "latitude": "34.83333",
+            "longitude": "137.93333"
+        },
+        {
+            "city": "Mizunami",
+            "region": "09",
+            "country": "JP",
+            "latitude": "35.36667",
+            "longitude": "137.25"
+        },
+        {
+            "city": "Miyoshi",
+            "region": "01",
+            "country": "JP",
+            "latitude": "35.08333",
+            "longitude": "137.06667"
+        },
+        {
+            "city": "Miyoshi",
+            "region": "11",
+            "country": "JP",
+            "latitude": "34.8",
+            "longitude": "132.85"
+        },
+        {
+            "city": "Miyazu",
+            "region": "22",
+            "country": "JP",
+            "latitude": "35.53333",
+            "longitude": "135.18333"
+        },
+        {
+            "city": "Miyazaki-shi",
+            "region": "25",
+            "country": "JP",
+            "latitude": "31.91111",
+            "longitude": "131.42389"
+        },
+        {
+            "city": "Miyakonoj\u014d",
+            "region": "25",
+            "country": "JP",
+            "latitude": "31.73333",
+            "longitude": "131.06667"
+        },
+        {
+            "city": "Miyajima",
+            "region": "11",
+            "country": "JP",
+            "latitude": "34.30183",
+            "longitude": "132.32612"
+        },
+        {
+            "city": "Miyada",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.71667",
+            "longitude": "130.66667"
+        },
+        {
+            "city": "Mitsuke",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.53333",
+            "longitude": "138.93333"
+        },
+        {
+            "city": "Mitsukaid\u014d",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.01667",
+            "longitude": "139.98333"
+        },
+        {
+            "city": "Mitake",
+            "region": "09",
+            "country": "JP",
+            "latitude": "35.41667",
+            "longitude": "137.13333"
+        },
+        {
+            "city": "Mitaka-shi",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.68351",
+            "longitude": "139.55963"
+        },
+        {
+            "city": "Mishima",
+            "region": "37",
+            "country": "JP",
+            "latitude": "35.11667",
+            "longitude": "138.91667"
+        },
+        {
+            "city": "Mino",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.82691",
+            "longitude": "135.47057"
+        },
+        {
+            "city": "Mino",
+            "region": "09",
+            "country": "JP",
+            "latitude": "35.53333",
+            "longitude": "136.91667"
+        },
+        {
+            "city": "Minami-rinkan",
+            "region": "19",
+            "country": "JP",
+            "latitude": "35.48333",
+            "longitude": "139.45"
+        },
+        {
+            "city": "Minamata",
+            "region": "21",
+            "country": "JP",
+            "latitude": "32.21667",
+            "longitude": "130.4"
+        },
+        {
+            "city": "Minakuchi",
+            "region": "35",
+            "country": "JP",
+            "latitude": "34.96667",
+            "longitude": "136.16667"
+        },
+        {
+            "city": "Mikuni",
+            "region": "06",
+            "country": "JP",
+            "latitude": "36.21706",
+            "longitude": "136.15185"
+        },
+        {
+            "city": "Miki",
+            "region": "13",
+            "country": "JP",
+            "latitude": "34.8",
+            "longitude": "134.98333"
+        },
+        {
+            "city": "Mihara",
+            "region": "11",
+            "country": "JP",
+            "latitude": "34.4",
+            "longitude": "133.08333"
+        },
+        {
+            "city": "Mibu",
+            "region": "38",
+            "country": "JP",
+            "latitude": "36.41667",
+            "longitude": "139.8"
+        },
+        {
+            "city": "Menuma",
+            "region": "34",
+            "country": "JP",
+            "latitude": "36.21667",
+            "longitude": "139.38333"
+        },
+        {
+            "city": "Matsut\u014d",
+            "region": "15",
+            "country": "JP",
+            "latitude": "36.51667",
+            "longitude": "136.56667"
+        },
+        {
+            "city": "Matsuzaka",
+            "region": "23",
+            "country": "JP",
+            "latitude": "34.56667",
+            "longitude": "136.53333"
+        },
+        {
+            "city": "Matsumoto",
+            "region": "26",
+            "country": "JP",
+            "latitude": "36.23333",
+            "longitude": "137.96667"
+        },
+        {
+            "city": "Matsue-shi",
+            "region": "36",
+            "country": "JP",
+            "latitude": "35.47222",
+            "longitude": "133.05056"
+        },
+        {
+            "city": "Matsudo",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.78333",
+            "longitude": "139.9"
+        },
+        {
+            "city": "Matsubase",
+            "region": "21",
+            "country": "JP",
+            "latitude": "32.65",
+            "longitude": "130.66667"
+        },
+        {
+            "city": "Matsubara",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.56667",
+            "longitude": "135.55"
+        },
+        {
+            "city": "Masuda",
+            "region": "36",
+            "country": "JP",
+            "latitude": "34.66667",
+            "longitude": "131.85"
+        },
+        {
+            "city": "Maruoka",
+            "region": "06",
+            "country": "JP",
+            "latitude": "36.1534",
+            "longitude": "136.27029"
+        },
+        {
+            "city": "Maruko",
+            "region": "26",
+            "country": "JP",
+            "latitude": "36.31667",
+            "longitude": "138.26667"
+        },
+        {
+            "city": "Marugame",
+            "region": "17",
+            "country": "JP",
+            "latitude": "34.28333",
+            "longitude": "133.78333"
+        },
+        {
+            "city": "Makurazaki",
+            "region": "18",
+            "country": "JP",
+            "latitude": "31.26667",
+            "longitude": "130.31667"
+        },
+        {
+            "city": "Maki",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.75",
+            "longitude": "138.88333"
+        },
+        {
+            "city": "Maizuru",
+            "region": "22",
+            "country": "JP",
+            "latitude": "35.45",
+            "longitude": "135.33333"
+        },
+        {
+            "city": "Maebashi-shi",
+            "region": "10",
+            "country": "JP",
+            "latitude": "36.39111",
+            "longitude": "139.06083"
+        },
+        {
+            "city": "Maebaru",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.55",
+            "longitude": "130.2"
+        },
+        {
+            "city": "Machida",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.54028",
+            "longitude": "139.45083"
+        },
+        {
+            "city": "Kyoto",
+            "region": "22",
+            "country": "JP",
+            "latitude": "35.02107",
+            "longitude": "135.75385"
+        },
+        {
+            "city": "Kuwana",
+            "region": "23",
+            "country": "JP",
+            "latitude": "35.06667",
+            "longitude": "136.7"
+        },
+        {
+            "city": "Kushikino",
+            "region": "18",
+            "country": "JP",
+            "latitude": "31.71667",
+            "longitude": "130.26667"
+        },
+        {
+            "city": "Kusatsu",
+            "region": "35",
+            "country": "JP",
+            "latitude": "35.01667",
+            "longitude": "135.96667"
+        },
+        {
+            "city": "Kurume",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.31667",
+            "longitude": "130.51667"
+        },
+        {
+            "city": "Kuroda",
+            "region": "01",
+            "country": "JP",
+            "latitude": "35.35",
+            "longitude": "136.78333"
+        },
+        {
+            "city": "Kurihashi",
+            "region": "34",
+            "country": "JP",
+            "latitude": "36.13333",
+            "longitude": "139.7"
+        },
+        {
+            "city": "Kure",
+            "region": "11",
+            "country": "JP",
+            "latitude": "34.23333",
+            "longitude": "132.56667"
+        },
+        {
+            "city": "Kurayoshi",
+            "region": "41",
+            "country": "JP",
+            "latitude": "35.43333",
+            "longitude": "133.81667"
+        },
+        {
+            "city": "Kurashiki",
+            "region": "31",
+            "country": "JP",
+            "latitude": "34.58333",
+            "longitude": "133.76667"
+        },
+        {
+            "city": "Kumamoto-shi",
+            "region": "21",
+            "country": "JP",
+            "latitude": "32.78972",
+            "longitude": "130.74167"
+        },
+        {
+            "city": "Kumagaya",
+            "region": "34",
+            "country": "JP",
+            "latitude": "36.13333",
+            "longitude": "139.38333"
+        },
+        {
+            "city": "Kuki",
+            "region": "34",
+            "country": "JP",
+            "latitude": "36.06667",
+            "longitude": "139.66667"
+        },
+        {
+            "city": "Kudamatsu",
+            "region": "45",
+            "country": "JP",
+            "latitude": "34",
+            "longitude": "131.86667"
+        },
+        {
+            "city": "Kozakai-ch\u014d",
+            "region": "01",
+            "country": "JP",
+            "latitude": "34.8",
+            "longitude": "137.35889"
+        },
+        {
+            "city": "Kosugi",
+            "region": "42",
+            "country": "JP",
+            "latitude": "36.71667",
+            "longitude": "137.1"
+        },
+        {
+            "city": "Koshigaya",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.88333",
+            "longitude": "139.78333"
+        },
+        {
+            "city": "Kosai-shi",
+            "region": "37",
+            "country": "JP",
+            "latitude": "34.7184",
+            "longitude": "137.53175"
+        },
+        {
+            "city": "K\u014dnosu",
+            "region": "34",
+            "country": "JP",
+            "latitude": "36.05",
+            "longitude": "139.51667"
+        },
+        {
+            "city": "K\u014dnan",
+            "region": "01",
+            "country": "JP",
+            "latitude": "35.33165",
+            "longitude": "136.87042"
+        },
+        {
+            "city": "Komoro",
+            "region": "26",
+            "country": "JP",
+            "latitude": "36.31667",
+            "longitude": "138.43333"
+        },
+        {
+            "city": "Komono",
+            "region": "23",
+            "country": "JP",
+            "latitude": "35",
+            "longitude": "136.51667"
+        },
+        {
+            "city": "Komatsushima",
+            "region": "39",
+            "country": "JP",
+            "latitude": "34",
+            "longitude": "134.58333"
+        },
+        {
+            "city": "Komatsu",
+            "region": "15",
+            "country": "JP",
+            "latitude": "36.40263",
+            "longitude": "136.45088"
+        },
+        {
+            "city": "Komaki",
+            "region": "01",
+            "country": "JP",
+            "latitude": "35.28333",
+            "longitude": "136.91667"
+        },
+        {
+            "city": "Kokubunji",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.70222",
+            "longitude": "139.47556"
+        },
+        {
+            "city": "Kokubu",
+            "region": "18",
+            "country": "JP",
+            "latitude": "31.73333",
+            "longitude": "130.76667"
+        },
+        {
+            "city": "Koganei",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.69139",
+            "longitude": "139.50111"
+        },
+        {
+            "city": "Koga",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.18333",
+            "longitude": "139.71667"
+        },
+        {
+            "city": "Koga",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.73333",
+            "longitude": "130.46667"
+        },
+        {
+            "city": "K\u014dfu-shi",
+            "region": "46",
+            "country": "JP",
+            "latitude": "35.66389",
+            "longitude": "138.56833"
+        },
+        {
+            "city": "Kodama",
+            "region": "34",
+            "country": "JP",
+            "latitude": "36.18333",
+            "longitude": "139.13333"
+        },
+        {
+            "city": "Kodaira",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.72639",
+            "longitude": "139.48389"
+        },
+        {
+            "city": "K\u014dchi-shi",
+            "region": "20",
+            "country": "JP",
+            "latitude": "33.55972",
+            "longitude": "133.53111"
+        },
+        {
+            "city": "K\u014dbe-shi",
+            "region": "13",
+            "country": "JP",
+            "latitude": "34.6913",
+            "longitude": "135.183"
+        },
+        {
+            "city": "Kobayashi",
+            "region": "25",
+            "country": "JP",
+            "latitude": "31.98333",
+            "longitude": "130.98333"
+        },
+        {
+            "city": "Kitsuki",
+            "region": "30",
+            "country": "JP",
+            "latitude": "33.41667",
+            "longitude": "131.61667"
+        },
+        {
+            "city": "Kitaky\u016bsh\u016b",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.83333",
+            "longitude": "130.83333"
+        },
+        {
+            "city": "Kitakata",
+            "region": "08",
+            "country": "JP",
+            "latitude": "37.65",
+            "longitude": "139.86667"
+        },
+        {
+            "city": "Kitahama",
+            "region": "35",
+            "country": "JP",
+            "latitude": "35.16667",
+            "longitude": "135.91667"
+        },
+        {
+            "city": "Kishiwada",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.46667",
+            "longitude": "135.36667"
+        },
+        {
+            "city": "Kisarazu",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.37472",
+            "longitude": "139.9225"
+        },
+        {
+            "city": "Kisai",
+            "region": "34",
+            "country": "JP",
+            "latitude": "36.1",
+            "longitude": "139.58333"
+        },
+        {
+            "city": "Kiry\u016b",
+            "region": "10",
+            "country": "JP",
+            "latitude": "36.4",
+            "longitude": "139.33333"
+        },
+        {
+            "city": "Kikuchi",
+            "region": "21",
+            "country": "JP",
+            "latitude": "32.98333",
+            "longitude": "130.81667"
+        },
+        {
+            "city": "Kazo",
+            "region": "34",
+            "country": "JP",
+            "latitude": "36.11667",
+            "longitude": "139.6"
+        },
+        {
+            "city": "Kawasaki",
+            "region": "19",
+            "country": "JP",
+            "latitude": "35.52056",
+            "longitude": "139.71722"
+        },
+        {
+            "city": "Kawasaki",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.58333",
+            "longitude": "130.83333"
+        },
+        {
+            "city": "Kawanishi",
+            "region": "13",
+            "country": "JP",
+            "latitude": "34.81667",
+            "longitude": "135.41667"
+        },
+        {
+            "city": "Kawaguchi",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.805",
+            "longitude": "139.72056"
+        },
+        {
+            "city": "Kawagoe",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.90861",
+            "longitude": "139.48528"
+        },
+        {
+            "city": "Katsuyama",
+            "region": "06",
+            "country": "JP",
+            "latitude": "36.06173",
+            "longitude": "136.50101"
+        },
+        {
+            "city": "Kasukabe",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.97639",
+            "longitude": "139.75361"
+        },
+        {
+            "city": "Kasugai",
+            "region": "01",
+            "country": "JP",
+            "latitude": "35.24762",
+            "longitude": "136.97229"
+        },
+        {
+            "city": "Kashiwazaki",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.36667",
+            "longitude": "138.55"
+        },
+        {
+            "city": "Kashiwa",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.85444",
+            "longitude": "139.96889"
+        },
+        {
+            "city": "Kashima",
+            "region": "33",
+            "country": "JP",
+            "latitude": "33.10611",
+            "longitude": "130.09056"
+        },
+        {
+            "city": "Kashihara-shi",
+            "region": "28",
+            "country": "JP",
+            "latitude": "34.50896",
+            "longitude": "135.7929"
+        },
+        {
+            "city": "Kashihara",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.58333",
+            "longitude": "135.61667"
+        },
+        {
+            "city": "Kaseda",
+            "region": "18",
+            "country": "JP",
+            "latitude": "31.41667",
+            "longitude": "130.31667"
+        },
+        {
+            "city": "Kasaoka",
+            "region": "31",
+            "country": "JP",
+            "latitude": "34.5",
+            "longitude": "133.5"
+        },
+        {
+            "city": "Kasamatsuch\u014d",
+            "region": "09",
+            "country": "JP",
+            "latitude": "35.36667",
+            "longitude": "136.76667"
+        },
+        {
+            "city": "Kariya",
+            "region": "01",
+            "country": "JP",
+            "latitude": "34.98333",
+            "longitude": "136.98333"
+        },
+        {
+            "city": "Karatsu",
+            "region": "33",
+            "country": "JP",
+            "latitude": "33.4425",
+            "longitude": "129.96972"
+        },
+        {
+            "city": "Kanzaki",
+            "region": "33",
+            "country": "JP",
+            "latitude": "33.3",
+            "longitude": "130.36667"
+        },
+        {
+            "city": "Kanuma",
+            "region": "38",
+            "country": "JP",
+            "latitude": "36.55",
+            "longitude": "139.73333"
+        },
+        {
+            "city": "Kanoya",
+            "region": "18",
+            "country": "JP",
+            "latitude": "31.38333",
+            "longitude": "130.85"
+        },
+        {
+            "city": "Kanonji",
+            "region": "17",
+            "country": "JP",
+            "latitude": "34.11667",
+            "longitude": "133.65"
+        },
+        {
+            "city": "Kannabe",
+            "region": "11",
+            "country": "JP",
+            "latitude": "34.53333",
+            "longitude": "133.38333"
+        },
+        {
+            "city": "Kanie",
+            "region": "01",
+            "country": "JP",
+            "latitude": "35.13333",
+            "longitude": "136.8"
+        },
+        {
+            "city": "Kaneko",
+            "region": "10",
+            "country": "JP",
+            "latitude": "36.4",
+            "longitude": "139"
+        },
+        {
+            "city": "Kanda",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.78333",
+            "longitude": "130.98333"
+        },
+        {
+            "city": "Kanazawa-shi",
+            "region": "15",
+            "country": "JP",
+            "latitude": "36.59444",
+            "longitude": "136.62556"
+        },
+        {
+            "city": "Kanaya",
+            "region": "37",
+            "country": "JP",
+            "latitude": "34.81667",
+            "longitude": "138.13333"
+        },
+        {
+            "city": "Kamojima",
+            "region": "39",
+            "country": "JP",
+            "latitude": "34.06667",
+            "longitude": "134.35"
+        },
+        {
+            "city": "Kamogata",
+            "region": "31",
+            "country": "JP",
+            "latitude": "34.53333",
+            "longitude": "133.58333"
+        },
+        {
+            "city": "Kamo",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.65",
+            "longitude": "139.05"
+        },
+        {
+            "city": "Kami-renjaku",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.68333",
+            "longitude": "139.55"
+        },
+        {
+            "city": "Kaminokawa",
+            "region": "38",
+            "country": "JP",
+            "latitude": "36.43333",
+            "longitude": "139.91667"
+        },
+        {
+            "city": "Kamiichi",
+            "region": "42",
+            "country": "JP",
+            "latitude": "36.7",
+            "longitude": "137.36667"
+        },
+        {
+            "city": "Kameyama",
+            "region": "23",
+            "country": "JP",
+            "latitude": "34.85",
+            "longitude": "136.45"
+        },
+        {
+            "city": "Kameoka",
+            "region": "22",
+            "country": "JP",
+            "latitude": "35",
+            "longitude": "135.58333"
+        },
+        {
+            "city": "Kameda",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.86667",
+            "longitude": "139.11667"
+        },
+        {
+            "city": "Kamakura",
+            "region": "19",
+            "country": "JP",
+            "latitude": "35.30889",
+            "longitude": "139.55028"
+        },
+        {
+            "city": "Kakogawa",
+            "region": "13",
+            "country": "JP",
+            "latitude": "34.76667",
+            "longitude": "134.85"
+        },
+        {
+            "city": "Kakegawa",
+            "region": "37",
+            "country": "JP",
+            "latitude": "34.76667",
+            "longitude": "138.01667"
+        },
+        {
+            "city": "Kakamigahara",
+            "region": "09",
+            "country": "JP",
+            "latitude": "35.41667",
+            "longitude": "136.86667"
+        },
+        {
+            "city": "Kashima-shi",
+            "region": "14",
+            "country": "JP",
+            "latitude": "35.96536",
+            "longitude": "140.64474"
+        },
+        {
+            "city": "Kajiki",
+            "region": "18",
+            "country": "JP",
+            "latitude": "31.73333",
+            "longitude": "130.66667"
+        },
+        {
+            "city": "Kaizuka",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.45",
+            "longitude": "135.35"
+        },
+        {
+            "city": "Kainan",
+            "region": "43",
+            "country": "JP",
+            "latitude": "34.15",
+            "longitude": "135.2"
+        },
+        {
+            "city": "Kagoshima-shi",
+            "region": "18",
+            "country": "JP",
+            "latitude": "31.56018",
+            "longitude": "130.55814"
+        },
+        {
+            "city": "Kadoma",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.73333",
+            "longitude": "135.58333"
+        },
+        {
+            "city": "Izumo",
+            "region": "36",
+            "country": "JP",
+            "latitude": "35.36667",
+            "longitude": "132.76667"
+        },
+        {
+            "city": "Izumi\u014dtsu",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.5",
+            "longitude": "135.4"
+        },
+        {
+            "city": "Izumi",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.48333",
+            "longitude": "135.43333"
+        },
+        {
+            "city": "Izumi",
+            "region": "18",
+            "country": "JP",
+            "latitude": "32.08333",
+            "longitude": "130.36667"
+        },
+        {
+            "city": "Iwatsuki",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.94278",
+            "longitude": "139.69194"
+        },
+        {
+            "city": "Iwata",
+            "region": "37",
+            "country": "JP",
+            "latitude": "34.7",
+            "longitude": "137.85"
+        },
+        {
+            "city": "Iwakura",
+            "region": "01",
+            "country": "JP",
+            "latitude": "35.28333",
+            "longitude": "136.86667"
+        },
+        {
+            "city": "Iwakuni",
+            "region": "45",
+            "country": "JP",
+            "latitude": "34.15",
+            "longitude": "132.18333"
+        },
+        {
+            "city": "Iwai",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.05",
+            "longitude": "139.9"
+        },
+        {
+            "city": "Iwade",
+            "region": "43",
+            "country": "JP",
+            "latitude": "34.25",
+            "longitude": "135.31667"
+        },
+        {
+            "city": "Itsukaichi",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.72528",
+            "longitude": "139.21778"
+        },
+        {
+            "city": "Itoman",
+            "region": "47",
+            "country": "JP",
+            "latitude": "26.12472",
+            "longitude": "127.66944"
+        },
+        {
+            "city": "Itoigawa",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.03333",
+            "longitude": "137.85"
+        },
+        {
+            "city": "It\u014d",
+            "region": "37",
+            "country": "JP",
+            "latitude": "34.96667",
+            "longitude": "139.08333"
+        },
+        {
+            "city": "Itami",
+            "region": "13",
+            "country": "JP",
+            "latitude": "34.78427",
+            "longitude": "135.40126"
+        },
+        {
+            "city": "Ishiki",
+            "region": "01",
+            "country": "JP",
+            "latitude": "34.8",
+            "longitude": "137.01667"
+        },
+        {
+            "city": "Ishikawa",
+            "region": "47",
+            "country": "JP",
+            "latitude": "26.42333",
+            "longitude": "127.82139"
+        },
+        {
+            "city": "Ishii",
+            "region": "39",
+            "country": "JP",
+            "latitude": "34.06667",
+            "longitude": "134.43333"
+        },
+        {
+            "city": "Ishige",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.11667",
+            "longitude": "139.96667"
+        },
+        {
+            "city": "Ishigaki",
+            "region": "47",
+            "country": "JP",
+            "latitude": "24.34478",
+            "longitude": "124.15717"
+        },
+        {
+            "city": "Isesaki",
+            "region": "10",
+            "country": "JP",
+            "latitude": "36.31667",
+            "longitude": "139.2"
+        },
+        {
+            "city": "Isehara",
+            "region": "19",
+            "country": "JP",
+            "latitude": "35.39056",
+            "longitude": "139.30778"
+        },
+        {
+            "city": "Ise",
+            "region": "23",
+            "country": "JP",
+            "latitude": "34.48333",
+            "longitude": "136.7"
+        },
+        {
+            "city": "Isawa",
+            "region": "46",
+            "country": "JP",
+            "latitude": "35.65",
+            "longitude": "138.63333"
+        },
+        {
+            "city": "Isahaya",
+            "region": "27",
+            "country": "JP",
+            "latitude": "32.84111",
+            "longitude": "130.04306"
+        },
+        {
+            "city": "Inuyama",
+            "region": "09",
+            "country": "JP",
+            "latitude": "35.37995",
+            "longitude": "136.94295"
+        },
+        {
+            "city": "Ino",
+            "region": "20",
+            "country": "JP",
+            "latitude": "33.55",
+            "longitude": "133.43333"
+        },
+        {
+            "city": "Innoshima",
+            "region": "11",
+            "country": "JP",
+            "latitude": "34.28333",
+            "longitude": "133.18333"
+        },
+        {
+            "city": "Inazawa",
+            "region": "01",
+            "country": "JP",
+            "latitude": "35.25",
+            "longitude": "136.78333"
+        },
+        {
+            "city": "Ina",
+            "region": "26",
+            "country": "JP",
+            "latitude": "35.82756",
+            "longitude": "137.95378"
+        },
+        {
+            "city": "Imari",
+            "region": "33",
+            "country": "JP",
+            "latitude": "33.26667",
+            "longitude": "129.88333"
+        },
+        {
+            "city": "Imaichi",
+            "region": "38",
+            "country": "JP",
+            "latitude": "36.71667",
+            "longitude": "139.68333"
+        },
+        {
+            "city": "Ikoma",
+            "region": "28",
+            "country": "JP",
+            "latitude": "34.68333",
+            "longitude": "135.7"
+        },
+        {
+            "city": "Ikeda",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.82208",
+            "longitude": "135.4298"
+        },
+        {
+            "city": "Ikeda",
+            "region": "39",
+            "country": "JP",
+            "latitude": "34.01667",
+            "longitude": "133.8"
+        },
+        {
+            "city": "Ij\u016bin",
+            "region": "18",
+            "country": "JP",
+            "latitude": "31.61667",
+            "longitude": "130.4"
+        },
+        {
+            "city": "Iizuka",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.63333",
+            "longitude": "130.68333"
+        },
+        {
+            "city": "Iiyama",
+            "region": "26",
+            "country": "JP",
+            "latitude": "36.85",
+            "longitude": "138.36667"
+        },
+        {
+            "city": "Iida",
+            "region": "26",
+            "country": "JP",
+            "latitude": "35.51965",
+            "longitude": "137.82074"
+        },
+        {
+            "city": "Iga",
+            "region": "23",
+            "country": "JP",
+            "latitude": "34.76855",
+            "longitude": "136.13013"
+        },
+        {
+            "city": "Ichinomiya",
+            "region": "01",
+            "country": "JP",
+            "latitude": "35.3",
+            "longitude": "136.8"
+        },
+        {
+            "city": "Ichikawa",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.71972",
+            "longitude": "139.92472"
+        },
+        {
+            "city": "Ibusuki",
+            "region": "18",
+            "country": "JP",
+            "latitude": "31.23333",
+            "longitude": "130.65"
+        },
+        {
+            "city": "Ibaraki",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.81641",
+            "longitude": "135.56828"
+        },
+        {
+            "city": "Ibara",
+            "region": "31",
+            "country": "JP",
+            "latitude": "34.6",
+            "longitude": "133.46667"
+        },
+        {
+            "city": "Hotaka",
+            "region": "26",
+            "country": "JP",
+            "latitude": "36.3396",
+            "longitude": "137.88254"
+        },
+        {
+            "city": "Honj\u014d",
+            "region": "34",
+            "country": "JP",
+            "latitude": "36.23333",
+            "longitude": "139.18333"
+        },
+        {
+            "city": "Hondo",
+            "region": "21",
+            "country": "JP",
+            "latitude": "32.45",
+            "longitude": "130.2"
+        },
+        {
+            "city": "H\u014dfu",
+            "region": "45",
+            "country": "JP",
+            "latitude": "34.05",
+            "longitude": "131.56667"
+        },
+        {
+            "city": "Hitoyoshi",
+            "region": "21",
+            "country": "JP",
+            "latitude": "32.21667",
+            "longitude": "130.75"
+        },
+        {
+            "city": "Hita",
+            "region": "30",
+            "country": "JP",
+            "latitude": "33.31667",
+            "longitude": "130.93333"
+        },
+        {
+            "city": "Hisai",
+            "region": "23",
+            "country": "JP",
+            "latitude": "34.66667",
+            "longitude": "136.46667"
+        },
+        {
+            "city": "Hiroshima-shi",
+            "region": "11",
+            "country": "JP",
+            "latitude": "34.39627",
+            "longitude": "132.45937"
+        },
+        {
+            "city": "Hiratsuka",
+            "region": "19",
+            "country": "JP",
+            "latitude": "35.32306",
+            "longitude": "139.34222"
+        },
+        {
+            "city": "Hirata",
+            "region": "36",
+            "country": "JP",
+            "latitude": "35.43333",
+            "longitude": "132.81667"
+        },
+        {
+            "city": "Hirara",
+            "region": "47",
+            "country": "JP",
+            "latitude": "24.8",
+            "longitude": "125.28333"
+        },
+        {
+            "city": "Hirakata",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.81352",
+            "longitude": "135.64914"
+        },
+        {
+            "city": "Hirado",
+            "region": "27",
+            "country": "JP",
+            "latitude": "33.35972",
+            "longitude": "129.55306"
+        },
+        {
+            "city": "Hino",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.67306",
+            "longitude": "139.40028"
+        },
+        {
+            "city": "Hino",
+            "region": "35",
+            "country": "JP",
+            "latitude": "35",
+            "longitude": "136.25"
+        },
+        {
+            "city": "Himi",
+            "region": "42",
+            "country": "JP",
+            "latitude": "36.85",
+            "longitude": "136.98333"
+        },
+        {
+            "city": "Himeji",
+            "region": "13",
+            "country": "JP",
+            "latitude": "34.81667",
+            "longitude": "134.7"
+        },
+        {
+            "city": "Hikone",
+            "region": "35",
+            "country": "JP",
+            "latitude": "35.25",
+            "longitude": "136.25"
+        },
+        {
+            "city": "Hiji",
+            "region": "30",
+            "country": "JP",
+            "latitude": "33.36667",
+            "longitude": "131.53333"
+        },
+        {
+            "city": "Hekinan",
+            "region": "01",
+            "country": "JP",
+            "latitude": "34.88333",
+            "longitude": "136.98333"
+        },
+        {
+            "city": "Heda",
+            "region": "37",
+            "country": "JP",
+            "latitude": "34.96667",
+            "longitude": "138.76667"
+        },
+        {
+            "city": "Hayama",
+            "region": "19",
+            "country": "JP",
+            "latitude": "35.26667",
+            "longitude": "139.58333"
+        },
+        {
+            "city": "Hatsukaichi",
+            "region": "11",
+            "country": "JP",
+            "latitude": "34.35",
+            "longitude": "132.33333"
+        },
+        {
+            "city": "Hatogaya",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.83417",
+            "longitude": "139.73639"
+        },
+        {
+            "city": "Hashimoto",
+            "region": "43",
+            "country": "JP",
+            "latitude": "34.31667",
+            "longitude": "135.61667"
+        },
+        {
+            "city": "Hany\u016b",
+            "region": "34",
+            "country": "JP",
+            "latitude": "36.16667",
+            "longitude": "139.53333"
+        },
+        {
+            "city": "Hann\u014d",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.85194",
+            "longitude": "139.31806"
+        },
+        {
+            "city": "Handa",
+            "region": "01",
+            "country": "JP",
+            "latitude": "34.88333",
+            "longitude": "136.93333"
+        },
+        {
+            "city": "Hamanoichi",
+            "region": "18",
+            "country": "JP",
+            "latitude": "31.71667",
+            "longitude": "130.73333"
+        },
+        {
+            "city": "Hamamatsu",
+            "region": "37",
+            "country": "JP",
+            "latitude": "34.7",
+            "longitude": "137.73333"
+        },
+        {
+            "city": "Hamakita",
+            "region": "37",
+            "country": "JP",
+            "latitude": "34.8",
+            "longitude": "137.78333"
+        },
+        {
+            "city": "Hamada",
+            "region": "36",
+            "country": "JP",
+            "latitude": "34.88333",
+            "longitude": "132.08333"
+        },
+        {
+            "city": "Hakui",
+            "region": "15",
+            "country": "JP",
+            "latitude": "36.88333",
+            "longitude": "136.78333"
+        },
+        {
+            "city": "Hakone",
+            "region": "19",
+            "country": "JP",
+            "latitude": "35.18333",
+            "longitude": "139.03333"
+        },
+        {
+            "city": "Haibara",
+            "region": "28",
+            "country": "JP",
+            "latitude": "34.53333",
+            "longitude": "135.95"
+        },
+        {
+            "city": "Hagi",
+            "region": "45",
+            "country": "JP",
+            "latitude": "34.4",
+            "longitude": "131.41667"
+        },
+        {
+            "city": "Haebaru",
+            "region": "47",
+            "country": "JP",
+            "latitude": "26.33694",
+            "longitude": "127.87194"
+        },
+        {
+            "city": "Hadano",
+            "region": "19",
+            "country": "JP",
+            "latitude": "35.37111",
+            "longitude": "139.22361"
+        },
+        {
+            "city": "Hachi\u014dji",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.65583",
+            "longitude": "139.32389"
+        },
+        {
+            "city": "\u014cmihachiman",
+            "region": "35",
+            "country": "JP",
+            "latitude": "35.12861",
+            "longitude": "136.0976"
+        },
+        {
+            "city": "Gy\u014dda",
+            "region": "34",
+            "country": "JP",
+            "latitude": "36.13333",
+            "longitude": "139.45"
+        },
+        {
+            "city": "Gushikawa",
+            "region": "47",
+            "country": "JP",
+            "latitude": "26.35444",
+            "longitude": "127.86861"
+        },
+        {
+            "city": "G\u014dtsu",
+            "region": "36",
+            "country": "JP",
+            "latitude": "35",
+            "longitude": "132.21667"
+        },
+        {
+            "city": "Gotemba",
+            "region": "37",
+            "country": "JP",
+            "latitude": "35.3",
+            "longitude": "138.93333"
+        },
+        {
+            "city": "Gosen",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.73333",
+            "longitude": "139.16667"
+        },
+        {
+            "city": "Gose",
+            "region": "28",
+            "country": "JP",
+            "latitude": "34.45",
+            "longitude": "135.73333"
+        },
+        {
+            "city": "Goj\u014d",
+            "region": "28",
+            "country": "JP",
+            "latitude": "34.35",
+            "longitude": "135.7"
+        },
+        {
+            "city": "G\u014ddo",
+            "region": "09",
+            "country": "JP",
+            "latitude": "35.41667",
+            "longitude": "136.6"
+        },
+        {
+            "city": "Gob\u014d",
+            "region": "43",
+            "country": "JP",
+            "latitude": "33.88333",
+            "longitude": "135.15"
+        },
+        {
+            "city": "Ginowan",
+            "region": "47",
+            "country": "JP",
+            "latitude": "26.26265",
+            "longitude": "127.76147"
+        },
+        {
+            "city": "Gifu-shi",
+            "region": "09",
+            "country": "JP",
+            "latitude": "35.42291",
+            "longitude": "136.76039"
+        },
+        {
+            "city": "Gamag\u014dri",
+            "region": "01",
+            "country": "JP",
+            "latitude": "34.83333",
+            "longitude": "137.23333"
+        },
+        {
+            "city": "Futtsu",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.30528",
+            "longitude": "139.81861"
+        },
+        {
+            "city": "Funabashi",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.69306",
+            "longitude": "139.98333"
+        },
+        {
+            "city": "Fukuyama",
+            "region": "11",
+            "country": "JP",
+            "latitude": "34.48333",
+            "longitude": "133.36667"
+        },
+        {
+            "city": "Fukuroi",
+            "region": "37",
+            "country": "JP",
+            "latitude": "34.75",
+            "longitude": "137.91667"
+        },
+        {
+            "city": "Fukura",
+            "region": "13",
+            "country": "JP",
+            "latitude": "34.25",
+            "longitude": "134.71667"
+        },
+        {
+            "city": "Fukuoka-shi",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.60639",
+            "longitude": "130.41806"
+        },
+        {
+            "city": "Fukumitsu",
+            "region": "42",
+            "country": "JP",
+            "latitude": "36.55",
+            "longitude": "136.86667"
+        },
+        {
+            "city": "Fukuma",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.76667",
+            "longitude": "130.46667"
+        },
+        {
+            "city": "Fukui-shi",
+            "region": "06",
+            "country": "JP",
+            "latitude": "36.06443",
+            "longitude": "136.22257"
+        },
+        {
+            "city": "Fukue",
+            "region": "27",
+            "country": "JP",
+            "latitude": "32.68806",
+            "longitude": "128.84194"
+        },
+        {
+            "city": "Fukuchiyama",
+            "region": "22",
+            "country": "JP",
+            "latitude": "35.3",
+            "longitude": "135.11667"
+        },
+        {
+            "city": "Fukiage",
+            "region": "34",
+            "country": "JP",
+            "latitude": "36.1",
+            "longitude": "139.45"
+        },
+        {
+            "city": "Fukaya",
+            "region": "34",
+            "country": "JP",
+            "latitude": "36.2",
+            "longitude": "139.28333"
+        },
+        {
+            "city": "Fujisawa",
+            "region": "19",
+            "country": "JP",
+            "latitude": "35.34194",
+            "longitude": "139.47"
+        },
+        {
+            "city": "Fujioka",
+            "region": "38",
+            "country": "JP",
+            "latitude": "36.25",
+            "longitude": "139.65"
+        },
+        {
+            "city": "Fujioka",
+            "region": "10",
+            "country": "JP",
+            "latitude": "36.25",
+            "longitude": "139.08333"
+        },
+        {
+            "city": "Fujinomiya",
+            "region": "37",
+            "country": "JP",
+            "latitude": "35.21667",
+            "longitude": "138.61667"
+        },
+        {
+            "city": "Fujieda",
+            "region": "37",
+            "country": "JP",
+            "latitude": "34.86667",
+            "longitude": "138.26667"
+        },
+        {
+            "city": "Fuji",
+            "region": "37",
+            "country": "JP",
+            "latitude": "35.16667",
+            "longitude": "138.68333"
+        },
+        {
+            "city": "Fuch\u016b",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.66667",
+            "longitude": "139.48333"
+        },
+        {
+            "city": "Fuch\u016b",
+            "region": "11",
+            "country": "JP",
+            "latitude": "34.56667",
+            "longitude": "133.23333"
+        },
+        {
+            "city": "Enzan",
+            "region": "46",
+            "country": "JP",
+            "latitude": "35.7",
+            "longitude": "138.73333"
+        },
+        {
+            "city": "Dait\u014d",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.7",
+            "longitude": "135.61667"
+        },
+        {
+            "city": "Ch\u014dfu",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.65556",
+            "longitude": "139.55222"
+        },
+        {
+            "city": "Chiry\u016b",
+            "region": "01",
+            "country": "JP",
+            "latitude": "35",
+            "longitude": "137.03333"
+        },
+        {
+            "city": "Chino",
+            "region": "26",
+            "country": "JP",
+            "latitude": "35.9944",
+            "longitude": "138.15428"
+        },
+        {
+            "city": "Chikushino-shi",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.49631",
+            "longitude": "130.5156"
+        },
+        {
+            "city": "Chigasaki",
+            "region": "19",
+            "country": "JP",
+            "latitude": "35.32611",
+            "longitude": "139.40389"
+        },
+        {
+            "city": "Chichibu",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.99028",
+            "longitude": "139.07639"
+        },
+        {
+            "city": "Chatan",
+            "region": "47",
+            "country": "JP",
+            "latitude": "26.30944",
+            "longitude": "127.77028"
+        },
+        {
+            "city": "Beppu",
+            "region": "30",
+            "country": "JP",
+            "latitude": "33.27361",
+            "longitude": "131.49194"
+        },
+        {
+            "city": "Ayabe",
+            "region": "22",
+            "country": "JP",
+            "latitude": "35.3",
+            "longitude": "135.25"
+        },
+        {
+            "city": "Atami",
+            "region": "37",
+            "country": "JP",
+            "latitude": "35.08944",
+            "longitude": "139.06861"
+        },
+        {
+            "city": "Ashiya",
+            "region": "13",
+            "country": "JP",
+            "latitude": "34.72807",
+            "longitude": "135.30264"
+        },
+        {
+            "city": "Ashikaga",
+            "region": "38",
+            "country": "JP",
+            "latitude": "36.33333",
+            "longitude": "139.45"
+        },
+        {
+            "city": "Arai",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.01667",
+            "longitude": "138.25"
+        },
+        {
+            "city": "Annaka",
+            "region": "10",
+            "country": "JP",
+            "latitude": "36.31667",
+            "longitude": "138.9"
+        },
+        {
+            "city": "Anj\u014d",
+            "region": "01",
+            "country": "JP",
+            "latitude": "34.95828",
+            "longitude": "137.08054"
+        },
+        {
+            "city": "Anan",
+            "region": "39",
+            "country": "JP",
+            "latitude": "33.91667",
+            "longitude": "134.65"
+        },
+        {
+            "city": "Amagi",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.41667",
+            "longitude": "130.65"
+        },
+        {
+            "city": "Amagasaki",
+            "region": "13",
+            "country": "JP",
+            "latitude": "34.71667",
+            "longitude": "135.41667"
+        },
+        {
+            "city": "Akune",
+            "region": "18",
+            "country": "JP",
+            "latitude": "32.01667",
+            "longitude": "130.2"
+        },
+        {
+            "city": "Ak\u014d",
+            "region": "13",
+            "country": "JP",
+            "latitude": "34.75",
+            "longitude": "134.4"
+        },
+        {
+            "city": "Aki",
+            "region": "20",
+            "country": "JP",
+            "latitude": "33.5",
+            "longitude": "133.9"
+        },
+        {
+            "city": "Aioi-shi",
+            "region": "13",
+            "country": "JP",
+            "latitude": "34.80361",
+            "longitude": "134.46806"
+        },
+        {
+            "city": "Ageo",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.96972",
+            "longitude": "139.58861"
+        },
+        {
+            "city": "Okinawa",
+            "region": "47",
+            "country": "JP",
+            "latitude": "26.33583",
+            "longitude": "127.80139"
+        },
+        {
+            "city": "Kushima",
+            "region": "25",
+            "country": "JP",
+            "latitude": "31.45833",
+            "longitude": "131.23333"
+        },
+        {
+            "city": "Hikari",
+            "region": "45",
+            "country": "JP",
+            "latitude": "33.955",
+            "longitude": "131.95"
+        },
+        {
+            "city": "Kaita",
+            "region": "11",
+            "country": "JP",
+            "latitude": "34.36667",
+            "longitude": "132.55"
+        },
+        {
+            "city": "Nagato",
+            "region": "45",
+            "country": "JP",
+            "latitude": "34.38333",
+            "longitude": "131.2"
+        },
+        {
+            "city": "Hasuda",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.97556",
+            "longitude": "139.65083"
+        },
+        {
+            "city": "Kamifukuoka",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.8725",
+            "longitude": "139.50972"
+        },
+        {
+            "city": "Sayama",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.85295",
+            "longitude": "139.41212"
+        },
+        {
+            "city": "Fussa",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.73667",
+            "longitude": "139.32361"
+        },
+        {
+            "city": "Kunitachi",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.67444",
+            "longitude": "139.435"
+        },
+        {
+            "city": "Asaka",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.80472",
+            "longitude": "139.60194"
+        },
+        {
+            "city": "Wako",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.78944",
+            "longitude": "139.62333"
+        },
+        {
+            "city": "Toda",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.80944",
+            "longitude": "139.6925"
+        },
+        {
+            "city": "Komae",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.63639",
+            "longitude": "139.57444"
+        },
+        {
+            "city": "Kimitsu",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.32528",
+            "longitude": "139.89111"
+        },
+        {
+            "city": "Miura",
+            "region": "19",
+            "country": "JP",
+            "latitude": "35.14",
+            "longitude": "139.61917"
+        },
+        {
+            "city": "Wakayama-shi",
+            "region": "43",
+            "country": "JP",
+            "latitude": "34.22611",
+            "longitude": "135.1675"
+        },
+        {
+            "city": "Iyo",
+            "region": "05",
+            "country": "JP",
+            "latitude": "33.75139",
+            "longitude": "132.70139"
+        },
+        {
+            "city": "Uwajima",
+            "region": "05",
+            "country": "JP",
+            "latitude": "33.22375",
+            "longitude": "132.56001"
+        },
+        {
+            "city": "Saij\u014d",
+            "region": "05",
+            "country": "JP",
+            "latitude": "33.91667",
+            "longitude": "133.18333"
+        },
+        {
+            "city": "\u014czu",
+            "region": "05",
+            "country": "JP",
+            "latitude": "33.5",
+            "longitude": "132.55"
+        },
+        {
+            "city": "Matsuyama-shi",
+            "region": "05",
+            "country": "JP",
+            "latitude": "33.83916",
+            "longitude": "132.76574"
+        },
+        {
+            "city": "Masaki-ch\u014d",
+            "region": "05",
+            "country": "JP",
+            "latitude": "33.78757",
+            "longitude": "132.71124"
+        },
+        {
+            "city": "Kawanoe",
+            "region": "05",
+            "country": "JP",
+            "latitude": "34.01667",
+            "longitude": "133.56667"
+        },
+        {
+            "city": "H\u014dj\u014d",
+            "region": "05",
+            "country": "JP",
+            "latitude": "33.97661",
+            "longitude": "132.77767"
+        },
+        {
+            "city": "Yuzawa",
+            "region": "02",
+            "country": "JP",
+            "latitude": "39.16667",
+            "longitude": "140.5"
+        },
+        {
+            "city": "Yotsukaid\u014d",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.65",
+            "longitude": "140.16667"
+        },
+        {
+            "city": "Yonezawa",
+            "region": "44",
+            "country": "JP",
+            "latitude": "37.91667",
+            "longitude": "140.11667"
+        },
+        {
+            "city": "Yokote",
+            "region": "02",
+            "country": "JP",
+            "latitude": "39.3",
+            "longitude": "140.56667"
+        },
+        {
+            "city": "Y\u014dkaichiba",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.7",
+            "longitude": "140.55"
+        },
+        {
+            "city": "Yanagawa",
+            "region": "08",
+            "country": "JP",
+            "latitude": "37.85",
+            "longitude": "140.6"
+        },
+        {
+            "city": "Yamoto",
+            "region": "24",
+            "country": "JP",
+            "latitude": "38.41667",
+            "longitude": "141.21667"
+        },
+        {
+            "city": "Yamagata-shi",
+            "region": "44",
+            "country": "JP",
+            "latitude": "38.24056",
+            "longitude": "140.36333"
+        },
+        {
+            "city": "Yamada",
+            "region": "16",
+            "country": "JP",
+            "latitude": "39.46667",
+            "longitude": "141.95"
+        },
+        {
+            "city": "Yachimata",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.65",
+            "longitude": "140.31667"
+        },
+        {
+            "city": "Watari",
+            "region": "24",
+            "country": "JP",
+            "latitude": "38.035",
+            "longitude": "140.85111"
+        },
+        {
+            "city": "Wakuya",
+            "region": "24",
+            "country": "JP",
+            "latitude": "38.53333",
+            "longitude": "141.13333"
+        },
+        {
+            "city": "Ushiku",
+            "region": "14",
+            "country": "JP",
+            "latitude": "35.96667",
+            "longitude": "140.13333"
+        },
+        {
+            "city": "Tsukuba",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.2",
+            "longitude": "140.1"
+        },
+        {
+            "city": "Toride",
+            "region": "14",
+            "country": "JP",
+            "latitude": "35.9",
+            "longitude": "140.08333"
+        },
+        {
+            "city": "T\u014dno",
+            "region": "16",
+            "country": "JP",
+            "latitude": "39.31667",
+            "longitude": "141.53333"
+        },
+        {
+            "city": "Tomobe",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.35",
+            "longitude": "140.3"
+        },
+        {
+            "city": "Tomiya",
+            "region": "24",
+            "country": "JP",
+            "latitude": "38.39306",
+            "longitude": "140.88611"
+        },
+        {
+            "city": "T\u014dgane",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.55",
+            "longitude": "140.36667"
+        },
+        {
+            "city": "Tend\u014d",
+            "region": "44",
+            "country": "JP",
+            "latitude": "38.35361",
+            "longitude": "140.36972"
+        },
+        {
+            "city": "Takahata",
+            "region": "44",
+            "country": "JP",
+            "latitude": "38.0025",
+            "longitude": "140.19111"
+        },
+        {
+            "city": "Takahagi",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.71667",
+            "longitude": "140.71667"
+        },
+        {
+            "city": "Sukagawa",
+            "region": "08",
+            "country": "JP",
+            "latitude": "37.28333",
+            "longitude": "140.38333"
+        },
+        {
+            "city": "Shizukuishi",
+            "region": "16",
+            "country": "JP",
+            "latitude": "39.68333",
+            "longitude": "140.98333"
+        },
+        {
+            "city": "Shisui",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.71667",
+            "longitude": "140.26667"
+        },
+        {
+            "city": "Shiroishi",
+            "region": "24",
+            "country": "JP",
+            "latitude": "38.00333",
+            "longitude": "140.61833"
+        },
+        {
+            "city": "Shiroi",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.8",
+            "longitude": "140.06667"
+        },
+        {
+            "city": "Shiogama",
+            "region": "24",
+            "country": "JP",
+            "latitude": "38.31667",
+            "longitude": "141.03333"
+        },
+        {
+            "city": "Shinj\u014d",
+            "region": "44",
+            "country": "JP",
+            "latitude": "38.75861",
+            "longitude": "140.30083"
+        },
+        {
+            "city": "Sendai-shi",
+            "region": "24",
+            "country": "JP",
+            "latitude": "38.26889",
+            "longitude": "140.87194"
+        },
+        {
+            "city": "Sawara",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.88333",
+            "longitude": "140.5"
+        },
+        {
+            "city": "Sakura",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.71667",
+            "longitude": "140.23333"
+        },
+        {
+            "city": "Sagae",
+            "region": "44",
+            "country": "JP",
+            "latitude": "38.3725",
+            "longitude": "140.2725"
+        },
+        {
+            "city": "Ry\u016bgasaki",
+            "region": "14",
+            "country": "JP",
+            "latitude": "35.9",
+            "longitude": "140.18333"
+        },
+        {
+            "city": "Rifu",
+            "region": "24",
+            "country": "JP",
+            "latitude": "38.32361",
+            "longitude": "140.97444"
+        },
+        {
+            "city": "\u014ctsuchi",
+            "region": "16",
+            "country": "JP",
+            "latitude": "39.36667",
+            "longitude": "141.9"
+        },
+        {
+            "city": "\u014ctawara",
+            "region": "38",
+            "country": "JP",
+            "latitude": "36.86667",
+            "longitude": "140.03333"
+        },
+        {
+            "city": "\u014cmiya",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.55",
+            "longitude": "140.41667"
+        },
+        {
+            "city": "Omigawa",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.85",
+            "longitude": "140.61667"
+        },
+        {
+            "city": "\u014cmagari",
+            "region": "02",
+            "country": "JP",
+            "latitude": "39.45",
+            "longitude": "140.48333"
+        },
+        {
+            "city": "Okunoya",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.28333",
+            "longitude": "140.41667"
+        },
+        {
+            "city": "\u014ckawara",
+            "region": "24",
+            "country": "JP",
+            "latitude": "38.05",
+            "longitude": "140.73361"
+        },
+        {
+            "city": "\u014chara",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.25",
+            "longitude": "140.38333"
+        },
+        {
+            "city": "\u014cfunato",
+            "region": "16",
+            "country": "JP",
+            "latitude": "39.07167",
+            "longitude": "141.71667"
+        },
+        {
+            "city": "Obanazawa",
+            "region": "44",
+            "country": "JP",
+            "latitude": "38.60333",
+            "longitude": "140.40194"
+        },
+        {
+            "city": "\u014carai",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.31667",
+            "longitude": "140.6"
+        },
+        {
+            "city": "\u014cami",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.51667",
+            "longitude": "140.31667"
+        },
+        {
+            "city": "Nihommatsu",
+            "region": "08",
+            "country": "JP",
+            "latitude": "37.58333",
+            "longitude": "140.43333"
+        },
+        {
+            "city": "Narut\u014d",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.6",
+            "longitude": "140.41667"
+        },
+        {
+            "city": "Narita",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.78333",
+            "longitude": "140.31667"
+        },
+        {
+            "city": "Narashino",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.68333",
+            "longitude": "140.03333"
+        },
+        {
+            "city": "Namie",
+            "region": "08",
+            "country": "JP",
+            "latitude": "37.48333",
+            "longitude": "141"
+        },
+        {
+            "city": "Naka",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.05",
+            "longitude": "140.16667"
+        },
+        {
+            "city": "Nagai",
+            "region": "44",
+            "country": "JP",
+            "latitude": "38.10361",
+            "longitude": "140.035"
+        },
+        {
+            "city": "Motomiya",
+            "region": "08",
+            "country": "JP",
+            "latitude": "37.51667",
+            "longitude": "140.4"
+        },
+        {
+            "city": "Motegi",
+            "region": "38",
+            "country": "JP",
+            "latitude": "36.51667",
+            "longitude": "140.18333"
+        },
+        {
+            "city": "Moriya",
+            "region": "14",
+            "country": "JP",
+            "latitude": "35.93333",
+            "longitude": "140"
+        },
+        {
+            "city": "Morioka-shi",
+            "region": "16",
+            "country": "JP",
+            "latitude": "39.70361",
+            "longitude": "141.1525"
+        },
+        {
+            "city": "Mooka",
+            "region": "38",
+            "country": "JP",
+            "latitude": "36.43333",
+            "longitude": "140.01667"
+        },
+        {
+            "city": "Mobara",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.41667",
+            "longitude": "140.3"
+        },
+        {
+            "city": "Mizusawa",
+            "region": "16",
+            "country": "JP",
+            "latitude": "39.13333",
+            "longitude": "141.13333"
+        },
+        {
+            "city": "Miyako",
+            "region": "16",
+            "country": "JP",
+            "latitude": "39.63667",
+            "longitude": "141.9525"
+        },
+        {
+            "city": "Mito-shi",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.34139",
+            "longitude": "140.44667"
+        },
+        {
+            "city": "Miharu",
+            "region": "08",
+            "country": "JP",
+            "latitude": "37.43333",
+            "longitude": "140.48333"
+        },
+        {
+            "city": "Matsushima",
+            "region": "24",
+            "country": "JP",
+            "latitude": "38.36667",
+            "longitude": "141.07167"
+        },
+        {
+            "city": "Mashiko",
+            "region": "38",
+            "country": "JP",
+            "latitude": "36.46667",
+            "longitude": "140.1"
+        },
+        {
+            "city": "Marumori",
+            "region": "24",
+            "country": "JP",
+            "latitude": "37.91667",
+            "longitude": "140.76667"
+        },
+        {
+            "city": "Makabe",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.26667",
+            "longitude": "140.1"
+        },
+        {
+            "city": "Kuroiso",
+            "region": "38",
+            "country": "JP",
+            "latitude": "36.96667",
+            "longitude": "140.05"
+        },
+        {
+            "city": "K\u014driyama",
+            "region": "08",
+            "country": "JP",
+            "latitude": "37.4",
+            "longitude": "140.38333"
+        },
+        {
+            "city": "Kogota",
+            "region": "24",
+            "country": "JP",
+            "latitude": "38.55",
+            "longitude": "141.05"
+        },
+        {
+            "city": "Kitakami",
+            "region": "16",
+            "country": "JP",
+            "latitude": "39.28333",
+            "longitude": "141.11667"
+        },
+        {
+            "city": "Kitaibaraki",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.78333",
+            "longitude": "140.75"
+        },
+        {
+            "city": "Kawaguchi",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.1",
+            "longitude": "140.1"
+        },
+        {
+            "city": "Katsuura",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.13333",
+            "longitude": "140.3"
+        },
+        {
+            "city": "Katsuta",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.38333",
+            "longitude": "140.53333"
+        },
+        {
+            "city": "Katori-shi",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.89767",
+            "longitude": "140.49943"
+        },
+        {
+            "city": "Kasama",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.38333",
+            "longitude": "140.26667"
+        },
+        {
+            "city": "Karasuyama",
+            "region": "38",
+            "country": "JP",
+            "latitude": "36.65",
+            "longitude": "140.15"
+        },
+        {
+            "city": "Kaminoyama",
+            "region": "44",
+            "country": "JP",
+            "latitude": "38.15389",
+            "longitude": "140.27361"
+        },
+        {
+            "city": "Kamaishi",
+            "region": "16",
+            "country": "JP",
+            "latitude": "39.26667",
+            "longitude": "141.88333"
+        },
+        {
+            "city": "Kakudate",
+            "region": "02",
+            "country": "JP",
+            "latitude": "39.58333",
+            "longitude": "140.56667"
+        },
+        {
+            "city": "Kakuda",
+            "region": "24",
+            "country": "JP",
+            "latitude": "37.96667",
+            "longitude": "140.78333"
+        },
+        {
+            "city": "Iwase",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.35",
+            "longitude": "140.1"
+        },
+        {
+            "city": "Iwanuma",
+            "region": "24",
+            "country": "JP",
+            "latitude": "38.10472",
+            "longitude": "140.85944"
+        },
+        {
+            "city": "Iwaki",
+            "region": "08",
+            "country": "JP",
+            "latitude": "37.05",
+            "longitude": "140.88333"
+        },
+        {
+            "city": "Itako",
+            "region": "14",
+            "country": "JP",
+            "latitude": "35.93333",
+            "longitude": "140.55"
+        },
+        {
+            "city": "Ishioka",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.18333",
+            "longitude": "140.26667"
+        },
+        {
+            "city": "Ishinomaki",
+            "region": "24",
+            "country": "JP",
+            "latitude": "38.41667",
+            "longitude": "141.3"
+        },
+        {
+            "city": "Ishikawa",
+            "region": "08",
+            "country": "JP",
+            "latitude": "37.15",
+            "longitude": "140.45"
+        },
+        {
+            "city": "Inawashiro",
+            "region": "08",
+            "country": "JP",
+            "latitude": "37.56667",
+            "longitude": "140.11667"
+        },
+        {
+            "city": "Ichinoseki",
+            "region": "16",
+            "country": "JP",
+            "latitude": "38.91667",
+            "longitude": "141.13333"
+        },
+        {
+            "city": "Ichihara",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.51667",
+            "longitude": "140.08333"
+        },
+        {
+            "city": "Hobara",
+            "region": "08",
+            "country": "JP",
+            "latitude": "37.81667",
+            "longitude": "140.55"
+        },
+        {
+            "city": "Hitachi",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.6",
+            "longitude": "140.65"
+        },
+        {
+            "city": "Higashine",
+            "region": "44",
+            "country": "JP",
+            "latitude": "38.43889",
+            "longitude": "140.40056"
+        },
+        {
+            "city": "Hasaki",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.73333",
+            "longitude": "140.83333"
+        },
+        {
+            "city": "Hanamaki",
+            "region": "16",
+            "country": "JP",
+            "latitude": "39.38333",
+            "longitude": "141.11667"
+        },
+        {
+            "city": "Furukawa",
+            "region": "24",
+            "country": "JP",
+            "latitude": "38.57167",
+            "longitude": "140.95556"
+        },
+        {
+            "city": "Funehiki",
+            "region": "08",
+            "country": "JP",
+            "latitude": "37.43333",
+            "longitude": "140.58333"
+        },
+        {
+            "city": "Funaishikawa",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.46667",
+            "longitude": "140.56667"
+        },
+        {
+            "city": "Fukushima-shi",
+            "region": "08",
+            "country": "JP",
+            "latitude": "37.75",
+            "longitude": "140.46778"
+        },
+        {
+            "city": "Fujishiro",
+            "region": "14",
+            "country": "JP",
+            "latitude": "35.91667",
+            "longitude": "140.11667"
+        },
+        {
+            "city": "Edosaki",
+            "region": "14",
+            "country": "JP",
+            "latitude": "35.95",
+            "longitude": "140.31667"
+        },
+        {
+            "city": "Daigo",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.76667",
+            "longitude": "140.35"
+        },
+        {
+            "city": "Chiba-shi",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.60472",
+            "longitude": "140.12333"
+        },
+        {
+            "city": "Asahi",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.71667",
+            "longitude": "140.65"
+        },
+        {
+            "city": "Ami",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.03333",
+            "longitude": "140.2"
+        },
+        {
+            "city": "Akita",
+            "region": "02",
+            "country": "JP",
+            "latitude": "39.71667",
+            "longitude": "140.11667"
+        },
+        {
+            "city": "Abiko",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.86667",
+            "longitude": "140.01667"
+        },
+        {
+            "city": "Akita-shi",
+            "region": "02",
+            "country": "JP",
+            "latitude": "39.71806",
+            "longitude": "140.10333"
+        },
+        {
+            "city": "Bihoro",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.82278",
+            "longitude": "144.10444"
+        },
+        {
+            "city": "Wakkanai",
+            "region": "12",
+            "country": "JP",
+            "latitude": "45.40944",
+            "longitude": "141.67389"
+        },
+        {
+            "city": "Utashinai",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.51667",
+            "longitude": "142.05"
+        },
+        {
+            "city": "Tomakomai",
+            "region": "12",
+            "country": "JP",
+            "latitude": "42.63694",
+            "longitude": "141.60333"
+        },
+        {
+            "city": "T\u014dbetsu",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.21694",
+            "longitude": "141.51694"
+        },
+        {
+            "city": "Mutsu",
+            "region": "03",
+            "country": "JP",
+            "latitude": "41.28944",
+            "longitude": "141.21694"
+        },
+        {
+            "city": "Takikawa",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.55278",
+            "longitude": "141.90639"
+        },
+        {
+            "city": "Takanosu",
+            "region": "02",
+            "country": "JP",
+            "latitude": "40.22194",
+            "longitude": "140.36944"
+        },
+        {
+            "city": "Sunagawa",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.48639",
+            "longitude": "141.90556"
+        },
+        {
+            "city": "Shizunai",
+            "region": "12",
+            "country": "JP",
+            "latitude": "42.33389",
+            "longitude": "142.36694"
+        },
+        {
+            "city": "Shiraoi",
+            "region": "12",
+            "country": "JP",
+            "latitude": "42.55",
+            "longitude": "141.35"
+        },
+        {
+            "city": "Shimo-furano",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.35",
+            "longitude": "142.38333"
+        },
+        {
+            "city": "Shibetsu",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.65899",
+            "longitude": "145.13197"
+        },
+        {
+            "city": "Sapporo-shi",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.06417",
+            "longitude": "141.34694"
+        },
+        {
+            "city": "Rumoi",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.93444",
+            "longitude": "141.64278"
+        },
+        {
+            "city": "Otofuke",
+            "region": "12",
+            "country": "JP",
+            "latitude": "42.99167",
+            "longitude": "143.20028"
+        },
+        {
+            "city": "Otaru",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.18944",
+            "longitude": "141.00222"
+        },
+        {
+            "city": "\u014cdate",
+            "region": "02",
+            "country": "JP",
+            "latitude": "40.26861",
+            "longitude": "140.56833"
+        },
+        {
+            "city": "Obihiro",
+            "region": "12",
+            "country": "JP",
+            "latitude": "42.91722",
+            "longitude": "143.20444"
+        },
+        {
+            "city": "Noshiro",
+            "region": "02",
+            "country": "JP",
+            "latitude": "40.20389",
+            "longitude": "140.02417"
+        },
+        {
+            "city": "Nemuro",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.32361",
+            "longitude": "145.575"
+        },
+        {
+            "city": "Nayoro",
+            "region": "12",
+            "country": "JP",
+            "latitude": "44.35056",
+            "longitude": "142.45778"
+        },
+        {
+            "city": "Nanae",
+            "region": "12",
+            "country": "JP",
+            "latitude": "41.88333",
+            "longitude": "140.68333"
+        },
+        {
+            "city": "Namioka",
+            "region": "03",
+            "country": "JP",
+            "latitude": "40.70722",
+            "longitude": "140.58944"
+        },
+        {
+            "city": "Muroran",
+            "region": "12",
+            "country": "JP",
+            "latitude": "42.31722",
+            "longitude": "140.98806"
+        },
+        {
+            "city": "Mombetsu",
+            "region": "12",
+            "country": "JP",
+            "latitude": "44.3525",
+            "longitude": "143.3525"
+        },
+        {
+            "city": "Misawa",
+            "region": "03",
+            "country": "JP",
+            "latitude": "40.68361",
+            "longitude": "141.35972"
+        },
+        {
+            "city": "Yoichi",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.20389",
+            "longitude": "140.77028"
+        },
+        {
+            "city": "Makubetsu",
+            "region": "12",
+            "country": "JP",
+            "latitude": "45.37139",
+            "longitude": "141.82111"
+        },
+        {
+            "city": "Kushiro",
+            "region": "12",
+            "country": "JP",
+            "latitude": "42.975",
+            "longitude": "144.37472"
+        },
+        {
+            "city": "Kuroishi",
+            "region": "03",
+            "country": "JP",
+            "latitude": "40.63889",
+            "longitude": "140.59222"
+        },
+        {
+            "city": "Kizukuri",
+            "region": "03",
+            "country": "JP",
+            "latitude": "40.80611",
+            "longitude": "140.38611"
+        },
+        {
+            "city": "Kitami",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.80306",
+            "longitude": "143.89083"
+        },
+        {
+            "city": "Kamikawa",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.84",
+            "longitude": "142.77111"
+        },
+        {
+            "city": "Kamiiso",
+            "region": "12",
+            "country": "JP",
+            "latitude": "41.81667",
+            "longitude": "140.65"
+        },
+        {
+            "city": "Iwanai",
+            "region": "12",
+            "country": "JP",
+            "latitude": "42.97444",
+            "longitude": "140.50889"
+        },
+        {
+            "city": "Iwamizawa",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.20028",
+            "longitude": "141.75972"
+        },
+        {
+            "city": "Ishikari",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.23972",
+            "longitude": "141.35389"
+        },
+        {
+            "city": "Ichinohe",
+            "region": "16",
+            "country": "JP",
+            "latitude": "40.20694",
+            "longitude": "141.30167"
+        },
+        {
+            "city": "Kitahiroshima",
+            "region": "12",
+            "country": "JP",
+            "latitude": "42.97583",
+            "longitude": "141.56722"
+        },
+        {
+            "city": "Hirosaki",
+            "region": "03",
+            "country": "JP",
+            "latitude": "40.59306",
+            "longitude": "140.4725"
+        },
+        {
+            "city": "Kazuno",
+            "region": "02",
+            "country": "JP",
+            "latitude": "40.18361",
+            "longitude": "140.78722"
+        },
+        {
+            "city": "Hakodate",
+            "region": "12",
+            "country": "JP",
+            "latitude": "41.77583",
+            "longitude": "140.73667"
+        },
+        {
+            "city": "Hachinohe",
+            "region": "03",
+            "country": "JP",
+            "latitude": "40.5",
+            "longitude": "141.5"
+        },
+        {
+            "city": "Fukagawa",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.70806",
+            "longitude": "142.03917"
+        },
+        {
+            "city": "Ebetsu",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.10806",
+            "longitude": "141.55056"
+        },
+        {
+            "city": "Date",
+            "region": "12",
+            "country": "JP",
+            "latitude": "42.46806",
+            "longitude": "140.86806"
+        },
+        {
+            "city": "Chitose",
+            "region": "12",
+            "country": "JP",
+            "latitude": "42.81944",
+            "longitude": "141.65222"
+        },
+        {
+            "city": "Bibai",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.32472",
+            "longitude": "141.85861"
+        },
+        {
+            "city": "Ashibetsu",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.50972",
+            "longitude": "142.18556"
+        },
+        {
+            "city": "Asahikawa",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.76778",
+            "longitude": "142.37028"
+        },
+        {
+            "city": "Aomori-shi",
+            "region": "03",
+            "country": "JP",
+            "latitude": "40.82444",
+            "longitude": "140.74"
+        },
+        {
+            "city": "Akabira",
+            "region": "12",
+            "country": "JP",
+            "latitude": "43.55139",
+            "longitude": "142.05306"
+        },
+        {
+            "city": "Abashiri",
+            "region": "12",
+            "country": "JP",
+            "latitude": "44.02127",
+            "longitude": "144.26971"
+        },
+        {
+            "city": "Goshogawara",
+            "region": "03",
+            "country": "JP",
+            "latitude": "40.80444",
+            "longitude": "140.44139"
+        },
+        {
+            "city": "K\u014dya",
+            "region": "00",
+            "country": "JP",
+            "latitude": "34.21294",
+            "longitude": "135.62244"
+        },
+        {
+            "city": "Kihoku-ch\u014d",
+            "region": "05",
+            "country": "JP",
+            "latitude": "33.25592",
+            "longitude": "132.68343"
+        },
+        {
+            "city": "Nanto-shi",
+            "region": "",
+            "country": "JP",
+            "latitude": "36.56922",
+            "longitude": "136.91162"
+        },
+        {
+            "city": "Kawage",
+            "region": "",
+            "country": "JP",
+            "latitude": "34.80447",
+            "longitude": "136.54645"
+        },
+        {
+            "city": "Asahi",
+            "region": "",
+            "country": "JP",
+            "latitude": "35.97259",
+            "longitude": "136.12455"
+        },
+        {
+            "city": "Neyagawa",
+            "region": "32",
+            "country": "JP",
+            "latitude": "34.76615",
+            "longitude": "135.62759"
+        },
+        {
+            "city": "Hitachi-Naka",
+            "region": "14",
+            "country": "JP",
+            "latitude": "36.39659",
+            "longitude": "140.53479"
+        },
+        {
+            "city": "Inashiki",
+            "region": "14",
+            "country": "JP",
+            "latitude": "35.95633",
+            "longitude": "140.32356"
+        },
+        {
+            "city": "Akiruno-shi",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.72878",
+            "longitude": "139.29415"
+        },
+        {
+            "city": "\u014cnoj\u014d",
+            "region": "07",
+            "country": "JP",
+            "latitude": "33.53567",
+            "longitude": "130.47861"
+        },
+        {
+            "city": "Kamagaya-shi",
+            "region": "04",
+            "country": "JP",
+            "latitude": "35.77674",
+            "longitude": "140.00075"
+        },
+        {
+            "city": "Minokamo",
+            "region": "09",
+            "country": "JP",
+            "latitude": "35.48199",
+            "longitude": "137.02166"
+        },
+        {
+            "city": "Guj\u014d",
+            "region": "09",
+            "country": "JP",
+            "latitude": "35.73691",
+            "longitude": "136.95852"
+        },
+        {
+            "city": "J\u014detsu",
+            "region": "29",
+            "country": "JP",
+            "latitude": "37.14828",
+            "longitude": "138.23642"
+        },
+        {
+            "city": "Saitama",
+            "region": "34",
+            "country": "JP",
+            "latitude": "35.90807",
+            "longitude": "139.65657"
+        },
+        {
+            "city": "Niseko Town",
+            "region": "12",
+            "country": "JP",
+            "latitude": "42.77871",
+            "longitude": "140.66903"
+        },
+        {
+            "city": "Higashimurayama-shi",
+            "region": "40",
+            "country": "JP",
+            "latitude": "35.75459",
+            "longitude": "139.46852"
+        },
+        {
+            "city": "Kunisaki-shi",
+            "region": "30",
+            "country": "JP",
+            "latitude": "33.56543",
+            "longitude": "131.73157"
+        },
+        {
+            "city": "Fujikawaguchiko",
+            "region": "",
+            "country": "JP",
+            "latitude": "35.48933",
+            "longitude": "138.68832"
+        },
+        {
+            "city": "Rishiri Town",
+            "region": "12",
+            "country": "JP",
+            "latitude": "45.15928",
+            "longitude": "141.19629"
+        }
+    ]
+}

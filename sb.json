@@ -1,0 +1,48 @@
+{
+    "country": "Solomon Islands",
+    "code": "SB",
+    "cities": [
+        {
+            "city": "Tulaghi",
+            "region": "00",
+            "country": "SB",
+            "latitude": "-9.09958",
+            "longitude": "160.14759"
+        },
+        {
+            "city": "Honiara",
+            "region": "06",
+            "country": "SB",
+            "latitude": "-9.43333",
+            "longitude": "159.95"
+        },
+        {
+            "city": "Gizo",
+            "region": "00",
+            "country": "SB",
+            "latitude": "-8.10303",
+            "longitude": "156.84186"
+        },
+        {
+            "city": "Buala",
+            "region": "07",
+            "country": "SB",
+            "latitude": "-8.14497",
+            "longitude": "159.59212"
+        },
+        {
+            "city": "Auki",
+            "region": "00",
+            "country": "SB",
+            "latitude": "-8.76761",
+            "longitude": "160.70335"
+        },
+        {
+            "city": "Kirakira",
+            "region": "00",
+            "country": "SB",
+            "latitude": "-10.45442",
+            "longitude": "161.92045"
+        }
+    ]
+}

@@ -1,0 +1,454 @@
+{
+    "country": "Zimbabwe",
+    "code": "ZW",
+    "cities": [
+        {
+            "city": "Zvishavane",
+            "region": "08",
+            "country": "ZW",
+            "latitude": "-20.32674",
+            "longitude": "30.06648"
+        },
+        {
+            "city": "Victoria Falls",
+            "region": "06",
+            "country": "ZW",
+            "latitude": "-17.92353",
+            "longitude": "25.84299"
+        },
+        {
+            "city": "Shurugwi",
+            "region": "02",
+            "country": "ZW",
+            "latitude": "-19.67016",
+            "longitude": "30.00589"
+        },
+        {
+            "city": "Shangani",
+            "region": "00",
+            "country": "ZW",
+            "latitude": "-19.78333",
+            "longitude": "29.36667"
+        },
+        {
+            "city": "Shamva",
+            "region": "03",
+            "country": "ZW",
+            "latitude": "-17.31159",
+            "longitude": "31.57561"
+        },
+        {
+            "city": "Rusape",
+            "region": "01",
+            "country": "ZW",
+            "latitude": "-18.52785",
+            "longitude": "32.12843"
+        },
+        {
+            "city": "Redcliff",
+            "region": "00",
+            "country": "ZW",
+            "latitude": "-19.03333",
+            "longitude": "29.78333"
+        },
+        {
+            "city": "Raffingora",
+            "region": "00",
+            "country": "ZW",
+            "latitude": "-17.03333",
+            "longitude": "30.43333"
+        },
+        {
+            "city": "Plumtree",
+            "region": "00",
+            "country": "ZW",
+            "latitude": "-20.48333",
+            "longitude": "27.81667"
+        },
+        {
+            "city": "Penhalonga",
+            "region": "01",
+            "country": "ZW",
+            "latitude": "-18.89112",
+            "longitude": "32.69781"
+        },
+        {
+            "city": "Odzi",
+            "region": "01",
+            "country": "ZW",
+            "latitude": "-18.96167",
+            "longitude": "32.40557"
+        },
+        {
+            "city": "Nyazura",
+            "region": "01",
+            "country": "ZW",
+            "latitude": "-18.70587",
+            "longitude": "32.16796"
+        },
+        {
+            "city": "Nyanga",
+            "region": "00",
+            "country": "ZW",
+            "latitude": "-18.21667",
+            "longitude": "32.75"
+        },
+        {
+            "city": "Norton",
+            "region": "00",
+            "country": "ZW",
+            "latitude": "-17.88333",
+            "longitude": "30.7"
+        },
+        {
+            "city": "Mvurwi",
+            "region": "00",
+            "country": "ZW",
+            "latitude": "-17.03333",
+            "longitude": "30.85"
+        },
+        {
+            "city": "Mvuma",
+            "region": "02",
+            "country": "ZW",
+            "latitude": "-19.27924",
+            "longitude": "30.52828"
+        },
+        {
+            "city": "Mutoko",
+            "region": "04",
+            "country": "ZW",
+            "latitude": "-17.39699",
+            "longitude": "32.22677"
+        },
+        {
+            "city": "Mutare",
+            "region": "01",
+            "country": "ZW",
+            "latitude": "-18.9707",
+            "longitude": "32.67086"
+        },
+        {
+            "city": "Murehwa",
+            "region": "04",
+            "country": "ZW",
+            "latitude": "-17.64322",
+            "longitude": "31.784"
+        },
+        {
+            "city": "Mount Darwin",
+            "region": "03",
+            "country": "ZW",
+            "latitude": "-16.77251",
+            "longitude": "31.58381"
+        },
+        {
+            "city": "Mhangura",
+            "region": "05",
+            "country": "ZW",
+            "latitude": "-16.89386",
+            "longitude": "30.16828"
+        },
+        {
+            "city": "Mazoe",
+            "region": "03",
+            "country": "ZW",
+            "latitude": "-17.50404",
+            "longitude": "30.97388"
+        },
+        {
+            "city": "Masvingo",
+            "region": "08",
+            "country": "ZW",
+            "latitude": "-20.06373",
+            "longitude": "30.82766"
+        },
+        {
+            "city": "Mashava",
+            "region": "08",
+            "country": "ZW",
+            "latitude": "-20.03665",
+            "longitude": "30.48225"
+        },
+        {
+            "city": "Marondera",
+            "region": "04",
+            "country": "ZW",
+            "latitude": "-18.18527",
+            "longitude": "31.55193"
+        },
+        {
+            "city": "Macheke",
+            "region": "04",
+            "country": "ZW",
+            "latitude": "-18.13901",
+            "longitude": "31.84933"
+        },
+        {
+            "city": "Lupane",
+            "region": "06",
+            "country": "ZW",
+            "latitude": "-18.93149",
+            "longitude": "27.80696"
+        },
+        {
+            "city": "Lalapanzi",
+            "region": "02",
+            "country": "ZW",
+            "latitude": "-19.33225",
+            "longitude": "30.17768"
+        },
+        {
+            "city": "Kwekwe",
+            "region": "02",
+            "country": "ZW",
+            "latitude": "-18.9281",
+            "longitude": "29.81486"
+        },
+        {
+            "city": "Karoi",
+            "region": "05",
+            "country": "ZW",
+            "latitude": "-16.80993",
+            "longitude": "29.69247"
+        },
+        {
+            "city": "Kariba",
+            "region": "05",
+            "country": "ZW",
+            "latitude": "-16.51667",
+            "longitude": "28.8"
+        },
+        {
+            "city": "Kamativi Mine",
+            "region": "06",
+            "country": "ZW",
+            "latitude": "-18.31563",
+            "longitude": "27.05728"
+        },
+        {
+            "city": "Kadoma",
+            "region": "05",
+            "country": "ZW",
+            "latitude": "-18.33328",
+            "longitude": "29.91534"
+        },
+        {
+            "city": "Inyathi",
+            "region": "06",
+            "country": "ZW",
+            "latitude": "-19.67563",
+            "longitude": "28.84687"
+        },
+        {
+            "city": "Insiza",
+            "region": "00",
+            "country": "ZW",
+            "latitude": "-19.78333",
+            "longitude": "29.2"
+        },
+        {
+            "city": "Hwange",
+            "region": "00",
+            "country": "ZW",
+            "latitude": "-18.36927",
+            "longitude": "26.50194"
+        },
+        {
+            "city": "Headlands",
+            "region": "01",
+            "country": "ZW",
+            "latitude": "-18.27733",
+            "longitude": "32.0515"
+        },
+        {
+            "city": "Harare",
+            "region": "10",
+            "country": "ZW",
+            "latitude": "-17.82935",
+            "longitude": "31.05389"
+        },
+        {
+            "city": "Gweru",
+            "region": "02",
+            "country": "ZW",
+            "latitude": "-19.45",
+            "longitude": "29.81667"
+        },
+        {
+            "city": "Gwanda",
+            "region": "07",
+            "country": "ZW",
+            "latitude": "-20.93333",
+            "longitude": "29"
+        },
+        {
+            "city": "Gokwe",
+            "region": "02",
+            "country": "ZW",
+            "latitude": "-18.20476",
+            "longitude": "28.9349"
+        },
+        {
+            "city": "Glendale",
+            "region": "03",
+            "country": "ZW",
+            "latitude": "-17.35514",
+            "longitude": "31.06718"
+        },
+        {
+            "city": "Filabusi",
+            "region": "07",
+            "country": "ZW",
+            "latitude": "-20.53333",
+            "longitude": "29.28502"
+        },
+        {
+            "city": "Esigodini",
+            "region": "07",
+            "country": "ZW",
+            "latitude": "-20.28979",
+            "longitude": "28.92261"
+        },
+        {
+            "city": "Dorowa Mining Lease",
+            "region": "00",
+            "country": "ZW",
+            "latitude": "-19.06667",
+            "longitude": "31.75"
+        },
+        {
+            "city": "Dete",
+            "region": "00",
+            "country": "ZW",
+            "latitude": "-18.61667",
+            "longitude": "26.86667"
+        },
+        {
+            "city": "Concession",
+            "region": "00",
+            "country": "ZW",
+            "latitude": "-17.38333",
+            "longitude": "30.95"
+        },
+        {
+            "city": "Chivhu",
+            "region": "04",
+            "country": "ZW",
+            "latitude": "-19.02112",
+            "longitude": "30.89218"
+        },
+        {
+            "city": "Chirundu",
+            "region": "00",
+            "country": "ZW",
+            "latitude": "-16.03333",
+            "longitude": "28.85"
+        },
+        {
+            "city": "Chiredzi",
+            "region": "00",
+            "country": "ZW",
+            "latitude": "-21.05",
+            "longitude": "31.66667"
+        },
+        {
+            "city": "Chipinge",
+            "region": "01",
+            "country": "ZW",
+            "latitude": "-20.18833",
+            "longitude": "32.62364"
+        },
+        {
+            "city": "Chinhoyi",
+            "region": "05",
+            "country": "ZW",
+            "latitude": "-17.36667",
+            "longitude": "30.2"
+        },
+        {
+            "city": "Chimanimani",
+            "region": "00",
+            "country": "ZW",
+            "latitude": "-19.8",
+            "longitude": "32.86667"
+        },
+        {
+            "city": "Chegutu",
+            "region": "05",
+            "country": "ZW",
+            "latitude": "-18.13021",
+            "longitude": "30.14074"
+        },
+        {
+            "city": "Chakari",
+            "region": "05",
+            "country": "ZW",
+            "latitude": "-18.06294",
+            "longitude": "29.89246"
+        },
+        {
+            "city": "Centenary",
+            "region": "03",
+            "country": "ZW",
+            "latitude": "-16.72289",
+            "longitude": "31.11462"
+        },
+        {
+            "city": "Bulawayo",
+            "region": "09",
+            "country": "ZW",
+            "latitude": "-20.15",
+            "longitude": "28.58333"
+        },
+        {
+            "city": "Binga",
+            "region": "06",
+            "country": "ZW",
+            "latitude": "-17.62028",
+            "longitude": "27.34139"
+        },
+        {
+            "city": "Bindura",
+            "region": "03",
+            "country": "ZW",
+            "latitude": "-17.30192",
+            "longitude": "31.33056"
+        },
+        {
+            "city": "Beitbridge",
+            "region": "00",
+            "country": "ZW",
+            "latitude": "-22.21667",
+            "longitude": "30"
+        },
+        {
+            "city": "Beatrice",
+            "region": "04",
+            "country": "ZW",
+            "latitude": "-18.25283",
+            "longitude": "30.8473"
+        },
+        {
+            "city": "Banket",
+            "region": "00",
+            "country": "ZW",
+            "latitude": "-17.38333",
+            "longitude": "30.4"
+        },
+        {
+            "city": "Epworth",
+            "region": "10",
+            "country": "ZW",
+            "latitude": "-17.89",
+            "longitude": "31.1475"
+        },
+        {
+            "city": "Chitungwiza",
+            "region": "10",
+            "country": "ZW",
+            "latitude": "-18.01274",
+            "longitude": "31.07555"
+        }
+    ]
+}

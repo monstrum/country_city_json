@@ -1,0 +1,20 @@
+{
+    "country": "Bermuda",
+    "code": "BM",
+    "cities": [
+        {
+            "city": "Saint George",
+            "region": "06",
+            "country": "BM",
+            "latitude": "32.38167",
+            "longitude": "-64.67806"
+        },
+        {
+            "city": "Hamilton",
+            "region": "03",
+            "country": "BM",
+            "latitude": "32.29149",
+            "longitude": "-64.77797"
+        }
+    ]
+}

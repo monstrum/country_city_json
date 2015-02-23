@@ -1,0 +1,13 @@
+{
+    "country": "Pitcairn",
+    "code": "PN",
+    "cities": [
+        {
+            "city": "Adamstown",
+            "region": "",
+            "country": "PN",
+            "latitude": "-25.06597",
+            "longitude": "-130.10147"
+        }
+    ]
+}

@@ -1,0 +1,496 @@
+{
+    "country": "Gambia",
+    "code": "GM",
+    "cities": [
+        {
+            "city": "Wellingara Ba",
+            "region": "02",
+            "country": "GM",
+            "latitude": "13.41667",
+            "longitude": "-15.4"
+        },
+        {
+            "city": "Wassu",
+            "region": "03",
+            "country": "GM",
+            "latitude": "13.69094",
+            "longitude": "-14.87884"
+        },
+        {
+            "city": "Toniataba",
+            "region": "02",
+            "country": "GM",
+            "latitude": "13.43333",
+            "longitude": "-15.58333"
+        },
+        {
+            "city": "Sutukung",
+            "region": "02",
+            "country": "GM",
+            "latitude": "13.46667",
+            "longitude": "-15.26667"
+        },
+        {
+            "city": "Sutukoba",
+            "region": "04",
+            "country": "GM",
+            "latitude": "13.5",
+            "longitude": "-14.01667"
+        },
+        {
+            "city": "Sun Kunda",
+            "region": "04",
+            "country": "GM",
+            "latitude": "13.38333",
+            "longitude": "-13.85"
+        },
+        {
+            "city": "Sukuta",
+            "region": "03",
+            "country": "GM",
+            "latitude": "13.61667",
+            "longitude": "-14.91667"
+        },
+        {
+            "city": "Sukuta",
+            "region": "05",
+            "country": "GM",
+            "latitude": "13.41033",
+            "longitude": "-16.70815"
+        },
+        {
+            "city": "Sudowol",
+            "region": "04",
+            "country": "GM",
+            "latitude": "13.36667",
+            "longitude": "-13.96667"
+        },
+        {
+            "city": "Somita",
+            "region": "05",
+            "country": "GM",
+            "latitude": "13.20583",
+            "longitude": "-16.30556"
+        },
+        {
+            "city": "Soma",
+            "region": "02",
+            "country": "GM",
+            "latitude": "13.43333",
+            "longitude": "-15.53333"
+        },
+        {
+            "city": "Si Kunda",
+            "region": "02",
+            "country": "GM",
+            "latitude": "13.43333",
+            "longitude": "-15.56667"
+        },
+        {
+            "city": "Saruja",
+            "region": "03",
+            "country": "GM",
+            "latitude": "13.55",
+            "longitude": "-14.91667"
+        },
+        {
+            "city": "Sara Kunda",
+            "region": "07",
+            "country": "GM",
+            "latitude": "13.53333",
+            "longitude": "-15.41667"
+        },
+        {
+            "city": "Sankwia",
+            "region": "02",
+            "country": "GM",
+            "latitude": "13.46667",
+            "longitude": "-15.51667"
+        },
+        {
+            "city": "Sami",
+            "region": "03",
+            "country": "GM",
+            "latitude": "13.58333",
+            "longitude": "-15.2"
+        },
+        {
+            "city": "Sabi",
+            "region": "04",
+            "country": "GM",
+            "latitude": "13.23333",
+            "longitude": "-14.2"
+        },
+        {
+            "city": "Saba",
+            "region": "07",
+            "country": "GM",
+            "latitude": "13.51639",
+            "longitude": "-16.04917"
+        },
+        {
+            "city": "Perai",
+            "region": "04",
+            "country": "GM",
+            "latitude": "13.38333",
+            "longitude": "-14.03333"
+        },
+        {
+            "city": "Pateh Sam",
+            "region": "03",
+            "country": "GM",
+            "latitude": "13.61667",
+            "longitude": "-15.06667"
+        },
+        {
+            "city": "Nyamanari",
+            "region": "04",
+            "country": "GM",
+            "latitude": "13.33333",
+            "longitude": "-13.86667"
+        },
+        {
+            "city": "No Kunda",
+            "region": "07",
+            "country": "GM",
+            "latitude": "13.56667",
+            "longitude": "-15.83333"
+        },
+        {
+            "city": "Nioro",
+            "region": "02",
+            "country": "GM",
+            "latitude": "13.35",
+            "longitude": "-15.75"
+        },
+        {
+            "city": "Mansa Konko",
+            "region": "02",
+            "country": "GM",
+            "latitude": "13.46667",
+            "longitude": "-15.55"
+        },
+        {
+            "city": "Lamin",
+            "region": "07",
+            "country": "GM",
+            "latitude": "13.35222",
+            "longitude": "-16.43389"
+        },
+        {
+            "city": "Kunting",
+            "region": "03",
+            "country": "GM",
+            "latitude": "13.53333",
+            "longitude": "-14.66667"
+        },
+        {
+            "city": "Kuntaur",
+            "region": "03",
+            "country": "GM",
+            "latitude": "13.66667",
+            "longitude": "-14.88333"
+        },
+        {
+            "city": "Kumbija",
+            "region": "04",
+            "country": "GM",
+            "latitude": "13.26667",
+            "longitude": "-14.18333"
+        },
+        {
+            "city": "Koina",
+            "region": "04",
+            "country": "GM",
+            "latitude": "13.48333",
+            "longitude": "-13.86667"
+        },
+        {
+            "city": "Kerewan",
+            "region": "07",
+            "country": "GM",
+            "latitude": "13.4898",
+            "longitude": "-16.08879"
+        },
+        {
+            "city": "Keneba",
+            "region": "02",
+            "country": "GM",
+            "latitude": "13.32889",
+            "longitude": "-16.015"
+        },
+        {
+            "city": "Katchang",
+            "region": "07",
+            "country": "GM",
+            "latitude": "13.5",
+            "longitude": "-15.75"
+        },
+        {
+            "city": "Kass Wollof",
+            "region": "03",
+            "country": "GM",
+            "latitude": "13.78333",
+            "longitude": "-14.93333"
+        },
+        {
+            "city": "Karantaba",
+            "region": "03",
+            "country": "GM",
+            "latitude": "13.66667",
+            "longitude": "-15.03333"
+        },
+        {
+            "city": "Karantaba",
+            "region": "02",
+            "country": "GM",
+            "latitude": "13.43333",
+            "longitude": "-15.51667"
+        },
+        {
+            "city": "Kaiaf",
+            "region": "02",
+            "country": "GM",
+            "latitude": "13.4",
+            "longitude": "-15.61667"
+        },
+        {
+            "city": "Jifarong",
+            "region": "02",
+            "country": "GM",
+            "latitude": "13.3",
+            "longitude": "-15.86667"
+        },
+        {
+            "city": "Jenoi",
+            "region": "02",
+            "country": "GM",
+            "latitude": "13.48333",
+            "longitude": "-15.56667"
+        },
+        {
+            "city": "Jarreng",
+            "region": "03",
+            "country": "GM",
+            "latitude": "13.61667",
+            "longitude": "-15.18333"
+        },
+        {
+            "city": "Jali",
+            "region": "02",
+            "country": "GM",
+            "latitude": "13.35",
+            "longitude": "-15.96667"
+        },
+        {
+            "city": "Jakhaly",
+            "region": "03",
+            "country": "GM",
+            "latitude": "13.55",
+            "longitude": "-14.96667"
+        },
+        {
+            "city": "Gunjur Kuta",
+            "region": "04",
+            "country": "GM",
+            "latitude": "13.53333",
+            "longitude": "-14.11667"
+        },
+        {
+            "city": "Gunjur",
+            "region": "07",
+            "country": "GM",
+            "latitude": "13.52278",
+            "longitude": "-16.02778"
+        },
+        {
+            "city": "Gunjur",
+            "region": "05",
+            "country": "GM",
+            "latitude": "13.20194",
+            "longitude": "-16.73389"
+        },
+        {
+            "city": "Georgetown",
+            "region": "03",
+            "country": "GM",
+            "latitude": "13.53333",
+            "longitude": "-14.76667"
+        },
+        {
+            "city": "Galleh Manda",
+            "region": "03",
+            "country": "GM",
+            "latitude": "13.43333",
+            "longitude": "-14.78333"
+        },
+        {
+            "city": "Farafenni",
+            "region": "07",
+            "country": "GM",
+            "latitude": "13.56667",
+            "longitude": "-15.6"
+        },
+        {
+            "city": "Essau",
+            "region": "07",
+            "country": "GM",
+            "latitude": "13.48389",
+            "longitude": "-16.53472"
+        },
+        {
+            "city": "Diabugu Basilla",
+            "region": "04",
+            "country": "GM",
+            "latitude": "13.33333",
+            "longitude": "-13.95"
+        },
+        {
+            "city": "Diabugu",
+            "region": "04",
+            "country": "GM",
+            "latitude": "13.38333",
+            "longitude": "-14.4"
+        },
+        {
+            "city": "Denton",
+            "region": "03",
+            "country": "GM",
+            "latitude": "13.5",
+            "longitude": "-14.93333"
+        },
+        {
+            "city": "Demba Kunda",
+            "region": "04",
+            "country": "GM",
+            "latitude": "13.25",
+            "longitude": "-14.26667"
+        },
+        {
+            "city": "Daru Rilwan",
+            "region": "07",
+            "country": "GM",
+            "latitude": "13.55",
+            "longitude": "-15.98333"
+        },
+        {
+            "city": "Dankunku",
+            "region": "03",
+            "country": "GM",
+            "latitude": "13.56667",
+            "longitude": "-15.31667"
+        },
+        {
+            "city": "Daba Kunda",
+            "region": "04",
+            "country": "GM",
+            "latitude": "13.31667",
+            "longitude": "-14.3"
+        },
+        {
+            "city": "Chilla",
+            "region": "07",
+            "country": "GM",
+            "latitude": "13.55",
+            "longitude": "-16.28333"
+        },
+        {
+            "city": "Bureng",
+            "region": "02",
+            "country": "GM",
+            "latitude": "13.41667",
+            "longitude": "-15.28333"
+        },
+        {
+            "city": "Brikama Nding",
+            "region": "03",
+            "country": "GM",
+            "latitude": "13.53333",
+            "longitude": "-14.93333"
+        },
+        {
+            "city": "Brikama",
+            "region": "05",
+            "country": "GM",
+            "latitude": "13.27136",
+            "longitude": "-16.64944"
+        },
+        {
+            "city": "Brifu",
+            "region": "04",
+            "country": "GM",
+            "latitude": "13.5",
+            "longitude": "-13.93333"
+        },
+        {
+            "city": "Basse Santa Su",
+            "region": "04",
+            "country": "GM",
+            "latitude": "13.30995",
+            "longitude": "-14.21373"
+        },
+        {
+            "city": "Barra",
+            "region": "07",
+            "country": "GM",
+            "latitude": "13.48278",
+            "longitude": "-16.54556"
+        },
+        {
+            "city": "Baro Kunda",
+            "region": "02",
+            "country": "GM",
+            "latitude": "13.48333",
+            "longitude": "-15.26667"
+        },
+        {
+            "city": "Bantanto",
+            "region": "03",
+            "country": "GM",
+            "latitude": "13.41667",
+            "longitude": "-14.65"
+        },
+        {
+            "city": "Bansang",
+            "region": "03",
+            "country": "GM",
+            "latitude": "13.43333",
+            "longitude": "-14.65"
+        },
+        {
+            "city": "Banjul",
+            "region": "01",
+            "country": "GM",
+            "latitude": "13.45274",
+            "longitude": "-16.57803"
+        },
+        {
+            "city": "Bambali",
+            "region": "07",
+            "country": "GM",
+            "latitude": "13.48333",
+            "longitude": "-15.33333"
+        },
+        {
+            "city": "Bakau",
+            "region": "01",
+            "country": "GM",
+            "latitude": "13.47806",
+            "longitude": "-16.68194"
+        },
+        {
+            "city": "Bakadagy",
+            "region": "04",
+            "country": "GM",
+            "latitude": "13.3",
+            "longitude": "-14.38333"
+        },
+        {
+            "city": "Abuko",
+            "region": "05",
+            "country": "GM",
+            "latitude": "13.40417",
+            "longitude": "-16.65583"
+        }
+    ]
+}

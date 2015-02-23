@@ -1,0 +1,41 @@
+{
+    "country": "Hong Kong",
+    "code": "HK",
+    "cities": [
+        {
+            "city": "Tsuen Wan",
+            "region": "00",
+            "country": "HK",
+            "latitude": "22.36667",
+            "longitude": "114.1"
+        },
+        {
+            "city": "Yung Shue Wan",
+            "region": "00",
+            "country": "HK",
+            "latitude": "22.23333",
+            "longitude": "114.11667"
+        },
+        {
+            "city": "Sok Kwu Wan",
+            "region": "00",
+            "country": "HK",
+            "latitude": "22.2",
+            "longitude": "114.13333"
+        },
+        {
+            "city": "Kowloon",
+            "region": "00",
+            "country": "HK",
+            "latitude": "22.31667",
+            "longitude": "114.18333"
+        },
+        {
+            "city": "Hong Kong",
+            "region": "00",
+            "country": "HK",
+            "latitude": "22.28552",
+            "longitude": "114.15769"
+        }
+    ]
+}

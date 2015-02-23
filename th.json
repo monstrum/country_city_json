@@ -1,0 +1,7237 @@
+{
+    "country": "Thailand",
+    "code": "TH",
+    "cities": [
+        {
+            "city": "Don Sak",
+            "region": "60",
+            "country": "TH",
+            "latitude": "9.31676",
+            "longitude": "99.69184"
+        },
+        {
+            "city": "Thung Sai",
+            "region": "11",
+            "country": "TH",
+            "latitude": "16.31489",
+            "longitude": "99.83267"
+        },
+        {
+            "city": "Tham Phannara",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.42044",
+            "longitude": "99.39517"
+        },
+        {
+            "city": "Ban Talat Yai",
+            "region": "62",
+            "country": "TH",
+            "latitude": "7.88481",
+            "longitude": "98.40008"
+        },
+        {
+            "city": "Ban Talat Nua",
+            "region": "62",
+            "country": "TH",
+            "latitude": "7.88489",
+            "longitude": "98.38557"
+        },
+        {
+            "city": "Sam Roi Yot",
+            "region": "57",
+            "country": "TH",
+            "latitude": "12.27081",
+            "longitude": "99.87203"
+        },
+        {
+            "city": "Nopphitam",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.72206",
+            "longitude": "99.74878"
+        },
+        {
+            "city": "Lam Thap",
+            "region": "63",
+            "country": "TH",
+            "latitude": "8.07228",
+            "longitude": "99.29225"
+        },
+        {
+            "city": "Ban Huai I Huak",
+            "region": "01",
+            "country": "TH",
+            "latitude": "18.07861",
+            "longitude": "98.035"
+        },
+        {
+            "city": "Si Sawat",
+            "region": "50",
+            "country": "TH",
+            "latitude": "14.59922",
+            "longitude": "99.11406"
+        },
+        {
+            "city": "Phrao",
+            "region": "02",
+            "country": "TH",
+            "latitude": "19.36556",
+            "longitude": "99.20208"
+        },
+        {
+            "city": "Mae Taeng",
+            "region": "02",
+            "country": "TH",
+            "latitude": "19.11712",
+            "longitude": "98.94176"
+        },
+        {
+            "city": "Mae Ai",
+            "region": "02",
+            "country": "TH",
+            "latitude": "20.02883",
+            "longitude": "99.29833"
+        },
+        {
+            "city": "Phetchaburi",
+            "region": "56",
+            "country": "TH",
+            "latitude": "13.11189",
+            "longitude": "99.94467"
+        },
+        {
+            "city": "Mae Chai",
+            "region": "41",
+            "country": "TH",
+            "latitude": "19.34597",
+            "longitude": "99.814"
+        },
+        {
+            "city": "Yan Ta Khao",
+            "region": "65",
+            "country": "TH",
+            "latitude": "7.38622",
+            "longitude": "99.66692"
+        },
+        {
+            "city": "Wiang Sa",
+            "region": "60",
+            "country": "TH",
+            "latitude": "8.63585",
+            "longitude": "99.3666"
+        },
+        {
+            "city": "Wiang Pa Pao",
+            "region": "03",
+            "country": "TH",
+            "latitude": "19.34778",
+            "longitude": "99.50772"
+        },
+        {
+            "city": "Wiang Haeng",
+            "region": "02",
+            "country": "TH",
+            "latitude": "19.557",
+            "longitude": "98.6425"
+        },
+        {
+            "city": "Wiang Chai",
+            "region": "03",
+            "country": "TH",
+            "latitude": "19.88361",
+            "longitude": "99.93314"
+        },
+        {
+            "city": "Wat Phleng",
+            "region": "52",
+            "country": "TH",
+            "latitude": "13.45407",
+            "longitude": "99.88637"
+        },
+        {
+            "city": "Wang Wiset",
+            "region": "65",
+            "country": "TH",
+            "latitude": "7.73631",
+            "longitude": "99.3987"
+        },
+        {
+            "city": "Wang Nuea",
+            "region": "06",
+            "country": "TH",
+            "latitude": "19.14678",
+            "longitude": "99.61933"
+        },
+        {
+            "city": "U Thong",
+            "region": "51",
+            "country": "TH",
+            "latitude": "14.37514",
+            "longitude": "99.89225"
+        },
+        {
+            "city": "Umphang",
+            "region": "08",
+            "country": "TH",
+            "latitude": "16.01622",
+            "longitude": "98.8627"
+        },
+        {
+            "city": "Trang",
+            "region": "65",
+            "country": "TH",
+            "latitude": "7.55633",
+            "longitude": "99.61141"
+        },
+        {
+            "city": "Thung Yai",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.30119",
+            "longitude": "99.3661"
+        },
+        {
+            "city": "Thung Tako",
+            "region": "58",
+            "country": "TH",
+            "latitude": "10.11022",
+            "longitude": "99.08306"
+        },
+        {
+            "city": "Thung Song",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.16453",
+            "longitude": "99.68039"
+        },
+        {
+            "city": "Thung Saliam",
+            "region": "09",
+            "country": "TH",
+            "latitude": "17.32106",
+            "longitude": "99.56092"
+        },
+        {
+            "city": "Thong Pha Phum",
+            "region": "50",
+            "country": "TH",
+            "latitude": "14.74345",
+            "longitude": "98.63101"
+        },
+        {
+            "city": "Thoen",
+            "region": "06",
+            "country": "TH",
+            "latitude": "17.61289",
+            "longitude": "99.21612"
+        },
+        {
+            "city": "Tha Song Yang",
+            "region": "08",
+            "country": "TH",
+            "latitude": "17.22708",
+            "longitude": "98.22572"
+        },
+        {
+            "city": "Tha Sala",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.66733",
+            "longitude": "99.93078"
+        },
+        {
+            "city": "Tha Sae",
+            "region": "58",
+            "country": "TH",
+            "latitude": "10.66461",
+            "longitude": "99.17281"
+        },
+        {
+            "city": "Thap Than",
+            "region": "15",
+            "country": "TH",
+            "latitude": "15.46063",
+            "longitude": "99.89166"
+        },
+        {
+            "city": "Thap Sakae",
+            "region": "57",
+            "country": "TH",
+            "latitude": "11.49964",
+            "longitude": "99.6217"
+        },
+        {
+            "city": "Thap Put",
+            "region": "61",
+            "country": "TH",
+            "latitude": "8.51625",
+            "longitude": "98.63972"
+        },
+        {
+            "city": "Tha Phae",
+            "region": "67",
+            "country": "TH",
+            "latitude": "6.79014",
+            "longitude": "99.97005"
+        },
+        {
+            "city": "Tha Muang",
+            "region": "50",
+            "country": "TH",
+            "latitude": "13.96118",
+            "longitude": "99.64122"
+        },
+        {
+            "city": "Tha Maka",
+            "region": "50",
+            "country": "TH",
+            "latitude": "13.9",
+            "longitude": "99.76667"
+        },
+        {
+            "city": "Thalang",
+            "region": "62",
+            "country": "TH",
+            "latitude": "8.0317",
+            "longitude": "98.33408"
+        },
+        {
+            "city": "Thai Mueang",
+            "region": "61",
+            "country": "TH",
+            "latitude": "8.39914",
+            "longitude": "98.26061"
+        },
+        {
+            "city": "Tha Chang",
+            "region": "60",
+            "country": "TH",
+            "latitude": "9.26418",
+            "longitude": "99.19218"
+        },
+        {
+            "city": "Tha Chana",
+            "region": "60",
+            "country": "TH",
+            "latitude": "9.57203",
+            "longitude": "99.16586"
+        },
+        {
+            "city": "Takua Thung",
+            "region": "61",
+            "country": "TH",
+            "latitude": "8.38373",
+            "longitude": "98.45123"
+        },
+        {
+            "city": "Takua Pa",
+            "region": "61",
+            "country": "TH",
+            "latitude": "8.8705",
+            "longitude": "98.34383"
+        },
+        {
+            "city": "Tak",
+            "region": "08",
+            "country": "TH",
+            "latitude": "16.86968",
+            "longitude": "99.12898"
+        },
+        {
+            "city": "Surat Thani",
+            "region": "60",
+            "country": "TH",
+            "latitude": "9.14011",
+            "longitude": "99.33311"
+        },
+        {
+            "city": "Sukhothai",
+            "region": "09",
+            "country": "TH",
+            "latitude": "17.00778",
+            "longitude": "99.823"
+        },
+        {
+            "city": "Suan Phueng",
+            "region": "52",
+            "country": "TH",
+            "latitude": "13.5429",
+            "longitude": "99.33961"
+        },
+        {
+            "city": "Sop Prap",
+            "region": "06",
+            "country": "TH",
+            "latitude": "17.88053",
+            "longitude": "99.337"
+        },
+        {
+            "city": "Soem Ngam",
+            "region": "06",
+            "country": "TH",
+            "latitude": "18.06506",
+            "longitude": "99.24537"
+        },
+        {
+            "city": "Si Satchanalai",
+            "region": "09",
+            "country": "TH",
+            "latitude": "17.51692",
+            "longitude": "99.75978"
+        },
+        {
+            "city": "Si Samrong",
+            "region": "09",
+            "country": "TH",
+            "latitude": "17.164",
+            "longitude": "99.86222"
+        },
+        {
+            "city": "Si Nakhon",
+            "region": "09",
+            "country": "TH",
+            "latitude": "17.34778",
+            "longitude": "99.99106"
+        },
+        {
+            "city": "Sikao",
+            "region": "65",
+            "country": "TH",
+            "latitude": "7.57158",
+            "longitude": "99.34494"
+        },
+        {
+            "city": "Si Banphot",
+            "region": "66",
+            "country": "TH",
+            "latitude": "7.72136",
+            "longitude": "99.8843"
+        },
+        {
+            "city": "Sawi",
+            "region": "58",
+            "country": "TH",
+            "latitude": "10.23683",
+            "longitude": "99.10958"
+        },
+        {
+            "city": "Sawankhalok",
+            "region": "09",
+            "country": "TH",
+            "latitude": "17.31597",
+            "longitude": "99.83186"
+        },
+        {
+            "city": "Sawang Arom",
+            "region": "15",
+            "country": "TH",
+            "latitude": "15.58394",
+            "longitude": "99.86089"
+        },
+        {
+            "city": "Saraphi",
+            "region": "02",
+            "country": "TH",
+            "latitude": "18.71417",
+            "longitude": "99.03528"
+        },
+        {
+            "city": "San Sai",
+            "region": "02",
+            "country": "TH",
+            "latitude": "18.84792",
+            "longitude": "99.04508"
+        },
+        {
+            "city": "San Pa Tong",
+            "region": "02",
+            "country": "TH",
+            "latitude": "18.62828",
+            "longitude": "98.89572"
+        },
+        {
+            "city": "San Kamphaeng",
+            "region": "02",
+            "country": "TH",
+            "latitude": "18.74486",
+            "longitude": "99.11953"
+        },
+        {
+            "city": "Sangkhla Buri",
+            "region": "50",
+            "country": "TH",
+            "latitude": "15.15553",
+            "longitude": "98.45361"
+        },
+        {
+            "city": "Samoeng",
+            "region": "02",
+            "country": "TH",
+            "latitude": "18.84806",
+            "longitude": "98.73242"
+        },
+        {
+            "city": "Sam Ngao",
+            "region": "08",
+            "country": "TH",
+            "latitude": "17.24331",
+            "longitude": "99.02256"
+        },
+        {
+            "city": "Sai Yok",
+            "region": "50",
+            "country": "TH",
+            "latitude": "14.1194",
+            "longitude": "99.14206"
+        },
+        {
+            "city": "Sai Ngam",
+            "region": "11",
+            "country": "TH",
+            "latitude": "16.46862",
+            "longitude": "99.88843"
+        },
+        {
+            "city": "Ron Phibun",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.17911",
+            "longitude": "99.85425"
+        },
+        {
+            "city": "Ratchaburi",
+            "region": "52",
+            "country": "TH",
+            "latitude": "13.53671",
+            "longitude": "99.81712"
+        },
+        {
+            "city": "Ranong",
+            "region": "59",
+            "country": "TH",
+            "latitude": "9.96583",
+            "longitude": "98.63476"
+        },
+        {
+            "city": "Pran Buri",
+            "region": "57",
+            "country": "TH",
+            "latitude": "12.38466",
+            "longitude": "99.90983"
+        },
+        {
+            "city": "Prachuap Khiri Khan",
+            "region": "57",
+            "country": "TH",
+            "latitude": "11.82098",
+            "longitude": "99.7841"
+        },
+        {
+            "city": "Plai Phraya",
+            "region": "63",
+            "country": "TH",
+            "latitude": "8.53278",
+            "longitude": "98.8637"
+        },
+        {
+            "city": "Phunphin",
+            "region": "60",
+            "country": "TH",
+            "latitude": "9.11072",
+            "longitude": "99.23208"
+        },
+        {
+            "city": "Phuket",
+            "region": "62",
+            "country": "TH",
+            "latitude": "7.89059",
+            "longitude": "98.3981"
+        },
+        {
+            "city": "Phrom Khiri",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.52333",
+            "longitude": "99.82275"
+        },
+        {
+            "city": "Phrasaeng",
+            "region": "60",
+            "country": "TH",
+            "latitude": "8.56781",
+            "longitude": "99.24756"
+        },
+        {
+            "city": "Phran Kratai",
+            "region": "11",
+            "country": "TH",
+            "latitude": "16.66511",
+            "longitude": "99.58894"
+        },
+        {
+            "city": "Photharam",
+            "region": "52",
+            "country": "TH",
+            "latitude": "13.69234",
+            "longitude": "99.84969"
+        },
+        {
+            "city": "Phop Phra",
+            "region": "08",
+            "country": "TH",
+            "latitude": "16.38461",
+            "longitude": "98.69028"
+        },
+        {
+            "city": "Phipun",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.56036",
+            "longitude": "99.60703"
+        },
+        {
+            "city": "Phayao",
+            "region": "41",
+            "country": "TH",
+            "latitude": "19.19203",
+            "longitude": "99.87883"
+        },
+        {
+            "city": "Phato",
+            "region": "58",
+            "country": "TH",
+            "latitude": "9.79089",
+            "longitude": "98.77658"
+        },
+        {
+            "city": "Phanom Thuan",
+            "region": "50",
+            "country": "TH",
+            "latitude": "14.13031",
+            "longitude": "99.69858"
+        },
+        {
+            "city": "Phanom",
+            "region": "60",
+            "country": "TH",
+            "latitude": "8.85475",
+            "longitude": "98.81267"
+        },
+        {
+            "city": "Phangnga",
+            "region": "61",
+            "country": "TH",
+            "latitude": "8.4509",
+            "longitude": "98.52985"
+        },
+        {
+            "city": "Phan",
+            "region": "03",
+            "country": "TH",
+            "latitude": "19.55395",
+            "longitude": "99.74046"
+        },
+        {
+            "city": "Pathio",
+            "region": "58",
+            "country": "TH",
+            "latitude": "10.70908",
+            "longitude": "99.3182"
+        },
+        {
+            "city": "Pa Sang",
+            "region": "05",
+            "country": "TH",
+            "latitude": "18.52617",
+            "longitude": "98.93936"
+        },
+        {
+            "city": "Palian",
+            "region": "65",
+            "country": "TH",
+            "latitude": "7.17228",
+            "longitude": "99.68633"
+        },
+        {
+            "city": "Pak Tho",
+            "region": "52",
+            "country": "TH",
+            "latitude": "13.37263",
+            "longitude": "99.83938"
+        },
+        {
+            "city": "Pai",
+            "region": "02",
+            "country": "TH",
+            "latitude": "19.36168",
+            "longitude": "98.43973"
+        },
+        {
+            "city": "Om Koi",
+            "region": "02",
+            "country": "TH",
+            "latitude": "17.80122",
+            "longitude": "98.35933"
+        },
+        {
+            "city": "Nong Ya Plong",
+            "region": "56",
+            "country": "TH",
+            "latitude": "13.16288",
+            "longitude": "99.69723"
+        },
+        {
+            "city": "Nong Khayang",
+            "region": "15",
+            "country": "TH",
+            "latitude": "15.364",
+            "longitude": "99.92939"
+        },
+        {
+            "city": "Nong Chang",
+            "region": "15",
+            "country": "TH",
+            "latitude": "15.39147",
+            "longitude": "99.84147"
+        },
+        {
+            "city": "Ngao",
+            "region": "06",
+            "country": "TH",
+            "latitude": "18.75678",
+            "longitude": "99.97814"
+        },
+        {
+            "city": "Nakhon Si Thammarat",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.43333",
+            "longitude": "99.96667"
+        },
+        {
+            "city": "Na Bon",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.26167",
+            "longitude": "99.59472"
+        },
+        {
+            "city": "Mueang Pan",
+            "region": "06",
+            "country": "TH",
+            "latitude": "18.76803",
+            "longitude": "99.5025"
+        },
+        {
+            "city": "Mae Tha",
+            "region": "05",
+            "country": "TH",
+            "latitude": "18.46456",
+            "longitude": "99.14026"
+        },
+        {
+            "city": "Mae Tha",
+            "region": "06",
+            "country": "TH",
+            "latitude": "18.13411",
+            "longitude": "99.51389"
+        },
+        {
+            "city": "Mae Suai",
+            "region": "03",
+            "country": "TH",
+            "latitude": "19.65633",
+            "longitude": "99.54367"
+        },
+        {
+            "city": "Mae Sot",
+            "region": "08",
+            "country": "TH",
+            "latitude": "16.71667",
+            "longitude": "98.56667"
+        },
+        {
+            "city": "Mae Sai",
+            "region": "03",
+            "country": "TH",
+            "latitude": "20.43353",
+            "longitude": "99.87617"
+        },
+        {
+            "city": "Mae Ramat",
+            "region": "08",
+            "country": "TH",
+            "latitude": "16.98403",
+            "longitude": "98.51665"
+        },
+        {
+            "city": "Mae Phrik",
+            "region": "06",
+            "country": "TH",
+            "latitude": "17.44688",
+            "longitude": "99.1142"
+        },
+        {
+            "city": "Mae Mo",
+            "region": "06",
+            "country": "TH",
+            "latitude": "18.27561",
+            "longitude": "99.65044"
+        },
+        {
+            "city": "Mae La Noi",
+            "region": "01",
+            "country": "TH",
+            "latitude": "18.39399",
+            "longitude": "97.90504"
+        },
+        {
+            "city": "Mae Hong Son",
+            "region": "01",
+            "country": "TH",
+            "latitude": "19.30029",
+            "longitude": "97.96852"
+        },
+        {
+            "city": "Mae Chan",
+            "region": "03",
+            "country": "TH",
+            "latitude": "20.14675",
+            "longitude": "99.85256"
+        },
+        {
+            "city": "Mae Chaem",
+            "region": "02",
+            "country": "TH",
+            "latitude": "18.49926",
+            "longitude": "98.36494"
+        },
+        {
+            "city": "Long",
+            "region": "07",
+            "country": "TH",
+            "latitude": "18.07606",
+            "longitude": "99.83256"
+        },
+        {
+            "city": "Li",
+            "region": "05",
+            "country": "TH",
+            "latitude": "17.8027",
+            "longitude": "98.95097"
+        },
+        {
+            "city": "La-Un",
+            "region": "59",
+            "country": "TH",
+            "latitude": "10.11556",
+            "longitude": "98.74992"
+        },
+        {
+            "city": "Lat Yao",
+            "region": "16",
+            "country": "TH",
+            "latitude": "15.751",
+            "longitude": "99.78925"
+        },
+        {
+            "city": "Lao Khwan",
+            "region": "50",
+            "country": "TH",
+            "latitude": "14.59522",
+            "longitude": "99.77431"
+        },
+        {
+            "city": "Lan Saka",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.37097",
+            "longitude": "99.80564"
+        },
+        {
+            "city": "Lan Sak",
+            "region": "15",
+            "country": "TH",
+            "latitude": "15.45289",
+            "longitude": "99.57606"
+        },
+        {
+            "city": "Lan Krabue",
+            "region": "11",
+            "country": "TH",
+            "latitude": "16.60003",
+            "longitude": "99.84889"
+        },
+        {
+            "city": "La-ngu",
+            "region": "67",
+            "country": "TH",
+            "latitude": "6.88492",
+            "longitude": "99.78836"
+        },
+        {
+            "city": "Lang Suan",
+            "region": "58",
+            "country": "TH",
+            "latitude": "9.94561",
+            "longitude": "99.07847"
+        },
+        {
+            "city": "Lamphun",
+            "region": "05",
+            "country": "TH",
+            "latitude": "18.58054",
+            "longitude": "99.00745"
+        },
+        {
+            "city": "Lampang",
+            "region": "06",
+            "country": "TH",
+            "latitude": "18.29232",
+            "longitude": "99.49277"
+        },
+        {
+            "city": "Lamae",
+            "region": "58",
+            "country": "TH",
+            "latitude": "9.76789",
+            "longitude": "99.09256"
+        },
+        {
+            "city": "Kui Buri",
+            "region": "57",
+            "country": "TH",
+            "latitude": "12.08283",
+            "longitude": "99.85431"
+        },
+        {
+            "city": "Kra Buri",
+            "region": "59",
+            "country": "TH",
+            "latitude": "10.40429",
+            "longitude": "98.77266"
+        },
+        {
+            "city": "Krabi",
+            "region": "63",
+            "country": "TH",
+            "latitude": "8.07257",
+            "longitude": "98.91052"
+        },
+        {
+            "city": "Ko Yao",
+            "region": "61",
+            "country": "TH",
+            "latitude": "8.11014",
+            "longitude": "98.59231"
+        },
+        {
+            "city": "Kong Ra",
+            "region": "66",
+            "country": "TH",
+            "latitude": "7.40272",
+            "longitude": "99.94972"
+        },
+        {
+            "city": "Kong Krailat",
+            "region": "09",
+            "country": "TH",
+            "latitude": "16.95197",
+            "longitude": "99.9777"
+        },
+        {
+            "city": "Ko Lanta",
+            "region": "63",
+            "country": "TH",
+            "latitude": "7.53362",
+            "longitude": "99.08647"
+        },
+        {
+            "city": "Ko Kha",
+            "region": "06",
+            "country": "TH",
+            "latitude": "18.19225",
+            "longitude": "99.39433"
+        },
+        {
+            "city": "Khura Buri",
+            "region": "61",
+            "country": "TH",
+            "latitude": "9.19397",
+            "longitude": "98.41514"
+        },
+        {
+            "city": "Khun Yuam",
+            "region": "01",
+            "country": "TH",
+            "latitude": "18.82958",
+            "longitude": "97.93347"
+        },
+        {
+            "city": "Khlong Thom",
+            "region": "63",
+            "country": "TH",
+            "latitude": "7.9375",
+            "longitude": "99.14457"
+        },
+        {
+            "city": "Khlong Lan",
+            "region": "11",
+            "country": "TH",
+            "latitude": "16.20331",
+            "longitude": "99.31997"
+        },
+        {
+            "city": "Khlong Khlung",
+            "region": "11",
+            "country": "TH",
+            "latitude": "16.21633",
+            "longitude": "99.71906"
+        },
+        {
+            "city": "Khiri Rat Nikhom",
+            "region": "60",
+            "country": "TH",
+            "latitude": "9.0302",
+            "longitude": "98.95286"
+        },
+        {
+            "city": "Khiri Mat",
+            "region": "09",
+            "country": "TH",
+            "latitude": "16.83333",
+            "longitude": "99.8"
+        },
+        {
+            "city": "Khian Sa",
+            "region": "60",
+            "country": "TH",
+            "latitude": "8.84295",
+            "longitude": "99.19856"
+        },
+        {
+            "city": "Khao Yoi",
+            "region": "56",
+            "country": "TH",
+            "latitude": "13.24025",
+            "longitude": "99.82428"
+        },
+        {
+            "city": "Khao Phanom",
+            "region": "63",
+            "country": "TH",
+            "latitude": "8.26549",
+            "longitude": "99.05124"
+        },
+        {
+            "city": "Khanu Woralaksaburi",
+            "region": "11",
+            "country": "TH",
+            "latitude": "16.0617",
+            "longitude": "99.86058"
+        },
+        {
+            "city": "Khanom",
+            "region": "64",
+            "country": "TH",
+            "latitude": "9.20472",
+            "longitude": "99.86114"
+        },
+        {
+            "city": "Kathu",
+            "region": "62",
+            "country": "TH",
+            "latitude": "7.91779",
+            "longitude": "98.33322"
+        },
+        {
+            "city": "Kapong",
+            "region": "61",
+            "country": "TH",
+            "latitude": "8.69697",
+            "longitude": "98.40914"
+        },
+        {
+            "city": "Kapoe",
+            "region": "59",
+            "country": "TH",
+            "latitude": "9.58522",
+            "longitude": "98.59611"
+        },
+        {
+            "city": "Kantang",
+            "region": "65",
+            "country": "TH",
+            "latitude": "7.40542",
+            "longitude": "99.51561"
+        },
+        {
+            "city": "Kanchanadit",
+            "region": "60",
+            "country": "TH",
+            "latitude": "9.16611",
+            "longitude": "99.47014"
+        },
+        {
+            "city": "Kanchanaburi",
+            "region": "50",
+            "country": "TH",
+            "latitude": "14.00412",
+            "longitude": "99.54832"
+        },
+        {
+            "city": "Kamphaeng Phet",
+            "region": "11",
+            "country": "TH",
+            "latitude": "16.48344",
+            "longitude": "99.52153"
+        },
+        {
+            "city": "Huai Yot",
+            "region": "65",
+            "country": "TH",
+            "latitude": "7.78933",
+            "longitude": "99.63478"
+        },
+        {
+            "city": "Huai Khot",
+            "region": "15",
+            "country": "TH",
+            "latitude": "15.29094",
+            "longitude": "99.61661"
+        },
+        {
+            "city": "Hua Hin",
+            "region": "57",
+            "country": "TH",
+            "latitude": "12.57065",
+            "longitude": "99.95876"
+        },
+        {
+            "city": "Hot",
+            "region": "02",
+            "country": "TH",
+            "latitude": "18.19317",
+            "longitude": "98.61039"
+        },
+        {
+            "city": "Hang Dong",
+            "region": "02",
+            "country": "TH",
+            "latitude": "18.68703",
+            "longitude": "98.91939"
+        },
+        {
+            "city": "Hang Chat",
+            "region": "06",
+            "country": "TH",
+            "latitude": "18.32164",
+            "longitude": "99.31561"
+        },
+        {
+            "city": "Fang",
+            "region": "02",
+            "country": "TH",
+            "latitude": "19.91689",
+            "longitude": "99.2145"
+        },
+        {
+            "city": "Dok Kham Tai",
+            "region": "41",
+            "country": "TH",
+            "latitude": "19.16242",
+            "longitude": "99.99342"
+        },
+        {
+            "city": "Doi Tao",
+            "region": "02",
+            "country": "TH",
+            "latitude": "17.95286",
+            "longitude": "98.68458"
+        },
+        {
+            "city": "Dan Chang",
+            "region": "51",
+            "country": "TH",
+            "latitude": "14.84183",
+            "longitude": "99.69756"
+        },
+        {
+            "city": "Damnoen Saduak",
+            "region": "52",
+            "country": "TH",
+            "latitude": "13.51824",
+            "longitude": "99.95469"
+        },
+        {
+            "city": "Chumphon",
+            "region": "58",
+            "country": "TH",
+            "latitude": "10.5",
+            "longitude": "99.16667"
+        },
+        {
+            "city": "Chom Thong",
+            "region": "02",
+            "country": "TH",
+            "latitude": "18.41742",
+            "longitude": "98.67428"
+        },
+        {
+            "city": "Chom Bueng",
+            "region": "52",
+            "country": "TH",
+            "latitude": "13.62",
+            "longitude": "99.59169"
+        },
+        {
+            "city": "Chiang Rai",
+            "region": "03",
+            "country": "TH",
+            "latitude": "19.90858",
+            "longitude": "99.8325"
+        },
+        {
+            "city": "Chiang Mai",
+            "region": "02",
+            "country": "TH",
+            "latitude": "18.79038",
+            "longitude": "98.98468"
+        },
+        {
+            "city": "Chiang Dao",
+            "region": "02",
+            "country": "TH",
+            "latitude": "19.36542",
+            "longitude": "98.96453"
+        },
+        {
+            "city": "Chawang",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.42614",
+            "longitude": "99.50472"
+        },
+        {
+            "city": "Chaiya",
+            "region": "60",
+            "country": "TH",
+            "latitude": "9.38624",
+            "longitude": "99.19861"
+        },
+        {
+            "city": "Chai Buri",
+            "region": "60",
+            "country": "TH",
+            "latitude": "8.46222",
+            "longitude": "99.07631"
+        },
+        {
+            "city": "Chae Hom",
+            "region": "06",
+            "country": "TH",
+            "latitude": "18.71267",
+            "longitude": "99.55758"
+        },
+        {
+            "city": "Cha-am",
+            "region": "56",
+            "country": "TH",
+            "latitude": "12.8",
+            "longitude": "99.96667"
+        },
+        {
+            "city": "Bo Phloi",
+            "region": "50",
+            "country": "TH",
+            "latitude": "14.32361",
+            "longitude": "99.51611"
+        },
+        {
+            "city": "Wiang Nuea",
+            "region": "01",
+            "country": "TH",
+            "latitude": "19.37972",
+            "longitude": "98.44644"
+        },
+        {
+            "city": "Wang Chin",
+            "region": "07",
+            "country": "TH",
+            "latitude": "17.89978",
+            "longitude": "99.60328"
+        },
+        {
+            "city": "Wang Chao",
+            "region": "08",
+            "country": "TH",
+            "latitude": "16.6744",
+            "longitude": "99.26903"
+        },
+        {
+            "city": "Thung Wa",
+            "region": "67",
+            "country": "TH",
+            "latitude": "7.10957",
+            "longitude": "99.75586"
+        },
+        {
+            "city": "Thung Hua Chang",
+            "region": "05",
+            "country": "TH",
+            "latitude": "18",
+            "longitude": "99.03333"
+        },
+        {
+            "city": "Tha Maka",
+            "region": "50",
+            "country": "TH",
+            "latitude": "13.92081",
+            "longitude": "99.76553"
+        },
+        {
+            "city": "Ban Tak",
+            "region": "08",
+            "country": "TH",
+            "latitude": "17.04325",
+            "longitude": "99.08128"
+        },
+        {
+            "city": "Ko Samui",
+            "region": "60",
+            "country": "TH",
+            "latitude": "9.53567",
+            "longitude": "99.93567"
+        },
+        {
+            "city": "Rawai",
+            "region": "62",
+            "country": "TH",
+            "latitude": "7.77965",
+            "longitude": "98.32532"
+        },
+        {
+            "city": "Ban Rai",
+            "region": "15",
+            "country": "TH",
+            "latitude": "15.08417",
+            "longitude": "99.52108"
+        },
+        {
+            "city": "Ban Pong",
+            "region": "52",
+            "country": "TH",
+            "latitude": "13.81629",
+            "longitude": "99.87739"
+        },
+        {
+            "city": "Banphot Phisai",
+            "region": "16",
+            "country": "TH",
+            "latitude": "15.93094",
+            "longitude": "99.9816"
+        },
+        {
+            "city": "Ban Phlu Nai (1)",
+            "region": "61",
+            "country": "TH",
+            "latitude": "7.93333",
+            "longitude": "98.58333"
+        },
+        {
+            "city": "Nuea Khlong",
+            "region": "63",
+            "country": "TH",
+            "latitude": "8.07144",
+            "longitude": "98.99933"
+        },
+        {
+            "city": "Nong Prue",
+            "region": "50",
+            "country": "TH",
+            "latitude": "14.60784",
+            "longitude": "99.45783"
+        },
+        {
+            "city": "Nong Mamong",
+            "region": "32",
+            "country": "TH",
+            "latitude": "15.27613",
+            "longitude": "99.8664"
+        },
+        {
+            "city": "Noen Kham",
+            "region": "32",
+            "country": "TH",
+            "latitude": "14.9501",
+            "longitude": "99.93899"
+        },
+        {
+            "city": "Ban Na San",
+            "region": "60",
+            "country": "TH",
+            "latitude": "8.80036",
+            "longitude": "99.36372"
+        },
+        {
+            "city": "Ban Na Doem",
+            "region": "60",
+            "country": "TH",
+            "latitude": "8.88361",
+            "longitude": "99.31014"
+        },
+        {
+            "city": "Ban Na",
+            "region": "09",
+            "country": "TH",
+            "latitude": "17.03056",
+            "longitude": "99.7525"
+        },
+        {
+            "city": "Ban Lat",
+            "region": "56",
+            "country": "TH",
+            "latitude": "13.05003",
+            "longitude": "99.91908"
+        },
+        {
+            "city": "Ban Laem",
+            "region": "56",
+            "country": "TH",
+            "latitude": "13.20468",
+            "longitude": "99.97958"
+        },
+        {
+            "city": "Ban Ko Kaeo",
+            "region": "62",
+            "country": "TH",
+            "latitude": "7.93599",
+            "longitude": "98.39664"
+        },
+        {
+            "city": "Ban Kha",
+            "region": "52",
+            "country": "TH",
+            "latitude": "13.43047",
+            "longitude": "99.40967"
+        },
+        {
+            "city": "Kathu",
+            "region": "62",
+            "country": "TH",
+            "latitude": "7.90903",
+            "longitude": "98.3332"
+        },
+        {
+            "city": "Ban Karon",
+            "region": "62",
+            "country": "TH",
+            "latitude": "7.84769",
+            "longitude": "98.2985"
+        },
+        {
+            "city": "Kaeng Krachan",
+            "region": "56",
+            "country": "TH",
+            "latitude": "12.90742",
+            "longitude": "99.64795"
+        },
+        {
+            "city": "Huai Krachao",
+            "region": "50",
+            "country": "TH",
+            "latitude": "14.3275",
+            "longitude": "99.66767"
+        },
+        {
+            "city": "Ban Hong",
+            "region": "05",
+            "country": "TH",
+            "latitude": "18.33086",
+            "longitude": "98.81925"
+        },
+        {
+            "city": "Bang Saphan Noi",
+            "region": "57",
+            "country": "TH",
+            "latitude": "11.08333",
+            "longitude": "99.45"
+        },
+        {
+            "city": "Bang Saphan",
+            "region": "57",
+            "country": "TH",
+            "latitude": "11.21259",
+            "longitude": "99.51167"
+        },
+        {
+            "city": "Bang Phae",
+            "region": "52",
+            "country": "TH",
+            "latitude": "13.69157",
+            "longitude": "99.92982"
+        },
+        {
+            "city": "Bang Khon Thi",
+            "region": "54",
+            "country": "TH",
+            "latitude": "13.46906",
+            "longitude": "99.94021"
+        },
+        {
+            "city": "Bang Khan",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.02689",
+            "longitude": "99.47372"
+        },
+        {
+            "city": "Don Tum",
+            "region": "53",
+            "country": "TH",
+            "latitude": "13.9609",
+            "longitude": "100.07888"
+        },
+        {
+            "city": "Doi Lo",
+            "region": "02",
+            "country": "TH",
+            "latitude": "18.46098",
+            "longitude": "98.77767"
+        },
+        {
+            "city": "Dan Makham Tia",
+            "region": "50",
+            "country": "TH",
+            "latitude": "13.85339",
+            "longitude": "99.41042"
+        },
+        {
+            "city": "Ban Dan Lan Hoi",
+            "region": "09",
+            "country": "TH",
+            "latitude": "17.00683",
+            "longitude": "99.57497"
+        },
+        {
+            "city": "Ban Ao Nang",
+            "region": "61",
+            "country": "TH",
+            "latitude": "8.0458",
+            "longitude": "98.81035"
+        },
+        {
+            "city": "Ao Luek",
+            "region": "63",
+            "country": "TH",
+            "latitude": "8.37803",
+            "longitude": "98.72117"
+        },
+        {
+            "city": "Amphawa",
+            "region": "54",
+            "country": "TH",
+            "latitude": "13.42436",
+            "longitude": "99.95688"
+        },
+        {
+            "city": "Sa Bot",
+            "region": "34",
+            "country": "TH",
+            "latitude": "15.21006",
+            "longitude": "100.83076"
+        },
+        {
+            "city": "Phatthana Nikhom",
+            "region": "34",
+            "country": "TH",
+            "latitude": "14.85646",
+            "longitude": "100.98459"
+        },
+        {
+            "city": "Nong Kung Si",
+            "region": "23",
+            "country": "TH",
+            "latitude": "16.65",
+            "longitude": "103.3"
+        },
+        {
+            "city": "Na Dun",
+            "region": "24",
+            "country": "TH",
+            "latitude": "15.71668",
+            "longitude": "103.22781"
+        },
+        {
+            "city": "Ko Pha-Ngan",
+            "region": "60",
+            "country": "TH",
+            "latitude": "9.71945",
+            "longitude": "99.99511"
+        },
+        {
+            "city": "Chiang Muan",
+            "region": "41",
+            "country": "TH",
+            "latitude": "18.88636",
+            "longitude": "100.30333"
+        },
+        {
+            "city": "Yang Si Surat",
+            "region": "24",
+            "country": "TH",
+            "latitude": "15.68361",
+            "longitude": "103.10311"
+        },
+        {
+            "city": "Mueang Yang",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.4206",
+            "longitude": "102.89282"
+        },
+        {
+            "city": "Siao",
+            "region": "30",
+            "country": "TH",
+            "latitude": "14.79583",
+            "longitude": "104.67017"
+        },
+        {
+            "city": "Samran",
+            "region": "23",
+            "country": "TH",
+            "latitude": "16.86322",
+            "longitude": "103.54106"
+        },
+        {
+            "city": "Thepharak",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.30868",
+            "longitude": "101.55045"
+        },
+        {
+            "city": "Sak Lek",
+            "region": "13",
+            "country": "TH",
+            "latitude": "16.50528",
+            "longitude": "100.47103"
+        },
+        {
+            "city": "Phayu",
+            "region": "30",
+            "country": "TH",
+            "latitude": "14.90851",
+            "longitude": "104.391"
+        },
+        {
+            "city": "Pha Khao",
+            "region": "18",
+            "country": "TH",
+            "latitude": "17.06507",
+            "longitude": "102.02965"
+        },
+        {
+            "city": "Non Suwan",
+            "region": "28",
+            "country": "TH",
+            "latitude": "14.58044",
+            "longitude": "102.59689"
+        },
+        {
+            "city": "Ban Nong Wua So",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.2675",
+            "longitude": "103.22472"
+        },
+        {
+            "city": "Nong Wua So",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.16261",
+            "longitude": "102.57272"
+        },
+        {
+            "city": "Nong Na Kham",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.8043",
+            "longitude": "102.33647"
+        },
+        {
+            "city": "Nong Muang",
+            "region": "34",
+            "country": "TH",
+            "latitude": "15.24592",
+            "longitude": "100.65556"
+        },
+        {
+            "city": "Nong Hin",
+            "region": "18",
+            "country": "TH",
+            "latitude": "17.12356",
+            "longitude": "101.85789"
+        },
+        {
+            "city": "Nong Hi",
+            "region": "25",
+            "country": "TH",
+            "latitude": "15.61117",
+            "longitude": "103.99484"
+        },
+        {
+            "city": "Nong Bua Daeng",
+            "region": "26",
+            "country": "TH",
+            "latitude": "16.08256",
+            "longitude": "101.80231"
+        },
+        {
+            "city": "Na Yung",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.89747",
+            "longitude": "102.14981"
+        },
+        {
+            "city": "Na Tan",
+            "region": "75",
+            "country": "TH",
+            "latitude": "15.89749",
+            "longitude": "105.29318"
+        },
+        {
+            "city": "Ban Nam Yuen",
+            "region": "58",
+            "country": "TH",
+            "latitude": "9.87686",
+            "longitude": "98.86592"
+        },
+        {
+            "city": "Na Mom",
+            "region": "68",
+            "country": "TH",
+            "latitude": "6.95856",
+            "longitude": "100.55683"
+        },
+        {
+            "city": "Mueang Chan",
+            "region": "30",
+            "country": "TH",
+            "latitude": "15.15951",
+            "longitude": "104.03615"
+        },
+        {
+            "city": "Ban Mai",
+            "region": "68",
+            "country": "TH",
+            "latitude": "7.20411",
+            "longitude": "100.54508"
+        },
+        {
+            "city": "Lam Sonthi",
+            "region": "34",
+            "country": "TH",
+            "latitude": "15.30154",
+            "longitude": "101.36365"
+        },
+        {
+            "city": "Ban Huai Thalaeng",
+            "region": "27",
+            "country": "TH",
+            "latitude": "14.98333",
+            "longitude": "102.65"
+        },
+        {
+            "city": "Huai Rat",
+            "region": "28",
+            "country": "TH",
+            "latitude": "14.96039",
+            "longitude": "103.18911"
+        },
+        {
+            "city": "Ban Haet",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.19648",
+            "longitude": "102.75959"
+        },
+        {
+            "city": "Fao Rai",
+            "region": "17",
+            "country": "TH",
+            "latitude": "18.01792",
+            "longitude": "103.30388"
+        },
+        {
+            "city": "Ban Dan",
+            "region": "28",
+            "country": "TH",
+            "latitude": "15.10839",
+            "longitude": "103.17551"
+        },
+        {
+            "city": "Charoen Sin",
+            "region": "20",
+            "country": "TH",
+            "latitude": "17.57925",
+            "longitude": "103.54033"
+        },
+        {
+            "city": "Ban Khlong Bang Sao Thong",
+            "region": "42",
+            "country": "TH",
+            "latitude": "13.64172",
+            "longitude": "100.83272"
+        },
+        {
+            "city": "Waeng",
+            "region": "31",
+            "country": "TH",
+            "latitude": "5.928",
+            "longitude": "101.88382"
+        },
+        {
+            "city": "Thepha",
+            "region": "68",
+            "country": "TH",
+            "latitude": "6.82936",
+            "longitude": "100.96431"
+        },
+        {
+            "city": "Tha Wang Pha",
+            "region": "04",
+            "country": "TH",
+            "latitude": "19.12189",
+            "longitude": "100.81106"
+        },
+        {
+            "city": "Tak Fa",
+            "region": "16",
+            "country": "TH",
+            "latitude": "15.34917",
+            "longitude": "100.49522"
+        },
+        {
+            "city": "Si Bun Rueang",
+            "region": "79",
+            "country": "TH",
+            "latitude": "16.96705",
+            "longitude": "102.27607"
+        },
+        {
+            "city": "Pua",
+            "region": "04",
+            "country": "TH",
+            "latitude": "19.17503",
+            "longitude": "100.91622"
+        },
+        {
+            "city": "Prakhon Chai",
+            "region": "28",
+            "country": "TH",
+            "latitude": "14.61073",
+            "longitude": "103.07923"
+        },
+        {
+            "city": "Na Klang",
+            "region": "79",
+            "country": "TH",
+            "latitude": "17.3072",
+            "longitude": "102.18886"
+        },
+        {
+            "city": "Lahan Sai",
+            "region": "28",
+            "country": "TH",
+            "latitude": "14.41142",
+            "longitude": "102.85936"
+        },
+        {
+            "city": "Chiang Klang",
+            "region": "04",
+            "country": "TH",
+            "latitude": "19.29378",
+            "longitude": "100.8617"
+        },
+        {
+            "city": "Bacho",
+            "region": "31",
+            "country": "TH",
+            "latitude": "6.51678",
+            "longitude": "101.651"
+        },
+        {
+            "city": "Yi-ngo",
+            "region": "31",
+            "country": "TH",
+            "latitude": "6.40296",
+            "longitude": "101.70626"
+        },
+        {
+            "city": "Yasothon",
+            "region": "72",
+            "country": "TH",
+            "latitude": "15.79408",
+            "longitude": "104.1451"
+        },
+        {
+            "city": "Yaring",
+            "region": "69",
+            "country": "TH",
+            "latitude": "6.86617",
+            "longitude": "101.36894"
+        },
+        {
+            "city": "Yan Nawa",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.69634",
+            "longitude": "100.54212"
+        },
+        {
+            "city": "Yang Talat",
+            "region": "23",
+            "country": "TH",
+            "latitude": "16.39982",
+            "longitude": "103.36785"
+        },
+        {
+            "city": "Yang Chum Noi",
+            "region": "30",
+            "country": "TH",
+            "latitude": "15.26453",
+            "longitude": "104.39769"
+        },
+        {
+            "city": "Yarang",
+            "region": "69",
+            "country": "TH",
+            "latitude": "6.75986",
+            "longitude": "101.29339"
+        },
+        {
+            "city": "Yala",
+            "region": "70",
+            "country": "TH",
+            "latitude": "6.53995",
+            "longitude": "101.28128"
+        },
+        {
+            "city": "Yaha",
+            "region": "70",
+            "country": "TH",
+            "latitude": "6.4797",
+            "longitude": "101.132"
+        },
+        {
+            "city": "Wiset Chaichan",
+            "region": "35",
+            "country": "TH",
+            "latitude": "14.5945",
+            "longitude": "100.33825"
+        },
+        {
+            "city": "Wihan Daeng",
+            "region": "37",
+            "country": "TH",
+            "latitude": "14.34586",
+            "longitude": "100.98942"
+        },
+        {
+            "city": "Wichian Buri",
+            "region": "14",
+            "country": "TH",
+            "latitude": "15.65778",
+            "longitude": "101.10603"
+        },
+        {
+            "city": "Wiang Sa",
+            "region": "04",
+            "country": "TH",
+            "latitude": "18.59856",
+            "longitude": "100.74103"
+        },
+        {
+            "city": "Watthana Nakhon",
+            "region": "80",
+            "country": "TH",
+            "latitude": "13.74462",
+            "longitude": "102.31863"
+        },
+        {
+            "city": "Wat Sing",
+            "region": "32",
+            "country": "TH",
+            "latitude": "15.25987",
+            "longitude": "100.0404"
+        },
+        {
+            "city": "Wat Bot",
+            "region": "12",
+            "country": "TH",
+            "latitude": "16.98114",
+            "longitude": "100.33194"
+        },
+        {
+            "city": "Warin Chamrap",
+            "region": "75",
+            "country": "TH",
+            "latitude": "15.19319",
+            "longitude": "104.8628"
+        },
+        {
+            "city": "Warichaphum",
+            "region": "20",
+            "country": "TH",
+            "latitude": "17.29409",
+            "longitude": "103.63816"
+        },
+        {
+            "city": "Wapi Pathum",
+            "region": "24",
+            "country": "TH",
+            "latitude": "15.84523",
+            "longitude": "103.37678"
+        },
+        {
+            "city": "Wan Yai",
+            "region": "78",
+            "country": "TH",
+            "latitude": "16.72229",
+            "longitude": "104.74136"
+        },
+        {
+            "city": "Wanon Niwat",
+            "region": "20",
+            "country": "TH",
+            "latitude": "17.63391",
+            "longitude": "103.75241"
+        },
+        {
+            "city": "Wang Thong",
+            "region": "12",
+            "country": "TH",
+            "latitude": "16.82458",
+            "longitude": "100.42936"
+        },
+        {
+            "city": "Wang Saphung",
+            "region": "18",
+            "country": "TH",
+            "latitude": "17.30097",
+            "longitude": "101.7685"
+        },
+        {
+            "city": "Wang Sam Mo",
+            "region": "76",
+            "country": "TH",
+            "latitude": "16.95294",
+            "longitude": "103.4365"
+        },
+        {
+            "city": "Wang Noi",
+            "region": "36",
+            "country": "TH",
+            "latitude": "14.22689",
+            "longitude": "100.7155"
+        },
+        {
+            "city": "Wang Nam Yen",
+            "region": "80",
+            "country": "TH",
+            "latitude": "13.50325",
+            "longitude": "102.18115"
+        },
+        {
+            "city": "Wang Hin",
+            "region": "30",
+            "country": "TH",
+            "latitude": "14.94783",
+            "longitude": "104.23097"
+        },
+        {
+            "city": "Wang Chan",
+            "region": "47",
+            "country": "TH",
+            "latitude": "12.93646",
+            "longitude": "101.52303"
+        },
+        {
+            "city": "Wang Sai Phun",
+            "region": "13",
+            "country": "TH",
+            "latitude": "16.3885",
+            "longitude": "100.53801"
+        },
+        {
+            "city": "Waeng Yai",
+            "region": "22",
+            "country": "TH",
+            "latitude": "15.95547",
+            "longitude": "102.5469"
+        },
+        {
+            "city": "Waeng Noi",
+            "region": "22",
+            "country": "TH",
+            "latitude": "15.8035",
+            "longitude": "102.41614"
+        },
+        {
+            "city": "Uttaradit",
+            "region": "10",
+            "country": "TH",
+            "latitude": "17.62557",
+            "longitude": "100.09421"
+        },
+        {
+            "city": "Uthumphon Phisai",
+            "region": "30",
+            "country": "TH",
+            "latitude": "15.11161",
+            "longitude": "104.14011"
+        },
+        {
+            "city": "Uthai Thani",
+            "region": "15",
+            "country": "TH",
+            "latitude": "15.37939",
+            "longitude": "100.0245"
+        },
+        {
+            "city": "Uthai",
+            "region": "36",
+            "country": "TH",
+            "latitude": "14.36278",
+            "longitude": "100.67203"
+        },
+        {
+            "city": "Udon Thani",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.41567",
+            "longitude": "102.78589"
+        },
+        {
+            "city": "Ubon Ratchathani",
+            "region": "75",
+            "country": "TH",
+            "latitude": "15.22483",
+            "longitude": "104.85289"
+        },
+        {
+            "city": "Khuean Ubolratana",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.7527",
+            "longitude": "102.63244"
+        },
+        {
+            "city": "Tron",
+            "region": "10",
+            "country": "TH",
+            "latitude": "17.48181",
+            "longitude": "100.11281"
+        },
+        {
+            "city": "Trat",
+            "region": "49",
+            "country": "TH",
+            "latitude": "12.24364",
+            "longitude": "102.51514"
+        },
+        {
+            "city": "Trakan Phut Phon",
+            "region": "75",
+            "country": "TH",
+            "latitude": "15.61183",
+            "longitude": "105.02147"
+        },
+        {
+            "city": "Thung Fon",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.47167",
+            "longitude": "103.26033"
+        },
+        {
+            "city": "Thon Buri",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.725",
+            "longitude": "100.48512"
+        },
+        {
+            "city": "Thoeng",
+            "region": "03",
+            "country": "TH",
+            "latitude": "19.68508",
+            "longitude": "100.19456"
+        },
+        {
+            "city": "Thep Sathit",
+            "region": "26",
+            "country": "TH",
+            "latitude": "15.39247",
+            "longitude": "101.45061"
+        },
+        {
+            "city": "Tha Yang",
+            "region": "56",
+            "country": "TH",
+            "latitude": "12.95772",
+            "longitude": "99.90555"
+        },
+        {
+            "city": "Tha Wung",
+            "region": "34",
+            "country": "TH",
+            "latitude": "14.811",
+            "longitude": "100.50333"
+        },
+        {
+            "city": "Thawat Buri",
+            "region": "25",
+            "country": "TH",
+            "latitude": "16.0385",
+            "longitude": "103.74647"
+        },
+        {
+            "city": "Tha Uthen",
+            "region": "73",
+            "country": "TH",
+            "latitude": "17.57605",
+            "longitude": "104.59906"
+        },
+        {
+            "city": "Tha Tum",
+            "region": "29",
+            "country": "TH",
+            "latitude": "15.3195",
+            "longitude": "103.67542"
+        },
+        {
+            "city": "That Phanom",
+            "region": "73",
+            "country": "TH",
+            "latitude": "16.93636",
+            "longitude": "104.71039"
+        },
+        {
+            "city": "Tha Tako",
+            "region": "16",
+            "country": "TH",
+            "latitude": "15.64218",
+            "longitude": "100.47839"
+        },
+        {
+            "city": "Tha Rua",
+            "region": "36",
+            "country": "TH",
+            "latitude": "14.56739",
+            "longitude": "100.72598"
+        },
+        {
+            "city": "Tha Pla",
+            "region": "10",
+            "country": "TH",
+            "latitude": "17.79281",
+            "longitude": "100.37744"
+        },
+        {
+            "city": "Thap Khlo",
+            "region": "13",
+            "country": "TH",
+            "latitude": "16.16003",
+            "longitude": "100.59656"
+        },
+        {
+            "city": "Thanyaburi",
+            "region": "39",
+            "country": "TH",
+            "latitude": "14.02114",
+            "longitude": "100.73433"
+        },
+        {
+            "city": "Than To",
+            "region": "70",
+            "country": "TH",
+            "latitude": "6.16739",
+            "longitude": "101.18008"
+        },
+        {
+            "city": "Tha Mai",
+            "region": "48",
+            "country": "TH",
+            "latitude": "12.62137",
+            "longitude": "102.0048"
+        },
+        {
+            "city": "Tha Luang",
+            "region": "34",
+            "country": "TH",
+            "latitude": "15.07124",
+            "longitude": "101.09801"
+        },
+        {
+            "city": "Tha Li",
+            "region": "18",
+            "country": "TH",
+            "latitude": "17.62461",
+            "longitude": "101.42106"
+        },
+        {
+            "city": "Tha Khantho",
+            "region": "23",
+            "country": "TH",
+            "latitude": "16.93953",
+            "longitude": "103.24586"
+        },
+        {
+            "city": "Tha Chang",
+            "region": "33",
+            "country": "TH",
+            "latitude": "14.76142",
+            "longitude": "100.38989"
+        },
+        {
+            "city": "Tha Bo",
+            "region": "17",
+            "country": "TH",
+            "latitude": "17.85003",
+            "longitude": "102.58139"
+        },
+        {
+            "city": "Ta Phraya",
+            "region": "80",
+            "country": "TH",
+            "latitude": "14.00308",
+            "longitude": "102.80541"
+        },
+        {
+            "city": "Taphan Hin",
+            "region": "13",
+            "country": "TH",
+            "latitude": "16.22094",
+            "longitude": "100.41978"
+        },
+        {
+            "city": "Tao Ngoi",
+            "region": "20",
+            "country": "TH",
+            "latitude": "16.99689",
+            "longitude": "104.16672"
+        },
+        {
+            "city": "Tan Sum",
+            "region": "75",
+            "country": "TH",
+            "latitude": "15.3157",
+            "longitude": "105.15464"
+        },
+        {
+            "city": "Tamot",
+            "region": "66",
+            "country": "TH",
+            "latitude": "7.33922",
+            "longitude": "100.11167"
+        },
+        {
+            "city": "Taling Chan",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.77698",
+            "longitude": "100.4567"
+        },
+        {
+            "city": "Takhli",
+            "region": "16",
+            "country": "TH",
+            "latitude": "15.26336",
+            "longitude": "100.34378"
+        },
+        {
+            "city": "Tak Bai",
+            "region": "31",
+            "country": "TH",
+            "latitude": "6.25947",
+            "longitude": "102.05461"
+        },
+        {
+            "city": "Suwannaphum",
+            "region": "25",
+            "country": "TH",
+            "latitude": "15.60348",
+            "longitude": "103.80207"
+        },
+        {
+            "city": "Suwannakhuha",
+            "region": "79",
+            "country": "TH",
+            "latitude": "17.56292",
+            "longitude": "102.27989"
+        },
+        {
+            "city": "Surin",
+            "region": "29",
+            "country": "TH",
+            "latitude": "14.88181",
+            "longitude": "103.49364"
+        },
+        {
+            "city": "Suphan Buri",
+            "region": "51",
+            "country": "TH",
+            "latitude": "14.47418",
+            "longitude": "100.12218"
+        },
+        {
+            "city": "Sung Noen",
+            "region": "27",
+            "country": "TH",
+            "latitude": "14.8992",
+            "longitude": "101.82075"
+        },
+        {
+            "city": "Sung Men",
+            "region": "07",
+            "country": "TH",
+            "latitude": "18.05161",
+            "longitude": "100.11161"
+        },
+        {
+            "city": "Ban Su-ngai Pa Di",
+            "region": "31",
+            "country": "TH",
+            "latitude": "6.07239",
+            "longitude": "101.87172"
+        },
+        {
+            "city": "Su-ngai Kolok",
+            "region": "31",
+            "country": "TH",
+            "latitude": "6.02977",
+            "longitude": "101.96586"
+        },
+        {
+            "city": "Sukhirin",
+            "region": "31",
+            "country": "TH",
+            "latitude": "5.93889",
+            "longitude": "101.77077"
+        },
+        {
+            "city": "So Phisai",
+            "region": "17",
+            "country": "TH",
+            "latitude": "18.0772",
+            "longitude": "103.4432"
+        },
+        {
+            "city": "Song Phi Nong",
+            "region": "51",
+            "country": "TH",
+            "latitude": "14.22408",
+            "longitude": "100.02094"
+        },
+        {
+            "city": "Songkhla",
+            "region": "68",
+            "country": "TH",
+            "latitude": "7.19882",
+            "longitude": "100.5951"
+        },
+        {
+            "city": "Song",
+            "region": "07",
+            "country": "TH",
+            "latitude": "18.47006",
+            "longitude": "100.18294"
+        },
+        {
+            "city": "Somdet",
+            "region": "23",
+            "country": "TH",
+            "latitude": "16.70462",
+            "longitude": "103.74934"
+        },
+        {
+            "city": "Soeng Sang",
+            "region": "27",
+            "country": "TH",
+            "latitude": "14.42642",
+            "longitude": "102.46058"
+        },
+        {
+            "city": "Si Thep",
+            "region": "14",
+            "country": "TH",
+            "latitude": "15.45214",
+            "longitude": "101.06667"
+        },
+        {
+            "city": "Si That",
+            "region": "76",
+            "country": "TH",
+            "latitude": "16.97361",
+            "longitude": "103.21644"
+        },
+        {
+            "city": "Si Songkhram",
+            "region": "73",
+            "country": "TH",
+            "latitude": "17.62745",
+            "longitude": "104.2507"
+        },
+        {
+            "city": "Si Sakhon",
+            "region": "31",
+            "country": "TH",
+            "latitude": "6.23137",
+            "longitude": "101.50048"
+        },
+        {
+            "city": "Si Sa Ket",
+            "region": "30",
+            "country": "TH",
+            "latitude": "15.11481",
+            "longitude": "104.32938"
+        },
+        {
+            "city": "Si Rattana",
+            "region": "30",
+            "country": "TH",
+            "latitude": "14.79328",
+            "longitude": "104.46922"
+        },
+        {
+            "city": "Si Racha",
+            "region": "46",
+            "country": "TH",
+            "latitude": "13.17372",
+            "longitude": "100.93111"
+        },
+        {
+            "city": "Si Prachan",
+            "region": "51",
+            "country": "TH",
+            "latitude": "14.61992",
+            "longitude": "100.14483"
+        },
+        {
+            "city": "Sing Buri",
+            "region": "33",
+            "country": "TH",
+            "latitude": "14.88786",
+            "longitude": "100.40464"
+        },
+        {
+            "city": "Si Mueang Mai",
+            "region": "75",
+            "country": "TH",
+            "latitude": "15.49315",
+            "longitude": "105.27624"
+        },
+        {
+            "city": "Si Maha Phot",
+            "region": "74",
+            "country": "TH",
+            "latitude": "13.96597",
+            "longitude": "101.51303"
+        },
+        {
+            "city": "Si Khoraphum",
+            "region": "29",
+            "country": "TH",
+            "latitude": "14.94418",
+            "longitude": "103.79704"
+        },
+        {
+            "city": "Sikhio",
+            "region": "27",
+            "country": "TH",
+            "latitude": "14.89225",
+            "longitude": "101.72314"
+        },
+        {
+            "city": "Si Chomphu",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.79878",
+            "longitude": "102.18466"
+        },
+        {
+            "city": "Si Chiang Mai",
+            "region": "17",
+            "country": "TH",
+            "latitude": "17.95639",
+            "longitude": "102.58667"
+        },
+        {
+            "city": "Si Bun Ruang",
+            "region": "00",
+            "country": "TH",
+            "latitude": "16.96667",
+            "longitude": "102.28333"
+        },
+        {
+            "city": "Senangkhanikhom",
+            "region": "77",
+            "country": "TH",
+            "latitude": "16.04222",
+            "longitude": "104.67343"
+        },
+        {
+            "city": "Sena",
+            "region": "36",
+            "country": "TH",
+            "latitude": "14.327",
+            "longitude": "100.40433"
+        },
+        {
+            "city": "Selaphum",
+            "region": "25",
+            "country": "TH",
+            "latitude": "16.02992",
+            "longitude": "103.93826"
+        },
+        {
+            "city": "Seka",
+            "region": "17",
+            "country": "TH",
+            "latitude": "17.92851",
+            "longitude": "103.95519"
+        },
+        {
+            "city": "Sawang Daen Din",
+            "region": "20",
+            "country": "TH",
+            "latitude": "17.47531",
+            "longitude": "103.45753"
+        },
+        {
+            "city": "Sawaengha",
+            "region": "35",
+            "country": "TH",
+            "latitude": "14.75186",
+            "longitude": "100.32481"
+        },
+        {
+            "city": "Satun",
+            "region": "67",
+            "country": "TH",
+            "latitude": "6.62314",
+            "longitude": "100.06676"
+        },
+        {
+            "city": "Satuek",
+            "region": "28",
+            "country": "TH",
+            "latitude": "15.29703",
+            "longitude": "103.29192"
+        },
+        {
+            "city": "Sattahip",
+            "region": "46",
+            "country": "TH",
+            "latitude": "12.66644",
+            "longitude": "100.90073"
+        },
+        {
+            "city": "Sathing Phra",
+            "region": "68",
+            "country": "TH",
+            "latitude": "7.47303",
+            "longitude": "100.43908"
+        },
+        {
+            "city": "Saraburi",
+            "region": "37",
+            "country": "TH",
+            "latitude": "14.53333",
+            "longitude": "100.91667"
+        },
+        {
+            "city": "Sao Hai",
+            "region": "37",
+            "country": "TH",
+            "latitude": "14.55083",
+            "longitude": "100.84436"
+        },
+        {
+            "city": "Sapphaya",
+            "region": "32",
+            "country": "TH",
+            "latitude": "15.14616",
+            "longitude": "100.24215"
+        },
+        {
+            "city": "Sanom",
+            "region": "29",
+            "country": "TH",
+            "latitude": "15.2036",
+            "longitude": "103.76054"
+        },
+        {
+            "city": "Sankhaburi",
+            "region": "32",
+            "country": "TH",
+            "latitude": "15.04733",
+            "longitude": "100.16178"
+        },
+        {
+            "city": "Sangkhom",
+            "region": "17",
+            "country": "TH",
+            "latitude": "18.06389",
+            "longitude": "102.27364"
+        },
+        {
+            "city": "Sang Khom",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.82649",
+            "longitude": "103.09262"
+        },
+        {
+            "city": "Sangkha",
+            "region": "29",
+            "country": "TH",
+            "latitude": "14.6362",
+            "longitude": "103.85278"
+        },
+        {
+            "city": "Sanam Chai Khet",
+            "region": "44",
+            "country": "TH",
+            "latitude": "13.65864",
+            "longitude": "101.43906"
+        },
+        {
+            "city": "Samut Songkhram",
+            "region": "54",
+            "country": "TH",
+            "latitude": "13.41456",
+            "longitude": "100.00264"
+        },
+        {
+            "city": "Samut Sakhon",
+            "region": "55",
+            "country": "TH",
+            "latitude": "13.54753",
+            "longitude": "100.27362"
+        },
+        {
+            "city": "Samut Prakan",
+            "region": "42",
+            "country": "TH",
+            "latitude": "13.59934",
+            "longitude": "100.59675"
+        },
+        {
+            "city": "Samrong Thap",
+            "region": "29",
+            "country": "TH",
+            "latitude": "15.02258",
+            "longitude": "103.93631"
+        },
+        {
+            "city": "Sam Phran",
+            "region": "53",
+            "country": "TH",
+            "latitude": "13.72698",
+            "longitude": "100.21526"
+        },
+        {
+            "city": "Samphanthawong",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.73147",
+            "longitude": "100.51414"
+        },
+        {
+            "city": "Sam Ngam",
+            "region": "13",
+            "country": "TH",
+            "latitude": "16.50653",
+            "longitude": "100.20497"
+        },
+        {
+            "city": "Sam Ko",
+            "region": "35",
+            "country": "TH",
+            "latitude": "14.60735",
+            "longitude": "100.2186"
+        },
+        {
+            "city": "Sam Khok",
+            "region": "39",
+            "country": "TH",
+            "latitude": "14.0655",
+            "longitude": "100.52264"
+        },
+        {
+            "city": "Sam Chuk",
+            "region": "51",
+            "country": "TH",
+            "latitude": "14.75763",
+            "longitude": "100.08992"
+        },
+        {
+            "city": "Sakon Nakhon",
+            "region": "20",
+            "country": "TH",
+            "latitude": "17.16116",
+            "longitude": "104.14725"
+        },
+        {
+            "city": "Sa Kaeo",
+            "region": "80",
+            "country": "TH",
+            "latitude": "13.81411",
+            "longitude": "102.07222"
+        },
+        {
+            "city": "Sai Noi",
+            "region": "38",
+            "country": "TH",
+            "latitude": "13.97915",
+            "longitude": "100.31209"
+        },
+        {
+            "city": "Sai Mun",
+            "region": "72",
+            "country": "TH",
+            "latitude": "15.94495",
+            "longitude": "104.20812"
+        },
+        {
+            "city": "Sai Buri",
+            "region": "69",
+            "country": "TH",
+            "latitude": "6.70131",
+            "longitude": "101.61675"
+        },
+        {
+            "city": "Sahatsakhan",
+            "region": "23",
+            "country": "TH",
+            "latitude": "16.71236",
+            "longitude": "103.5202"
+        },
+        {
+            "city": "Sadao",
+            "region": "68",
+            "country": "TH",
+            "latitude": "6.63883",
+            "longitude": "100.42342"
+        },
+        {
+            "city": "Saba Yoi",
+            "region": "68",
+            "country": "TH",
+            "latitude": "6.6175",
+            "longitude": "100.95189"
+        },
+        {
+            "city": "Rueso",
+            "region": "31",
+            "country": "TH",
+            "latitude": "6.39364",
+            "longitude": "101.51847"
+        },
+        {
+            "city": "Rong Kwang",
+            "region": "07",
+            "country": "TH",
+            "latitude": "18.33903",
+            "longitude": "100.31736"
+        },
+        {
+            "city": "Rong Kham",
+            "region": "23",
+            "country": "TH",
+            "latitude": "16.26943",
+            "longitude": "103.74689"
+        },
+        {
+            "city": "Roi Et",
+            "region": "25",
+            "country": "TH",
+            "latitude": "16.0567",
+            "longitude": "103.65309"
+        },
+        {
+            "city": "Renu Nakhon",
+            "region": "73",
+            "country": "TH",
+            "latitude": "17.05157",
+            "longitude": "104.67709"
+        },
+        {
+            "city": "Rayong",
+            "region": "47",
+            "country": "TH",
+            "latitude": "12.68095",
+            "longitude": "101.25798"
+        },
+        {
+            "city": "Rattaphum",
+            "region": "68",
+            "country": "TH",
+            "latitude": "7.13478",
+            "longitude": "100.25647"
+        },
+        {
+            "city": "Rattanaburi",
+            "region": "29",
+            "country": "TH",
+            "latitude": "15.31788",
+            "longitude": "103.84859"
+        },
+        {
+            "city": "Rat Burana",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.68219",
+            "longitude": "100.50603"
+        },
+        {
+            "city": "Rasi Salai",
+            "region": "30",
+            "country": "TH",
+            "latitude": "15.34466",
+            "longitude": "104.15476"
+        },
+        {
+            "city": "Ranot",
+            "region": "68",
+            "country": "TH",
+            "latitude": "7.77768",
+            "longitude": "100.32134"
+        },
+        {
+            "city": "Ra-ngae",
+            "region": "31",
+            "country": "TH",
+            "latitude": "6.29678",
+            "longitude": "101.72844"
+        },
+        {
+            "city": "Raman",
+            "region": "70",
+            "country": "TH",
+            "latitude": "6.47862",
+            "longitude": "101.42414"
+        },
+        {
+            "city": "Pueai Noi",
+            "region": "22",
+            "country": "TH",
+            "latitude": "15.86978",
+            "longitude": "102.90767"
+        },
+        {
+            "city": "Prathai",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.5332",
+            "longitude": "102.72283"
+        },
+        {
+            "city": "Prasat",
+            "region": "29",
+            "country": "TH",
+            "latitude": "14.64039",
+            "longitude": "103.40447"
+        },
+        {
+            "city": "Prang Ku",
+            "region": "30",
+            "country": "TH",
+            "latitude": "14.85672",
+            "longitude": "104.03981"
+        },
+        {
+            "city": "Prakhon Chai",
+            "region": "28",
+            "country": "TH",
+            "latitude": "14.60592",
+            "longitude": "103.12081"
+        },
+        {
+            "city": "Pakham",
+            "region": "28",
+            "country": "TH",
+            "latitude": "14.43817",
+            "longitude": "102.72558"
+        },
+        {
+            "city": "Prachin Buri",
+            "region": "74",
+            "country": "TH",
+            "latitude": "14.04992",
+            "longitude": "101.36864"
+        },
+        {
+            "city": "Prachantakham",
+            "region": "74",
+            "country": "TH",
+            "latitude": "14.06442",
+            "longitude": "101.51503"
+        },
+        {
+            "city": "Pong Nam Ron",
+            "region": "48",
+            "country": "TH",
+            "latitude": "12.90575",
+            "longitude": "102.26225"
+        },
+        {
+            "city": "Pong",
+            "region": "41",
+            "country": "TH",
+            "latitude": "19.14931",
+            "longitude": "100.27522"
+        },
+        {
+            "city": "Pom Prap Sattru Phai",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.75822",
+            "longitude": "100.51325"
+        },
+        {
+            "city": "Pluak Daeng",
+            "region": "47",
+            "country": "TH",
+            "latitude": "12.97122",
+            "longitude": "101.21463"
+        },
+        {
+            "city": "Pla Pak",
+            "region": "73",
+            "country": "TH",
+            "latitude": "17.18064",
+            "longitude": "104.52606"
+        },
+        {
+            "city": "Plaeng Yao",
+            "region": "44",
+            "country": "TH",
+            "latitude": "13.58467",
+            "longitude": "101.28403"
+        },
+        {
+            "city": "Phu Wiang",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.65259",
+            "longitude": "102.37555"
+        },
+        {
+            "city": "Phutthaisong",
+            "region": "28",
+            "country": "TH",
+            "latitude": "15.54783",
+            "longitude": "103.02467"
+        },
+        {
+            "city": "Phu Ruea",
+            "region": "18",
+            "country": "TH",
+            "latitude": "17.4538",
+            "longitude": "101.36231"
+        },
+        {
+            "city": "Phupha Man",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.64888",
+            "longitude": "101.90097"
+        },
+        {
+            "city": "Phu Luang",
+            "region": "18",
+            "country": "TH",
+            "latitude": "17.1392",
+            "longitude": "101.66392"
+        },
+        {
+            "city": "Phu Kradueng",
+            "region": "18",
+            "country": "TH",
+            "latitude": "16.88425",
+            "longitude": "101.88467"
+        },
+        {
+            "city": "Phu Khiao",
+            "region": "26",
+            "country": "TH",
+            "latitude": "16.3765",
+            "longitude": "102.12853"
+        },
+        {
+            "city": "Phrom Phiram",
+            "region": "12",
+            "country": "TH",
+            "latitude": "17.03306",
+            "longitude": "100.20194"
+        },
+        {
+            "city": "Phrom Buri",
+            "region": "33",
+            "country": "TH",
+            "latitude": "14.79086",
+            "longitude": "100.45325"
+        },
+        {
+            "city": "Phra Yuen",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.3293",
+            "longitude": "102.65182"
+        },
+        {
+            "city": "Phra Pradaeng",
+            "region": "42",
+            "country": "TH",
+            "latitude": "13.65854",
+            "longitude": "100.53362"
+        },
+        {
+            "city": "Phra Phutthabat",
+            "region": "37",
+            "country": "TH",
+            "latitude": "14.72526",
+            "longitude": "100.79536"
+        },
+        {
+            "city": "Phra Nakhon Si Ayutthaya",
+            "region": "36",
+            "country": "TH",
+            "latitude": "14.35167",
+            "longitude": "100.57739"
+        },
+        {
+            "city": "Phra Khanong",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.70185",
+            "longitude": "100.60157"
+        },
+        {
+            "city": "Phrai Bueng",
+            "region": "30",
+            "country": "TH",
+            "latitude": "14.74833",
+            "longitude": "104.36261"
+        },
+        {
+            "city": "Phrae",
+            "region": "07",
+            "country": "TH",
+            "latitude": "18.14589",
+            "longitude": "100.14103"
+        },
+        {
+            "city": "Pho Thong",
+            "region": "35",
+            "country": "TH",
+            "latitude": "14.66731",
+            "longitude": "100.40878"
+        },
+        {
+            "city": "Pho Thale",
+            "region": "13",
+            "country": "TH",
+            "latitude": "16.0927",
+            "longitude": "100.26089"
+        },
+        {
+            "city": "Pho Sai",
+            "region": "75",
+            "country": "TH",
+            "latitude": "15.82586",
+            "longitude": "105.26064"
+        },
+        {
+            "city": "Waeng",
+            "region": "25",
+            "country": "TH",
+            "latitude": "16.30006",
+            "longitude": "103.97786"
+        },
+        {
+            "city": "Phon Sai",
+            "region": "25",
+            "country": "TH",
+            "latitude": "15.48797",
+            "longitude": "103.99642"
+        },
+        {
+            "city": "Phon Phisai",
+            "region": "17",
+            "country": "TH",
+            "latitude": "18.02106",
+            "longitude": "103.07664"
+        },
+        {
+            "city": "Phon Charoen",
+            "region": "17",
+            "country": "TH",
+            "latitude": "18.03333",
+            "longitude": "103.16667"
+        },
+        {
+            "city": "Phon",
+            "region": "22",
+            "country": "TH",
+            "latitude": "15.816",
+            "longitude": "102.59981"
+        },
+        {
+            "city": "Pho Chai",
+            "region": "25",
+            "country": "TH",
+            "latitude": "16.32827",
+            "longitude": "103.77033"
+        },
+        {
+            "city": "Phitsanulok",
+            "region": "12",
+            "country": "TH",
+            "latitude": "16.82481",
+            "longitude": "100.25858"
+        },
+        {
+            "city": "Phimai",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.22324",
+            "longitude": "102.49472"
+        },
+        {
+            "city": "Phichit",
+            "region": "13",
+            "country": "TH",
+            "latitude": "16.44184",
+            "longitude": "100.34879"
+        },
+        {
+            "city": "Phichai",
+            "region": "10",
+            "country": "TH",
+            "latitude": "17.28764",
+            "longitude": "100.0867"
+        },
+        {
+            "city": "Phibun Mangsahan",
+            "region": "75",
+            "country": "TH",
+            "latitude": "15.24467",
+            "longitude": "105.22908"
+        },
+        {
+            "city": "Phetchabun",
+            "region": "14",
+            "country": "TH",
+            "latitude": "16.41904",
+            "longitude": "101.16056"
+        },
+        {
+            "city": "Phen",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.69614",
+            "longitude": "102.90689"
+        },
+        {
+            "city": "Phayuha Khiri",
+            "region": "16",
+            "country": "TH",
+            "latitude": "15.45525",
+            "longitude": "100.13533"
+        },
+        {
+            "city": "Phayakkhaphum Phisai",
+            "region": "24",
+            "country": "TH",
+            "latitude": "15.51631",
+            "longitude": "103.19367"
+        },
+        {
+            "city": "Phatthalung",
+            "region": "66",
+            "country": "TH",
+            "latitude": "7.61786",
+            "longitude": "100.07792"
+        },
+        {
+            "city": "Phasi Charoen",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.71466",
+            "longitude": "100.43691"
+        },
+        {
+            "city": "Phan Thong",
+            "region": "46",
+            "country": "TH",
+            "latitude": "13.46804",
+            "longitude": "101.09532"
+        },
+        {
+            "city": "Phanom Sarakham",
+            "region": "44",
+            "country": "TH",
+            "latitude": "13.74787",
+            "longitude": "101.3553"
+        },
+        {
+            "city": "Phanom Phrai",
+            "region": "25",
+            "country": "TH",
+            "latitude": "15.67783",
+            "longitude": "104.11025"
+        },
+        {
+            "city": "Phanna Nikhom",
+            "region": "20",
+            "country": "TH",
+            "latitude": "17.35245",
+            "longitude": "103.85032"
+        },
+        {
+            "city": "Phang Khon",
+            "region": "20",
+            "country": "TH",
+            "latitude": "17.3905",
+            "longitude": "103.71692"
+        },
+        {
+            "city": "Phanat Nikhom",
+            "region": "46",
+            "country": "TH",
+            "latitude": "13.44581",
+            "longitude": "101.18445"
+        },
+        {
+            "city": "Phana",
+            "region": "77",
+            "country": "TH",
+            "latitude": "15.68529",
+            "longitude": "104.84334"
+        },
+        {
+            "city": "Phak Hai",
+            "region": "36",
+            "country": "TH",
+            "latitude": "14.45736",
+            "longitude": "100.36989"
+        },
+        {
+            "city": "Phai Sali",
+            "region": "16",
+            "country": "TH",
+            "latitude": "15.59764",
+            "longitude": "100.65853"
+        },
+        {
+            "city": "Phachi",
+            "region": "36",
+            "country": "TH",
+            "latitude": "14.44914",
+            "longitude": "100.72833"
+        },
+        {
+            "city": "Pa Bon",
+            "region": "66",
+            "country": "TH",
+            "latitude": "7.26942",
+            "longitude": "100.17036"
+        },
+        {
+            "city": "Phaya Mengrai",
+            "region": "03",
+            "country": "TH",
+            "latitude": "19.84922",
+            "longitude": "100.15358"
+        },
+        {
+            "city": "Pattani",
+            "region": "69",
+            "country": "TH",
+            "latitude": "6.86814",
+            "longitude": "101.25009"
+        },
+        {
+            "city": "Pa Tio",
+            "region": "72",
+            "country": "TH",
+            "latitude": "15.83281",
+            "longitude": "104.38673"
+        },
+        {
+            "city": "Pathum Thani",
+            "region": "39",
+            "country": "TH",
+            "latitude": "14.01346",
+            "longitude": "100.53049"
+        },
+        {
+            "city": "Pathum Rat",
+            "region": "25",
+            "country": "TH",
+            "latitude": "15.6345",
+            "longitude": "103.34325"
+        },
+        {
+            "city": "Panare",
+            "region": "69",
+            "country": "TH",
+            "latitude": "6.86192",
+            "longitude": "101.49103"
+        },
+        {
+            "city": "Pa Mok",
+            "region": "35",
+            "country": "TH",
+            "latitude": "14.48989",
+            "longitude": "100.44847"
+        },
+        {
+            "city": "Pak Thong Chai",
+            "region": "27",
+            "country": "TH",
+            "latitude": "14.7226",
+            "longitude": "102.02512"
+        },
+        {
+            "city": "Pak Phli",
+            "region": "43",
+            "country": "TH",
+            "latitude": "14.16308",
+            "longitude": "101.26886"
+        },
+        {
+            "city": "Pak Phayun",
+            "region": "66",
+            "country": "TH",
+            "latitude": "7.3489",
+            "longitude": "100.32012"
+        },
+        {
+            "city": "Pak Phanang",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.35109",
+            "longitude": "100.20195"
+        },
+        {
+            "city": "Pak Kret",
+            "region": "38",
+            "country": "TH",
+            "latitude": "13.91301",
+            "longitude": "100.49883"
+        },
+        {
+            "city": "Pak Khat",
+            "region": "17",
+            "country": "TH",
+            "latitude": "18.30556",
+            "longitude": "103.30441"
+        },
+        {
+            "city": "Pak Chong",
+            "region": "27",
+            "country": "TH",
+            "latitude": "14.70802",
+            "longitude": "101.41614"
+        },
+        {
+            "city": "Pa Daet",
+            "region": "03",
+            "country": "TH",
+            "latitude": "19.5048",
+            "longitude": "99.99243"
+        },
+        {
+            "city": "Ongkharak",
+            "region": "43",
+            "country": "TH",
+            "latitude": "14.12117",
+            "longitude": "101.00364"
+        },
+        {
+            "city": "Non Thai",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.19811",
+            "longitude": "102.03581"
+        },
+        {
+            "city": "Mueang Nonthaburi",
+            "region": "38",
+            "country": "TH",
+            "latitude": "13.86075",
+            "longitude": "100.51477"
+        },
+        {
+            "city": "Non Sung",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.18014",
+            "longitude": "102.25694"
+        },
+        {
+            "city": "Non Sang",
+            "region": "79",
+            "country": "TH",
+            "latitude": "16.8687",
+            "longitude": "102.56642"
+        },
+        {
+            "city": "Non Sa-at",
+            "region": "76",
+            "country": "TH",
+            "latitude": "16.97914",
+            "longitude": "102.8937"
+        },
+        {
+            "city": "Non Kho",
+            "region": "30",
+            "country": "TH",
+            "latitude": "14.91666",
+            "longitude": "104.72522"
+        },
+        {
+            "city": "Nong Yai",
+            "region": "46",
+            "country": "TH",
+            "latitude": "13.15515",
+            "longitude": "101.37226"
+        },
+        {
+            "city": "Nong Sung",
+            "region": "78",
+            "country": "TH",
+            "latitude": "16.48299",
+            "longitude": "104.34712"
+        },
+        {
+            "city": "Nong Suea",
+            "region": "39",
+            "country": "TH",
+            "latitude": "14.13478",
+            "longitude": "100.82503"
+        },
+        {
+            "city": "Nong Saeng",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.16739",
+            "longitude": "102.78081"
+        },
+        {
+            "city": "Nong Saeng",
+            "region": "37",
+            "country": "TH",
+            "latitude": "14.49208",
+            "longitude": "100.78431"
+        },
+        {
+            "city": "Nong Ruea",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.49333",
+            "longitude": "102.43339"
+        },
+        {
+            "city": "Nong Phok",
+            "region": "25",
+            "country": "TH",
+            "latitude": "16.31006",
+            "longitude": "104.20247"
+        },
+        {
+            "city": "Nong Phai",
+            "region": "14",
+            "country": "TH",
+            "latitude": "15.99025",
+            "longitude": "101.06183"
+        },
+        {
+            "city": "Nong Ki",
+            "region": "28",
+            "country": "TH",
+            "latitude": "14.68679",
+            "longitude": "102.538"
+        },
+        {
+            "city": "Nong Khai",
+            "region": "17",
+            "country": "TH",
+            "latitude": "17.87847",
+            "longitude": "102.742"
+        },
+        {
+            "city": "Nong Khaem",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.70528",
+            "longitude": "100.34923"
+        },
+        {
+            "city": "Nong Khae",
+            "region": "37",
+            "country": "TH",
+            "latitude": "14.34062",
+            "longitude": "100.86733"
+        },
+        {
+            "city": "Nong Hong",
+            "region": "28",
+            "country": "TH",
+            "latitude": "14.84782",
+            "longitude": "102.68401"
+        },
+        {
+            "city": "Nong Han",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.36083",
+            "longitude": "103.10533"
+        },
+        {
+            "city": "Nong Chok",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.85585",
+            "longitude": "100.86216"
+        },
+        {
+            "city": "Nong Chik",
+            "region": "69",
+            "country": "TH",
+            "latitude": "6.84356",
+            "longitude": "101.17803"
+        },
+        {
+            "city": "Nong Bua Rawe",
+            "region": "26",
+            "country": "TH",
+            "latitude": "15.74939",
+            "longitude": "101.75992"
+        },
+        {
+            "city": "Nong Bua Lamphu",
+            "region": "79",
+            "country": "TH",
+            "latitude": "17.20406",
+            "longitude": "102.44068"
+        },
+        {
+            "city": "Nong Bua",
+            "region": "16",
+            "country": "TH",
+            "latitude": "15.86458",
+            "longitude": "100.58581"
+        },
+        {
+            "city": "Noen Maprang",
+            "region": "12",
+            "country": "TH",
+            "latitude": "16.56667",
+            "longitude": "100.63333"
+        },
+        {
+            "city": "Nikhom Nam Un",
+            "region": "20",
+            "country": "TH",
+            "latitude": "17.18314",
+            "longitude": "103.71842"
+        },
+        {
+            "city": "Nikhom Kham Soi",
+            "region": "78",
+            "country": "TH",
+            "latitude": "16.37167",
+            "longitude": "104.55147"
+        },
+        {
+            "city": "Na Wa",
+            "region": "73",
+            "country": "TH",
+            "latitude": "17.4897",
+            "longitude": "104.10056"
+        },
+        {
+            "city": "Na Thawi",
+            "region": "68",
+            "country": "TH",
+            "latitude": "6.74192",
+            "longitude": "100.69139"
+        },
+        {
+            "city": "Narathiwat",
+            "region": "31",
+            "country": "TH",
+            "latitude": "6.42639",
+            "longitude": "101.82308"
+        },
+        {
+            "city": "Na Pho",
+            "region": "28",
+            "country": "TH",
+            "latitude": "15.64113",
+            "longitude": "102.95462"
+        },
+        {
+            "city": "Na Noi",
+            "region": "04",
+            "country": "TH",
+            "latitude": "18.32639",
+            "longitude": "100.71417"
+        },
+        {
+            "city": "Nang Rong",
+            "region": "28",
+            "country": "TH",
+            "latitude": "14.6377",
+            "longitude": "102.79138"
+        },
+        {
+            "city": "Nan",
+            "region": "04",
+            "country": "TH",
+            "latitude": "18.79292",
+            "longitude": "100.72972"
+        },
+        {
+            "city": "Na Muen",
+            "region": "04",
+            "country": "TH",
+            "latitude": "18.19",
+            "longitude": "100.65847"
+        },
+        {
+            "city": "Nam Som",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.77036",
+            "longitude": "102.18947"
+        },
+        {
+            "city": "Nam Phong",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.70228",
+            "longitude": "102.8557"
+        },
+        {
+            "city": "Nam Pat",
+            "region": "10",
+            "country": "TH",
+            "latitude": "17.72806",
+            "longitude": "100.68433"
+        },
+        {
+            "city": "Na Mon",
+            "region": "23",
+            "country": "TH",
+            "latitude": "16.57653",
+            "longitude": "103.78711"
+        },
+        {
+            "city": "Nam Nao",
+            "region": "14",
+            "country": "TH",
+            "latitude": "16.76753",
+            "longitude": "101.66917"
+        },
+        {
+            "city": "Nam Kliang",
+            "region": "30",
+            "country": "TH",
+            "latitude": "14.92731",
+            "longitude": "104.51303"
+        },
+        {
+            "city": "Na Klang",
+            "region": "79",
+            "country": "TH",
+            "latitude": "17.3072",
+            "longitude": "102.18886"
+        },
+        {
+            "city": "Nakhon Thai",
+            "region": "12",
+            "country": "TH",
+            "latitude": "17.10056",
+            "longitude": "100.83739"
+        },
+        {
+            "city": "Nakhon Sawan",
+            "region": "16",
+            "country": "TH",
+            "latitude": "15.70472",
+            "longitude": "100.13717"
+        },
+        {
+            "city": "Nakhon Ratchasima",
+            "region": "27",
+            "country": "TH",
+            "latitude": "14.97066",
+            "longitude": "102.10196"
+        },
+        {
+            "city": "Nakhon Phanom",
+            "region": "73",
+            "country": "TH",
+            "latitude": "17.41081",
+            "longitude": "104.77856"
+        },
+        {
+            "city": "Nakhon Pathom",
+            "region": "53",
+            "country": "TH",
+            "latitude": "13.8196",
+            "longitude": "100.04427"
+        },
+        {
+            "city": "Nakhon Nayok",
+            "region": "43",
+            "country": "TH",
+            "latitude": "14.20463",
+            "longitude": "101.21295"
+        },
+        {
+            "city": "Nakhon Luang",
+            "region": "36",
+            "country": "TH",
+            "latitude": "14.46281",
+            "longitude": "100.60832"
+        },
+        {
+            "city": "Nakhon Chai Si",
+            "region": "53",
+            "country": "TH",
+            "latitude": "13.80126",
+            "longitude": "100.18451"
+        },
+        {
+            "city": "Na Kae",
+            "region": "73",
+            "country": "TH",
+            "latitude": "16.94644",
+            "longitude": "104.50081"
+        },
+        {
+            "city": "Na Duang",
+            "region": "18",
+            "country": "TH",
+            "latitude": "17.4788",
+            "longitude": "101.97231"
+        },
+        {
+            "city": "Na Chueak",
+            "region": "24",
+            "country": "TH",
+            "latitude": "15.79338",
+            "longitude": "103.03184"
+        },
+        {
+            "city": "Na Chaluai",
+            "region": "75",
+            "country": "TH",
+            "latitude": "14.52046",
+            "longitude": "105.24478"
+        },
+        {
+            "city": "Mukdahan",
+            "region": "78",
+            "country": "TH",
+            "latitude": "16.54531",
+            "longitude": "104.72351"
+        },
+        {
+            "city": "Mueang Suang",
+            "region": "25",
+            "country": "TH",
+            "latitude": "15.82192",
+            "longitude": "103.72884"
+        },
+        {
+            "city": "Muang Sam Sip",
+            "region": "75",
+            "country": "TH",
+            "latitude": "15.51307",
+            "longitude": "104.72565"
+        },
+        {
+            "city": "Min Buri",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.81407",
+            "longitude": "100.73135"
+        },
+        {
+            "city": "Moei Wadi",
+            "region": "25",
+            "country": "TH",
+            "latitude": "16.38944",
+            "longitude": "104.1572"
+        },
+        {
+            "city": "Mayo",
+            "region": "69",
+            "country": "TH",
+            "latitude": "6.71864",
+            "longitude": "101.40983"
+        },
+        {
+            "city": "Manorom",
+            "region": "32",
+            "country": "TH",
+            "latitude": "15.30997",
+            "longitude": "100.08283"
+        },
+        {
+            "city": "Mancha Khiri",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.13048",
+            "longitude": "102.53712"
+        },
+        {
+            "city": "Makham",
+            "region": "48",
+            "country": "TH",
+            "latitude": "12.67292",
+            "longitude": "102.19575"
+        },
+        {
+            "city": "Mai Kaen",
+            "region": "69",
+            "country": "TH",
+            "latitude": "6.60975",
+            "longitude": "101.66686"
+        },
+        {
+            "city": "Maha Sarakham",
+            "region": "24",
+            "country": "TH",
+            "latitude": "16.18483",
+            "longitude": "103.30067"
+        },
+        {
+            "city": "Maha Rat",
+            "region": "36",
+            "country": "TH",
+            "latitude": "14.53367",
+            "longitude": "100.52672"
+        },
+        {
+            "city": "Maha Chana Chai",
+            "region": "72",
+            "country": "TH",
+            "latitude": "15.52935",
+            "longitude": "104.23847"
+        },
+        {
+            "city": "Mae Charim",
+            "region": "04",
+            "country": "TH",
+            "latitude": "18.70614",
+            "longitude": "101.0057"
+        },
+        {
+            "city": "Lop Buri",
+            "region": "34",
+            "country": "TH",
+            "latitude": "14.79808",
+            "longitude": "100.65397"
+        },
+        {
+            "city": "Lom Sak",
+            "region": "14",
+            "country": "TH",
+            "latitude": "16.77983",
+            "longitude": "101.24225"
+        },
+        {
+            "city": "Lom Kao",
+            "region": "14",
+            "country": "TH",
+            "latitude": "16.88614",
+            "longitude": "101.22894"
+        },
+        {
+            "city": "Loeng Nok Tha",
+            "region": "72",
+            "country": "TH",
+            "latitude": "16.2075",
+            "longitude": "104.55528"
+        },
+        {
+            "city": "Loei",
+            "region": "18",
+            "country": "TH",
+            "latitude": "17.49052",
+            "longitude": "101.72749"
+        },
+        {
+            "city": "Lat Lum Kaeo",
+            "region": "39",
+            "country": "TH",
+            "latitude": "14.03728",
+            "longitude": "100.40486"
+        },
+        {
+            "city": "Lat Bua Luang",
+            "region": "36",
+            "country": "TH",
+            "latitude": "14.16572",
+            "longitude": "100.30789"
+        },
+        {
+            "city": "Lap Lae",
+            "region": "10",
+            "country": "TH",
+            "latitude": "17.65211",
+            "longitude": "100.03892"
+        },
+        {
+            "city": "Lam Plai Mat",
+            "region": "28",
+            "country": "TH",
+            "latitude": "15.0252",
+            "longitude": "102.83894"
+        },
+        {
+            "city": "Lam Luk Ka",
+            "region": "39",
+            "country": "TH",
+            "latitude": "13.93226",
+            "longitude": "100.74937"
+        },
+        {
+            "city": "Lamduan",
+            "region": "29",
+            "country": "TH",
+            "latitude": "14.72205",
+            "longitude": "103.66934"
+        },
+        {
+            "city": "Laem Sing",
+            "region": "48",
+            "country": "TH",
+            "latitude": "12.48164",
+            "longitude": "102.07375"
+        },
+        {
+            "city": "Laem Ngop",
+            "region": "49",
+            "country": "TH",
+            "latitude": "12.1717",
+            "longitude": "102.39489"
+        },
+        {
+            "city": "Kut Khaopun",
+            "region": "75",
+            "country": "TH",
+            "latitude": "15.79267",
+            "longitude": "104.99814"
+        },
+        {
+            "city": "Kut Chum",
+            "region": "72",
+            "country": "TH",
+            "latitude": "16.03289",
+            "longitude": "104.33936"
+        },
+        {
+            "city": "Kut Chap",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.4257",
+            "longitude": "102.56692"
+        },
+        {
+            "city": "Kut Bak",
+            "region": "20",
+            "country": "TH",
+            "latitude": "17.08882",
+            "longitude": "103.81875"
+        },
+        {
+            "city": "Kusuman",
+            "region": "20",
+            "country": "TH",
+            "latitude": "17.33259",
+            "longitude": "104.33147"
+        },
+        {
+            "city": "Kumphawapi",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.10875",
+            "longitude": "103.01487"
+        },
+        {
+            "city": "Kuchinarai",
+            "region": "23",
+            "country": "TH",
+            "latitude": "16.541",
+            "longitude": "104.05004"
+        },
+        {
+            "city": "Bangkok",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.75",
+            "longitude": "100.51667"
+        },
+        {
+            "city": "Krok Phra",
+            "region": "16",
+            "country": "TH",
+            "latitude": "15.55589",
+            "longitude": "100.07153"
+        },
+        {
+            "city": "Krathum Baen",
+            "region": "55",
+            "country": "TH",
+            "latitude": "13.6533",
+            "longitude": "100.25972"
+        },
+        {
+            "city": "Krasang",
+            "region": "28",
+            "country": "TH",
+            "latitude": "14.92375",
+            "longitude": "103.30368"
+        },
+        {
+            "city": "Krasae Sin",
+            "region": "68",
+            "country": "TH",
+            "latitude": "7.61548",
+            "longitude": "100.32842"
+        },
+        {
+            "city": "Kranuan",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.70672",
+            "longitude": "103.07878"
+        },
+        {
+            "city": "Kosum Phisai",
+            "region": "24",
+            "country": "TH",
+            "latitude": "16.24858",
+            "longitude": "103.06739"
+        },
+        {
+            "city": "Ko Si Chang",
+            "region": "46",
+            "country": "TH",
+            "latitude": "13.16388",
+            "longitude": "100.80547"
+        },
+        {
+            "city": "Klaeng",
+            "region": "47",
+            "country": "TH",
+            "latitude": "12.77972",
+            "longitude": "101.64831"
+        },
+        {
+            "city": "Khun Han",
+            "region": "30",
+            "country": "TH",
+            "latitude": "14.61739",
+            "longitude": "104.42506"
+        },
+        {
+            "city": "Khu Mueang",
+            "region": "28",
+            "country": "TH",
+            "latitude": "15.2716",
+            "longitude": "103.00167"
+        },
+        {
+            "city": "Khu Khan",
+            "region": "30",
+            "country": "TH",
+            "latitude": "14.71358",
+            "longitude": "104.19836"
+        },
+        {
+            "city": "Khuan Niang",
+            "region": "68",
+            "country": "TH",
+            "latitude": "7.19138",
+            "longitude": "100.35355"
+        },
+        {
+            "city": "Khuan Khanun",
+            "region": "66",
+            "country": "TH",
+            "latitude": "7.7347",
+            "longitude": "100.00931"
+        },
+        {
+            "city": "Khuan Kalong",
+            "region": "67",
+            "country": "TH",
+            "latitude": "6.84538",
+            "longitude": "100.07148"
+        },
+        {
+            "city": "Khueang Nai",
+            "region": "75",
+            "country": "TH",
+            "latitude": "15.38989",
+            "longitude": "104.55083"
+        },
+        {
+            "city": "Khuan Don",
+            "region": "67",
+            "country": "TH",
+            "latitude": "6.78758",
+            "longitude": "100.07778"
+        },
+        {
+            "city": "Kho Wang",
+            "region": "72",
+            "country": "TH",
+            "latitude": "15.36998",
+            "longitude": "104.35231"
+        },
+        {
+            "city": "Khon Sawan",
+            "region": "26",
+            "country": "TH",
+            "latitude": "15.93192",
+            "longitude": "102.28103"
+        },
+        {
+            "city": "Khon San",
+            "region": "26",
+            "country": "TH",
+            "latitude": "16.61286",
+            "longitude": "101.91944"
+        },
+        {
+            "city": "Khon Kaen",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.44671",
+            "longitude": "102.833"
+        },
+        {
+            "city": "Khong Chiam",
+            "region": "75",
+            "country": "TH",
+            "latitude": "15.31856",
+            "longitude": "105.49506"
+        },
+        {
+            "city": "Khong",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.44392",
+            "longitude": "102.32862"
+        },
+        {
+            "city": "Khon Buri",
+            "region": "27",
+            "country": "TH",
+            "latitude": "14.52541",
+            "longitude": "102.24591"
+        },
+        {
+            "city": "Khok Si Suphan",
+            "region": "20",
+            "country": "TH",
+            "latitude": "17.04507",
+            "longitude": "104.2756"
+        },
+        {
+            "city": "Khok Samrong",
+            "region": "34",
+            "country": "TH",
+            "latitude": "15.0665",
+            "longitude": "100.72233"
+        },
+        {
+            "city": "Khok Pho",
+            "region": "69",
+            "country": "TH",
+            "latitude": "6.73064",
+            "longitude": "101.0962"
+        },
+        {
+            "city": "Khok Charoen",
+            "region": "34",
+            "country": "TH",
+            "latitude": "15.37927",
+            "longitude": "100.8187"
+        },
+        {
+            "city": "Khlung",
+            "region": "48",
+            "country": "TH",
+            "latitude": "12.45467",
+            "longitude": "102.22142"
+        },
+        {
+            "city": "Khlong Yai",
+            "region": "49",
+            "country": "TH",
+            "latitude": "11.77644",
+            "longitude": "102.88567"
+        },
+        {
+            "city": "Khlong San",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.73086",
+            "longitude": "100.50903"
+        },
+        {
+            "city": "Khlong Luang",
+            "region": "39",
+            "country": "TH",
+            "latitude": "14.06467",
+            "longitude": "100.64578"
+        },
+        {
+            "city": "Khlong Hat",
+            "region": "80",
+            "country": "TH",
+            "latitude": "13.45177",
+            "longitude": "102.29823"
+        },
+        {
+            "city": "Khemarat",
+            "region": "75",
+            "country": "TH",
+            "latitude": "16.04252",
+            "longitude": "105.21836"
+        },
+        {
+            "city": "Khao Wong",
+            "region": "23",
+            "country": "TH",
+            "latitude": "16.70008",
+            "longitude": "104.0902"
+        },
+        {
+            "city": "Khao Saming",
+            "region": "49",
+            "country": "TH",
+            "latitude": "12.35353",
+            "longitude": "102.4355"
+        },
+        {
+            "city": "Khao Chaison",
+            "region": "66",
+            "country": "TH",
+            "latitude": "7.46125",
+            "longitude": "100.13372"
+        },
+        {
+            "city": "Kham Thale So",
+            "region": "27",
+            "country": "TH",
+            "latitude": "14.96083",
+            "longitude": "101.94789"
+        },
+        {
+            "city": "Kham Ta Kla",
+            "region": "20",
+            "country": "TH",
+            "latitude": "17.85231",
+            "longitude": "103.75657"
+        },
+        {
+            "city": "Kham Sakae Saeng",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.33221",
+            "longitude": "102.17278"
+        },
+        {
+            "city": "Kham Muang",
+            "region": "23",
+            "country": "TH",
+            "latitude": "16.92902",
+            "longitude": "103.63518"
+        },
+        {
+            "city": "Kham Khuean Kaeo",
+            "region": "72",
+            "country": "TH",
+            "latitude": "15.65233",
+            "longitude": "104.30861"
+        },
+        {
+            "city": "Khamcha-i",
+            "region": "78",
+            "country": "TH",
+            "latitude": "16.57764",
+            "longitude": "104.41956"
+        },
+        {
+            "city": "Kaset Wisai",
+            "region": "25",
+            "country": "TH",
+            "latitude": "15.65558",
+            "longitude": "103.58361"
+        },
+        {
+            "city": "Kaset Sombun",
+            "region": "26",
+            "country": "TH",
+            "latitude": "16.28053",
+            "longitude": "101.95422"
+        },
+        {
+            "city": "Kao Liao",
+            "region": "16",
+            "country": "TH",
+            "latitude": "15.85053",
+            "longitude": "100.07914"
+        },
+        {
+            "city": "Kantharawichai",
+            "region": "24",
+            "country": "TH",
+            "latitude": "16.32719",
+            "longitude": "103.29864"
+        },
+        {
+            "city": "Kanthararom",
+            "region": "30",
+            "country": "TH",
+            "latitude": "15.10323",
+            "longitude": "104.57343"
+        },
+        {
+            "city": "Kantharalak",
+            "region": "30",
+            "country": "TH",
+            "latitude": "14.64056",
+            "longitude": "104.64992"
+        },
+        {
+            "city": "Krong Pi Nang",
+            "region": "70",
+            "country": "TH",
+            "latitude": "6.4112",
+            "longitude": "101.27394"
+        },
+        {
+            "city": "Su-ngai Padi",
+            "region": "31",
+            "country": "TH",
+            "latitude": "6.0857",
+            "longitude": "101.87959"
+        },
+        {
+            "city": "Ka Bang",
+            "region": "70",
+            "country": "TH",
+            "latitude": "6.41536",
+            "longitude": "101.05456"
+        },
+        {
+            "city": "Cho-airong",
+            "region": "31",
+            "country": "TH",
+            "latitude": "6.22553",
+            "longitude": "101.81128"
+        },
+        {
+            "city": "Kamphaeng Saen",
+            "region": "53",
+            "country": "TH",
+            "latitude": "13.9977",
+            "longitude": "99.99215"
+        },
+        {
+            "city": "Kamalasai",
+            "region": "23",
+            "country": "TH",
+            "latitude": "16.33839",
+            "longitude": "103.57564"
+        },
+        {
+            "city": "Kalasin",
+            "region": "23",
+            "country": "TH",
+            "latitude": "16.43281",
+            "longitude": "103.50658"
+        },
+        {
+            "city": "Kaeng Khoi",
+            "region": "37",
+            "country": "TH",
+            "latitude": "14.58617",
+            "longitude": "100.99758"
+        },
+        {
+            "city": "Kaeng Khro",
+            "region": "26",
+            "country": "TH",
+            "latitude": "16.10864",
+            "longitude": "102.25808"
+        },
+        {
+            "city": "Kae Dam",
+            "region": "24",
+            "country": "TH",
+            "latitude": "16.02397",
+            "longitude": "103.38444"
+        },
+        {
+            "city": "Kabin Buri",
+            "region": "74",
+            "country": "TH",
+            "latitude": "13.95114",
+            "longitude": "101.71769"
+        },
+        {
+            "city": "In Buri",
+            "region": "33",
+            "country": "TH",
+            "latitude": "15.00787",
+            "longitude": "100.32691"
+        },
+        {
+            "city": "Hua Taphan",
+            "region": "77",
+            "country": "TH",
+            "latitude": "15.69714",
+            "longitude": "104.49139"
+        },
+        {
+            "city": "Hua Sai",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.04408",
+            "longitude": "100.30586"
+        },
+        {
+            "city": "Huai Thap Than",
+            "region": "30",
+            "country": "TH",
+            "latitude": "15.05333",
+            "longitude": "104.02754"
+        },
+        {
+            "city": "Huai Thalaeng",
+            "region": "27",
+            "country": "TH",
+            "latitude": "14.99701",
+            "longitude": "102.64746"
+        },
+        {
+            "city": "Huai Phueng",
+            "region": "23",
+            "country": "TH",
+            "latitude": "16.65038",
+            "longitude": "103.91005"
+        },
+        {
+            "city": "Huai Mek",
+            "region": "23",
+            "country": "TH",
+            "latitude": "16.58975",
+            "longitude": "103.23547"
+        },
+        {
+            "city": "Hat Yai",
+            "region": "68",
+            "country": "TH",
+            "latitude": "7.00836",
+            "longitude": "100.47668"
+        },
+        {
+            "city": "Hankha",
+            "region": "32",
+            "country": "TH",
+            "latitude": "14.98122",
+            "longitude": "100.0147"
+        },
+        {
+            "city": "Fak Tha",
+            "region": "10",
+            "country": "TH",
+            "latitude": "17.99283",
+            "longitude": "100.87944"
+        },
+        {
+            "city": "Dusit",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.7775",
+            "longitude": "100.51977"
+        },
+        {
+            "city": "Don Tan",
+            "region": "78",
+            "country": "TH",
+            "latitude": "16.31697",
+            "longitude": "104.92"
+        },
+        {
+            "city": "Dong Luang",
+            "region": "78",
+            "country": "TH",
+            "latitude": "16.81589",
+            "longitude": "104.538"
+        },
+        {
+            "city": "Don Chedi",
+            "region": "51",
+            "country": "TH",
+            "latitude": "14.63497",
+            "longitude": "100.02097"
+        },
+        {
+            "city": "Doem Bang Nang Buat",
+            "region": "51",
+            "country": "TH",
+            "latitude": "14.83333",
+            "longitude": "100.1"
+        },
+        {
+            "city": "Det Udom",
+            "region": "75",
+            "country": "TH",
+            "latitude": "14.90598",
+            "longitude": "105.07836"
+        },
+        {
+            "city": "Den Chai",
+            "region": "07",
+            "country": "TH",
+            "latitude": "17.98372",
+            "longitude": "100.05217"
+        },
+        {
+            "city": "Dan Sai",
+            "region": "18",
+            "country": "TH",
+            "latitude": "17.28011",
+            "longitude": "101.14686"
+        },
+        {
+            "city": "Dan Khun Thot",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.2085",
+            "longitude": "101.77138"
+        },
+        {
+            "city": "Chum Phuang",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.34861",
+            "longitude": "102.74161"
+        },
+        {
+            "city": "Chumphon Buri",
+            "region": "29",
+            "country": "TH",
+            "latitude": "15.34862",
+            "longitude": "103.39217"
+        },
+        {
+            "city": "Chum Phae",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.5443",
+            "longitude": "102.09924"
+        },
+        {
+            "city": "Chonnabot",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.08861",
+            "longitude": "102.62178"
+        },
+        {
+            "city": "Chon Daen",
+            "region": "14",
+            "country": "TH",
+            "latitude": "16.18953",
+            "longitude": "100.85958"
+        },
+        {
+            "city": "Chon Buri",
+            "region": "46",
+            "country": "TH",
+            "latitude": "13.3622",
+            "longitude": "100.98345"
+        },
+        {
+            "city": "Chom Phra",
+            "region": "29",
+            "country": "TH",
+            "latitude": "15.11814",
+            "longitude": "103.60743"
+        },
+        {
+            "city": "Chok Chai",
+            "region": "27",
+            "country": "TH",
+            "latitude": "14.72844",
+            "longitude": "102.16524"
+        },
+        {
+            "city": "Chian Yai",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.16936",
+            "longitude": "100.1447"
+        },
+        {
+            "city": "Chiang Yuen",
+            "region": "24",
+            "country": "TH",
+            "latitude": "16.41042",
+            "longitude": "103.09768"
+        },
+        {
+            "city": "Chiang Saen",
+            "region": "03",
+            "country": "TH",
+            "latitude": "20.27511",
+            "longitude": "100.08689"
+        },
+        {
+            "city": "Chiang Klang",
+            "region": "04",
+            "country": "TH",
+            "latitude": "19.3",
+            "longitude": "100.86667"
+        },
+        {
+            "city": "Chiang Khong",
+            "region": "03",
+            "country": "TH",
+            "latitude": "20.26125",
+            "longitude": "100.40461"
+        },
+        {
+            "city": "Chiang Khan",
+            "region": "18",
+            "country": "TH",
+            "latitude": "17.89382",
+            "longitude": "101.65997"
+        },
+        {
+            "city": "Chiang Kham",
+            "region": "41",
+            "country": "TH",
+            "latitude": "19.52331",
+            "longitude": "100.3"
+        },
+        {
+            "city": "Cha-uat",
+            "region": "64",
+            "country": "TH",
+            "latitude": "7.96773",
+            "longitude": "99.99985"
+        },
+        {
+            "city": "Chaturaphak Phiman",
+            "region": "25",
+            "country": "TH",
+            "latitude": "15.84572",
+            "longitude": "103.5572"
+        },
+        {
+            "city": "Chatturat",
+            "region": "26",
+            "country": "TH",
+            "latitude": "15.56542",
+            "longitude": "101.84547"
+        },
+        {
+            "city": "Chanuman",
+            "region": "77",
+            "country": "TH",
+            "latitude": "16.23356",
+            "longitude": "105.0005"
+        },
+        {
+            "city": "Chanthaburi",
+            "region": "48",
+            "country": "TH",
+            "latitude": "12.60961",
+            "longitude": "102.10447"
+        },
+        {
+            "city": "Chanae",
+            "region": "31",
+            "country": "TH",
+            "latitude": "6.09914",
+            "longitude": "101.69353"
+        },
+        {
+            "city": "Chana",
+            "region": "68",
+            "country": "TH",
+            "latitude": "6.91542",
+            "longitude": "100.74039"
+        },
+        {
+            "city": "Chaloem Phra Kiat",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.00508",
+            "longitude": "102.27033"
+        },
+        {
+            "city": "Chaiyo",
+            "region": "35",
+            "country": "TH",
+            "latitude": "14.64878",
+            "longitude": "100.47878"
+        },
+        {
+            "city": "Chaiyaphum",
+            "region": "26",
+            "country": "TH",
+            "latitude": "15.81047",
+            "longitude": "102.02881"
+        },
+        {
+            "city": "Chaiwan",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.29447",
+            "longitude": "103.23385"
+        },
+        {
+            "city": "Chai Nat",
+            "region": "32",
+            "country": "TH",
+            "latitude": "15.18636",
+            "longitude": "100.12353"
+        },
+        {
+            "city": "Chai Badan",
+            "region": "34",
+            "country": "TH",
+            "latitude": "15.2",
+            "longitude": "101.13333"
+        },
+        {
+            "city": "Chai Badan",
+            "region": "34",
+            "country": "TH",
+            "latitude": "15.20614",
+            "longitude": "101.13683"
+        },
+        {
+            "city": "Chachoengsao",
+            "region": "44",
+            "country": "TH",
+            "latitude": "13.6882",
+            "longitude": "101.07156"
+        },
+        {
+            "city": "Buriram",
+            "region": "28",
+            "country": "TH",
+            "latitude": "14.99433",
+            "longitude": "103.10392"
+        },
+        {
+            "city": "Buntharik",
+            "region": "75",
+            "country": "TH",
+            "latitude": "14.75639",
+            "longitude": "105.41147"
+        },
+        {
+            "city": "Bueng Sam Phan",
+            "region": "14",
+            "country": "TH",
+            "latitude": "15.78404",
+            "longitude": "101.00716"
+        },
+        {
+            "city": "Bueng Khong Long",
+            "region": "17",
+            "country": "TH",
+            "latitude": "17.96129",
+            "longitude": "104.04667"
+        },
+        {
+            "city": "Bueng Kan",
+            "region": "17",
+            "country": "TH",
+            "latitude": "18.36304",
+            "longitude": "103.65194"
+        },
+        {
+            "city": "Bua Yai",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.58552",
+            "longitude": "102.42587"
+        },
+        {
+            "city": "Bua Chet",
+            "region": "29",
+            "country": "TH",
+            "latitude": "14.52814",
+            "longitude": "103.94567"
+        },
+        {
+            "city": "Bo Thong",
+            "region": "46",
+            "country": "TH",
+            "latitude": "13.27825",
+            "longitude": "101.44028"
+        },
+        {
+            "city": "Bo Rai",
+            "region": "49",
+            "country": "TH",
+            "latitude": "12.57283",
+            "longitude": "102.53714"
+        },
+        {
+            "city": "Borabue",
+            "region": "24",
+            "country": "TH",
+            "latitude": "16.04179",
+            "longitude": "103.11506"
+        },
+        {
+            "city": "Bo Kluea",
+            "region": "04",
+            "country": "TH",
+            "latitude": "19.15029",
+            "longitude": "101.1556"
+        },
+        {
+            "city": "Betong",
+            "region": "70",
+            "country": "TH",
+            "latitude": "5.77434",
+            "longitude": "101.07231"
+        },
+        {
+            "city": "Wang Pong",
+            "region": "14",
+            "country": "TH",
+            "latitude": "16.34147",
+            "longitude": "100.79317"
+        },
+        {
+            "city": "Wang Muang",
+            "region": "37",
+            "country": "TH",
+            "latitude": "14.84228",
+            "longitude": "101.1255"
+        },
+        {
+            "city": "Ban Thai Tan",
+            "region": "35",
+            "country": "TH",
+            "latitude": "14.61667",
+            "longitude": "100.48333"
+        },
+        {
+            "city": "Ban Thaen",
+            "region": "26",
+            "country": "TH",
+            "latitude": "16.40506",
+            "longitude": "102.34239"
+        },
+        {
+            "city": "Ban Selaphum",
+            "region": "25",
+            "country": "TH",
+            "latitude": "16.01667",
+            "longitude": "103.95"
+        },
+        {
+            "city": "Sawang Wirawong",
+            "region": "75",
+            "country": "TH",
+            "latitude": "15.24158",
+            "longitude": "105.0922"
+        },
+        {
+            "city": "Ban Sang",
+            "region": "74",
+            "country": "TH",
+            "latitude": "13.99503",
+            "longitude": "101.22094"
+        },
+        {
+            "city": "Ban Sam Chuk",
+            "region": "51",
+            "country": "TH",
+            "latitude": "14.73333",
+            "longitude": "100.1"
+        },
+        {
+            "city": "Ratchasan",
+            "region": "44",
+            "country": "TH",
+            "latitude": "13.78211",
+            "longitude": "101.28133"
+        },
+        {
+            "city": "Ban Rangsit",
+            "region": "39",
+            "country": "TH",
+            "latitude": "14.01667",
+            "longitude": "100.73333"
+        },
+        {
+            "city": "Ban Phue",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.68877",
+            "longitude": "102.47878"
+        },
+        {
+            "city": "Ban Phraek",
+            "region": "36",
+            "country": "TH",
+            "latitude": "14.64681",
+            "longitude": "100.57617"
+        },
+        {
+            "city": "Ban Pho",
+            "region": "44",
+            "country": "TH",
+            "latitude": "13.59864",
+            "longitude": "101.07956"
+        },
+        {
+            "city": "Phatthaya",
+            "region": "46",
+            "country": "TH",
+            "latitude": "12.93333",
+            "longitude": "100.88333"
+        },
+        {
+            "city": "Ban Phan Don",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.14272",
+            "longitude": "102.97261"
+        },
+        {
+            "city": "Ban Phai",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.05997",
+            "longitude": "102.73097"
+        },
+        {
+            "city": "Ban Phaeo",
+            "region": "55",
+            "country": "TH",
+            "latitude": "13.59072",
+            "longitude": "100.10748"
+        },
+        {
+            "city": "Ban Phaeng",
+            "region": "73",
+            "country": "TH",
+            "latitude": "17.96507",
+            "longitude": "104.21534"
+        },
+        {
+            "city": "Pak Chom",
+            "region": "18",
+            "country": "TH",
+            "latitude": "18.02493",
+            "longitude": "101.88997"
+        },
+        {
+            "city": "Nong Muang Khai",
+            "region": "07",
+            "country": "TH",
+            "latitude": "18.26397",
+            "longitude": "100.18911"
+        },
+        {
+            "city": "Nong Don",
+            "region": "37",
+            "country": "TH",
+            "latitude": "14.68488",
+            "longitude": "100.7094"
+        },
+        {
+            "city": "Na Yia",
+            "region": "75",
+            "country": "TH",
+            "latitude": "15.06367",
+            "longitude": "105.05994"
+        },
+        {
+            "city": "Na Yai Am",
+            "region": "48",
+            "country": "TH",
+            "latitude": "12.78153",
+            "longitude": "101.82256"
+        },
+        {
+            "city": "Na Thom",
+            "region": "73",
+            "country": "TH",
+            "latitude": "17.78491",
+            "longitude": "104.09082"
+        },
+        {
+            "city": "Ban Nang Sata",
+            "region": "70",
+            "country": "TH",
+            "latitude": "6.26638",
+            "longitude": "101.26461"
+        },
+        {
+            "city": "Na Khu",
+            "region": "23",
+            "country": "TH",
+            "latitude": "16.76384",
+            "longitude": "104.02626"
+        },
+        {
+            "city": "Na Haeo",
+            "region": "18",
+            "country": "TH",
+            "latitude": "17.48536",
+            "longitude": "101.06808"
+        },
+        {
+            "city": "Na Di",
+            "region": "74",
+            "country": "TH",
+            "latitude": "14.11517",
+            "longitude": "101.78189"
+        },
+        {
+            "city": "Ban Na",
+            "region": "43",
+            "country": "TH",
+            "latitude": "14.26238",
+            "longitude": "101.07111"
+        },
+        {
+            "city": "Ban Muang",
+            "region": "20",
+            "country": "TH",
+            "latitude": "17.8508",
+            "longitude": "103.56939"
+        },
+        {
+            "city": "Muak Lek",
+            "region": "37",
+            "country": "TH",
+            "latitude": "14.65287",
+            "longitude": "101.20022"
+        },
+        {
+            "city": "Ban Mo",
+            "region": "37",
+            "country": "TH",
+            "latitude": "14.61544",
+            "longitude": "100.72731"
+        },
+        {
+            "city": "Ban Mi",
+            "region": "34",
+            "country": "TH",
+            "latitude": "15.04428",
+            "longitude": "100.53681"
+        },
+        {
+            "city": "Mae Lan",
+            "region": "69",
+            "country": "TH",
+            "latitude": "6.66114",
+            "longitude": "101.23958"
+        },
+        {
+            "city": "Ban Luang",
+            "region": "04",
+            "country": "TH",
+            "latitude": "18.85211",
+            "longitude": "100.43894"
+        },
+        {
+            "city": "Ban Lueam",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.60916",
+            "longitude": "102.12928"
+        },
+        {
+            "city": "Lao Sua Kok",
+            "region": "75",
+            "country": "TH",
+            "latitude": "15.4183",
+            "longitude": "104.92363"
+        },
+        {
+            "city": "Ban Lam Luk Ka",
+            "region": "39",
+            "country": "TH",
+            "latitude": "13.97738",
+            "longitude": "100.77776"
+        },
+        {
+            "city": "Kut Rang",
+            "region": "24",
+            "country": "TH",
+            "latitude": "16.09398",
+            "longitude": "103.00998"
+        },
+        {
+            "city": "Ban Kruat",
+            "region": "28",
+            "country": "TH",
+            "latitude": "14.42313",
+            "longitude": "103.09974"
+        },
+        {
+            "city": "Ban Khwao",
+            "region": "26",
+            "country": "TH",
+            "latitude": "15.77772",
+            "longitude": "101.9072"
+        },
+        {
+            "city": "Khok Sung",
+            "region": "80",
+            "country": "TH",
+            "latitude": "13.83824",
+            "longitude": "102.62254"
+        },
+        {
+            "city": "Ban Khok",
+            "region": "10",
+            "country": "TH",
+            "latitude": "18.02614",
+            "longitude": "101.06772"
+        },
+        {
+            "city": "Khlong Khuean",
+            "region": "44",
+            "country": "TH",
+            "latitude": "13.79131",
+            "longitude": "101.16353"
+        },
+        {
+            "city": "Khlong Hoi Khong",
+            "region": "68",
+            "country": "TH",
+            "latitude": "6.89865",
+            "longitude": "100.38885"
+        },
+        {
+            "city": "Khao Chakan",
+            "region": "80",
+            "country": "TH",
+            "latitude": "13.6535",
+            "longitude": "102.08825"
+        },
+        {
+            "city": "Ban Khai",
+            "region": "47",
+            "country": "TH",
+            "latitude": "12.78261",
+            "longitude": "101.29639"
+        },
+        {
+            "city": "Kap Choeng",
+            "region": "29",
+            "country": "TH",
+            "latitude": "14.47486",
+            "longitude": "103.59439"
+        },
+        {
+            "city": "Kapho",
+            "region": "69",
+            "country": "TH",
+            "latitude": "6.55968",
+            "longitude": "101.53426"
+        },
+        {
+            "city": "Kaeng Sanam Nang",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.74954",
+            "longitude": "102.25484"
+        },
+        {
+            "city": "Kaeng Hang Maeo",
+            "region": "48",
+            "country": "TH",
+            "latitude": "13.00825",
+            "longitude": "101.90608"
+        },
+        {
+            "city": "Bang Yai",
+            "region": "38",
+            "country": "TH",
+            "latitude": "13.84341",
+            "longitude": "100.36251"
+        },
+        {
+            "city": "Bang Sai",
+            "region": "36",
+            "country": "TH",
+            "latitude": "14.33433",
+            "longitude": "100.30378"
+        },
+        {
+            "city": "Bang Sai",
+            "region": "36",
+            "country": "TH",
+            "latitude": "14.2124",
+            "longitude": "100.49657"
+        },
+        {
+            "city": "Bang Rakam",
+            "region": "12",
+            "country": "TH",
+            "latitude": "16.75847",
+            "longitude": "100.11742"
+        },
+        {
+            "city": "Bang Rak",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.73058",
+            "longitude": "100.52388"
+        },
+        {
+            "city": "Bang Racham",
+            "region": "33",
+            "country": "TH",
+            "latitude": "14.892",
+            "longitude": "100.31728"
+        },
+        {
+            "city": "Bang Pla Ma",
+            "region": "51",
+            "country": "TH",
+            "latitude": "14.39604",
+            "longitude": "100.1587"
+        },
+        {
+            "city": "Bang Pakong",
+            "region": "44",
+            "country": "TH",
+            "latitude": "13.54297",
+            "longitude": "100.99333"
+        },
+        {
+            "city": "Bang Pa-in",
+            "region": "36",
+            "country": "TH",
+            "latitude": "14.22728",
+            "longitude": "100.57879"
+        },
+        {
+            "city": "Bang Pahan",
+            "region": "36",
+            "country": "TH",
+            "latitude": "14.46217",
+            "longitude": "100.54478"
+        },
+        {
+            "city": "Ban Nam Priao",
+            "region": "44",
+            "country": "TH",
+            "latitude": "13.84739",
+            "longitude": "101.05306"
+        },
+        {
+            "city": "Bang Mun Nak",
+            "region": "13",
+            "country": "TH",
+            "latitude": "16.02781",
+            "longitude": "100.37917"
+        },
+        {
+            "city": "Bang Len",
+            "region": "53",
+            "country": "TH",
+            "latitude": "14.02188",
+            "longitude": "100.17183"
+        },
+        {
+            "city": "Bang Lamung",
+            "region": "46",
+            "country": "TH",
+            "latitude": "13.04704",
+            "longitude": "100.92891"
+        },
+        {
+            "city": "Bang Kruai",
+            "region": "38",
+            "country": "TH",
+            "latitude": "13.805",
+            "longitude": "100.47283"
+        },
+        {
+            "city": "Bang Krathum",
+            "region": "12",
+            "country": "TH",
+            "latitude": "16.57831",
+            "longitude": "100.30034"
+        },
+        {
+            "city": "Bangkok Yai",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.72319",
+            "longitude": "100.476"
+        },
+        {
+            "city": "Bangkok Noi",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.76266",
+            "longitude": "100.47798"
+        },
+        {
+            "city": "Bang Khun Thian",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.66302",
+            "longitude": "100.43416"
+        },
+        {
+            "city": "Bang Khla",
+            "region": "44",
+            "country": "TH",
+            "latitude": "13.72144",
+            "longitude": "101.20814"
+        },
+        {
+            "city": "Bang Khen",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.87741",
+            "longitude": "100.6255"
+        },
+        {
+            "city": "Bang Kapi",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.7653",
+            "longitude": "100.647"
+        },
+        {
+            "city": "Bang Bua Thong",
+            "region": "38",
+            "country": "TH",
+            "latitude": "13.91783",
+            "longitude": "100.42403"
+        },
+        {
+            "city": "Bang Bo",
+            "region": "42",
+            "country": "TH",
+            "latitude": "13.57428",
+            "longitude": "100.83533"
+        },
+        {
+            "city": "Bang Ban",
+            "region": "36",
+            "country": "TH",
+            "latitude": "14.37394",
+            "longitude": "100.48528"
+        },
+        {
+            "city": "Ban Fang",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.45331",
+            "longitude": "102.63892"
+        },
+        {
+            "city": "Ban Dung",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.699",
+            "longitude": "103.25957"
+        },
+        {
+            "city": "Don Phut",
+            "region": "37",
+            "country": "TH",
+            "latitude": "14.59175",
+            "longitude": "100.62828"
+        },
+        {
+            "city": "Doembang Nangbuat",
+            "region": "51",
+            "country": "TH",
+            "latitude": "14.85428",
+            "longitude": "100.09772"
+        },
+        {
+            "city": "Ban Chang",
+            "region": "47",
+            "country": "TH",
+            "latitude": "12.72543",
+            "longitude": "101.0553"
+        },
+        {
+            "city": "Chamni",
+            "region": "28",
+            "country": "TH",
+            "latitude": "14.78629",
+            "longitude": "102.82277"
+        },
+        {
+            "city": "Chakkarat",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.01353",
+            "longitude": "102.41289"
+        },
+        {
+            "city": "Ban Bueng",
+            "region": "46",
+            "country": "TH",
+            "latitude": "13.311",
+            "longitude": "101.11214"
+        },
+        {
+            "city": "Bueng Na Rang",
+            "region": "13",
+            "country": "TH",
+            "latitude": "16.1712",
+            "longitude": "100.12531"
+        },
+        {
+            "city": "Ban Talat Bueng",
+            "region": "46",
+            "country": "TH",
+            "latitude": "13.07147",
+            "longitude": "101.00314"
+        },
+        {
+            "city": "Bang Phlat",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.79425",
+            "longitude": "100.50447"
+        },
+        {
+            "city": "Bang Na",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.66744",
+            "longitude": "100.64206"
+        },
+        {
+            "city": "Bang Klam",
+            "region": "68",
+            "country": "TH",
+            "latitude": "7.08953",
+            "longitude": "100.41075"
+        },
+        {
+            "city": "Bang Kaeo",
+            "region": "66",
+            "country": "TH",
+            "latitude": "7.42947",
+            "longitude": "100.17803"
+        },
+        {
+            "city": "Ban Bang Kadi Pathum Thani",
+            "region": "36",
+            "country": "TH",
+            "latitude": "13.99904",
+            "longitude": "100.54962"
+        },
+        {
+            "city": "Bang Bua Thong",
+            "region": "38",
+            "country": "TH",
+            "latitude": "13.9102",
+            "longitude": "100.42581"
+        },
+        {
+            "city": "Ban Bang Bo (1)",
+            "region": "42",
+            "country": "TH",
+            "latitude": "13.58333",
+            "longitude": "100.81667"
+        },
+        {
+            "city": "Bamnet Narong",
+            "region": "26",
+            "country": "TH",
+            "latitude": "15.49917",
+            "longitude": "101.68972"
+        },
+        {
+            "city": "At Samat",
+            "region": "25",
+            "country": "TH",
+            "latitude": "15.84308",
+            "longitude": "103.87839"
+        },
+        {
+            "city": "Aranyaprathet",
+            "region": "80",
+            "country": "TH",
+            "latitude": "13.69276",
+            "longitude": "102.50128"
+        },
+        {
+            "city": "Ang Thong",
+            "region": "35",
+            "country": "TH",
+            "latitude": "14.58839",
+            "longitude": "100.45283"
+        },
+        {
+            "city": "Amnat Charoen",
+            "region": "77",
+            "country": "TH",
+            "latitude": "15.85833",
+            "longitude": "104.6292"
+        },
+        {
+            "city": "Akat Amnuai",
+            "region": "20",
+            "country": "TH",
+            "latitude": "17.59639",
+            "longitude": "103.9816"
+        },
+        {
+            "city": "Phon Charoen",
+            "region": "17",
+            "country": "TH",
+            "latitude": "18.03143",
+            "longitude": "103.70996"
+        },
+        {
+            "city": "Chaiyo",
+            "region": "35",
+            "country": "TH",
+            "latitude": "14.67639",
+            "longitude": "100.46861"
+        },
+        {
+            "city": "Samrong",
+            "region": "75",
+            "country": "TH",
+            "latitude": "15.00781",
+            "longitude": "104.7842"
+        },
+        {
+            "city": "Bueng Bun",
+            "region": "30",
+            "country": "TH",
+            "latitude": "15.3303",
+            "longitude": "104.04485"
+        },
+        {
+            "city": "Song Dao",
+            "region": "20",
+            "country": "TH",
+            "latitude": "17.33628",
+            "longitude": "103.47547"
+        },
+        {
+            "city": "Thung Yang Daeng",
+            "region": "69",
+            "country": "TH",
+            "latitude": "6.61822",
+            "longitude": "101.4265"
+        },
+        {
+            "city": "Amphoe Sikhiu",
+            "region": "27",
+            "country": "TH",
+            "latitude": "14.89944",
+            "longitude": "101.70833"
+        },
+        {
+            "city": "Phanom Dong Rak",
+            "region": "29",
+            "country": "TH",
+            "latitude": "14.44575",
+            "longitude": "103.30508"
+        },
+        {
+            "city": "Saladan",
+            "region": "63",
+            "country": "TH",
+            "latitude": "7.61342",
+            "longitude": "99.03651"
+        },
+        {
+            "city": "Wichit",
+            "region": "62",
+            "country": "TH",
+            "latitude": "7.8894",
+            "longitude": "98.38523"
+        },
+        {
+            "city": "Ko Pha Ngan",
+            "region": "64",
+            "country": "TH",
+            "latitude": "9.75778",
+            "longitude": "100.02914"
+        },
+        {
+            "city": "Koh Tao",
+            "region": "",
+            "country": "TH",
+            "latitude": "10.09808",
+            "longitude": "99.83809"
+        },
+        {
+            "city": "Bang Sue",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.81003",
+            "longitude": "100.53714"
+        },
+        {
+            "city": "Don Mueang",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.91392",
+            "longitude": "100.58994"
+        },
+        {
+            "city": "Salaya",
+            "region": "53",
+            "country": "TH",
+            "latitude": "13.802",
+            "longitude": "100.32111"
+        },
+        {
+            "city": "Khlong Toei",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.71668",
+            "longitude": "100.57159"
+        },
+        {
+            "city": "Prawet",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.71735",
+            "longitude": "100.69452"
+        },
+        {
+            "city": "Patong Beach",
+            "region": "62",
+            "country": "TH",
+            "latitude": "7.89607",
+            "longitude": "98.29661"
+        },
+        {
+            "city": "Chun",
+            "region": "41",
+            "country": "TH",
+            "latitude": "19.33694",
+            "longitude": "100.13478"
+        },
+        {
+            "city": "Thung Chang",
+            "region": "04",
+            "country": "TH",
+            "latitude": "19.38786",
+            "longitude": "100.8762"
+        },
+        {
+            "city": "Lat Krabang",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.72341",
+            "longitude": "100.78436"
+        },
+        {
+            "city": "Bang Khae",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.69196",
+            "longitude": "100.40691"
+        },
+        {
+            "city": "Bang Kho Laem",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.69347",
+            "longitude": "100.5022"
+        },
+        {
+            "city": "Bueng Kum",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.78528",
+            "longitude": "100.66958"
+        },
+        {
+            "city": "Chatuchak",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.82893",
+            "longitude": "100.55985"
+        },
+        {
+            "city": "Chom Thong",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.67717",
+            "longitude": "100.48407"
+        },
+        {
+            "city": "Huai Khwang",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.77678",
+            "longitude": "100.579"
+        },
+        {
+            "city": "Khan Na Yao",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.82609",
+            "longitude": "100.67933"
+        },
+        {
+            "city": "Khlong Sam Wa",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.83616",
+            "longitude": "100.73524"
+        },
+        {
+            "city": "Lak Si",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.88724",
+            "longitude": "100.5792"
+        },
+        {
+            "city": "Lat Phrao",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.80349",
+            "longitude": "100.60749"
+        },
+        {
+            "city": "Pathum Wan",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.73648",
+            "longitude": "100.5239"
+        },
+        {
+            "city": "Phaya Thai",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.78005",
+            "longitude": "100.54275"
+        },
+        {
+            "city": "Ratchathewi",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.759",
+            "longitude": "100.53358"
+        },
+        {
+            "city": "Sai Mai",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.92068",
+            "longitude": "100.64552"
+        },
+        {
+            "city": "Saphan Sung",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.77019",
+            "longitude": "100.68531"
+        },
+        {
+            "city": "Sathon",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.7085",
+            "longitude": "100.52619"
+        },
+        {
+            "city": "Suan Luang",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.73028",
+            "longitude": "100.65138"
+        },
+        {
+            "city": "Thawi Watthana",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.78851",
+            "longitude": "100.33334"
+        },
+        {
+            "city": "Thung Khru",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.62875",
+            "longitude": "100.50964"
+        },
+        {
+            "city": "Wang Thonglang",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.78546",
+            "longitude": "100.61165"
+        },
+        {
+            "city": "Watthana",
+            "region": "40",
+            "country": "TH",
+            "latitude": "13.72978",
+            "longitude": "100.58536"
+        },
+        {
+            "city": "Sop Pong",
+            "region": "01",
+            "country": "TH",
+            "latitude": "19.51881",
+            "longitude": "98.26042"
+        },
+        {
+            "city": "Ban Chalong",
+            "region": "62",
+            "country": "TH",
+            "latitude": "7.84468",
+            "longitude": "98.33897"
+        },
+        {
+            "city": "Ban Ratsada",
+            "region": "62",
+            "country": "TH",
+            "latitude": "7.90963",
+            "longitude": "98.40248"
+        },
+        {
+            "city": "Mueang Phuket",
+            "region": "62",
+            "country": "TH",
+            "latitude": "7.86338",
+            "longitude": "98.36437"
+        },
+        {
+            "city": "Na Mom",
+            "region": "68",
+            "country": "TH",
+            "latitude": "6.95856",
+            "longitude": "100.55683"
+        },
+        {
+            "city": "Bang Sao Thong",
+            "region": "42",
+            "country": "TH",
+            "latitude": "13.595",
+            "longitude": "100.83042"
+        },
+        {
+            "city": "Ko Chang Tai",
+            "region": "49",
+            "country": "TH",
+            "latitude": "12.00171",
+            "longitude": "102.37267"
+        },
+        {
+            "city": "Pa Pae",
+            "region": "01",
+            "country": "TH",
+            "latitude": "18.2569",
+            "longitude": "98.04903"
+        },
+        {
+            "city": "Nai Harn",
+            "region": "62",
+            "country": "TH",
+            "latitude": "7.77859",
+            "longitude": "98.30661"
+        },
+        {
+            "city": "Mae Fa Luang",
+            "region": "03",
+            "country": "TH",
+            "latitude": "20.26628",
+            "longitude": "99.79846"
+        },
+        {
+            "city": "Wiang Chiang Rung",
+            "region": "03",
+            "country": "TH",
+            "latitude": "20.01328",
+            "longitude": "100.05639"
+        },
+        {
+            "city": "Wiang Kaen",
+            "region": "03",
+            "country": "TH",
+            "latitude": "20.11297",
+            "longitude": "100.51331"
+        },
+        {
+            "city": "Khun Tan",
+            "region": "03",
+            "country": "TH",
+            "latitude": "19.83353",
+            "longitude": "100.25858"
+        },
+        {
+            "city": "Chaloem Phra Kiat",
+            "region": "04",
+            "country": "TH",
+            "latitude": "19.57881",
+            "longitude": "101.08011"
+        },
+        {
+            "city": "Mae Lao",
+            "region": "03",
+            "country": "TH",
+            "latitude": "19.79003",
+            "longitude": "99.69967"
+        },
+        {
+            "city": "Suk Samran",
+            "region": "59",
+            "country": "TH",
+            "latitude": "9.34458",
+            "longitude": "98.42903"
+        },
+        {
+            "city": "Wiang Nuea",
+            "region": "01",
+            "country": "TH",
+            "latitude": "19.37972",
+            "longitude": "98.44644"
+        },
+        {
+            "city": "Ao Luek",
+            "region": "63",
+            "country": "TH",
+            "latitude": "8.37803",
+            "longitude": "98.72117"
+        },
+        {
+            "city": "Ban Takhun",
+            "region": "60",
+            "country": "TH",
+            "latitude": "8.90364",
+            "longitude": "98.8845"
+        },
+        {
+            "city": "Wiphawadi",
+            "region": "60",
+            "country": "TH",
+            "latitude": "9.23894",
+            "longitude": "98.97861"
+        },
+        {
+            "city": "Wiang Nong Long",
+            "region": "05",
+            "country": "TH",
+            "latitude": "18.42043",
+            "longitude": "98.74967"
+        },
+        {
+            "city": "Tham Phannara",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.42044",
+            "longitude": "99.39517"
+        },
+        {
+            "city": "Chai Buri",
+            "region": "60",
+            "country": "TH",
+            "latitude": "8.46222",
+            "longitude": "99.07631"
+        },
+        {
+            "city": "Phrasaeng",
+            "region": "60",
+            "country": "TH",
+            "latitude": "8.56781",
+            "longitude": "99.24756"
+        },
+        {
+            "city": "Pathio",
+            "region": "58",
+            "country": "TH",
+            "latitude": "10.70908",
+            "longitude": "99.3182"
+        },
+        {
+            "city": "Suan Phueng",
+            "region": "52",
+            "country": "TH",
+            "latitude": "13.54472",
+            "longitude": "99.34011"
+        },
+        {
+            "city": "Nong Prue",
+            "region": "50",
+            "country": "TH",
+            "latitude": "14.61144",
+            "longitude": "99.45033"
+        },
+        {
+            "city": "Mae Poen",
+            "region": "16",
+            "country": "TH",
+            "latitude": "15.65789",
+            "longitude": "99.46981"
+        },
+        {
+            "city": "Pang Sila Thong",
+            "region": "11",
+            "country": "TH",
+            "latitude": "16.09631",
+            "longitude": "99.48906"
+        },
+        {
+            "city": "Kosamphi Nakhon",
+            "region": "11",
+            "country": "TH",
+            "latitude": "16.63131",
+            "longitude": "99.34975"
+        },
+        {
+            "city": "Ban Thi",
+            "region": "05",
+            "country": "TH",
+            "latitude": "18.63186",
+            "longitude": "99.11661"
+        },
+        {
+            "city": "Manang",
+            "region": "67",
+            "country": "TH",
+            "latitude": "6.99933",
+            "longitude": "99.92161"
+        },
+        {
+            "city": "Ratsada",
+            "region": "65",
+            "country": "TH",
+            "latitude": "7.97467",
+            "longitude": "99.63353"
+        },
+        {
+            "city": "Phra Phrom",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.33911",
+            "longitude": "99.90092"
+        },
+        {
+            "city": "Chulabhorn",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.07597",
+            "longitude": "99.86947"
+        },
+        {
+            "city": "Chang Klang",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.37094",
+            "longitude": "99.56249"
+        },
+        {
+            "city": "Phrom Khiri",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.52333",
+            "longitude": "99.82275"
+        },
+        {
+            "city": "Nopphitam",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.71928",
+            "longitude": "99.75272"
+        },
+        {
+            "city": "Chom Bueng",
+            "region": "52",
+            "country": "TH",
+            "latitude": "13.61964",
+            "longitude": "99.59186"
+        },
+        {
+            "city": "Nong Yasai",
+            "region": "51",
+            "country": "TH",
+            "latitude": "14.77988",
+            "longitude": "99.91073"
+        },
+        {
+            "city": "Huai Khot",
+            "region": "15",
+            "country": "TH",
+            "latitude": "15.29094",
+            "longitude": "99.61661"
+        },
+        {
+            "city": "Lan Sak",
+            "region": "15",
+            "country": "TH",
+            "latitude": "15.45289",
+            "longitude": "99.57606"
+        },
+        {
+            "city": "Chum Ta Bong",
+            "region": "16",
+            "country": "TH",
+            "latitude": "15.63194",
+            "longitude": "99.55231"
+        },
+        {
+            "city": "Mae Wong",
+            "region": "16",
+            "country": "TH",
+            "latitude": "15.78164",
+            "longitude": "99.51864"
+        },
+        {
+            "city": "Bueng Samakkhi",
+            "region": "11",
+            "country": "TH",
+            "latitude": "16.18728",
+            "longitude": "99.97525"
+        },
+        {
+            "city": "Lan Krabue",
+            "region": "11",
+            "country": "TH",
+            "latitude": "16.60003",
+            "longitude": "99.84889"
+        },
+        {
+            "city": "Ban Dan Lan Hoi",
+            "region": "09",
+            "country": "TH",
+            "latitude": "17.00683",
+            "longitude": "99.57497"
+        },
+        {
+            "city": "Mae Chai",
+            "region": "41",
+            "country": "TH",
+            "latitude": "19.34597",
+            "longitude": "99.814"
+        },
+        {
+            "city": "Phu Kam Yao",
+            "region": "41",
+            "country": "TH",
+            "latitude": "19.2705",
+            "longitude": "99.97011"
+        },
+        {
+            "city": "Chaloem Phra Kiat",
+            "region": "64",
+            "country": "TH",
+            "latitude": "8.17689",
+            "longitude": "100.03581"
+        },
+        {
+            "city": "Khai Bang Rachan",
+            "region": "33",
+            "country": "TH",
+            "latitude": "14.79983",
+            "longitude": "100.31022"
+        },
+        {
+            "city": "Sawaengha",
+            "region": "35",
+            "country": "TH",
+            "latitude": "14.75186",
+            "longitude": "100.32481"
+        },
+        {
+            "city": "Doem Bang Nang Buat",
+            "region": "51",
+            "country": "TH",
+            "latitude": "14.85428",
+            "longitude": "100.09772"
+        },
+        {
+            "city": "Chumsaeng",
+            "region": "16",
+            "country": "TH",
+            "latitude": "15.89152",
+            "longitude": "100.30795"
+        },
+        {
+            "city": "Kao Liao",
+            "region": "16",
+            "country": "TH",
+            "latitude": "15.85053",
+            "longitude": "100.07914"
+        },
+        {
+            "city": "Bueng Na Rang",
+            "region": "13",
+            "country": "TH",
+            "latitude": "16.1712",
+            "longitude": "100.12531"
+        },
+        {
+            "city": "Wachira Barami",
+            "region": "13",
+            "country": "TH",
+            "latitude": "16.52314",
+            "longitude": "100.14464"
+        },
+        {
+            "city": "Thong Saen Khan",
+            "region": "10",
+            "country": "TH",
+            "latitude": "17.47592",
+            "longitude": "100.33361"
+        },
+        {
+            "city": "Laplae",
+            "region": "10",
+            "country": "TH",
+            "latitude": "17.65211",
+            "longitude": "100.03892"
+        },
+        {
+            "city": "Nong Suea",
+            "region": "39",
+            "country": "TH",
+            "latitude": "14.13478",
+            "longitude": "100.82503"
+        },
+        {
+            "city": "Chaloem Phra Kiat",
+            "region": "37",
+            "country": "TH",
+            "latitude": "14.6115",
+            "longitude": "100.90825"
+        },
+        {
+            "city": "Tha Ruea",
+            "region": "36",
+            "country": "TH",
+            "latitude": "14.55125",
+            "longitude": "100.7282"
+        },
+        {
+            "city": "Chat Trakan",
+            "region": "12",
+            "country": "TH",
+            "latitude": "17.27606",
+            "longitude": "100.60022"
+        },
+        {
+            "city": "Na Muen",
+            "region": "04",
+            "country": "TH",
+            "latitude": "18.19",
+            "longitude": "100.65847"
+        },
+        {
+            "city": "Santi Suk",
+            "region": "04",
+            "country": "TH",
+            "latitude": "18.9137",
+            "longitude": "100.9417"
+        },
+        {
+            "city": "Phu Phiang",
+            "region": "04",
+            "country": "TH",
+            "latitude": "18.73803",
+            "longitude": "100.80031"
+        },
+        {
+            "city": "Song Khwae",
+            "region": "04",
+            "country": "TH",
+            "latitude": "19.35964",
+            "longitude": "100.70042"
+        },
+        {
+            "city": "Thung Yang Daeng",
+            "region": "69",
+            "country": "TH",
+            "latitude": "6.61822",
+            "longitude": "101.4265"
+        },
+        {
+            "city": "Nikhom Phattana",
+            "region": "47",
+            "country": "TH",
+            "latitude": "12.82736",
+            "longitude": "101.20273"
+        },
+        {
+            "city": "Ko Chan",
+            "region": "46",
+            "country": "TH",
+            "latitude": "13.41658",
+            "longitude": "101.33458"
+        },
+        {
+            "city": "Ban Bueng",
+            "region": "46",
+            "country": "TH",
+            "latitude": "13.311",
+            "longitude": "101.11214"
+        },
+        {
+            "city": "Si Mahosot",
+            "region": "74",
+            "country": "TH",
+            "latitude": "13.8878",
+            "longitude": "101.40501"
+        },
+        {
+            "city": "Bang Nam Priao",
+            "region": "44",
+            "country": "TH",
+            "latitude": "13.84739",
+            "longitude": "101.05306"
+        },
+        {
+            "city": "Khlong Khuean",
+            "region": "44",
+            "country": "TH",
+            "latitude": "13.79131",
+            "longitude": "101.16353"
+        },
+        {
+            "city": "Wang Muang",
+            "region": "37",
+            "country": "TH",
+            "latitude": "14.84536",
+            "longitude": "101.13436"
+        },
+        {
+            "city": "Lam Sonthi",
+            "region": "34",
+            "country": "TH",
+            "latitude": "15.30144",
+            "longitude": "101.36381"
+        },
+        {
+            "city": "Tha Luang",
+            "region": "34",
+            "country": "TH",
+            "latitude": "15.06864",
+            "longitude": "101.10664"
+        },
+        {
+            "city": "Phakdi Chumphon",
+            "region": "26",
+            "country": "TH",
+            "latitude": "15.90517",
+            "longitude": "101.42228"
+        },
+        {
+            "city": "Bueng Sam Phan",
+            "region": "14",
+            "country": "TH",
+            "latitude": "15.79647",
+            "longitude": "101.00853"
+        },
+        {
+            "city": "Kapho",
+            "region": "69",
+            "country": "TH",
+            "latitude": "6.55968",
+            "longitude": "101.53426"
+        },
+        {
+            "city": "Khao Chamao",
+            "region": "47",
+            "country": "TH",
+            "latitude": "12.97586",
+            "longitude": "101.68511"
+        },
+        {
+            "city": "Tha Takiap",
+            "region": "44",
+            "country": "TH",
+            "latitude": "13.44547",
+            "longitude": "101.61133"
+        },
+        {
+            "city": "Wang Nam Khiao",
+            "region": "27",
+            "country": "TH",
+            "latitude": "14.41801",
+            "longitude": "101.86113"
+        },
+        {
+            "city": "Prachamtakham",
+            "region": "74",
+            "country": "TH",
+            "latitude": "14.06442",
+            "longitude": "101.51503"
+        },
+        {
+            "city": "Sikhio",
+            "region": "27",
+            "country": "TH",
+            "latitude": "14.89225",
+            "longitude": "101.72314"
+        },
+        {
+            "city": "Sap Yai",
+            "region": "26",
+            "country": "TH",
+            "latitude": "15.63739",
+            "longitude": "101.61671"
+        },
+        {
+            "city": "Nong Bua Daeng",
+            "region": "26",
+            "country": "TH",
+            "latitude": "16.08256",
+            "longitude": "101.80231"
+        },
+        {
+            "city": "Phu Pha Man",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.64422",
+            "longitude": "101.90447"
+        },
+        {
+            "city": "Erawan",
+            "region": "18",
+            "country": "TH",
+            "latitude": "17.30181",
+            "longitude": "101.95382"
+        },
+        {
+            "city": "Phu Luang",
+            "region": "18",
+            "country": "TH",
+            "latitude": "17.1392",
+            "longitude": "101.66392"
+        },
+        {
+            "city": "Pong Nam Ron",
+            "region": "48",
+            "country": "TH",
+            "latitude": "12.90575",
+            "longitude": "102.26225"
+        },
+        {
+            "city": "Khao Khitchakut",
+            "region": "48",
+            "country": "TH",
+            "latitude": "12.80481",
+            "longitude": "102.11514"
+        },
+        {
+            "city": "Soi Dao",
+            "region": "48",
+            "country": "TH",
+            "latitude": "13.12894",
+            "longitude": "102.21402"
+        },
+        {
+            "city": "Wang Sombun",
+            "region": "80",
+            "country": "TH",
+            "latitude": "13.36176",
+            "longitude": "102.19105"
+        },
+        {
+            "city": "Nong Bunnak",
+            "region": "27",
+            "country": "TH",
+            "latitude": "14.73947",
+            "longitude": "102.36564"
+        },
+        {
+            "city": "Chaloem Phra Kiat",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.00508",
+            "longitude": "102.27033"
+        },
+        {
+            "city": "Kaeng Sanam Nang",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.74958",
+            "longitude": "102.25456"
+        },
+        {
+            "city": "Ban Lueam",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.60889",
+            "longitude": "102.12922"
+        },
+        {
+            "city": "Noen Sa-nga",
+            "region": "26",
+            "country": "TH",
+            "latitude": "15.56428",
+            "longitude": "102.00128"
+        },
+        {
+            "city": "Khok Pho Chai",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.08375",
+            "longitude": "102.399"
+        },
+        {
+            "city": "Na Wang",
+            "region": "79",
+            "country": "TH",
+            "latitude": "17.32444",
+            "longitude": "102.0783"
+        },
+        {
+            "city": "Suwanna Khuha",
+            "region": "79",
+            "country": "TH",
+            "latitude": "17.56292",
+            "longitude": "102.27989"
+        },
+        {
+            "city": "Ban Phue",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.68742",
+            "longitude": "102.47256"
+        },
+        {
+            "city": "Sangkhom",
+            "region": "17",
+            "country": "TH",
+            "latitude": "18.06389",
+            "longitude": "102.27364"
+        },
+        {
+            "city": "Non Din Daeng",
+            "region": "28",
+            "country": "TH",
+            "latitude": "14.31353",
+            "longitude": "102.74814"
+        },
+        {
+            "city": "Pa Kham",
+            "region": "28",
+            "country": "TH",
+            "latitude": "14.43817",
+            "longitude": "102.72558"
+        },
+        {
+            "city": "Chaloem Phra Kiat",
+            "region": "28",
+            "country": "TH",
+            "latitude": "14.55839",
+            "longitude": "102.92475"
+        },
+        {
+            "city": "Lam Thamen Chai",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.3535",
+            "longitude": "102.91803"
+        },
+        {
+            "city": "Mueang Yang",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.42425",
+            "longitude": "102.89867"
+        },
+        {
+            "city": "Non Daeng",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.41061",
+            "longitude": "102.54025"
+        },
+        {
+            "city": "Pueai Noi",
+            "region": "22",
+            "country": "TH",
+            "latitude": "15.86978",
+            "longitude": "102.90767"
+        },
+        {
+            "city": "Ban Mai Chaiyaphot",
+            "region": "28",
+            "country": "TH",
+            "latitude": "15.57361",
+            "longitude": "102.83331"
+        },
+        {
+            "city": "Non Sila",
+            "region": "22",
+            "country": "TH",
+            "latitude": "15.97439",
+            "longitude": "102.66983"
+        },
+        {
+            "city": "Phra Yuen",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.32378",
+            "longitude": "102.64889"
+        },
+        {
+            "city": "Ubonratana",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.7527",
+            "longitude": "102.63244"
+        },
+        {
+            "city": "Ban Na Muang",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.23824",
+            "longitude": "103.00892"
+        },
+        {
+            "city": "Nong Wua So",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.16261",
+            "longitude": "102.57272"
+        },
+        {
+            "city": "Sa Khrai",
+            "region": "17",
+            "country": "TH",
+            "latitude": "17.67544",
+            "longitude": "102.7507"
+        },
+        {
+            "city": "Phlapphla Chai",
+            "region": "28",
+            "country": "TH",
+            "latitude": "14.73011",
+            "longitude": "103.16728"
+        },
+        {
+            "city": "Satuek",
+            "region": "28",
+            "country": "TH",
+            "latitude": "15.29703",
+            "longitude": "103.29192"
+        },
+        {
+            "city": "Khu Mueang",
+            "region": "28",
+            "country": "TH",
+            "latitude": "15.27114",
+            "longitude": "103.00167"
+        },
+        {
+            "city": "Si Somdet",
+            "region": "25",
+            "country": "TH",
+            "latitude": "15.99797",
+            "longitude": "103.48789"
+        },
+        {
+            "city": "Na Chueak",
+            "region": "24",
+            "country": "TH",
+            "latitude": "15.79911",
+            "longitude": "103.03111"
+        },
+        {
+            "city": "Khong Chai",
+            "region": "23",
+            "country": "TH",
+            "latitude": "16.26025",
+            "longitude": "103.45828"
+        },
+        {
+            "city": "Borabue",
+            "region": "24",
+            "country": "TH",
+            "latitude": "16.03847",
+            "longitude": "103.11906"
+        },
+        {
+            "city": "Huai Mek",
+            "region": "23",
+            "country": "TH",
+            "latitude": "16.58975",
+            "longitude": "103.23547"
+        },
+        {
+            "city": "Chuen Chom",
+            "region": "24",
+            "country": "TH",
+            "latitude": "16.55488",
+            "longitude": "103.17661"
+        },
+        {
+            "city": "Sam Sung",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.5432",
+            "longitude": "103.07992"
+        },
+        {
+            "city": "Ku Kaeo",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.17214",
+            "longitude": "103.15303"
+        },
+        {
+            "city": "Chaiwan",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.28597",
+            "longitude": "103.22256"
+        },
+        {
+            "city": "Phibun Rak",
+            "region": "76",
+            "country": "TH",
+            "latitude": "17.55312",
+            "longitude": "103.05794"
+        },
+        {
+            "city": "Pakkhat",
+            "region": "17",
+            "country": "TH",
+            "latitude": "18.29789",
+            "longitude": "103.30689"
+        },
+        {
+            "city": "Phonphisai",
+            "region": "17",
+            "country": "TH",
+            "latitude": "18.02106",
+            "longitude": "103.07664"
+        },
+        {
+            "city": "Si Narong",
+            "region": "29",
+            "country": "TH",
+            "latitude": "14.76736",
+            "longitude": "103.87392"
+        },
+        {
+            "city": "Non Narai",
+            "region": "29",
+            "country": "TH",
+            "latitude": "15.23764",
+            "longitude": "103.91333"
+        },
+        {
+            "city": "Khwao Sinarin",
+            "region": "29",
+            "country": "TH",
+            "latitude": "15.00244",
+            "longitude": "103.59154"
+        },
+        {
+            "city": "Thung Khao Luang",
+            "region": "25",
+            "country": "TH",
+            "latitude": "15.99397",
+            "longitude": "103.86264"
+        },
+        {
+            "city": "Pho Chai",
+            "region": "25",
+            "country": "TH",
+            "latitude": "16.32336",
+            "longitude": "103.76994"
+        },
+        {
+            "city": "Chiang Khwan",
+            "region": "25",
+            "country": "TH",
+            "latitude": "16.16328",
+            "longitude": "103.75359"
+        },
+        {
+            "city": "Changhan",
+            "region": "25",
+            "country": "TH",
+            "latitude": "16.13872",
+            "longitude": "103.60388"
+        },
+        {
+            "city": "Don Chan",
+            "region": "23",
+            "country": "TH",
+            "latitude": "16.45711",
+            "longitude": "103.69558"
+        },
+        {
+            "city": "Phu Phan",
+            "region": "20",
+            "country": "TH",
+            "latitude": "16.99891",
+            "longitude": "103.97347"
+        },
+        {
+            "city": "Huai Phueng",
+            "region": "23",
+            "country": "TH",
+            "latitude": "16.64633",
+            "longitude": "103.90856"
+        },
+        {
+            "city": "Si Wilai",
+            "region": "17",
+            "country": "TH",
+            "latitude": "18.18188",
+            "longitude": "103.74793"
+        },
+        {
+            "city": "Si Rattana",
+            "region": "30",
+            "country": "TH",
+            "latitude": "14.79328",
+            "longitude": "104.46922"
+        },
+        {
+            "city": "Phu Sing",
+            "region": "30",
+            "country": "TH",
+            "latitude": "14.54744",
+            "longitude": "104.13167"
+        },
+        {
+            "city": "Mueang Chan",
+            "region": "30",
+            "country": "TH",
+            "latitude": "15.16458",
+            "longitude": "104.05286"
+        },
+        {
+            "city": "Pho Si Suwan",
+            "region": "30",
+            "country": "TH",
+            "latitude": "15.22929",
+            "longitude": "104.0767"
+        },
+        {
+            "city": "Bueng Bun",
+            "region": "30",
+            "country": "TH",
+            "latitude": "15.33044",
+            "longitude": "104.04606"
+        },
+        {
+            "city": "Sila Lat",
+            "region": "30",
+            "country": "TH",
+            "latitude": "15.47156",
+            "longitude": "104.07153"
+        },
+        {
+            "city": "Pa Tio",
+            "region": "72",
+            "country": "TH",
+            "latitude": "15.83156",
+            "longitude": "104.38644"
+        },
+        {
+            "city": "Kham Khuean Kaeo",
+            "region": "72",
+            "country": "TH",
+            "latitude": "15.65233",
+            "longitude": "104.30861"
+        },
+        {
+            "city": "Thai Charoen",
+            "region": "72",
+            "country": "TH",
+            "latitude": "16.06645",
+            "longitude": "104.44018"
+        },
+        {
+            "city": "Moeiwadi",
+            "region": "25",
+            "country": "TH",
+            "latitude": "16.38944",
+            "longitude": "104.1572"
+        },
+        {
+            "city": "Phon Na Kaeo",
+            "region": "20",
+            "country": "TH",
+            "latitude": "17.22122",
+            "longitude": "104.28994"
+        },
+        {
+            "city": "Khok Si Suphan",
+            "region": "20",
+            "country": "TH",
+            "latitude": "17.04358",
+            "longitude": "104.27311"
+        },
+        {
+            "city": "Wang Yang",
+            "region": "73",
+            "country": "TH",
+            "latitude": "17.05752",
+            "longitude": "104.45332"
+        },
+        {
+            "city": "Bueng Khong Long",
+            "region": "17",
+            "country": "TH",
+            "latitude": "17.96681",
+            "longitude": "104.04478"
+        },
+        {
+            "city": "Nathom",
+            "region": "73",
+            "country": "TH",
+            "latitude": "17.78536",
+            "longitude": "104.09072"
+        },
+        {
+            "city": "Thung Si Udom",
+            "region": "75",
+            "country": "TH",
+            "latitude": "14.73303",
+            "longitude": "104.90897"
+        },
+        {
+            "city": "Nam Khun",
+            "region": "75",
+            "country": "TH",
+            "latitude": "14.58386",
+            "longitude": "104.92481"
+        },
+        {
+            "city": "Benchalak",
+            "region": "30",
+            "country": "TH",
+            "latitude": "14.79583",
+            "longitude": "104.67017"
+        },
+        {
+            "city": "Lao Suea Kok",
+            "region": "75",
+            "country": "TH",
+            "latitude": "15.40661",
+            "longitude": "104.92358"
+        },
+        {
+            "city": "Pathum Ratchawongsa",
+            "region": "77",
+            "country": "TH",
+            "latitude": "15.89208",
+            "longitude": "104.90611"
+        },
+        {
+            "city": "Lue Amnat",
+            "region": "77",
+            "country": "TH",
+            "latitude": "15.69521",
+            "longitude": "104.64817"
+        },
+        {
+            "city": "Si Mueang Mai",
+            "region": "75",
+            "country": "TH",
+            "latitude": "15.49642",
+            "longitude": "105.27811"
+        },
+        {
+            "city": "Sawang Wirawong",
+            "region": "75",
+            "country": "TH",
+            "latitude": "15.24158",
+            "longitude": "105.0922"
+        },
+        {
+            "city": "Don Mot Daeng",
+            "region": "75",
+            "country": "TH",
+            "latitude": "15.37903",
+            "longitude": "105.02786"
+        },
+        {
+            "city": "Wiang Sa",
+            "region": "60",
+            "country": "TH",
+            "latitude": "8.57565",
+            "longitude": "99.38156"
+        },
+        {
+            "city": "Mae Wang",
+            "region": "02",
+            "country": "TH",
+            "latitude": "18.61604",
+            "longitude": "98.77292"
+        },
+        {
+            "city": "Wang Wiset",
+            "region": "65",
+            "country": "TH",
+            "latitude": "7.73631",
+            "longitude": "99.3987"
+        },
+        {
+            "city": "Si Banphot",
+            "region": "66",
+            "country": "TH",
+            "latitude": "7.72136",
+            "longitude": "99.8843"
+        },
+        {
+            "city": "Thepharak",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.28745",
+            "longitude": "101.57081"
+        },
+        {
+            "city": "Khao Kho",
+            "region": "14",
+            "country": "TH",
+            "latitude": "16.65791",
+            "longitude": "101.02208"
+        },
+        {
+            "city": "Phra Thong Kham",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.26686",
+            "longitude": "102.02024"
+        },
+        {
+            "city": "Wiang Kao",
+            "region": "22",
+            "country": "TH",
+            "latitude": "16.68247",
+            "longitude": "102.28511"
+        },
+        {
+            "city": "Khaen Dong",
+            "region": "28",
+            "country": "TH",
+            "latitude": "15.32476",
+            "longitude": "103.13343"
+        },
+        {
+            "city": "Sirindhorn",
+            "region": "75",
+            "country": "TH",
+            "latitude": "15.20084",
+            "longitude": "105.39222"
+        },
+        {
+            "city": "Nuea Khlong",
+            "region": "63",
+            "country": "TH",
+            "latitude": "8.07144",
+            "longitude": "98.99933"
+        },
+        {
+            "city": "Sida",
+            "region": "27",
+            "country": "TH",
+            "latitude": "15.54994",
+            "longitude": "102.56675"
+        },
+        {
+            "city": "Srinagarindra",
+            "region": "66",
+            "country": "TH",
+            "latitude": "7.56991",
+            "longitude": "99.94353"
+        },
+        {
+            "city": "Sam Chai",
+            "region": "23",
+            "country": "TH",
+            "latitude": "16.86322",
+            "longitude": "103.54106"
+        },
+        {
+            "city": "Dong Charoen",
+            "region": "13",
+            "country": "TH",
+            "latitude": "16.02058",
+            "longitude": "100.66286"
+        },
+        {
+            "city": "Wang Sai Phun",
+            "region": "13",
+            "country": "TH",
+            "latitude": "16.3885",
+            "longitude": "100.53801"
+        },
+        {
+            "city": "Chaem Luang",
+            "region": "02",
+            "country": "TH",
+            "latitude": "19.03193",
+            "longitude": "98.28767"
+        },
+        {
+            "city": "Rattanawapi",
+            "region": "17",
+            "country": "TH",
+            "latitude": "18.21365",
+            "longitude": "103.17967"
+        },
+        {
+            "city": "Hat Samran",
+            "region": "65",
+            "country": "TH",
+            "latitude": "7.24034",
+            "longitude": "99.57621"
+        }
+    ]
+}

@@ -1,0 +1,2099 @@
+{
+    "country": "Peru",
+    "code": "PE",
+    "cities": [
+        {
+            "city": "Zorritos",
+            "region": "24",
+            "country": "PE",
+            "latitude": "-3.66667",
+            "longitude": "-80.66667"
+        },
+        {
+            "city": "Yurimaguas",
+            "region": "16",
+            "country": "PE",
+            "latitude": "-5.9",
+            "longitude": "-76.08333"
+        },
+        {
+            "city": "Yungay",
+            "region": "02",
+            "country": "PE",
+            "latitude": "-9.13833",
+            "longitude": "-77.74361"
+        },
+        {
+            "city": "Yauya",
+            "region": "02",
+            "country": "PE",
+            "latitude": "-8.98333",
+            "longitude": "-77.3"
+        },
+        {
+            "city": "Vir\u00fa",
+            "region": "13",
+            "country": "PE",
+            "latitude": "-8.41667",
+            "longitude": "-78.75"
+        },
+        {
+            "city": "Vice",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-5.41667",
+            "longitude": "-80.78333"
+        },
+        {
+            "city": "Uchiza",
+            "region": "22",
+            "country": "PE",
+            "latitude": "-8.45917",
+            "longitude": "-76.46333"
+        },
+        {
+            "city": "Tumbes",
+            "region": "24",
+            "country": "PE",
+            "latitude": "-3.56667",
+            "longitude": "-80.44139"
+        },
+        {
+            "city": "T\u00facume",
+            "region": "14",
+            "country": "PE",
+            "latitude": "-6.51",
+            "longitude": "-79.85833"
+        },
+        {
+            "city": "Trujillo",
+            "region": "13",
+            "country": "PE",
+            "latitude": "-8.11599",
+            "longitude": "-79.02998"
+        },
+        {
+            "city": "Tocache Nuevo",
+            "region": "22",
+            "country": "PE",
+            "latitude": "-8.18417",
+            "longitude": "-76.5125"
+        },
+        {
+            "city": "Tingo Mar\u00eda",
+            "region": "10",
+            "country": "PE",
+            "latitude": "-9.28951",
+            "longitude": "-76.00876"
+        },
+        {
+            "city": "Tambo Grande",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-4.92694",
+            "longitude": "-80.34472"
+        },
+        {
+            "city": "Talara",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-4.57722",
+            "longitude": "-81.27194"
+        },
+        {
+            "city": "Tabalosos",
+            "region": "22",
+            "country": "PE",
+            "latitude": "-6.35",
+            "longitude": "-76.68333"
+        },
+        {
+            "city": "Sullana",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-4.90389",
+            "longitude": "-80.68528"
+        },
+        {
+            "city": "Soritor",
+            "region": "22",
+            "country": "PE",
+            "latitude": "-6.13917",
+            "longitude": "-77.10389"
+        },
+        {
+            "city": "Sechura",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-5.55694",
+            "longitude": "-80.82222"
+        },
+        {
+            "city": "Saquena",
+            "region": "16",
+            "country": "PE",
+            "latitude": "-4.66667",
+            "longitude": "-73.51667"
+        },
+        {
+            "city": "Saposoa",
+            "region": "22",
+            "country": "PE",
+            "latitude": "-6.93395",
+            "longitude": "-76.77158"
+        },
+        {
+            "city": "Santiago de Chuco",
+            "region": "13",
+            "country": "PE",
+            "latitude": "-8.15",
+            "longitude": "-78.18333"
+        },
+        {
+            "city": "Santiago de Cao",
+            "region": "13",
+            "country": "PE",
+            "latitude": "-7.95889",
+            "longitude": "-79.23917"
+        },
+        {
+            "city": "Santa Rosa",
+            "region": "14",
+            "country": "PE",
+            "latitude": "-6.76667",
+            "longitude": "-79.83333"
+        },
+        {
+            "city": "San Pedro de Lloc",
+            "region": "13",
+            "country": "PE",
+            "latitude": "-7.43278",
+            "longitude": "-79.50583"
+        },
+        {
+            "city": "San Jos\u00e9 de Sisa",
+            "region": "22",
+            "country": "PE",
+            "latitude": "-6.61674",
+            "longitude": "-76.69146"
+        },
+        {
+            "city": "San Jos\u00e9",
+            "region": "14",
+            "country": "PE",
+            "latitude": "-6.7425",
+            "longitude": "-79.82917"
+        },
+        {
+            "city": "San Ignacio",
+            "region": "06",
+            "country": "PE",
+            "latitude": "-5.14583",
+            "longitude": "-79.00139"
+        },
+        {
+            "city": "Za\u00f1a",
+            "region": "14",
+            "country": "PE",
+            "latitude": "-6.92222",
+            "longitude": "-79.58417"
+        },
+        {
+            "city": "Salitral",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-4.85722",
+            "longitude": "-80.68111"
+        },
+        {
+            "city": "Salinera Col\u00e1n",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-5.03333",
+            "longitude": "-81.06667"
+        },
+        {
+            "city": "Salaverry",
+            "region": "13",
+            "country": "PE",
+            "latitude": "-8.23333",
+            "longitude": "-78.96667"
+        },
+        {
+            "city": "Rioja",
+            "region": "22",
+            "country": "PE",
+            "latitude": "-6.05861",
+            "longitude": "-77.165"
+        },
+        {
+            "city": "Reque",
+            "region": "14",
+            "country": "PE",
+            "latitude": "-6.86556",
+            "longitude": "-79.81778"
+        },
+        {
+            "city": "Ram\u00f3n Castilla",
+            "region": "16",
+            "country": "PE",
+            "latitude": "-4.25694",
+            "longitude": "-69.95944"
+        },
+        {
+            "city": "Quiruvilca",
+            "region": "13",
+            "country": "PE",
+            "latitude": "-7.96667",
+            "longitude": "-78.2"
+        },
+        {
+            "city": "Querecotillo",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-4.83778",
+            "longitude": "-80.64556"
+        },
+        {
+            "city": "Puerto Santa",
+            "region": "02",
+            "country": "PE",
+            "latitude": "-8.99056",
+            "longitude": "-78.64556"
+        },
+        {
+            "city": "Pueblo Nuevo",
+            "region": "13",
+            "country": "PE",
+            "latitude": "-7.18806",
+            "longitude": "-79.51528"
+        },
+        {
+            "city": "Pueblo Nuevo",
+            "region": "14",
+            "country": "PE",
+            "latitude": "-5.71667",
+            "longitude": "-79.88333"
+        },
+        {
+            "city": "Pucallpa",
+            "region": "25",
+            "country": "PE",
+            "latitude": "-8.37915",
+            "longitude": "-74.55387"
+        },
+        {
+            "city": "Pomabamba",
+            "region": "02",
+            "country": "PE",
+            "latitude": "-8.83333",
+            "longitude": "-77.46667"
+        },
+        {
+            "city": "Piura",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-5.2",
+            "longitude": "-80.63333"
+        },
+        {
+            "city": "Pimentel",
+            "region": "14",
+            "country": "PE",
+            "latitude": "-6.83667",
+            "longitude": "-79.93417"
+        },
+        {
+            "city": "Picsi",
+            "region": "14",
+            "country": "PE",
+            "latitude": "-6.71778",
+            "longitude": "-79.76972"
+        },
+        {
+            "city": "Picota",
+            "region": "22",
+            "country": "PE",
+            "latitude": "-6.91969",
+            "longitude": "-76.33037"
+        },
+        {
+            "city": "Paita",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-5.08917",
+            "longitude": "-81.11444"
+        },
+        {
+            "city": "Paij\u00e1n",
+            "region": "13",
+            "country": "PE",
+            "latitude": "-7.73333",
+            "longitude": "-79.30222"
+        },
+        {
+            "city": "Pacasmayo",
+            "region": "13",
+            "country": "PE",
+            "latitude": "-7.40056",
+            "longitude": "-79.57139"
+        },
+        {
+            "city": "Pacanga",
+            "region": "13",
+            "country": "PE",
+            "latitude": "-7.16667",
+            "longitude": "-79.5"
+        },
+        {
+            "city": "Oyot\u00fan",
+            "region": "14",
+            "country": "PE",
+            "latitude": "-6.85194",
+            "longitude": "-79.30361"
+        },
+        {
+            "city": "Otuzco",
+            "region": "13",
+            "country": "PE",
+            "latitude": "-7.9",
+            "longitude": "-78.58333"
+        },
+        {
+            "city": "Olmos",
+            "region": "14",
+            "country": "PE",
+            "latitude": "-5.98472",
+            "longitude": "-79.74528"
+        },
+        {
+            "city": "Moyobamba",
+            "region": "22",
+            "country": "PE",
+            "latitude": "-6.05",
+            "longitude": "-76.96667"
+        },
+        {
+            "city": "Motupe",
+            "region": "14",
+            "country": "PE",
+            "latitude": "-6.15194",
+            "longitude": "-79.71417"
+        },
+        {
+            "city": "Morrop\u00f3n",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-5.18222",
+            "longitude": "-79.96889"
+        },
+        {
+            "city": "M\u00f3rrope",
+            "region": "14",
+            "country": "PE",
+            "latitude": "-6.54167",
+            "longitude": "-80.01111"
+        },
+        {
+            "city": "Monsef\u00fa",
+            "region": "14",
+            "country": "PE",
+            "latitude": "-6.87806",
+            "longitude": "-79.87222"
+        },
+        {
+            "city": "Mochum\u00ed",
+            "region": "14",
+            "country": "PE",
+            "latitude": "-6.54694",
+            "longitude": "-79.86306"
+        },
+        {
+            "city": "Moche",
+            "region": "13",
+            "country": "PE",
+            "latitude": "-8.17111",
+            "longitude": "-79.00917"
+        },
+        {
+            "city": "Marcavelica",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-4.87778",
+            "longitude": "-80.70528"
+        },
+        {
+            "city": "M\u00e1ncora",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-4.10778",
+            "longitude": "-81.0475"
+        },
+        {
+            "city": "Llata",
+            "region": "10",
+            "country": "PE",
+            "latitude": "-9.41667",
+            "longitude": "-76.78333"
+        },
+        {
+            "city": "La Uni\u00f3n",
+            "region": "10",
+            "country": "PE",
+            "latitude": "-9.82907",
+            "longitude": "-76.8018"
+        },
+        {
+            "city": "La Uni\u00f3n",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-5.4",
+            "longitude": "-80.75"
+        },
+        {
+            "city": "Las Lomas",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-4.65333",
+            "longitude": "-80.24667"
+        },
+        {
+            "city": "Laredo",
+            "region": "13",
+            "country": "PE",
+            "latitude": "-8.08965",
+            "longitude": "-78.9602"
+        },
+        {
+            "city": "La Peca",
+            "region": "01",
+            "country": "PE",
+            "latitude": "-5.61111",
+            "longitude": "-78.435"
+        },
+        {
+            "city": "Lambayeque",
+            "region": "14",
+            "country": "PE",
+            "latitude": "-6.70111",
+            "longitude": "-79.90611"
+        },
+        {
+            "city": "Lamas",
+            "region": "22",
+            "country": "PE",
+            "latitude": "-6.41667",
+            "longitude": "-76.53333"
+        },
+        {
+            "city": "La Huaca",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-4.91167",
+            "longitude": "-80.96"
+        },
+        {
+            "city": "Lagunas",
+            "region": "16",
+            "country": "PE",
+            "latitude": "-5.22694",
+            "longitude": "-75.67528"
+        },
+        {
+            "city": "Juanju\u00ed",
+            "region": "22",
+            "country": "PE",
+            "latitude": "-7.17785",
+            "longitude": "-76.73135"
+        },
+        {
+            "city": "Jepelacio",
+            "region": "22",
+            "country": "PE",
+            "latitude": "-6.11667",
+            "longitude": "-76.95"
+        },
+        {
+            "city": "Jayanca",
+            "region": "14",
+            "country": "PE",
+            "latitude": "-6.39083",
+            "longitude": "-79.82194"
+        },
+        {
+            "city": "Ja\u00e9n",
+            "region": "06",
+            "country": "PE",
+            "latitude": "-5.70806",
+            "longitude": "-78.80472"
+        },
+        {
+            "city": "Iquitos",
+            "region": "16",
+            "country": "PE",
+            "latitude": "-3.74806",
+            "longitude": "-73.24722"
+        },
+        {
+            "city": "Huicungo",
+            "region": "22",
+            "country": "PE",
+            "latitude": "-7.28333",
+            "longitude": "-76.8"
+        },
+        {
+            "city": "Huaraz",
+            "region": "02",
+            "country": "PE",
+            "latitude": "-9.53333",
+            "longitude": "-77.53333"
+        },
+        {
+            "city": "Hu\u00e1nuco",
+            "region": "10",
+            "country": "PE",
+            "latitude": "-9.9329",
+            "longitude": "-76.24153"
+        },
+        {
+            "city": "Huancabamba",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-5.23861",
+            "longitude": "-79.45056"
+        },
+        {
+            "city": "Huamachuco",
+            "region": "13",
+            "country": "PE",
+            "latitude": "-7.8",
+            "longitude": "-78.06667"
+        },
+        {
+            "city": "Guadalupe",
+            "region": "13",
+            "country": "PE",
+            "latitude": "-7.25",
+            "longitude": "-79.48333"
+        },
+        {
+            "city": "Ferre\u00f1afe",
+            "region": "14",
+            "country": "PE",
+            "latitude": "-6.63889",
+            "longitude": "-79.78889"
+        },
+        {
+            "city": "Eten",
+            "region": "14",
+            "country": "PE",
+            "latitude": "-6.90806",
+            "longitude": "-79.86417"
+        },
+        {
+            "city": "El Alto",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-4.27139",
+            "longitude": "-81.21472"
+        },
+        {
+            "city": "Contamana",
+            "region": "16",
+            "country": "PE",
+            "latitude": "-7.33333",
+            "longitude": "-75.01667"
+        },
+        {
+            "city": "Coishco",
+            "region": "02",
+            "country": "PE",
+            "latitude": "-9.02306",
+            "longitude": "-78.61556"
+        },
+        {
+            "city": "Chulucanas",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-5.0925",
+            "longitude": "-80.1625"
+        },
+        {
+            "city": "Chota",
+            "region": "06",
+            "country": "PE",
+            "latitude": "-6.55",
+            "longitude": "-78.65"
+        },
+        {
+            "city": "Chongoyape",
+            "region": "14",
+            "country": "PE",
+            "latitude": "-6.64056",
+            "longitude": "-79.38917"
+        },
+        {
+            "city": "Chocope",
+            "region": "13",
+            "country": "PE",
+            "latitude": "-7.79139",
+            "longitude": "-79.22167"
+        },
+        {
+            "city": "Chimbote",
+            "region": "02",
+            "country": "PE",
+            "latitude": "-9.08528",
+            "longitude": "-78.57833"
+        },
+        {
+            "city": "Chiclayo",
+            "region": "14",
+            "country": "PE",
+            "latitude": "-6.77361",
+            "longitude": "-79.84167"
+        },
+        {
+            "city": "Chicama",
+            "region": "13",
+            "country": "PE",
+            "latitude": "-7.84472",
+            "longitude": "-79.14694"
+        },
+        {
+            "city": "Chep\u00e9n",
+            "region": "13",
+            "country": "PE",
+            "latitude": "-7.21667",
+            "longitude": "-79.45"
+        },
+        {
+            "city": "Chazuta",
+            "region": "22",
+            "country": "PE",
+            "latitude": "-6.57417",
+            "longitude": "-76.13667"
+        },
+        {
+            "city": "Chachapoyas",
+            "region": "01",
+            "country": "PE",
+            "latitude": "-6.23169",
+            "longitude": "-77.86903"
+        },
+        {
+            "city": "Celend\u00edn",
+            "region": "06",
+            "country": "PE",
+            "latitude": "-6.87028",
+            "longitude": "-78.15167"
+        },
+        {
+            "city": "Catacaos",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-5.26667",
+            "longitude": "-80.68333"
+        },
+        {
+            "city": "Cascas",
+            "region": "06",
+            "country": "PE",
+            "latitude": "-7.48333",
+            "longitude": "-78.81667"
+        },
+        {
+            "city": "Carhuaz",
+            "region": "02",
+            "country": "PE",
+            "latitude": "-9.28194",
+            "longitude": "-77.64472"
+        },
+        {
+            "city": "Car\u00e1s",
+            "region": "02",
+            "country": "PE",
+            "latitude": "-9.04667",
+            "longitude": "-77.81139"
+        },
+        {
+            "city": "Cajaruro",
+            "region": "01",
+            "country": "PE",
+            "latitude": "-5.73639",
+            "longitude": "-78.42556"
+        },
+        {
+            "city": "Cajamarca",
+            "region": "06",
+            "country": "PE",
+            "latitude": "-7.16378",
+            "longitude": "-78.50027"
+        },
+        {
+            "city": "Cajabamba",
+            "region": "06",
+            "country": "PE",
+            "latitude": "-7.61667",
+            "longitude": "-78.05"
+        },
+        {
+            "city": "Buenos Aires",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-5.26083",
+            "longitude": "-79.96417"
+        },
+        {
+            "city": "Bernal",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-5.45",
+            "longitude": "-80.75"
+        },
+        {
+            "city": "Bellavista",
+            "region": "22",
+            "country": "PE",
+            "latitude": "-7.05614",
+            "longitude": "-76.5911"
+        },
+        {
+            "city": "Bellavista",
+            "region": "06",
+            "country": "PE",
+            "latitude": "-5.66417",
+            "longitude": "-78.67722"
+        },
+        {
+            "city": "Barranca",
+            "region": "16",
+            "country": "PE",
+            "latitude": "-4.83333",
+            "longitude": "-76.7"
+        },
+        {
+            "city": "Bambamarca",
+            "region": "06",
+            "country": "PE",
+            "latitude": "-6.68333",
+            "longitude": "-78.53333"
+        },
+        {
+            "city": "Bagua Grande",
+            "region": "01",
+            "country": "PE",
+            "latitude": "-5.75611",
+            "longitude": "-78.44111"
+        },
+        {
+            "city": "Ayabaca",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-4.63983",
+            "longitude": "-79.71491"
+        },
+        {
+            "city": "Ascope",
+            "region": "13",
+            "country": "PE",
+            "latitude": "-7.71444",
+            "longitude": "-79.10778"
+        },
+        {
+            "city": "Aguas Verdes",
+            "region": "24",
+            "country": "PE",
+            "latitude": "-3.48139",
+            "longitude": "-80.245"
+        },
+        {
+            "city": "Campoverde",
+            "region": "25",
+            "country": "PE",
+            "latitude": "-8.47528",
+            "longitude": "-74.80583"
+        },
+        {
+            "city": "La Breita",
+            "region": "20",
+            "country": "PE",
+            "latitude": "-4.26083",
+            "longitude": "-80.8875"
+        },
+        {
+            "city": "Papayal",
+            "region": "24",
+            "country": "PE",
+            "latitude": "-4.07611",
+            "longitude": "-80.73611"
+        },
+        {
+            "city": "Zarumilla",
+            "region": "24",
+            "country": "PE",
+            "latitude": "-3.50306",
+            "longitude": "-80.27306"
+        },
+        {
+            "city": "Yura",
+            "region": "04",
+            "country": "PE",
+            "latitude": "-16.25223",
+            "longitude": "-71.67969"
+        },
+        {
+            "city": "Yunguyo",
+            "region": "21",
+            "country": "PE",
+            "latitude": "-16.25",
+            "longitude": "-69.08333"
+        },
+        {
+            "city": "Yanaoca",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.21806",
+            "longitude": "-71.43167"
+        },
+        {
+            "city": "Yanahuanca",
+            "region": "19",
+            "country": "PE",
+            "latitude": "-10.51667",
+            "longitude": "-76.49861"
+        },
+        {
+            "city": "Yanacancha",
+            "region": "10",
+            "country": "PE",
+            "latitude": "-10.24111",
+            "longitude": "-76.64556"
+        },
+        {
+            "city": "Vizcachane",
+            "region": "04",
+            "country": "PE",
+            "latitude": "-15.80861",
+            "longitude": "-71.20111"
+        },
+        {
+            "city": "Villa Tupac Amaru",
+            "region": "11",
+            "country": "PE",
+            "latitude": "-13.7",
+            "longitude": "-76.15"
+        },
+        {
+            "city": "Villa Rica",
+            "region": "19",
+            "country": "PE",
+            "latitude": "-10.73944",
+            "longitude": "-75.26972"
+        },
+        {
+            "city": "V\u00e9gueta",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-11.02306",
+            "longitude": "-77.64306"
+        },
+        {
+            "city": "Urubamba",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-13.30472",
+            "longitude": "-72.11583"
+        },
+        {
+            "city": "Urcos",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-13.68611",
+            "longitude": "-71.62278"
+        },
+        {
+            "city": "Tungasuca",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.16389",
+            "longitude": "-71.47667"
+        },
+        {
+            "city": "Totoral",
+            "region": "23",
+            "country": "PE",
+            "latitude": "-17.40528",
+            "longitude": "-70.365"
+        },
+        {
+            "city": "Torata",
+            "region": "18",
+            "country": "PE",
+            "latitude": "-17.07694",
+            "longitude": "-70.84333"
+        },
+        {
+            "city": "Tinyahuarco",
+            "region": "19",
+            "country": "PE",
+            "latitude": "-10.75",
+            "longitude": "-76.3"
+        },
+        {
+            "city": "Tinta",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.145",
+            "longitude": "-71.40694"
+        },
+        {
+            "city": "Tarma",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-11.41972",
+            "longitude": "-75.69083"
+        },
+        {
+            "city": "Tarata",
+            "region": "23",
+            "country": "PE",
+            "latitude": "-17.47444",
+            "longitude": "-70.03278"
+        },
+        {
+            "city": "Taquile",
+            "region": "21",
+            "country": "PE",
+            "latitude": "-15.76667",
+            "longitude": "-69.68333"
+        },
+        {
+            "city": "Tambopata",
+            "region": "17",
+            "country": "PE",
+            "latitude": "-12.73333",
+            "longitude": "-69.18333"
+        },
+        {
+            "city": "Tambo",
+            "region": "05",
+            "country": "PE",
+            "latitude": "-14.8",
+            "longitude": "-73.91667"
+        },
+        {
+            "city": "Talavera",
+            "region": "03",
+            "country": "PE",
+            "latitude": "-13.65306",
+            "longitude": "-73.42917"
+        },
+        {
+            "city": "Tacna",
+            "region": "23",
+            "country": "PE",
+            "latitude": "-18.00556",
+            "longitude": "-70.24833"
+        },
+        {
+            "city": "Supe",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-10.8",
+            "longitude": "-77.73333"
+        },
+        {
+            "city": "Subtanjalla",
+            "region": "11",
+            "country": "PE",
+            "latitude": "-14.01889",
+            "longitude": "-75.75806"
+        },
+        {
+            "city": "Sicuani",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.26944",
+            "longitude": "-71.22611"
+        },
+        {
+            "city": "Sicaya",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-12.03333",
+            "longitude": "-75.28333"
+        },
+        {
+            "city": "Say\u00e1n",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-11.13611",
+            "longitude": "-77.19333"
+        },
+        {
+            "city": "Satipo",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-11.25222",
+            "longitude": "-74.63861"
+        },
+        {
+            "city": "San Vicente de Ca\u00f1ete",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-13.07512",
+            "longitude": "-76.38352"
+        },
+        {
+            "city": "Santiago",
+            "region": "11",
+            "country": "PE",
+            "latitude": "-14.18861",
+            "longitude": "-75.71417"
+        },
+        {
+            "city": "Santa Maria",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-12",
+            "longitude": "-76.9"
+        },
+        {
+            "city": "Santa Luc\u00eda",
+            "region": "21",
+            "country": "PE",
+            "latitude": "-15.7",
+            "longitude": "-70.60528"
+        },
+        {
+            "city": "Santa Eulalia",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-11.85",
+            "longitude": "-76.68333"
+        },
+        {
+            "city": "Santa Ana",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-12.86667",
+            "longitude": "-72.71667"
+        },
+        {
+            "city": "San Ram\u00f3n",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-11.12139",
+            "longitude": "-75.35306"
+        },
+        {
+            "city": "San Pedro de Cajas",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-11.25111",
+            "longitude": "-75.86167"
+        },
+        {
+            "city": "San Pablo",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.20278",
+            "longitude": "-71.31556"
+        },
+        {
+            "city": "San Miguel de Cauri",
+            "region": "10",
+            "country": "PE",
+            "latitude": "-10.1",
+            "longitude": "-76.58333"
+        },
+        {
+            "city": "San Miguel",
+            "region": "05",
+            "country": "PE",
+            "latitude": "-13.0125",
+            "longitude": "-73.98083"
+        },
+        {
+            "city": "San Luis",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-12.06667",
+            "longitude": "-77"
+        },
+        {
+            "city": "San Juan Bautista",
+            "region": "11",
+            "country": "PE",
+            "latitude": "-14.01083",
+            "longitude": "-75.73583"
+        },
+        {
+            "city": "San Jer\u00f3nimo",
+            "region": "03",
+            "country": "PE",
+            "latitude": "-13.65028",
+            "longitude": "-73.365"
+        },
+        {
+            "city": "San Jer\u00f3nimo",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-11.94717",
+            "longitude": "-75.28293"
+        },
+        {
+            "city": "San Isidro",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-12.11667",
+            "longitude": "-77.05"
+        },
+        {
+            "city": "San Clemente",
+            "region": "11",
+            "country": "PE",
+            "latitude": "-13.66667",
+            "longitude": "-76.15"
+        },
+        {
+            "city": "San Bartolo",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-12.38333",
+            "longitude": "-76.78333"
+        },
+        {
+            "city": "San Agustin",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-11.99219",
+            "longitude": "-75.24528"
+        },
+        {
+            "city": "R\u00edo Grande",
+            "region": "11",
+            "country": "PE",
+            "latitude": "-14.51972",
+            "longitude": "-75.20139"
+        },
+        {
+            "city": "Ricardo Palma",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-11.91806",
+            "longitude": "-76.66639"
+        },
+        {
+            "city": "Quilman\u00e1",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-12.95",
+            "longitude": "-76.38333"
+        },
+        {
+            "city": "Quilahuani",
+            "region": "23",
+            "country": "PE",
+            "latitude": "-17.31778",
+            "longitude": "-70.25806"
+        },
+        {
+            "city": "Putina",
+            "region": "21",
+            "country": "PE",
+            "latitude": "-15.46667",
+            "longitude": "-69.43333"
+        },
+        {
+            "city": "Puquio",
+            "region": "05",
+            "country": "PE",
+            "latitude": "-14.7",
+            "longitude": "-74.13333"
+        },
+        {
+            "city": "Punta de Bomb\u00f3n",
+            "region": "04",
+            "country": "PE",
+            "latitude": "-17.17167",
+            "longitude": "-71.79306"
+        },
+        {
+            "city": "Puno",
+            "region": "21",
+            "country": "PE",
+            "latitude": "-15.83333",
+            "longitude": "-70.03333"
+        },
+        {
+            "city": "Pujocucho",
+            "region": "23",
+            "country": "PE",
+            "latitude": "-17.15778",
+            "longitude": "-70.35222"
+        },
+        {
+            "city": "Puerto Supe",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-10.81667",
+            "longitude": "-77.75"
+        },
+        {
+            "city": "Puerto Maldonado",
+            "region": "17",
+            "country": "PE",
+            "latitude": "-12.6",
+            "longitude": "-69.18333"
+        },
+        {
+            "city": "Pucara",
+            "region": "04",
+            "country": "PE",
+            "latitude": "-15.98028",
+            "longitude": "-71.46056"
+        },
+        {
+            "city": "Pisco",
+            "region": "11",
+            "country": "PE",
+            "latitude": "-13.7",
+            "longitude": "-76.21667"
+        },
+        {
+            "city": "Pisac",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-13.4225",
+            "longitude": "-71.84667"
+        },
+        {
+            "city": "Pilcomay",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-12.05",
+            "longitude": "-75.26667"
+        },
+        {
+            "city": "Peren\u00e9",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-10.94917",
+            "longitude": "-75.22611"
+        },
+        {
+            "city": "Pativilca",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-10.7",
+            "longitude": "-77.78333"
+        },
+        {
+            "city": "Paramonga",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-10.66667",
+            "longitude": "-77.83333"
+        },
+        {
+            "city": "Paracas",
+            "region": "11",
+            "country": "PE",
+            "latitude": "-13.86667",
+            "longitude": "-76.26667"
+        },
+        {
+            "city": "Pangoa",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-12.11667",
+            "longitude": "-73"
+        },
+        {
+            "city": "Pampas",
+            "region": "09",
+            "country": "PE",
+            "latitude": "-12.4",
+            "longitude": "-74.9"
+        },
+        {
+            "city": "Pampamarca",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.14639",
+            "longitude": "-71.45944"
+        },
+        {
+            "city": "Palpa",
+            "region": "11",
+            "country": "PE",
+            "latitude": "-14.53361",
+            "longitude": "-75.18556"
+        },
+        {
+            "city": "Pacocha",
+            "region": "18",
+            "country": "PE",
+            "latitude": "-17.58333",
+            "longitude": "-71.33333"
+        },
+        {
+            "city": "Oy\u00f3n",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-10.66806",
+            "longitude": "-76.77306"
+        },
+        {
+            "city": "Oxapampa",
+            "region": "19",
+            "country": "PE",
+            "latitude": "-10.5775",
+            "longitude": "-75.40167"
+        },
+        {
+            "city": "Oropesa",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-13.59278",
+            "longitude": "-71.77194"
+        },
+        {
+            "city": "Orcotuna",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-11.96667",
+            "longitude": "-75.33333"
+        },
+        {
+            "city": "Orcopampa",
+            "region": "04",
+            "country": "PE",
+            "latitude": "-15.26611",
+            "longitude": "-72.34167"
+        },
+        {
+            "city": "Ollantaytambo",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-13.25722",
+            "longitude": "-72.26306"
+        },
+        {
+            "city": "\u00d1u\u00f1oa",
+            "region": "21",
+            "country": "PE",
+            "latitude": "-14.48",
+            "longitude": "-70.64111"
+        },
+        {
+            "city": "Nuevo Imperial",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-13.07541",
+            "longitude": "-76.31719"
+        },
+        {
+            "city": "Nicolas de Pierola",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-11.95",
+            "longitude": "-76.7"
+        },
+        {
+            "city": "Nazca",
+            "region": "11",
+            "country": "PE",
+            "latitude": "-14.83333",
+            "longitude": "-74.95"
+        },
+        {
+            "city": "Morococha",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-11.59972",
+            "longitude": "-76.14111"
+        },
+        {
+            "city": "Moquegua",
+            "region": "18",
+            "country": "PE",
+            "latitude": "-17.19556",
+            "longitude": "-70.93528"
+        },
+        {
+            "city": "Mollendo",
+            "region": "04",
+            "country": "PE",
+            "latitude": "-17.02306",
+            "longitude": "-72.01472"
+        },
+        {
+            "city": "Mazamari",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-11.32583",
+            "longitude": "-74.53083"
+        },
+        {
+            "city": "Matucana",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-11.85",
+            "longitude": "-76.4"
+        },
+        {
+            "city": "Minas de Marcona",
+            "region": "11",
+            "country": "PE",
+            "latitude": "-15.21194",
+            "longitude": "-75.11028"
+        },
+        {
+            "city": "Marangan\u00ed",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.35778",
+            "longitude": "-71.16861"
+        },
+        {
+            "city": "Mala",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-12.65806",
+            "longitude": "-76.63083"
+        },
+        {
+            "city": "Macusani",
+            "region": "21",
+            "country": "PE",
+            "latitude": "-14.08333",
+            "longitude": "-70.43333"
+        },
+        {
+            "city": "Los Aquijes",
+            "region": "11",
+            "country": "PE",
+            "latitude": "-14.09667",
+            "longitude": "-75.69083"
+        },
+        {
+            "city": "Lluta",
+            "region": "04",
+            "country": "PE",
+            "latitude": "-16.01472",
+            "longitude": "-72.01417"
+        },
+        {
+            "city": "Lima",
+            "region": "LMA",
+            "country": "PE",
+            "latitude": "-12.04318",
+            "longitude": "-77.02824"
+        },
+        {
+            "city": "Layo",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.49361",
+            "longitude": "-71.155"
+        },
+        {
+            "city": "La Oroya",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-11.51893",
+            "longitude": "-75.89935"
+        },
+        {
+            "city": "Langui",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.43194",
+            "longitude": "-71.27306"
+        },
+        {
+            "city": "Lampa",
+            "region": "21",
+            "country": "PE",
+            "latitude": "-15.35",
+            "longitude": "-70.36667"
+        },
+        {
+            "city": "Jun\u00edn",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-11.15889",
+            "longitude": "-75.99306"
+        },
+        {
+            "city": "Juliaca",
+            "region": "21",
+            "country": "PE",
+            "latitude": "-15.5",
+            "longitude": "-70.13333"
+        },
+        {
+            "city": "Juli",
+            "region": "21",
+            "country": "PE",
+            "latitude": "-16.21667",
+            "longitude": "-69.45"
+        },
+        {
+            "city": "Jauja",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-11.77584",
+            "longitude": "-75.49656"
+        },
+        {
+            "city": "Jatun Orcochiri",
+            "region": "04",
+            "country": "PE",
+            "latitude": "-15.75",
+            "longitude": "-71.34667"
+        },
+        {
+            "city": "Independencia",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-11.99",
+            "longitude": "-77.04583"
+        },
+        {
+            "city": "Imperial",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-13.05927",
+            "longitude": "-76.35269"
+        },
+        {
+            "city": "Ilo",
+            "region": "18",
+            "country": "PE",
+            "latitude": "-17.63944",
+            "longitude": "-71.3375"
+        },
+        {
+            "city": "Ilave",
+            "region": "21",
+            "country": "PE",
+            "latitude": "-16.08333",
+            "longitude": "-69.66667"
+        },
+        {
+            "city": "Ilabaya",
+            "region": "23",
+            "country": "PE",
+            "latitude": "-17.42083",
+            "longitude": "-70.51333"
+        },
+        {
+            "city": "Ica",
+            "region": "11",
+            "country": "PE",
+            "latitude": "-14.06528",
+            "longitude": "-75.73083"
+        },
+        {
+            "city": "Iberia",
+            "region": "17",
+            "country": "PE",
+            "latitude": "-11.35",
+            "longitude": "-69.58333"
+        },
+        {
+            "city": "Huayucachi",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-12.13333",
+            "longitude": "-75.23333"
+        },
+        {
+            "city": "Huaura",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-11.07",
+            "longitude": "-77.59944"
+        },
+        {
+            "city": "Huasahuasi",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-11.31667",
+            "longitude": "-75.61667"
+        },
+        {
+            "city": "Huarmey",
+            "region": "02",
+            "country": "PE",
+            "latitude": "-10.06806",
+            "longitude": "-78.15222"
+        },
+        {
+            "city": "Huaral",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-11.495",
+            "longitude": "-77.20778"
+        },
+        {
+            "city": "Huanta",
+            "region": "05",
+            "country": "PE",
+            "latitude": "-12.93333",
+            "longitude": "-74.25"
+        },
+        {
+            "city": "Huancayo",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-12.06667",
+            "longitude": "-75.23333"
+        },
+        {
+            "city": "Huancavelica",
+            "region": "09",
+            "country": "PE",
+            "latitude": "-12.76667",
+            "longitude": "-74.98333"
+        },
+        {
+            "city": "Hacienda Huancane",
+            "region": "21",
+            "country": "PE",
+            "latitude": "-15.82222",
+            "longitude": "-70.88556"
+        },
+        {
+            "city": "Hualmay",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-11.09639",
+            "longitude": "-77.61389"
+        },
+        {
+            "city": "Huacho",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-11.10667",
+            "longitude": "-77.605"
+        },
+        {
+            "city": "Desaguadero",
+            "region": "21",
+            "country": "PE",
+            "latitude": "-16.56556",
+            "longitude": "-69.04167"
+        },
+        {
+            "city": "Cusco",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-13.51833",
+            "longitude": "-71.97806"
+        },
+        {
+            "city": "Coracora",
+            "region": "05",
+            "country": "PE",
+            "latitude": "-15.03333",
+            "longitude": "-73.78333"
+        },
+        {
+            "city": "Concepci\u00f3n",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-11.91811",
+            "longitude": "-75.31173"
+        },
+        {
+            "city": "Combapata",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.10111",
+            "longitude": "-71.42944"
+        },
+        {
+            "city": "Cocachacra",
+            "region": "04",
+            "country": "PE",
+            "latitude": "-17.08833",
+            "longitude": "-71.7575"
+        },
+        {
+            "city": "Chupaca",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-12.06667",
+            "longitude": "-75.28333"
+        },
+        {
+            "city": "Chosica",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-11.94306",
+            "longitude": "-76.70944"
+        },
+        {
+            "city": "Chivay",
+            "region": "04",
+            "country": "PE",
+            "latitude": "-15.63833",
+            "longitude": "-71.60111"
+        },
+        {
+            "city": "Chipispaya",
+            "region": "23",
+            "country": "PE",
+            "latitude": "-17.49722",
+            "longitude": "-70.21611"
+        },
+        {
+            "city": "Chincha Alta",
+            "region": "11",
+            "country": "PE",
+            "latitude": "-13.40985",
+            "longitude": "-76.13235"
+        },
+        {
+            "city": "Chilca",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-12.52111",
+            "longitude": "-76.73722"
+        },
+        {
+            "city": "Checca",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.47278",
+            "longitude": "-71.39389"
+        },
+        {
+            "city": "Checacupe",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.02694",
+            "longitude": "-71.45278"
+        },
+        {
+            "city": "Chaupimarca",
+            "region": "19",
+            "country": "PE",
+            "latitude": "-10.43333",
+            "longitude": "-76.53333"
+        },
+        {
+            "city": "Chancay",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-11.57139",
+            "longitude": "-77.26722"
+        },
+        {
+            "city": "Cerro de Pasco",
+            "region": "19",
+            "country": "PE",
+            "latitude": "-10.68333",
+            "longitude": "-76.26667"
+        },
+        {
+            "city": "Carhuamayo",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-10.91667",
+            "longitude": "-76.03333"
+        },
+        {
+            "city": "Candarave",
+            "region": "23",
+            "country": "PE",
+            "latitude": "-17.26778",
+            "longitude": "-70.24944"
+        },
+        {
+            "city": "Caman\u00e1",
+            "region": "04",
+            "country": "PE",
+            "latitude": "-16.62278",
+            "longitude": "-72.71111"
+        },
+        {
+            "city": "Callao",
+            "region": "07",
+            "country": "PE",
+            "latitude": "-12.06667",
+            "longitude": "-77.15"
+        },
+        {
+            "city": "Caleta de Carqu\u00edn",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-11.0925",
+            "longitude": "-77.62667"
+        },
+        {
+            "city": "Calca",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-13.33333",
+            "longitude": "-71.95"
+        },
+        {
+            "city": "Barranca",
+            "region": "15",
+            "country": "PE",
+            "latitude": "-10.75",
+            "longitude": "-77.76667"
+        },
+        {
+            "city": "Az\u00e1ngaro",
+            "region": "21",
+            "country": "PE",
+            "latitude": "-14.91667",
+            "longitude": "-70.21667"
+        },
+        {
+            "city": "Ayna",
+            "region": "05",
+            "country": "PE",
+            "latitude": "-12.65",
+            "longitude": "-73.91667"
+        },
+        {
+            "city": "Ayaviri",
+            "region": "21",
+            "country": "PE",
+            "latitude": "-14.88639",
+            "longitude": "-70.58889"
+        },
+        {
+            "city": "Ayacucho",
+            "region": "05",
+            "country": "PE",
+            "latitude": "-13.15833",
+            "longitude": "-74.22389"
+        },
+        {
+            "city": "Atuncolla",
+            "region": "21",
+            "country": "PE",
+            "latitude": "-15.68333",
+            "longitude": "-70.15"
+        },
+        {
+            "city": "Arequipa",
+            "region": "04",
+            "country": "PE",
+            "latitude": "-16.39889",
+            "longitude": "-71.535"
+        },
+        {
+            "city": "Anta",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-13.47056",
+            "longitude": "-72.14833"
+        },
+        {
+            "city": "Andahuaylas",
+            "region": "03",
+            "country": "PE",
+            "latitude": "-13.65556",
+            "longitude": "-73.38722"
+        },
+        {
+            "city": "Ambo",
+            "region": "10",
+            "country": "PE",
+            "latitude": "-10.13083",
+            "longitude": "-76.20472"
+        },
+        {
+            "city": "Acolla",
+            "region": "12",
+            "country": "PE",
+            "latitude": "-11.73193",
+            "longitude": "-75.54634"
+        },
+        {
+            "city": "Acar\u00ed",
+            "region": "04",
+            "country": "PE",
+            "latitude": "-15.43111",
+            "longitude": "-74.61583"
+        },
+        {
+            "city": "Abancay",
+            "region": "03",
+            "country": "PE",
+            "latitude": "-13.63389",
+            "longitude": "-72.88139"
+        },
+        {
+            "city": "Mosoc Llacta",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.12",
+            "longitude": "-71.47278"
+        },
+        {
+            "city": "Santo Tomas",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.44556",
+            "longitude": "-72.08417"
+        },
+        {
+            "city": "Huarancante",
+            "region": "04",
+            "country": "PE",
+            "latitude": "-15.76806",
+            "longitude": "-71.45972"
+        },
+        {
+            "city": "Ccolo",
+            "region": "04",
+            "country": "PE",
+            "latitude": "-15.50583",
+            "longitude": "-71.49167"
+        },
+        {
+            "city": "Huarichancara",
+            "region": "04",
+            "country": "PE",
+            "latitude": "-15.63972",
+            "longitude": "-71.06111"
+        },
+        {
+            "city": "Llongasora",
+            "region": "04",
+            "country": "PE",
+            "latitude": "-15.63917",
+            "longitude": "-71.29972"
+        },
+        {
+            "city": "Jayune",
+            "region": "04",
+            "country": "PE",
+            "latitude": "-15.56333",
+            "longitude": "-71.30306"
+        },
+        {
+            "city": "Chuquitira",
+            "region": "23",
+            "country": "PE",
+            "latitude": "-17.28778",
+            "longitude": "-70.045"
+        },
+        {
+            "city": "Callanca",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.17944",
+            "longitude": "-71.14028"
+        },
+        {
+            "city": "Cullcuyre",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.09333",
+            "longitude": "-71.3325"
+        },
+        {
+            "city": "Cahuanuyo",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.34111",
+            "longitude": "-71.46944"
+        },
+        {
+            "city": "Ccaquiracunca",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.27861",
+            "longitude": "-71.44944"
+        },
+        {
+            "city": "Chignayhua",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.24306",
+            "longitude": "-71.44194"
+        },
+        {
+            "city": "Ccuntuma",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.12611",
+            "longitude": "-71.41111"
+        },
+        {
+            "city": "Lima Pampa",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.08861",
+            "longitude": "-71.33722"
+        },
+        {
+            "city": "Jayobamba",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.09417",
+            "longitude": "-71.33861"
+        },
+        {
+            "city": "Queromarca",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.1825",
+            "longitude": "-71.38444"
+        },
+        {
+            "city": "Qquea",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.05417",
+            "longitude": "-71.38583"
+        },
+        {
+            "city": "Conchopata",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.47111",
+            "longitude": "-71.19806"
+        },
+        {
+            "city": "Mosoc Cancha",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.28444",
+            "longitude": "-71.0725"
+        },
+        {
+            "city": "Huayna Alcalde",
+            "region": "08",
+            "country": "PE",
+            "latitude": "-14.26528",
+            "longitude": "-71.08167"
+        },
+        {
+            "city": "San Pedro De Cachora",
+            "region": "03",
+            "country": "PE",
+            "latitude": "-13.63333",
+            "longitude": "-72.88333"
+        },
+        {
+            "city": "La Rinconada",
+            "region": "21",
+            "country": "PE",
+            "latitude": "-14.63126",
+            "longitude": "-69.44638"
+        }
+    ]
+}

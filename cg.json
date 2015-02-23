@@ -1,0 +1,125 @@
+{
+    "country": "Congo",
+    "code": "CG",
+    "cities": [
+        {
+            "city": "Sibiti",
+            "region": "05",
+            "country": "CG",
+            "latitude": "-3.68583",
+            "longitude": "13.34583"
+        },
+        {
+            "city": "S\u00e9mb\u00e9",
+            "region": "10",
+            "country": "CG",
+            "latitude": "1.64806",
+            "longitude": "14.58056"
+        },
+        {
+            "city": "Pointe-Noire",
+            "region": "7280295",
+            "country": "CG",
+            "latitude": "-4.79472",
+            "longitude": "11.84611"
+        },
+        {
+            "city": "Owando",
+            "region": "13",
+            "country": "CG",
+            "latitude": "-0.48694",
+            "longitude": "15.90806"
+        },
+        {
+            "city": "Ou\u00e9sso",
+            "region": "10",
+            "country": "CG",
+            "latitude": "1.61361",
+            "longitude": "16.05167"
+        },
+        {
+            "city": "Mossendjo",
+            "region": "07",
+            "country": "CG",
+            "latitude": "-2.95056",
+            "longitude": "12.72611"
+        },
+        {
+            "city": "Makoua",
+            "region": "13",
+            "country": "CG",
+            "latitude": "0.00694",
+            "longitude": "15.63333"
+        },
+        {
+            "city": "Madingou",
+            "region": "01",
+            "country": "CG",
+            "latitude": "-4.15361",
+            "longitude": "13.55"
+        },
+        {
+            "city": "Dolisie",
+            "region": "07",
+            "country": "CG",
+            "latitude": "-4.19972",
+            "longitude": "12.67389"
+        },
+        {
+            "city": "Loandjili",
+            "region": "04",
+            "country": "CG",
+            "latitude": "-4.75611",
+            "longitude": "11.85778"
+        },
+        {
+            "city": "Kinkala",
+            "region": "11",
+            "country": "CG",
+            "latitude": "-4.36139",
+            "longitude": "14.76444"
+        },
+        {
+            "city": "Kayes",
+            "region": "01",
+            "country": "CG",
+            "latitude": "-4.16556",
+            "longitude": "13.29278"
+        },
+        {
+            "city": "Impfondo",
+            "region": "06",
+            "country": "CG",
+            "latitude": "1.63806",
+            "longitude": "18.06667"
+        },
+        {
+            "city": "Gamboma",
+            "region": "08",
+            "country": "CG",
+            "latitude": "-1.87639",
+            "longitude": "15.86444"
+        },
+        {
+            "city": "Ewo",
+            "region": "14",
+            "country": "CG",
+            "latitude": "-0.8725",
+            "longitude": "14.82056"
+        },
+        {
+            "city": "Djambala",
+            "region": "08",
+            "country": "CG",
+            "latitude": "-2.54472",
+            "longitude": "14.75333"
+        },
+        {
+            "city": "Brazzaville",
+            "region": "12",
+            "country": "CG",
+            "latitude": "-4.2669",
+            "longitude": "15.28327"
+        }
+    ]
+}

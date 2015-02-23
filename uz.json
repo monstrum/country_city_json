@@ -1,0 +1,1098 @@
+{
+    "country": "Uzbekistan",
+    "code": "UZ",
+    "cities": [
+        {
+            "city": "Nukus",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "42.45306",
+            "longitude": "59.61028"
+        },
+        {
+            "city": "M\u016dynoq",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "43.76833",
+            "longitude": "59.02139"
+        },
+        {
+            "city": "Qanliko\u2019l",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "42.8395",
+            "longitude": "59.00093"
+        },
+        {
+            "city": "Kh\u016djayli",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "42.40043",
+            "longitude": "59.46005"
+        },
+        {
+            "city": "Kegeyli Shahar",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "42.77667",
+            "longitude": "59.60778"
+        },
+        {
+            "city": "Qozonketkan",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "43.01907",
+            "longitude": "59.36425"
+        },
+        {
+            "city": "Oltinko\u2019l",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "43.06874",
+            "longitude": "58.90372"
+        },
+        {
+            "city": "Oqmang\u2019it",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "42.59889",
+            "longitude": "59.53444"
+        },
+        {
+            "city": "Qo\u2019ng\u2019irot Shahri",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "43.05207",
+            "longitude": "58.84596"
+        },
+        {
+            "city": "Xo\u2019jayli Shahri",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "42.40881",
+            "longitude": "59.44544"
+        },
+        {
+            "city": "Chimboy Shahri",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "42.92952",
+            "longitude": "59.78199"
+        },
+        {
+            "city": "Mo\u2019ynoq Shahri",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "43.77877",
+            "longitude": "59.03039"
+        },
+        {
+            "city": "Shumanay Shahri",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "42.63433",
+            "longitude": "58.9306"
+        },
+        {
+            "city": "Zomin",
+            "region": "15",
+            "country": "UZ",
+            "latitude": "39.96056",
+            "longitude": "68.39583"
+        },
+        {
+            "city": "Nishon Tumani",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "38.69395",
+            "longitude": "65.67512"
+        },
+        {
+            "city": "Urgut",
+            "region": "10",
+            "country": "UZ",
+            "latitude": "39.40222",
+            "longitude": "67.24306"
+        },
+        {
+            "city": "Mug\u2019lon Shahar",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "38.91878",
+            "longitude": "65.41217"
+        },
+        {
+            "city": "Tirmiz",
+            "region": "12",
+            "country": "UZ",
+            "latitude": "37.22417",
+            "longitude": "67.27833"
+        },
+        {
+            "city": "Sho\u2019rchi",
+            "region": "12",
+            "country": "UZ",
+            "latitude": "37.99944",
+            "longitude": "67.7875"
+        },
+        {
+            "city": "Shahrisabz",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "39.05778",
+            "longitude": "66.83417"
+        },
+        {
+            "city": "Shohimardon",
+            "region": "03",
+            "country": "UZ",
+            "latitude": "39.98389",
+            "longitude": "71.80278"
+        },
+        {
+            "city": "Samarqand",
+            "region": "10",
+            "country": "UZ",
+            "latitude": "39.65417",
+            "longitude": "66.95972"
+        },
+        {
+            "city": "Romiton",
+            "region": "02",
+            "country": "UZ",
+            "latitude": "39.92944",
+            "longitude": "64.37944"
+        },
+        {
+            "city": "Qarshi",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "38.86667",
+            "longitude": "65.8"
+        },
+        {
+            "city": "Muborak",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "39.25528",
+            "longitude": "65.15278"
+        },
+        {
+            "city": "Yangi Mirishkor",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "38.85143",
+            "longitude": "65.27789"
+        },
+        {
+            "city": "Kitob",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "39.08425",
+            "longitude": "66.83318"
+        },
+        {
+            "city": "Kattaqo\u2019rg\u2019on",
+            "region": "10",
+            "country": "UZ",
+            "latitude": "39.89889",
+            "longitude": "66.25611"
+        },
+        {
+            "city": "Koson",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "39.0375",
+            "longitude": "65.585"
+        },
+        {
+            "city": "Qorovulbozor",
+            "region": "02",
+            "country": "UZ",
+            "latitude": "39.50056",
+            "longitude": "64.79361"
+        },
+        {
+            "city": "Karakul\u2019",
+            "region": "00",
+            "country": "UZ",
+            "latitude": "39.53333",
+            "longitude": "63.83333"
+        },
+        {
+            "city": "Kogon",
+            "region": "02",
+            "country": "UZ",
+            "latitude": "39.72278",
+            "longitude": "64.55167"
+        },
+        {
+            "city": "Ishtixon",
+            "region": "10",
+            "country": "UZ",
+            "latitude": "39.96639",
+            "longitude": "66.48611"
+        },
+        {
+            "city": "G\u2019uzor",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "38.62083",
+            "longitude": "66.24806"
+        },
+        {
+            "city": "Galaosiyo",
+            "region": "02",
+            "country": "UZ",
+            "latitude": "39.85778",
+            "longitude": "64.44833"
+        },
+        {
+            "city": "Juma",
+            "region": "10",
+            "country": "UZ",
+            "latitude": "39.71611",
+            "longitude": "66.66417"
+        },
+        {
+            "city": "Jomboy",
+            "region": "10",
+            "country": "UZ",
+            "latitude": "39.69889",
+            "longitude": "67.09333"
+        },
+        {
+            "city": "Denov",
+            "region": "12",
+            "country": "UZ",
+            "latitude": "38.26667",
+            "longitude": "67.9"
+        },
+        {
+            "city": "Daxbet",
+            "region": "10",
+            "country": "UZ",
+            "latitude": "39.76389",
+            "longitude": "66.9125"
+        },
+        {
+            "city": "Chiroqchi",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "39.03361",
+            "longitude": "66.57222"
+        },
+        {
+            "city": "Chelak",
+            "region": "10",
+            "country": "UZ",
+            "latitude": "39.92028",
+            "longitude": "66.86111"
+        },
+        {
+            "city": "Charxin",
+            "region": "10",
+            "country": "UZ",
+            "latitude": "39.69667",
+            "longitude": "66.76861"
+        },
+        {
+            "city": "Bulung\u2019ur",
+            "region": "10",
+            "country": "UZ",
+            "latitude": "39.76472",
+            "longitude": "67.27139"
+        },
+        {
+            "city": "Buxoro",
+            "region": "02",
+            "country": "UZ",
+            "latitude": "39.77472",
+            "longitude": "64.42861"
+        },
+        {
+            "city": "Beshkent",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "38.82139",
+            "longitude": "65.65306"
+        },
+        {
+            "city": "Boysun",
+            "region": "12",
+            "country": "UZ",
+            "latitude": "38.20611",
+            "longitude": "67.19861"
+        },
+        {
+            "city": "Olot",
+            "region": "02",
+            "country": "UZ",
+            "latitude": "39.415",
+            "longitude": "63.80333"
+        },
+        {
+            "city": "Oqtosh",
+            "region": "10",
+            "country": "UZ",
+            "latitude": "39.92139",
+            "longitude": "65.92528"
+        },
+        {
+            "city": "Qorovulbozor Shahri",
+            "region": "02",
+            "country": "UZ",
+            "latitude": "39.50308",
+            "longitude": "64.81142"
+        },
+        {
+            "city": "Qorashina",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "38.34185",
+            "longitude": "66.56342"
+        },
+        {
+            "city": "Shahrisabz Shahri",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "39.05206",
+            "longitude": "66.82083"
+        },
+        {
+            "city": "Koson Shahri",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "39.04472",
+            "longitude": "65.59082"
+        },
+        {
+            "city": "Kitob Shahri",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "39.12251",
+            "longitude": "66.8757"
+        },
+        {
+            "city": "Muborak Shahri",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "39.25778",
+            "longitude": "65.15674"
+        },
+        {
+            "city": "Beshkent Shahri",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "38.81107",
+            "longitude": "65.64246"
+        },
+        {
+            "city": "G\u2018uzor Shahri",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "38.62596",
+            "longitude": "66.24515"
+        },
+        {
+            "city": "Qamashi Shahri",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "38.81998",
+            "longitude": "66.46441"
+        },
+        {
+            "city": "Chiroqchi Shahri",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "39.02727",
+            "longitude": "66.58084"
+        },
+        {
+            "city": "Yakkabog\u2019 Shahri",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "38.97664",
+            "longitude": "66.68867"
+        },
+        {
+            "city": "Yangi-Nishon Shahri",
+            "region": "08",
+            "country": "UZ",
+            "latitude": "38.64501",
+            "longitude": "65.68952"
+        },
+        {
+            "city": "Zafar",
+            "region": "00",
+            "country": "UZ",
+            "latitude": "40.98333",
+            "longitude": "68.9"
+        },
+        {
+            "city": "Yaypan",
+            "region": "03",
+            "country": "UZ",
+            "latitude": "40.37583",
+            "longitude": "70.81556"
+        },
+        {
+            "city": "Yangiy\u016dl",
+            "region": "14",
+            "country": "UZ",
+            "latitude": "41.11202",
+            "longitude": "69.0471"
+        },
+        {
+            "city": "Yangiyer",
+            "region": "16",
+            "country": "UZ",
+            "latitude": "40.275",
+            "longitude": "68.8225"
+        },
+        {
+            "city": "Yangirabot",
+            "region": "07",
+            "country": "UZ",
+            "latitude": "40.02539",
+            "longitude": "65.96095"
+        },
+        {
+            "city": "Yangiqo\u2018rg\u2018on",
+            "region": "06",
+            "country": "UZ",
+            "latitude": "41.18722",
+            "longitude": "71.73333"
+        },
+        {
+            "city": "Yangiobod",
+            "region": "14",
+            "country": "UZ",
+            "latitude": "41.11919",
+            "longitude": "70.09406"
+        },
+        {
+            "city": "Wobkent",
+            "region": "02",
+            "country": "UZ",
+            "latitude": "40.03028",
+            "longitude": "64.515"
+        },
+        {
+            "city": "Uychi",
+            "region": "06",
+            "country": "UZ",
+            "latitude": "41.08073",
+            "longitude": "71.92331"
+        },
+        {
+            "city": "\u016crtaowul",
+            "region": "14",
+            "country": "UZ",
+            "latitude": "41.18667",
+            "longitude": "69.14528"
+        },
+        {
+            "city": "Urganch",
+            "region": "05",
+            "country": "UZ",
+            "latitude": "41.55",
+            "longitude": "60.63333"
+        },
+        {
+            "city": "Dashtobod",
+            "region": "15",
+            "country": "UZ",
+            "latitude": "40.12694",
+            "longitude": "68.49444"
+        },
+        {
+            "city": "Uchq\u016drghon",
+            "region": "06",
+            "country": "UZ",
+            "latitude": "41.11816",
+            "longitude": "72.0985"
+        },
+        {
+            "city": "T\u016dytepa",
+            "region": "14",
+            "country": "UZ",
+            "latitude": "41.0321",
+            "longitude": "69.36253"
+        },
+        {
+            "city": "T\u016drag\u016drghon",
+            "region": "06",
+            "country": "UZ",
+            "latitude": "40.99984",
+            "longitude": "71.51162"
+        },
+        {
+            "city": "Toshloq",
+            "region": "03",
+            "country": "UZ",
+            "latitude": "40.47722",
+            "longitude": "71.76778"
+        },
+        {
+            "city": "Tashkent",
+            "region": "13",
+            "country": "UZ",
+            "latitude": "41.26465",
+            "longitude": "69.21627"
+        },
+        {
+            "city": "Toshbuloq",
+            "region": "06",
+            "country": "UZ",
+            "latitude": "40.92339",
+            "longitude": "71.57214"
+        },
+        {
+            "city": "Tomdibuloq",
+            "region": "07",
+            "country": "UZ",
+            "latitude": "41.7508",
+            "longitude": "64.61711"
+        },
+        {
+            "city": "Taxtako\u2019pir",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "43.01171",
+            "longitude": "60.30111"
+        },
+        {
+            "city": "Sirdaryo",
+            "region": "16",
+            "country": "UZ",
+            "latitude": "40.84361",
+            "longitude": "68.66167"
+        },
+        {
+            "city": "Showot",
+            "region": "05",
+            "country": "UZ",
+            "latitude": "41.65583",
+            "longitude": "60.3025"
+        },
+        {
+            "city": "Shofirkon",
+            "region": "02",
+            "country": "UZ",
+            "latitude": "40.12",
+            "longitude": "64.50139"
+        },
+        {
+            "city": "Salor",
+            "region": "14",
+            "country": "UZ",
+            "latitude": "41.37222",
+            "longitude": "69.38167"
+        },
+        {
+            "city": "Q\u016dshk\u016dpir",
+            "region": "05",
+            "country": "UZ",
+            "latitude": "41.535",
+            "longitude": "60.34556"
+        },
+        {
+            "city": "Qo\u2018qon",
+            "region": "03",
+            "country": "UZ",
+            "latitude": "40.52861",
+            "longitude": "70.9425"
+        },
+        {
+            "city": "Piskent",
+            "region": "14",
+            "country": "UZ",
+            "latitude": "40.89722",
+            "longitude": "69.35056"
+        },
+        {
+            "city": "Payshanba",
+            "region": "10",
+            "country": "UZ",
+            "latitude": "40.00778",
+            "longitude": "66.23694"
+        },
+        {
+            "city": "Parkent",
+            "region": "14",
+            "country": "UZ",
+            "latitude": "41.29444",
+            "longitude": "69.67639"
+        },
+        {
+            "city": "Pop",
+            "region": "06",
+            "country": "UZ",
+            "latitude": "40.87361",
+            "longitude": "71.10889"
+        },
+        {
+            "city": "Paxtakor",
+            "region": "15",
+            "country": "UZ",
+            "latitude": "40.31528",
+            "longitude": "67.95444"
+        },
+        {
+            "city": "Olmaliq",
+            "region": "14",
+            "country": "UZ",
+            "latitude": "40.84472",
+            "longitude": "69.59833"
+        },
+        {
+            "city": "Ohangaron",
+            "region": "14",
+            "country": "UZ",
+            "latitude": "40.90639",
+            "longitude": "69.63833"
+        },
+        {
+            "city": "Nurota",
+            "region": "07",
+            "country": "UZ",
+            "latitude": "40.56139",
+            "longitude": "65.68861"
+        },
+        {
+            "city": "Novyy Turtkul\u2019",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "41.55",
+            "longitude": "61.01667"
+        },
+        {
+            "city": "Navoiy",
+            "region": "07",
+            "country": "UZ",
+            "latitude": "40.08444",
+            "longitude": "65.37917"
+        },
+        {
+            "city": "Namangan",
+            "region": "06",
+            "country": "UZ",
+            "latitude": "40.9983",
+            "longitude": "71.67257"
+        },
+        {
+            "city": "Marhamat",
+            "region": "01",
+            "country": "UZ",
+            "latitude": "40.48",
+            "longitude": "72.31389"
+        },
+        {
+            "city": "Marg\u2018ilon",
+            "region": "03",
+            "country": "UZ",
+            "latitude": "40.47111",
+            "longitude": "71.72472"
+        },
+        {
+            "city": "Manghit",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "42.11556",
+            "longitude": "60.05972"
+        },
+        {
+            "city": "Asaka",
+            "region": "01",
+            "country": "UZ",
+            "latitude": "40.64139",
+            "longitude": "72.23722"
+        },
+        {
+            "city": "Qiziltepa",
+            "region": "07",
+            "country": "UZ",
+            "latitude": "40.03306",
+            "longitude": "64.85"
+        },
+        {
+            "city": "Quvasoy",
+            "region": "03",
+            "country": "UZ",
+            "latitude": "40.30222",
+            "longitude": "71.97444"
+        },
+        {
+            "city": "Q\u016drghontepa",
+            "region": "01",
+            "country": "UZ",
+            "latitude": "40.72667",
+            "longitude": "72.75917"
+        },
+        {
+            "city": "Komsomol\u2019skiy",
+            "region": "03",
+            "country": "UZ",
+            "latitude": "40.42722",
+            "longitude": "71.71889"
+        },
+        {
+            "city": "Kirgili",
+            "region": "03",
+            "country": "UZ",
+            "latitude": "40.43583",
+            "longitude": "71.76722"
+        },
+        {
+            "city": "Qibray",
+            "region": "14",
+            "country": "UZ",
+            "latitude": "41.38972",
+            "longitude": "69.465"
+        },
+        {
+            "city": "Kh\u016djaobod",
+            "region": "01",
+            "country": "UZ",
+            "latitude": "40.66944",
+            "longitude": "72.55972"
+        },
+        {
+            "city": "Khiwa",
+            "region": "05",
+            "country": "UZ",
+            "latitude": "41.37833",
+            "longitude": "60.36389"
+        },
+        {
+            "city": "Hamza",
+            "region": "03",
+            "country": "UZ",
+            "latitude": "40.42639",
+            "longitude": "71.49556"
+        },
+        {
+            "city": "Haqqulobod",
+            "region": "06",
+            "country": "UZ",
+            "latitude": "40.91667",
+            "longitude": "72.11667"
+        },
+        {
+            "city": "Kosonsoy",
+            "region": "06",
+            "country": "UZ",
+            "latitude": "41.25611",
+            "longitude": "71.55083"
+        },
+        {
+            "city": "Qorao\u2019zak",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "43.02207",
+            "longitude": "60.01701"
+        },
+        {
+            "city": "Konimex",
+            "region": "07",
+            "country": "UZ",
+            "latitude": "40.27593",
+            "longitude": "65.14511"
+        },
+        {
+            "city": "Jizzax",
+            "region": "15",
+            "country": "UZ",
+            "latitude": "40.11583",
+            "longitude": "67.84222"
+        },
+        {
+            "city": "Iskandar",
+            "region": "14",
+            "country": "UZ",
+            "latitude": "41.55389",
+            "longitude": "69.70083"
+        },
+        {
+            "city": "Hazorasp",
+            "region": "05",
+            "country": "UZ",
+            "latitude": "41.31944",
+            "longitude": "61.07417"
+        },
+        {
+            "city": "Gurlan",
+            "region": "05",
+            "country": "UZ",
+            "latitude": "41.84472",
+            "longitude": "60.39194"
+        },
+        {
+            "city": "Guliston",
+            "region": "16",
+            "country": "UZ",
+            "latitude": "40.48972",
+            "longitude": "68.78417"
+        },
+        {
+            "city": "Ghijduwon",
+            "region": "02",
+            "country": "UZ",
+            "latitude": "40.1",
+            "longitude": "64.68333"
+        },
+        {
+            "city": "Gazli",
+            "region": "02",
+            "country": "UZ",
+            "latitude": "40.13333",
+            "longitude": "63.45"
+        },
+        {
+            "city": "G\u2018azalkent",
+            "region": "14",
+            "country": "UZ",
+            "latitude": "41.55806",
+            "longitude": "69.77083"
+        },
+        {
+            "city": "Gagarin",
+            "region": "15",
+            "country": "UZ",
+            "latitude": "40.66194",
+            "longitude": "68.17222"
+        },
+        {
+            "city": "Farg`ona",
+            "region": "03",
+            "country": "UZ",
+            "latitude": "40.38421",
+            "longitude": "71.78432"
+        },
+        {
+            "city": "D\u016dstlik",
+            "region": "15",
+            "country": "UZ",
+            "latitude": "40.52472",
+            "longitude": "68.03583"
+        },
+        {
+            "city": "Chust Shahri",
+            "region": "06",
+            "country": "UZ",
+            "latitude": "41.00936",
+            "longitude": "71.2287"
+        },
+        {
+            "city": "Chirchiq",
+            "region": "14",
+            "country": "UZ",
+            "latitude": "41.46889",
+            "longitude": "69.58222"
+        },
+        {
+            "city": "Chinoz",
+            "region": "14",
+            "country": "UZ",
+            "latitude": "40.93639",
+            "longitude": "68.76972"
+        },
+        {
+            "city": "Kyzyldzhar",
+            "region": "00",
+            "country": "UZ",
+            "latitude": "41.56667",
+            "longitude": "70.01667"
+        },
+        {
+            "city": "Chortoq",
+            "region": "06",
+            "country": "UZ",
+            "latitude": "41.06656",
+            "longitude": "71.85527"
+        },
+        {
+            "city": "B\u016dka",
+            "region": "14",
+            "country": "UZ",
+            "latitude": "40.81083",
+            "longitude": "69.19861"
+        },
+        {
+            "city": "Beshrabot",
+            "region": "07",
+            "country": "UZ",
+            "latitude": "40.19761",
+            "longitude": "65.33528"
+        },
+        {
+            "city": "Beshariq",
+            "region": "03",
+            "country": "UZ",
+            "latitude": "40.43583",
+            "longitude": "70.61028"
+        },
+        {
+            "city": "Beruniy",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "41.69111",
+            "longitude": "60.7525"
+        },
+        {
+            "city": "Bektemir",
+            "region": "13",
+            "country": "UZ",
+            "latitude": "41.20972",
+            "longitude": "69.33417"
+        },
+        {
+            "city": "Bekobod",
+            "region": "14",
+            "country": "UZ",
+            "latitude": "40.22083",
+            "longitude": "69.26972"
+        },
+        {
+            "city": "Angren",
+            "region": "14",
+            "country": "UZ",
+            "latitude": "41.01667",
+            "longitude": "70.14361"
+        },
+        {
+            "city": "Andijon",
+            "region": "01",
+            "country": "UZ",
+            "latitude": "40.78306",
+            "longitude": "72.34389"
+        },
+        {
+            "city": "Oltiariq",
+            "region": "03",
+            "country": "UZ",
+            "latitude": "40.39194",
+            "longitude": "71.47417"
+        },
+        {
+            "city": "Quva",
+            "region": "03",
+            "country": "UZ",
+            "latitude": "40.52361",
+            "longitude": "72.06167"
+        },
+        {
+            "city": "Beruniy Shahri",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "41.69904",
+            "longitude": "60.75501"
+        },
+        {
+            "city": "To\u2019rtko\u2019l Shahri",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "41.56055",
+            "longitude": "61.0018"
+        },
+        {
+            "city": "Bo\u2019ston Shahri",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "41.84607",
+            "longitude": "60.94744"
+        },
+        {
+            "city": "Mang\u2019it Shahri",
+            "region": "09",
+            "country": "UZ",
+            "latitude": "42.12215",
+            "longitude": "60.06276"
+        },
+        {
+            "city": "Navoiy Shahri",
+            "region": "07",
+            "country": "UZ",
+            "latitude": "40.09294",
+            "longitude": "65.3712"
+        },
+        {
+            "city": "Uchquduq Shahri",
+            "region": "07",
+            "country": "UZ",
+            "latitude": "42.15001",
+            "longitude": "63.55221"
+        },
+        {
+            "city": "Karmana Shahri",
+            "region": "07",
+            "country": "UZ",
+            "latitude": "40.13782",
+            "longitude": "65.37545"
+        },
+        {
+            "city": "Qiziltepa Shahri",
+            "region": "07",
+            "country": "UZ",
+            "latitude": "40.0254",
+            "longitude": "64.82885"
+        },
+        {
+            "city": "Nurota Shahri",
+            "region": "07",
+            "country": "UZ",
+            "latitude": "40.56762",
+            "longitude": "65.67947"
+        },
+        {
+            "city": "Namangan Shahri",
+            "region": "06",
+            "country": "UZ",
+            "latitude": "40.99426",
+            "longitude": "71.66092"
+        },
+        {
+            "city": "Kosonsoy Shahri",
+            "region": "06",
+            "country": "UZ",
+            "latitude": "41.26327",
+            "longitude": "71.54239"
+        },
+        {
+            "city": "Uchq\u016drghon Shahri",
+            "region": "06",
+            "country": "UZ",
+            "latitude": "41.11278",
+            "longitude": "72.07889"
+        },
+        {
+            "city": "Chortoq Shahri",
+            "region": "06",
+            "country": "UZ",
+            "latitude": "41.07703",
+            "longitude": "71.81772"
+        },
+        {
+            "city": "Haqqulobod Shahri",
+            "region": "06",
+            "country": "UZ",
+            "latitude": "40.91537",
+            "longitude": "72.11659"
+        },
+        {
+            "city": "Pop Shahri",
+            "region": "06",
+            "country": "UZ",
+            "latitude": "40.87642",
+            "longitude": "71.1022"
+        },
+        {
+            "city": "T\u016drag\u016drghon Shahri",
+            "region": "06",
+            "country": "UZ",
+            "latitude": "41.00334",
+            "longitude": "71.51056"
+        }
+    ]
+}

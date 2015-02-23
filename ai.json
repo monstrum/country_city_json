@@ -1,0 +1,20 @@
+{
+    "country": "Anguilla",
+    "code": "AI",
+    "cities": [
+        {
+            "city": "The Valley",
+            "region": "00",
+            "country": "AI",
+            "latitude": "18.21704",
+            "longitude": "-63.05783"
+        },
+        {
+            "city": "Stoney Ground",
+            "region": "00",
+            "country": "AI",
+            "latitude": "18.21667",
+            "longitude": "-63.03333"
+        }
+    ]
+}

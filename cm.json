@@ -1,0 +1,867 @@
+{
+    "country": "Cameroon",
+    "code": "CM",
+    "cities": [
+        {
+            "city": "Yoko",
+            "region": "11",
+            "country": "CM",
+            "latitude": "5.53333",
+            "longitude": "12.31667"
+        },
+        {
+            "city": "Yokadouma",
+            "region": "04",
+            "country": "CM",
+            "latitude": "3.51667",
+            "longitude": "15.05"
+        },
+        {
+            "city": "Yaound\u00e9",
+            "region": "11",
+            "country": "CM",
+            "latitude": "3.86667",
+            "longitude": "11.51667"
+        },
+        {
+            "city": "Yagoua",
+            "region": "12",
+            "country": "CM",
+            "latitude": "10.34107",
+            "longitude": "15.23288"
+        },
+        {
+            "city": "Yabassi",
+            "region": "05",
+            "country": "CM",
+            "latitude": "4.45697",
+            "longitude": "9.96822"
+        },
+        {
+            "city": "Wum",
+            "region": "07",
+            "country": "CM",
+            "latitude": "6.38333",
+            "longitude": "10.06667"
+        },
+        {
+            "city": "Tonga",
+            "region": "08",
+            "country": "CM",
+            "latitude": "4.96667",
+            "longitude": "10.7"
+        },
+        {
+            "city": "Tiko",
+            "region": "09",
+            "country": "CM",
+            "latitude": "4.0745",
+            "longitude": "9.3699"
+        },
+        {
+            "city": "Tign\u00e8re",
+            "region": "10",
+            "country": "CM",
+            "latitude": "7.36667",
+            "longitude": "12.65"
+        },
+        {
+            "city": "Tibati",
+            "region": "10",
+            "country": "CM",
+            "latitude": "6.46667",
+            "longitude": "12.63333"
+        },
+        {
+            "city": "Tchollir\u00e9",
+            "region": "13",
+            "country": "CM",
+            "latitude": "8.4022",
+            "longitude": "14.1698"
+        },
+        {
+            "city": "Sangm\u00e9lima",
+            "region": "14",
+            "country": "CM",
+            "latitude": "2.93333",
+            "longitude": "11.98333"
+        },
+        {
+            "city": "Saa",
+            "region": "11",
+            "country": "CM",
+            "latitude": "4.36667",
+            "longitude": "11.45"
+        },
+        {
+            "city": "Rey Bouba",
+            "region": "13",
+            "country": "CM",
+            "latitude": "8.6724",
+            "longitude": "14.1786"
+        },
+        {
+            "city": "Poli",
+            "region": "13",
+            "country": "CM",
+            "latitude": "8.48333",
+            "longitude": "13.25"
+        },
+        {
+            "city": "Pitoa",
+            "region": "13",
+            "country": "CM",
+            "latitude": "9.38333",
+            "longitude": "13.53333"
+        },
+        {
+            "city": "Penja",
+            "region": "05",
+            "country": "CM",
+            "latitude": "4.63911",
+            "longitude": "9.67987"
+        },
+        {
+            "city": "Omb\u00e9sa",
+            "region": "11",
+            "country": "CM",
+            "latitude": "4.6",
+            "longitude": "11.25"
+        },
+        {
+            "city": "Okola",
+            "region": "11",
+            "country": "CM",
+            "latitude": "4.01667",
+            "longitude": "11.38333"
+        },
+        {
+            "city": "Okoa",
+            "region": "11",
+            "country": "CM",
+            "latitude": "3.98333",
+            "longitude": "11.6"
+        },
+        {
+            "city": "Obala",
+            "region": "11",
+            "country": "CM",
+            "latitude": "4.16667",
+            "longitude": "11.53333"
+        },
+        {
+            "city": "Ntui",
+            "region": "11",
+            "country": "CM",
+            "latitude": "4.45",
+            "longitude": "11.63333"
+        },
+        {
+            "city": "Nkoteng",
+            "region": "11",
+            "country": "CM",
+            "latitude": "4.51667",
+            "longitude": "12.03333"
+        },
+        {
+            "city": "Nkongsamba",
+            "region": "05",
+            "country": "CM",
+            "latitude": "4.9547",
+            "longitude": "9.9404"
+        },
+        {
+            "city": "Njinikom",
+            "region": "07",
+            "country": "CM",
+            "latitude": "6.23333",
+            "longitude": "10.28333"
+        },
+        {
+            "city": "Nguti",
+            "region": "09",
+            "country": "CM",
+            "latitude": "5.3299",
+            "longitude": "9.4185"
+        },
+        {
+            "city": "Ngoro",
+            "region": "11",
+            "country": "CM",
+            "latitude": "4.95",
+            "longitude": "11.38333"
+        },
+        {
+            "city": "Ngomedzap",
+            "region": "11",
+            "country": "CM",
+            "latitude": "3.25",
+            "longitude": "11.2"
+        },
+        {
+            "city": "Ngaound\u00e9r\u00e9",
+            "region": "10",
+            "country": "CM",
+            "latitude": "7.31667",
+            "longitude": "13.58333"
+        },
+        {
+            "city": "Ngamb\u00e9",
+            "region": "05",
+            "country": "CM",
+            "latitude": "4.23333",
+            "longitude": "10.61667"
+        },
+        {
+            "city": "Ndikinim\u00e9ki",
+            "region": "11",
+            "country": "CM",
+            "latitude": "4.76667",
+            "longitude": "10.83333"
+        },
+        {
+            "city": "Alte Fakt Delele",
+            "region": "04",
+            "country": "CM",
+            "latitude": "4.03333",
+            "longitude": "14.93333"
+        },
+        {
+            "city": "Nanga Eboko",
+            "region": "11",
+            "country": "CM",
+            "latitude": "4.68333",
+            "longitude": "12.36667"
+        },
+        {
+            "city": "Mvangu\u00e9",
+            "region": "14",
+            "country": "CM",
+            "latitude": "2.96667",
+            "longitude": "11.51667"
+        },
+        {
+            "city": "Muyuka",
+            "region": "09",
+            "country": "CM",
+            "latitude": "4.2898",
+            "longitude": "9.4103"
+        },
+        {
+            "city": "Mutengene",
+            "region": "09",
+            "country": "CM",
+            "latitude": "4.0913",
+            "longitude": "9.3144"
+        },
+        {
+            "city": "Mundemba",
+            "region": "09",
+            "country": "CM",
+            "latitude": "4.9479",
+            "longitude": "8.8724"
+        },
+        {
+            "city": "Mouanko",
+            "region": "05",
+            "country": "CM",
+            "latitude": "3.63972",
+            "longitude": "9.77694"
+        },
+        {
+            "city": "Mora",
+            "region": "12",
+            "country": "CM",
+            "latitude": "11.04611",
+            "longitude": "14.14011"
+        },
+        {
+            "city": "Mokolo",
+            "region": "12",
+            "country": "CM",
+            "latitude": "10.73978",
+            "longitude": "13.80188"
+        },
+        {
+            "city": "Mme-Bafumen",
+            "region": "07",
+            "country": "CM",
+            "latitude": "6.33333",
+            "longitude": "10.23333"
+        },
+        {
+            "city": "Minta",
+            "region": "11",
+            "country": "CM",
+            "latitude": "4.58333",
+            "longitude": "12.8"
+        },
+        {
+            "city": "Mindif",
+            "region": "12",
+            "country": "CM",
+            "latitude": "10.39757",
+            "longitude": "14.43626"
+        },
+        {
+            "city": "Melong",
+            "region": "05",
+            "country": "CM",
+            "latitude": "5.1218",
+            "longitude": "9.96143"
+        },
+        {
+            "city": "Me\u00efganga",
+            "region": "10",
+            "country": "CM",
+            "latitude": "6.51667",
+            "longitude": "14.3"
+        },
+        {
+            "city": "Mbouda",
+            "region": "08",
+            "country": "CM",
+            "latitude": "5.62578",
+            "longitude": "10.25517"
+        },
+        {
+            "city": "Mbengwi",
+            "region": "07",
+            "country": "CM",
+            "latitude": "6.01667",
+            "longitude": "10"
+        },
+        {
+            "city": "Mbankomo",
+            "region": "11",
+            "country": "CM",
+            "latitude": "3.78333",
+            "longitude": "11.38333"
+        },
+        {
+            "city": "Mbanga",
+            "region": "05",
+            "country": "CM",
+            "latitude": "4.5016",
+            "longitude": "9.5671"
+        },
+        {
+            "city": "Mbang",
+            "region": "04",
+            "country": "CM",
+            "latitude": "4.58333",
+            "longitude": "13.33333"
+        },
+        {
+            "city": "Mbandjok",
+            "region": "11",
+            "country": "CM",
+            "latitude": "4.45",
+            "longitude": "11.9"
+        },
+        {
+            "city": "Mbalmayo",
+            "region": "11",
+            "country": "CM",
+            "latitude": "3.51667",
+            "longitude": "11.5"
+        },
+        {
+            "city": "Maroua",
+            "region": "12",
+            "country": "CM",
+            "latitude": "10.59095",
+            "longitude": "14.31592"
+        },
+        {
+            "city": "Manjo",
+            "region": "05",
+            "country": "CM",
+            "latitude": "4.8428",
+            "longitude": "9.8217"
+        },
+        {
+            "city": "Mamfe",
+            "region": "09",
+            "country": "CM",
+            "latitude": "5.754",
+            "longitude": "9.3123"
+        },
+        {
+            "city": "Makary",
+            "region": "12",
+            "country": "CM",
+            "latitude": "12.5717",
+            "longitude": "14.46662"
+        },
+        {
+            "city": "Loum",
+            "region": "05",
+            "country": "CM",
+            "latitude": "4.7182",
+            "longitude": "9.7351"
+        },
+        {
+            "city": "Lolodorf",
+            "region": "14",
+            "country": "CM",
+            "latitude": "3.23333",
+            "longitude": "10.73333"
+        },
+        {
+            "city": "Limbe",
+            "region": "09",
+            "country": "CM",
+            "latitude": "4.0242",
+            "longitude": "9.2149"
+        },
+        {
+            "city": "Lagdo",
+            "region": "13",
+            "country": "CM",
+            "latitude": "9.05",
+            "longitude": "13.73333"
+        },
+        {
+            "city": "Kumbo",
+            "region": "07",
+            "country": "CM",
+            "latitude": "6.2",
+            "longitude": "10.66667"
+        },
+        {
+            "city": "Kumba",
+            "region": "09",
+            "country": "CM",
+            "latitude": "4.6363",
+            "longitude": "9.4469"
+        },
+        {
+            "city": "Kribi",
+            "region": "14",
+            "country": "CM",
+            "latitude": "2.95",
+            "longitude": "9.91667"
+        },
+        {
+            "city": "Koza",
+            "region": "12",
+            "country": "CM",
+            "latitude": "10.87079",
+            "longitude": "13.87855"
+        },
+        {
+            "city": "Kouss\u00e9ri",
+            "region": "12",
+            "country": "CM",
+            "latitude": "12.07689",
+            "longitude": "15.03063"
+        },
+        {
+            "city": "Kontcha",
+            "region": "10",
+            "country": "CM",
+            "latitude": "7.96667",
+            "longitude": "12.23333"
+        },
+        {
+            "city": "Bankim",
+            "region": "10",
+            "country": "CM",
+            "latitude": "6.08303",
+            "longitude": "11.4905"
+        },
+        {
+            "city": "Ka\u00e9l\u00e9",
+            "region": "12",
+            "country": "CM",
+            "latitude": "10.10917",
+            "longitude": "14.45083"
+        },
+        {
+            "city": "Jakiri",
+            "region": "07",
+            "country": "CM",
+            "latitude": "6.1",
+            "longitude": "10.65"
+        },
+        {
+            "city": "Guider",
+            "region": "13",
+            "country": "CM",
+            "latitude": "9.93417",
+            "longitude": "13.94861"
+        },
+        {
+            "city": "Garoua Boula\u00ef",
+            "region": "04",
+            "country": "CM",
+            "latitude": "5.88333",
+            "longitude": "14.55"
+        },
+        {
+            "city": "Garoua",
+            "region": "13",
+            "country": "CM",
+            "latitude": "9.3",
+            "longitude": "13.4"
+        },
+        {
+            "city": "Fundong",
+            "region": "07",
+            "country": "CM",
+            "latitude": "6.25",
+            "longitude": "10.26667"
+        },
+        {
+            "city": "Foumbot",
+            "region": "08",
+            "country": "CM",
+            "latitude": "5.50787",
+            "longitude": "10.6356"
+        },
+        {
+            "city": "Foumban",
+            "region": "08",
+            "country": "CM",
+            "latitude": "5.7291",
+            "longitude": "10.90011"
+        },
+        {
+            "city": "Fontem",
+            "region": "09",
+            "country": "CM",
+            "latitude": "5.4685",
+            "longitude": "9.8818"
+        },
+        {
+            "city": "\u00c9vodoula",
+            "region": "11",
+            "country": "CM",
+            "latitude": "4.08333",
+            "longitude": "11.2"
+        },
+        {
+            "city": "Ess\u00e9",
+            "region": "11",
+            "country": "CM",
+            "latitude": "4.1",
+            "longitude": "11.9"
+        },
+        {
+            "city": "Es\u00e9ka",
+            "region": "11",
+            "country": "CM",
+            "latitude": "3.65",
+            "longitude": "10.76667"
+        },
+        {
+            "city": "Ed\u00e9a",
+            "region": "05",
+            "country": "CM",
+            "latitude": "3.8",
+            "longitude": "10.13333"
+        },
+        {
+            "city": "\u00c9bolowa",
+            "region": "14",
+            "country": "CM",
+            "latitude": "2.9",
+            "longitude": "11.15"
+        },
+        {
+            "city": "Dschang",
+            "region": "08",
+            "country": "CM",
+            "latitude": "5.44559",
+            "longitude": "10.055"
+        },
+        {
+            "city": "Doum\u00e9",
+            "region": "04",
+            "country": "CM",
+            "latitude": "4.23333",
+            "longitude": "13.45"
+        },
+        {
+            "city": "Douala",
+            "region": "05",
+            "country": "CM",
+            "latitude": "4.0469",
+            "longitude": "9.7084"
+        },
+        {
+            "city": "Djohong",
+            "region": "10",
+            "country": "CM",
+            "latitude": "6.83333",
+            "longitude": "14.7"
+        },
+        {
+            "city": "Dizangu\u00e9",
+            "region": "05",
+            "country": "CM",
+            "latitude": "3.76667",
+            "longitude": "9.98333"
+        },
+        {
+            "city": "Dimako",
+            "region": "04",
+            "country": "CM",
+            "latitude": "4.38333",
+            "longitude": "13.56667"
+        },
+        {
+            "city": "Dibombari",
+            "region": "05",
+            "country": "CM",
+            "latitude": "4.1787",
+            "longitude": "9.6561"
+        },
+        {
+            "city": "Diang",
+            "region": "05",
+            "country": "CM",
+            "latitude": "4.25",
+            "longitude": "10.01667"
+        },
+        {
+            "city": "Buea",
+            "region": "09",
+            "country": "CM",
+            "latitude": "4.1527",
+            "longitude": "9.241"
+        },
+        {
+            "city": "Bonab\u00e9ri",
+            "region": "05",
+            "country": "CM",
+            "latitude": "4.0779",
+            "longitude": "9.6759"
+        },
+        {
+            "city": "Bogo",
+            "region": "12",
+            "country": "CM",
+            "latitude": "10.7336",
+            "longitude": "14.60928"
+        },
+        {
+            "city": "B\u00e9tar\u00e9 Oya",
+            "region": "04",
+            "country": "CM",
+            "latitude": "5.6",
+            "longitude": "14.08333"
+        },
+        {
+            "city": "Bertoua",
+            "region": "04",
+            "country": "CM",
+            "latitude": "4.58333",
+            "longitude": "13.68333"
+        },
+        {
+            "city": "Belo",
+            "region": "07",
+            "country": "CM",
+            "latitude": "6.13333",
+            "longitude": "10.25"
+        },
+        {
+            "city": "B\u00e9lel",
+            "region": "10",
+            "country": "CM",
+            "latitude": "7.05",
+            "longitude": "14.43333"
+        },
+        {
+            "city": "B\u00e9labo",
+            "region": "04",
+            "country": "CM",
+            "latitude": "4.93333",
+            "longitude": "13.3"
+        },
+        {
+            "city": "Bekondo",
+            "region": "09",
+            "country": "CM",
+            "latitude": "4.6819",
+            "longitude": "9.3214"
+        },
+        {
+            "city": "Bazou",
+            "region": "08",
+            "country": "CM",
+            "latitude": "5.05695",
+            "longitude": "10.46978"
+        },
+        {
+            "city": "Batouri",
+            "region": "04",
+            "country": "CM",
+            "latitude": "4.43333",
+            "longitude": "14.36667"
+        },
+        {
+            "city": "Batibo",
+            "region": "07",
+            "country": "CM",
+            "latitude": "5.8358",
+            "longitude": "9.8553"
+        },
+        {
+            "city": "Banyo",
+            "region": "10",
+            "country": "CM",
+            "latitude": "6.75",
+            "longitude": "11.81667"
+        },
+        {
+            "city": "Bansoa",
+            "region": "08",
+            "country": "CM",
+            "latitude": "5.44718",
+            "longitude": "10.31514"
+        },
+        {
+            "city": "Ngou",
+            "region": "08",
+            "country": "CM",
+            "latitude": "5.1959",
+            "longitude": "10.38441"
+        },
+        {
+            "city": "Bangangt\u00e9",
+            "region": "08",
+            "country": "CM",
+            "latitude": "5.14091",
+            "longitude": "10.51975"
+        },
+        {
+            "city": "Bandjoun",
+            "region": "08",
+            "country": "CM",
+            "latitude": "5.37878",
+            "longitude": "10.41816"
+        },
+        {
+            "city": "Bana",
+            "region": "08",
+            "country": "CM",
+            "latitude": "5.1481",
+            "longitude": "10.2762"
+        },
+        {
+            "city": "Bamusso",
+            "region": "09",
+            "country": "CM",
+            "latitude": "4.4591",
+            "longitude": "8.9027"
+        },
+        {
+            "city": "Bamendjou",
+            "region": "08",
+            "country": "CM",
+            "latitude": "5.38875",
+            "longitude": "10.33161"
+        },
+        {
+            "city": "Bamenda",
+            "region": "07",
+            "country": "CM",
+            "latitude": "5.95266",
+            "longitude": "10.15824"
+        },
+        {
+            "city": "Bali",
+            "region": "07",
+            "country": "CM",
+            "latitude": "5.88724",
+            "longitude": "10.01248"
+        },
+        {
+            "city": "Bafoussam",
+            "region": "08",
+            "country": "CM",
+            "latitude": "5.47366",
+            "longitude": "10.41786"
+        },
+        {
+            "city": "Bafia",
+            "region": "11",
+            "country": "CM",
+            "latitude": "4.75",
+            "longitude": "11.23333"
+        },
+        {
+            "city": "Bafang",
+            "region": "08",
+            "country": "CM",
+            "latitude": "5.15625",
+            "longitude": "10.17882"
+        },
+        {
+            "city": "Babanki",
+            "region": "07",
+            "country": "CM",
+            "latitude": "6.11667",
+            "longitude": "10.25"
+        },
+        {
+            "city": "Ambam",
+            "region": "14",
+            "country": "CM",
+            "latitude": "2.38333",
+            "longitude": "11.28333"
+        },
+        {
+            "city": "Akonolinga",
+            "region": "11",
+            "country": "CM",
+            "latitude": "3.76667",
+            "longitude": "12.25"
+        },
+        {
+            "city": "Akono",
+            "region": "11",
+            "country": "CM",
+            "latitude": "3.5",
+            "longitude": "11.33333"
+        },
+        {
+            "city": "Akom II",
+            "region": "14",
+            "country": "CM",
+            "latitude": "2.78333",
+            "longitude": "10.56667"
+        },
+        {
+            "city": "Abong Mbang",
+            "region": "04",
+            "country": "CM",
+            "latitude": "3.98333",
+            "longitude": "13.18333"
+        },
+        {
+            "city": "Idenao",
+            "region": "09",
+            "country": "CM",
+            "latitude": "4.2475",
+            "longitude": "9.00472"
+        },
+        {
+            "city": "Ndom",
+            "region": "05",
+            "country": "CM",
+            "latitude": "4.4978",
+            "longitude": "9.5628"
+        },
+        {
+            "city": "Somi\u00e9",
+            "region": "10",
+            "country": "CM",
+            "latitude": "6.45843",
+            "longitude": "11.43299"
+        }
+    ]
+}

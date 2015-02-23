@@ -1,0 +1,41 @@
+{
+    "country": "Barbados",
+    "code": "BB",
+    "cities": [
+        {
+            "city": "Speightstown",
+            "region": "09",
+            "country": "BB",
+            "latitude": "13.25",
+            "longitude": "-59.65"
+        },
+        {
+            "city": "Oistins",
+            "region": "01",
+            "country": "BB",
+            "latitude": "13.06667",
+            "longitude": "-59.53333"
+        },
+        {
+            "city": "Holetown",
+            "region": "04",
+            "country": "BB",
+            "latitude": "13.18672",
+            "longitude": "-59.63808"
+        },
+        {
+            "city": "Bridgetown",
+            "region": "08",
+            "country": "BB",
+            "latitude": "13.1",
+            "longitude": "-59.61667"
+        },
+        {
+            "city": "Bathsheba",
+            "region": "06",
+            "country": "BB",
+            "latitude": "13.21667",
+            "longitude": "-59.51667"
+        }
+    ]
+}

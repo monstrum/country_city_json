@@ -1,0 +1,993 @@
+{
+    "country": "Tunisia",
+    "code": "TN",
+    "cities": [
+        {
+            "city": "Matmata",
+            "region": "29",
+            "country": "TN",
+            "latitude": "33.54445",
+            "longitude": "9.97157"
+        },
+        {
+            "city": "Z\u0101wiyat al Jad\u012bd\u012b",
+            "region": "00",
+            "country": "TN",
+            "latitude": "36.64375",
+            "longitude": "10.57428"
+        },
+        {
+            "city": "Zah\u0101nah",
+            "region": "00",
+            "country": "TN",
+            "latitude": "37.03959",
+            "longitude": "10.03876"
+        },
+        {
+            "city": "Zaghouan",
+            "region": "37",
+            "country": "TN",
+            "latitude": "36.40291",
+            "longitude": "10.14292"
+        },
+        {
+            "city": "W\u0101d\u012b Mal\u012bz",
+            "region": "06",
+            "country": "TN",
+            "latitude": "36.46813",
+            "longitude": "8.54951"
+        },
+        {
+            "city": "Oued Lill",
+            "region": "36",
+            "country": "TN",
+            "latitude": "36.83408",
+            "longitude": "10.04057"
+        },
+        {
+            "city": "\u0162\u016bzah",
+            "region": "16",
+            "country": "TN",
+            "latitude": "35.63544",
+            "longitude": "10.82732"
+        },
+        {
+            "city": "Tunis",
+            "region": "36",
+            "country": "TN",
+            "latitude": "36.81897",
+            "longitude": "10.16579"
+        },
+        {
+            "city": "Tozeur",
+            "region": "35",
+            "country": "TN",
+            "latitude": "33.91968",
+            "longitude": "8.13352"
+        },
+        {
+            "city": "Tataouine",
+            "region": "34",
+            "country": "TN",
+            "latitude": "32.92967",
+            "longitude": "10.45177"
+        },
+        {
+            "city": "Tast\u016br",
+            "region": "00",
+            "country": "TN",
+            "latitude": "36.5513",
+            "longitude": "9.44307"
+        },
+        {
+            "city": "Tamaghzah",
+            "region": "35",
+            "country": "TN",
+            "latitude": "34.38849",
+            "longitude": "7.94313"
+        },
+        {
+            "city": "Thala",
+            "region": "02",
+            "country": "TN",
+            "latitude": "35.57244",
+            "longitude": "8.67031"
+        },
+        {
+            "city": "T\u0101klisah",
+            "region": "00",
+            "country": "TN",
+            "latitude": "36.78333",
+            "longitude": "10.63333"
+        },
+        {
+            "city": "Tajerouine",
+            "region": "14",
+            "country": "TN",
+            "latitude": "35.89174",
+            "longitude": "8.55276"
+        },
+        {
+            "city": "Tabursuq",
+            "region": "00",
+            "country": "TN",
+            "latitude": "36.45692",
+            "longitude": "9.24751"
+        },
+        {
+            "city": "Tabarka",
+            "region": "06",
+            "country": "TN",
+            "latitude": "36.95442",
+            "longitude": "8.75801"
+        },
+        {
+            "city": "Sousse",
+            "region": "23",
+            "country": "TN",
+            "latitude": "35.82539",
+            "longitude": "10.63699"
+        },
+        {
+            "city": "Siliana",
+            "region": "22",
+            "country": "TN",
+            "latitude": "36.08497",
+            "longitude": "9.37082"
+        },
+        {
+            "city": "S\u012bd\u012b \u2018Ulw\u0101n",
+            "region": "15",
+            "country": "TN",
+            "latitude": "35.37505",
+            "longitude": "10.93899"
+        },
+        {
+            "city": "Sidi Bouzid",
+            "region": "33",
+            "country": "TN",
+            "latitude": "35.03823",
+            "longitude": "9.48494"
+        },
+        {
+            "city": "Sidi Bou Ali",
+            "region": "23",
+            "country": "TN",
+            "latitude": "35.95667",
+            "longitude": "10.47306"
+        },
+        {
+            "city": "S\u012bd\u012b Bin N\u016br",
+            "region": "16",
+            "country": "TN",
+            "latitude": "35.53333",
+            "longitude": "10.91667"
+        },
+        {
+            "city": "Sidi el Hani",
+            "region": "23",
+            "country": "TN",
+            "latitude": "35.67139",
+            "longitude": "10.31583"
+        },
+        {
+            "city": "Sidi Bou Sa\u00efd",
+            "region": "36",
+            "country": "TN",
+            "latitude": "36.8687",
+            "longitude": "10.34174"
+        },
+        {
+            "city": "Shurb\u0101n",
+            "region": "15",
+            "country": "TN",
+            "latitude": "35.28581",
+            "longitude": "10.3858"
+        },
+        {
+            "city": "Shab\u012bkah",
+            "region": "35",
+            "country": "TN",
+            "latitude": "34.31909",
+            "longitude": "7.93519"
+        },
+        {
+            "city": "Sakiet Sidi Youssef",
+            "region": "14",
+            "country": "TN",
+            "latitude": "36.22292",
+            "longitude": "8.35547"
+        },
+        {
+            "city": "\u015eaq\u0101nis",
+            "region": "16",
+            "country": "TN",
+            "latitude": "35.78333",
+            "longitude": "10.8"
+        },
+        {
+            "city": "Sejenane",
+            "region": "00",
+            "country": "TN",
+            "latitude": "37.05722",
+            "longitude": "9.23806"
+        },
+        {
+            "city": "Sfax",
+            "region": "32",
+            "country": "TN",
+            "latitude": "34.74056",
+            "longitude": "10.76028"
+        },
+        {
+            "city": "Sbiba",
+            "region": "02",
+            "country": "TN",
+            "latitude": "35.54332",
+            "longitude": "9.0737"
+        },
+        {
+            "city": "La Sebala du Mornag",
+            "region": "36",
+            "country": "TN",
+            "latitude": "36.67931",
+            "longitude": "10.29195"
+        },
+        {
+            "city": "Remada",
+            "region": "34",
+            "country": "TN",
+            "latitude": "32.31662",
+            "longitude": "10.39551"
+        },
+        {
+            "city": "Rafr\u0101f",
+            "region": "00",
+            "country": "TN",
+            "latitude": "37.19043",
+            "longitude": "10.18365"
+        },
+        {
+            "city": "Rad\u00e8s",
+            "region": "36",
+            "country": "TN",
+            "latitude": "36.76806",
+            "longitude": "10.27528"
+        },
+        {
+            "city": "Ksour Essaf",
+            "region": "15",
+            "country": "TN",
+            "latitude": "35.41808",
+            "longitude": "10.99475"
+        },
+        {
+            "city": "Qu\u015faybat al Mady\u016bn\u012b",
+            "region": "16",
+            "country": "TN",
+            "latitude": "35.68562",
+            "longitude": "10.84256"
+        },
+        {
+            "city": "Qurbu\u015f",
+            "region": "00",
+            "country": "TN",
+            "latitude": "36.81668",
+            "longitude": "10.56865"
+        },
+        {
+            "city": "Korba",
+            "region": "00",
+            "country": "TN",
+            "latitude": "36.57861",
+            "longitude": "10.85861"
+        },
+        {
+            "city": "Qulayb\u012byah",
+            "region": "00",
+            "country": "TN",
+            "latitude": "36.84757",
+            "longitude": "11.09386"
+        },
+        {
+            "city": "Quball\u0101\u0163",
+            "region": "17",
+            "country": "TN",
+            "latitude": "36.54178",
+            "longitude": "9.66334"
+        },
+        {
+            "city": "Kebili",
+            "region": "31",
+            "country": "TN",
+            "latitude": "33.70439",
+            "longitude": "8.96903"
+        },
+        {
+            "city": "Qa\u015fr Hall\u0101l",
+            "region": "16",
+            "country": "TN",
+            "latitude": "35.64773",
+            "longitude": "10.89046"
+        },
+        {
+            "city": "Carthage",
+            "region": "36",
+            "country": "TN",
+            "latitude": "36.86108",
+            "longitude": "10.33161"
+        },
+        {
+            "city": "El Fahs",
+            "region": "37",
+            "country": "TN",
+            "latitude": "36.37419",
+            "longitude": "9.90651"
+        },
+        {
+            "city": "Qal\u2018at al Andalus",
+            "region": "38",
+            "country": "TN",
+            "latitude": "37.0629",
+            "longitude": "10.11829"
+        },
+        {
+            "city": "Qa\u2018f\u016br",
+            "region": "00",
+            "country": "TN",
+            "latitude": "36.32045",
+            "longitude": "9.32424"
+        },
+        {
+            "city": "Gafsa",
+            "region": "30",
+            "country": "TN",
+            "latitude": "34.425",
+            "longitude": "8.78417"
+        },
+        {
+            "city": "Gab\u00e8s",
+            "region": "29",
+            "country": "TN",
+            "latitude": "33.88146",
+            "longitude": "10.0982"
+        },
+        {
+            "city": "Nibbar",
+            "region": "14",
+            "country": "TN",
+            "latitude": "36.29411",
+            "longitude": "8.76657"
+        },
+        {
+            "city": "Nefta",
+            "region": "35",
+            "country": "TN",
+            "latitude": "33.87309",
+            "longitude": "7.87765"
+        },
+        {
+            "city": "Nabeul",
+            "region": "19",
+            "country": "TN",
+            "latitude": "36.45606",
+            "longitude": "10.73763"
+        },
+        {
+            "city": "Midoun",
+            "region": "28",
+            "country": "TN",
+            "latitude": "33.80813",
+            "longitude": "10.99228"
+        },
+        {
+            "city": "Mateur",
+            "region": "18",
+            "country": "TN",
+            "latitude": "37.04045",
+            "longitude": "9.66557"
+        },
+        {
+            "city": "Mas\u0101kin",
+            "region": "23",
+            "country": "TN",
+            "latitude": "35.72917",
+            "longitude": "10.58082"
+        },
+        {
+            "city": "Manzil S\u0101lim",
+            "region": "14",
+            "country": "TN",
+            "latitude": "35.85673",
+            "longitude": "8.47654"
+        },
+        {
+            "city": "Manzil K\u0101mil",
+            "region": "16",
+            "country": "TN",
+            "latitude": "35.62477",
+            "longitude": "10.66727"
+        },
+        {
+            "city": "Menzel Jemil",
+            "region": "18",
+            "country": "TN",
+            "latitude": "37.23618",
+            "longitude": "9.91448"
+        },
+        {
+            "city": "Menzel Heurr",
+            "region": "00",
+            "country": "TN",
+            "latitude": "36.72818",
+            "longitude": "10.95756"
+        },
+        {
+            "city": "Manzil B\u016b Zalafah",
+            "region": "00",
+            "country": "TN",
+            "latitude": "36.68312",
+            "longitude": "10.58431"
+        },
+        {
+            "city": "Menzel Bourguiba",
+            "region": "18",
+            "country": "TN",
+            "latitude": "37.15368",
+            "longitude": "9.78594"
+        },
+        {
+            "city": "Menzel Abderhaman",
+            "region": "18",
+            "country": "TN",
+            "latitude": "37.23737",
+            "longitude": "9.86313"
+        },
+        {
+            "city": "Manouba",
+            "region": "39",
+            "country": "TN",
+            "latitude": "36.80803",
+            "longitude": "10.0972"
+        },
+        {
+            "city": "Melloul\u00e8che",
+            "region": "15",
+            "country": "TN",
+            "latitude": "35.16617",
+            "longitude": "11.03504"
+        },
+        {
+            "city": "Maktar",
+            "region": "22",
+            "country": "TN",
+            "latitude": "35.85798",
+            "longitude": "9.20072"
+        },
+        {
+            "city": "Maj\u0101z al B\u0101b",
+            "region": "00",
+            "country": "TN",
+            "latitude": "36.64964",
+            "longitude": "9.61231"
+        },
+        {
+            "city": "Medenine",
+            "region": "28",
+            "country": "TN",
+            "latitude": "33.35495",
+            "longitude": "10.50548"
+        },
+        {
+            "city": "Lam\u0163ah",
+            "region": "16",
+            "country": "TN",
+            "latitude": "35.66667",
+            "longitude": "10.88333"
+        },
+        {
+            "city": "Kesra",
+            "region": "22",
+            "country": "TN",
+            "latitude": "35.81364",
+            "longitude": "9.36434"
+        },
+        {
+            "city": "Jendouba",
+            "region": "06",
+            "country": "TN",
+            "latitude": "36.50114",
+            "longitude": "8.78024"
+        },
+        {
+            "city": "Jilma",
+            "region": "33",
+            "country": "TN",
+            "latitude": "35.27311",
+            "longitude": "9.42385"
+        },
+        {
+            "city": "Zarzis",
+            "region": "28",
+            "country": "TN",
+            "latitude": "33.50398",
+            "longitude": "11.11216"
+        },
+        {
+            "city": "Jemna",
+            "region": "31",
+            "country": "TN",
+            "latitude": "33.57778",
+            "longitude": "9.01472"
+        },
+        {
+            "city": "Jamm\u0101l",
+            "region": "16",
+            "country": "TN",
+            "latitude": "35.62231",
+            "longitude": "10.75696"
+        },
+        {
+            "city": "Jabiny\u0101nah",
+            "region": "32",
+            "country": "TN",
+            "latitude": "35.035",
+            "longitude": "10.90809"
+        },
+        {
+            "city": "Houmt Souk",
+            "region": "28",
+            "country": "TN",
+            "latitude": "33.87576",
+            "longitude": "10.85745"
+        },
+        {
+            "city": "Harqalah",
+            "region": "00",
+            "country": "TN",
+            "latitude": "36.03027",
+            "longitude": "10.50904"
+        },
+        {
+            "city": "Hammam Sousse",
+            "region": "23",
+            "country": "TN",
+            "latitude": "35.8609",
+            "longitude": "10.60313"
+        },
+        {
+            "city": "Hammam-Lif",
+            "region": "36",
+            "country": "TN",
+            "latitude": "36.72866",
+            "longitude": "10.34163"
+        },
+        {
+            "city": "La Goulette",
+            "region": "36",
+            "country": "TN",
+            "latitude": "36.81806",
+            "longitude": "10.305"
+        },
+        {
+            "city": "Haffouz",
+            "region": "03",
+            "country": "TN",
+            "latitude": "35.63235",
+            "longitude": "9.67624"
+        },
+        {
+            "city": "Gh\u0101r al Mil\u1e29",
+            "region": "18",
+            "country": "TN",
+            "latitude": "37.16939",
+            "longitude": "10.19064"
+        },
+        {
+            "city": "Douz",
+            "region": "31",
+            "country": "TN",
+            "latitude": "33.46632",
+            "longitude": "9.0203"
+        },
+        {
+            "city": "Degache",
+            "region": "35",
+            "country": "TN",
+            "latitude": "33.97606",
+            "longitude": "8.2081"
+        },
+        {
+            "city": "Daww\u0101r T\u012bnjah",
+            "region": "00",
+            "country": "TN",
+            "latitude": "37.16667",
+            "longitude": "9.75"
+        },
+        {
+            "city": "Dar Chabanne",
+            "region": "00",
+            "country": "TN",
+            "latitude": "36.46798",
+            "longitude": "10.75167"
+        },
+        {
+            "city": "B\u016b \u2018Urq\u016bb",
+            "region": "00",
+            "country": "TN",
+            "latitude": "36.53853",
+            "longitude": "10.55093"
+        },
+        {
+            "city": "B\u016b \u2018Ar\u0101dah",
+            "region": "00",
+            "country": "TN",
+            "latitude": "36.35251",
+            "longitude": "9.62175"
+        },
+        {
+            "city": "Bi\u2019r \u2018Al\u012b Bin Khal\u012bfah",
+            "region": "32",
+            "country": "TN",
+            "latitude": "34.73592",
+            "longitude": "10.0924"
+        },
+        {
+            "city": "Bi\u2019r al \u1e28ufayy",
+            "region": "33",
+            "country": "TN",
+            "latitude": "34.93212",
+            "longitude": "9.19321"
+        },
+        {
+            "city": "Bin Qird\u0101n",
+            "region": "28",
+            "country": "TN",
+            "latitude": "33.13783",
+            "longitude": "11.21965"
+        },
+        {
+            "city": "Ben Arous",
+            "region": "27",
+            "country": "TN",
+            "latitude": "36.75306",
+            "longitude": "10.21889"
+        },
+        {
+            "city": "Bizerte",
+            "region": "18",
+            "country": "TN",
+            "latitude": "37.27442",
+            "longitude": "9.87391"
+        },
+        {
+            "city": "Beni Khiar",
+            "region": "00",
+            "country": "TN",
+            "latitude": "36.46917",
+            "longitude": "10.78222"
+        },
+        {
+            "city": "Ban\u012b Khall\u0101d",
+            "region": "00",
+            "country": "TN",
+            "latitude": "36.65038",
+            "longitude": "10.59004"
+        },
+        {
+            "city": "Ban\u012b Khadd\u0101sh",
+            "region": "28",
+            "country": "TN",
+            "latitude": "33.2528",
+            "longitude": "10.19883"
+        },
+        {
+            "city": "Ban\u012b \u1e28ass\u0101n",
+            "region": "16",
+            "country": "TN",
+            "latitude": "35.5672",
+            "longitude": "10.80869"
+        },
+        {
+            "city": "Banbalah",
+            "region": "16",
+            "country": "TN",
+            "latitude": "35.7",
+            "longitude": "10.8"
+        },
+        {
+            "city": "B\u00e9ja",
+            "region": "17",
+            "country": "TN",
+            "latitude": "36.72564",
+            "longitude": "9.18169"
+        },
+        {
+            "city": "Zouila",
+            "region": "15",
+            "country": "TN",
+            "latitude": "35.50056",
+            "longitude": "11.06056"
+        },
+        {
+            "city": "Skhira",
+            "region": "32",
+            "country": "TN",
+            "latitude": "34.2992",
+            "longitude": "10.06999"
+        },
+        {
+            "city": "Sbikha",
+            "region": "03",
+            "country": "TN",
+            "latitude": "35.93325",
+            "longitude": "10.02081"
+        },
+        {
+            "city": "A\u015f \u015eayy\u0101dah",
+            "region": "16",
+            "country": "TN",
+            "latitude": "35.66887",
+            "longitude": "10.89246"
+        },
+        {
+            "city": "As Sars",
+            "region": "00",
+            "country": "TN",
+            "latitude": "36.0764",
+            "longitude": "9.02118"
+        },
+        {
+            "city": "As Sanad",
+            "region": "30",
+            "country": "TN",
+            "latitude": "34.4628",
+            "longitude": "9.26404"
+        },
+        {
+            "city": "Sahline",
+            "region": "16",
+            "country": "TN",
+            "latitude": "35.75166",
+            "longitude": "10.71109"
+        },
+        {
+            "city": "Chebba",
+            "region": "15",
+            "country": "TN",
+            "latitude": "35.23722",
+            "longitude": "11.115"
+        },
+        {
+            "city": "Ariana",
+            "region": "38",
+            "country": "TN",
+            "latitude": "36.86012",
+            "longitude": "10.19337"
+        },
+        {
+            "city": "Ar Rudayyif",
+            "region": "30",
+            "country": "TN",
+            "latitude": "34.3827",
+            "longitude": "8.15549"
+        },
+        {
+            "city": "Ar Riq\u0101b",
+            "region": "33",
+            "country": "TN",
+            "latitude": "34.85932",
+            "longitude": "9.78654"
+        },
+        {
+            "city": "Rohia",
+            "region": "02",
+            "country": "TN",
+            "latitude": "35.65129",
+            "longitude": "9.05306"
+        },
+        {
+            "city": "Al Ward\u0101n\u012bn",
+            "region": "16",
+            "country": "TN",
+            "latitude": "35.70915",
+            "longitude": "10.67397"
+        },
+        {
+            "city": "El Ksour",
+            "region": "14",
+            "country": "TN",
+            "latitude": "35.89607",
+            "longitude": "8.88493"
+        },
+        {
+            "city": "Kairouan",
+            "region": "03",
+            "country": "TN",
+            "latitude": "35.6781",
+            "longitude": "10.09633"
+        },
+        {
+            "city": "Kasserine",
+            "region": "02",
+            "country": "TN",
+            "latitude": "35.16758",
+            "longitude": "8.83651"
+        },
+        {
+            "city": "Al Qarmadah",
+            "region": "32",
+            "country": "TN",
+            "latitude": "34.75",
+            "longitude": "10.78333"
+        },
+        {
+            "city": "El Golaa",
+            "region": "31",
+            "country": "TN",
+            "latitude": "33.48485",
+            "longitude": "9.00678"
+        },
+        {
+            "city": "Monastir",
+            "region": "16",
+            "country": "TN",
+            "latitude": "35.78333",
+            "longitude": "10.83333"
+        },
+        {
+            "city": "La Mohammedia",
+            "region": "36",
+            "country": "TN",
+            "latitude": "36.67446",
+            "longitude": "10.15633"
+        },
+        {
+            "city": "El Mida",
+            "region": "00",
+            "country": "TN",
+            "latitude": "36.72556",
+            "longitude": "10.85528"
+        },
+        {
+            "city": "Al Metlaoui",
+            "region": "30",
+            "country": "TN",
+            "latitude": "34.32081",
+            "longitude": "8.40158"
+        },
+        {
+            "city": "Al Mazz\u016bnah",
+            "region": "33",
+            "country": "TN",
+            "latitude": "34.57758",
+            "longitude": "9.84193"
+        },
+        {
+            "city": "Al Matl\u012bn",
+            "region": "00",
+            "country": "TN",
+            "latitude": "37.24516",
+            "longitude": "10.05"
+        },
+        {
+            "city": "Al Ma\u015fd\u016br",
+            "region": "16",
+            "country": "TN",
+            "latitude": "35.68206",
+            "longitude": "10.72746"
+        },
+        {
+            "city": "Al Mars\u00e1",
+            "region": "36",
+            "country": "TN",
+            "latitude": "36.87818",
+            "longitude": "10.32466"
+        },
+        {
+            "city": "El Maamoura",
+            "region": "00",
+            "country": "TN",
+            "latitude": "36.46499",
+            "longitude": "10.80612"
+        },
+        {
+            "city": "Mahdia",
+            "region": "15",
+            "country": "TN",
+            "latitude": "35.50472",
+            "longitude": "11.06222"
+        },
+        {
+            "city": "Al Kar\u012bb",
+            "region": "00",
+            "country": "TN",
+            "latitude": "36.32802",
+            "longitude": "9.13613"
+        },
+        {
+            "city": "El Kef",
+            "region": "14",
+            "country": "TN",
+            "latitude": "36.17424",
+            "longitude": "8.70486"
+        },
+        {
+            "city": "El Jem",
+            "region": "15",
+            "country": "TN",
+            "latitude": "35.3",
+            "longitude": "10.71667"
+        },
+        {
+            "city": "El Haouaria",
+            "region": "00",
+            "country": "TN",
+            "latitude": "37.05002",
+            "longitude": "11.01442"
+        },
+        {
+            "city": "Al \u1e28amm\u0101m\u0101t",
+            "region": "19",
+            "country": "TN",
+            "latitude": "36.4",
+            "longitude": "10.61667"
+        },
+        {
+            "city": "El Hamma",
+            "region": "29",
+            "country": "TN",
+            "latitude": "33.89152",
+            "longitude": "9.79629"
+        },
+        {
+            "city": "Al Firn\u0101nah",
+            "region": "06",
+            "country": "TN",
+            "latitude": "36.65547",
+            "longitude": "8.69602"
+        },
+        {
+            "city": "El Battan",
+            "region": "39",
+            "country": "TN",
+            "latitude": "36.80368",
+            "longitude": "9.84424"
+        },
+        {
+            "city": "Al Baq\u0101li\u0163ah",
+            "region": "16",
+            "country": "TN",
+            "latitude": "35.61739",
+            "longitude": "10.99466"
+        },
+        {
+            "city": "Al \u2018\u0100liyah",
+            "region": "00",
+            "country": "TN",
+            "latitude": "37.1691",
+            "longitude": "10.03478"
+        },
+        {
+            "city": "Akouda",
+            "region": "23",
+            "country": "TN",
+            "latitude": "35.8691",
+            "longitude": "10.5653"
+        },
+        {
+            "city": "Douane",
+            "region": "19",
+            "country": "TN",
+            "latitude": "36.44766",
+            "longitude": "10.7557"
+        },
+        {
+            "city": "Port el Kantaoui",
+            "region": "23",
+            "country": "TN",
+            "latitude": "35.89239",
+            "longitude": "10.59434"
+        }
+    ]
+}

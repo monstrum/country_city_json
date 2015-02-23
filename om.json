@@ -1,0 +1,209 @@
+{
+    "country": "Oman",
+    "code": "OM",
+    "cities": [
+        {
+            "city": "\u015e\u016br",
+            "region": "04",
+            "country": "OM",
+            "latitude": "22.56667",
+            "longitude": "59.52889"
+        },
+        {
+            "city": "Al Sohar",
+            "region": "02",
+            "country": "OM",
+            "latitude": "24.3643",
+            "longitude": "56.74681"
+        },
+        {
+            "city": "Suf\u0101lat Sam\u0101\u2019il",
+            "region": "00",
+            "country": "OM",
+            "latitude": "23.31667",
+            "longitude": "58.01667"
+        },
+        {
+            "city": "Shin\u0101\u015f",
+            "region": "02",
+            "country": "OM",
+            "latitude": "24.74333",
+            "longitude": "56.46583"
+        },
+        {
+            "city": "\u015eal\u0101lah",
+            "region": "08",
+            "country": "OM",
+            "latitude": "17.01505",
+            "longitude": "54.09237"
+        },
+        {
+            "city": "\u015ea\u1e29am",
+            "region": "02",
+            "country": "OM",
+            "latitude": "24.17222",
+            "longitude": "56.88861"
+        },
+        {
+            "city": "Nizw\u00e1",
+            "region": "01",
+            "country": "OM",
+            "latitude": "22.93333",
+            "longitude": "57.53333"
+        },
+        {
+            "city": "Muscat",
+            "region": "06",
+            "country": "OM",
+            "latitude": "23.61333",
+            "longitude": "58.59333"
+        },
+        {
+            "city": "Kha\u015fab",
+            "region": "07",
+            "country": "OM",
+            "latitude": "26.17993",
+            "longitude": "56.24774"
+        },
+        {
+            "city": "Izk\u012b",
+            "region": "00",
+            "country": "OM",
+            "latitude": "22.93333",
+            "longitude": "57.76667"
+        },
+        {
+            "city": "\u2018Ibr\u012b",
+            "region": "09",
+            "country": "OM",
+            "latitude": "23.22573",
+            "longitude": "56.51572"
+        },
+        {
+            "city": "Ibr\u0101\u2019",
+            "region": "04",
+            "country": "OM",
+            "latitude": "22.69057",
+            "longitude": "58.53337"
+        },
+        {
+            "city": "Haym\u0101\u2019",
+            "region": "03",
+            "country": "OM",
+            "latitude": "19.93333",
+            "longitude": "56.31667"
+        },
+        {
+            "city": "Dib Dibba",
+            "region": "07",
+            "country": "OM",
+            "latitude": "26.19778",
+            "longitude": "56.25778"
+        },
+        {
+            "city": "Bidbid",
+            "region": "00",
+            "country": "OM",
+            "latitude": "23.40786",
+            "longitude": "58.1283"
+        },
+        {
+            "city": "Bawshar",
+            "region": "06",
+            "country": "OM",
+            "latitude": "23.55827",
+            "longitude": "58.41063"
+        },
+        {
+            "city": "Bark\u0101\u2019",
+            "region": "00",
+            "country": "OM",
+            "latitude": "23.70739",
+            "longitude": "57.88908"
+        },
+        {
+            "city": "Bahl\u0101\u2019",
+            "region": "00",
+            "country": "OM",
+            "latitude": "22.97339",
+            "longitude": "57.29958"
+        },
+        {
+            "city": "Bad\u012byah",
+            "region": "00",
+            "country": "OM",
+            "latitude": "22.45",
+            "longitude": "58.8"
+        },
+        {
+            "city": "As Suwayq",
+            "region": "02",
+            "country": "OM",
+            "latitude": "23.84944",
+            "longitude": "57.43861"
+        },
+        {
+            "city": "As S\u012bb",
+            "region": "06",
+            "country": "OM",
+            "latitude": "23.68379",
+            "longitude": "58.18236"
+        },
+        {
+            "city": "Ar Rust\u0101q",
+            "region": "02",
+            "country": "OM",
+            "latitude": "23.39083",
+            "longitude": "57.42444"
+        },
+        {
+            "city": "Al Q\u0101bil",
+            "region": "00",
+            "country": "OM",
+            "latitude": "22.571",
+            "longitude": "58.69472"
+        },
+        {
+            "city": "Al Liw\u0101\u2019",
+            "region": "02",
+            "country": "OM",
+            "latitude": "24.53611",
+            "longitude": "56.56556"
+        },
+        {
+            "city": "Al Kh\u0101b\u016brah",
+            "region": "02",
+            "country": "OM",
+            "latitude": "23.98864",
+            "longitude": "57.09838"
+        },
+        {
+            "city": "Al Buraym\u012b",
+            "region": "10",
+            "country": "OM",
+            "latitude": "24.25088",
+            "longitude": "55.79312"
+        },
+        {
+            "city": "\u0100dam",
+            "region": "00",
+            "country": "OM",
+            "latitude": "22.3756",
+            "longitude": "57.52334"
+        },
+        {
+            "city": "Yanqul",
+            "region": "00",
+            "country": "OM",
+            "latitude": "23.59051",
+            "longitude": "56.55008"
+        },
+        {
+            "city": "Bayt al \u2018Aw\u0101b\u012b",
+            "region": "00",
+            "country": "OM",
+            "latitude": "23.30324",
+            "longitude": "57.52459"
+        }
+    ]
+}

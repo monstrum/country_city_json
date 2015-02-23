@@ -1,0 +1,503 @@
+{
+    "country": "Madagascar",
+    "code": "MG",
+    "cities": [
+        {
+            "city": "Toamasina",
+            "region": "7670857",
+            "country": "MG",
+            "latitude": "-18.16667",
+            "longitude": "49.38333"
+        },
+        {
+            "city": "Vondrozo",
+            "region": "02",
+            "country": "MG",
+            "latitude": "-22.81667",
+            "longitude": "47.28333"
+        },
+        {
+            "city": "Vohibinany",
+            "region": "04",
+            "country": "MG",
+            "latitude": "-17.35",
+            "longitude": "49.03333"
+        },
+        {
+            "city": "Vavatenina",
+            "region": "04",
+            "country": "MG",
+            "latitude": "-17.46667",
+            "longitude": "49.2"
+        },
+        {
+            "city": "Vangaindrano",
+            "region": "02",
+            "country": "MG",
+            "latitude": "-23.35",
+            "longitude": "47.6"
+        },
+        {
+            "city": "Tsiroanomandidy",
+            "region": "05",
+            "country": "MG",
+            "latitude": "-18.76667",
+            "longitude": "46.03333"
+        },
+        {
+            "city": "Tsiombe",
+            "region": "06",
+            "country": "MG",
+            "latitude": "-25.3",
+            "longitude": "45.48333"
+        },
+        {
+            "city": "Tsaratanana",
+            "region": "03",
+            "country": "MG",
+            "latitude": "-16.78333",
+            "longitude": "47.65"
+        },
+        {
+            "city": "Toliara",
+            "region": "7670913",
+            "country": "MG",
+            "latitude": "-23.35",
+            "longitude": "43.66667"
+        },
+        {
+            "city": "Fort Dauphin",
+            "region": "06",
+            "country": "MG",
+            "latitude": "-25.03185",
+            "longitude": "46.99874"
+        },
+        {
+            "city": "Soavinandriana",
+            "region": "05",
+            "country": "MG",
+            "latitude": "-19.16667",
+            "longitude": "46.73333"
+        },
+        {
+            "city": "Soanierana Ivongo",
+            "region": "04",
+            "country": "MG",
+            "latitude": "-16.91667",
+            "longitude": "49.58333"
+        },
+        {
+            "city": "Sambava",
+            "region": "01",
+            "country": "MG",
+            "latitude": "-14.26667",
+            "longitude": "50.16667"
+        },
+        {
+            "city": "Sakaraha",
+            "region": "06",
+            "country": "MG",
+            "latitude": "-22.9",
+            "longitude": "44.53333"
+        },
+        {
+            "city": "Nosy Varika",
+            "region": "02",
+            "country": "MG",
+            "latitude": "-20.58333",
+            "longitude": "48.53333"
+        },
+        {
+            "city": "Morondava",
+            "region": "06",
+            "country": "MG",
+            "latitude": "-20.28333",
+            "longitude": "44.28333"
+        },
+        {
+            "city": "Moramanga",
+            "region": "04",
+            "country": "MG",
+            "latitude": "-18.93333",
+            "longitude": "48.2"
+        },
+        {
+            "city": "Miandrivazo",
+            "region": "06",
+            "country": "MG",
+            "latitude": "-19.51667",
+            "longitude": "45.46667"
+        },
+        {
+            "city": "Marovoay",
+            "region": "03",
+            "country": "MG",
+            "latitude": "-16.1",
+            "longitude": "46.63333"
+        },
+        {
+            "city": "Marolambo",
+            "region": "04",
+            "country": "MG",
+            "latitude": "-20.05",
+            "longitude": "48.11667"
+        },
+        {
+            "city": "Maroantsetra",
+            "region": "04",
+            "country": "MG",
+            "latitude": "-15.43333",
+            "longitude": "49.73333"
+        },
+        {
+            "city": "Manjakandriana",
+            "region": "05",
+            "country": "MG",
+            "latitude": "-18.91667",
+            "longitude": "47.8"
+        },
+        {
+            "city": "Mananjary",
+            "region": "02",
+            "country": "MG",
+            "latitude": "-21.21667",
+            "longitude": "48.33333"
+        },
+        {
+            "city": "Mananara Avaratra",
+            "region": "04",
+            "country": "MG",
+            "latitude": "-16.16667",
+            "longitude": "49.76667"
+        },
+        {
+            "city": "Manakara",
+            "region": "02",
+            "country": "MG",
+            "latitude": "-22.13333",
+            "longitude": "48.01667"
+        },
+        {
+            "city": "Mahavelona",
+            "region": "04",
+            "country": "MG",
+            "latitude": "-17.68475",
+            "longitude": "49.50869"
+        },
+        {
+            "city": "Mahanoro",
+            "region": "04",
+            "country": "MG",
+            "latitude": "-19.9",
+            "longitude": "48.8"
+        },
+        {
+            "city": "Mahajanga",
+            "region": "7670849",
+            "country": "MG",
+            "latitude": "-15.71667",
+            "longitude": "46.31667"
+        },
+        {
+            "city": "Ikongo",
+            "region": "02",
+            "country": "MG",
+            "latitude": "-21.88333",
+            "longitude": "47.43333"
+        },
+        {
+            "city": "Ikalamavony",
+            "region": "02",
+            "country": "MG",
+            "latitude": "-21.15",
+            "longitude": "46.58333"
+        },
+        {
+            "city": "Ihosy",
+            "region": "02",
+            "country": "MG",
+            "latitude": "-22.4",
+            "longitude": "46.11667"
+        },
+        {
+            "city": "Ifanadiana",
+            "region": "02",
+            "country": "MG",
+            "latitude": "-21.3",
+            "longitude": "47.63333"
+        },
+        {
+            "city": "Fianarantsoa",
+            "region": "7670905",
+            "country": "MG",
+            "latitude": "-21.43333",
+            "longitude": "47.08333"
+        },
+        {
+            "city": "Fenoarivo Be",
+            "region": "05",
+            "country": "MG",
+            "latitude": "-18.43333",
+            "longitude": "46.56667"
+        },
+        {
+            "city": "Fenoarivo Atsinanana",
+            "region": "04",
+            "country": "MG",
+            "latitude": "-17.36667",
+            "longitude": "49.41667"
+        },
+        {
+            "city": "Faratsiho",
+            "region": "05",
+            "country": "MG",
+            "latitude": "-19.4",
+            "longitude": "46.95"
+        },
+        {
+            "city": "Farafangana",
+            "region": "02",
+            "country": "MG",
+            "latitude": "-22.81667",
+            "longitude": "47.83333"
+        },
+        {
+            "city": "Fandriana",
+            "region": "02",
+            "country": "MG",
+            "latitude": "-20.23333",
+            "longitude": "47.38333"
+        },
+        {
+            "city": "Betioky",
+            "region": "06",
+            "country": "MG",
+            "latitude": "-23.71667",
+            "longitude": "44.38333"
+        },
+        {
+            "city": "Betafo",
+            "region": "05",
+            "country": "MG",
+            "latitude": "-19.83333",
+            "longitude": "46.85"
+        },
+        {
+            "city": "Beroroha",
+            "region": "06",
+            "country": "MG",
+            "latitude": "-21.66667",
+            "longitude": "45.16667"
+        },
+        {
+            "city": "Belo Tsiribihina",
+            "region": "06",
+            "country": "MG",
+            "latitude": "-19.7",
+            "longitude": "44.55"
+        },
+        {
+            "city": "Beloha",
+            "region": "06",
+            "country": "MG",
+            "latitude": "-25.16667",
+            "longitude": "45.05"
+        },
+        {
+            "city": "Bealanana",
+            "region": "01",
+            "country": "MG",
+            "latitude": "-14.55",
+            "longitude": "48.73333"
+        },
+        {
+            "city": "Arivonimamo",
+            "region": "05",
+            "country": "MG",
+            "latitude": "-19.01667",
+            "longitude": "47.18333"
+        },
+        {
+            "city": "Antsohihy",
+            "region": "03",
+            "country": "MG",
+            "latitude": "-14.87959",
+            "longitude": "47.98751"
+        },
+        {
+            "city": "Antsiran\u0308ana",
+            "region": "7670842",
+            "country": "MG",
+            "latitude": "-12.2787",
+            "longitude": "49.29171"
+        },
+        {
+            "city": "Antanifotsy",
+            "region": "05",
+            "country": "MG",
+            "latitude": "-19.65",
+            "longitude": "47.31667"
+        },
+        {
+            "city": "Antananarivo",
+            "region": "7670856",
+            "country": "MG",
+            "latitude": "-18.91368",
+            "longitude": "47.53613"
+        },
+        {
+            "city": "Antalaha",
+            "region": "01",
+            "country": "MG",
+            "latitude": "-14.90033",
+            "longitude": "50.27876"
+        },
+        {
+            "city": "Ankazobe",
+            "region": "05",
+            "country": "MG",
+            "latitude": "-18.31667",
+            "longitude": "47.11667"
+        },
+        {
+            "city": "Ankazoabo",
+            "region": "06",
+            "country": "MG",
+            "latitude": "-22.28333",
+            "longitude": "44.51667"
+        },
+        {
+            "city": "Anjozorobe",
+            "region": "05",
+            "country": "MG",
+            "latitude": "-18.4",
+            "longitude": "47.86667"
+        },
+        {
+            "city": "Andoany",
+            "region": "01",
+            "country": "MG",
+            "latitude": "-13.4",
+            "longitude": "48.26667"
+        },
+        {
+            "city": "Andilamena",
+            "region": "04",
+            "country": "MG",
+            "latitude": "-17.01667",
+            "longitude": "48.58333"
+        },
+        {
+            "city": "Andovoranto",
+            "region": "04",
+            "country": "MG",
+            "latitude": "-18.95",
+            "longitude": "49.1"
+        },
+        {
+            "city": "Andapa",
+            "region": "01",
+            "country": "MG",
+            "latitude": "-14.65",
+            "longitude": "49.65"
+        },
+        {
+            "city": "Anakao",
+            "region": "06",
+            "country": "MG",
+            "latitude": "-23.66667",
+            "longitude": "43.65"
+        },
+        {
+            "city": "Amparafaravola",
+            "region": "04",
+            "country": "MG",
+            "latitude": "-17.58333",
+            "longitude": "48.21667"
+        },
+        {
+            "city": "Ampanihy",
+            "region": "06",
+            "country": "MG",
+            "latitude": "-24.7",
+            "longitude": "44.75"
+        },
+        {
+            "city": "Ambovombe",
+            "region": "06",
+            "country": "MG",
+            "latitude": "-25.16667",
+            "longitude": "46.08333"
+        },
+        {
+            "city": "Ambositra",
+            "region": "02",
+            "country": "MG",
+            "latitude": "-20.51667",
+            "longitude": "47.25"
+        },
+        {
+            "city": "Ambodifotatra",
+            "region": "04",
+            "country": "MG",
+            "latitude": "-16.98333",
+            "longitude": "49.85"
+        },
+        {
+            "city": "Amboasary",
+            "region": "06",
+            "country": "MG",
+            "latitude": "-25.03333",
+            "longitude": "46.38333"
+        },
+        {
+            "city": "Ambilobe",
+            "region": "01",
+            "country": "MG",
+            "latitude": "-13.2",
+            "longitude": "49.05"
+        },
+        {
+            "city": "Ambatondrazaka",
+            "region": "04",
+            "country": "MG",
+            "latitude": "-17.83333",
+            "longitude": "48.41667"
+        },
+        {
+            "city": "Ambatolampy",
+            "region": "05",
+            "country": "MG",
+            "latitude": "-19.38333",
+            "longitude": "47.41667"
+        },
+        {
+            "city": "Ambatofinandrahana",
+            "region": "02",
+            "country": "MG",
+            "latitude": "-20.55",
+            "longitude": "46.8"
+        },
+        {
+            "city": "Ambato Boeny",
+            "region": "03",
+            "country": "MG",
+            "latitude": "-16.46667",
+            "longitude": "46.71667"
+        },
+        {
+            "city": "Ambanja",
+            "region": "01",
+            "country": "MG",
+            "latitude": "-13.68333",
+            "longitude": "48.45"
+        },
+        {
+            "city": "Ambalavao",
+            "region": "02",
+            "country": "MG",
+            "latitude": "-21.83333",
+            "longitude": "46.93333"
+        }
+    ]
+}

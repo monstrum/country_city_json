@@ -1,0 +1,2302 @@
+{
+    "country": "Mongolia",
+    "code": "MN",
+    "cities": [
+        {
+            "city": "Uyenchi Somon",
+            "region": "12",
+            "country": "MN",
+            "latitude": "46.05",
+            "longitude": "92.01667"
+        },
+        {
+            "city": "Uujim",
+            "region": "03",
+            "country": "MN",
+            "latitude": "48.9",
+            "longitude": "89.61667"
+        },
+        {
+            "city": "Urdgol",
+            "region": "12",
+            "country": "MN",
+            "latitude": "47.83333",
+            "longitude": "92.65"
+        },
+        {
+            "city": "Uliastay",
+            "region": "09",
+            "country": "MN",
+            "latitude": "47.74167",
+            "longitude": "96.84444"
+        },
+        {
+            "city": "Ulaantolgoy",
+            "region": "12",
+            "country": "MN",
+            "latitude": "46.68333",
+            "longitude": "92.78333"
+        },
+        {
+            "city": "Ulaangom",
+            "region": "19",
+            "country": "MN",
+            "latitude": "49.98111",
+            "longitude": "92.06667"
+        },
+        {
+            "city": "Tsetserleg",
+            "region": "19",
+            "country": "MN",
+            "latitude": "49.27128",
+            "longitude": "94.85836"
+        },
+        {
+            "city": "Tsetsegnuur",
+            "region": "12",
+            "country": "MN",
+            "latitude": "46.6",
+            "longitude": "93.26667"
+        },
+        {
+            "city": "Tsenher",
+            "region": "12",
+            "country": "MN",
+            "latitude": "46.91667",
+            "longitude": "92.11667"
+        },
+        {
+            "city": "Tseel",
+            "region": "10",
+            "country": "MN",
+            "latitude": "45.56667",
+            "longitude": "95.86667"
+        },
+        {
+            "city": "Tsalgar",
+            "region": "19",
+            "country": "MN",
+            "latitude": "49.71667",
+            "longitude": "93.26667"
+        },
+        {
+            "city": "Tsahir",
+            "region": "01",
+            "country": "MN",
+            "latitude": "48.07972",
+            "longitude": "98.85167"
+        },
+        {
+            "city": "Tsagaant\u00fcngi",
+            "region": "03",
+            "country": "MN",
+            "latitude": "49.05",
+            "longitude": "90.45"
+        },
+        {
+            "city": "Tsagaan-Olom",
+            "region": "10",
+            "country": "MN",
+            "latitude": "46.71327",
+            "longitude": "96.52588"
+        },
+        {
+            "city": "Tsagaanchuluut",
+            "region": "09",
+            "country": "MN",
+            "latitude": "47.11196",
+            "longitude": "96.67145"
+        },
+        {
+            "city": "Tosontsengel",
+            "region": "09",
+            "country": "MN",
+            "latitude": "48.75667",
+            "longitude": "98.28389"
+        },
+        {
+            "city": "Tooromt",
+            "region": "19",
+            "country": "MN",
+            "latitude": "50.46667",
+            "longitude": "93.58333"
+        },
+        {
+            "city": "Tolbo",
+            "region": "03",
+            "country": "MN",
+            "latitude": "48.41667",
+            "longitude": "90.28333"
+        },
+        {
+            "city": "T\u00f6gr\u00f6g",
+            "region": "12",
+            "country": "MN",
+            "latitude": "47.42414",
+            "longitude": "92.22439"
+        },
+        {
+            "city": "T\u00f6gr\u00f6g",
+            "region": "10",
+            "country": "MN",
+            "latitude": "45.82976",
+            "longitude": "94.81544"
+        },
+        {
+            "city": "Vlaa Vula",
+            "region": "13",
+            "country": "MN",
+            "latitude": "50.68333",
+            "longitude": "99.23333"
+        },
+        {
+            "city": "Tegsh",
+            "region": "09",
+            "country": "MN",
+            "latitude": "48.75132",
+            "longitude": "95.99974"
+        },
+        {
+            "city": "Taygan",
+            "region": "10",
+            "country": "MN",
+            "latitude": "46.35356",
+            "longitude": "97.36633"
+        },
+        {
+            "city": "Talshand",
+            "region": "10",
+            "country": "MN",
+            "latitude": "45.33333",
+            "longitude": "97.98333"
+        },
+        {
+            "city": "Tahilt",
+            "region": "10",
+            "country": "MN",
+            "latitude": "45.3466",
+            "longitude": "96.6457"
+        },
+        {
+            "city": "Shiree",
+            "region": "09",
+            "country": "MN",
+            "latitude": "47.49714",
+            "longitude": "96.80311"
+        },
+        {
+            "city": "Sharga",
+            "region": "13",
+            "country": "MN",
+            "latitude": "49.8",
+            "longitude": "98.8"
+        },
+        {
+            "city": "Sharga",
+            "region": "10",
+            "country": "MN",
+            "latitude": "46.25",
+            "longitude": "95.26667"
+        },
+        {
+            "city": "Sharbulag",
+            "region": "19",
+            "country": "MN",
+            "latitude": "48.81667",
+            "longitude": "93.1"
+        },
+        {
+            "city": "Sayn-Ust",
+            "region": "10",
+            "country": "MN",
+            "latitude": "47.35732",
+            "longitude": "94.52448"
+        },
+        {
+            "city": "Sangiyn Dalay",
+            "region": "10",
+            "country": "MN",
+            "latitude": "45.13333",
+            "longitude": "97.75"
+        },
+        {
+            "city": "Rashaant",
+            "region": "03",
+            "country": "MN",
+            "latitude": "47.76667",
+            "longitude": "90.83333"
+        },
+        {
+            "city": "Oygon",
+            "region": "09",
+            "country": "MN",
+            "latitude": "48.98562",
+            "longitude": "96.54339"
+        },
+        {
+            "city": "Telmin Suma",
+            "region": "09",
+            "country": "MN",
+            "latitude": "48.64278",
+            "longitude": "97.61861"
+        },
+        {
+            "city": "Orgil",
+            "region": "13",
+            "country": "MN",
+            "latitude": "48.58722",
+            "longitude": "99.35083"
+        },
+        {
+            "city": "\u00d6lgiy",
+            "region": "03",
+            "country": "MN",
+            "latitude": "48.96833",
+            "longitude": "89.9625"
+        },
+        {
+            "city": "Nuga",
+            "region": "09",
+            "country": "MN",
+            "latitude": "48.31667",
+            "longitude": "95.11667"
+        },
+        {
+            "city": "Nogoonnuur",
+            "region": "03",
+            "country": "MN",
+            "latitude": "49.61627",
+            "longitude": "90.24204"
+        },
+        {
+            "city": "Naranbulag",
+            "region": "19",
+            "country": "MN",
+            "latitude": "49.36667",
+            "longitude": "92.56667"
+        },
+        {
+            "city": "Namir",
+            "region": "19",
+            "country": "MN",
+            "latitude": "49.10641",
+            "longitude": "91.71782"
+        },
+        {
+            "city": "Tsagaanhayrhan",
+            "region": "19",
+            "country": "MN",
+            "latitude": "49.4",
+            "longitude": "94.23333"
+        },
+        {
+            "city": "Mandal",
+            "region": "13",
+            "country": "MN",
+            "latitude": "49.9",
+            "longitude": "99.43333"
+        },
+        {
+            "city": "Jargalant",
+            "region": "19",
+            "country": "MN",
+            "latitude": "49.30677",
+            "longitude": "95.44785"
+        },
+        {
+            "city": "Jargalant",
+            "region": "02",
+            "country": "MN",
+            "latitude": "47.15",
+            "longitude": "99.63333"
+        },
+        {
+            "city": "Jargalant",
+            "region": "03",
+            "country": "MN",
+            "latitude": "46.9267",
+            "longitude": "91.08782"
+        },
+        {
+            "city": "Jargalant",
+            "region": "10",
+            "country": "MN",
+            "latitude": "45.70954",
+            "longitude": "97.17596"
+        },
+        {
+            "city": "Ider",
+            "region": "13",
+            "country": "MN",
+            "latitude": "48.77278",
+            "longitude": "99.87389"
+        },
+        {
+            "city": "Hunt",
+            "region": "01",
+            "country": "MN",
+            "latitude": "47.86667",
+            "longitude": "99.46667"
+        },
+        {
+            "city": "Hungiy",
+            "region": "09",
+            "country": "MN",
+            "latitude": "48.51672",
+            "longitude": "94.29428"
+        },
+        {
+            "city": "H\u00f6viyn Am",
+            "region": "02",
+            "country": "MN",
+            "latitude": "47.23123",
+            "longitude": "98.5714"
+        },
+        {
+            "city": "H\u00f6sh\u00f6\u00f6t",
+            "region": "03",
+            "country": "MN",
+            "latitude": "48.94776",
+            "longitude": "89.14358"
+        },
+        {
+            "city": "Holboo",
+            "region": "09",
+            "country": "MN",
+            "latitude": "48.58876",
+            "longitude": "95.43257"
+        },
+        {
+            "city": "H\u00f6htolgoy",
+            "region": "19",
+            "country": "MN",
+            "latitude": "49.28001",
+            "longitude": "90.91015"
+        },
+        {
+            "city": "H\u00f6dr\u00f6g\u00f6",
+            "region": "09",
+            "country": "MN",
+            "latitude": "48.87284",
+            "longitude": "96.96259"
+        },
+        {
+            "city": "Havtsal",
+            "region": "19",
+            "country": "MN",
+            "latitude": "50.1",
+            "longitude": "91.66667"
+        },
+        {
+            "city": "Har-Us",
+            "region": "19",
+            "country": "MN",
+            "latitude": "49.03333",
+            "longitude": "92.03333"
+        },
+        {
+            "city": "Har-Us",
+            "region": "12",
+            "country": "MN",
+            "latitude": "48.48333",
+            "longitude": "91.43333"
+        },
+        {
+            "city": "Harmod",
+            "region": "19",
+            "country": "MN",
+            "latitude": "50.3413",
+            "longitude": "91.60641"
+        },
+        {
+            "city": "Harhiraa",
+            "region": "19",
+            "country": "MN",
+            "latitude": "49.77849",
+            "longitude": "91.90424"
+        },
+        {
+            "city": "Haliun",
+            "region": "10",
+            "country": "MN",
+            "latitude": "45.9296",
+            "longitude": "96.16239"
+        },
+        {
+            "city": "Halban",
+            "region": "13",
+            "country": "MN",
+            "latitude": "49.52877",
+            "longitude": "97.7409"
+        },
+        {
+            "city": "Erdenet",
+            "region": "13",
+            "country": "MN",
+            "latitude": "48.94877",
+            "longitude": "99.53665"
+        },
+        {
+            "city": "Dz\u00fcyl",
+            "region": "10",
+            "country": "MN",
+            "latitude": "46.30686",
+            "longitude": "93.90409"
+        },
+        {
+            "city": "Dzuunmod",
+            "region": "09",
+            "country": "MN",
+            "latitude": "48.21987",
+            "longitude": "97.3744"
+        },
+        {
+            "city": "Dz\u00fc\u00fcnh\u00f6v\u00f6\u00f6",
+            "region": "19",
+            "country": "MN",
+            "latitude": "50.60977",
+            "longitude": "92.4024"
+        },
+        {
+            "city": "Dz\u00fcr",
+            "region": "09",
+            "country": "MN",
+            "latitude": "49.65796",
+            "longitude": "95.79323"
+        },
+        {
+            "city": "Dz\u00f6\u00f6l\u00f6n",
+            "region": "13",
+            "country": "MN",
+            "latitude": "51.10719",
+            "longitude": "99.67226"
+        },
+        {
+            "city": "Dzel",
+            "region": "19",
+            "country": "MN",
+            "latitude": "49.90713",
+            "longitude": "93.78582"
+        },
+        {
+            "city": "Dzalaa",
+            "region": "02",
+            "country": "MN",
+            "latitude": "44.53333",
+            "longitude": "99.26667"
+        },
+        {
+            "city": "Dzag",
+            "region": "02",
+            "country": "MN",
+            "latitude": "46.94229",
+            "longitude": "99.16689"
+        },
+        {
+            "city": "Dzadgay",
+            "region": "02",
+            "country": "MN",
+            "latitude": "46.21061",
+            "longitude": "99.59862"
+        },
+        {
+            "city": "Duut",
+            "region": "12",
+            "country": "MN",
+            "latitude": "47.51667",
+            "longitude": "91.63333"
+        },
+        {
+            "city": "Hovd",
+            "region": "12",
+            "country": "MN",
+            "latitude": "48.00556",
+            "longitude": "91.64194"
+        },
+        {
+            "city": "Tsagaannuur",
+            "region": "13",
+            "country": "MN",
+            "latitude": "51.35639",
+            "longitude": "99.34444"
+        },
+        {
+            "city": "Delgerm\u00f6r\u00f6n",
+            "region": "02",
+            "country": "MN",
+            "latitude": "46.40946",
+            "longitude": "98.28712"
+        },
+        {
+            "city": "Darvi",
+            "region": "10",
+            "country": "MN",
+            "latitude": "46.45",
+            "longitude": "94.11667"
+        },
+        {
+            "city": "Chihertey",
+            "region": "03",
+            "country": "MN",
+            "latitude": "48.30272",
+            "longitude": "89.51557"
+        },
+        {
+            "city": "Chandman\u012d",
+            "region": "09",
+            "country": "MN",
+            "latitude": "48.05",
+            "longitude": "96.25"
+        },
+        {
+            "city": "Buyant",
+            "region": "03",
+            "country": "MN",
+            "latitude": "48.57967",
+            "longitude": "89.5475"
+        },
+        {
+            "city": "Buyant",
+            "region": "12",
+            "country": "MN",
+            "latitude": "48.06667",
+            "longitude": "91.81667"
+        },
+        {
+            "city": "Buyant",
+            "region": "09",
+            "country": "MN",
+            "latitude": "47.21211",
+            "longitude": "97.60666"
+        },
+        {
+            "city": "Buyant",
+            "region": "02",
+            "country": "MN",
+            "latitude": "46.1664",
+            "longitude": "98.69173"
+        },
+        {
+            "city": "Buyanbat",
+            "region": "10",
+            "country": "MN",
+            "latitude": "46.97838",
+            "longitude": "95.92532"
+        },
+        {
+            "city": "B\u00fcrenhayrhan",
+            "region": "12",
+            "country": "MN",
+            "latitude": "46.08333",
+            "longitude": "91.56667"
+        },
+        {
+            "city": "Bulgan",
+            "region": "12",
+            "country": "MN",
+            "latitude": "46.93678",
+            "longitude": "93.61673"
+        },
+        {
+            "city": "Bulgan",
+            "region": "02",
+            "country": "MN",
+            "latitude": "44.78333",
+            "longitude": "98.65"
+        },
+        {
+            "city": "Bugat",
+            "region": "19",
+            "country": "MN",
+            "latitude": "49.53333",
+            "longitude": "93.81667"
+        },
+        {
+            "city": "Buga",
+            "region": "03",
+            "country": "MN",
+            "latitude": "49.01667",
+            "longitude": "90.18333"
+        },
+        {
+            "city": "Buga",
+            "region": "10",
+            "country": "MN",
+            "latitude": "47.65013",
+            "longitude": "95.0005"
+        },
+        {
+            "city": "Altay sumu",
+            "region": "12",
+            "country": "MN",
+            "latitude": "45.8",
+            "longitude": "92.28333"
+        },
+        {
+            "city": "Bil\u00fc\u00fc",
+            "region": "03",
+            "country": "MN",
+            "latitude": "49.04372",
+            "longitude": "89.43798"
+        },
+        {
+            "city": "Bayshint",
+            "region": "19",
+            "country": "MN",
+            "latitude": "49.66667",
+            "longitude": "90.28333"
+        },
+        {
+            "city": "Bayan-Uhaa",
+            "region": "09",
+            "country": "MN",
+            "latitude": "48.71906",
+            "longitude": "98.79181"
+        },
+        {
+            "city": "Bayansayr",
+            "region": "02",
+            "country": "MN",
+            "latitude": "45.55529",
+            "longitude": "99.43314"
+        },
+        {
+            "city": "Bayan-Ovoo",
+            "region": "10",
+            "country": "MN",
+            "latitude": "44.61667",
+            "longitude": "94.91667"
+        },
+        {
+            "city": "Bayanhoshuu",
+            "region": "12",
+            "country": "MN",
+            "latitude": "48.23333",
+            "longitude": "91.91667"
+        },
+        {
+            "city": "Bayangol",
+            "region": "10",
+            "country": "MN",
+            "latitude": "45.55655",
+            "longitude": "94.36449"
+        },
+        {
+            "city": "Bayanbulag",
+            "region": "02",
+            "country": "MN",
+            "latitude": "46.80981",
+            "longitude": "98.09006"
+        },
+        {
+            "city": "Bayanbulag",
+            "region": "02",
+            "country": "MN",
+            "latitude": "45.01433",
+            "longitude": "98.92759"
+        },
+        {
+            "city": "Bayan",
+            "region": "13",
+            "country": "MN",
+            "latitude": "49.43333",
+            "longitude": "99.6"
+        },
+        {
+            "city": "Bayan",
+            "region": "10",
+            "country": "MN",
+            "latitude": "46.9929",
+            "longitude": "95.19962"
+        },
+        {
+            "city": "Baruunturuun",
+            "region": "19",
+            "country": "MN",
+            "latitude": "49.65963",
+            "longitude": "94.40414"
+        },
+        {
+            "city": "Balgatay",
+            "region": "09",
+            "country": "MN",
+            "latitude": "46.9",
+            "longitude": "97.15"
+        },
+        {
+            "city": "Altraga",
+            "region": "13",
+            "country": "MN",
+            "latitude": "50.1791",
+            "longitude": "98.97205"
+        },
+        {
+            "city": "Altay",
+            "region": "09",
+            "country": "MN",
+            "latitude": "49.70317",
+            "longitude": "96.3592"
+        },
+        {
+            "city": "Altai",
+            "region": "10",
+            "country": "MN",
+            "latitude": "46.37222",
+            "longitude": "96.25833"
+        },
+        {
+            "city": "Altanteel",
+            "region": "12",
+            "country": "MN",
+            "latitude": "47.11044",
+            "longitude": "92.84374"
+        },
+        {
+            "city": "Altanbulag",
+            "region": "09",
+            "country": "MN",
+            "latitude": "49.30688",
+            "longitude": "96.34237"
+        },
+        {
+            "city": "Altan",
+            "region": "09",
+            "country": "MN",
+            "latitude": "48.11667",
+            "longitude": "95.71667"
+        },
+        {
+            "city": "Aldar",
+            "region": "09",
+            "country": "MN",
+            "latitude": "47.64226",
+            "longitude": "96.53687"
+        },
+        {
+            "city": "Horgo",
+            "region": "01",
+            "country": "MN",
+            "latitude": "48.16",
+            "longitude": "99.87556"
+        },
+        {
+            "city": "\u00dcydzen",
+            "region": "14",
+            "country": "MN",
+            "latitude": "44.08216",
+            "longitude": "106.86985"
+        },
+        {
+            "city": "Uubulan",
+            "region": "01",
+            "country": "MN",
+            "latitude": "48.60885",
+            "longitude": "101.93424"
+        },
+        {
+            "city": "Urt",
+            "region": "14",
+            "country": "MN",
+            "latitude": "43.23245",
+            "longitude": "101.04813"
+        },
+        {
+            "city": "Uldz",
+            "region": "11",
+            "country": "MN",
+            "latitude": "48.69028",
+            "longitude": "111.99463"
+        },
+        {
+            "city": "Ulaan-Uul",
+            "region": "02",
+            "country": "MN",
+            "latitude": "46.0674",
+            "longitude": "100.81724"
+        },
+        {
+            "city": "Ulaan-Uul",
+            "region": "07",
+            "country": "MN",
+            "latitude": "44.33333",
+            "longitude": "111.23333"
+        },
+        {
+            "city": "Ulaanjirem",
+            "region": "08",
+            "country": "MN",
+            "latitude": "45.05",
+            "longitude": "105.56667"
+        },
+        {
+            "city": "Ulaanhudag",
+            "region": "18",
+            "country": "MN",
+            "latitude": "47.33333",
+            "longitude": "104.5"
+        },
+        {
+            "city": "Ulaanhad",
+            "region": "18",
+            "country": "MN",
+            "latitude": "47.94993",
+            "longitude": "105.55321"
+        },
+        {
+            "city": "Ulaan-Ereg",
+            "region": "11",
+            "country": "MN",
+            "latitude": "46.9",
+            "longitude": "109.75"
+        },
+        {
+            "city": "Ulaandel",
+            "region": "17",
+            "country": "MN",
+            "latitude": "46.36446",
+            "longitude": "113.577"
+        },
+        {
+            "city": "Ulaanbaatar",
+            "region": "20",
+            "country": "MN",
+            "latitude": "47.90771",
+            "longitude": "106.88324"
+        },
+        {
+            "city": "Turt",
+            "region": "13",
+            "country": "MN",
+            "latitude": "51.50725",
+            "longitude": "100.66257"
+        },
+        {
+            "city": "Tsul-Ulaan",
+            "region": "21",
+            "country": "MN",
+            "latitude": "47.83333",
+            "longitude": "104.5"
+        },
+        {
+            "city": "Tsoohor",
+            "region": "14",
+            "country": "MN",
+            "latitude": "43.30657",
+            "longitude": "104.07417"
+        },
+        {
+            "city": "Tsomog",
+            "region": "07",
+            "country": "MN",
+            "latitude": "45.91667",
+            "longitude": "109.06667"
+        },
+        {
+            "city": "Tsetserleg",
+            "region": "01",
+            "country": "MN",
+            "latitude": "47.475",
+            "longitude": "101.45417"
+        },
+        {
+            "city": "Tsengel",
+            "region": "13",
+            "country": "MN",
+            "latitude": "49.47833",
+            "longitude": "100.88944"
+        },
+        {
+            "city": "Tsant",
+            "region": "08",
+            "country": "MN",
+            "latitude": "46.18333",
+            "longitude": "106.71667"
+        },
+        {
+            "city": "Tsagaan-Ovoo",
+            "region": "15",
+            "country": "MN",
+            "latitude": "45.96404",
+            "longitude": "101.45977"
+        },
+        {
+            "city": "Tsagaan-Ovoo",
+            "region": "08",
+            "country": "MN",
+            "latitude": "45.50719",
+            "longitude": "105.75594"
+        },
+        {
+            "city": "Tsagaand\u00f6rv\u00f6lj",
+            "region": "07",
+            "country": "MN",
+            "latitude": "45.79817",
+            "longitude": "109.31826"
+        },
+        {
+            "city": "Tsagaanders",
+            "region": "06",
+            "country": "MN",
+            "latitude": "48.05",
+            "longitude": "114.36667"
+        },
+        {
+            "city": "Naran-mandokhu Somon",
+            "region": "07",
+            "country": "MN",
+            "latitude": "44.4",
+            "longitude": "108.25"
+        },
+        {
+            "city": "Teshig",
+            "region": "21",
+            "country": "MN",
+            "latitude": "49.94669",
+            "longitude": "102.66123"
+        },
+        {
+            "city": "Teel",
+            "region": "01",
+            "country": "MN",
+            "latitude": "48.04639",
+            "longitude": "100.50917"
+        },
+        {
+            "city": "Tavin",
+            "region": "08",
+            "country": "MN",
+            "latitude": "46.39194",
+            "longitude": "105.73517"
+        },
+        {
+            "city": "Tavanbulag",
+            "region": "01",
+            "country": "MN",
+            "latitude": "47.38185",
+            "longitude": "101.90815"
+        },
+        {
+            "city": "Dashinchilling",
+            "region": "21",
+            "country": "MN",
+            "latitude": "47.85",
+            "longitude": "104.05"
+        },
+        {
+            "city": "Suugaant",
+            "region": "08",
+            "country": "MN",
+            "latitude": "45.53257",
+            "longitude": "107.04546"
+        },
+        {
+            "city": "S\u00fcmiyn Bulag",
+            "region": "06",
+            "country": "MN",
+            "latitude": "49.13333",
+            "longitude": "114.88333"
+        },
+        {
+            "city": "S\u00fchbaatar",
+            "region": "16",
+            "country": "MN",
+            "latitude": "50.23139",
+            "longitude": "106.20778"
+        },
+        {
+            "city": "S\u00f6rt",
+            "region": "21",
+            "country": "MN",
+            "latitude": "49.31751",
+            "longitude": "104.38196"
+        },
+        {
+            "city": "Shireet",
+            "region": "17",
+            "country": "MN",
+            "latitude": "45.72727",
+            "longitude": "112.35563"
+        },
+        {
+            "city": "Shiree",
+            "region": "15",
+            "country": "MN",
+            "latitude": "45.85",
+            "longitude": "103.4"
+        },
+        {
+            "city": "Shar\u00efngol",
+            "region": "16",
+            "country": "MN",
+            "latitude": "49.23733",
+            "longitude": "106.43005"
+        },
+        {
+            "city": "Sharhulsan",
+            "region": "14",
+            "country": "MN",
+            "latitude": "44.65",
+            "longitude": "104.05"
+        },
+        {
+            "city": "Sharga",
+            "region": "21",
+            "country": "MN",
+            "latitude": "49.04192",
+            "longitude": "102.08925"
+        },
+        {
+            "city": "Sergelen",
+            "region": "06",
+            "country": "MN",
+            "latitude": "48.56667",
+            "longitude": "114.08333"
+        },
+        {
+            "city": "Sergelen",
+            "region": "17",
+            "country": "MN",
+            "latitude": "46.2",
+            "longitude": "111.81667"
+        },
+        {
+            "city": "Senj",
+            "region": "07",
+            "country": "MN",
+            "latitude": "44.71667",
+            "longitude": "110.76667"
+        },
+        {
+            "city": "Selenge",
+            "region": "13",
+            "country": "MN",
+            "latitude": "49.43333",
+            "longitude": "101.46667"
+        },
+        {
+            "city": "Saynshand",
+            "region": "14",
+            "country": "MN",
+            "latitude": "43.61667",
+            "longitude": "102.53333"
+        },
+        {
+            "city": "Sangiyn Dalay",
+            "region": "15",
+            "country": "MN",
+            "latitude": "46.65",
+            "longitude": "103.31667"
+        },
+        {
+            "city": "Sangiyn Dalay",
+            "region": "08",
+            "country": "MN",
+            "latitude": "46.00793",
+            "longitude": "104.94209"
+        },
+        {
+            "city": "Sangiyn Dalay",
+            "region": "14",
+            "country": "MN",
+            "latitude": "42.84199",
+            "longitude": "105.13796"
+        },
+        {
+            "city": "Rashaant",
+            "region": "13",
+            "country": "MN",
+            "latitude": "49.12667",
+            "longitude": "101.42806"
+        },
+        {
+            "city": "Rashaant",
+            "region": "08",
+            "country": "MN",
+            "latitude": "45.3",
+            "longitude": "106.2"
+        },
+        {
+            "city": "\u00d6vt",
+            "region": "15",
+            "country": "MN",
+            "latitude": "46.81667",
+            "longitude": "102.25"
+        },
+        {
+            "city": "Ovoot",
+            "region": "17",
+            "country": "MN",
+            "latitude": "45.30423",
+            "longitude": "113.84977"
+        },
+        {
+            "city": "Orhontuul",
+            "region": "16",
+            "country": "MN",
+            "latitude": "48.94972",
+            "longitude": "104.97583"
+        },
+        {
+            "city": "\u00d6rg\u00f6n",
+            "region": "02",
+            "country": "MN",
+            "latitude": "44.73637",
+            "longitude": "100.39135"
+        },
+        {
+            "city": "Orgil",
+            "region": "18",
+            "country": "MN",
+            "latitude": "48.4538",
+            "longitude": "105.31769"
+        },
+        {
+            "city": "Onon",
+            "region": "11",
+            "country": "MN",
+            "latitude": "48.61667",
+            "longitude": "110.6"
+        },
+        {
+            "city": "Ongon",
+            "region": "15",
+            "country": "MN",
+            "latitude": "46.98259",
+            "longitude": "103.78389"
+        },
+        {
+            "city": "Ongi",
+            "region": "15",
+            "country": "MN",
+            "latitude": "46.46667",
+            "longitude": "102.28333"
+        },
+        {
+            "city": "Ongi",
+            "region": "08",
+            "country": "MN",
+            "latitude": "45.45",
+            "longitude": "103.9"
+        },
+        {
+            "city": "\u00d6nd\u00f6rhoshuu",
+            "region": "06",
+            "country": "MN",
+            "latitude": "48",
+            "longitude": "113.93333"
+        },
+        {
+            "city": "Zezen Khana",
+            "region": "11",
+            "country": "MN",
+            "latitude": "47.31944",
+            "longitude": "110.65556"
+        },
+        {
+            "city": "\u00d6ldziyt",
+            "region": "01",
+            "country": "MN",
+            "latitude": "48.52843",
+            "longitude": "101.37394"
+        },
+        {
+            "city": "\u00d6ldziyt",
+            "region": "07",
+            "country": "MN",
+            "latitude": "44.68333",
+            "longitude": "109.01667"
+        },
+        {
+            "city": "\u00d6g\u00f6\u00f6m\u00f6r",
+            "region": "14",
+            "country": "MN",
+            "latitude": "43.78336",
+            "longitude": "104.48067"
+        },
+        {
+            "city": "N\u00fcden",
+            "region": "07",
+            "country": "MN",
+            "latitude": "43.58333",
+            "longitude": "110.46667"
+        },
+        {
+            "city": "Nomgon",
+            "region": "16",
+            "country": "MN",
+            "latitude": "49.2001",
+            "longitude": "105.66582"
+        },
+        {
+            "city": "Nart",
+            "region": "16",
+            "country": "MN",
+            "latitude": "49.145",
+            "longitude": "105.38833"
+        },
+        {
+            "city": "Naranbulag",
+            "region": "06",
+            "country": "MN",
+            "latitude": "49.2436",
+            "longitude": "113.37427"
+        },
+        {
+            "city": "Murun-kuren",
+            "region": "13",
+            "country": "MN",
+            "latitude": "49.63417",
+            "longitude": "100.1625"
+        },
+        {
+            "city": "M\u00f6r\u00f6n",
+            "region": "11",
+            "country": "MN",
+            "latitude": "47.38254",
+            "longitude": "110.31647"
+        },
+        {
+            "city": "M\u00f6nhbulag",
+            "region": "15",
+            "country": "MN",
+            "latitude": "46.75",
+            "longitude": "103.51667"
+        },
+        {
+            "city": "Modot",
+            "region": "11",
+            "country": "MN",
+            "latitude": "47.75",
+            "longitude": "109.05"
+        },
+        {
+            "city": "Mayhan",
+            "region": "15",
+            "country": "MN",
+            "latitude": "46.09121",
+            "longitude": "103.83951"
+        },
+        {
+            "city": "Mardzad",
+            "region": "15",
+            "country": "MN",
+            "latitude": "45.95",
+            "longitude": "102.05"
+        },
+        {
+            "city": "Manhan",
+            "region": "13",
+            "country": "MN",
+            "latitude": "50.12139",
+            "longitude": "100.04306"
+        },
+        {
+            "city": "Mandalgov\u012d",
+            "region": "08",
+            "country": "MN",
+            "latitude": "45.7625",
+            "longitude": "106.27083"
+        },
+        {
+            "city": "Dz\u00fc\u00fcnkharaa",
+            "region": "16",
+            "country": "MN",
+            "latitude": "48.63333",
+            "longitude": "106.73333"
+        },
+        {
+            "city": "Mandal",
+            "region": "21",
+            "country": "MN",
+            "latitude": "48.63111",
+            "longitude": "103.52917"
+        },
+        {
+            "city": "Mandal",
+            "region": "18",
+            "country": "MN",
+            "latitude": "48.37062",
+            "longitude": "106.74076"
+        },
+        {
+            "city": "Maan\u012dt",
+            "region": "21",
+            "country": "MN",
+            "latitude": "48.29667",
+            "longitude": "103.42556"
+        },
+        {
+            "city": "Maan\u012dt",
+            "region": "18",
+            "country": "MN",
+            "latitude": "47.25",
+            "longitude": "107.53333"
+        },
+        {
+            "city": "Sujji",
+            "region": "18",
+            "country": "MN",
+            "latitude": "47.86667",
+            "longitude": "105.25"
+        },
+        {
+            "city": "Javhlant",
+            "region": "18",
+            "country": "MN",
+            "latitude": "48.80189",
+            "longitude": "105.924"
+        },
+        {
+            "city": "Javarthushuu",
+            "region": "06",
+            "country": "MN",
+            "latitude": "49.15",
+            "longitude": "112.73333"
+        },
+        {
+            "city": "Jargalant",
+            "region": "16",
+            "country": "MN",
+            "latitude": "50.0675",
+            "longitude": "105.88056"
+        },
+        {
+            "city": "Jargalant",
+            "region": "16",
+            "country": "MN",
+            "latitude": "49.66667",
+            "longitude": "106.33333"
+        },
+        {
+            "city": "Jargalant",
+            "region": "13",
+            "country": "MN",
+            "latitude": "49.29591",
+            "longitude": "100.25711"
+        },
+        {
+            "city": "Jargalant",
+            "region": "18",
+            "country": "MN",
+            "latitude": "48.52056",
+            "longitude": "105.86833"
+        },
+        {
+            "city": "Jargalant",
+            "region": "01",
+            "country": "MN",
+            "latitude": "47.79309",
+            "longitude": "101.97235"
+        },
+        {
+            "city": "Jargalant",
+            "region": "01",
+            "country": "MN",
+            "latitude": "47.53333",
+            "longitude": "100.21667"
+        },
+        {
+            "city": "Ingettolgoy",
+            "region": "21",
+            "country": "MN",
+            "latitude": "49.46167",
+            "longitude": "103.97417"
+        },
+        {
+            "city": "Ihs\u00fc\u00fcj",
+            "region": "18",
+            "country": "MN",
+            "latitude": "48.2257",
+            "longitude": "106.29152"
+        },
+        {
+            "city": "Ihbulag",
+            "region": "14",
+            "country": "MN",
+            "latitude": "43.2",
+            "longitude": "107.2"
+        },
+        {
+            "city": "Huurch",
+            "region": "16",
+            "country": "MN",
+            "latitude": "50.10361",
+            "longitude": "105.42"
+        },
+        {
+            "city": "Hutag",
+            "region": "21",
+            "country": "MN",
+            "latitude": "49.395",
+            "longitude": "102.69333"
+        },
+        {
+            "city": "H\u00fcremt",
+            "region": "21",
+            "country": "MN",
+            "latitude": "48.66306",
+            "longitude": "102.62278"
+        },
+        {
+            "city": "H\u00fcremt",
+            "region": "15",
+            "country": "MN",
+            "latitude": "46.30241",
+            "longitude": "102.44554"
+        },
+        {
+            "city": "Hulstay",
+            "region": "06",
+            "country": "MN",
+            "latitude": "48.43333",
+            "longitude": "114.86667"
+        },
+        {
+            "city": "Hujirt",
+            "region": "01",
+            "country": "MN",
+            "latitude": "48.88199",
+            "longitude": "101.23953"
+        },
+        {
+            "city": "Hujirt",
+            "region": "15",
+            "country": "MN",
+            "latitude": "46.89657",
+            "longitude": "102.78259"
+        },
+        {
+            "city": "Hujirt",
+            "region": "18",
+            "country": "MN",
+            "latitude": "46.6",
+            "longitude": "104.58333"
+        },
+        {
+            "city": "Noyon Suma",
+            "region": "14",
+            "country": "MN",
+            "latitude": "43.17361",
+            "longitude": "102.13194"
+        },
+        {
+            "city": "Khuvsget",
+            "region": "07",
+            "country": "MN",
+            "latitude": "43.60639",
+            "longitude": "109.63806"
+        },
+        {
+            "city": "Hovd",
+            "region": "15",
+            "country": "MN",
+            "latitude": "44.66667",
+            "longitude": "102.38333"
+        },
+        {
+            "city": "Hovd",
+            "region": "15",
+            "country": "MN",
+            "latitude": "44.67024",
+            "longitude": "102.17491"
+        },
+        {
+            "city": "Hotont",
+            "region": "01",
+            "country": "MN",
+            "latitude": "47.36278",
+            "longitude": "102.46794"
+        },
+        {
+            "city": "H\u00f6sh\u00f6\u00f6t",
+            "region": "01",
+            "country": "MN",
+            "latitude": "48.1009",
+            "longitude": "102.55686"
+        },
+        {
+            "city": "Horiult",
+            "region": "02",
+            "country": "MN",
+            "latitude": "45.2",
+            "longitude": "100.76667"
+        },
+        {
+            "city": "Tsagaan-Owoo",
+            "region": "06",
+            "country": "MN",
+            "latitude": "48.4",
+            "longitude": "113.43333"
+        },
+        {
+            "city": "Bayan Uula Sumu",
+            "region": "15",
+            "country": "MN",
+            "latitude": "45.16667",
+            "longitude": "101.4"
+        },
+        {
+            "city": "Hoolt",
+            "region": "15",
+            "country": "MN",
+            "latitude": "45.53333",
+            "longitude": "102.98333"
+        },
+        {
+            "city": "Hongor",
+            "region": "07",
+            "country": "MN",
+            "latitude": "45.8",
+            "longitude": "111.2"
+        },
+        {
+            "city": "Hongor",
+            "region": "17",
+            "country": "MN",
+            "latitude": "45.13507",
+            "longitude": "113.68378"
+        },
+        {
+            "city": "Undur Sume",
+            "region": "13",
+            "country": "MN",
+            "latitude": "50.47278",
+            "longitude": "100.92778"
+        },
+        {
+            "city": "H\u00f6hb\u00fcrd",
+            "region": "02",
+            "country": "MN",
+            "latitude": "46.28575",
+            "longitude": "100.44834"
+        },
+        {
+            "city": "Herlen",
+            "region": "11",
+            "country": "MN",
+            "latitude": "47.3",
+            "longitude": "110.56667"
+        },
+        {
+            "city": "Haylaastay",
+            "region": "17",
+            "country": "MN",
+            "latitude": "46.9",
+            "longitude": "113.41667"
+        },
+        {
+            "city": "Havirga",
+            "region": "17",
+            "country": "MN",
+            "latitude": "45.66667",
+            "longitude": "113.08333"
+        },
+        {
+            "city": "Hatavch",
+            "region": "17",
+            "country": "MN",
+            "latitude": "46.16667",
+            "longitude": "112.95"
+        },
+        {
+            "city": "Hatansuudal",
+            "region": "02",
+            "country": "MN",
+            "latitude": "44.54595",
+            "longitude": "100.82788"
+        },
+        {
+            "city": "Hashaat",
+            "region": "08",
+            "country": "MN",
+            "latitude": "45.24323",
+            "longitude": "104.80511"
+        },
+        {
+            "city": "Orhon",
+            "region": "23",
+            "country": "MN",
+            "latitude": "49.8325",
+            "longitude": "106.13639"
+        },
+        {
+            "city": "Harhorin",
+            "region": "15",
+            "country": "MN",
+            "latitude": "47.19753",
+            "longitude": "102.82379"
+        },
+        {
+            "city": "Haraat",
+            "region": "08",
+            "country": "MN",
+            "latitude": "46.41667",
+            "longitude": "107.65"
+        },
+        {
+            "city": "Hanh\u00f6hiy",
+            "region": "17",
+            "country": "MN",
+            "latitude": "47.61667",
+            "longitude": "112.13333"
+        },
+        {
+            "city": "Hajuu-Us",
+            "region": "08",
+            "country": "MN",
+            "latitude": "46.04988",
+            "longitude": "107.48955"
+        },
+        {
+            "city": "Erhet",
+            "region": "21",
+            "country": "MN",
+            "latitude": "48.27394",
+            "longitude": "102.9812"
+        },
+        {
+            "city": "Ergel",
+            "region": "07",
+            "country": "MN",
+            "latitude": "43.15",
+            "longitude": "109.13333"
+        },
+        {
+            "city": "Ereencav",
+            "region": "06",
+            "country": "MN",
+            "latitude": "49.8807",
+            "longitude": "115.72526"
+        },
+        {
+            "city": "Erdenetsogt",
+            "region": "02",
+            "country": "MN",
+            "latitude": "46.41845",
+            "longitude": "100.82239"
+        },
+        {
+            "city": "Erdenetsogt",
+            "region": "14",
+            "country": "MN",
+            "latitude": "42.97238",
+            "longitude": "106.11866"
+        },
+        {
+            "city": "Erdenet",
+            "region": "25",
+            "country": "MN",
+            "latitude": "49.03333",
+            "longitude": "104.08333"
+        },
+        {
+            "city": "Eg-Uur",
+            "region": "13",
+            "country": "MN",
+            "latitude": "50.10944",
+            "longitude": "101.57528"
+        },
+        {
+            "city": "Enhtal",
+            "region": "16",
+            "country": "MN",
+            "latitude": "49.2475",
+            "longitude": "105.37361"
+        },
+        {
+            "city": "Eg",
+            "region": "11",
+            "country": "MN",
+            "latitude": "48.68333",
+            "longitude": "110.18333"
+        },
+        {
+            "city": "Dzuunmod",
+            "region": "18",
+            "country": "MN",
+            "latitude": "47.70694",
+            "longitude": "106.95278"
+        },
+        {
+            "city": "Dz\u00fc\u00fcnharaa",
+            "region": "16",
+            "country": "MN",
+            "latitude": "48.85229",
+            "longitude": "106.45786"
+        },
+        {
+            "city": "Dz\u00fc\u00fcnbulag",
+            "region": "06",
+            "country": "MN",
+            "latitude": "46.95343",
+            "longitude": "115.29396"
+        },
+        {
+            "city": "Dz\u00fc\u00fcnbulag",
+            "region": "17",
+            "country": "MN",
+            "latitude": "46.38333",
+            "longitude": "112.18333"
+        },
+        {
+            "city": "Dzogsool",
+            "region": "18",
+            "country": "MN",
+            "latitude": "46.8",
+            "longitude": "107.15"
+        },
+        {
+            "city": "Dzelter",
+            "region": "16",
+            "country": "MN",
+            "latitude": "50.31556",
+            "longitude": "105.04583"
+        },
+        {
+            "city": "Dzegstey",
+            "region": "01",
+            "country": "MN",
+            "latitude": "47.66805",
+            "longitude": "102.54999"
+        },
+        {
+            "city": "Dzaanhoshuu",
+            "region": "01",
+            "country": "MN",
+            "latitude": "47.49331",
+            "longitude": "100.87801"
+        },
+        {
+            "city": "Dund-Urt",
+            "region": "18",
+            "country": "MN",
+            "latitude": "48.03791",
+            "longitude": "105.9219"
+        },
+        {
+            "city": "Dundb\u00fcrd",
+            "region": "11",
+            "country": "MN",
+            "latitude": "47.9459",
+            "longitude": "111.49784"
+        },
+        {
+            "city": "Doloon",
+            "region": "14",
+            "country": "MN",
+            "latitude": "44.42446",
+            "longitude": "105.32078"
+        },
+        {
+            "city": "Delgerhaan",
+            "region": "16",
+            "country": "MN",
+            "latitude": "50.08578",
+            "longitude": "106.18578"
+        },
+        {
+            "city": "Dashbalbar",
+            "region": "06",
+            "country": "MN",
+            "latitude": "49.54571",
+            "longitude": "114.40287"
+        },
+        {
+            "city": "Darhan",
+            "region": "23",
+            "country": "MN",
+            "latitude": "49.48667",
+            "longitude": "105.92278"
+        },
+        {
+            "city": "Darhan",
+            "region": "21",
+            "country": "MN",
+            "latitude": "48.25463",
+            "longitude": "103.88054"
+        },
+        {
+            "city": "Darhan",
+            "region": "11",
+            "country": "MN",
+            "latitude": "46.61667",
+            "longitude": "109.41667"
+        },
+        {
+            "city": "Dalay",
+            "region": "14",
+            "country": "MN",
+            "latitude": "43.46787",
+            "longitude": "103.51284"
+        },
+        {
+            "city": "Dalandzadgad",
+            "region": "14",
+            "country": "MN",
+            "latitude": "43.57083",
+            "longitude": "104.425"
+        },
+        {
+            "city": "Choyr",
+            "region": "24",
+            "country": "MN",
+            "latitude": "46.36111",
+            "longitude": "108.36111"
+        },
+        {
+            "city": "Choybalsan",
+            "region": "06",
+            "country": "MN",
+            "latitude": "48.06667",
+            "longitude": "114.5"
+        },
+        {
+            "city": "Chonogol",
+            "region": "17",
+            "country": "MN",
+            "latitude": "45.9",
+            "longitude": "115.36667"
+        },
+        {
+            "city": "Chandman\u012d",
+            "region": "07",
+            "country": "MN",
+            "latitude": "45.53333",
+            "longitude": "110.46667"
+        },
+        {
+            "city": "Saynshand",
+            "region": "07",
+            "country": "MN",
+            "latitude": "44.88239",
+            "longitude": "110.11631"
+        },
+        {
+            "city": "Buyant",
+            "region": "11",
+            "country": "MN",
+            "latitude": "46.25",
+            "longitude": "110.83333"
+        },
+        {
+            "city": "Burgaltay",
+            "region": "16",
+            "country": "MN",
+            "latitude": "49.265",
+            "longitude": "104.74348"
+        },
+        {
+            "city": "Bumbat",
+            "region": "15",
+            "country": "MN",
+            "latitude": "46.49674",
+            "longitude": "104.11777"
+        },
+        {
+            "city": "Bulgan",
+            "region": "13",
+            "country": "MN",
+            "latitude": "50.54194",
+            "longitude": "101.51417"
+        },
+        {
+            "city": "Bulgan",
+            "region": "21",
+            "country": "MN",
+            "latitude": "48.8125",
+            "longitude": "103.53472"
+        },
+        {
+            "city": "Bulgan",
+            "region": "14",
+            "country": "MN",
+            "latitude": "44.09745",
+            "longitude": "103.54288"
+        },
+        {
+            "city": "Bulagtay",
+            "region": "16",
+            "country": "MN",
+            "latitude": "49.77594",
+            "longitude": "107.51616"
+        },
+        {
+            "city": "Bulagiyn Denj",
+            "region": "01",
+            "country": "MN",
+            "latitude": "47.31869",
+            "longitude": "101.11576"
+        },
+        {
+            "city": "Bulag",
+            "region": "13",
+            "country": "MN",
+            "latitude": "49.85946",
+            "longitude": "100.62687"
+        },
+        {
+            "city": "Bulag",
+            "region": "18",
+            "country": "MN",
+            "latitude": "48.2",
+            "longitude": "108.48333"
+        },
+        {
+            "city": "Bugat",
+            "region": "21",
+            "country": "MN",
+            "latitude": "49.06667",
+            "longitude": "103.66583"
+        },
+        {
+            "city": "Bugant",
+            "region": "16",
+            "country": "MN",
+            "latitude": "49.58333",
+            "longitude": "106.85"
+        },
+        {
+            "city": "Bornuur",
+            "region": "18",
+            "country": "MN",
+            "latitude": "48.46667",
+            "longitude": "106.26667"
+        },
+        {
+            "city": "B\u00f6h\u00f6t",
+            "region": "08",
+            "country": "MN",
+            "latitude": "45.23223",
+            "longitude": "108.28245"
+        },
+        {
+            "city": "Bod\u012d",
+            "region": "02",
+            "country": "MN",
+            "latitude": "45.41171",
+            "longitude": "100.574"
+        },
+        {
+            "city": "Bayshint",
+            "region": "18",
+            "country": "MN",
+            "latitude": "47.41667",
+            "longitude": "104.81667"
+        },
+        {
+            "city": "Bayasgalant",
+            "region": "18",
+            "country": "MN",
+            "latitude": "47.17945",
+            "longitude": "108.25996"
+        },
+        {
+            "city": "Bayasgalant",
+            "region": "17",
+            "country": "MN",
+            "latitude": "46.98333",
+            "longitude": "112.05"
+        },
+        {
+            "city": "Bayan-Ulaan",
+            "region": "15",
+            "country": "MN",
+            "latitude": "46.52178",
+            "longitude": "102.59428"
+        },
+        {
+            "city": "Bayantsagaan",
+            "region": "01",
+            "country": "MN",
+            "latitude": "48.73167",
+            "longitude": "100.76"
+        },
+        {
+            "city": "Bayant\u00f6h\u00f6m",
+            "region": "18",
+            "country": "MN",
+            "latitude": "46.91667",
+            "longitude": "105.05"
+        },
+        {
+            "city": "Bayan-Ovoo",
+            "region": "11",
+            "country": "MN",
+            "latitude": "49.01667",
+            "longitude": "111.63333"
+        },
+        {
+            "city": "Javhlant",
+            "region": "11",
+            "country": "MN",
+            "latitude": "47.78333",
+            "longitude": "112.11667"
+        },
+        {
+            "city": "Bayanhoshuu",
+            "region": "02",
+            "country": "MN",
+            "latitude": "46.70197",
+            "longitude": "100.1433"
+        },
+        {
+            "city": "Bayanhongor",
+            "region": "02",
+            "country": "MN",
+            "latitude": "46.71667",
+            "longitude": "100.11667"
+        },
+        {
+            "city": "Bayanhongor",
+            "region": "02",
+            "country": "MN",
+            "latitude": "46.19444",
+            "longitude": "100.71806"
+        },
+        {
+            "city": "Bayandelger",
+            "region": "18",
+            "country": "MN",
+            "latitude": "47.72732",
+            "longitude": "108.11062"
+        },
+        {
+            "city": "Bayanbulag",
+            "region": "11",
+            "country": "MN",
+            "latitude": "47.86667",
+            "longitude": "109.91667"
+        },
+        {
+            "city": "Bayanbaraat",
+            "region": "18",
+            "country": "MN",
+            "latitude": "46.86667",
+            "longitude": "106.25"
+        },
+        {
+            "city": "Bayan",
+            "region": "11",
+            "country": "MN",
+            "latitude": "48.55",
+            "longitude": "111.08333"
+        },
+        {
+            "city": "Bayan",
+            "region": "06",
+            "country": "MN",
+            "latitude": "47.91667",
+            "longitude": "112.95"
+        },
+        {
+            "city": "Bayan",
+            "region": "01",
+            "country": "MN",
+            "latitude": "47.45",
+            "longitude": "103.15"
+        },
+        {
+            "city": "Bayan",
+            "region": "11",
+            "country": "MN",
+            "latitude": "47.16667",
+            "longitude": "110.81667"
+        },
+        {
+            "city": "Bayan",
+            "region": "07",
+            "country": "MN",
+            "latitude": "46.25",
+            "longitude": "110.16667"
+        },
+        {
+            "city": "Bat-\u00d6ldziyt",
+            "region": "18",
+            "country": "MN",
+            "latitude": "48.21552",
+            "longitude": "104.77318"
+        },
+        {
+            "city": "Baruun-Urt",
+            "region": "17",
+            "country": "MN",
+            "latitude": "46.68056",
+            "longitude": "113.27917"
+        },
+        {
+            "city": "Baruunsuu",
+            "region": "14",
+            "country": "MN",
+            "latitude": "43.65595",
+            "longitude": "105.75577"
+        },
+        {
+            "city": "Hushaat",
+            "region": "16",
+            "country": "MN",
+            "latitude": "49.5",
+            "longitude": "105.61667"
+        },
+        {
+            "city": "Badrah",
+            "region": "13",
+            "country": "MN",
+            "latitude": "49.61833",
+            "longitude": "101.98972"
+        },
+        {
+            "city": "Avraga",
+            "region": "11",
+            "country": "MN",
+            "latitude": "47.17851",
+            "longitude": "109.18968"
+        },
+        {
+            "city": "Avdzaga",
+            "region": "21",
+            "country": "MN",
+            "latitude": "47.63333",
+            "longitude": "103.51667"
+        },
+        {
+            "city": "Arvayheer",
+            "region": "15",
+            "country": "MN",
+            "latitude": "46.26389",
+            "longitude": "102.775"
+        },
+        {
+            "city": "Arhust",
+            "region": "18",
+            "country": "MN",
+            "latitude": "47.79425",
+            "longitude": "107.88334"
+        },
+        {
+            "city": "Arguut",
+            "region": "15",
+            "country": "MN",
+            "latitude": "45.46278",
+            "longitude": "102.42056"
+        },
+        {
+            "city": "Argatay",
+            "region": "08",
+            "country": "MN",
+            "latitude": "45.76667",
+            "longitude": "107.98333"
+        },
+        {
+            "city": "Argalant",
+            "region": "18",
+            "country": "MN",
+            "latitude": "47.94211",
+            "longitude": "105.89584"
+        },
+        {
+            "city": "Ar-Asgat",
+            "region": "18",
+            "country": "MN",
+            "latitude": "48.26222",
+            "longitude": "105.41194"
+        },
+        {
+            "city": "Amardalay",
+            "region": "08",
+            "country": "MN",
+            "latitude": "46.12572",
+            "longitude": "106.37426"
+        },
+        {
+            "city": "Altan-Ovoo",
+            "region": "01",
+            "country": "MN",
+            "latitude": "47.44742",
+            "longitude": "101.75503"
+        },
+        {
+            "city": "Altanbulag",
+            "region": "16",
+            "country": "MN",
+            "latitude": "50.31556",
+            "longitude": "106.49861"
+        },
+        {
+            "city": "Altanbulag",
+            "region": "18",
+            "country": "MN",
+            "latitude": "47.7",
+            "longitude": "106.4"
+        },
+        {
+            "city": "Asgat",
+            "region": "09",
+            "country": "MN",
+            "latitude": "49.51082",
+            "longitude": "96.79944"
+        },
+        {
+            "city": "Ulaanshiveet",
+            "region": "21",
+            "country": "MN",
+            "latitude": "47.28948",
+            "longitude": "103.85659"
+        },
+        {
+            "city": "S\u00fcmber",
+            "region": "06",
+            "country": "MN",
+            "latitude": "47.65858",
+            "longitude": "118.51014"
+        },
+        {
+            "city": "Bayantal",
+            "region": "24",
+            "country": "MN",
+            "latitude": "46.62134",
+            "longitude": "108.35804"
+        },
+        {
+            "city": "Shiveegovi",
+            "region": "24",
+            "country": "MN",
+            "latitude": "46.09081",
+            "longitude": "108.68306"
+        },
+        {
+            "city": "Hongor",
+            "region": "23",
+            "country": "MN",
+            "latitude": "49.23012",
+            "longitude": "105.89674"
+        },
+        {
+            "city": "Jargalant",
+            "region": "25",
+            "country": "MN",
+            "latitude": "49.12915",
+            "longitude": "104.40803"
+        },
+        {
+            "city": "H\u00f6shigiyn-Ar",
+            "region": "18",
+            "country": "MN",
+            "latitude": "47.55717",
+            "longitude": "106.96333"
+        },
+        {
+            "city": "\u0417\u0443\u0443\u043d\u043c\u043e\u0434",
+            "region": "18",
+            "country": "MN",
+            "latitude": "47.70693",
+            "longitude": "106.95276"
+        },
+        {
+            "city": "Kharkhorin",
+            "region": "15",
+            "country": "MN",
+            "latitude": "47.19245",
+            "longitude": "102.81349"
+        }
+    ]
+}

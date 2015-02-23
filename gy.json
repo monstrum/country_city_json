@@ -1,0 +1,90 @@
+{
+    "country": "Guyana",
+    "code": "GY",
+    "cities": [
+        {
+            "city": "Vreed en Hoop",
+            "region": "12",
+            "country": "GY",
+            "latitude": "6.8075",
+            "longitude": "-58.18694"
+        },
+        {
+            "city": "Skeldon",
+            "region": "13",
+            "country": "GY",
+            "latitude": "5.88333",
+            "longitude": "-57.13333"
+        },
+        {
+            "city": "Rosignol",
+            "region": "15",
+            "country": "GY",
+            "latitude": "6.28333",
+            "longitude": "-57.53333"
+        },
+        {
+            "city": "Parika",
+            "region": "14",
+            "country": "GY",
+            "latitude": "6.83712",
+            "longitude": "-58.42941"
+        },
+        {
+            "city": "New Amsterdam",
+            "region": "13",
+            "country": "GY",
+            "latitude": "6.25",
+            "longitude": "-57.51667"
+        },
+        {
+            "city": "Mahaicony Village",
+            "region": "15",
+            "country": "GY",
+            "latitude": "6.55",
+            "longitude": "-57.8"
+        },
+        {
+            "city": "Mahaica Village",
+            "region": "12",
+            "country": "GY",
+            "latitude": "6.68333",
+            "longitude": "-57.91667"
+        },
+        {
+            "city": "Linden",
+            "region": "18",
+            "country": "GY",
+            "latitude": "6",
+            "longitude": "-58.3"
+        },
+        {
+            "city": "Georgetown",
+            "region": "12",
+            "country": "GY",
+            "latitude": "6.80448",
+            "longitude": "-58.15527"
+        },
+        {
+            "city": "Fort Wellington",
+            "region": "15",
+            "country": "GY",
+            "latitude": "6.4",
+            "longitude": "-57.6"
+        },
+        {
+            "city": "Bartica",
+            "region": "11",
+            "country": "GY",
+            "latitude": "6.4",
+            "longitude": "-58.61667"
+        },
+        {
+            "city": "Anna Regina",
+            "region": "16",
+            "country": "GY",
+            "latitude": "7.26439",
+            "longitude": "-58.50769"
+        }
+    ]
+}

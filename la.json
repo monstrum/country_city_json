@@ -1,0 +1,307 @@
+{
+    "country": "Lao People\"S Democratic Republic",
+    "code": "LA",
+    "cities": [
+        {
+            "city": "Vientiane",
+            "region": "24",
+            "country": "LA",
+            "latitude": "17.96667",
+            "longitude": "102.6"
+        },
+        {
+            "city": "Xam Nua",
+            "region": "03",
+            "country": "LA",
+            "latitude": "20.41972",
+            "longitude": "104.04389"
+        },
+        {
+            "city": "Savannakh\u00e9t",
+            "region": "20",
+            "country": "LA",
+            "latitude": "16.55",
+            "longitude": "104.75"
+        },
+        {
+            "city": "Salavan",
+            "region": "19",
+            "country": "LA",
+            "latitude": "15.71667",
+            "longitude": "106.41667"
+        },
+        {
+            "city": "Phou Pial\u00f4ng",
+            "region": "18",
+            "country": "LA",
+            "latitude": "21.41889",
+            "longitude": "102.18278"
+        },
+        {
+            "city": "Ph\u00f4ngsali",
+            "region": "18",
+            "country": "LA",
+            "latitude": "21.68333",
+            "longitude": "102.10583"
+        },
+        {
+            "city": "Pakx\u00e9",
+            "region": "02",
+            "country": "LA",
+            "latitude": "15.11667",
+            "longitude": "105.78333"
+        },
+        {
+            "city": "Pakkading",
+            "region": "23",
+            "country": "LA",
+            "latitude": "18.32357",
+            "longitude": "103.99329"
+        },
+        {
+            "city": "Muang Xai",
+            "region": "07",
+            "country": "LA",
+            "latitude": "20.7",
+            "longitude": "101.98333"
+        },
+        {
+            "city": "Xaignabouli",
+            "region": "13",
+            "country": "LA",
+            "latitude": "19.25",
+            "longitude": "101.75"
+        },
+        {
+            "city": "Muang Vangviang",
+            "region": "27",
+            "country": "LA",
+            "latitude": "18.93333",
+            "longitude": "102.45"
+        },
+        {
+            "city": "That\u00e8ng",
+            "region": "26",
+            "country": "LA",
+            "latitude": "15.43333",
+            "longitude": "106.38333"
+        },
+        {
+            "city": "Soukkouma",
+            "region": "02",
+            "country": "LA",
+            "latitude": "14.63333",
+            "longitude": "105.8"
+        },
+        {
+            "city": "Muang Sanakham",
+            "region": "27",
+            "country": "LA",
+            "latitude": "17.90217",
+            "longitude": "101.65444"
+        },
+        {
+            "city": "Ph\u00f4nthong",
+            "region": "02",
+            "country": "LA",
+            "latitude": "15.08333",
+            "longitude": "105.65"
+        },
+        {
+            "city": "Muang Ph\u00f4nsavan",
+            "region": "14",
+            "country": "LA",
+            "latitude": "19.45",
+            "longitude": "103.21667"
+        },
+        {
+            "city": "Muang Ph\u00f4n-H\u00f4ng",
+            "region": "27",
+            "country": "LA",
+            "latitude": "18.49278",
+            "longitude": "102.41722"
+        },
+        {
+            "city": "Pakxong",
+            "region": "02",
+            "country": "LA",
+            "latitude": "15.18333",
+            "longitude": "106.23333"
+        },
+        {
+            "city": "Muang Pakxan",
+            "region": "23",
+            "country": "LA",
+            "latitude": "18.37778",
+            "longitude": "103.66007"
+        },
+        {
+            "city": "Muang Long",
+            "region": "16",
+            "country": "LA",
+            "latitude": "20.95",
+            "longitude": "100.8"
+        },
+        {
+            "city": "Muang La",
+            "region": "07",
+            "country": "LA",
+            "latitude": "20.86667",
+            "longitude": "102.11667"
+        },
+        {
+            "city": "Kh\u00f4ng",
+            "region": "02",
+            "country": "LA",
+            "latitude": "14.11667",
+            "longitude": "105.85"
+        },
+        {
+            "city": "Thakh\u00e8k",
+            "region": "15",
+            "country": "LA",
+            "latitude": "17.41027",
+            "longitude": "104.83068"
+        },
+        {
+            "city": "Muang K\u00e8nthao",
+            "region": "13",
+            "country": "LA",
+            "latitude": "17.73389",
+            "longitude": "101.39778"
+        },
+        {
+            "city": "Muang Hinboun",
+            "region": "15",
+            "country": "LA",
+            "latitude": "17.591",
+            "longitude": "104.60388"
+        },
+        {
+            "city": "Mounlapam\u00f4k",
+            "region": "02",
+            "country": "LA",
+            "latitude": "14.33333",
+            "longitude": "105.86667"
+        },
+        {
+            "city": "Louangphrabang",
+            "region": "17",
+            "country": "LA",
+            "latitude": "19.88556",
+            "longitude": "102.13472"
+        },
+        {
+            "city": "Louang Namtha",
+            "region": "16",
+            "country": "LA",
+            "latitude": "20.94972",
+            "longitude": "101.40111"
+        },
+        {
+            "city": "Champasak",
+            "region": "02",
+            "country": "LA",
+            "latitude": "14.88333",
+            "longitude": "105.86667"
+        },
+        {
+            "city": "Bolikhan",
+            "region": "23",
+            "country": "LA",
+            "latitude": "18.55973",
+            "longitude": "103.72385"
+        },
+        {
+            "city": "Lamam",
+            "region": "26",
+            "country": "LA",
+            "latitude": "15.41667",
+            "longitude": "106.7"
+        },
+        {
+            "city": "Ban Nahin",
+            "region": "23",
+            "country": "LA",
+            "latitude": "18.24175",
+            "longitude": "104.21221"
+        },
+        {
+            "city": "Ban Houayxay",
+            "region": "22",
+            "country": "LA",
+            "latitude": "20.2775",
+            "longitude": "100.41278"
+        },
+        {
+            "city": "Attapu",
+            "region": "01",
+            "country": "LA",
+            "latitude": "14.8",
+            "longitude": "106.83333"
+        },
+        {
+            "city": "Ban Houakhoua",
+            "region": "00",
+            "country": "LA",
+            "latitude": "20.24528",
+            "longitude": "100.45472"
+        },
+        {
+            "city": "Ban Ph\u00f4nsavan",
+            "region": "14",
+            "country": "LA",
+            "latitude": "19.45907",
+            "longitude": "103.17999"
+        },
+        {
+            "city": "Muang Nal\u00e8",
+            "region": "16",
+            "country": "LA",
+            "latitude": "20.53361",
+            "longitude": "101.44556"
+        },
+        {
+            "city": "Dak Cheung",
+            "region": "26",
+            "country": "LA",
+            "latitude": "15.46667",
+            "longitude": "107.26667"
+        },
+        {
+            "city": "Sanaxy",
+            "region": "01",
+            "country": "LA",
+            "latitude": "15.02207",
+            "longitude": "107.26016"
+        },
+        {
+            "city": "Huameung",
+            "region": "03",
+            "country": "LA",
+            "latitude": "20.14895",
+            "longitude": "103.85895"
+        },
+        {
+            "city": "Viengxay",
+            "region": "03",
+            "country": "LA",
+            "latitude": "20.34222",
+            "longitude": "104.34464"
+        },
+        {
+            "city": "Xamtay",
+            "region": "03",
+            "country": "LA",
+            "latitude": "19.94515",
+            "longitude": "104.51722"
+        },
+        {
+            "city": "Viengthong",
+            "region": "03",
+            "country": "LA",
+            "latitude": "20.32792",
+            "longitude": "103.40856"
+        }
+    ]
+}
